@@ -39,7 +39,7 @@ is the local `packs/` folder; v0.4.0 puts downloads behind the same interface (#
 
 ## How a unit plays
 
-`Board.svelte` draws a unit's `layout` as a table or a grid, and each cell carries
+`Board.svelte` draws a unit's `layout` as a table, a grid or a list of sentences, and each cell carries
 `data-cell-id`. It knows nothing about what a cell shows; three screens fill that
 in through a snippet:
 
@@ -63,8 +63,8 @@ Overview keeps it and a reload starts fresh.
 once by `progressRepository.ts`, keyed by pack, item and skill. Only `recognise` is
 written so far. A round covers the whole unit, and Review reads the saved due dates.
 
-**Difficulty.** `difficulty.ts` sets the hand size from the share of the unit known
-when the round starts: 10, 6, 3, then 1 slips.
+**The hand.** `difficulty.ts` holds its size: ten slips, however well the unit is known,
+because new material is what moves a learner forward. A `dealAll` unit offers them all.
 
 ## What keeps it honest
 

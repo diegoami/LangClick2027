@@ -1,4 +1,15 @@
 {
+	"sections": {
+		"sounds": {
+			"title": "Sounds"
+		},
+		"grammar": {
+			"title": "Grammar"
+		},
+		"themes": {
+			"title": "Themes"
+		}
+	},
 	"lessons": {
 		"l01": {
 			"title": "Lesson 1: The alphabet and its sounds"
@@ -6,14 +17,14 @@
 		"l09": {
 			"title": "Lesson 9: My family"
 		},
-		"l14": {
-			"title": "Lesson 14: My home"
-		},
 		"l02": {
 			"title": "Lesson 2: Pronouncing the vowels"
 		},
 		"l03": {
 			"title": "Lesson 3: Pronouncing the consonants"
+		},
+		"g03": {
+			"title": "Noun cases"
 		}
 	},
 	"concepts": {

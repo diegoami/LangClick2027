@@ -6,7 +6,7 @@
 // pack's scripts, the letters it must never contain, the marks that are shown but
 // never compared, and the layers of explanation it offers.
 
-export const FORMAT_VERSION = 2;
+export const FORMAT_VERSION = 3;
 
 /** How many independent checks every piece of content needs. */
 export const REQUIRED_CHECKS = 2;
@@ -31,6 +31,8 @@ export interface StudyLink extends Source {
 
 export interface Lesson {
 	id: string;
+	/** One of the manifest's `sections`. */
+	section: string;
 	/** Unit ids, in teaching order. */
 	units: string[];
 	study: StudyLink[];
@@ -52,6 +54,8 @@ export interface PackManifest {
 	explanations: string[];
 	/** Overlays offered, each named <compare with>-<explain in>. */
 	overlays: string[];
+	/** The groups lessons are shown under, in order. */
+	sections: string[];
 	/** In teaching order. */
 	lessons: Lesson[];
 	/** Letters of a neighbouring language that must never appear in this one. */
@@ -64,7 +68,12 @@ export type BoardLayout =
 	/** `gaps` lists crossings with no cell, as "row/col": an IPA chart has them. */
 	| { type: 'table'; rows: string[]; columns: string[]; gaps?: string[] }
 	/** Tiles in the order given. `size` is how many there must be. */
-	| { type: 'grid'; size: number };
+	| { type: 'grid'; size: number }
+	/** One wide row per cell, each a `sentence` with a gap. */
+	| { type: 'sentences'; size: number };
+
+/** Marks where the answer goes in a cell's `sentence`. */
+export const GAP = '___';
 
 export interface Cognate {
 	form: string;
@@ -84,6 +93,8 @@ export interface Cell {
 	ipa?: string;
 	/** A clue that needs no translation, such as a sound in IPA. */
 	clue?: string;
+	/** The sentence the answer completes, with one `GAP`. */
+	sentence?: string;
 	/** A word illustrating the answer, shown only with it. */
 	example?: string;
 	/** Related forms, by language. */
@@ -119,6 +130,8 @@ export interface FalseFriend {
 
 export interface CellText {
 	clue?: string;
+	/** What the cell's `sentence` means. Not needed in the pack's own language. */
+	sentenceGloss?: string;
 	note?: string;
 	/** The meaning of the cell's `example`. */
 	exampleGloss?: string;
@@ -143,6 +156,7 @@ export interface Concept {
 
 /** A layer's texts for the course as a whole. */
 export interface CourseText {
+	sections?: Record<string, { title: string }>;
 	lessons?: Record<string, { title: string }>;
 	concepts?: Record<string, Concept>;
 }
@@ -164,7 +178,9 @@ export interface Header {
 }
 
 export type LocalLayout =
-	{ type: 'table'; rows: Header[]; columns: Header[] } | { type: 'grid'; size: number };
+	| { type: 'table'; rows: Header[]; columns: Header[] }
+	| { type: 'grid'; size: number }
+	| { type: 'sentences'; size: number };
 
 export interface LocalCell extends Cell, CellText {
 	conceptDetails: (Concept & { id: string })[];
@@ -202,6 +218,7 @@ export function offeredFor(
 
 export function mergeCourse(base: CourseText, overlay: CourseText | undefined): CourseText {
 	return {
+		sections: { ...base.sections, ...overlay?.sections },
 		lessons: { ...base.lessons, ...overlay?.lessons },
 		concepts: { ...base.concepts, ...overlay?.concepts }
 	};
@@ -247,6 +264,12 @@ export function localizeUnit(
 /** The answer as shown: `display` if the cell has one, else `text`. */
 export function shownText(cell: Pick<Cell, 'text' | 'display'>): string {
 	return cell.display ?? cell.text;
+}
+
+/** A cell's sentence, as the words before and after its gap. */
+export function sentenceParts(sentence: string): [string, string] {
+	const at = sentence.indexOf(GAP);
+	return at < 0 ? [sentence, ''] : [sentence.slice(0, at), sentence.slice(at + GAP.length)];
 }
 
 /** What a slip shows and a cell compares in this unit. */
@@ -344,6 +367,34 @@ function validateCell(
 	}
 }
 
+function validateSentences(unit: Unit, pack: PackManifest, issues: PackIssue[]): void {
+	const where = `${pack.id}/${unit.id}`;
+	const seen = new Map<string, string>();
+	for (const cell of unit.cells) {
+		const sentence = cell.sentence;
+		if (!present(sentence) || sentence.split(GAP).length !== 2) {
+			issues.push({ where, problem: `cell ${cell.id} needs a sentence with one gap` });
+			continue;
+		}
+		// Two equal sentences with different answers could not be answered fairly.
+		const earlier = seen.get(sentence);
+		if (earlier !== undefined && earlier !== cell.text) {
+			issues.push({
+				where,
+				problem: `sentence "${sentence}" fits both ${earlier} and ${cell.text}`
+			});
+		}
+		seen.set(sentence, cell.text);
+		const bare = removeMarks(sentence, pack.displayMarks).toLowerCase();
+		if (bare.split(/[^\p{L}\p{M}'ʼ]+/u).includes(cell.text.toLowerCase())) {
+			issues.push({ where, problem: `sentence "${sentence}" gives away the answer` });
+		}
+		for (const letter of forbiddenIn([sentence], pack)) {
+			issues.push({ where, problem: `cell ${cell.id} contains the forbidden letter ${letter}` });
+		}
+	}
+}
+
 function validateLayout(unit: Unit, pack: PackManifest, issues: PackIssue[]): void {
 	const where = `${pack.id}/${unit.id}`;
 	const layout = unit.layout;
@@ -370,10 +421,11 @@ function validateLayout(unit: Unit, pack: PackManifest, issues: PackIssue[]): vo
 				}
 			}
 		}
-	} else if (layout?.type === 'grid') {
+	} else if (layout?.type === 'grid' || layout?.type === 'sentences') {
 		if (unit.cells.length !== layout.size) {
 			issues.push({ where, problem: `${unit.cells.length} cells, expected ${layout.size}` });
 		}
+		if (layout.type === 'sentences') validateSentences(unit, pack, issues);
 	} else {
 		issues.push({ where, problem: 'has no known layout' });
 	}
@@ -405,6 +457,9 @@ function validateManifest(pack: PackManifest, issues: PackIssue[]): void {
 		}
 	}
 	for (const lesson of pack.lessons ?? []) {
+		if (!pack.sections?.includes(lesson.section)) {
+			report(`lesson ${lesson.id} is in unknown section ${lesson.section}`);
+		}
 		for (const link of lesson.study ?? []) {
 			if (!present(link.title) || !webAddress(link.url)) {
 				report(`lesson ${lesson.id}: study link "${link.title}" has no title or web address`);
@@ -428,16 +483,20 @@ function validateCellText(
 	if (text.exampleGloss !== undefined && cell.example === undefined) {
 		report('has an example gloss but the cell has no example');
 	}
+	if (text.sentenceGloss !== undefined && cell.sentence === undefined) {
+		report('has a sentence gloss but the cell has no sentence');
+	}
 	// A translation may equal the answer, as with a cognate. Only a clue in the pack's
 	// own language gives anything away by containing it.
-	const clue = text.clue;
 	const ownLanguage = layerName === pack.language;
-	if (
-		ownLanguage &&
-		clue &&
-		removeMarks(clue, pack.displayMarks).toLowerCase().includes(cell.text.toLowerCase())
-	) {
-		report(`clue "${clue}" gives away the answer`);
+	for (const clue of [text.clue, text.sentenceGloss]) {
+		if (
+			ownLanguage &&
+			clue &&
+			removeMarks(clue, pack.displayMarks).toLowerCase().includes(cell.text.toLowerCase())
+		) {
+			report(`clue "${clue}" gives away the answer`);
+		}
 	}
 	if (text.falseFriend) {
 		const { kind, form, means } = text.falseFriend;
@@ -479,6 +538,11 @@ function validateLayer(
 	}
 
 	if (isBase) {
+		for (const section of pack.sections ?? []) {
+			if (!present(layer.course.sections?.[section]?.title)) {
+				issues.push({ where: prefix, problem: `section ${section} has no title` });
+			}
+		}
 		for (const lesson of pack.lessons ?? []) {
 			if (!present(layer.course.lessons?.[lesson.id]?.title)) {
 				issues.push({ where: prefix, problem: `lesson ${lesson.id} has no title` });
@@ -515,6 +579,14 @@ function validateLayer(
 		for (const cell of unit.cells ?? []) {
 			const cellText = text?.cells?.[cell.id] ?? {};
 			validateCellText(cellText, cell, name, `${where}/${cell.id}`, pack, issues);
+			if (
+				isBase &&
+				unit.layout?.type === 'sentences' &&
+				name !== pack.language &&
+				!present(cellText.sentenceGloss)
+			) {
+				issues.push({ where, problem: `sentence ${cell.id} has no gloss` });
+			}
 			if (!isBase || unit.layout?.type !== 'grid') continue;
 			const clue = cellText.clue ?? cell.clue;
 			if (!present(clue)) {
@@ -640,14 +712,30 @@ export function checkTargets(units: readonly Unit[], layers: Layers): CheckTarge
 	const targets: CheckTarget[] = [];
 	for (const unit of units) {
 		for (const cell of unit.cells) {
-			const { item, text, display, ipa, clue, example, cognates, concepts, row, col } = cell;
+			const { item, text, display, ipa, clue, sentence, example, cognates, concepts, row, col } =
+				cell;
 			targets.push({
 				key: `core/${unit.id}/${cell.id}`,
-				seen: seenOf({ item, text, display, ipa, clue, example, cognates, concepts, row, col })
+				seen: seenOf({
+					item,
+					text,
+					display,
+					ipa,
+					clue,
+					sentence,
+					example,
+					cognates,
+					concepts,
+					row,
+					col
+				})
 			});
 		}
 	}
 	for (const [name, layer] of Object.entries(layers)) {
+		for (const [id, section] of Object.entries(layer.course.sections ?? {})) {
+			targets.push({ key: `${name}/section/${id}`, seen: seenOf(section.title) });
+		}
 		for (const [id, lesson] of Object.entries(layer.course.lessons ?? {})) {
 			targets.push({ key: `${name}/lesson/${id}`, seen: seenOf(lesson.title) });
 		}

@@ -221,6 +221,70 @@ describe('QuizView', () => {
 	});
 });
 
+describe('a unit of sentences', () => {
+	const sentences = localizeUnit(
+		{
+			id: 'sentences',
+			sources: [],
+			dealAll: true,
+			layout: { type: 'sentences', size: 2 },
+			cells: [
+				{
+					id: 'a',
+					item: 's:a',
+					text: 'кімнату',
+					display: 'кімна\u0301ту',
+					sentence: 'Я бачу цю ___.'
+				},
+				{
+					id: 'b',
+					item: 's:b',
+					text: 'кімнат',
+					display: 'кімна\u0301т',
+					sentence: "Тут п'ять ___."
+				}
+			]
+		},
+		{
+			title: 'Sentences',
+			summary: '',
+			cells: { a: { sentenceGloss: 'I see this room.' }, b: { sentenceGloss: 'Five rooms here.' } }
+		},
+		undefined,
+		{}
+	);
+
+	it('shows the sentence with a gap, then with the answer in it', async () => {
+		forgetRound(manifest.id, sentences.id);
+		render(QuizView, { pack: manifest, unit: sentences });
+		expect(cellEl('a').textContent).toContain('Я бачу цю');
+		expect(cellEl('a').textContent).toContain('I see this room.');
+		expect(cellEl('a').textContent).not.toContain('кімна');
+
+		await place('кімнату', 'a');
+		expect(cellEl('a').classList.contains('correct')).toBe(true);
+		expect(cellEl('a').textContent).toContain('Я бачу цю кімна\u0301ту.');
+	});
+});
+
+describe('the hand', () => {
+	it('stays at ten when the unit is known', async () => {
+		const known = localizeUnit(
+			{ ...(kimnata as unknown as Unit), dealAll: false },
+			kimnataText as UnitText,
+			undefined,
+			{}
+		);
+		forgetRound(manifest.id, known.id);
+		for (let i = 0; i < 6; i++) {
+			for (const cell of known.cells) await recordAnswer(manifest.id, cell, 'good');
+		}
+		render(QuizView, { pack: manifest, unit: known });
+		const dealt = slips().reduce((sum, slip) => sum + Number(slip.dataset.count ?? 1), 0);
+		expect(dealt).toBe(10);
+	});
+});
+
 describe('a unit where the marks are the answer', () => {
 	const stressed = localizeUnit(
 		{

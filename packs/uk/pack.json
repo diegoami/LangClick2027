@@ -3,14 +3,15 @@
 	"language": "uk",
 	"scripts": ["Cyrl"],
 	"licence": "CC-BY-SA-4.0",
-	"formatVersion": 2,
-	"version": "0.2.0",
+	"formatVersion": 3,
+	"version": "0.3.0",
 	"comparisons": ["pl", "ru"],
 	"explanations": ["en", "ru", "pl", "uk"],
 	"overlays": ["ru-ru", "ru-en", "ru-uk", "pl-pl", "pl-en", "pl-uk"],
 	"lessons": [
 		{
 			"id": "l01",
+			"section": "sounds",
 			"units": ["alphabet", "letter-names", "ru-letters", "pl-letters"],
 			"study": [
 				{
@@ -48,6 +49,7 @@
 		},
 		{
 			"id": "l02",
+			"section": "sounds",
 			"units": ["vowel-chart", "i-or-y", "unstressed-o", "stress-pairs"],
 			"study": [
 				{
@@ -74,6 +76,7 @@
 		},
 		{
 			"id": "l03",
+			"section": "sounds",
 			"units": ["consonant-chart", "h-or-g", "final-voiced", "hard-labials"],
 			"study": [
 				{
@@ -99,7 +102,20 @@
 			]
 		},
 		{
+			"id": "g03",
+			"section": "grammar",
+			"units": ["kimnata", "kimnata-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 14: Мій дім",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				}
+			]
+		},
+		{
 			"id": "l09",
+			"section": "themes",
 			"units": ["family"],
 			"study": [
 				{
@@ -108,19 +124,9 @@
 					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
 				}
 			]
-		},
-		{
-			"id": "l14",
-			"units": ["kimnata"],
-			"study": [
-				{
-					"kind": "video",
-					"title": "Є-мова, урок 14: Мій дім",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
-				}
-			]
 		}
 	],
 	"forbiddenLetters": "ёъыэ",
-	"displayMarks": "́"
+	"displayMarks": "́",
+	"sections": ["sounds", "grammar", "themes"]
 }

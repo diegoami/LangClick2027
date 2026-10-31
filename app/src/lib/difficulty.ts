@@ -1,48 +1,20 @@
-// How hard a unit plays, from how well it is known. Copied from Geoclick2027
-// (9b449cc), with its map vocabulary changed.
-//
-// The tray holds a *hand*: a few slips at a time, refilled as they are placed.
-// Laying out every slip would let the last few be worked out by elimination, and
-// a unit you know well would play exactly like the first time. The better the
-// unit is known, the smaller the hand, until each slip has to be placed on its
-// own merits.
+// The tray holds a *hand*: a few slips at a time, refilled as they are placed. Copied
+// from Geoclick2027 (9b449cc), with its map vocabulary changed, but the hand stays the
+// same size: a unit doesn't need to get harder, since new material is what moves a learner
+// forward (#13). It is there so that a long unit doesn't crowd the tray.
 //
 // Pure: no DOM, no storage, no Svelte. QuizView owns when to draw.
 
 import { KNOWN_CLEAN_STREAK } from '@langclick/srs';
 
-/** 0 = new unit, 3 = known unit. */
-export type Level = 0 | 1 | 2 | 3;
-
-/** The share of a unit's items that must be known to reach each level. */
-export const LEVEL_SHARES = [0, 0.25, 0.6, 0.85] as const;
-
-/** How many slips the tray offers at each level. Geoclick's curve, whose maps
- * average 34 targets; its fit to smaller units is what v0.1.0's play-through is
- * there to find out. */
-export const HAND_SIZES = [10, 6, 3, 1] as const;
+/** How many slips the tray offers, unless the unit deals them all. */
+export const HAND_SIZE = 10;
 
 export { KNOWN_CLEAN_STREAK };
 
 /** How many of these earned levels count as known. */
 export function knownCount(levels: readonly number[]): number {
 	return levels.filter((level) => level >= KNOWN_CLEAN_STREAK).length;
-}
-
-/** The unit's level, from one earned level per cell. An empty unit is level 0. */
-export function unitLevel(levels: readonly number[]): Level {
-	if (levels.length === 0) return 0;
-	const share = knownCount(levels) / levels.length;
-	let level: Level = 0;
-	for (let i = 1; i < LEVEL_SHARES.length; i++) {
-		if (share >= LEVEL_SHARES[i]) level = i as Level;
-	}
-	return level;
-}
-
-/** How many slips the tray offers at that level. */
-export function handSize(level: Level): number {
-	return HAND_SIZES[level];
 }
 
 /**

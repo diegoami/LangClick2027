@@ -1,0 +1,104 @@
+{
+	"id": "kimnata-sentences",
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 12
+	},
+	"cells": [
+		{
+			"id": "gen.sg",
+			"item": "sentence:kimnata:gen.sg",
+			"text": "кімнати",
+			"display": "кімна́ти",
+			"sentence": "У мене́ нема́є окре́мої ___."
+		},
+		{
+			"id": "dat.sg",
+			"item": "sentence:kimnata:dat.sg",
+			"text": "кімнаті",
+			"display": "кімна́ті",
+			"sentence": "Завдяки́ цій ___ у нас бі́льше мі́сця."
+		},
+		{
+			"id": "acc.sg",
+			"item": "sentence:kimnata:acc.sg",
+			"text": "кімнату",
+			"display": "кімна́ту",
+			"sentence": "Я прибира́ю цю ___."
+		},
+		{
+			"id": "ins.sg",
+			"item": "sentence:kimnata:ins.sg",
+			"text": "кімнатою",
+			"display": "кімна́тою",
+			"sentence": "Ку́хня по́руч із ціє́ю ___."
+		},
+		{
+			"id": "loc.sg",
+			"item": "sentence:kimnata:loc.sg",
+			"text": "кімнаті",
+			"display": "кімна́ті",
+			"sentence": "У цій ___ є вікно́."
+		},
+		{
+			"id": "voc.sg",
+			"item": "sentence:kimnata:voc.sg",
+			"text": "кімнато",
+			"display": "кімна́то",
+			"sentence": "Проща́й, моя́ ___!"
+		},
+		{
+			"id": "nom.pl",
+			"item": "sentence:kimnata:nom.pl",
+			"text": "кімнати",
+			"display": "кімна́ти",
+			"sentence": "Ці ___ вели́кі."
+		},
+		{
+			"id": "gen.pl",
+			"item": "sentence:kimnata:gen.pl",
+			"text": "кімнат",
+			"display": "кімна́т",
+			"sentence": "У кварти́рі п'ять ___."
+		},
+		{
+			"id": "dat.pl",
+			"item": "sentence:kimnata:dat.pl",
+			"text": "кімнатам",
+			"display": "кімна́там",
+			"sentence": "Завдяки́ цим ___ у нас бі́льше мі́сця."
+		},
+		{
+			"id": "acc.pl",
+			"item": "sentence:kimnata:acc.pl",
+			"text": "кімнати",
+			"display": "кімна́ти",
+			"sentence": "Я прибира́ю ці ___."
+		},
+		{
+			"id": "ins.pl",
+			"item": "sentence:kimnata:ins.pl",
+			"text": "кімнатами",
+			"display": "кімна́тами",
+			"sentence": "Ку́хня між двома́ ___."
+		},
+		{
+			"id": "loc.pl",
+			"item": "sentence:kimnata:loc.pl",
+			"text": "кімнатах",
+			"display": "кімна́тах",
+			"sentence": "У цих ___ ти́хо."
+		}
+	],
+	"sources": [
+		{
+			"title": "кімната (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/кімната"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

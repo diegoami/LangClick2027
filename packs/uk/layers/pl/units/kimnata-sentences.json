@@ -1,0 +1,54 @@
+{
+	"title": "кімната w zdaniach",
+	"summary": "Te same formy w użyciu. Przeczytaj zdanie i wybierz formę do luki: słowa wokół niej wskazują przypadek i liczbę.",
+	"cells": {
+		"gen.sg": {
+			"sentenceGloss": "Nie mam osobnego pokoju.",
+			"note": "Dopełniacz l. poj.: немає łączy się z dopełniaczem."
+		},
+		"dat.sg": {
+			"sentenceGloss": "Dzięki temu pokojowi mamy więcej miejsca.",
+			"note": "Celownik l. poj., po завдяки."
+		},
+		"acc.sg": {
+			"sentenceGloss": "Sprzątam ten pokój.",
+			"note": "Biernik l. poj.: dopełnienie bliższe."
+		},
+		"ins.sg": {
+			"sentenceGloss": "Kuchnia jest obok tego pokoju.",
+			"note": "Narzędnik l. poj., po поруч із."
+		},
+		"loc.sg": {
+			"sentenceGloss": "W tym pokoju jest okno.",
+			"note": "Miejscownik l. poj., po у przy określeniu miejsca."
+		},
+		"voc.sg": {
+			"sentenceGloss": "Żegnaj, mój pokoju!",
+			"note": "Wołacz l. poj.: zwrot do pokoju."
+		},
+		"nom.pl": {
+			"sentenceGloss": "Te pokoje są duże.",
+			"note": "Mianownik l. mn.: podmiot."
+		},
+		"gen.pl": {
+			"sentenceGloss": "W mieszkaniu jest pięć pokoi.",
+			"note": "Dopełniacz l. mn., po п'ять."
+		},
+		"dat.pl": {
+			"sentenceGloss": "Dzięki tym pokojom mamy więcej miejsca.",
+			"note": "Celownik l. mn., po завдяки."
+		},
+		"acc.pl": {
+			"sentenceGloss": "Sprzątam te pokoje.",
+			"note": "Biernik l. mn.: dopełnienie bliższe; dla rzeczy równy mianownikowi."
+		},
+		"ins.pl": {
+			"sentenceGloss": "Kuchnia jest między dwoma pokojami.",
+			"note": "Narzędnik l. mn., po між."
+		},
+		"loc.pl": {
+			"sentenceGloss": "W tych pokojach jest cicho.",
+			"note": "Miejscownik l. mn., po у przy określeniu miejsca."
+		}
+	}
+}

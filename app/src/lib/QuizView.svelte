@@ -23,9 +23,9 @@
 	import Board from './Board.svelte';
 	import CellFace from './CellFace.svelte';
 	import CellNote from './CellNote.svelte';
-	import { handAfterUse, handSize, refillHand, unitLevel } from './difficulty';
+	import { HAND_SIZE, handAfterUse, refillHand } from './difficulty';
 	import { t } from './language.svelte';
-	import { recordAnswer, unitKnown, unitLevels } from './progress.svelte';
+	import { recordAnswer, unitKnown } from './progress.svelte';
 	import { forgetRound, rememberRound, roundInProgress, type RoundInProgress } from './quizRound';
 	import { aimPoint, movedPastSlop } from './touchDrag';
 
@@ -47,19 +47,15 @@
 		const session = createQuizSession(
 			asked.map((cell) => ({ id: cell.id, text: answerOf(unit, cell) }))
 		);
-		const size = unit.dealAll ? asked.length : handSize(unitLevel(unitLevels(pack.id, unit)));
+		const size = unit.dealAll ? asked.length : HAND_SIZE;
 		return { session, size, hand: refillHand(pendingIds(session), [], size) };
 	}
 
-	/** A round saved with a smaller hand still has to offer everything in such a unit. */
+	/** A round may have been saved with a smaller hand, from when the hand shrank. */
 	function resumed(round: RoundInProgress): RoundInProgress {
-		if (!unit.dealAll) return round;
 		const pending = pendingIds(round.session);
-		return {
-			...round,
-			size: pending.length,
-			hand: refillHand(pending, round.hand, pending.length)
-		};
+		const size = unit.dealAll ? pending.length : HAND_SIZE;
+		return { ...round, size, hand: refillHand(pending, round.hand, size) };
 	}
 
 	// A review is one sitting, and isn't a round to come back to.

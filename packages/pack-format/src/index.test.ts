@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest';
 import {
 	answerOf,
 	checkTargets,
+	sentenceParts,
 	layerNames,
 	localizeUnit,
 	offeredFor,
@@ -23,12 +24,13 @@ const pack: PackManifest = {
 	language: 'uk',
 	scripts: ['Cyrl'],
 	licence: 'CC-BY-SA-4.0',
-	formatVersion: 2,
+	formatVersion: 3,
 	version: '1.0.0',
 	comparisons: ['ru', 'pl'],
 	explanations: ['en'],
 	overlays: ['ru-en'],
-	lessons: [{ id: 'l1', units: ['table', 'grid'], study: [] }],
+	sections: ['main'],
+	lessons: [{ id: 'l1', section: 'main', units: ['table', 'grid'], study: [] }],
 	forbiddenLetters: 'ёъыэ',
 	displayMarks: STRESS
 };
@@ -63,6 +65,7 @@ const grid: Unit = {
 
 const baseLayer = (): Layer => ({
 	course: {
+		sections: { main: { title: 'Main' } },
 		lessons: { l1: { title: 'Lesson one' } },
 		concepts: { c1: { title: 'A concept', body: 'What it means.' } }
 	},
@@ -96,6 +99,90 @@ function withCell(unit: Unit, id: string, change: Partial<Cell>): Unit {
 	};
 }
 
+describe('validatePack: sentences', () => {
+	const cell = (id: string, text: string, sentence?: string): Cell => ({
+		id,
+		item: `s:${id}`,
+		text,
+		sentence
+	});
+	const unit = (cells: Cell[]): Unit => ({
+		id: 'grid',
+		sources: [{ title: 'A source', url: 'https://example.org/' }],
+		layout: { type: 'sentences', size: cells.length },
+		cells
+	});
+	const glossed = (ids: string[]) => {
+		const set = layers();
+		delete set['ru-en'].units.grid;
+		set.en.units.grid = {
+			title: 'Sentences',
+			summary: 'In use.',
+			cells: Object.fromEntries(ids.map((id) => [id, { sentenceGloss: 'A meaning.' }]))
+		};
+		return set;
+	};
+
+	it('passes a good one', () => {
+		const good = unit([
+			cell('a', 'кімнату', 'Я бачу цю ___.'),
+			cell('b', 'кімнати', 'Ці ___ тут.')
+		]);
+		expect(problems([table, good], pack, glossed(['a', 'b']))).toEqual([]);
+	});
+
+	it.each([
+		['no sentence', undefined],
+		['no gap', 'Я бачу кімнату.'],
+		['two gaps', '___ бачу ___.']
+	])('fails %s', (_what, sentence) => {
+		expect(
+			problems([table, unit([cell('a', 'кімнату', sentence)])], pack, glossed(['a']))
+		).toContain('cell a needs a sentence with one gap');
+	});
+
+	it('fails a sentence that contains its answer', () => {
+		const bad = unit([cell('a', 'кімнату', 'Цю кімна\u0301ту ___ бачу.')]);
+		expect(problems([table, bad], pack, glossed(['a']))).toContain(
+			'sentence "Цю кімна\u0301ту ___ бачу." gives away the answer'
+		);
+	});
+
+	it('leaves a longer word that only starts with the answer', () => {
+		const good = unit([cell('a', 'кімнат', "Я бачу кімнату і ще п'ять ___.")]);
+		expect(problems([table, good], pack, glossed(['a']))).toEqual([]);
+	});
+
+	it('fails one sentence with two answers', () => {
+		const bad = unit([cell('a', 'кімнату', 'Я бачу ___.'), cell('b', 'кімнати', 'Я бачу ___.')]);
+		expect(problems([table, bad], pack, glossed(['a', 'b']))).toContain(
+			'sentence "Я бачу ___." fits both кімнату and кімнати'
+		);
+	});
+
+	it('fails a forbidden letter in a sentence', () => {
+		const bad = unit([cell('a', 'кімнату', 'Мы бачу ___.')]);
+		expect(problems([table, bad], pack, glossed(['a']))).toContain(
+			'cell a contains the forbidden letter ы'
+		);
+	});
+
+	it("needs a gloss in a language other than the pack's own", () => {
+		const good = unit([cell('a', 'кімнату', 'Я бачу цю ___.')]);
+		expect(problems([table, good], pack, glossed([]))).toContain('sentence a has no gloss');
+	});
+});
+
+describe('sentenceParts', () => {
+	it('splits around the gap', () => {
+		expect(sentenceParts('Я бачу ___!')).toEqual(['Я бачу ', '!']);
+	});
+
+	it('keeps a sentence without a gap whole', () => {
+		expect(sentenceParts('Я бачу')).toEqual(['Я бачу', '']);
+	});
+});
+
 describe('validatePack: the pack', () => {
 	it('passes a good pack', () => {
 		expect(validatePack(pack, [table, grid], layers())).toEqual([]);
@@ -110,17 +197,28 @@ describe('validatePack: the pack', () => {
 		expect(problems([table, grid, stray])).toContain('unit stray is not in any lesson');
 	});
 
+	it('fails a lesson in an unknown section', () => {
+		const bad = { ...pack, lessons: [{ ...pack.lessons[0], section: 'other' }] };
+		expect(problems([table, grid], bad)).toContain('lesson l1 is in unknown section other');
+	});
+
+	it('fails a section with no title', () => {
+		const set = layers();
+		delete set.en.course.sections?.main;
+		expect(problems([table, grid], pack, set)).toContain('section main has no title');
+	});
+
 	it('fails a unit in two lessons', () => {
 		const twice = {
 			...pack,
-			lessons: [...pack.lessons, { id: 'l2', units: ['grid'], study: [] }]
+			lessons: [...pack.lessons, { id: 'l2', section: 'main', units: ['grid'], study: [] }]
 		};
 		expect(problems([table, grid], twice)).toContain('a unit is listed in more than one lesson');
 	});
 
 	it('fails a wrong format version or version', () => {
 		expect(problems([table, grid], { ...pack, formatVersion: 1 })).toContain(
-			'format version 1, expected 2'
+			'format version 1, expected 3'
 		);
 		expect(problems([table, grid], { ...pack, version: 'one' })).toContain(
 			'version "one" is not X.Y.Z'
@@ -147,6 +245,7 @@ describe('validatePack: the pack', () => {
 				{
 					id: 'l1',
 					units: ['table', 'grid'],
+					section: 'main',
 					study: [{ kind: 'video' as const, title: 'A video', url }]
 				}
 			]
@@ -160,6 +259,7 @@ describe('validatePack: the pack', () => {
 			lessons: [
 				{
 					id: 'l1',
+					section: 'main',
 					units: ['table', 'grid'],
 					study: [{ kind: 'podcast' as 'video', title: 'A', url: 'https://example.org/' }]
 				}
@@ -556,6 +656,14 @@ describe('content checks', () => {
 		const entry = flagged.entries.find((e) => e.key === 'core/grid/x');
 		if (entry) entry.verdict = verdict;
 		expect(validateChecks(targets, [passing('one'), flagged]).map((i) => i.where)).toEqual([
+			'core/grid/x'
+		]);
+	});
+
+	it('voids the check when a sentence is edited', () => {
+		const checks = [passing('one'), passing('two')];
+		const edited = [table, withCell(grid, 'x', { sentence: 'Новий ___.' })];
+		expect(validateChecks(checkTargets(edited, layers()), checks).map((i) => i.where)).toEqual([
 			'core/grid/x'
 		]);
 	});
