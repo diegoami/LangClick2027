@@ -1,11 +1,74 @@
 {
 	"id": "uk",
-	"name": "Ukrainian",
 	"language": "uk",
 	"scripts": ["Cyrl"],
-	"glossLanguage": "en",
 	"licence": "CC-BY-SA-4.0",
-	"units": ["alphabet", "kimnata", "family"],
+	"formatVersion": 2,
+	"version": "0.2.0",
+	"comparisons": ["pl", "ru"],
+	"explanations": ["en", "ru", "pl", "uk"],
+	"overlays": ["ru-ru", "ru-en", "ru-uk", "pl-pl", "pl-en", "pl-uk"],
+	"lessons": [
+		{
+			"id": "l01",
+			"units": ["alphabet"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 1: Алфавіт. Відмінності звуків",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@250dcc9af051432a93707e64acec3ea2"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 1: завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@4f21d6212b7e4084b8c92a5f2bad8137"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 1: тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@843834c8f897498e94cd71536cde6408"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 1: додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@261e6f9ea36d4a378c8c3d8b410879f5"
+				},
+				{
+					"kind": "reading",
+					"title": "Ukraiński (Wikibooks)",
+					"url": "https://pl.wikibooks.org/wiki/Ukrai%C5%84ski",
+					"compareWith": ["pl"]
+				},
+				{
+					"kind": "reading",
+					"title": "Ukrainian, Journal of the IPA (2017)",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				}
+			]
+		},
+		{
+			"id": "l09",
+			"units": ["family"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 9: Моя сім'я",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				}
+			]
+		},
+		{
+			"id": "l14",
+			"units": ["kimnata"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 14: Мій дім",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				}
+			]
+		}
+	],
 	"forbiddenLetters": "ёъыэ",
 	"displayMarks": "́"
 }

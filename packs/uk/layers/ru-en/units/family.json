@@ -1,0 +1,24 @@
+{
+	"cells": {
+		"cholovik": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "человек",
+				"means": "means any person, in Ukrainian людина; чоловік means a man or husband"
+			}
+		},
+		"rodyna": {
+			"falseFriend": {
+				"kind": "homograph",
+				"form": "родина",
+				"means": "means homeland; Ukrainian родина means family"
+			}
+		},
+		"dochka": {
+			"contrast": "The stress differs: Ukrainian дочка́, Russian до́чка."
+		},
+		"druh": {
+			"contrast": "The final sound stays voiced: not [druk], as in Russian."
+		}
+	}
+}

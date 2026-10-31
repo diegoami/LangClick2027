@@ -1,471 +1,2293 @@
 {
 	"checker": "claude-sonnet-5-5",
-	"date": "2026-10-31",
-	"items": [
+	"entries": [
 		{
-			"item": "noun:kimnata:nom.sg",
-			"display": "кімна́та",
+			"key": "core/alphabet/a",
+			"seen": "{\"text\":\"А а\",\"clue\":\"/a/\",\"example\":\"авто́бус\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:nom.pl",
-			"display": "кімна́ти",
-			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural.",
+			"key": "core/alphabet/b",
+			"seen": "{\"text\":\"Б б\",\"clue\":\"/b/\",\"example\":\"брат\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:gen.sg",
-			"display": "кімна́ти",
-			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural.",
+			"key": "core/alphabet/v",
+			"seen": "{\"text\":\"В в\",\"clue\":\"/ʋ/\",\"example\":\"вода́\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:gen.pl",
-			"display": "кімна́т",
+			"key": "core/alphabet/h",
+			"seen": "{\"text\":\"Г г\",\"clue\":\"/ɦ/\",\"example\":\"голова́\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:dat.sg",
-			"display": "кімна́ті",
-			"note": "Same form as the locative singular.",
+			"key": "core/alphabet/g",
+			"seen": "{\"text\":\"Ґ ґ\",\"clue\":\"/ɡ/\",\"example\":\"ґа́нок\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:dat.pl",
-			"display": "кімна́там",
+			"key": "core/alphabet/d",
+			"seen": "{\"text\":\"Д д\",\"clue\":\"/d/\",\"example\":\"дім\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:acc.sg",
-			"display": "кімна́ту",
+			"key": "core/alphabet/e",
+			"seen": "{\"text\":\"Е е\",\"clue\":\"/ɛ/\",\"example\":\"екра́н\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:acc.pl",
-			"display": "кімна́ти",
-			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural.",
+			"key": "core/alphabet/ye",
+			"seen": "{\"text\":\"Є є\",\"clue\":\"/jɛ/\",\"example\":\"Євро́па\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:ins.sg",
-			"display": "кімна́тою",
+			"key": "core/alphabet/zh",
+			"seen": "{\"text\":\"Ж ж\",\"clue\":\"/ʒ/\",\"example\":\"жі́нка\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:ins.pl",
-			"display": "кімна́тами",
+			"key": "core/alphabet/z",
+			"seen": "{\"text\":\"З з\",\"clue\":\"/z/\",\"example\":\"зима́\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:loc.sg",
-			"display": "кімна́ті",
-			"note": "Same form as the dative singular.",
+			"key": "core/alphabet/y",
+			"seen": "{\"text\":\"И и\",\"clue\":\"/ɪ/\",\"example\":\"ри́ба\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:loc.pl",
-			"display": "кімна́тах",
+			"key": "core/alphabet/i",
+			"seen": "{\"text\":\"І і\",\"clue\":\"/i/\",\"example\":\"і́грашка\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:voc.sg",
-			"display": "кімна́то",
+			"key": "core/alphabet/yi",
+			"seen": "{\"text\":\"Ї ї\",\"clue\":\"/ji/\",\"example\":\"ї́жа\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "noun:kimnata:voc.pl",
-			"display": "кімна́ти",
-			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural.",
+			"key": "core/alphabet/j",
+			"seen": "{\"text\":\"Й й\",\"clue\":\"/j/\",\"example\":\"йо́гурт\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "word:lyudyna",
-			"display": "люди́на",
-			"clue": "person",
+			"key": "core/alphabet/k",
+			"seen": "{\"text\":\"К к\",\"clue\":\"/k/\",\"example\":\"кіт\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "word:cholovik",
-			"display": "чолові́к",
-			"clue": "man, husband",
+			"key": "core/alphabet/l",
+			"seen": "{\"text\":\"Л л\",\"clue\":\"/l/\",\"example\":\"ла́мпа\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "word:zhinka",
-			"display": "жі́нка",
-			"clue": "woman, wife",
+			"key": "core/alphabet/m",
+			"seen": "{\"text\":\"М м\",\"clue\":\"/m/\",\"example\":\"ма́ма\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "word:khlopets",
-			"display": "хло́пець",
-			"clue": "boy",
+			"key": "core/alphabet/n",
+			"seen": "{\"text\":\"Н н\",\"clue\":\"/n/\",\"example\":\"ніч\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "word:divchyna",
-			"display": "ді́вчина",
-			"clue": "girl",
+			"key": "core/alphabet/o",
+			"seen": "{\"text\":\"О о\",\"clue\":\"/ɔ/\",\"example\":\"о́ко\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/p",
+			"seen": "{\"text\":\"П п\",\"clue\":\"/p/\",\"example\":\"пес\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/r",
+			"seen": "{\"text\":\"Р р\",\"clue\":\"/r/\",\"example\":\"рука́\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/s",
+			"seen": "{\"text\":\"С с\",\"clue\":\"/s/\",\"example\":\"со́нце\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/t",
+			"seen": "{\"text\":\"Т т\",\"clue\":\"/t/\",\"example\":\"та́то\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/u",
+			"seen": "{\"text\":\"У у\",\"clue\":\"/u/\",\"example\":\"у́чень\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/f",
+			"seen": "{\"text\":\"Ф ф\",\"clue\":\"/f/\",\"example\":\"фо́то\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/kh",
+			"seen": "{\"text\":\"Х х\",\"clue\":\"/x/\",\"example\":\"хліб\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/ts",
+			"seen": "{\"text\":\"Ц ц\",\"clue\":\"/t͡s/\",\"example\":\"цу́кор\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/ch",
+			"seen": "{\"text\":\"Ч ч\",\"clue\":\"/t͡ʃ/\",\"example\":\"час\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/sh",
+			"seen": "{\"text\":\"Ш ш\",\"clue\":\"/ʃ/\",\"example\":\"шко́ла\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/shch",
+			"seen": "{\"text\":\"Щ щ\",\"clue\":\"/ʃt͡ʃ/\",\"example\":\"що\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/soft",
+			"seen": "{\"text\":\"Ь ь\",\"clue\":\"◌ʲ\",\"example\":\"день\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/yu",
+			"seen": "{\"text\":\"Ю ю\",\"clue\":\"/ju/\",\"example\":\"юна́к\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/alphabet/ya",
+			"seen": "{\"text\":\"Я я\",\"clue\":\"/ja/\",\"example\":\"я́блуко\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/lyudyna",
+			"seen": "{\"text\":\"людина\",\"display\":\"люди́на\",\"ipa\":\"/lʲuˈdɪna/\",\"cognates\":{\"ru\":{\"form\":\"люди\",\"ipa\":\"/ˈlʲudʲɪ/\"},\"pl\":{\"form\":\"ludzie\",\"ipa\":\"/ˈlud͡ʑɛ/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/cholovik",
+			"seen": "{\"text\":\"чоловік\",\"display\":\"чолові́к\",\"ipa\":\"/t͡ʃɔlɔˈʋik/\",\"cognates\":{\"ru\":{\"form\":\"человек\",\"ipa\":\"/t͡ɕɪlɐˈvʲek/\"},\"pl\":{\"form\":\"człowiek\",\"ipa\":\"/ˈt͡ʂwɔvjɛk/\"}}}",
 			"verdict": "ok",
-			"comment": "Wiktionary lists both ді́вчина and дівчи́на as valid stress; the displayed ді́вчина is acceptable. СУМ (slovnyk.ua) shows no stress mark so it could not be cross-checked there."
+			"comment": "Facts correct; ru человек IPA agrees with en.wiktionary ([t͡ɕɪɫɐˈvʲek], with dark l)."
 		},
 		{
-			"item": "word:dytyna",
-			"display": "дити́на",
-			"clue": "child",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:mama",
-			"display": "ма́ма",
-			"clue": "mum",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:tato",
-			"display": "та́то",
-			"clue": "dad",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:maty",
-			"display": "ма́ти",
-			"clue": "mother",
-			"note": "Related to the English word mother.",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:batko",
-			"display": "ба́тько",
-			"clue": "father",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:syn",
-			"display": "син",
-			"clue": "son",
-			"note": "Related to the English word son.",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:dochka",
-			"display": "дочка́",
-			"clue": "daughter",
-			"note": "Related to the English word daughter.",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:brat",
-			"display": "брат",
-			"clue": "brother",
-			"note": "Related to the English word brother.",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:sestra",
-			"display": "сестра́",
-			"clue": "sister",
-			"note": "Related to the English word sister.",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:babusya",
-			"display": "бабу́ся",
-			"clue": "grandmother",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:didus",
-			"display": "діду́сь",
-			"clue": "grandfather",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:onuk",
-			"display": "ону́к",
-			"clue": "grandson",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:dyadko",
-			"display": "дя́дько",
-			"clue": "uncle",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:titka",
-			"display": "ті́тка",
-			"clue": "aunt",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:rodyna",
-			"display": "роди́на",
-			"clue": "family",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:batky",
-			"display": "батьки́",
-			"clue": "parents",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:druh",
-			"display": "друг",
-			"clue": "friend (male)",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:podruha",
-			"display": "по́друга",
-			"clue": "friend (female)",
-			"verdict": "ok"
-		},
-		{
-			"item": "word:onuka",
-			"display": "ону́ка",
-			"clue": "granddaughter",
+			"key": "core/family/zhinka",
+			"seen": "{\"text\":\"жінка\",\"display\":\"жі́нка\",\"ipa\":\"/ˈʒinka/\",\"cognates\":{\"ru\":{\"form\":\"жена\",\"ipa\":\"/ʐɨˈna/\"},\"pl\":{\"form\":\"żona\",\"ipa\":\"/ˈʐɔna/\"}}}",
 			"verdict": "ok",
-			"comment": "Wiktionary: ону́ка [oˈnukɐ], feminine personal noun, \"granddaughter\"; formed from ону́к. Stress and meaning confirmed."
+			"comment": "Cognates are real. Note for the pl and ru overlays: Polish żona means only \"wife\" (en.wiktionary; \"woman\" is obsolete) and Russian жена likewise, so жінка/żona is a partial false friend that no overlay records."
 		},
 		{
-			"item": "letter:a",
-			"display": "А а",
-			"clue": "/a/, as in father",
-			"note": "авто́бус: bus",
+			"key": "core/family/khlopets",
+			"seen": "{\"text\":\"хлопець\",\"display\":\"хло́пець\",\"ipa\":\"/ˈxlɔpɛt͡sʲ/\",\"cognates\":{\"pl\":{\"form\":\"chłopiec\",\"ipa\":\"/ˈxwɔpjɛt͡s/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/divchyna",
+			"seen": "{\"text\":\"дівчина\",\"display\":\"ді́вчина\",\"ipa\":\"/ˈdʲiʋt͡ʃɪna/\",\"cognates\":{\"ru\":{\"form\":\"девушка\",\"ipa\":\"/ˈdʲevʊʂkə/\"},\"pl\":{\"form\":\"dziewczyna\",\"ipa\":\"/d͡ʑɛfˈt͡ʂɨna/\"}}}",
 			"verdict": "ok",
-			"comment": "Symbol follows the IPA illustration (/a/); Vakulenko 2025 gives [ɑ] when stressed and [ɐ] when unstressed (as in авто́бус). English 'father' (back [ɑ]) fits the stressed sound; the difference is small for a learner."
+			"comment": "Palatalized д before і: JIPA vowel table gives дім as dʲim, and dentals contrast palatalized/plain. Consistent with the other edited entries."
 		},
 		{
-			"item": "letter:b",
-			"display": "Б б",
-			"clue": "/b/, as in bed",
-			"note": "брат: brother",
+			"key": "core/family/dytyna",
+			"seen": "{\"text\":\"дитина\",\"display\":\"дити́на\",\"ipa\":\"/dɪˈtɪna/\",\"cognates\":{\"ru\":{\"form\":\"дитя\",\"ipa\":\"/dʲɪˈtʲa/\"},\"pl\":{\"form\":\"dziecko\",\"ipa\":\"/ˈd͡ʑɛt͡skɔ/\"}}}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:h",
-			"display": "Г г",
-			"clue": "/ɦ/, voiced, unlike English h",
-			"note": "голова́: head. A voiced fricative, partner of х. Phoneticians describe it differently: /ɦ/ in the published IPA illustration, [ʕ] or [ɣ] in Vakulenko 2025. English h is closer to х. The sound of g has its own letter, ґ.",
+			"key": "core/family/mama",
+			"seen": "{\"text\":\"мама\",\"display\":\"ма́ма\",\"ipa\":\"/ˈmama/\",\"cognates\":{\"ru\":{\"form\":\"мама\",\"ipa\":\"/ˈmamə/\"},\"pl\":{\"form\":\"mama\",\"ipa\":\"/ˈmama/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/tato",
+			"seen": "{\"text\":\"тато\",\"display\":\"та́то\",\"ipa\":\"/ˈtatɔ/\",\"cognates\":{\"pl\":{\"form\":\"tata\",\"ipa\":\"/ˈtata/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/maty",
+			"seen": "{\"text\":\"мати\",\"display\":\"ма́ти\",\"ipa\":\"/ˈmatɪ/\",\"cognates\":{\"ru\":{\"form\":\"мать\",\"ipa\":\"/matʲ/\"},\"pl\":{\"form\":\"matka\",\"ipa\":\"/ˈmatka/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/batko",
+			"seen": "{\"text\":\"батько\",\"display\":\"ба́тько\",\"ipa\":\"/ˈbatʲkɔ/\",\"cognates\":{\"ru\":{\"form\":\"батя\",\"ipa\":\"/ˈbatʲə/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/syn",
+			"seen": "{\"text\":\"син\",\"ipa\":\"/sɪn/\",\"cognates\":{\"ru\":{\"form\":\"сын\",\"ipa\":\"/sɨn/\"},\"pl\":{\"form\":\"syn\",\"ipa\":\"/sɨn/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/dochka",
+			"seen": "{\"text\":\"дочка\",\"display\":\"дочка́\",\"ipa\":\"/dɔt͡ʃˈka/\",\"cognates\":{\"ru\":{\"form\":\"дочка\",\"ipa\":\"/ˈdot͡ɕkə/\"},\"pl\":{\"form\":\"córka\",\"ipa\":\"/ˈt͡surka/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/brat",
+			"seen": "{\"text\":\"брат\",\"ipa\":\"/brat/\",\"cognates\":{\"ru\":{\"form\":\"брат\",\"ipa\":\"/brat/\"},\"pl\":{\"form\":\"brat\",\"ipa\":\"/brat/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/sestra",
+			"seen": "{\"text\":\"сестра\",\"display\":\"сестра́\",\"ipa\":\"/sɛˈstra/\",\"cognates\":{\"ru\":{\"form\":\"сестра\",\"ipa\":\"/sʲɪˈstra/\"},\"pl\":{\"form\":\"siostra\",\"ipa\":\"/ˈɕɔstra/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/babusya",
+			"seen": "{\"text\":\"бабуся\",\"display\":\"бабу́ся\",\"ipa\":\"/baˈbusʲa/\",\"cognates\":{\"ru\":{\"form\":\"бабушка\",\"ipa\":\"/ˈbabʊʂkə/\"},\"pl\":{\"form\":\"babcia\",\"ipa\":\"/ˈbapt͡ɕa/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/didus",
+			"seen": "{\"text\":\"дідусь\",\"display\":\"діду́сь\",\"ipa\":\"/dʲiˈdusʲ/\",\"cognates\":{\"ru\":{\"form\":\"дедушка\",\"ipa\":\"/ˈdʲedʊʂkə/\"},\"pl\":{\"form\":\"dziadek\",\"ipa\":\"/ˈd͡ʑadɛk/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/onuk",
+			"seen": "{\"text\":\"онук\",\"display\":\"ону́к\",\"ipa\":\"/ɔˈnuk/\",\"cognates\":{\"ru\":{\"form\":\"внук\",\"ipa\":\"/vnuk/\"},\"pl\":{\"form\":\"wnuk\",\"ipa\":\"/vnuk/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/onuka",
+			"seen": "{\"text\":\"онука\",\"display\":\"ону́ка\",\"ipa\":\"/ɔˈnuka/\",\"cognates\":{\"ru\":{\"form\":\"внучка\",\"ipa\":\"/ˈvnut͡ɕkə/\"},\"pl\":{\"form\":\"wnuczka\",\"ipa\":\"/ˈvnut͡ʂka/\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/dyadko",
+			"seen": "{\"text\":\"дядько\",\"display\":\"дя́дько\",\"ipa\":\"/ˈdʲadʲkɔ/\",\"cognates\":{\"ru\":{\"form\":\"дядя\",\"ipa\":\"/ˈdʲadʲə/\"}}}",
 			"verdict": "ok",
-			"comment": "Checked against both papers. /ɦ/ is the IPA illustration's symbol; Vakulenko 2025 gives [ʕ] before vowels and [ɣ] before voiced consonants and word-finally, and says [ɦ] lacks experimental support. The note states this disagreement openly, and Vakulenko 2025 also supports 'English h is closer to х' (he finds English/German [h] close to [x]). The clue 'unlike English h' is the right warning."
+			"comment": "pl clue wujek is accepted: en.wiktionary lists both mother's brother and father's brother (stryj) senses."
 		},
 		{
-			"item": "letter:g",
-			"display": "Ґ ґ",
-			"clue": "/ɡ/, as in go",
-			"note": "ґа́нок: porch. A rare letter, but easy to confuse with г.",
+			"key": "core/family/titka",
+			"seen": "{\"text\":\"тітка\",\"display\":\"ті́тка\",\"ipa\":\"/ˈtʲitka/\",\"cognates\":{\"ru\":{\"form\":\"тётка\",\"ipa\":\"/ˈtʲotkə/\"},\"pl\":{\"form\":\"ciotka\",\"ipa\":\"/ˈt͡ɕɔtka/\"}}}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:d",
-			"display": "Д д",
-			"clue": "/d/, as in dog",
-			"note": "дім: house",
+			"key": "core/family/rodyna",
+			"seen": "{\"text\":\"родина\",\"display\":\"роди́на\",\"ipa\":\"/rɔˈdɪna/\",\"cognates\":{\"ru\":{\"form\":\"родина\",\"ipa\":\"/ˈrodʲɪnə/\"},\"pl\":{\"form\":\"rodzina\",\"ipa\":\"/rɔˈd͡ʑina/\"}}}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:e",
-			"display": "Е е",
-			"clue": "/ɛ/, as in pet",
-			"note": "екра́н: screen",
+			"key": "core/family/batky",
+			"seen": "{\"text\":\"батьки\",\"display\":\"батьки́\",\"ipa\":\"/batʲˈkɪ/\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:ye",
-			"display": "Є є",
-			"clue": "/jɛ/, as in yes",
-			"note": "Євро́па: Europe",
+			"key": "core/family/druh",
+			"seen": "{\"text\":\"друг\",\"ipa\":\"/druɦ/\",\"cognates\":{\"ru\":{\"form\":\"друг\",\"ipa\":\"/druk/\"},\"pl\":{\"form\":\"druh\",\"ipa\":\"/drux/\"}}}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:zh",
-			"display": "Ж ж",
-			"clue": "/ʒ/, like s in pleasure",
-			"note": "жі́нка: woman",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:z",
-			"display": "З з",
-			"clue": "/z/, as in zoo",
-			"note": "зима́: winter",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:i",
-			"display": "І і",
-			"clue": "/i/, like ee in see",
-			"note": "і́грашка: toy",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:yi",
-			"display": "Ї ї",
-			"clue": "/ji/, as in yeast",
-			"note": "ї́жа: food",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:j",
-			"display": "Й й",
-			"clue": "/j/, as in boy",
-			"note": "йо́гурт: yogurt",
+			"key": "core/family/podruha",
+			"seen": "{\"text\":\"подруга\",\"display\":\"по́друга\",\"ipa\":\"/ˈpɔdruɦa/\",\"cognates\":{\"ru\":{\"form\":\"подруга\",\"ipa\":\"/pɐˈdruɡə/\"}}}",
 			"verdict": "ok",
-			"comment": "The 'boy' comparison suits й in syllable-final position, where the IPA illustration says it is the glide [i̯]. In the example йо́гурт the й is word-initial before о, where it is the consonant /j/ as in 'yes'; the IPA symbol /j/ in the clue covers both."
+			"comment": "Stress по́друга follows Hrinchenko 1909, Holoskevych 1929 and en.wiktionary uk (по́друга, IPA [ˈpɔdrʊɦɐ]); older Ukrainian dictionaries and Russian have подру́га, so a learner may meet both. Not an error."
 		},
 		{
-			"item": "letter:k",
-			"display": "К к",
-			"clue": "/k/, unaspirated, as in skin",
-			"note": "кіт: cat",
+			"key": "core/kimnata/nom.sg",
+			"seen": "{\"text\":\"кімната\",\"display\":\"кімна́та\",\"ipa\":\"/kimˈnata/\",\"cognates\":{\"ru\":{\"form\":\"комната\",\"ipa\":\"/ˈkomnətə/\"},\"pl\":{\"form\":\"komnata\",\"ipa\":\"/kɔmˈnata/\"}},\"row\":\"nom\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:m",
-			"display": "М м",
-			"clue": "/m/, as in map",
-			"note": "ма́ма: mum",
+			"key": "core/kimnata/nom.pl",
+			"seen": "{\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"row\":\"nom\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:n",
-			"display": "Н н",
-			"clue": "/n/, as in net",
-			"note": "ніч: night",
+			"key": "core/kimnata/gen.sg",
+			"seen": "{\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"row\":\"gen\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:p",
-			"display": "П п",
-			"clue": "/p/, unaspirated, as in spin",
-			"note": "пес: dog",
+			"key": "core/kimnata/gen.pl",
+			"seen": "{\"text\":\"кімнат\",\"display\":\"кімна́т\",\"ipa\":\"/kimˈnat/\",\"row\":\"gen\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:r",
-			"display": "Р р",
-			"clue": "/r/, trilled",
-			"note": "рука́: hand",
+			"key": "core/kimnata/dat.sg",
+			"seen": "{\"text\":\"кімнаті\",\"display\":\"кімна́ті\",\"ipa\":\"/kimˈnatʲi/\",\"row\":\"dat\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:s",
-			"display": "С с",
-			"clue": "/s/, as in sun",
-			"note": "со́нце: sun",
+			"key": "core/kimnata/dat.pl",
+			"seen": "{\"text\":\"кімнатам\",\"display\":\"кімна́там\",\"ipa\":\"/kimˈnatam/\",\"row\":\"dat\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:t",
-			"display": "Т т",
-			"clue": "/t/, unaspirated, as in stop",
-			"note": "та́то: dad",
+			"key": "core/kimnata/acc.sg",
+			"seen": "{\"text\":\"кімнату\",\"display\":\"кімна́ту\",\"ipa\":\"/kimˈnatu/\",\"row\":\"acc\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:u",
-			"display": "У у",
-			"clue": "/u/, like oo in moon",
-			"note": "у́чень: pupil",
+			"key": "core/kimnata/acc.pl",
+			"seen": "{\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"row\":\"acc\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:f",
-			"display": "Ф ф",
-			"clue": "/f/, as in fan",
-			"note": "фо́то: photo",
+			"key": "core/kimnata/ins.sg",
+			"seen": "{\"text\":\"кімнатою\",\"display\":\"кімна́тою\",\"ipa\":\"/kimˈnatɔju/\",\"row\":\"ins\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:kh",
-			"display": "Х х",
-			"clue": "/x/, as in loch",
-			"note": "хліб: bread",
+			"key": "core/kimnata/ins.pl",
+			"seen": "{\"text\":\"кімнатами\",\"display\":\"кімна́тами\",\"ipa\":\"/kimˈnatamɪ/\",\"row\":\"ins\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:ts",
-			"display": "Ц ц",
-			"clue": "/t͡s/, as in cats",
-			"note": "цу́кор: sugar",
+			"key": "core/kimnata/loc.sg",
+			"seen": "{\"text\":\"кімнаті\",\"display\":\"кімна́ті\",\"ipa\":\"/kimˈnatʲi/\",\"row\":\"loc\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:ch",
-			"display": "Ч ч",
-			"clue": "/t͡ʃ/, as in chin",
-			"note": "час: time",
+			"key": "core/kimnata/loc.pl",
+			"seen": "{\"text\":\"кімнатах\",\"display\":\"кімна́тах\",\"ipa\":\"/kimˈnatax/\",\"row\":\"loc\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:sh",
-			"display": "Ш ш",
-			"clue": "/ʃ/, as in shop",
-			"note": "шко́ла: school",
+			"key": "core/kimnata/voc.sg",
+			"seen": "{\"text\":\"кімнато\",\"display\":\"кімна́то\",\"ipa\":\"/kimˈnatɔ/\",\"row\":\"voc\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:shch",
-			"display": "Щ щ",
-			"clue": "/ʃt͡ʃ/, as in fresh cheese",
-			"note": "що: what",
+			"key": "core/kimnata/voc.pl",
+			"seen": "{\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"row\":\"voc\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:soft",
-			"display": "Ь ь",
-			"clue": "soft sign, marks the consonant before it as soft",
-			"note": "день: day. It has no sound of its own.",
+			"key": "en/lesson/l01",
+			"seen": "\"Lesson 1: The alphabet and its sounds\"",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:yu",
-			"display": "Ю ю",
-			"clue": "/ju/, as in you",
-			"note": "юна́к: young man",
+			"key": "en/lesson/l09",
+			"seen": "\"Lesson 9: My family\"",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:ya",
-			"display": "Я я",
-			"clue": "/ja/, as in yard",
-			"note": "я́блуко: apple",
+			"key": "en/lesson/l14",
+			"seen": "\"Lesson 14: My home\"",
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:l",
-			"display": "Л л",
-			"clue": "/l/, usually dark [ɫ], as in full",
-			"note": "ла́мпа: lamp, with the hard [ɫ]. Before і it is soft: лі́то (summer) has [lʲ].",
+			"key": "en/concept/h-sound",
+			"seen": "{\"title\":\"The sound of г\",\"body\":\"A voiced fricative, the voiced partner of х. Phoneticians describe it differently: /ɦ/, glottal, in the published IPA illustration (Pompino-Marschall et al. 2017); [ʕ] before а, о, у, и, е, [ɣʲ] when softened, and [ɣ] before voiced consonants and at the end of a word in Vakulenko 2025, who finds no convincing evidence for glottal [ɦ]. Both agree that it is voiced, which English h is not: Vakulenko finds English h closer to х. The plosive /ɡ/ has its own letter, ґ.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/v-allophones",
+			"seen": "{\"title\":\"The variants of в\",\"body\":\"One phoneme, /ʋ/, with variants by position: labiodental [ʋ] before front vowels, nearer [w] before rounded back vowels, and [u̯] at the end of a syllable, as in був (was, masculine). It does not turn into f. Vakulenko 2025 disputes the label [w], since the lips barely protrude, and writes [β̞].\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/y-vowel",
+			"seen": "{\"title\":\"The vowel и\",\"body\":\"Written /ɪ/ here, following the IPA illustration: retracted and lowered compared with і, with a hard consonant before it. Close to the Russian vowel [ɨ], but not the same sound. Vakulenko 2025 transcribes it as a lowered, advanced [ɨ] instead. Without stress it comes close to е.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/o-unreduced",
+			"seen": "{\"title\":\"о without stress\",\"body\":\"Written /ɔ/ here, following the IPA illustration. Unlike in Russian, it does not reduce towards a without stress: вода́ is never вада́. It can still shift slightly, towards [o] before a stressed /u/. Vakulenko 2025 describes the vowel as close-mid [o] rather than /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/shared-forms",
+			"seen": "{\"title\":\"One form, several cells\",\"body\":\"Case endings overlap, so one form can fill several cells: кімнати is genitive singular and nominative, accusative and vocative plural, and кімнаті is both dative and locative singular. On this board either slip is right in any of its cells.\",\"sources\":[{\"title\":\"кімната (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/кімната\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet",
+			"seen": "{\"title\":\"The alphabet\",\"summary\":\"All 33 letters, in order. Each tile gives the sound in IPA; find its letter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/a",
+			"seen": "{\"exampleGloss\":\"bus\",\"note\":\"Nearest English: a in father.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/b",
+			"seen": "{\"exampleGloss\":\"brother\",\"note\":\"Nearest English: b in bed.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/v",
+			"seen": "{\"exampleGloss\":\"water\",\"note\":\"Between English v and w.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/h",
+			"seen": "{\"exampleGloss\":\"head\",\"note\":\"Voiced, unlike English h.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/g",
+			"seen": "{\"exampleGloss\":\"porch\",\"note\":\"Nearest English: g in go.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/d",
+			"seen": "{\"exampleGloss\":\"house\",\"note\":\"Nearest English: d in dog.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/e",
+			"seen": "{\"exampleGloss\":\"screen\",\"note\":\"Nearest English: e in pet.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/ye",
+			"seen": "{\"exampleGloss\":\"Europe\",\"note\":\"Nearest English: ye in yes.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/zh",
+			"seen": "{\"exampleGloss\":\"woman\",\"note\":\"Nearest English: s in pleasure.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/z",
+			"seen": "{\"exampleGloss\":\"winter\",\"note\":\"Nearest English: z in zoo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/y",
+			"seen": "{\"exampleGloss\":\"fish\",\"note\":\"Nearest English: i in bit.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/i",
+			"seen": "{\"exampleGloss\":\"toy\",\"note\":\"Nearest English: ee in see.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/yi",
+			"seen": "{\"exampleGloss\":\"food\",\"note\":\"Nearest English: yea in yeast.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/j",
+			"seen": "{\"exampleGloss\":\"yogurt\",\"note\":\"Nearest English: y in boy.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/k",
+			"seen": "{\"exampleGloss\":\"cat\",\"note\":\"Unaspirated, as in skin.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/l",
+			"seen": "{\"exampleGloss\":\"lamp\",\"note\":\"Usually dark [ɫ], as in full. Before і it is soft: лі́то (summer) has [lʲ].\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/m",
+			"seen": "{\"exampleGloss\":\"mum\",\"note\":\"Nearest English: m in map.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/n",
+			"seen": "{\"exampleGloss\":\"night\",\"note\":\"Nearest English: n in net.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/o",
+			"seen": "{\"exampleGloss\":\"eye\",\"note\":\"Nearest English: o in port.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/p",
+			"seen": "{\"exampleGloss\":\"dog\",\"note\":\"Unaspirated, as in spin.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/r",
+			"seen": "{\"exampleGloss\":\"hand, arm\",\"note\":\"Trilled.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/s",
+			"seen": "{\"exampleGloss\":\"sun\",\"note\":\"Nearest English: s in sun.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/t",
+			"seen": "{\"exampleGloss\":\"dad\",\"note\":\"Unaspirated, as in stop.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/u",
+			"seen": "{\"exampleGloss\":\"pupil\",\"note\":\"Nearest English: oo in moon.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/f",
+			"seen": "{\"exampleGloss\":\"photo\",\"note\":\"Nearest English: f in fan.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/kh",
+			"seen": "{\"exampleGloss\":\"bread\",\"note\":\"Nearest English: ch in loch.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/ts",
+			"seen": "{\"exampleGloss\":\"sugar\",\"note\":\"Nearest English: ts in cats.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/ch",
+			"seen": "{\"exampleGloss\":\"time\",\"note\":\"Nearest English: ch in chin.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/sh",
+			"seen": "{\"exampleGloss\":\"school\",\"note\":\"Nearest English: sh in shop.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/shch",
+			"seen": "{\"exampleGloss\":\"what\",\"note\":\"Two sounds, as in fresh cheese.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/soft",
+			"seen": "{\"exampleGloss\":\"day\",\"note\":\"It has no sound of its own: it marks the consonant before it as soft.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/yu",
+			"seen": "{\"exampleGloss\":\"young man\",\"note\":\"Nearest English: you.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/alphabet/ya",
+			"seen": "{\"exampleGloss\":\"apple\",\"note\":\"Nearest English: ya in yard.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family",
+			"seen": "{\"title\":\"People and family\",\"summary\":\"24 everyday words for people. Each tile gives the meaning; find the word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/lyudyna",
+			"seen": "{\"clue\":\"person\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/cholovik",
+			"seen": "{\"clue\":\"man, husband\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/zhinka",
+			"seen": "{\"clue\":\"woman, wife\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/khlopets",
+			"seen": "{\"clue\":\"boy\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/divchyna",
+			"seen": "{\"clue\":\"girl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/dytyna",
+			"seen": "{\"clue\":\"child\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/mama",
+			"seen": "{\"clue\":\"mum\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/tato",
+			"seen": "{\"clue\":\"dad\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/maty",
+			"seen": "{\"clue\":\"mother\",\"note\":\"Related to English mother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/batko",
+			"seen": "{\"clue\":\"father\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/syn",
+			"seen": "{\"clue\":\"son\",\"note\":\"Related to English son.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/dochka",
+			"seen": "{\"clue\":\"daughter\",\"note\":\"Related to English daughter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/brat",
+			"seen": "{\"clue\":\"brother\",\"note\":\"Related to English brother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/sestra",
+			"seen": "{\"clue\":\"sister\",\"note\":\"Related to English sister.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/babusya",
+			"seen": "{\"clue\":\"grandmother\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/didus",
+			"seen": "{\"clue\":\"grandfather\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/onuk",
+			"seen": "{\"clue\":\"grandson\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/onuka",
+			"seen": "{\"clue\":\"granddaughter\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/dyadko",
+			"seen": "{\"clue\":\"uncle\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/titka",
+			"seen": "{\"clue\":\"aunt\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/rodyna",
+			"seen": "{\"clue\":\"family\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/batky",
+			"seen": "{\"clue\":\"parents\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/druh",
+			"seen": "{\"clue\":\"friend (male)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family/podruha",
+			"seen": "{\"clue\":\"friend (female)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata",
+			"seen": "{\"title\":\"Noun cases: кімната (room)\",\"summary\":\"One regular noun through all 7 cases, singular and plural. Some forms fill more than one cell.\",\"headers\":{\"nom\":\"Nominative\",\"gen\":\"Genitive\",\"dat\":\"Dative\",\"acc\":\"Accusative\",\"ins\":\"Instrumental\",\"loc\":\"Locative\",\"voc\":\"Vocative\",\"sg\":\"Singular\",\"pl\":\"Plural\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/l01",
+			"seen": "\"Lekcja 1: Alfabet i jego dźwięki\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/l09",
+			"seen": "\"Lekcja 9: Moja rodzina\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/l14",
+			"seen": "\"Lekcja 14: Mój dom\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/h-sound",
+			"seen": "{\"title\":\"Dźwięk г\",\"body\":\"Dźwięczna spółgłoska szczelinowa, para bezdźwięcznego х. Fonetycy opisują ją różnie: /ɦ/, krtaniowa, w opublikowanej ilustracji IPA (Pompino-Marschall et al. 2017); [ʕ] przed а, о, у, и, е, [ɣʲ] w pozycji miękkiej oraz [ɣ] przed spółgłoskami dźwięcznymi i na końcu wyrazu u Wakulenki (2025), który nie znajduje przekonujących dowodów na krtaniowe [ɦ]. Zwartą /ɡ/ oznacza osobna litera ґ.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/v-allophones",
+			"seen": "{\"title\":\"Warianty в\",\"body\":\"Jeden fonem, /ʋ/, z wariantami zależnymi od pozycji: wargowo-zębowe [ʋ] przed samogłoskami przednimi, bliżej [w] przed zaokrąglonymi samogłoskami tylnymi i [u̯] na końcu sylaby, jak w був (był). Nie przechodzi w f. Wakulenko (2025) kwestionuje oznaczenie [w], ponieważ wargi prawie się nie wysuwają, i zapisuje [β̞].\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/y-vowel",
+			"seen": "{\"title\":\"Samogłoska и\",\"body\":\"Zapisywana tu jako /ɪ/, jak w ilustracji IPA: bardziej tylna i niższa niż і, z twardą spółgłoską przed nią. Blisko polskiego y, ale to nie ten sam dźwięk. Wakulenko (2025) transkrybuje ją jako obniżone, przesunięte do przodu [ɨ]. Bez akcentu zbliża się do е.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/o-unreduced",
+			"seen": "{\"title\":\"о bez akcentu\",\"body\":\"Zapisywane tu jako /ɔ/, jak w ilustracji IPA. Bez akcentu nie redukuje się w stronę a: вода́ to nigdy вада́. Może się tylko nieznacznie przesunąć ku [o] przed akcentowanym /u/. Wakulenko (2025) opisuje tę samogłoskę jako półprzymkniętą [o], a nie /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/shared-forms",
+			"seen": "{\"title\":\"Jedna forma, kilka pól\",\"body\":\"Końcówki przypadków się pokrywają, więc jedna forma może wypełnić kilka pól: кімнати to dopełniacz liczby pojedynczej oraz mianownik, biernik i wołacz liczby mnogiej, a кімнаті to zarówno celownik, jak i miejscownik liczby pojedynczej. Na tej planszy taka kartka pasuje do każdego ze swoich pól.\",\"sources\":[{\"title\":\"кімната (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/кімната\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet",
+			"seen": "{\"title\":\"Alfabet\",\"summary\":\"Wszystkie 33 litery po kolei. Każde pole podaje dźwięk w IPA; znajdź jego literę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/a",
+			"seen": "{\"exampleGloss\":\"autobus\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/b",
+			"seen": "{\"exampleGloss\":\"brat\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/v",
+			"seen": "{\"exampleGloss\":\"woda\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/h",
+			"seen": "{\"exampleGloss\":\"głowa\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/g",
+			"seen": "{\"exampleGloss\":\"ganek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/d",
+			"seen": "{\"exampleGloss\":\"dom\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/e",
+			"seen": "{\"exampleGloss\":\"ekran\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/ye",
+			"seen": "{\"exampleGloss\":\"Europa\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/zh",
+			"seen": "{\"exampleGloss\":\"kobieta\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/z",
+			"seen": "{\"exampleGloss\":\"zima\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/y",
+			"seen": "{\"exampleGloss\":\"ryba\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/i",
+			"seen": "{\"exampleGloss\":\"zabawka\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/yi",
+			"seen": "{\"exampleGloss\":\"jedzenie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/j",
+			"seen": "{\"exampleGloss\":\"jogurt\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/k",
+			"seen": "{\"exampleGloss\":\"kot\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/l",
+			"seen": "{\"exampleGloss\":\"lampa\",\"note\":\"Zwykle twarde [ɫ]. Przed і miękkie: лі́то (lato) z [lʲ].\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/m",
+			"seen": "{\"exampleGloss\":\"mama\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/n",
+			"seen": "{\"exampleGloss\":\"noc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/o",
+			"seen": "{\"exampleGloss\":\"oko\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/p",
+			"seen": "{\"exampleGloss\":\"pies\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/r",
+			"seen": "{\"exampleGloss\":\"ręka\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/s",
+			"seen": "{\"exampleGloss\":\"słońce\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/t",
+			"seen": "{\"exampleGloss\":\"tata\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/u",
+			"seen": "{\"exampleGloss\":\"uczeń\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/f",
+			"seen": "{\"exampleGloss\":\"zdjęcie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/kh",
+			"seen": "{\"exampleGloss\":\"chleb\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/ts",
+			"seen": "{\"exampleGloss\":\"cukier\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/ch",
+			"seen": "{\"exampleGloss\":\"czas\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/sh",
+			"seen": "{\"exampleGloss\":\"szkoła\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/shch",
+			"seen": "{\"exampleGloss\":\"co\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/soft",
+			"seen": "{\"exampleGloss\":\"dzień\",\"note\":\"Nie ma własnego dźwięku: oznacza miękkość poprzedniej spółgłoski.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/yu",
+			"seen": "{\"exampleGloss\":\"młodzieniec\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/alphabet/ya",
+			"seen": "{\"exampleGloss\":\"jabłko\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family",
+			"seen": "{\"title\":\"Ludzie i rodzina\",\"summary\":\"24 codzienne słowa o ludziach. Każde pole podaje znaczenie; znajdź słowo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/lyudyna",
+			"seen": "{\"clue\":\"człowiek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/cholovik",
+			"seen": "{\"clue\":\"mężczyzna, mąż\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/zhinka",
+			"seen": "{\"clue\":\"kobieta, żona\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/khlopets",
+			"seen": "{\"clue\":\"chłopiec\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/divchyna",
+			"seen": "{\"clue\":\"dziewczyna\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/dytyna",
+			"seen": "{\"clue\":\"dziecko\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/mama",
+			"seen": "{\"clue\":\"mama\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/tato",
+			"seen": "{\"clue\":\"tata\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/maty",
+			"seen": "{\"clue\":\"matka\",\"note\":\"Spokrewnione z angielskim mother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/batko",
+			"seen": "{\"clue\":\"ojciec\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/syn",
+			"seen": "{\"clue\":\"syn\",\"note\":\"Spokrewnione z angielskim son.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/dochka",
+			"seen": "{\"clue\":\"córka\",\"note\":\"Spokrewnione z angielskim daughter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/brat",
+			"seen": "{\"clue\":\"brat\",\"note\":\"Spokrewnione z angielskim brother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/sestra",
+			"seen": "{\"clue\":\"siostra\",\"note\":\"Spokrewnione z angielskim sister.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/babusya",
+			"seen": "{\"clue\":\"babcia\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/didus",
+			"seen": "{\"clue\":\"dziadek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/onuk",
+			"seen": "{\"clue\":\"wnuk\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/onuka",
+			"seen": "{\"clue\":\"wnuczka\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/dyadko",
+			"seen": "{\"clue\":\"wujek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/titka",
+			"seen": "{\"clue\":\"ciotka\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/rodyna",
+			"seen": "{\"clue\":\"rodzina\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/batky",
+			"seen": "{\"clue\":\"rodzice\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/druh",
+			"seen": "{\"clue\":\"przyjaciel\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family/podruha",
+			"seen": "{\"clue\":\"przyjaciółka\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata",
+			"seen": "{\"title\":\"Przypadki: кімната (pokój)\",\"summary\":\"Jeden regularny rzeczownik we wszystkich 7 przypadkach, w liczbie pojedynczej i mnogiej. Niektóre formy wypełniają kilka pól.\",\"headers\":{\"nom\":\"Mianownik\",\"gen\":\"Dopełniacz\",\"dat\":\"Celownik\",\"acc\":\"Biernik\",\"ins\":\"Narzędnik\",\"loc\":\"Miejscownik\",\"voc\":\"Wołacz\",\"sg\":\"Pojedyncza\",\"pl\":\"Mnoga\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/h",
+			"seen": "{\"contrast\":\"Not Polish g, though the letter suggests it. A voiced fricative that standard Polish lacks as a separate phoneme; Polish h is the voiceless ch.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/g",
+			"seen": "{\"contrast\":\"This is Polish g.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/v",
+			"seen": "{\"contrast\":\"Corresponds to Polish w, but at the end of a syllable it sounds close to Polish ł: був like był.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/e",
+			"seen": "{\"contrast\":\"This is Polish e; a consonant before it stays hard.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/ye",
+			"seen": "{\"contrast\":\"At the start of a word it is je; after a consonant it softens it, like Polish ie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/y",
+			"seen": "{\"contrast\":\"Corresponds to Polish y, though not the same sound.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/i",
+			"seen": "{\"contrast\":\"This is Polish i.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/yi",
+			"seen": "{\"contrast\":\"Always two sounds: ji.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/l",
+			"seen": "{\"contrast\":\"Not Polish l: usually a hard, dark [ɫ]. Nor is it Polish ł, which sounds like [w].\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/kh",
+			"seen": "{\"contrast\":\"Like Polish ch or h.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/ts",
+			"seen": "{\"contrast\":\"Like Polish c. It can also be softened, [t͡sʲ], as in кінець, but that is not Polish ć.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/zh",
+			"seen": "{\"contrast\":\"Like Polish ż.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/ch",
+			"seen": "{\"contrast\":\"Like Polish cz.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/sh",
+			"seen": "{\"contrast\":\"Like Polish sz.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/shch",
+			"seen": "{\"contrast\":\"Like Polish szcz: two sounds.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/soft",
+			"seen": "{\"contrast\":\"Marks softness, but not the Polish kind: ś and ć are alveolo-palatal, while standard Ukrainian has palatalized dentals, such as [nʲ] in день.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/yu",
+			"seen": "{\"contrast\":\"At the start of a word it is ju; after a consonant it softens it, like Polish iu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/alphabet/ya",
+			"seen": "{\"contrast\":\"At the start of a word it is ja; after a consonant it softens it, like Polish ia.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/family/cholovik",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"człowiek\",\"means\":\"means any person, in Ukrainian людина; чоловік means a man or husband\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/family/druh",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"druh\",\"means\":\"today a member of the scouts or a fire brigade, and a literary word for a friend; друг is simply a friend\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/family/rodyna",
+			"seen": "{\"contrast\":\"This is Polish rodzina. The stress falls on the same syllable only by chance: in Ukrainian it has to be learned word by word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/kimnata/voc.sg",
+			"seen": "{\"contrast\":\"A vocative as in Polish: a living case. Polish komnata is a hall or chamber in a palace or castle; the ordinary word for a room is pokój.\"}",
 			"verdict": "ok",
-			"comment": "Claims checked: Wiktionary has ла́мпа [ˈɫampɐ] (stress on the first syllable; 'lamp'; initial л written ɫ, velarised/dark), so 'hard [ɫ]' is right; the IPA illustration gives plain /l/ as [ɫ]. Wiktionary has лі́то [ˈlʲitɔ], 'summer' (also dated 'year'), so 'before і it is soft [lʲ]' is right."
+			"comment": "sjp.pwn.pl: komnata = \"pokój mieszkalny lub sala reprezentacyjna w dawnych rezydencjach, pałacach i zamkach\" (no usage label). The wording is consistent with it; it names the palace/castle sense and omits \"dawnych\" (historical)."
 		},
 		{
-			"item": "letter:o",
-			"display": "О о",
-			"clue": "/ɔ/, as in port",
-			"note": "о́ко: eye. Unlike Russian, it does not reduce towards a without stress: вода́ is never вада́. It can still shift slightly, towards [o] before a stressed /u/. Vakulenko 2025 describes the vowel as close-mid [o] rather than /ɔ/.",
-			"verdict": "ok",
-			"comment": "Claims checked: no reduction to а without stress is right for Ukrainian (IPA illustration keeps unstressed [ɔ], e.g. ɔdˈnɔɦɔ); the shift towards [o] before a stressed /u/ is stated in the IPA illustration; Vakulenko 2025 describes the allophones of /о/ as close-mid [o] and says [ɔ] (as in 'boy') is not the sound. Wiktionary has о́ко 'eye' with stress on the first syllable. Vakulenko also reports unstressed о rising slightly in F1 and noticeably in F2, which 'can still shift slightly' does not contradict."
+			"key": "pl-pl/alphabet/h",
+			"seen": "{\"contrast\":\"To nie polskie g, choć litera je przypomina. Dźwięczna szczelinowa, której standardowa polszczyzna nie ma jako osobnego fonemu; polskie h to bezdźwięczne ch.\"}",
+			"verdict": "ok"
 		},
 		{
-			"item": "letter:v",
-			"display": "В в",
-			"clue": "/ʋ/, between English v and w",
-			"note": "вода́: water. It varies by position: labiodental [ʋ] before front vowels, nearer [w] before rounded back vowels, and [u̯] at the end of a syllable, as in був (was, masculine). Vakulenko 2025 disputes [w], since the lips barely protrude, and writes [β̞].",
-			"verdict": "ok",
-			"comment": "Judgement call. Claims checked: the position-dependent [ʋ]/[w]/[u̯] description matches the IPA illustration (labiodental [ʋ] before [ɪ i], [w] before rounded back vowels [u ɔ], [u̯] syllable-finally; Wiktionary has був [buu̯] and вода [wɔˈda]; був = masculine past of бути). Vakulenko 2025 does say the bilabial realisation of в was wrongly written 'w' because the lips barely protrude (F2 1100-500 Hz) and his Table 2 gives [β̞] for that variant. He still lists plain в as [ʋ], so 'writes [β̞]' is true for the bilabial variant but not his only symbol for the letter; the note is acceptable."
+			"key": "pl-pl/alphabet/g",
+			"seen": "{\"contrast\":\"To polskie g.\"}",
+			"verdict": "ok"
 		},
 		{
-			"item": "letter:y",
-			"display": "И и",
-			"clue": "/ɪ/, like i in bit",
-			"note": "ри́ба: fish. Retracted and lowered compared with і. Close to the Russian vowel [ɨ], but not the same sound. Vakulenko 2025 transcribes it as a lowered, advanced [ɨ] instead.",
+			"key": "pl-pl/alphabet/v",
+			"seen": "{\"contrast\":\"Odpowiada polskiemu w, ale na końcu sylaby brzmi blisko polskiego ł: був jak był.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/e",
+			"seen": "{\"contrast\":\"To polskie e; spółgłoska przed nim jest twarda.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/ye",
+			"seen": "{\"contrast\":\"Na początku wyrazu to je; po spółgłosce zmiękcza ją, jak polskie ie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/y",
+			"seen": "{\"contrast\":\"Odpowiada polskiemu y, choć to nie ten sam dźwięk.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/i",
+			"seen": "{\"contrast\":\"To polskie i.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/yi",
+			"seen": "{\"contrast\":\"Zawsze dwa dźwięki: ji.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/l",
+			"seen": "{\"contrast\":\"Nie polskie l: zwykle twarde, ciemne [ɫ]. Nie jest to też polskie ł, które brzmi jak [w].\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/kh",
+			"seen": "{\"contrast\":\"Jak polskie ch lub h.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/ts",
+			"seen": "{\"contrast\":\"Jak polskie c. Może być też zmiękczone, [t͡sʲ], jak w кінець, ale to nie polskie ć.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/zh",
+			"seen": "{\"contrast\":\"Jak polskie ż.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/ch",
+			"seen": "{\"contrast\":\"Jak polskie cz.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/sh",
+			"seen": "{\"contrast\":\"Jak polskie sz.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/shch",
+			"seen": "{\"contrast\":\"Jak polskie szcz: dwa dźwięki.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/soft",
+			"seen": "{\"contrast\":\"Oznacza miękkość, ale inną niż w polskim: ś, ć są środkowojęzykowe, a w standardowej ukraińszczyźnie to zmiękczone spółgłoski zębowe, jak [nʲ] w день.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/yu",
+			"seen": "{\"contrast\":\"Na początku wyrazu to ju; po spółgłosce zmiękcza ją, jak polskie iu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/alphabet/ya",
+			"seen": "{\"contrast\":\"Na początku wyrazu to ja; po spółgłosce zmiękcza ją, jak polskie ia.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/family/cholovik",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"człowiek\",\"means\":\"znaczy każdą osobę, po ukraińsku людина; чоловік to mężczyzna lub mąż\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/family/druh",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"druh\",\"means\":\"to dziś harcerz lub członek straży pożarnej, a książkowo przyjaciel; друг to po prostu przyjaciel\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/family/rodyna",
+			"seen": "{\"contrast\":\"To polskie rodzina. Akcent pada tu na tę samą sylabę tylko przypadkiem: po ukraińsku trzeba się go uczyć przy każdym słowie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/kimnata/voc.sg",
+			"seen": "{\"contrast\":\"Wołacz jak w polskim: żywy przypadek. Polskie komnata to sala w pałacu lub zamku; zwykłe pomieszczenie to pokój.\"}",
 			"verdict": "ok",
-			"comment": "Meaning unchanged by the rewording: 'the Russian vowel [ɨ]' is the vowel written ы in Russian, so the claim is the same one checked before. 'Retracted and lowered compared with і' follows the IPA illustration (Pompino-Marschall et al. 2017); Vakulenko 2025 gives a lowered, advanced ɨ-based symbol; Wiktionary has ри́ба [ˈrɪbɐ], 'fish'. 'Close to the Russian vowel [ɨ], but not the same sound' is not stated verbatim in either paper (the IPA illustration's symbol for the Russian vowel it contrasts with is garbled in the extracted text), but Vakulenko's base symbol ɨ supports 'close to' and it is a hedged, standard comparison."
+			"comment": "sjp.pwn.pl: komnata = \"pokój mieszkalny lub sala reprezentacyjna w dawnych rezydencjach, pałacach i zamkach\" (no usage label). The wording is consistent with it; it names the palace/castle sense and omits \"dawnych\" (historical)."
+		},
+		{
+			"key": "pl-uk/alphabet/h",
+			"seen": "{\"contrast\":\"Це не польське g, хоч літера його нагадує. Дзвінкий щілинний, якого стандартна польська не має як окремої фонеми; польське h — це глухе ch.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/g",
+			"seen": "{\"contrast\":\"Це польське g.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/v",
+			"seen": "{\"contrast\":\"Відповідає польському w, але в кінці складу звучить близько до польського ł: був, як był.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/e",
+			"seen": "{\"contrast\":\"Це польське e; приголосний перед ним твердий.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/ye",
+			"seen": "{\"contrast\":\"На початку слова це je; після приголосного пом'якшує його, як польське ie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/y",
+			"seen": "{\"contrast\":\"Відповідає польському y, хоч це не той самий звук.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/i",
+			"seen": "{\"contrast\":\"Це польське i.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/yi",
+			"seen": "{\"contrast\":\"Завжди два звуки: ji.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/l",
+			"seen": "{\"contrast\":\"Не польське l: зазвичай тверде, темне [ɫ]. Це й не польське ł, яке звучить як [w].\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/kh",
+			"seen": "{\"contrast\":\"Як польське ch або h.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/ts",
+			"seen": "{\"contrast\":\"Як польське c. Може бути й пом'якшеним, [t͡sʲ], як у слові кінець, але це не польське ć.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/zh",
+			"seen": "{\"contrast\":\"Як польське ż.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/ch",
+			"seen": "{\"contrast\":\"Як польське cz.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/sh",
+			"seen": "{\"contrast\":\"Як польське sz.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/shch",
+			"seen": "{\"contrast\":\"Як польське szcz: два звуки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/soft",
+			"seen": "{\"contrast\":\"Позначає м'якість, але не таку, як у польській: ś, ć — ясенно-піднебінні, а в стандартній українській це пом'якшені зубні, як [nʲ] у слові день.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/yu",
+			"seen": "{\"contrast\":\"На початку слова це ju; після приголосного пом'якшує його, як польське iu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/alphabet/ya",
+			"seen": "{\"contrast\":\"На початку слова це ja; після приголосного пом'якшує його, як польське ia.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/family/cholovik",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"człowiek\",\"means\":\"означає будь-яку особу, українською людина; чоловік — це особа чоловічої статі або той, хто одружений із жінкою\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/family/druh",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"druh\",\"means\":\"тепер член скаутської організації чи пожежної команди, а в книжному вжитку приятель; друг — це просто приятель\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/family/rodyna",
+			"seen": "{\"contrast\":\"Це польське rodzina. Наголос падає на той самий склад лише випадково: в українській його вчать у кожному слові окремо.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/kimnata/voc.sg",
+			"seen": "{\"contrast\":\"Кличний, як у польській: живий відмінок. Польське komnata — це зала в палаці чи замку; звичайна кімната — це pokój.\"}",
+			"verdict": "ok",
+			"comment": "sjp.pwn.pl: komnata = \"pokój mieszkalny lub sala reprezentacyjna w dawnych rezydencjach, pałacach i zamkach\" (no usage label). The wording is consistent with it; it names the palace/castle sense and omits \"dawnych\" (historical)."
+		},
+		{
+			"key": "ru/lesson/l01",
+			"seen": "\"Урок 1: Алфавит и его звуки\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l09",
+			"seen": "\"Урок 9: Моя семья\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l14",
+			"seen": "\"Урок 14: Мой дом\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/h-sound",
+			"seen": "{\"title\":\"Звук г\",\"body\":\"Звонкий щелевой согласный, пара глухого х. Фонетисты описывают его по-разному: /ɦ/, гортанный, в опубликованной иллюстрации МФА (Pompino-Marschall et al. 2017); [ʕ] перед а, о, у, и, е, [ɣʲ] в мягкой позиции и [ɣ] перед звонкими согласными и в конце слова у Вакуленко (2025), который не находит убедительных подтверждений гортанного [ɦ]. Взрывной /ɡ/ обозначается отдельной буквой ґ.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/v-allophones",
+			"seen": "{\"title\":\"Варианты в\",\"body\":\"Одна фонема, /ʋ/, с вариантами в зависимости от позиции: губно-зубной [ʋ] перед гласными переднего ряда, ближе к [w] перед огублёнными гласными заднего ряда и [u̯] в конце слога, как в був (был). В ф не переходит. Вакуленко (2025) оспаривает обозначение [w], поскольку губы почти не вытягиваются, и пишет [β̞].\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/y-vowel",
+			"seen": "{\"title\":\"Гласный и\",\"body\":\"Здесь записывается /ɪ/, как в иллюстрации МФА: более задний и низкий, чем і, с твёрдым согласным перед ним. Близок к русскому гласному [ɨ], но это не тот же звук. Вакуленко (2025) транскрибирует его как пониженный, продвинутый вперёд [ɨ]. Без ударения он приближается к е.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/o-unreduced",
+			"seen": "{\"title\":\"о без ударения\",\"body\":\"Здесь записывается /ɔ/, как в иллюстрации МФА. Без ударения не сводится к а: вода́ никогда не вада́. Лишь немного смещается к [o] перед ударным /u/. Вакуленко (2025) описывает этот гласный как средне-верхний [o], а не /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/shared-forms",
+			"seen": "{\"title\":\"Одна форма, несколько ячеек\",\"body\":\"Падежные окончания совпадают, поэтому одна форма может стоять в нескольких ячейках: кімнати — это родительный падеж единственного числа и именительный, винительный и звательный множественного, а кімнаті — и дательный, и местный единственного. В этой таблице такая карточка подходит к любой из своих ячеек.\",\"sources\":[{\"title\":\"кімната (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/кімната\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet",
+			"seen": "{\"title\":\"Алфавит\",\"summary\":\"Все 33 буквы по порядку. На каждой плитке указан звук в МФА; найдите его букву.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/a",
+			"seen": "{\"exampleGloss\":\"автобус\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/b",
+			"seen": "{\"exampleGloss\":\"брат\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/v",
+			"seen": "{\"exampleGloss\":\"вода\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/h",
+			"seen": "{\"exampleGloss\":\"голова\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/g",
+			"seen": "{\"exampleGloss\":\"крыльцо\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/d",
+			"seen": "{\"exampleGloss\":\"дом\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/e",
+			"seen": "{\"exampleGloss\":\"экран\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/ye",
+			"seen": "{\"exampleGloss\":\"Европа\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/zh",
+			"seen": "{\"exampleGloss\":\"женщина\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/z",
+			"seen": "{\"exampleGloss\":\"зима\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/y",
+			"seen": "{\"exampleGloss\":\"рыба\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/i",
+			"seen": "{\"exampleGloss\":\"игрушка\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/yi",
+			"seen": "{\"exampleGloss\":\"еда\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/j",
+			"seen": "{\"exampleGloss\":\"йогурт\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/k",
+			"seen": "{\"exampleGloss\":\"кот\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/l",
+			"seen": "{\"exampleGloss\":\"лампа\",\"note\":\"Обычно твёрдый [ɫ]. Перед і мягкий: лі́то (лето) с [lʲ].\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/m",
+			"seen": "{\"exampleGloss\":\"мама\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/n",
+			"seen": "{\"exampleGloss\":\"ночь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/o",
+			"seen": "{\"exampleGloss\":\"глаз\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/p",
+			"seen": "{\"exampleGloss\":\"пёс\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/r",
+			"seen": "{\"exampleGloss\":\"рука\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/s",
+			"seen": "{\"exampleGloss\":\"солнце\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/t",
+			"seen": "{\"exampleGloss\":\"папа\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/u",
+			"seen": "{\"exampleGloss\":\"ученик\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/f",
+			"seen": "{\"exampleGloss\":\"фото\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/kh",
+			"seen": "{\"exampleGloss\":\"хлеб\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/ts",
+			"seen": "{\"exampleGloss\":\"сахар\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/ch",
+			"seen": "{\"exampleGloss\":\"время\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/sh",
+			"seen": "{\"exampleGloss\":\"школа\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/shch",
+			"seen": "{\"exampleGloss\":\"что\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/soft",
+			"seen": "{\"exampleGloss\":\"день\",\"note\":\"Собственного звука не имеет: показывает мягкость предыдущего согласного.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/yu",
+			"seen": "{\"exampleGloss\":\"юноша\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/alphabet/ya",
+			"seen": "{\"exampleGloss\":\"яблоко\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family",
+			"seen": "{\"title\":\"Люди и семья\",\"summary\":\"24 повседневных слова о людях. На каждой плитке указано значение; найдите слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/lyudyna",
+			"seen": "{\"clue\":\"человек\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/cholovik",
+			"seen": "{\"clue\":\"мужчина, муж\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/zhinka",
+			"seen": "{\"clue\":\"женщина, жена\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/khlopets",
+			"seen": "{\"clue\":\"мальчик, парень\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/divchyna",
+			"seen": "{\"clue\":\"девушка\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/dytyna",
+			"seen": "{\"clue\":\"ребёнок\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/mama",
+			"seen": "{\"clue\":\"мама\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/tato",
+			"seen": "{\"clue\":\"папа\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/maty",
+			"seen": "{\"clue\":\"мать\",\"note\":\"Родственно английскому mother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/batko",
+			"seen": "{\"clue\":\"отец\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/syn",
+			"seen": "{\"clue\":\"сын\",\"note\":\"Родственно английскому son.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/dochka",
+			"seen": "{\"clue\":\"дочь, дочка\",\"note\":\"Родственно английскому daughter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/brat",
+			"seen": "{\"clue\":\"брат\",\"note\":\"Родственно английскому brother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/sestra",
+			"seen": "{\"clue\":\"сестра\",\"note\":\"Родственно английскому sister.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/babusya",
+			"seen": "{\"clue\":\"бабушка\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/didus",
+			"seen": "{\"clue\":\"дедушка\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/onuk",
+			"seen": "{\"clue\":\"внук\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/onuka",
+			"seen": "{\"clue\":\"внучка\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/dyadko",
+			"seen": "{\"clue\":\"дядя\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/titka",
+			"seen": "{\"clue\":\"тётя\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/rodyna",
+			"seen": "{\"clue\":\"семья\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/batky",
+			"seen": "{\"clue\":\"родители\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/druh",
+			"seen": "{\"clue\":\"друг\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family/podruha",
+			"seen": "{\"clue\":\"подруга\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata",
+			"seen": "{\"title\":\"Падежи: кімната (комната)\",\"summary\":\"Одно регулярное существительное во всех 7 падежах, в единственном и множественном числе. Некоторые формы стоят в нескольких ячейках.\",\"headers\":{\"nom\":\"Именительный\",\"gen\":\"Родительный\",\"dat\":\"Дательный\",\"acc\":\"Винительный\",\"ins\":\"Творительный\",\"loc\":\"Местный\",\"voc\":\"Звательный\",\"sg\":\"Единственное\",\"pl\":\"Множественное\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/alphabet/h",
+			"seen": "{\"contrast\":\"Not Russian г: a voiced fricative, not a plosive. Russian has a similar [ɣ] only marginally, in words such as ага and бухгалтер.\"}",
+			"verdict": "ok",
+			"comment": "en.wiktionary: ага [ɐˈɣa]/[ɐˈɦa]; бухгалтер has [bʊɣˈɡaɫtʲɪr] (and dialectal [bʊˈɣaɫtʲɪr]). \"Only marginally\" is accurate."
+		},
+		{
+			"key": "ru-en/alphabet/g",
+			"seen": "{\"contrast\":\"Like Russian г: a plosive. Few words have this letter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/alphabet/e",
+			"seen": "{\"contrast\":\"Like Russian э, not е: the consonant before it stays hard.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/alphabet/ye",
+			"seen": "{\"contrast\":\"Like Russian е in ель. After a consonant it softens it.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/alphabet/y",
+			"seen": "{\"contrast\":\"Written like Russian и, but a different sound, close to ы. The consonant before it stays hard.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/alphabet/i",
+			"seen": "{\"contrast\":\"This is the sound of Russian и.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/alphabet/yi",
+			"seen": "{\"contrast\":\"Russian has no such letter. Always two sounds.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/alphabet/ts",
+			"seen": "{\"contrast\":\"Unlike Russian ц, it can also be soft: кінець, ця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/alphabet/ch",
+			"seen": "{\"contrast\":\"Unlike Russian ч, it is hard, except before і, я, ю.\"}",
+			"verdict": "ok",
+			"comment": "JIPA treats ч before і/ю/я as half-palatalized [t͡ʃʲ], not soft; \"hard, except before і, я, ю\" slightly overstates but is acceptable."
+		},
+		{
+			"key": "ru-en/alphabet/shch",
+			"seen": "{\"contrast\":\"Two hard sounds, [ш] + [ч], not the long soft Russian щ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/family/cholovik",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"человек\",\"means\":\"means any person, in Ukrainian людина; чоловік means a man or husband\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/family/rodyna",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"родина\",\"means\":\"means homeland; Ukrainian родина means family\"}}",
+			"verdict": "ok",
+			"comment": "Correct. Ukrainian родина also has a poetic \"homeland\" sense (en.wiktionary sense 4), so the contrast is the main-sense contrast."
+		},
+		{
+			"key": "ru-en/family/dochka",
+			"seen": "{\"contrast\":\"The stress differs: Ukrainian дочка́, Russian до́чка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/family/druh",
+			"seen": "{\"contrast\":\"The final sound stays voiced: not [druk], as in Russian.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/kimnata/voc.sg",
+			"seen": "{\"contrast\":\"Russian has no vocative: it addresses people in the nominative. In Ukrainian the vocative is alive.\"}",
+			"verdict": "ok",
+			"comment": "Standard grammar says Russian has no vocative; fossils (Боже, Господи) and colloquial truncations (мам, Вань) exist. Acceptable."
+		},
+		{
+			"key": "ru-ru/alphabet/h",
+			"seen": "{\"contrast\":\"Не русское г: звонкий щелевой, а не взрывной. Похожий [ɣ] есть в русском лишь в отдельных словах, например ага, бухгалтер.\"}",
+			"verdict": "ok",
+			"comment": "Same as ru-en: ага, бухгалтер confirmed on en.wiktionary."
+		},
+		{
+			"key": "ru-ru/alphabet/g",
+			"seen": "{\"contrast\":\"Как русское г: взрывной. Слов с этой буквой немного.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/alphabet/e",
+			"seen": "{\"contrast\":\"Как русское э, а не е: согласный перед ним твёрдый.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/alphabet/ye",
+			"seen": "{\"contrast\":\"Как русское е в слове ель. После согласного смягчает его.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/alphabet/y",
+			"seen": "{\"contrast\":\"Пишется как русское и, но это другой звук, близкий к ы. Согласный перед ним твёрдый.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/alphabet/i",
+			"seen": "{\"contrast\":\"Это звук русского и.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/alphabet/yi",
+			"seen": "{\"contrast\":\"В русском такой буквы нет. Всегда два звука.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/alphabet/ts",
+			"seen": "{\"contrast\":\"В отличие от русского ц может быть и мягким: кінець, ця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/alphabet/ch",
+			"seen": "{\"contrast\":\"В отличие от русского ч твёрдый, кроме положения перед і, я, ю.\"}",
+			"verdict": "ok",
+			"comment": "JIPA treats ч before і/ю/я as half-palatalized, not soft; acceptable simplification."
+		},
+		{
+			"key": "ru-ru/alphabet/shch",
+			"seen": "{\"contrast\":\"Два твёрдых звука, [ш] + [ч], а не русское долгое мягкое щ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/family/cholovik",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"человек\",\"means\":\"значит «любой человек», по-украински людина; чоловік значит «мужчина, муж»\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/family/rodyna",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"родина\",\"means\":\"значит «отчизна»; украинское родина значит «семья»\"}}",
+			"verdict": "ok",
+			"comment": "Correct as the main-sense contrast; Ukrainian родина has a poetic \"homeland\" sense too (en.wiktionary)."
+		},
+		{
+			"key": "ru-ru/family/dochka",
+			"seen": "{\"contrast\":\"Ударение другое: укр. дочка́, рус. до́чка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/family/druh",
+			"seen": "{\"contrast\":\"Конечный звук остаётся звонким: не [druk], как в русском.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/kimnata/voc.sg",
+			"seen": "{\"contrast\":\"В русском звательного падежа нет: обращаясь, используют именительный. В украинском он живой.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/alphabet/h",
+			"seen": "{\"contrast\":\"Не російське г: дзвінкий щілинний, а не вибуховий. Схожий [ɣ] є в російській лише в окремих словах, наприклад ага, бухгалтер.\"}",
+			"verdict": "ok",
+			"comment": "Same as ru-en: ага, бухгалтер confirmed on en.wiktionary."
+		},
+		{
+			"key": "ru-uk/alphabet/g",
+			"seen": "{\"contrast\":\"Як російське г: вибуховий. Слів із цією літерою небагато.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/alphabet/e",
+			"seen": "{\"contrast\":\"Як російське э, а не е: приголосний перед ним твердий.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/alphabet/ye",
+			"seen": "{\"contrast\":\"Як російське е у слові ель. Після приголосного пом'якшує його.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/alphabet/y",
+			"seen": "{\"contrast\":\"Пишеться як російське и, але це інший звук, близький до ы. Приголосний перед ним твердий.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/alphabet/i",
+			"seen": "{\"contrast\":\"Це звук російського и.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/alphabet/yi",
+			"seen": "{\"contrast\":\"У російській такої літери немає. Завжди два звуки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/alphabet/ts",
+			"seen": "{\"contrast\":\"На відміну від російського ц може бути й м'яким: кінець, ця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/alphabet/ch",
+			"seen": "{\"contrast\":\"На відміну від російського ч твердий, крім позиції перед і, я, ю.\"}",
+			"verdict": "ok",
+			"comment": "JIPA treats ч before і/ю/я as half-palatalized, not soft; acceptable simplification."
+		},
+		{
+			"key": "ru-uk/alphabet/shch",
+			"seen": "{\"contrast\":\"Два тверді звуки, [ш] + [ч], а не російське довге м'яке щ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/family/cholovik",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"человек\",\"means\":\"означає будь-яку особу, українською людина; чоловік — це особа чоловічої статі або той, хто одружений із жінкою\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/family/rodyna",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"родина\",\"means\":\"означає батьківщину; українське родина — це сім'я\"}}",
+			"verdict": "ok",
+			"comment": "Correct as the main-sense contrast; Ukrainian родина has a poetic \"homeland\" sense too (en.wiktionary)."
+		},
+		{
+			"key": "ru-uk/family/dochka",
+			"seen": "{\"contrast\":\"Наголос інший: укр. дочка́, рос. до́чка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/family/druh",
+			"seen": "{\"contrast\":\"Кінцевий звук залишається дзвінким: не [druk], як у російській.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/kimnata/voc.sg",
+			"seen": "{\"contrast\":\"У російській кличного відмінка немає: звертаються називним. В українській він живий.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l01",
+			"seen": "\"Урок 1: Алфавіт і його звуки\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l09",
+			"seen": "\"Урок 9: Моя сім'я\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l14",
+			"seen": "\"Урок 14: Мій дім\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/h-sound",
+			"seen": "{\"title\":\"Звук г\",\"body\":\"Дзвінкий щілинний приголосний, пара до глухого х. Фонетисти описують його по-різному: /ɦ/, гортанний, в опублікованій ілюстрації МФА (Pompino-Marschall et al. 2017); [ʕ] перед а, о, у, и, е, [ɣʲ] у м'якій позиції та [ɣ] перед дзвінкими приголосними й у кінці слова у Вакуленка (2025), який не знаходить переконливих підтверджень гортанного [ɦ]. Вибуховий /ɡ/ позначає окрема літера ґ.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/v-allophones",
+			"seen": "{\"title\":\"Варіанти в\",\"body\":\"Одна фонема, /ʋ/, з варіантами залежно від позиції: губно-зубний [ʋ] перед голосними переднього ряду, ближче до [w] перед лабіалізованими голосними заднього ряду і [u̯] у кінці складу, як у слові був. На ф не переходить. Вакуленко (2025) заперечує позначення [w], бо губи майже не витягуються, і пише [β̞].\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/y-vowel",
+			"seen": "{\"title\":\"Голосний и\",\"body\":\"Тут записується /ɪ/, як в ілюстрації МФА: задніший і нижчий, ніж і, з твердим приголосним перед ним. Вакуленко (2025) транскрибує його як знижений, просунутий уперед [ɨ]. Без наголосу він наближається до е.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/o-unreduced",
+			"seen": "{\"title\":\"о без наголосу\",\"body\":\"Тут записується /ɔ/, як в ілюстрації МФА. Без наголосу не наближається до а: вода́ ніколи не вада́. Може лише трохи зміщуватися до [o] перед наголошеним /u/. Вакуленко (2025) описує цей голосний як напівзакритий [o], а не /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/shared-forms",
+			"seen": "{\"title\":\"Одна форма, кілька клітинок\",\"body\":\"Відмінкові закінчення збігаються, тому одна форма може стояти в кількох клітинках: кімнати — це родовий відмінок однини та називний, знахідний і кличний множини, а кімнаті — і давальний, і місцевий однини. У цій таблиці така картка підходить до будь-якої зі своїх клітинок.\",\"sources\":[{\"title\":\"кімната (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/кімната\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet",
+			"seen": "{\"title\":\"Алфавіт\",\"summary\":\"Усі 33 літери за порядком. На кожній плитці вказано звук у МФА; знайдіть його літеру.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/a",
+			"seen": "{\"exampleGloss\":\"великий пасажирський транспорт\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/b",
+			"seen": "{\"exampleGloss\":\"син тих самих батьків\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/v",
+			"seen": "{\"exampleGloss\":\"рідина, яку п'ють\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/h",
+			"seen": "{\"exampleGloss\":\"верхня частина тіла\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/g",
+			"seen": "{\"exampleGloss\":\"прибудова перед входом до будинку\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/d",
+			"seen": "{\"exampleGloss\":\"будинок\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/e",
+			"seen": "{\"exampleGloss\":\"поверхня, на якій показують зображення\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/ye",
+			"seen": "{\"exampleGloss\":\"частина світу\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/zh",
+			"seen": "{\"exampleGloss\":\"доросла особа жіночої статі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/z",
+			"seen": "{\"exampleGloss\":\"найхолодніша пора року\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/y",
+			"seen": "{\"exampleGloss\":\"тварина, що живе у воді\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/i",
+			"seen": "{\"exampleGloss\":\"річ для дитячої гри\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/yi",
+			"seen": "{\"exampleGloss\":\"те, що їдять\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/j",
+			"seen": "{\"exampleGloss\":\"кисломолочний продукт\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/k",
+			"seen": "{\"exampleGloss\":\"свійська тварина, що ловить мишей\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/l",
+			"seen": "{\"exampleGloss\":\"прилад для освітлення\",\"note\":\"Зазвичай твердий [ɫ]. Перед і м'який: лі́то з [lʲ].\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/m",
+			"seen": "{\"exampleGloss\":\"лагідна назва матері\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/n",
+			"seen": "{\"exampleGloss\":\"темна частина доби\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/o",
+			"seen": "{\"exampleGloss\":\"орган зору\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/p",
+			"seen": "{\"exampleGloss\":\"свійська тварина, що вартує дім\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/r",
+			"seen": "{\"exampleGloss\":\"частина тіла від плеча до пальців\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/s",
+			"seen": "{\"exampleGloss\":\"зоря, що світить удень\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/t",
+			"seen": "{\"exampleGloss\":\"лагідна назва батька\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/u",
+			"seen": "{\"exampleGloss\":\"той, хто навчається в школі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/f",
+			"seen": "{\"exampleGloss\":\"знімок\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/kh",
+			"seen": "{\"exampleGloss\":\"печений виріб із борошна\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/ts",
+			"seen": "{\"exampleGloss\":\"солодкий продукт\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/ch",
+			"seen": "{\"exampleGloss\":\"те, що вимірює годинник\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/sh",
+			"seen": "{\"exampleGloss\":\"заклад, де навчаються діти\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/shch",
+			"seen": "{\"exampleGloss\":\"питальне слово про річ\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/soft",
+			"seen": "{\"exampleGloss\":\"світла частина доби\",\"note\":\"Власного звука не має: позначає м'якість попереднього приголосного.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/yu",
+			"seen": "{\"exampleGloss\":\"молодий чоловік\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/alphabet/ya",
+			"seen": "{\"exampleGloss\":\"круглий плід яблуні\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family",
+			"seen": "{\"title\":\"Люди й родина\",\"summary\":\"24 повсякденні слова про людей. На кожній плитці вказано значення; знайдіть слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/lyudyna",
+			"seen": "{\"clue\":\"кожен із нас, особа\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/cholovik",
+			"seen": "{\"clue\":\"особа чоловічої статі; той, хто одружений із жінкою\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/zhinka",
+			"seen": "{\"clue\":\"особа жіночої статі; дружина\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/khlopets",
+			"seen": "{\"clue\":\"неповнолітня особа чоловічої статі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/divchyna",
+			"seen": "{\"clue\":\"молода особа жіночої статі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/dytyna",
+			"seen": "{\"clue\":\"малий син або мала донька\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/mama",
+			"seen": "{\"clue\":\"так лагідно кличуть матір\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/tato",
+			"seen": "{\"clue\":\"так лагідно кличуть батька\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/maty",
+			"seen": "{\"clue\":\"жінка щодо своїх дітей\",\"note\":\"Споріднене з англійським mother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/batko",
+			"seen": "{\"clue\":\"чоловік щодо своїх дітей\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/syn",
+			"seen": "{\"clue\":\"дитина чоловічої статі щодо батьків\",\"note\":\"Споріднене з англійським son.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/dochka",
+			"seen": "{\"clue\":\"дитина жіночої статі щодо батьків\",\"note\":\"Споріднене з англійським daughter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/brat",
+			"seen": "{\"clue\":\"син тих самих батьків\",\"note\":\"Споріднене з англійським brother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/sestra",
+			"seen": "{\"clue\":\"донька тих самих батьків\",\"note\":\"Споріднене з англійським sister.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/babusya",
+			"seen": "{\"clue\":\"мати батька чи матері\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/didus",
+			"seen": "{\"clue\":\"батько батька чи матері\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/onuk",
+			"seen": "{\"clue\":\"син сина чи доньки\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/onuka",
+			"seen": "{\"clue\":\"донька сина чи доньки\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/dyadko",
+			"seen": "{\"clue\":\"брат батька чи матері\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/titka",
+			"seen": "{\"clue\":\"сестра батька чи матері\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/rodyna",
+			"seen": "{\"clue\":\"батьки, діти й інша рідня\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/batky",
+			"seen": "{\"clue\":\"мати й батько разом\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/druh",
+			"seen": "{\"clue\":\"близький приятель\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family/podruha",
+			"seen": "{\"clue\":\"близька приятелька\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata",
+			"seen": "{\"title\":\"Відмінки: кімната\",\"summary\":\"Один регулярний іменник у всіх 7 відмінках, в однині та множині. Деякі форми стоять у кількох клітинках.\",\"headers\":{\"nom\":\"Називний\",\"gen\":\"Родовий\",\"dat\":\"Давальний\",\"acc\":\"Знахідний\",\"ins\":\"Орудний\",\"loc\":\"Місцевий\",\"voc\":\"Кличний\",\"sg\":\"Однина\",\"pl\":\"Множина\"}}",
+			"verdict": "ok"
 		}
 	]
 }

@@ -1,14 +1,18 @@
 {
 	"id": "family",
-	"title": "People and family",
-	"summary": "24 everyday words for people. Each tile gives the meaning; find the word.",
-	"layout": { "type": "grid", "size": 24 },
+	"layout": {
+		"type": "grid",
+		"size": 24
+	},
 	"sources": [
 		{
 			"title": "English Wiktionary, Ukrainian entries (for example родина)",
 			"url": "https://en.wiktionary.org/wiki/родина"
 		},
-		{ "title": "Горох, Ukrainian dictionary", "url": "https://goroh.pp.ua/" }
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
 	],
 	"cells": [
 		{
@@ -16,141 +20,375 @@
 			"item": "word:lyudyna",
 			"text": "людина",
 			"display": "люди́на",
-			"clue": "person"
+			"ipa": "/lʲuˈdɪna/",
+			"cognates": {
+				"ru": {
+					"form": "люди",
+					"ipa": "/ˈlʲudʲɪ/"
+				},
+				"pl": {
+					"form": "ludzie",
+					"ipa": "/ˈlud͡ʑɛ/"
+				}
+			}
 		},
 		{
 			"id": "cholovik",
 			"item": "word:cholovik",
 			"text": "чоловік",
 			"display": "чолові́к",
-			"clue": "man, husband"
+			"ipa": "/t͡ʃɔlɔˈʋik/",
+			"cognates": {
+				"ru": {
+					"form": "человек",
+					"ipa": "/t͡ɕɪlɐˈvʲek/"
+				},
+				"pl": {
+					"form": "człowiek",
+					"ipa": "/ˈt͡ʂwɔvjɛk/"
+				}
+			}
 		},
 		{
 			"id": "zhinka",
 			"item": "word:zhinka",
 			"text": "жінка",
 			"display": "жі́нка",
-			"clue": "woman, wife"
+			"ipa": "/ˈʒinka/",
+			"cognates": {
+				"ru": {
+					"form": "жена",
+					"ipa": "/ʐɨˈna/"
+				},
+				"pl": {
+					"form": "żona",
+					"ipa": "/ˈʐɔna/"
+				}
+			}
 		},
 		{
 			"id": "khlopets",
 			"item": "word:khlopets",
 			"text": "хлопець",
 			"display": "хло́пець",
-			"clue": "boy"
+			"ipa": "/ˈxlɔpɛt͡sʲ/",
+			"cognates": {
+				"pl": {
+					"form": "chłopiec",
+					"ipa": "/ˈxwɔpjɛt͡s/"
+				}
+			}
 		},
 		{
 			"id": "divchyna",
 			"item": "word:divchyna",
 			"text": "дівчина",
 			"display": "ді́вчина",
-			"clue": "girl"
+			"ipa": "/ˈdʲiʋt͡ʃɪna/",
+			"cognates": {
+				"ru": {
+					"form": "девушка",
+					"ipa": "/ˈdʲevʊʂkə/"
+				},
+				"pl": {
+					"form": "dziewczyna",
+					"ipa": "/d͡ʑɛfˈt͡ʂɨna/"
+				}
+			}
 		},
 		{
 			"id": "dytyna",
 			"item": "word:dytyna",
 			"text": "дитина",
 			"display": "дити́на",
-			"clue": "child"
+			"ipa": "/dɪˈtɪna/",
+			"cognates": {
+				"ru": {
+					"form": "дитя",
+					"ipa": "/dʲɪˈtʲa/"
+				},
+				"pl": {
+					"form": "dziecko",
+					"ipa": "/ˈd͡ʑɛt͡skɔ/"
+				}
+			}
 		},
-		{ "id": "mama", "item": "word:mama", "text": "мама", "display": "ма́ма", "clue": "mum" },
-		{ "id": "tato", "item": "word:tato", "text": "тато", "display": "та́то", "clue": "dad" },
+		{
+			"id": "mama",
+			"item": "word:mama",
+			"text": "мама",
+			"display": "ма́ма",
+			"ipa": "/ˈmama/",
+			"cognates": {
+				"ru": {
+					"form": "мама",
+					"ipa": "/ˈmamə/"
+				},
+				"pl": {
+					"form": "mama",
+					"ipa": "/ˈmama/"
+				}
+			}
+		},
+		{
+			"id": "tato",
+			"item": "word:tato",
+			"text": "тато",
+			"display": "та́то",
+			"ipa": "/ˈtatɔ/",
+			"cognates": {
+				"pl": {
+					"form": "tata",
+					"ipa": "/ˈtata/"
+				}
+			}
+		},
 		{
 			"id": "maty",
 			"item": "word:maty",
 			"text": "мати",
 			"display": "ма́ти",
-			"clue": "mother",
-			"note": "Related to the English word mother."
+			"ipa": "/ˈmatɪ/",
+			"cognates": {
+				"ru": {
+					"form": "мать",
+					"ipa": "/matʲ/"
+				},
+				"pl": {
+					"form": "matka",
+					"ipa": "/ˈmatka/"
+				}
+			}
 		},
 		{
 			"id": "batko",
 			"item": "word:batko",
 			"text": "батько",
 			"display": "ба́тько",
-			"clue": "father"
+			"ipa": "/ˈbatʲkɔ/",
+			"cognates": {
+				"ru": {
+					"form": "батя",
+					"ipa": "/ˈbatʲə/"
+				}
+			}
 		},
 		{
 			"id": "syn",
 			"item": "word:syn",
 			"text": "син",
-			"clue": "son",
-			"note": "Related to the English word son."
+			"ipa": "/sɪn/",
+			"cognates": {
+				"ru": {
+					"form": "сын",
+					"ipa": "/sɨn/"
+				},
+				"pl": {
+					"form": "syn",
+					"ipa": "/sɨn/"
+				}
+			}
 		},
 		{
 			"id": "dochka",
 			"item": "word:dochka",
 			"text": "дочка",
 			"display": "дочка́",
-			"clue": "daughter",
-			"note": "Related to the English word daughter."
+			"ipa": "/dɔt͡ʃˈka/",
+			"cognates": {
+				"ru": {
+					"form": "дочка",
+					"ipa": "/ˈdot͡ɕkə/"
+				},
+				"pl": {
+					"form": "córka",
+					"ipa": "/ˈt͡surka/"
+				}
+			}
 		},
 		{
 			"id": "brat",
 			"item": "word:brat",
 			"text": "брат",
-			"clue": "brother",
-			"note": "Related to the English word brother."
+			"ipa": "/brat/",
+			"cognates": {
+				"ru": {
+					"form": "брат",
+					"ipa": "/brat/"
+				},
+				"pl": {
+					"form": "brat",
+					"ipa": "/brat/"
+				}
+			}
 		},
 		{
 			"id": "sestra",
 			"item": "word:sestra",
 			"text": "сестра",
 			"display": "сестра́",
-			"clue": "sister",
-			"note": "Related to the English word sister."
+			"ipa": "/sɛˈstra/",
+			"cognates": {
+				"ru": {
+					"form": "сестра",
+					"ipa": "/sʲɪˈstra/"
+				},
+				"pl": {
+					"form": "siostra",
+					"ipa": "/ˈɕɔstra/"
+				}
+			}
 		},
 		{
 			"id": "babusya",
 			"item": "word:babusya",
 			"text": "бабуся",
 			"display": "бабу́ся",
-			"clue": "grandmother"
+			"ipa": "/baˈbusʲa/",
+			"cognates": {
+				"ru": {
+					"form": "бабушка",
+					"ipa": "/ˈbabʊʂkə/"
+				},
+				"pl": {
+					"form": "babcia",
+					"ipa": "/ˈbapt͡ɕa/"
+				}
+			}
 		},
 		{
 			"id": "didus",
 			"item": "word:didus",
 			"text": "дідусь",
 			"display": "діду́сь",
-			"clue": "grandfather"
+			"ipa": "/dʲiˈdusʲ/",
+			"cognates": {
+				"ru": {
+					"form": "дедушка",
+					"ipa": "/ˈdʲedʊʂkə/"
+				},
+				"pl": {
+					"form": "dziadek",
+					"ipa": "/ˈd͡ʑadɛk/"
+				}
+			}
 		},
-		{ "id": "onuk", "item": "word:onuk", "text": "онук", "display": "ону́к", "clue": "grandson" },
+		{
+			"id": "onuk",
+			"item": "word:onuk",
+			"text": "онук",
+			"display": "ону́к",
+			"ipa": "/ɔˈnuk/",
+			"cognates": {
+				"ru": {
+					"form": "внук",
+					"ipa": "/vnuk/"
+				},
+				"pl": {
+					"form": "wnuk",
+					"ipa": "/vnuk/"
+				}
+			}
+		},
 		{
 			"id": "onuka",
 			"item": "word:onuka",
 			"text": "онука",
 			"display": "ону́ка",
-			"clue": "granddaughter"
+			"ipa": "/ɔˈnuka/",
+			"cognates": {
+				"ru": {
+					"form": "внучка",
+					"ipa": "/ˈvnut͡ɕkə/"
+				},
+				"pl": {
+					"form": "wnuczka",
+					"ipa": "/ˈvnut͡ʂka/"
+				}
+			}
 		},
 		{
 			"id": "dyadko",
 			"item": "word:dyadko",
 			"text": "дядько",
 			"display": "дя́дько",
-			"clue": "uncle"
+			"ipa": "/ˈdʲadʲkɔ/",
+			"cognates": {
+				"ru": {
+					"form": "дядя",
+					"ipa": "/ˈdʲadʲə/"
+				}
+			}
 		},
-		{ "id": "titka", "item": "word:titka", "text": "тітка", "display": "ті́тка", "clue": "aunt" },
+		{
+			"id": "titka",
+			"item": "word:titka",
+			"text": "тітка",
+			"display": "ті́тка",
+			"ipa": "/ˈtʲitka/",
+			"cognates": {
+				"ru": {
+					"form": "тётка",
+					"ipa": "/ˈtʲotkə/"
+				},
+				"pl": {
+					"form": "ciotka",
+					"ipa": "/ˈt͡ɕɔtka/"
+				}
+			}
+		},
 		{
 			"id": "rodyna",
 			"item": "word:rodyna",
 			"text": "родина",
 			"display": "роди́на",
-			"clue": "family"
+			"ipa": "/rɔˈdɪna/",
+			"cognates": {
+				"ru": {
+					"form": "родина",
+					"ipa": "/ˈrodʲɪnə/"
+				},
+				"pl": {
+					"form": "rodzina",
+					"ipa": "/rɔˈd͡ʑina/"
+				}
+			}
 		},
 		{
 			"id": "batky",
 			"item": "word:batky",
 			"text": "батьки",
 			"display": "батьки́",
-			"clue": "parents"
+			"ipa": "/batʲˈkɪ/"
 		},
-		{ "id": "druh", "item": "word:druh", "text": "друг", "clue": "friend (male)" },
+		{
+			"id": "druh",
+			"item": "word:druh",
+			"text": "друг",
+			"ipa": "/druɦ/",
+			"cognates": {
+				"ru": {
+					"form": "друг",
+					"ipa": "/druk/"
+				},
+				"pl": {
+					"form": "druh",
+					"ipa": "/drux/"
+				}
+			}
+		},
 		{
 			"id": "podruha",
 			"item": "word:podruha",
 			"text": "подруга",
 			"display": "по́друга",
-			"clue": "friend (female)"
+			"ipa": "/ˈpɔdruɦa/",
+			"cognates": {
+				"ru": {
+					"form": "подруга",
+					"ipa": "/pɐˈdruɡə/"
+				}
+			}
 		}
 	]
 }

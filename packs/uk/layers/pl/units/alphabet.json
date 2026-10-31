@@ -1,0 +1,107 @@
+{
+	"title": "Alfabet",
+	"summary": "Wszystkie 33 litery po kolei. Każde pole podaje dźwięk w IPA; znajdź jego literę.",
+	"cells": {
+		"a": {
+			"exampleGloss": "autobus"
+		},
+		"b": {
+			"exampleGloss": "brat"
+		},
+		"v": {
+			"exampleGloss": "woda"
+		},
+		"h": {
+			"exampleGloss": "głowa"
+		},
+		"g": {
+			"exampleGloss": "ganek"
+		},
+		"d": {
+			"exampleGloss": "dom"
+		},
+		"e": {
+			"exampleGloss": "ekran"
+		},
+		"ye": {
+			"exampleGloss": "Europa"
+		},
+		"zh": {
+			"exampleGloss": "kobieta"
+		},
+		"z": {
+			"exampleGloss": "zima"
+		},
+		"y": {
+			"exampleGloss": "ryba"
+		},
+		"i": {
+			"exampleGloss": "zabawka"
+		},
+		"yi": {
+			"exampleGloss": "jedzenie"
+		},
+		"j": {
+			"exampleGloss": "jogurt"
+		},
+		"k": {
+			"exampleGloss": "kot"
+		},
+		"l": {
+			"exampleGloss": "lampa",
+			"note": "Zwykle twarde [ɫ]. Przed і miękkie: лі́то (lato) z [lʲ]."
+		},
+		"m": {
+			"exampleGloss": "mama"
+		},
+		"n": {
+			"exampleGloss": "noc"
+		},
+		"o": {
+			"exampleGloss": "oko"
+		},
+		"p": {
+			"exampleGloss": "pies"
+		},
+		"r": {
+			"exampleGloss": "ręka"
+		},
+		"s": {
+			"exampleGloss": "słońce"
+		},
+		"t": {
+			"exampleGloss": "tata"
+		},
+		"u": {
+			"exampleGloss": "uczeń"
+		},
+		"f": {
+			"exampleGloss": "zdjęcie"
+		},
+		"kh": {
+			"exampleGloss": "chleb"
+		},
+		"ts": {
+			"exampleGloss": "cukier"
+		},
+		"ch": {
+			"exampleGloss": "czas"
+		},
+		"sh": {
+			"exampleGloss": "szkoła"
+		},
+		"shch": {
+			"exampleGloss": "co"
+		},
+		"soft": {
+			"exampleGloss": "dzień",
+			"note": "Nie ma własnego dźwięku: oznacza miękkość poprzedniej spółgłoski."
+		},
+		"yu": {
+			"exampleGloss": "młodzieniec"
+		},
+		"ya": {
+			"exampleGloss": "jabłko"
+		}
+	}
+}

@@ -3,7 +3,12 @@
 	// One attempt per slip per round. A wrong answer loses a level and shows the
 	// right one. packages/quiz-engine decides what a drop means; this owns the
 	// pointer, the tray and when to draw.
-	import { shownText, type Cell, type PackManifest, type Unit } from '@langclick/pack-format';
+	import {
+		shownText,
+		type LocalCell,
+		type LocalUnit,
+		type PackManifest
+	} from '@langclick/pack-format';
 	import {
 		attemptMatch,
 		createQuizSession,
@@ -18,32 +23,41 @@
 	import CellFace from './CellFace.svelte';
 	import CellNote from './CellNote.svelte';
 	import { handAfterUse, handSize, refillHand, unitLevel } from './difficulty';
+	import { t } from './language.svelte';
 	import { recordAnswer, unitKnown, unitLevels } from './progress.svelte';
 	import { forgetRound, rememberRound, roundInProgress, type RoundInProgress } from './quizRound';
 	import { aimPoint, movedPastSlop } from './touchDrag';
 
 	interface Props {
 		pack: PackManifest;
-		unit: Unit;
+		unit: LocalUnit;
+		/** Review: ask only these items, and keep the rest of the board visible. */
+		only?: ReadonlySet<string>;
+		/** Review: what follows this board, in place of playing it again. */
+		next?: { label: string; action: () => void };
 	}
 
-	let { pack, unit }: Props = $props();
+	let { pack, unit, only, next }: Props = $props();
 
 	const WRONG_FLASH_MS = 900;
 
 	function newRound(): RoundInProgress {
-		const session = createQuizSession(unit.cells);
+		const asked = only ? unit.cells.filter((cell) => only.has(cell.item)) : unit.cells;
+		const session = createQuizSession(asked);
 		const size = handSize(unitLevel(unitLevels(pack.id, unit)));
 		return { session, size, hand: refillHand(pendingIds(session), [], size) };
 	}
 
-	const start = untrack(() => roundInProgress(pack.id, unit.id) ?? newRound());
+	// A review is one sitting, and isn't a round to come back to.
+	const start = untrack(() =>
+		only ? newRound() : (roundInProgress(pack.id, unit.id) ?? newRound())
+	);
 
 	let session = $state.raw<QuizSession>(start.session);
 	let hand = $state.raw<string[]>(start.hand);
 	let size = $state(start.size);
 	let selected = $state<string>();
-	let lastMiss = $state<{ cell: Cell; lead: string }>();
+	let lastMiss = $state<{ cell: LocalCell; lead: string }>();
 	let wrongCell = $state<string>();
 	let wrongTimer: ReturnType<typeof setTimeout> | undefined;
 
@@ -84,11 +98,12 @@
 		} else {
 			if (answered) {
 				void recordAnswer(pack.id, answered, 'again');
-				lastMiss = { cell: answered, lead: 'Not there. It goes here:' };
+				lastMiss = { cell: answered, lead: t('quiz.notThere') };
 			}
 			flashWrong(result.outcome.droppedOnId);
 		}
 
+		if (only) return;
 		if (isSessionComplete(session)) forgetRound(pack.id, unit.id);
 		else rememberRound(pack.id, unit.id, { session, hand, size });
 	}
@@ -169,8 +184,9 @@
 		if (event.detail === 0) toggleSelected(slipId);
 	}
 
-	function cellClass(cell: Cell): string {
+	function cellClass(cell: LocalCell): string {
 		const status = statusById.get(cell.id);
+		if (status === undefined) return 'given';
 		if (cell.id === wrongCell) return 'wrong empty';
 		if (status === 'correct') return 'correct';
 		if (status === 'revealed') return 'revealed';
@@ -178,7 +194,7 @@
 		return selected || press?.dragging ? 'empty pickable' : 'empty';
 	}
 
-	function isShown(cell: Cell): boolean {
+	function isShown(cell: LocalCell): boolean {
 		return statusById.get(cell.id) !== 'pending';
 	}
 
@@ -196,7 +212,7 @@
 
 <Board
 	{unit}
-	spoken={(cell) => (isShown(cell) ? shownText(cell) : 'open')}
+	spoken={(cell) => (isShown(cell) ? shownText(cell) : t('cell.open'))}
 	classOf={cellClass}
 	onpick={(cell) => {
 		if (selected) drop(selected, cell.id);
@@ -213,21 +229,26 @@
 
 {#if complete}
 	<section class="score" aria-live="polite">
-		<h2>Round complete</h2>
+		<h2>{t('quiz.complete')}</h2>
 		<p>
-			Right first time: <strong>{score.perfect} of {score.total}</strong>. Known now:
-			<strong>{unitKnown(pack.id, unit)} of {unit.cells.length}</strong>.
+			{t('quiz.rightFirst', { right: score.perfect, total: score.total })}
+			{t('quiz.knownNow', { known: unitKnown(pack.id, unit), total: unit.cells.length })}
 		</p>
 		<div class="actions">
-			<button type="button" class="action" onclick={playAgain}>Play again</button>
-			<a
-				class="action quiet"
-				href={resolve('/unit/[pack]/[unit]', { pack: pack.id, unit: unit.id })}>See what you know</a
-			>
+			{#if next}
+				<button type="button" class="action" onclick={next.action}>{next.label}</button>
+			{:else}
+				<button type="button" class="action" onclick={playAgain}>{t('quiz.again')}</button>
+				<a
+					class="action quiet"
+					href={resolve('/unit/[pack]/[unit]', { pack: pack.id, unit: unit.id })}
+					>{t('quiz.seeKnown')}</a
+				>
+			{/if}
 		</div>
 	</section>
 {:else}
-	<div class="tray" role="group" aria-label="Slips to place">
+	<div class="tray" role="group" aria-label={t('quiz.slips')}>
 		{#each hand as slipId (slipId)}
 			<button
 				type="button"
@@ -246,8 +267,7 @@
 		{/each}
 	</div>
 	<p class="hint">
-		Drag a slip onto its cell, or press the slip and then the cell.
-		{pendingIds(session).length} left.
+		{t('quiz.hint', { count: pendingIds(session).length })}
 	</p>
 {/if}
 

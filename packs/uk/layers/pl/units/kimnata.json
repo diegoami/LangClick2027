@@ -1,0 +1,15 @@
+{
+	"title": "Przypadki: кімната (pokój)",
+	"summary": "Jeden regularny rzeczownik we wszystkich 7 przypadkach, w liczbie pojedynczej i mnogiej. Niektóre formy wypełniają kilka pól.",
+	"headers": {
+		"nom": "Mianownik",
+		"gen": "Dopełniacz",
+		"dat": "Celownik",
+		"acc": "Biernik",
+		"ins": "Narzędnik",
+		"loc": "Miejscownik",
+		"voc": "Wołacz",
+		"sg": "Pojedyncza",
+		"pl": "Mnoga"
+	}
+}

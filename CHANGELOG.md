@@ -6,6 +6,11 @@ Each release's entry is its release notes (`docs/RELEASES.md`).
 
 For players:
 
+- Choose what to compare Ukrainian with, Russian or Polish, and which language explanations are in: English, Russian, Polish or Ukrainian. Your progress stays when you switch.
+- Each lesson links to what to study first, starting with Є-мова's course, and you can mark it as studied.
+- A new Review screen brings back what is due today, one board at a time.
+- Words now show their IPA and related words in Russian and Polish, and false friends are marked for your comparison.
+- Sounds on the alphabet are given in IPA, and a concept explains where phoneticians disagree.
 - The Vakulenko source on the alphabet's Overview now opens the right paper.
 
 Also: code is now MIT and packs are CC BY-SA 4.0; the pack validator rejects a stress mark in a cell's `text`; the check that keeps engine code language-neutral is stricter.

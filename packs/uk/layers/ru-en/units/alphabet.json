@@ -1,0 +1,34 @@
+{
+	"cells": {
+		"h": {
+			"contrast": "Not Russian г: a voiced fricative, not a plosive. Russian has a similar [ɣ] only marginally, in words such as ага and бухгалтер."
+		},
+		"g": {
+			"contrast": "Like Russian г: a plosive. Few words have this letter."
+		},
+		"e": {
+			"contrast": "Like Russian э, not е: the consonant before it stays hard."
+		},
+		"ye": {
+			"contrast": "Like Russian е in ель. After a consonant it softens it."
+		},
+		"y": {
+			"contrast": "Written like Russian и, but a different sound, close to ы. The consonant before it stays hard."
+		},
+		"i": {
+			"contrast": "This is the sound of Russian и."
+		},
+		"yi": {
+			"contrast": "Russian has no such letter. Always two sounds."
+		},
+		"ts": {
+			"contrast": "Unlike Russian ц, it can also be soft: кінець, ця."
+		},
+		"ch": {
+			"contrast": "Unlike Russian ч, it is hard, except before і, я, ю."
+		},
+		"shch": {
+			"contrast": "Two hard sounds, [ш] + [ч], not the long soft Russian щ."
+		}
+	}
+}

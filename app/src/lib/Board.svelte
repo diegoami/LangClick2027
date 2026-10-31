@@ -3,32 +3,32 @@
 	// knows the layout; each screen decides what a cell shows and what a press does.
 	// Every cell carries `data-cell-id` for hit-testing, and so tools such as
 	// ai-player can drive the board without changing the app.
-	import type { Cell, Unit } from '@langclick/pack-format';
+	import type { Header, LocalCell, LocalUnit } from '@langclick/pack-format';
 	import type { Snippet } from 'svelte';
 
 	interface Props {
-		unit: Unit;
-		face: Snippet<[Cell]>;
+		unit: LocalUnit;
+		face: Snippet<[LocalCell]>;
 		/** What the cell currently holds, for screen readers. */
-		spoken: (cell: Cell) => string;
-		classOf?: (cell: Cell) => string;
-		onpick?: (cell: Cell) => void;
+		spoken: (cell: LocalCell) => string;
+		classOf?: (cell: LocalCell) => string;
+		onpick?: (cell: LocalCell) => void;
 	}
 
 	let { unit, face, spoken, classOf = () => '', onpick }: Props = $props();
 
-	function labelOf(header: { id: string; label: string }[], id: string | undefined) {
-		return header.find((entry) => entry.id === id)?.label ?? '';
+	function labelOf(headers: Header[], id: string | undefined) {
+		return headers.find((entry) => entry.id === id)?.label ?? '';
 	}
 
-	function ariaLabel(cell: Cell): string {
+	function ariaLabel(cell: LocalCell): string {
 		if (unit.layout.type !== 'table') return `${cell.clue}: ${spoken(cell)}`;
 		const { rows, columns } = unit.layout;
 		return `${labelOf(rows, cell.row)}, ${labelOf(columns, cell.col)}: ${spoken(cell)}`;
 	}
 </script>
 
-{#snippet cellButton(cell: Cell)}
+{#snippet cellButton(cell: LocalCell)}
 	<button
 		type="button"
 		class="cell {classOf(cell)}"
@@ -159,6 +159,10 @@
 	.cell:global(.wrong) {
 		border-color: var(--wrong);
 		background: var(--wrong-soft);
+	}
+
+	.cell:global(.given) {
+		opacity: 0.55;
 	}
 
 	.cell:global(.selected) {

@@ -1,0 +1,81 @@
+{
+	"lessons": {
+		"l01": {
+			"title": "Урок 1: Алфавит и его звуки"
+		},
+		"l09": {
+			"title": "Урок 9: Моя семья"
+		},
+		"l14": {
+			"title": "Урок 14: Мой дом"
+		}
+	},
+	"concepts": {
+		"h-sound": {
+			"title": "Звук г",
+			"body": "Звонкий щелевой согласный, пара глухого х. Фонетисты описывают его по-разному: /ɦ/, гортанный, в опубликованной иллюстрации МФА (Pompino-Marschall et al. 2017); [ʕ] перед а, о, у, и, е, [ɣʲ] в мягкой позиции и [ɣ] перед звонкими согласными и в конце слова у Вакуленко (2025), который не находит убедительных подтверждений гортанного [ɦ]. Взрывной /ɡ/ обозначается отдельной буквой ґ.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"v-allophones": {
+			"title": "Варианты в",
+			"body": "Одна фонема, /ʋ/, с вариантами в зависимости от позиции: губно-зубной [ʋ] перед гласными переднего ряда, ближе к [w] перед огублёнными гласными заднего ряда и [u̯] в конце слога, как в був (был). В ф не переходит. Вакуленко (2025) оспаривает обозначение [w], поскольку губы почти не вытягиваются, и пишет [β̞].",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"y-vowel": {
+			"title": "Гласный и",
+			"body": "Здесь записывается /ɪ/, как в иллюстрации МФА: более задний и низкий, чем і, с твёрдым согласным перед ним. Близок к русскому гласному [ɨ], но это не тот же звук. Вакуленко (2025) транскрибирует его как пониженный, продвинутый вперёд [ɨ]. Без ударения он приближается к е.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"o-unreduced": {
+			"title": "о без ударения",
+			"body": "Здесь записывается /ɔ/, как в иллюстрации МФА. Без ударения не сводится к а: вода́ никогда не вада́. Лишь немного смещается к [o] перед ударным /u/. Вакуленко (2025) описывает этот гласный как средне-верхний [o], а не /ɔ/.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"shared-forms": {
+			"title": "Одна форма, несколько ячеек",
+			"body": "Падежные окончания совпадают, поэтому одна форма может стоять в нескольких ячейках: кімнати — это родительный падеж единственного числа и именительный, винительный и звательный множественного, а кімнаті — и дательный, и местный единственного. В этой таблице такая карточка подходит к любой из своих ячеек.",
+			"sources": [
+				{
+					"title": "кімната (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/кімната"
+				}
+			]
+		}
+	}
+}

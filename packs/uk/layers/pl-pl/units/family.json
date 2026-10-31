@@ -1,0 +1,21 @@
+{
+	"cells": {
+		"cholovik": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "człowiek",
+				"means": "znaczy każdą osobę, po ukraińsku людина; чоловік to mężczyzna lub mąż"
+			}
+		},
+		"druh": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "druh",
+				"means": "to dziś harcerz lub członek straży pożarnej, a książkowo przyjaciel; друг to po prostu przyjaciel"
+			}
+		},
+		"rodyna": {
+			"contrast": "To polskie rodzina. Akcent pada tu na tę samą sylabę tylko przypadkiem: po ukraińsku trzeba się go uczyć przy każdym słowie."
+		}
+	}
+}

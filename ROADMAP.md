@@ -10,8 +10,10 @@ v1.0.0. Audience size is not a goal.
 The owner's early view of its question, whether a table of cells works as the map:
 "promising".
 
-**v0.2.0 is next** ([proposal #3](https://github.com/diegoami/LangClick2027/issues/3)),
-followed by separate downloads ([proposal #6](https://github.com/diegoami/LangClick2027/issues/6)).
+**v0.2.0 is in progress** ([proposal #3](https://github.com/diegoami/LangClick2027/issues/3)).
+Built: the pack layout, comparison and explanation languages, IPA and cognates, concepts,
+study links and Review. Next: the phonetics module for eMova lessons 1–3. Separate
+downloads follow in v0.3.0 ([proposal #6](https://github.com/diegoami/LangClick2027/issues/6)).
 
 ## Milestones
 

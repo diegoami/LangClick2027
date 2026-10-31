@@ -1,0 +1,81 @@
+{
+	"lessons": {
+		"l01": {
+			"title": "Lekcja 1: Alfabet i jego dźwięki"
+		},
+		"l09": {
+			"title": "Lekcja 9: Moja rodzina"
+		},
+		"l14": {
+			"title": "Lekcja 14: Mój dom"
+		}
+	},
+	"concepts": {
+		"h-sound": {
+			"title": "Dźwięk г",
+			"body": "Dźwięczna spółgłoska szczelinowa, para bezdźwięcznego х. Fonetycy opisują ją różnie: /ɦ/, krtaniowa, w opublikowanej ilustracji IPA (Pompino-Marschall et al. 2017); [ʕ] przed а, о, у, и, е, [ɣʲ] w pozycji miękkiej oraz [ɣ] przed spółgłoskami dźwięcznymi i na końcu wyrazu u Wakulenki (2025), który nie znajduje przekonujących dowodów na krtaniowe [ɦ]. Zwartą /ɡ/ oznacza osobna litera ґ.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"v-allophones": {
+			"title": "Warianty в",
+			"body": "Jeden fonem, /ʋ/, z wariantami zależnymi od pozycji: wargowo-zębowe [ʋ] przed samogłoskami przednimi, bliżej [w] przed zaokrąglonymi samogłoskami tylnymi i [u̯] na końcu sylaby, jak w був (był). Nie przechodzi w f. Wakulenko (2025) kwestionuje oznaczenie [w], ponieważ wargi prawie się nie wysuwają, i zapisuje [β̞].",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"y-vowel": {
+			"title": "Samogłoska и",
+			"body": "Zapisywana tu jako /ɪ/, jak w ilustracji IPA: bardziej tylna i niższa niż і, z twardą spółgłoską przed nią. Blisko polskiego y, ale to nie ten sam dźwięk. Wakulenko (2025) transkrybuje ją jako obniżone, przesunięte do przodu [ɨ]. Bez akcentu zbliża się do е.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"o-unreduced": {
+			"title": "о bez akcentu",
+			"body": "Zapisywane tu jako /ɔ/, jak w ilustracji IPA. Bez akcentu nie redukuje się w stronę a: вода́ to nigdy вада́. Może się tylko nieznacznie przesunąć ku [o] przed akcentowanym /u/. Wakulenko (2025) opisuje tę samogłoskę jako półprzymkniętą [o], a nie /ɔ/.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"shared-forms": {
+			"title": "Jedna forma, kilka pól",
+			"body": "Końcówki przypadków się pokrywają, więc jedna forma może wypełnić kilka pól: кімнати to dopełniacz liczby pojedynczej oraz mianownik, biernik i wołacz liczby mnogiej, a кімнаті to zarówno celownik, jak i miejscownik liczby pojedynczej. Na tej planszy taka kartka pasuje do każdego ze swoich pól.",
+			"sources": [
+				{
+					"title": "кімната (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/кімната"
+				}
+			]
+		}
+	}
+}

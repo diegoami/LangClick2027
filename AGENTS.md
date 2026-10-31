@@ -13,8 +13,9 @@ is Geoclick2027's, adapted: <https://github.com/diegoami/Geoclick2027>.
 
     app/src/{lib,routes}/       the app; it knows nothing about any one language
     packages/*/src/             pure logic: scheduler, quiz engine, pack format
-    packs/<id>/                 AUTHORED language content: pack.json, units/*.json
-    scripts/*.mjs               gates, version sync
+    packs/<id>/                 AUTHORED language content: manifest, units, layers
+    locales/*.json              interface text, one file per language
+    scripts/*.mjs               gates, version sync, content-check records
 
 **The engine stays language-neutral.** A rule about one language belongs in that
 pack's data, never in `app/` or `packages/`. A test fails if engine code names
@@ -22,7 +23,11 @@ one.
 
 **Pack content is the product.** A wrong answer key teaches an error, and the
 player can't tell. Change content only with a source for it, and see
-`packs/README.md` for the checks every item goes through.
+`packs/README.md` for the checks everything goes through.
+
+**Langclick supplements its sources and doesn't replace them.** The learner studies
+the source first, and practises and repeats here. Link to a source's text; don't copy
+it. Private copies of eMova's lessons in other repositories never reach a public pack.
 
 Never read: `node_modules/`, `app/.svelte-kit/`, `app/build/`, `rendered/`,
 `package-lock.json` (grep one version string at most).

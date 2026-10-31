@@ -1,0 +1,58 @@
+{
+	"cells": {
+		"h": {
+			"contrast": "To nie polskie g, choć litera je przypomina. Dźwięczna szczelinowa, której standardowa polszczyzna nie ma jako osobnego fonemu; polskie h to bezdźwięczne ch."
+		},
+		"g": {
+			"contrast": "To polskie g."
+		},
+		"v": {
+			"contrast": "Odpowiada polskiemu w, ale na końcu sylaby brzmi blisko polskiego ł: був jak był."
+		},
+		"e": {
+			"contrast": "To polskie e; spółgłoska przed nim jest twarda."
+		},
+		"ye": {
+			"contrast": "Na początku wyrazu to je; po spółgłosce zmiękcza ją, jak polskie ie."
+		},
+		"y": {
+			"contrast": "Odpowiada polskiemu y, choć to nie ten sam dźwięk."
+		},
+		"i": {
+			"contrast": "To polskie i."
+		},
+		"yi": {
+			"contrast": "Zawsze dwa dźwięki: ji."
+		},
+		"l": {
+			"contrast": "Nie polskie l: zwykle twarde, ciemne [ɫ]. Nie jest to też polskie ł, które brzmi jak [w]."
+		},
+		"kh": {
+			"contrast": "Jak polskie ch lub h."
+		},
+		"ts": {
+			"contrast": "Jak polskie c. Może być też zmiękczone, [t͡sʲ], jak w кінець, ale to nie polskie ć."
+		},
+		"zh": {
+			"contrast": "Jak polskie ż."
+		},
+		"ch": {
+			"contrast": "Jak polskie cz."
+		},
+		"sh": {
+			"contrast": "Jak polskie sz."
+		},
+		"shch": {
+			"contrast": "Jak polskie szcz: dwa dźwięki."
+		},
+		"soft": {
+			"contrast": "Oznacza miękkość, ale inną niż w polskim: ś, ć są środkowojęzykowe, a w standardowej ukraińszczyźnie to zmiękczone spółgłoski zębowe, jak [nʲ] w день."
+		},
+		"yu": {
+			"contrast": "Na początku wyrazu to ju; po spółgłosce zmiękcza ją, jak polskie iu."
+		},
+		"ya": {
+			"contrast": "Na początku wyrazu to ja; po spółgłosce zmiękcza ją, jak polskie ia."
+		}
+	}
+}

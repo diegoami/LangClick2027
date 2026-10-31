@@ -20,12 +20,19 @@ export interface Card extends SchedulerState {
 export interface ProgressRepository {
 	getCards(packId: string): Promise<Card[]>;
 	saveCard(packId: string, card: Card): Promise<void>;
+	/** The lessons the learner has marked as studied. */
+	getStudied(packId: string): Promise<string[]>;
+	saveStudied(packId: string, lessonIds: string[]): Promise<void>;
 }
 
 const STORAGE_PREFIX = 'langclick:progress:v1';
 
 function cardsKey(packId: string): string {
 	return `${STORAGE_PREFIX}:${packId}:cards`;
+}
+
+function studiedKey(packId: string): string {
+	return `${STORAGE_PREFIX}:${packId}:studied`;
 }
 
 // Local calendar date, not `toISOString().slice(0, 10)`: that is UTC, which flips
@@ -71,6 +78,23 @@ function readCards(packId: string): Card[] {
 export class LocalStorageProgressRepository implements ProgressRepository {
 	async getCards(packId: string): Promise<Card[]> {
 		return readCards(packId);
+	}
+
+	async getStudied(packId: string): Promise<string[]> {
+		try {
+			const parsed: unknown = JSON.parse(localStorage.getItem(studiedKey(packId)) ?? '[]');
+			return Array.isArray(parsed) ? parsed.filter((id) => typeof id === 'string') : [];
+		} catch {
+			return [];
+		}
+	}
+
+	async saveStudied(packId: string, lessonIds: string[]): Promise<void> {
+		try {
+			localStorage.setItem(studiedKey(packId), JSON.stringify(lessonIds));
+		} catch {
+			// As with a card: this just isn't remembered.
+		}
 	}
 
 	async saveCard(packId: string, card: Card): Promise<void> {
