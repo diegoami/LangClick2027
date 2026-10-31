@@ -128,6 +128,24 @@ describe('validatePack', () => {
 		expect(problems([table, grid], manifest).join()).toContain('by more than marks');
 	});
 
+	it('fails a display mark inside text, where a slip would show it', () => {
+		const marked = withCell(table, 'b', { text: `кімна${STRESS}ту` });
+		expect(problems([marked, grid]).join()).toContain('contains a display mark');
+	});
+
+	it('accepts combining marks in text when the pack does not declare them as display marks', () => {
+		const devanagari: PackManifest = { ...pack, scripts: ['Deva'], forbiddenLetters: undefined };
+		const word: Unit = {
+			...grid,
+			id: 'grid',
+			layout: { type: 'grid', size: 1 },
+			cells: [{ id: 'x', item: 'i:x', text: 'हिन्दी', clue: 'Hindi' }]
+		};
+		expect(
+			problems([{ ...table, cells: [], layout: { type: 'grid', size: 0 } }, word], devanagari)
+		).toEqual([]);
+	});
+
 	it('fails duplicate cell ids and items', () => {
 		const twice = withCell(grid, 'y', { id: 'x', item: 'i:x', text: 'брат' });
 		const found = problems([table, twice]);
@@ -155,9 +173,9 @@ describe('validatePack', () => {
 		expect(problems([table, grid], { ...pack, scripts: [] })).toContain('manifest has no scripts');
 	});
 
-	it('reports a bad script name instead of throwing', () => {
+	it('reports a bad script name once, instead of throwing or repeating it per cell', () => {
 		const found = problems([table, grid], { ...pack, scripts: ['NotAScript'] });
-		expect(found.join()).toContain('not valid script names');
+		expect(found.filter((problem) => problem.includes('not valid script names'))).toHaveLength(1);
 	});
 });
 

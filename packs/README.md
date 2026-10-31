@@ -37,6 +37,10 @@ another unit, and it shares its progress there.
    note it saw. Editing any of those voids its checks, so it has to be checked
    again.
 
+Open every source link before it ships. A DOI can resolve to the wrong paper even
+when the paper prints it, as Vakulenko 2025's does, so link to where a reader
+actually lands.
+
 A checker works from the unit files and outside sources, without being told the
 author's reasoning. A paid native review is optional and is not required for a
 milestone.
