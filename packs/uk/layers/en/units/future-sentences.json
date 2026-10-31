@@ -1,0 +1,54 @@
+{
+	"title": "The future in sentences",
+	"summary": "Which form of the verb in brackets fits the gap? When you type, бу́ду чита́ти is as right as чита́тиму.",
+	"cells": {
+		"ya.chytaty": {
+			"sentenceGloss": "Tomorrow I will be reading a book.",
+			"note": "Future tense, first person singular."
+		},
+		"my.chytaty": {
+			"sentenceGloss": "Tomorrow we will be reading a newspaper.",
+			"note": "Future tense, first person plural."
+		},
+		"ty.pysaty": {
+			"sentenceGloss": "Tomorrow you will be writing a letter.",
+			"note": "Future tense, second person singular."
+		},
+		"vy.pysaty": {
+			"sentenceGloss": "Tomorrow you will be writing a letter.",
+			"note": "Future tense, second person plural."
+		},
+		"he.robyty": {
+			"sentenceGloss": "Tomorrow she will be renovating.",
+			"note": "Future tense, third person singular."
+		},
+		"they.robyty": {
+			"sentenceGloss": "Tomorrow they will be renovating.",
+			"note": "Future tense, third person plural."
+		},
+		"ya.buty": {
+			"sentenceGloss": "Tomorrow I will be reading a book.",
+			"note": "Future tense, first person singular."
+		},
+		"ty.buty": {
+			"sentenceGloss": "Tomorrow you will be writing a letter.",
+			"note": "Future tense, second person singular."
+		},
+		"he.buty": {
+			"sentenceGloss": "He will be at home tomorrow.",
+			"note": "Future tense, third person singular."
+		},
+		"my.buty": {
+			"sentenceGloss": "We will be there tomorrow.",
+			"note": "Future tense, first person plural."
+		},
+		"vy.buty": {
+			"sentenceGloss": "You will be at home tomorrow.",
+			"note": "Future tense, second person plural."
+		},
+		"they.buty": {
+			"sentenceGloss": "They will be at home tomorrow.",
+			"note": "Future tense, third person plural."
+		}
+	}
+}

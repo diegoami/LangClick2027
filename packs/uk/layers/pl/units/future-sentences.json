@@ -1,0 +1,54 @@
+{
+	"title": "Czas przyszły w zdaniach",
+	"summary": "Która forma czasownika w nawiasie pasuje do luki? Przy wpisywaniu бу́ду чита́ти jest tak samo dobre jak чита́тиму.",
+	"cells": {
+		"ya.chytaty": {
+			"sentenceGloss": "Jutro będę czytać książkę.",
+			"note": "Czas przyszły, 1. osoba l. poj."
+		},
+		"my.chytaty": {
+			"sentenceGloss": "Jutro będziemy czytać gazetę.",
+			"note": "Czas przyszły, 1. osoba l. mn."
+		},
+		"ty.pysaty": {
+			"sentenceGloss": "Jutro będziesz pisać list.",
+			"note": "Czas przyszły, 2. osoba l. poj."
+		},
+		"vy.pysaty": {
+			"sentenceGloss": "Jutro będziecie pisać list.",
+			"note": "Czas przyszły, 2. osoba l. mn."
+		},
+		"he.robyty": {
+			"sentenceGloss": "Jutro ona będzie robić remont.",
+			"note": "Czas przyszły, 3. osoba l. poj."
+		},
+		"they.robyty": {
+			"sentenceGloss": "Jutro będą robić remont.",
+			"note": "Czas przyszły, 3. osoba l. mn."
+		},
+		"ya.buty": {
+			"sentenceGloss": "Jutro będę czytać książkę.",
+			"note": "Czas przyszły, 1. osoba l. poj."
+		},
+		"ty.buty": {
+			"sentenceGloss": "Jutro będziesz pisać list.",
+			"note": "Czas przyszły, 2. osoba l. poj."
+		},
+		"he.buty": {
+			"sentenceGloss": "Jutro on będzie w domu.",
+			"note": "Czas przyszły, 3. osoba l. poj."
+		},
+		"my.buty": {
+			"sentenceGloss": "Jutro tam będziemy.",
+			"note": "Czas przyszły, 1. osoba l. mn."
+		},
+		"vy.buty": {
+			"sentenceGloss": "Jutro będziecie w domu.",
+			"note": "Czas przyszły, 2. osoba l. mn."
+		},
+		"they.buty": {
+			"sentenceGloss": "Jutro będą w domu.",
+			"note": "Czas przyszły, 3. osoba l. mn."
+		}
+	}
+}

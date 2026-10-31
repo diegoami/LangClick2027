@@ -29,6 +29,12 @@
 		"g03": {
 			"title": "Przypadki rzeczowników"
 		},
+		"g04": {
+			"title": "Czas teraźniejszy"
+		},
+		"g05": {
+			"title": "Czas przeszły i przyszły"
+		},
 		"l09": {
 			"title": "Lekcja 9: Moja rodzina"
 		}
@@ -239,6 +245,76 @@
 				{
 					"title": "Горох, Ukrainian dictionary",
 					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"conjugations": {
+			"title": "Dwie koniugacje",
+			"body": "Czasowniki ukraińskie dzielą się na dwie koniugacje. Pierwsza ma -еш lub -єш w 2. osobie l. poj. i -уть lub -ють w 3. osobie l. mn.: пи́шеш, пи́шуть, чита́єш, чита́ють. Druga ma -иш lub -їш oraz -ать lub -ять: ро́биш, ро́блять.",
+			"sources": [
+				{
+					"title": "Український правопис (2015), §80",
+					"url": "https://pravopys.net/sections/80/"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"third-no-t": {
+			"title": "I koniugacja: bez -ть w 3. osobie l. poj.",
+			"body": "W pierwszej koniugacji 3. osoba l. poj. kończy się samogłoską: чита́є, пи́ше. Druga koniugacja ma -ть: ро́бить.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"labial-l": {
+			"title": "л po wargowej",
+			"body": "W drugiej koniugacji temat zakończony wargową dostaje л w 1. osobie l. poj. i w 3. osobie l. mn.: роблю́, ро́блять, ale ро́биш i ро́бить.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"past-gender": {
+			"title": "Czas przeszły zgadza się w rodzaju",
+			"body": "Czas przeszły zgadza się z podmiotem w rodzaju i liczbie i nie ma końcówek osobowych: я чита́в albo я чита́ла, zależnie od tego, kto mówi, oraz ми чита́ли. Rodzaj męski zwykle kończy się na -в: чита́в. Niektóre tematy nie mają końcówki: ніс, міг.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"future-two": {
+			"title": "Dwie formy przyszłe",
+			"body": "Czasowniki niedokonane mają dwie formy przyszłe o tym samym znaczeniu: бу́ду чита́ти i чита́тиму. Druga dodaje do bezokolicznika -му, -меш, -ме, -мемо, -мете, -муть.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
 				}
 			]
 		}

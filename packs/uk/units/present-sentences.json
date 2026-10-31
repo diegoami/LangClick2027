@@ -1,0 +1,133 @@
+{
+	"id": "present-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 14
+	},
+	"cells": [
+		{
+			"id": "ya.chytaty",
+			"item": "sentence:present:ya.chytaty",
+			"text": "читаю",
+			"display": "чита́ю",
+			"sentence": "За́раз я ___ кни́гу (чита́ти)."
+		},
+		{
+			"id": "ty.chytaty",
+			"item": "sentence:present:ty.chytaty",
+			"text": "читаєш",
+			"display": "чита́єш",
+			"sentence": "За́раз ти ___ газе́ту (чита́ти)."
+		},
+		{
+			"id": "he.chytaty",
+			"item": "sentence:present:he.chytaty",
+			"text": "читає",
+			"display": "чита́є",
+			"sentence": "За́раз вона́ ___ кни́гу (чита́ти)."
+		},
+		{
+			"id": "vy.chytaty",
+			"item": "sentence:present:vy.chytaty",
+			"text": "читаєте",
+			"display": "чита́єте",
+			"sentence": "За́раз ви ___ кни́гу (чита́ти)."
+		},
+		{
+			"id": "ya.pysaty",
+			"item": "sentence:present:ya.pysaty",
+			"text": "пишу",
+			"display": "пишу́",
+			"sentence": "За́раз я ___ лист (писа́ти)."
+		},
+		{
+			"id": "he.pysaty",
+			"item": "sentence:present:he.pysaty",
+			"text": "пише",
+			"display": "пи́ше",
+			"sentence": "За́раз він ___ лист (писа́ти)."
+		},
+		{
+			"id": "my.pysaty",
+			"item": "sentence:present:my.pysaty",
+			"text": "пишемо",
+			"display": "пи́шемо",
+			"sentence": "За́раз ми ___ дикта́нт (писа́ти).",
+			"alsoAccepted": ["пишем"]
+		},
+		{
+			"id": "they.pysaty",
+			"item": "sentence:present:they.pysaty",
+			"text": "пишуть",
+			"display": "пи́шуть",
+			"sentence": "За́раз вони́ ___ листи́ (писа́ти)."
+		},
+		{
+			"id": "ya.robyty",
+			"item": "sentence:present:ya.robyty",
+			"text": "роблю",
+			"display": "роблю́",
+			"sentence": "За́раз я ___ дома́шнє завда́ння (роби́ти)."
+		},
+		{
+			"id": "ty.robyty",
+			"item": "sentence:present:ty.robyty",
+			"text": "робиш",
+			"display": "ро́биш",
+			"sentence": "Що ти за́раз ___ (роби́ти)?"
+		},
+		{
+			"id": "he.robyty",
+			"item": "sentence:present:he.robyty",
+			"text": "робить",
+			"display": "ро́бить",
+			"sentence": "Що він за́раз ___ (роби́ти)?"
+		},
+		{
+			"id": "my.robyty",
+			"item": "sentence:present:my.robyty",
+			"text": "робимо",
+			"display": "ро́бимо",
+			"sentence": "За́раз ми ___ ремо́нт (роби́ти).",
+			"alsoAccepted": ["робим"]
+		},
+		{
+			"id": "vy.robyty",
+			"item": "sentence:present:vy.robyty",
+			"text": "робите",
+			"display": "ро́бите",
+			"sentence": "Що ви за́раз ___ (роби́ти)?"
+		},
+		{
+			"id": "they.robyty",
+			"item": "sentence:present:they.robyty",
+			"text": "роблять",
+			"display": "ро́блять",
+			"sentence": "За́раз вони́ ___ ремо́нт (роби́ти)."
+		}
+	],
+	"sources": [
+		{
+			"title": "читати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/читати"
+		},
+		{
+			"title": "писати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/писати"
+		},
+		{
+			"title": "робити (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/робити"
+		},
+		{
+			"title": "бути (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/бути"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"title": "The past in sentences",
+	"summary": "Who did it? The subject, or the name of the person spoken to, tells you the gender.",
+	"cells": {
+		"he.chytaty": {
+			"sentenceGloss": "He was reading a book yesterday.",
+			"note": "Past tense: masculine singular."
+		},
+		"she.chytaty": {
+			"sentenceGloss": "She was reading a book yesterday.",
+			"note": "Past tense: feminine singular."
+		},
+		"they.chytaty": {
+			"sentenceGloss": "They were reading a newspaper yesterday.",
+			"note": "Past tense: plural."
+		},
+		"he.pysaty": {
+			"sentenceGloss": "Yesterday my brother was writing a letter.",
+			"note": "Past tense: masculine singular."
+		},
+		"she.pysaty": {
+			"sentenceGloss": "Yesterday my sister was writing a letter.",
+			"note": "Past tense: feminine singular."
+		},
+		"they.pysaty": {
+			"sentenceGloss": "They were writing letters yesterday.",
+			"note": "Past tense: plural."
+		},
+		"he.robyty": {
+			"sentenceGloss": "Yesterday Andriy was renovating.",
+			"note": "Past tense: masculine singular."
+		},
+		"she.robyty": {
+			"sentenceGloss": "What were you doing yesterday, Olena?",
+			"note": "Past tense: feminine singular."
+		},
+		"they.robyty": {
+			"sentenceGloss": "We were renovating yesterday.",
+			"note": "Past tense: plural."
+		},
+		"he.buty": {
+			"sentenceGloss": "Where were you yesterday, Andriy?",
+			"note": "Past tense: masculine singular."
+		},
+		"she.buty": {
+			"sentenceGloss": "Where were you yesterday, Olena?",
+			"note": "Past tense: feminine singular."
+		},
+		"it.buty": {
+			"sentenceGloss": "The window was open yesterday.",
+			"note": "Past tense: neuter singular."
+		},
+		"they.buty": {
+			"sentenceGloss": "Where were you yesterday?",
+			"note": "Past tense: plural."
+		}
+	}
+}

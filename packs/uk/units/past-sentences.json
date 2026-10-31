@@ -1,0 +1,123 @@
+{
+	"id": "past-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 13
+	},
+	"cells": [
+		{
+			"id": "he.chytaty",
+			"item": "sentence:past:he.chytaty",
+			"text": "читав",
+			"display": "чита́в",
+			"sentence": "Учо́ра він ___ кни́гу (чита́ти)."
+		},
+		{
+			"id": "she.chytaty",
+			"item": "sentence:past:she.chytaty",
+			"text": "читала",
+			"display": "чита́ла",
+			"sentence": "Учо́ра вона́ ___ кни́гу (чита́ти)."
+		},
+		{
+			"id": "they.chytaty",
+			"item": "sentence:past:they.chytaty",
+			"text": "читали",
+			"display": "чита́ли",
+			"sentence": "Учо́ра вони́ ___ газе́ту (чита́ти)."
+		},
+		{
+			"id": "he.pysaty",
+			"item": "sentence:past:he.pysaty",
+			"text": "писав",
+			"display": "писа́в",
+			"sentence": "Учо́ра мій брат ___ лист (писа́ти)."
+		},
+		{
+			"id": "she.pysaty",
+			"item": "sentence:past:she.pysaty",
+			"text": "писала",
+			"display": "писа́ла",
+			"sentence": "Учо́ра моя́ сестра́ ___ лист (писа́ти)."
+		},
+		{
+			"id": "they.pysaty",
+			"item": "sentence:past:they.pysaty",
+			"text": "писали",
+			"display": "писа́ли",
+			"sentence": "Учо́ра вони́ ___ листи́ (писа́ти)."
+		},
+		{
+			"id": "he.robyty",
+			"item": "sentence:past:he.robyty",
+			"text": "робив",
+			"display": "роби́в",
+			"sentence": "Учо́ра Андрі́й ___ ремо́нт (роби́ти)."
+		},
+		{
+			"id": "she.robyty",
+			"item": "sentence:past:she.robyty",
+			"text": "робила",
+			"display": "роби́ла",
+			"sentence": "Що ти ___ вчо́ра, Оле́но (роби́ти)?"
+		},
+		{
+			"id": "they.robyty",
+			"item": "sentence:past:they.robyty",
+			"text": "робили",
+			"display": "роби́ли",
+			"sentence": "Учо́ра ми ___ ремо́нт (роби́ти)."
+		},
+		{
+			"id": "he.buty",
+			"item": "sentence:past:he.buty",
+			"text": "був",
+			"sentence": "Де ти вчо́ра ___, Андрі́ю (бу́ти)?"
+		},
+		{
+			"id": "she.buty",
+			"item": "sentence:past:she.buty",
+			"text": "була",
+			"display": "була́",
+			"sentence": "Де ти вчо́ра ___, Оле́но (бу́ти)?"
+		},
+		{
+			"id": "it.buty",
+			"item": "sentence:past:it.buty",
+			"text": "було",
+			"display": "було́",
+			"sentence": "Учо́ра вікно́ ___ відчи́нене (бу́ти)."
+		},
+		{
+			"id": "they.buty",
+			"item": "sentence:past:they.buty",
+			"text": "були",
+			"display": "були́",
+			"sentence": "Де ви вчо́ра ___ (бу́ти)?"
+		}
+	],
+	"sources": [
+		{
+			"title": "читати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/читати"
+		},
+		{
+			"title": "писати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/писати"
+		},
+		{
+			"title": "робити (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/робити"
+		},
+		{
+			"title": "бути (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/бути"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

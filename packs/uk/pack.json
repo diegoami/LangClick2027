@@ -145,6 +145,30 @@
 			]
 		},
 		{
+			"id": "g04",
+			"section": "grammar",
+			"units": ["present", "present-sentences"],
+			"study": [
+				{
+					"kind": "reading",
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				}
+			]
+		},
+		{
+			"id": "g05",
+			"section": "grammar",
+			"units": ["past", "past-sentences", "future", "future-sentences"],
+			"study": [
+				{
+					"kind": "reading",
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				}
+			]
+		},
+		{
 			"id": "l09",
 			"section": "themes",
 			"units": ["family"],
