@@ -1,0 +1,15 @@
+{
+	"title": "Przypadki: брат (brat)",
+	"summary": "Rzeczownik rodzaju męskiego oznaczający osobę, we wszystkich 7 przypadkach. Niektóre formy wypełniają kilka pól.",
+	"headers": {
+		"nom": "Mianownik",
+		"gen": "Dopełniacz",
+		"dat": "Celownik",
+		"acc": "Biernik",
+		"ins": "Narzędnik",
+		"loc": "Miejscownik",
+		"voc": "Wołacz",
+		"sg": "Liczba pojedyncza",
+		"pl": "Liczba mnoga"
+	}
+}

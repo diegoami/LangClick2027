@@ -102,9 +102,40 @@
 			]
 		},
 		{
+			"id": "g01",
+			"section": "grammar",
+			"units": ["pronouns-personal", "pronouns-third", "pronouns-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 4: Знайомство, або Як тебе звати",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				}
+			]
+		},
+		{
+			"id": "g02",
+			"section": "grammar",
+			"units": ["vocative", "vocative-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 4: Знайомство, або Як тебе звати",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				}
+			]
+		},
+		{
 			"id": "g03",
 			"section": "grammar",
-			"units": ["kimnata", "kimnata-sentences"],
+			"units": [
+				"kimnata",
+				"kimnata-sentences",
+				"brat",
+				"brat-sentences",
+				"vikno",
+				"vikno-sentences"
+			],
 			"study": [
 				{
 					"kind": "video",

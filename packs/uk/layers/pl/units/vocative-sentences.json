@@ -1,0 +1,54 @@
+{
+	"title": "Wołacz w zdaniach",
+	"summary": "Do kogo ktoś się zwraca? Wybierz formę słowa w nawiasie.",
+	"cells": {
+		"pan": {
+			"sentenceGloss": "Dzień dobry panu!",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"mama": {
+			"sentenceGloss": "Dziękuję, mamo!",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"brat": {
+			"sentenceGloss": "Słuchaj, bracie!",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"uchytel": {
+			"sentenceGloss": "Do widzenia, nauczycielu!",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"olena": {
+			"sentenceGloss": "Cześć, Oleno!",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"syn": {
+			"sentenceGloss": "Chodź tu, synu!",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"druh": {
+			"sentenceGloss": "Co słychać, przyjacielu?",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"tato": {
+			"sentenceGloss": "Dzień dobry, tato!",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"babusia": {
+			"sentenceGloss": "Dziękuję, babciu!",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"sestra": {
+			"sentenceGloss": "Słuchaj, siostro!",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"andriy": {
+			"sentenceGloss": "Cześć, Andriju!",
+			"note": "Wołacz: zwrot do kogoś."
+		},
+		"mariya": {
+			"sentenceGloss": "Do widzenia, Mario!",
+			"note": "Wołacz: zwrot do kogoś."
+		}
+	}
+}

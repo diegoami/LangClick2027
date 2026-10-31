@@ -1,0 +1,263 @@
+{
+	"id": "vikno",
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["nom", "gen", "dat", "acc", "ins", "loc", "voc"],
+		"columns": ["sg", "pl"]
+	},
+	"cells": [
+		{
+			"id": "nom.sg",
+			"item": "noun:vikno:nom.sg",
+			"text": "вікно",
+			"display": "вікно́",
+			"ipa": "/ʋikˈnɔ/",
+			"cognates": {
+				"ru": {
+					"form": "окно́"
+				},
+				"pl": {
+					"form": "okno"
+				}
+			},
+			"row": "nom",
+			"col": "sg"
+		},
+		{
+			"id": "gen.sg",
+			"item": "noun:vikno:gen.sg",
+			"text": "вікна",
+			"display": "вікна́",
+			"ipa": "/ʋikˈna/",
+			"cognates": {
+				"ru": {
+					"form": "окна́"
+				},
+				"pl": {
+					"form": "okna"
+				}
+			},
+			"concepts": ["free-stress"],
+			"row": "gen",
+			"col": "sg"
+		},
+		{
+			"id": "dat.sg",
+			"item": "noun:vikno:dat.sg",
+			"text": "вікну",
+			"display": "вікну́",
+			"ipa": "/ʋikˈnu/",
+			"cognates": {
+				"ru": {
+					"form": "окну́"
+				},
+				"pl": {
+					"form": "oknu"
+				}
+			},
+			"row": "dat",
+			"col": "sg"
+		},
+		{
+			"id": "acc.sg",
+			"item": "noun:vikno:acc.sg",
+			"text": "вікно",
+			"display": "вікно́",
+			"ipa": "/ʋikˈnɔ/",
+			"cognates": {
+				"ru": {
+					"form": "окно́"
+				},
+				"pl": {
+					"form": "okno"
+				}
+			},
+			"row": "acc",
+			"col": "sg"
+		},
+		{
+			"id": "ins.sg",
+			"item": "noun:vikno:ins.sg",
+			"text": "вікном",
+			"display": "вікно́м",
+			"ipa": "/ʋikˈnɔm/",
+			"cognates": {
+				"ru": {
+					"form": "окно́м"
+				},
+				"pl": {
+					"form": "oknem"
+				}
+			},
+			"row": "ins",
+			"col": "sg"
+		},
+		{
+			"id": "loc.sg",
+			"item": "noun:vikno:loc.sg",
+			"text": "вікні",
+			"display": "вікні́",
+			"ipa": "/ʋikˈnʲi/",
+			"cognates": {
+				"ru": {
+					"form": "окне́"
+				},
+				"pl": {
+					"form": "oknie"
+				}
+			},
+			"row": "loc",
+			"col": "sg"
+		},
+		{
+			"id": "voc.sg",
+			"item": "noun:vikno:voc.sg",
+			"text": "вікно",
+			"display": "вікно́",
+			"ipa": "/ʋikˈnɔ/",
+			"cognates": {
+				"ru": {
+					"form": "окно́"
+				},
+				"pl": {
+					"form": "okno"
+				}
+			},
+			"row": "voc",
+			"col": "sg"
+		},
+		{
+			"id": "nom.pl",
+			"item": "noun:vikno:nom.pl",
+			"text": "вікна",
+			"display": "ві́кна",
+			"ipa": "/ˈʋikna/",
+			"cognates": {
+				"ru": {
+					"form": "о́кна"
+				},
+				"pl": {
+					"form": "okna"
+				}
+			},
+			"concepts": ["free-stress"],
+			"row": "nom",
+			"col": "pl"
+		},
+		{
+			"id": "gen.pl",
+			"item": "noun:vikno:gen.pl",
+			"text": "вікон",
+			"display": "ві́кон",
+			"ipa": "/ˈʋikɔn/",
+			"cognates": {
+				"ru": {
+					"form": "о́кон"
+				},
+				"pl": {
+					"form": "okien"
+				}
+			},
+			"row": "gen",
+			"col": "pl"
+		},
+		{
+			"id": "dat.pl",
+			"item": "noun:vikno:dat.pl",
+			"text": "вікнам",
+			"display": "ві́кнам",
+			"ipa": "/ˈʋiknam/",
+			"cognates": {
+				"ru": {
+					"form": "о́кнам"
+				},
+				"pl": {
+					"form": "oknom"
+				}
+			},
+			"row": "dat",
+			"col": "pl"
+		},
+		{
+			"id": "acc.pl",
+			"item": "noun:vikno:acc.pl",
+			"text": "вікна",
+			"display": "ві́кна",
+			"ipa": "/ˈʋikna/",
+			"cognates": {
+				"ru": {
+					"form": "о́кна"
+				},
+				"pl": {
+					"form": "okna"
+				}
+			},
+			"concepts": ["free-stress"],
+			"row": "acc",
+			"col": "pl"
+		},
+		{
+			"id": "ins.pl",
+			"item": "noun:vikno:ins.pl",
+			"text": "вікнами",
+			"display": "ві́кнами",
+			"ipa": "/ˈʋiknamɪ/",
+			"cognates": {
+				"ru": {
+					"form": "о́кнами"
+				},
+				"pl": {
+					"form": "oknami"
+				}
+			},
+			"row": "ins",
+			"col": "pl"
+		},
+		{
+			"id": "loc.pl",
+			"item": "noun:vikno:loc.pl",
+			"text": "вікнах",
+			"display": "ві́кнах",
+			"ipa": "/ˈʋiknax/",
+			"cognates": {
+				"ru": {
+					"form": "о́кнах"
+				},
+				"pl": {
+					"form": "oknach"
+				}
+			},
+			"row": "loc",
+			"col": "pl"
+		},
+		{
+			"id": "voc.pl",
+			"item": "noun:vikno:voc.pl",
+			"text": "вікна",
+			"display": "ві́кна",
+			"ipa": "/ˈʋikna/",
+			"cognates": {
+				"ru": {
+					"form": "о́кна"
+				},
+				"pl": {
+					"form": "okna"
+				}
+			},
+			"concepts": ["free-stress"],
+			"row": "voc",
+			"col": "pl"
+		}
+	],
+	"sources": [
+		{
+			"title": "вікно (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/вікно"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

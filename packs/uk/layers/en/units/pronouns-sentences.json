@@ -1,0 +1,70 @@
+{
+	"title": "Pronouns in sentences",
+	"summary": "Which form of the pronoun in brackets fits the gap? The words around it tell you the case.",
+	"cells": {
+		"ya.acc": {
+			"sentenceGloss": "He sees me.",
+			"note": "Accusative: the direct object."
+		},
+		"ty.dat": {
+			"sentenceGloss": "She is giving you a book.",
+			"note": "Dative: the one it goes to."
+		},
+		"ya.ins": {
+			"sentenceGloss": "You are coming with me.",
+			"note": "Instrumental, after зі."
+		},
+		"ya.gen": {
+			"sentenceGloss": "I have a brother.",
+			"note": "Genitive, after у."
+		},
+		"ty.ins": {
+			"sentenceGloss": "I am talking to you.",
+			"note": "Instrumental, after з."
+		},
+		"my.gen": {
+			"sentenceGloss": "This is for us.",
+			"note": "Genitive, after для."
+		},
+		"vy.dat": {
+			"sentenceGloss": "We are writing you a letter.",
+			"note": "Dative: the one it goes to."
+		},
+		"vy.acc": {
+			"sentenceGloss": "They are talking about you.",
+			"note": "Accusative, after про."
+		},
+		"ya.dat": {
+			"sentenceGloss": "Tell me, please.",
+			"note": "Dative: the one it goes to."
+		},
+		"he.prep": {
+			"sentenceGloss": "I am thinking about him.",
+			"note": "Accusative, after про."
+		},
+		"she.prep": {
+			"sentenceGloss": "She has a sister.",
+			"note": "Genitive, after у."
+		},
+		"they.acc": {
+			"sentenceGloss": "I see them.",
+			"note": "Accusative: the direct object."
+		},
+		"he.dat": {
+			"sentenceGloss": "Give him a book.",
+			"note": "Dative: the one it goes to."
+		},
+		"she.ins": {
+			"sentenceGloss": "I am going with her.",
+			"note": "Instrumental, after з."
+		},
+		"they.ins": {
+			"sentenceGloss": "We live with them.",
+			"note": "Instrumental, after з."
+		},
+		"she.acc": {
+			"sentenceGloss": "He sees her.",
+			"note": "Accusative: the direct object."
+		}
+	}
+}

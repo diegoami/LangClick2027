@@ -1,0 +1,104 @@
+{
+	"id": "vocative-sentences",
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 12
+	},
+	"cells": [
+		{
+			"id": "pan",
+			"item": "sentence:vocative:pan",
+			"text": "пане",
+			"display": "па́не",
+			"sentence": "До́брий день, ___! (пан)"
+		},
+		{
+			"id": "mama",
+			"item": "sentence:vocative:mama",
+			"text": "мамо",
+			"display": "ма́мо",
+			"sentence": "Дя́кую, ___! (ма́ма)"
+		},
+		{
+			"id": "brat",
+			"item": "sentence:vocative:brat",
+			"text": "брате",
+			"display": "бра́те",
+			"sentence": "Слу́хай, ___! (брат)"
+		},
+		{
+			"id": "uchytel",
+			"item": "sentence:vocative:uchytel",
+			"text": "учителю",
+			"display": "учи́телю",
+			"sentence": "До поба́чення, ___! (учи́тель)"
+		},
+		{
+			"id": "olena",
+			"item": "sentence:vocative:olena",
+			"text": "Олено",
+			"display": "Оле́но",
+			"sentence": "Приві́т, ___! (Оле́на)"
+		},
+		{
+			"id": "syn",
+			"item": "sentence:vocative:syn",
+			"text": "сину",
+			"display": "си́ну",
+			"sentence": "Ходи́ сюди́, ___! (син)"
+		},
+		{
+			"id": "druh",
+			"item": "sentence:vocative:druh",
+			"text": "друже",
+			"display": "дру́же",
+			"sentence": "Як спра́ви, ___? (друг)"
+		},
+		{
+			"id": "tato",
+			"item": "sentence:vocative:tato",
+			"text": "тату",
+			"display": "та́ту",
+			"sentence": "До́брий ра́нок, ___! (та́то)"
+		},
+		{
+			"id": "babusia",
+			"item": "sentence:vocative:babusia",
+			"text": "бабусю",
+			"display": "бабу́сю",
+			"sentence": "Дя́кую, ___! (бабу́ся)"
+		},
+		{
+			"id": "sestra",
+			"item": "sentence:vocative:sestra",
+			"text": "сестро",
+			"display": "се́стро",
+			"sentence": "Слу́хай, ___! (сестра́)"
+		},
+		{
+			"id": "andriy",
+			"item": "sentence:vocative:andriy",
+			"text": "Андрію",
+			"display": "Андрі́ю",
+			"sentence": "Приві́т, ___! (Андрі́й)"
+		},
+		{
+			"id": "mariya",
+			"item": "sentence:vocative:mariya",
+			"text": "Маріє",
+			"display": "Марі́є",
+			"sentence": "До поба́чення, ___! (Марі́я)"
+		}
+	],
+	"sources": [
+		{
+			"title": "Ukrainian grammar (Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

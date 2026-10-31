@@ -1,0 +1,425 @@
+{
+	"id": "pronouns-personal",
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["ya", "ty", "my", "vy"],
+		"columns": ["gen", "prep", "dat", "acc", "ins", "loc"]
+	},
+	"cells": [
+		{
+			"id": "ya.gen",
+			"item": "pronoun:ya:gen",
+			"text": "мене",
+			"display": "мене́",
+			"ipa": "/mɛˈnɛ/",
+			"cognates": {
+				"ru": {
+					"form": "меня́"
+				},
+				"pl": {
+					"form": "mnie"
+				}
+			},
+			"row": "ya",
+			"col": "gen"
+		},
+		{
+			"id": "ya.prep",
+			"item": "pronoun:ya:prep",
+			"text": "мене",
+			"display": "ме́не",
+			"ipa": "/ˈmɛnɛ/",
+			"cognates": {
+				"ru": {
+					"form": "меня́"
+				},
+				"pl": {
+					"form": "mnie"
+				}
+			},
+			"concepts": ["pronoun-stress"],
+			"row": "ya",
+			"col": "prep"
+		},
+		{
+			"id": "ya.dat",
+			"item": "pronoun:ya:dat",
+			"text": "мені",
+			"display": "мені́",
+			"ipa": "/mɛˈnʲi/",
+			"cognates": {
+				"ru": {
+					"form": "мне"
+				},
+				"pl": {
+					"form": "mnie"
+				}
+			},
+			"row": "ya",
+			"col": "dat"
+		},
+		{
+			"id": "ya.acc",
+			"item": "pronoun:ya:acc",
+			"text": "мене",
+			"display": "мене́",
+			"ipa": "/mɛˈnɛ/",
+			"cognates": {
+				"ru": {
+					"form": "меня́"
+				},
+				"pl": {
+					"form": "mnie"
+				}
+			},
+			"row": "ya",
+			"col": "acc"
+		},
+		{
+			"id": "ya.ins",
+			"item": "pronoun:ya:ins",
+			"text": "мною",
+			"display": "мно́ю",
+			"ipa": "/ˈmnɔju/",
+			"cognates": {
+				"ru": {
+					"form": "мной"
+				},
+				"pl": {
+					"form": "mną"
+				}
+			},
+			"row": "ya",
+			"col": "ins"
+		},
+		{
+			"id": "ya.loc",
+			"item": "pronoun:ya:loc",
+			"text": "мені",
+			"display": "мені́",
+			"ipa": "/mɛˈnʲi/",
+			"cognates": {
+				"ru": {
+					"form": "мне"
+				},
+				"pl": {
+					"form": "mnie"
+				}
+			},
+			"row": "ya",
+			"col": "loc"
+		},
+		{
+			"id": "ty.gen",
+			"item": "pronoun:ty:gen",
+			"text": "тебе",
+			"display": "тебе́",
+			"ipa": "/tɛˈbɛ/",
+			"cognates": {
+				"ru": {
+					"form": "тебя́"
+				},
+				"pl": {
+					"form": "ciebie"
+				}
+			},
+			"row": "ty",
+			"col": "gen"
+		},
+		{
+			"id": "ty.prep",
+			"item": "pronoun:ty:prep",
+			"text": "тебе",
+			"display": "те́бе",
+			"ipa": "/ˈtɛbɛ/",
+			"cognates": {
+				"ru": {
+					"form": "тебя́"
+				},
+				"pl": {
+					"form": "ciebie"
+				}
+			},
+			"concepts": ["pronoun-stress"],
+			"row": "ty",
+			"col": "prep"
+		},
+		{
+			"id": "ty.dat",
+			"item": "pronoun:ty:dat",
+			"text": "тобі",
+			"display": "тобі́",
+			"ipa": "/tɔˈbi/",
+			"cognates": {
+				"ru": {
+					"form": "тебе́"
+				},
+				"pl": {
+					"form": "tobie"
+				}
+			},
+			"row": "ty",
+			"col": "dat"
+		},
+		{
+			"id": "ty.acc",
+			"item": "pronoun:ty:acc",
+			"text": "тебе",
+			"display": "тебе́",
+			"ipa": "/tɛˈbɛ/",
+			"cognates": {
+				"ru": {
+					"form": "тебя́"
+				},
+				"pl": {
+					"form": "ciebie"
+				}
+			},
+			"row": "ty",
+			"col": "acc"
+		},
+		{
+			"id": "ty.ins",
+			"item": "pronoun:ty:ins",
+			"text": "тобою",
+			"display": "тобо́ю",
+			"ipa": "/tɔˈbɔju/",
+			"cognates": {
+				"ru": {
+					"form": "тобо́й"
+				},
+				"pl": {
+					"form": "tobą"
+				}
+			},
+			"row": "ty",
+			"col": "ins"
+		},
+		{
+			"id": "ty.loc",
+			"item": "pronoun:ty:loc",
+			"text": "тобі",
+			"display": "тобі́",
+			"ipa": "/tɔˈbi/",
+			"cognates": {
+				"ru": {
+					"form": "тебе́"
+				},
+				"pl": {
+					"form": "tobie"
+				}
+			},
+			"row": "ty",
+			"col": "loc"
+		},
+		{
+			"id": "my.gen",
+			"item": "pronoun:my:gen",
+			"text": "нас",
+			"ipa": "/nas/",
+			"cognates": {
+				"ru": {
+					"form": "нас"
+				},
+				"pl": {
+					"form": "nas"
+				}
+			},
+			"row": "my",
+			"col": "gen"
+		},
+		{
+			"id": "my.prep",
+			"item": "pronoun:my:prep",
+			"text": "нас",
+			"ipa": "/nas/",
+			"cognates": {
+				"ru": {
+					"form": "нас"
+				},
+				"pl": {
+					"form": "nas"
+				}
+			},
+			"row": "my",
+			"col": "prep"
+		},
+		{
+			"id": "my.dat",
+			"item": "pronoun:my:dat",
+			"text": "нам",
+			"ipa": "/nam/",
+			"cognates": {
+				"ru": {
+					"form": "нам"
+				},
+				"pl": {
+					"form": "nam"
+				}
+			},
+			"row": "my",
+			"col": "dat"
+		},
+		{
+			"id": "my.acc",
+			"item": "pronoun:my:acc",
+			"text": "нас",
+			"ipa": "/nas/",
+			"cognates": {
+				"ru": {
+					"form": "нас"
+				},
+				"pl": {
+					"form": "nas"
+				}
+			},
+			"row": "my",
+			"col": "acc"
+		},
+		{
+			"id": "my.ins",
+			"item": "pronoun:my:ins",
+			"text": "нами",
+			"display": "на́ми",
+			"ipa": "/ˈnamɪ/",
+			"cognates": {
+				"ru": {
+					"form": "на́ми"
+				},
+				"pl": {
+					"form": "nami"
+				}
+			},
+			"row": "my",
+			"col": "ins"
+		},
+		{
+			"id": "my.loc",
+			"item": "pronoun:my:loc",
+			"text": "нас",
+			"ipa": "/nas/",
+			"cognates": {
+				"ru": {
+					"form": "нас"
+				},
+				"pl": {
+					"form": "nas"
+				}
+			},
+			"row": "my",
+			"col": "loc"
+		},
+		{
+			"id": "vy.gen",
+			"item": "pronoun:vy:gen",
+			"text": "вас",
+			"ipa": "/ʋas/",
+			"cognates": {
+				"ru": {
+					"form": "вас"
+				},
+				"pl": {
+					"form": "was"
+				}
+			},
+			"row": "vy",
+			"col": "gen"
+		},
+		{
+			"id": "vy.prep",
+			"item": "pronoun:vy:prep",
+			"text": "вас",
+			"ipa": "/ʋas/",
+			"cognates": {
+				"ru": {
+					"form": "вас"
+				},
+				"pl": {
+					"form": "was"
+				}
+			},
+			"row": "vy",
+			"col": "prep"
+		},
+		{
+			"id": "vy.dat",
+			"item": "pronoun:vy:dat",
+			"text": "вам",
+			"ipa": "/ʋam/",
+			"cognates": {
+				"ru": {
+					"form": "вам"
+				},
+				"pl": {
+					"form": "wam"
+				}
+			},
+			"row": "vy",
+			"col": "dat"
+		},
+		{
+			"id": "vy.acc",
+			"item": "pronoun:vy:acc",
+			"text": "вас",
+			"ipa": "/ʋas/",
+			"cognates": {
+				"ru": {
+					"form": "вас"
+				},
+				"pl": {
+					"form": "was"
+				}
+			},
+			"row": "vy",
+			"col": "acc"
+		},
+		{
+			"id": "vy.ins",
+			"item": "pronoun:vy:ins",
+			"text": "вами",
+			"display": "ва́ми",
+			"ipa": "/ˈʋamɪ/",
+			"cognates": {
+				"ru": {
+					"form": "ва́ми"
+				},
+				"pl": {
+					"form": "wami"
+				}
+			},
+			"row": "vy",
+			"col": "ins"
+		},
+		{
+			"id": "vy.loc",
+			"item": "pronoun:vy:loc",
+			"text": "вас",
+			"ipa": "/ʋas/",
+			"cognates": {
+				"ru": {
+					"form": "вас"
+				},
+				"pl": {
+					"form": "was"
+				}
+			},
+			"row": "vy",
+			"col": "loc"
+		}
+	],
+	"sources": [
+		{
+			"title": "я (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/я"
+		},
+		{
+			"title": "він (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/він"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

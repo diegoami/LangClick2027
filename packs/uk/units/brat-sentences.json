@@ -1,0 +1,104 @@
+{
+	"id": "brat-sentences",
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 12
+	},
+	"cells": [
+		{
+			"id": "gen.sg",
+			"item": "sentence:brat:gen.sg",
+			"text": "брата",
+			"display": "бра́та",
+			"sentence": "У ме́не нема́є ста́ршого ___."
+		},
+		{
+			"id": "dat.sg",
+			"item": "sentence:brat:dat.sg",
+			"text": "братові",
+			"display": "бра́тові",
+			"sentence": "Я пишу́ лист своє́му ___."
+		},
+		{
+			"id": "acc.sg",
+			"item": "sentence:brat:acc.sg",
+			"text": "брата",
+			"display": "бра́та",
+			"sentence": "Я ба́чу свого́ ___."
+		},
+		{
+			"id": "ins.sg",
+			"item": "sentence:brat:ins.sg",
+			"text": "братом",
+			"display": "бра́том",
+			"sentence": "Я йду зі свої́м ___."
+		},
+		{
+			"id": "loc.sg",
+			"item": "sentence:brat:loc.sg",
+			"text": "братові",
+			"display": "бра́тові",
+			"sentence": "На моє́му ___ нова́ соро́чка."
+		},
+		{
+			"id": "voc.sg",
+			"item": "sentence:brat:voc.sg",
+			"text": "брате",
+			"display": "бра́те",
+			"sentence": "Дя́кую, мій ___!"
+		},
+		{
+			"id": "nom.pl",
+			"item": "sentence:brat:nom.pl",
+			"text": "брати",
+			"display": "брати́",
+			"sentence": "Мої́ ___ живу́ть у Ки́єві."
+		},
+		{
+			"id": "gen.pl",
+			"item": "sentence:brat:gen.pl",
+			"text": "братів",
+			"display": "браті́в",
+			"sentence": "У не́ї п'ять ___."
+		},
+		{
+			"id": "dat.pl",
+			"item": "sentence:brat:dat.pl",
+			"text": "братам",
+			"display": "брата́м",
+			"sentence": "Я пишу́ лист свої́м ___."
+		},
+		{
+			"id": "acc.pl",
+			"item": "sentence:brat:acc.pl",
+			"text": "братів",
+			"display": "браті́в",
+			"sentence": "Я ба́чу свої́х ___."
+		},
+		{
+			"id": "ins.pl",
+			"item": "sentence:brat:ins.pl",
+			"text": "братами",
+			"display": "брата́ми",
+			"sentence": "Я йду зі свої́ми ___."
+		},
+		{
+			"id": "loc.pl",
+			"item": "sentence:brat:loc.pl",
+			"text": "братах",
+			"display": "брата́х",
+			"sentence": "На мої́х ___ нові́ сорочки́."
+		}
+	],
+	"sources": [
+		{
+			"title": "брат (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/брат"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

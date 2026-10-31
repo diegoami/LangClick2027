@@ -1,0 +1,15 @@
+{
+	"title": "Noun cases: брат (brother)",
+	"summary": "A masculine noun for a person, through all 7 cases. Some forms fill more than one cell.",
+	"headers": {
+		"nom": "Nominative",
+		"gen": "Genitive",
+		"dat": "Dative",
+		"acc": "Accusative",
+		"ins": "Instrumental",
+		"loc": "Locative",
+		"voc": "Vocative",
+		"sg": "Singular",
+		"pl": "Plural"
+	}
+}

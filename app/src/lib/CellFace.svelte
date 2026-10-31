@@ -49,7 +49,7 @@
 	}
 
 	.answer {
-		font-size: 1.15rem;
+		font-size: var(--answer-size, 1.15rem);
 		font-weight: 600;
 		line-height: 1.3;
 	}
@@ -63,7 +63,7 @@
 	}
 
 	.ipa {
-		font-size: 0.75rem;
+		font-size: var(--ipa-size, 0.75rem);
 		color: var(--accent);
 	}
 

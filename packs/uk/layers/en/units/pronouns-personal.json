@@ -1,0 +1,16 @@
+{
+	"title": "я, ти, ми, ви by case",
+	"summary": "The pronouns of the first and second person. Some forms fill more than one cell, and мене́ and тебе́ move their stress after a preposition.",
+	"headers": {
+		"ya": "я",
+		"ty": "ти",
+		"my": "ми",
+		"vy": "ви",
+		"dat": "Da­tive",
+		"acc": "Ac­cu­sa­tive",
+		"ins": "In­stru­men­tal",
+		"loc": "Lo­ca­tive",
+		"gen": "Gen­i­tive",
+		"prep": "After a prep­o­si­tion"
+	}
+}

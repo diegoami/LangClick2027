@@ -1,0 +1,183 @@
+{
+	"id": "vocative",
+	"dealAll": true,
+	"layout": {
+		"type": "grid",
+		"size": 12
+	},
+	"cells": [
+		{
+			"id": "mama",
+			"item": "vocative:mama",
+			"text": "мамо",
+			"display": "ма́мо",
+			"ipa": "/ˈmamɔ/",
+			"clue": "ма́ма",
+			"cognates": {
+				"pl": {
+					"form": "mamo"
+				}
+			},
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "tato",
+			"item": "vocative:tato",
+			"text": "тату",
+			"display": "та́ту",
+			"ipa": "/ˈtatu/",
+			"clue": "та́то",
+			"cognates": {
+				"pl": {
+					"form": "tato"
+				}
+			},
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "brat",
+			"item": "vocative:brat",
+			"text": "брате",
+			"display": "бра́те",
+			"ipa": "/ˈbratɛ/",
+			"clue": "брат",
+			"cognates": {
+				"pl": {
+					"form": "bracie"
+				}
+			},
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "sestra",
+			"item": "vocative:sestra",
+			"text": "сестро",
+			"display": "се́стро",
+			"ipa": "/ˈsɛstrɔ/",
+			"clue": "сестра́",
+			"cognates": {
+				"pl": {
+					"form": "siostro"
+				}
+			},
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "syn",
+			"item": "vocative:syn",
+			"text": "сину",
+			"display": "си́ну",
+			"ipa": "/ˈsɪnu/",
+			"clue": "син",
+			"cognates": {
+				"pl": {
+					"form": "synu"
+				}
+			},
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "druh",
+			"item": "vocative:druh",
+			"text": "друже",
+			"display": "дру́же",
+			"ipa": "/ˈdruʒɛ/",
+			"clue": "друг",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "pan",
+			"item": "vocative:pan",
+			"text": "пане",
+			"display": "па́не",
+			"ipa": "/ˈpanɛ/",
+			"clue": "пан",
+			"cognates": {
+				"pl": {
+					"form": "panie"
+				}
+			},
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "uchytel",
+			"item": "vocative:uchytel",
+			"text": "учителю",
+			"display": "учи́телю",
+			"ipa": "/uˈt͡ʃɪtɛlʲu/",
+			"clue": "учи́тель",
+			"cognates": {
+				"pl": {
+					"form": "nauczycielu"
+				}
+			},
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "olena",
+			"item": "vocative:olena",
+			"text": "Олено",
+			"display": "Оле́но",
+			"ipa": "/ɔˈlɛnɔ/",
+			"clue": "Оле́на",
+			"cognates": {
+				"pl": {
+					"form": "Oleno"
+				}
+			},
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "andriy",
+			"item": "vocative:andriy",
+			"text": "Андрію",
+			"display": "Андрі́ю",
+			"ipa": "/anˈdrʲiju/",
+			"clue": "Андрі́й",
+			"cognates": {
+				"pl": {
+					"form": "Andriju"
+				}
+			},
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "mariya",
+			"item": "vocative:mariya",
+			"text": "Маріє",
+			"display": "Марі́є",
+			"ipa": "/maˈrʲijɛ/",
+			"clue": "Марі́я",
+			"cognates": {
+				"pl": {
+					"form": "Mario"
+				}
+			},
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "babusia",
+			"item": "vocative:babusia",
+			"text": "бабусю",
+			"display": "бабу́сю",
+			"ipa": "/baˈbusʲu/",
+			"clue": "бабу́ся",
+			"cognates": {
+				"pl": {
+					"form": "babciu"
+				}
+			},
+			"concepts": ["vocative"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Ukrainian grammar (Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

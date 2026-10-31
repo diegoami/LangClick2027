@@ -1,0 +1,15 @@
+{
+	"title": "він, вона, вони przez przypadki",
+	"summary": "Zaimki trzeciej osoby. Po przyimku z dopełniaczem lub biernikiem dostają н. воно odmienia się jak він. Niektóre formy wypełniają kilka pól.",
+	"headers": {
+		"he": "він",
+		"she": "вона",
+		"they": "вони",
+		"gen": "Do­peł­niacz",
+		"prep": "Po przy­im­ku",
+		"dat": "Ce­low­nik",
+		"acc": "Bier­nik",
+		"ins": "Na­rzęd­nik",
+		"loc": "Miej­scow­nik"
+	}
+}

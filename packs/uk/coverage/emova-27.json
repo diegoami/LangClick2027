@@ -21,7 +21,13 @@
 		{
 			"number": 4,
 			"title": "Знайомство, або Як тебе звати",
-			"units": []
+			"units": [
+				"pronouns-personal",
+				"pronouns-third",
+				"pronouns-sentences",
+				"vocative",
+				"vocative-sentences"
+			]
 		},
 		{
 			"number": 5,
