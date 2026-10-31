@@ -1,0 +1,20 @@
+{
+	"title": "Noun cases: вікно (window)",
+	"summary": "A neuter noun through all 7 cases. Its stress moves: вікна́ is genitive singular, ві́кна is plural, and a slip shows them alike.",
+	"headers": {
+		"nom": "Nominative",
+		"gen": "Genitive",
+		"dat": "Dative",
+		"acc": "Accusative",
+		"ins": "Instrumental",
+		"loc": "Locative",
+		"voc": "Vocative",
+		"sg": "Singular",
+		"pl": "Plural"
+	},
+	"cells": {
+		"loc.sg": {
+			"note": "вікну́ is also a locative; this board shows вікні́."
+		}
+	}
+}

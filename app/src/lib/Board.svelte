@@ -42,7 +42,12 @@
 
 {#if unit.layout.type === 'table'}
 	{@const { rows, columns } = unit.layout}
-	<table class="board-table">
+	<!-- Many columns have to fit a phone. Short row labels, such as pronouns, leave them more room. -->
+	<table
+		class="board-table"
+		class:dense={columns.length >= 5}
+		class:short-rows={rows.every((row) => row.label.length <= 6)}
+	>
 		<thead>
 			<tr>
 				<td></td>
@@ -83,6 +88,17 @@
 
 	.board-table thead td {
 		width: 28%;
+	}
+
+	.board-table.short-rows thead td {
+		width: 11%;
+	}
+
+	.board-table.dense {
+		--answer-size: clamp(0.8rem, 3.7vw, 1.15rem);
+		--ipa-size: clamp(0.56rem, 2.45vw, 0.75rem);
+		--cell-padding: clamp(0.1rem, 0.6vw, 0.35rem);
+		border-spacing: clamp(0.12rem, 0.6vw, 0.35rem);
 	}
 
 	th {
@@ -128,7 +144,7 @@
 		gap: 0.15rem;
 		width: 100%;
 		min-height: 3.25rem;
-		padding: 0.35rem;
+		padding: var(--cell-padding, 0.35rem);
 		border: 1px solid var(--line);
 		border-radius: 0.4rem;
 		background: var(--card);

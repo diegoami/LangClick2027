@@ -1,0 +1,20 @@
+{
+	"title": "Przypadki: вікно (okno)",
+	"summary": "Rzeczownik rodzaju nijakiego we wszystkich 7 przypadkach. Akcent się przesuwa: вікна́ to dopełniacz liczby pojedynczej, ві́кна to liczba mnoga, a na kartce wyglądają tak samo.",
+	"headers": {
+		"nom": "Mianownik",
+		"gen": "Dopełniacz",
+		"dat": "Celownik",
+		"acc": "Biernik",
+		"ins": "Narzędnik",
+		"loc": "Miejscownik",
+		"voc": "Wołacz",
+		"sg": "Liczba pojedyncza",
+		"pl": "Liczba mnoga"
+	},
+	"cells": {
+		"loc.sg": {
+			"note": "вікну́ to też miejscownik; ta tablica pokazuje вікні́."
+		}
+	}
+}

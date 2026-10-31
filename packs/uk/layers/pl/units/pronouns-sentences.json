@@ -1,0 +1,70 @@
+{
+	"title": "Zaimki w zdaniach",
+	"summary": "Która forma zaimka w nawiasie pasuje do luki? Słowa wokół niej wskazują przypadek.",
+	"cells": {
+		"ya.acc": {
+			"sentenceGloss": "On mnie widzi.",
+			"note": "Biernik: dopełnienie bliższe."
+		},
+		"ty.dat": {
+			"sentenceGloss": "Ona daje ci książkę.",
+			"note": "Celownik: adresat."
+		},
+		"ya.ins": {
+			"sentenceGloss": "Idziesz ze mną.",
+			"note": "Narzędnik, po зі."
+		},
+		"ya.gen": {
+			"sentenceGloss": "Mam brata.",
+			"note": "Dopełniacz, po у."
+		},
+		"ty.ins": {
+			"sentenceGloss": "Rozmawiam z tobą.",
+			"note": "Narzędnik, po з."
+		},
+		"my.gen": {
+			"sentenceGloss": "To dla nas.",
+			"note": "Dopełniacz, po для."
+		},
+		"vy.dat": {
+			"sentenceGloss": "Piszemy do was list.",
+			"note": "Celownik: adresat."
+		},
+		"vy.acc": {
+			"sentenceGloss": "Mówią o was.",
+			"note": "Biernik, po про."
+		},
+		"ya.dat": {
+			"sentenceGloss": "Powiedz mi, proszę.",
+			"note": "Celownik: adresat."
+		},
+		"he.prep": {
+			"sentenceGloss": "Myślę o nim.",
+			"note": "Biernik, po про."
+		},
+		"she.prep": {
+			"sentenceGloss": "Ona ma siostrę.",
+			"note": "Dopełniacz, po у."
+		},
+		"they.acc": {
+			"sentenceGloss": "Widzę ich.",
+			"note": "Biernik: dopełnienie bliższe."
+		},
+		"he.dat": {
+			"sentenceGloss": "Daj mu książkę.",
+			"note": "Celownik: adresat."
+		},
+		"she.ins": {
+			"sentenceGloss": "Idę z nią.",
+			"note": "Narzędnik, po з."
+		},
+		"they.ins": {
+			"sentenceGloss": "Mieszkamy z nimi.",
+			"note": "Narzędnik, po з."
+		},
+		"she.acc": {
+			"sentenceGloss": "On ją widzi.",
+			"note": "Biernik: dopełnienie bliższe."
+		}
+	}
+}

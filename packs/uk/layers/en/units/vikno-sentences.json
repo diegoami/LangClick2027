@@ -1,0 +1,46 @@
+{
+	"title": "вікно in sentences",
+	"summary": "The same forms in use. Read each sentence and choose the form that fits its gap: the words around it tell you the case and the number.",
+	"cells": {
+		"gen.sg": {
+			"sentenceGloss": "A table stands by this window.",
+			"note": "Genitive singular, after біля."
+		},
+		"dat.sg": {
+			"sentenceGloss": "Thanks to this window there is a lot of light here.",
+			"note": "Dative singular, after завдяки."
+		},
+		"acc.sg": {
+			"sentenceGloss": "I am opening this window.",
+			"note": "Accusative singular: the direct object."
+		},
+		"ins.sg": {
+			"sentenceGloss": "Behind this window there is a garden.",
+			"note": "Instrumental singular, after за."
+		},
+		"nom.pl": {
+			"sentenceGloss": "These windows are big.",
+			"note": "Nominative plural: the subject."
+		},
+		"gen.pl": {
+			"sentenceGloss": "There are five windows in the room.",
+			"note": "Genitive plural, after п'ять."
+		},
+		"dat.pl": {
+			"sentenceGloss": "Thanks to these windows there is a lot of light here.",
+			"note": "Dative plural, after завдяки."
+		},
+		"acc.pl": {
+			"sentenceGloss": "I am opening these windows.",
+			"note": "Accusative plural: the direct object."
+		},
+		"ins.pl": {
+			"sentenceGloss": "Behind these windows there is a garden.",
+			"note": "Instrumental plural, after за."
+		},
+		"loc.pl": {
+			"sentenceGloss": "These windows have no curtains.",
+			"note": "Locative plural, after на."
+		}
+	}
+}

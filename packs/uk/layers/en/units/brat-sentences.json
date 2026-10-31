@@ -1,0 +1,54 @@
+{
+	"title": "брат in sentences",
+	"summary": "The same forms in use. Read each sentence and choose the form that fits its gap: the words around it tell you the case and the number.",
+	"cells": {
+		"gen.sg": {
+			"sentenceGloss": "I have no older brother.",
+			"note": "Genitive singular, after немає."
+		},
+		"dat.sg": {
+			"sentenceGloss": "I am writing a letter to my brother.",
+			"note": "Dative singular: the one it goes to. бра́ту is also right."
+		},
+		"acc.sg": {
+			"sentenceGloss": "I see my brother.",
+			"note": "Accusative singular: the direct object."
+		},
+		"ins.sg": {
+			"sentenceGloss": "I am going with my brother.",
+			"note": "Instrumental singular, after зі."
+		},
+		"loc.sg": {
+			"sentenceGloss": "My brother is wearing a new shirt.",
+			"note": "Locative singular, after на. бра́ті is also right."
+		},
+		"voc.sg": {
+			"sentenceGloss": "Thank you, my brother!",
+			"note": "Vocative singular: addressing someone."
+		},
+		"nom.pl": {
+			"sentenceGloss": "My brothers live in Kyiv.",
+			"note": "Nominative plural: the subject."
+		},
+		"gen.pl": {
+			"sentenceGloss": "She has five brothers.",
+			"note": "Genitive plural, after п'ять."
+		},
+		"dat.pl": {
+			"sentenceGloss": "I am writing a letter to my brothers.",
+			"note": "Dative plural: the one it goes to."
+		},
+		"acc.pl": {
+			"sentenceGloss": "I see my brothers.",
+			"note": "Accusative plural: the direct object."
+		},
+		"ins.pl": {
+			"sentenceGloss": "I am going with my brothers.",
+			"note": "Instrumental plural, after зі."
+		},
+		"loc.pl": {
+			"sentenceGloss": "My brothers are wearing new shirts.",
+			"note": "Locative plural, after на."
+		}
+	}
+}

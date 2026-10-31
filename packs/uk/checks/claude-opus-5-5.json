@@ -168,6 +168,138 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/brat-sentences/gen.sg",
+			"seen": "{\"item\":\"sentence:brat:gen.sg\",\"text\":\"брата\",\"display\":\"бра́та\",\"sentence\":\"У ме́не нема́є ста́ршого ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat-sentences/dat.sg",
+			"seen": "{\"item\":\"sentence:brat:dat.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"sentence\":\"Я пишу́ лист своє́му ___.\"}",
+			"verdict": "ok",
+			"comment": "Inanimate лист stays valid, though пишу листа is at least as common in Ukrainian (own knowledge)."
+		},
+		{
+			"key": "core/brat-sentences/acc.sg",
+			"seen": "{\"item\":\"sentence:brat:acc.sg\",\"text\":\"брата\",\"display\":\"бра́та\",\"sentence\":\"Я ба́чу свого́ ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat-sentences/ins.sg",
+			"seen": "{\"item\":\"sentence:brat:ins.sg\",\"text\":\"братом\",\"display\":\"бра́том\",\"sentence\":\"Я йду зі свої́м ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat-sentences/loc.sg",
+			"seen": "{\"item\":\"sentence:brat:loc.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"sentence\":\"На моє́му ___ нова́ соро́чка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat-sentences/voc.sg",
+			"seen": "{\"item\":\"sentence:brat:voc.sg\",\"text\":\"брате\",\"display\":\"бра́те\",\"sentence\":\"Дя́кую, мій ___!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat-sentences/nom.pl",
+			"seen": "{\"item\":\"sentence:brat:nom.pl\",\"text\":\"брати\",\"display\":\"брати́\",\"sentence\":\"Мої́ ___ живу́ть у Ки́єві.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat-sentences/gen.pl",
+			"seen": "{\"item\":\"sentence:brat:gen.pl\",\"text\":\"братів\",\"display\":\"браті́в\",\"sentence\":\"У не́ї п'ять ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat-sentences/dat.pl",
+			"seen": "{\"item\":\"sentence:brat:dat.pl\",\"text\":\"братам\",\"display\":\"брата́м\",\"sentence\":\"Я пишу́ лист свої́м ___.\"}",
+			"verdict": "ok",
+			"comment": "Inanimate лист stays valid, though пишу листа is at least as common in Ukrainian (own knowledge)."
+		},
+		{
+			"key": "core/brat-sentences/acc.pl",
+			"seen": "{\"item\":\"sentence:brat:acc.pl\",\"text\":\"братів\",\"display\":\"браті́в\",\"sentence\":\"Я ба́чу свої́х ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat-sentences/ins.pl",
+			"seen": "{\"item\":\"sentence:brat:ins.pl\",\"text\":\"братами\",\"display\":\"брата́ми\",\"sentence\":\"Я йду зі свої́ми ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat-sentences/loc.pl",
+			"seen": "{\"item\":\"sentence:brat:loc.pl\",\"text\":\"братах\",\"display\":\"брата́х\",\"sentence\":\"На мої́х ___ нові́ сорочки́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/nom.sg",
+			"seen": "{\"item\":\"noun:brat:nom.sg\",\"text\":\"брат\",\"ipa\":\"/brat/\",\"cognates\":{\"ru\":{\"form\":\"брат\"},\"pl\":{\"form\":\"brat\"}},\"row\":\"nom\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/gen.sg",
+			"seen": "{\"item\":\"noun:brat:gen.sg\",\"text\":\"брата\",\"display\":\"бра́та\",\"ipa\":\"/ˈbrata/\",\"cognates\":{\"ru\":{\"form\":\"бра́та\"},\"pl\":{\"form\":\"brata\"}},\"concepts\":[\"animate-accusative\"],\"row\":\"gen\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/dat.sg",
+			"seen": "{\"item\":\"noun:brat:dat.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"ipa\":\"/ˈbratɔʋi/\",\"cognates\":{\"ru\":{\"form\":\"бра́ту\"},\"pl\":{\"form\":\"bratu\"}},\"concepts\":[\"dative-ovi\"],\"row\":\"dat\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/acc.sg",
+			"seen": "{\"item\":\"noun:brat:acc.sg\",\"text\":\"брата\",\"display\":\"бра́та\",\"ipa\":\"/ˈbrata/\",\"cognates\":{\"ru\":{\"form\":\"бра́та\"},\"pl\":{\"form\":\"brata\"}},\"concepts\":[\"animate-accusative\"],\"row\":\"acc\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/ins.sg",
+			"seen": "{\"item\":\"noun:brat:ins.sg\",\"text\":\"братом\",\"display\":\"бра́том\",\"ipa\":\"/ˈbratɔm/\",\"cognates\":{\"ru\":{\"form\":\"бра́том\"},\"pl\":{\"form\":\"bratem\"}},\"row\":\"ins\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/loc.sg",
+			"seen": "{\"item\":\"noun:brat:loc.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"ipa\":\"/ˈbratɔʋi/\",\"cognates\":{\"ru\":{\"form\":\"бра́те\"},\"pl\":{\"form\":\"bracie\"}},\"concepts\":[\"dative-ovi\"],\"row\":\"loc\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/voc.sg",
+			"seen": "{\"item\":\"noun:brat:voc.sg\",\"text\":\"брате\",\"display\":\"бра́те\",\"ipa\":\"/ˈbratɛ/\",\"cognates\":{\"ru\":{\"form\":\"брат\"},\"pl\":{\"form\":\"bracie\"}},\"concepts\":[\"vocative\"],\"row\":\"voc\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/nom.pl",
+			"seen": "{\"item\":\"noun:brat:nom.pl\",\"text\":\"брати\",\"display\":\"брати́\",\"ipa\":\"/braˈtɪ/\",\"cognates\":{\"ru\":{\"form\":\"бра́тья\"},\"pl\":{\"form\":\"bracia\"}},\"row\":\"nom\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/gen.pl",
+			"seen": "{\"item\":\"noun:brat:gen.pl\",\"text\":\"братів\",\"display\":\"браті́в\",\"ipa\":\"/braˈtʲiʋ/\",\"cognates\":{\"ru\":{\"form\":\"бра́тьев\"},\"pl\":{\"form\":\"braci\"}},\"concepts\":[\"animate-accusative\"],\"row\":\"gen\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/dat.pl",
+			"seen": "{\"item\":\"noun:brat:dat.pl\",\"text\":\"братам\",\"display\":\"брата́м\",\"ipa\":\"/braˈtam/\",\"cognates\":{\"ru\":{\"form\":\"бра́тьям\"},\"pl\":{\"form\":\"braciom\"}},\"row\":\"dat\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/acc.pl",
+			"seen": "{\"item\":\"noun:brat:acc.pl\",\"text\":\"братів\",\"display\":\"браті́в\",\"ipa\":\"/braˈtʲiʋ/\",\"cognates\":{\"ru\":{\"form\":\"бра́тьев\"},\"pl\":{\"form\":\"braci\"}},\"concepts\":[\"animate-accusative\"],\"row\":\"acc\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/ins.pl",
+			"seen": "{\"item\":\"noun:brat:ins.pl\",\"text\":\"братами\",\"display\":\"брата́ми\",\"ipa\":\"/braˈtamɪ/\",\"cognates\":{\"ru\":{\"form\":\"бра́тьями\"},\"pl\":{\"form\":\"braćmi\"}},\"row\":\"ins\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/loc.pl",
+			"seen": "{\"item\":\"noun:brat:loc.pl\",\"text\":\"братах\",\"display\":\"брата́х\",\"ipa\":\"/braˈtax/\",\"cognates\":{\"ru\":{\"form\":\"бра́тьях\"},\"pl\":{\"form\":\"braciach\"}},\"row\":\"loc\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/brat/voc.pl",
+			"seen": "{\"item\":\"noun:brat:voc.pl\",\"text\":\"брати\",\"display\":\"брати́\",\"ipa\":\"/braˈtɪ/\",\"cognates\":{\"ru\":{\"form\":\"бра́тья\"},\"pl\":{\"form\":\"bracia\"}},\"row\":\"voc\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/consonant-chart/p",
 			"seen": "{\"item\":\"consonant:p\",\"text\":\"п\",\"clue\":\"/p/\",\"row\":\"plosive-vl\",\"col\":\"labial\"}",
 			"verdict": "ok"
@@ -571,7 +703,7 @@
 		},
 		{
 			"key": "core/kimnata-sentences/gen.sg",
-			"seen": "{\"item\":\"sentence:kimnata:gen.sg\",\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"sentence\":\"У мене́ нема́є окре́мої ___.\"}",
+			"seen": "{\"item\":\"sentence:kimnata:gen.sg\",\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"sentence\":\"У ме́не нема́є окре́мої ___.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -941,6 +1073,302 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/pronouns-personal/ya.gen",
+			"seen": "{\"item\":\"pronoun:ya:gen\",\"text\":\"мене\",\"display\":\"мене́\",\"ipa\":\"/mɛˈnɛ/\",\"cognates\":{\"ru\":{\"form\":\"меня́\"},\"pl\":{\"form\":\"mnie\"}},\"row\":\"ya\",\"col\":\"gen\"}",
+			"verdict": "ok",
+			"comment": "Form exists, but the board omits ме́не, used after a preposition (en.wiktionary ти table; Goroh до ме́не)."
+		},
+		{
+			"key": "core/pronouns-personal/ya.prep",
+			"seen": "{\"item\":\"pronoun:ya:prep\",\"text\":\"мене\",\"display\":\"ме́не\",\"ipa\":\"/ˈmɛnɛ/\",\"cognates\":{\"ru\":{\"form\":\"меня́\"},\"pl\":{\"form\":\"mnie\"}},\"concepts\":[\"pronoun-stress\"],\"row\":\"ya\",\"col\":\"prep\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/ya.dat",
+			"seen": "{\"item\":\"pronoun:ya:dat\",\"text\":\"мені\",\"display\":\"мені́\",\"ipa\":\"/mɛˈnʲi/\",\"cognates\":{\"ru\":{\"form\":\"мне\"},\"pl\":{\"form\":\"mnie\"}},\"row\":\"ya\",\"col\":\"dat\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/ya.acc",
+			"seen": "{\"item\":\"pronoun:ya:acc\",\"text\":\"мене\",\"display\":\"мене́\",\"ipa\":\"/mɛˈnɛ/\",\"cognates\":{\"ru\":{\"form\":\"меня́\"},\"pl\":{\"form\":\"mnie\"}},\"row\":\"ya\",\"col\":\"acc\"}",
+			"verdict": "ok",
+			"comment": "Form exists, but the board omits ме́не, used after a preposition (en.wiktionary ти table)."
+		},
+		{
+			"key": "core/pronouns-personal/ya.ins",
+			"seen": "{\"item\":\"pronoun:ya:ins\",\"text\":\"мною\",\"display\":\"мно́ю\",\"ipa\":\"/ˈmnɔju/\",\"cognates\":{\"ru\":{\"form\":\"мной\"},\"pl\":{\"form\":\"mną\"}},\"row\":\"ya\",\"col\":\"ins\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/ya.loc",
+			"seen": "{\"item\":\"pronoun:ya:loc\",\"text\":\"мені\",\"display\":\"мені́\",\"ipa\":\"/mɛˈnʲi/\",\"cognates\":{\"ru\":{\"form\":\"мне\"},\"pl\":{\"form\":\"mnie\"}},\"row\":\"ya\",\"col\":\"loc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/ty.gen",
+			"seen": "{\"item\":\"pronoun:ty:gen\",\"text\":\"тебе\",\"display\":\"тебе́\",\"ipa\":\"/tɛˈbɛ/\",\"cognates\":{\"ru\":{\"form\":\"тебя́\"},\"pl\":{\"form\":\"ciebie\"}},\"row\":\"ty\",\"col\":\"gen\"}",
+			"verdict": "ok",
+			"comment": "Form exists, but the board omits те́бе, used after a preposition (en.wiktionary ти; Goroh те́бе, тебе́)."
+		},
+		{
+			"key": "core/pronouns-personal/ty.prep",
+			"seen": "{\"item\":\"pronoun:ty:prep\",\"text\":\"тебе\",\"display\":\"те́бе\",\"ipa\":\"/ˈtɛbɛ/\",\"cognates\":{\"ru\":{\"form\":\"тебя́\"},\"pl\":{\"form\":\"ciebie\"}},\"concepts\":[\"pronoun-stress\"],\"row\":\"ty\",\"col\":\"prep\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/ty.dat",
+			"seen": "{\"item\":\"pronoun:ty:dat\",\"text\":\"тобі\",\"display\":\"тобі́\",\"ipa\":\"/tɔˈbi/\",\"cognates\":{\"ru\":{\"form\":\"тебе́\"},\"pl\":{\"form\":\"tobie\"}},\"row\":\"ty\",\"col\":\"dat\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/ty.acc",
+			"seen": "{\"item\":\"pronoun:ty:acc\",\"text\":\"тебе\",\"display\":\"тебе́\",\"ipa\":\"/tɛˈbɛ/\",\"cognates\":{\"ru\":{\"form\":\"тебя́\"},\"pl\":{\"form\":\"ciebie\"}},\"row\":\"ty\",\"col\":\"acc\"}",
+			"verdict": "ok",
+			"comment": "Form exists, but the board omits те́бе, used after a preposition (en.wiktionary ти)."
+		},
+		{
+			"key": "core/pronouns-personal/ty.ins",
+			"seen": "{\"item\":\"pronoun:ty:ins\",\"text\":\"тобою\",\"display\":\"тобо́ю\",\"ipa\":\"/tɔˈbɔju/\",\"cognates\":{\"ru\":{\"form\":\"тобо́й\"},\"pl\":{\"form\":\"tobą\"}},\"row\":\"ty\",\"col\":\"ins\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/ty.loc",
+			"seen": "{\"item\":\"pronoun:ty:loc\",\"text\":\"тобі\",\"display\":\"тобі́\",\"ipa\":\"/tɔˈbi/\",\"cognates\":{\"ru\":{\"form\":\"тебе́\"},\"pl\":{\"form\":\"tobie\"}},\"row\":\"ty\",\"col\":\"loc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/my.gen",
+			"seen": "{\"item\":\"pronoun:my:gen\",\"text\":\"нас\",\"ipa\":\"/nas/\",\"cognates\":{\"ru\":{\"form\":\"нас\"},\"pl\":{\"form\":\"nas\"}},\"row\":\"my\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/my.prep",
+			"seen": "{\"item\":\"pronoun:my:prep\",\"text\":\"нас\",\"ipa\":\"/nas/\",\"cognates\":{\"ru\":{\"form\":\"нас\"},\"pl\":{\"form\":\"nas\"}},\"row\":\"my\",\"col\":\"prep\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/my.dat",
+			"seen": "{\"item\":\"pronoun:my:dat\",\"text\":\"нам\",\"ipa\":\"/nam/\",\"cognates\":{\"ru\":{\"form\":\"нам\"},\"pl\":{\"form\":\"nam\"}},\"row\":\"my\",\"col\":\"dat\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/my.acc",
+			"seen": "{\"item\":\"pronoun:my:acc\",\"text\":\"нас\",\"ipa\":\"/nas/\",\"cognates\":{\"ru\":{\"form\":\"нас\"},\"pl\":{\"form\":\"nas\"}},\"row\":\"my\",\"col\":\"acc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/my.ins",
+			"seen": "{\"item\":\"pronoun:my:ins\",\"text\":\"нами\",\"display\":\"на́ми\",\"ipa\":\"/ˈnamɪ/\",\"cognates\":{\"ru\":{\"form\":\"на́ми\"},\"pl\":{\"form\":\"nami\"}},\"row\":\"my\",\"col\":\"ins\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/my.loc",
+			"seen": "{\"item\":\"pronoun:my:loc\",\"text\":\"нас\",\"ipa\":\"/nas/\",\"cognates\":{\"ru\":{\"form\":\"нас\"},\"pl\":{\"form\":\"nas\"}},\"row\":\"my\",\"col\":\"loc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/vy.gen",
+			"seen": "{\"item\":\"pronoun:vy:gen\",\"text\":\"вас\",\"ipa\":\"/ʋas/\",\"cognates\":{\"ru\":{\"form\":\"вас\"},\"pl\":{\"form\":\"was\"}},\"row\":\"vy\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/vy.prep",
+			"seen": "{\"item\":\"pronoun:vy:prep\",\"text\":\"вас\",\"ipa\":\"/ʋas/\",\"cognates\":{\"ru\":{\"form\":\"вас\"},\"pl\":{\"form\":\"was\"}},\"row\":\"vy\",\"col\":\"prep\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/vy.dat",
+			"seen": "{\"item\":\"pronoun:vy:dat\",\"text\":\"вам\",\"ipa\":\"/ʋam/\",\"cognates\":{\"ru\":{\"form\":\"вам\"},\"pl\":{\"form\":\"wam\"}},\"row\":\"vy\",\"col\":\"dat\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/vy.acc",
+			"seen": "{\"item\":\"pronoun:vy:acc\",\"text\":\"вас\",\"ipa\":\"/ʋas/\",\"cognates\":{\"ru\":{\"form\":\"вас\"},\"pl\":{\"form\":\"was\"}},\"row\":\"vy\",\"col\":\"acc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/vy.ins",
+			"seen": "{\"item\":\"pronoun:vy:ins\",\"text\":\"вами\",\"display\":\"ва́ми\",\"ipa\":\"/ˈʋamɪ/\",\"cognates\":{\"ru\":{\"form\":\"ва́ми\"},\"pl\":{\"form\":\"wami\"}},\"row\":\"vy\",\"col\":\"ins\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-personal/vy.loc",
+			"seen": "{\"item\":\"pronoun:vy:loc\",\"text\":\"вас\",\"ipa\":\"/ʋas/\",\"cognates\":{\"ru\":{\"form\":\"вас\"},\"pl\":{\"form\":\"was\"}},\"row\":\"vy\",\"col\":\"loc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/ya.acc",
+			"seen": "{\"item\":\"sentence:pronouns:ya.acc\",\"text\":\"мене\",\"display\":\"мене́\",\"sentence\":\"Він ба́чить ___ (я).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/ty.dat",
+			"seen": "{\"item\":\"sentence:pronouns:ty.dat\",\"text\":\"тобі\",\"display\":\"тобі́\",\"sentence\":\"Вона́ дає́ ___ кни́гу (ти).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/ya.ins",
+			"seen": "{\"item\":\"sentence:pronouns:ya.ins\",\"text\":\"мною\",\"display\":\"мно́ю\",\"sentence\":\"Ти йдеш зі ___ (я).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/ya.gen",
+			"seen": "{\"item\":\"sentence:pronouns:ya.gen\",\"text\":\"мене\",\"display\":\"ме́не\",\"sentence\":\"У ___ є брат (я).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/ty.ins",
+			"seen": "{\"item\":\"sentence:pronouns:ty.ins\",\"text\":\"тобою\",\"display\":\"тобо́ю\",\"sentence\":\"Я розмовля́ю з ___ (ти).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/my.gen",
+			"seen": "{\"item\":\"sentence:pronouns:my.gen\",\"text\":\"нас\",\"sentence\":\"Це для ___ (ми).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/vy.dat",
+			"seen": "{\"item\":\"sentence:pronouns:vy.dat\",\"text\":\"вам\",\"sentence\":\"Ми пи́шемо ___ лист (ви).\"}",
+			"verdict": "ok",
+			"comment": "Inanimate лист stays valid, though пишу листа is at least as common in Ukrainian (own knowledge)."
+		},
+		{
+			"key": "core/pronouns-sentences/vy.acc",
+			"seen": "{\"item\":\"sentence:pronouns:vy.acc\",\"text\":\"вас\",\"sentence\":\"Вони́ гово́рять про ___ (ви).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/ya.dat",
+			"seen": "{\"item\":\"sentence:pronouns:ya.dat\",\"text\":\"мені\",\"display\":\"мені́\",\"sentence\":\"Скажи́ ___, будь ла́ска (я).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/he.prep",
+			"seen": "{\"item\":\"sentence:pronouns:he.prep\",\"text\":\"нього\",\"display\":\"ньо́го\",\"sentence\":\"Я ду́маю про ___ (він).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/she.prep",
+			"seen": "{\"item\":\"sentence:pronouns:she.prep\",\"text\":\"неї\",\"display\":\"не́ї\",\"sentence\":\"У ___ є сестра́ (вона́).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/they.acc",
+			"seen": "{\"item\":\"sentence:pronouns:they.acc\",\"text\":\"їх\",\"sentence\":\"Я ба́чу ___ (вони́).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/he.dat",
+			"seen": "{\"item\":\"sentence:pronouns:he.dat\",\"text\":\"йому\",\"display\":\"йому́\",\"sentence\":\"Дай ___ кни́гу (він).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/she.ins",
+			"seen": "{\"item\":\"sentence:pronouns:she.ins\",\"text\":\"нею\",\"display\":\"не́ю\",\"sentence\":\"Я йду з ___ (вона́).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/they.ins",
+			"seen": "{\"item\":\"sentence:pronouns:they.ins\",\"text\":\"ними\",\"display\":\"ни́ми\",\"sentence\":\"Ми живемо́ з ___ (вони́).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-sentences/she.acc",
+			"seen": "{\"item\":\"sentence:pronouns:she.acc\",\"text\":\"її\",\"display\":\"її́\",\"sentence\":\"Він ба́чить ___ (вона́).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/he.gen",
+			"seen": "{\"item\":\"pronoun:he:gen\",\"text\":\"його\",\"display\":\"його́\",\"ipa\":\"/jɔˈɦɔ/\",\"cognates\":{\"ru\":{\"form\":\"его́\"},\"pl\":{\"form\":\"jego\"}},\"row\":\"he\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/he.prep",
+			"seen": "{\"item\":\"pronoun:he:prep\",\"text\":\"нього\",\"display\":\"ньо́го\",\"ipa\":\"/ˈnʲɔɦɔ/\",\"cognates\":{\"ru\":{\"form\":\"него́\"},\"pl\":{\"form\":\"niego\"}},\"concepts\":[\"pronoun-n\"],\"row\":\"he\",\"col\":\"prep\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/he.dat",
+			"seen": "{\"item\":\"pronoun:he:dat\",\"text\":\"йому\",\"display\":\"йому́\",\"ipa\":\"/jɔˈmu/\",\"cognates\":{\"ru\":{\"form\":\"ему́\"},\"pl\":{\"form\":\"jemu\"}},\"row\":\"he\",\"col\":\"dat\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/he.acc",
+			"seen": "{\"item\":\"pronoun:he:acc\",\"text\":\"його\",\"display\":\"його́\",\"ipa\":\"/jɔˈɦɔ/\",\"cognates\":{\"ru\":{\"form\":\"его́\"},\"pl\":{\"form\":\"jego\"}},\"row\":\"he\",\"col\":\"acc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/he.ins",
+			"seen": "{\"item\":\"pronoun:he:ins\",\"text\":\"ним\",\"ipa\":\"/nɪm/\",\"cognates\":{\"ru\":{\"form\":\"им\"},\"pl\":{\"form\":\"nim\"}},\"row\":\"he\",\"col\":\"ins\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/he.loc",
+			"seen": "{\"item\":\"pronoun:he:loc\",\"text\":\"ньому\",\"display\":\"ньо́му\",\"ipa\":\"/ˈnʲɔmu/\",\"cognates\":{\"ru\":{\"form\":\"нём\"},\"pl\":{\"form\":\"nim\"}},\"concepts\":[\"pronoun-n\"],\"row\":\"he\",\"col\":\"loc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/she.gen",
+			"seen": "{\"item\":\"pronoun:she:gen\",\"text\":\"її\",\"display\":\"її́\",\"ipa\":\"/jiˈji/\",\"cognates\":{\"ru\":{\"form\":\"её\"},\"pl\":{\"form\":\"jej\"}},\"row\":\"she\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/she.prep",
+			"seen": "{\"item\":\"pronoun:she:prep\",\"text\":\"неї\",\"display\":\"не́ї\",\"ipa\":\"/ˈnɛji/\",\"cognates\":{\"ru\":{\"form\":\"неё\"},\"pl\":{\"form\":\"niej\"}},\"concepts\":[\"pronoun-n\"],\"row\":\"she\",\"col\":\"prep\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/she.dat",
+			"seen": "{\"item\":\"pronoun:she:dat\",\"text\":\"їй\",\"ipa\":\"/jij/\",\"cognates\":{\"ru\":{\"form\":\"ей\"},\"pl\":{\"form\":\"jej\"}},\"row\":\"she\",\"col\":\"dat\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/she.acc",
+			"seen": "{\"item\":\"pronoun:she:acc\",\"text\":\"її\",\"display\":\"її́\",\"ipa\":\"/jiˈji/\",\"cognates\":{\"ru\":{\"form\":\"её\"},\"pl\":{\"form\":\"ją\"}},\"row\":\"she\",\"col\":\"acc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/she.ins",
+			"seen": "{\"item\":\"pronoun:she:ins\",\"text\":\"нею\",\"display\":\"не́ю\",\"ipa\":\"/ˈnɛju/\",\"cognates\":{\"ru\":{\"form\":\"ей\"},\"pl\":{\"form\":\"nią\"}},\"row\":\"she\",\"col\":\"ins\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/she.loc",
+			"seen": "{\"item\":\"pronoun:she:loc\",\"text\":\"ній\",\"ipa\":\"/nʲij/\",\"cognates\":{\"ru\":{\"form\":\"ней\"},\"pl\":{\"form\":\"niej\"}},\"concepts\":[\"pronoun-n\"],\"row\":\"she\",\"col\":\"loc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/they.gen",
+			"seen": "{\"item\":\"pronoun:they:gen\",\"text\":\"їх\",\"ipa\":\"/jix/\",\"cognates\":{\"ru\":{\"form\":\"их\"},\"pl\":{\"form\":\"ich\"}},\"row\":\"they\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/they.prep",
+			"seen": "{\"item\":\"pronoun:they:prep\",\"text\":\"них\",\"ipa\":\"/nɪx/\",\"cognates\":{\"ru\":{\"form\":\"них\"},\"pl\":{\"form\":\"nich\"}},\"concepts\":[\"pronoun-n\"],\"row\":\"they\",\"col\":\"prep\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/they.dat",
+			"seen": "{\"item\":\"pronoun:they:dat\",\"text\":\"їм\",\"ipa\":\"/jim/\",\"cognates\":{\"ru\":{\"form\":\"им\"},\"pl\":{\"form\":\"im\"}},\"row\":\"they\",\"col\":\"dat\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/they.acc",
+			"seen": "{\"item\":\"pronoun:they:acc\",\"text\":\"їх\",\"ipa\":\"/jix/\",\"cognates\":{\"ru\":{\"form\":\"их\"},\"pl\":{\"form\":\"ich\"}},\"row\":\"they\",\"col\":\"acc\"}",
+			"verdict": "ok",
+			"comment": "ich is the virile accusative (en.wikipedia Polish morphology); the non-virile je is no longer shown, which is acceptable for a cognate."
+		},
+		{
+			"key": "core/pronouns-third/they.ins",
+			"seen": "{\"item\":\"pronoun:they:ins\",\"text\":\"ними\",\"display\":\"ни́ми\",\"ipa\":\"/ˈnɪmɪ/\",\"cognates\":{\"ru\":{\"form\":\"и́ми\"},\"pl\":{\"form\":\"nimi\"}},\"row\":\"they\",\"col\":\"ins\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pronouns-third/they.loc",
+			"seen": "{\"item\":\"pronoun:they:loc\",\"text\":\"них\",\"ipa\":\"/nɪx/\",\"cognates\":{\"ru\":{\"form\":\"них\"},\"pl\":{\"form\":\"nich\"}},\"concepts\":[\"pronoun-n\"],\"row\":\"they\",\"col\":\"loc\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/ru-letters/i",
 			"seen": "{\"item\":\"ru-letter:i\",\"text\":\"і\",\"ipa\":\"/i/\",\"clue\":\"рус. и\"}",
 			"verdict": "ok"
@@ -1057,6 +1485,247 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/vikno-sentences/gen.sg",
+			"seen": "{\"item\":\"sentence:vikno:gen.sg\",\"text\":\"вікна\",\"display\":\"вікна́\",\"sentence\":\"Бі́ля цього́ ___ стої́ть стіл.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno-sentences/dat.sg",
+			"seen": "{\"item\":\"sentence:vikno:dat.sg\",\"text\":\"вікну\",\"display\":\"вікну́\",\"sentence\":\"Завдяки́ цьому́ ___ тут бага́то сві́тла.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno-sentences/acc.sg",
+			"seen": "{\"item\":\"sentence:vikno:acc.sg\",\"text\":\"вікно\",\"display\":\"вікно́\",\"sentence\":\"Я відчиня́ю це ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno-sentences/ins.sg",
+			"seen": "{\"item\":\"sentence:vikno:ins.sg\",\"text\":\"вікном\",\"display\":\"вікно́м\",\"sentence\":\"За цим ___ сад.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno-sentences/nom.pl",
+			"seen": "{\"item\":\"sentence:vikno:nom.pl\",\"text\":\"вікна\",\"display\":\"ві́кна\",\"sentence\":\"Ці ___ вели́кі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno-sentences/gen.pl",
+			"seen": "{\"item\":\"sentence:vikno:gen.pl\",\"text\":\"вікон\",\"display\":\"ві́кон\",\"sentence\":\"У кімна́ті п'ять ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno-sentences/dat.pl",
+			"seen": "{\"item\":\"sentence:vikno:dat.pl\",\"text\":\"вікнам\",\"display\":\"ві́кнам\",\"sentence\":\"Завдяки́ цим ___ тут бага́то сві́тла.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno-sentences/acc.pl",
+			"seen": "{\"item\":\"sentence:vikno:acc.pl\",\"text\":\"вікна\",\"display\":\"ві́кна\",\"sentence\":\"Я відчиня́ю ці ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno-sentences/ins.pl",
+			"seen": "{\"item\":\"sentence:vikno:ins.pl\",\"text\":\"вікнами\",\"display\":\"ві́кнами\",\"sentence\":\"За ци́ми ___ сад.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno-sentences/loc.pl",
+			"seen": "{\"item\":\"sentence:vikno:loc.pl\",\"text\":\"вікнах\",\"display\":\"ві́кнах\",\"sentence\":\"На цих ___ нема́є штор.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/nom.sg",
+			"seen": "{\"item\":\"noun:vikno:nom.sg\",\"text\":\"вікно\",\"display\":\"вікно́\",\"ipa\":\"/ʋikˈnɔ/\",\"cognates\":{\"ru\":{\"form\":\"окно́\"},\"pl\":{\"form\":\"okno\"}},\"row\":\"nom\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/gen.sg",
+			"seen": "{\"item\":\"noun:vikno:gen.sg\",\"text\":\"вікна\",\"display\":\"вікна́\",\"ipa\":\"/ʋikˈna/\",\"cognates\":{\"ru\":{\"form\":\"окна́\"},\"pl\":{\"form\":\"okna\"}},\"concepts\":[\"free-stress\"],\"row\":\"gen\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/dat.sg",
+			"seen": "{\"item\":\"noun:vikno:dat.sg\",\"text\":\"вікну\",\"display\":\"вікну́\",\"ipa\":\"/ʋikˈnu/\",\"cognates\":{\"ru\":{\"form\":\"окну́\"},\"pl\":{\"form\":\"oknu\"}},\"row\":\"dat\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/acc.sg",
+			"seen": "{\"item\":\"noun:vikno:acc.sg\",\"text\":\"вікно\",\"display\":\"вікно́\",\"ipa\":\"/ʋikˈnɔ/\",\"cognates\":{\"ru\":{\"form\":\"окно́\"},\"pl\":{\"form\":\"okno\"}},\"row\":\"acc\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/ins.sg",
+			"seen": "{\"item\":\"noun:vikno:ins.sg\",\"text\":\"вікном\",\"display\":\"вікно́м\",\"ipa\":\"/ʋikˈnɔm/\",\"cognates\":{\"ru\":{\"form\":\"окно́м\"},\"pl\":{\"form\":\"oknem\"}},\"row\":\"ins\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/loc.sg",
+			"seen": "{\"item\":\"noun:vikno:loc.sg\",\"text\":\"вікні\",\"display\":\"вікні́\",\"ipa\":\"/ʋikˈnʲi/\",\"cognates\":{\"ru\":{\"form\":\"окне́\"},\"pl\":{\"form\":\"oknie\"}},\"row\":\"loc\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/voc.sg",
+			"seen": "{\"item\":\"noun:vikno:voc.sg\",\"text\":\"вікно\",\"display\":\"вікно́\",\"ipa\":\"/ʋikˈnɔ/\",\"cognates\":{\"ru\":{\"form\":\"окно́\"},\"pl\":{\"form\":\"okno\"}},\"row\":\"voc\",\"col\":\"sg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/nom.pl",
+			"seen": "{\"item\":\"noun:vikno:nom.pl\",\"text\":\"вікна\",\"display\":\"ві́кна\",\"ipa\":\"/ˈʋikna/\",\"cognates\":{\"ru\":{\"form\":\"о́кна\"},\"pl\":{\"form\":\"okna\"}},\"concepts\":[\"free-stress\"],\"row\":\"nom\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/gen.pl",
+			"seen": "{\"item\":\"noun:vikno:gen.pl\",\"text\":\"вікон\",\"display\":\"ві́кон\",\"ipa\":\"/ˈʋikɔn/\",\"cognates\":{\"ru\":{\"form\":\"о́кон\"},\"pl\":{\"form\":\"okien\"}},\"row\":\"gen\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/dat.pl",
+			"seen": "{\"item\":\"noun:vikno:dat.pl\",\"text\":\"вікнам\",\"display\":\"ві́кнам\",\"ipa\":\"/ˈʋiknam/\",\"cognates\":{\"ru\":{\"form\":\"о́кнам\"},\"pl\":{\"form\":\"oknom\"}},\"row\":\"dat\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/acc.pl",
+			"seen": "{\"item\":\"noun:vikno:acc.pl\",\"text\":\"вікна\",\"display\":\"ві́кна\",\"ipa\":\"/ˈʋikna/\",\"cognates\":{\"ru\":{\"form\":\"о́кна\"},\"pl\":{\"form\":\"okna\"}},\"concepts\":[\"free-stress\"],\"row\":\"acc\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/ins.pl",
+			"seen": "{\"item\":\"noun:vikno:ins.pl\",\"text\":\"вікнами\",\"display\":\"ві́кнами\",\"ipa\":\"/ˈʋiknamɪ/\",\"cognates\":{\"ru\":{\"form\":\"о́кнами\"},\"pl\":{\"form\":\"oknami\"}},\"row\":\"ins\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/loc.pl",
+			"seen": "{\"item\":\"noun:vikno:loc.pl\",\"text\":\"вікнах\",\"display\":\"ві́кнах\",\"ipa\":\"/ˈʋiknax/\",\"cognates\":{\"ru\":{\"form\":\"о́кнах\"},\"pl\":{\"form\":\"oknach\"}},\"row\":\"loc\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vikno/voc.pl",
+			"seen": "{\"item\":\"noun:vikno:voc.pl\",\"text\":\"вікна\",\"display\":\"ві́кна\",\"ipa\":\"/ˈʋikna/\",\"cognates\":{\"ru\":{\"form\":\"о́кна\"},\"pl\":{\"form\":\"okna\"}},\"concepts\":[\"free-stress\"],\"row\":\"voc\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/pan",
+			"seen": "{\"item\":\"sentence:vocative:pan\",\"text\":\"пане\",\"display\":\"па́не\",\"sentence\":\"До́брий день, ___! (пан)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/mama",
+			"seen": "{\"item\":\"sentence:vocative:mama\",\"text\":\"мамо\",\"display\":\"ма́мо\",\"sentence\":\"Дя́кую, ___! (ма́ма)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/brat",
+			"seen": "{\"item\":\"sentence:vocative:brat\",\"text\":\"брате\",\"display\":\"бра́те\",\"sentence\":\"Слу́хай, ___! (брат)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/uchytel",
+			"seen": "{\"item\":\"sentence:vocative:uchytel\",\"text\":\"учителю\",\"display\":\"учи́телю\",\"sentence\":\"До поба́чення, ___! (учи́тель)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/olena",
+			"seen": "{\"item\":\"sentence:vocative:olena\",\"text\":\"Олено\",\"display\":\"Оле́но\",\"sentence\":\"Приві́т, ___! (Оле́на)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/syn",
+			"seen": "{\"item\":\"sentence:vocative:syn\",\"text\":\"сину\",\"display\":\"си́ну\",\"sentence\":\"Ходи́ сюди́, ___! (син)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/druh",
+			"seen": "{\"item\":\"sentence:vocative:druh\",\"text\":\"друже\",\"display\":\"дру́же\",\"sentence\":\"Як спра́ви, ___? (друг)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/tato",
+			"seen": "{\"item\":\"sentence:vocative:tato\",\"text\":\"тату\",\"display\":\"та́ту\",\"sentence\":\"До́брий ра́нок, ___! (та́то)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/babusia",
+			"seen": "{\"item\":\"sentence:vocative:babusia\",\"text\":\"бабусю\",\"display\":\"бабу́сю\",\"sentence\":\"Дя́кую, ___! (бабу́ся)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/sestra",
+			"seen": "{\"item\":\"sentence:vocative:sestra\",\"text\":\"сестро\",\"display\":\"се́стро\",\"sentence\":\"Слу́хай, ___! (сестра́)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/andriy",
+			"seen": "{\"item\":\"sentence:vocative:andriy\",\"text\":\"Андрію\",\"display\":\"Андрі́ю\",\"sentence\":\"Приві́т, ___! (Андрі́й)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative-sentences/mariya",
+			"seen": "{\"item\":\"sentence:vocative:mariya\",\"text\":\"Маріє\",\"display\":\"Марі́є\",\"sentence\":\"До поба́чення, ___! (Марі́я)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/mama",
+			"seen": "{\"item\":\"vocative:mama\",\"text\":\"мамо\",\"display\":\"ма́мо\",\"ipa\":\"/ˈmamɔ/\",\"clue\":\"ма́ма\",\"cognates\":{\"pl\":{\"form\":\"mamo\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/tato",
+			"seen": "{\"item\":\"vocative:tato\",\"text\":\"тату\",\"display\":\"та́ту\",\"ipa\":\"/ˈtatu/\",\"clue\":\"та́то\",\"cognates\":{\"pl\":{\"form\":\"tato\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok",
+			"comment": "Goroh lists vocative та́то, тату, тат; en.wiktionary gives та́ту. та́ту is attested and fine as the taught form."
+		},
+		{
+			"key": "core/vocative/brat",
+			"seen": "{\"item\":\"vocative:brat\",\"text\":\"брате\",\"display\":\"бра́те\",\"ipa\":\"/ˈbratɛ/\",\"clue\":\"брат\",\"cognates\":{\"pl\":{\"form\":\"bracie\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/sestra",
+			"seen": "{\"item\":\"vocative:sestra\",\"text\":\"сестро\",\"display\":\"се́стро\",\"ipa\":\"/ˈsɛstrɔ/\",\"clue\":\"сестра́\",\"cognates\":{\"pl\":{\"form\":\"siostro\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/syn",
+			"seen": "{\"item\":\"vocative:syn\",\"text\":\"сину\",\"display\":\"си́ну\",\"ipa\":\"/ˈsɪnu/\",\"clue\":\"син\",\"cognates\":{\"pl\":{\"form\":\"synu\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/druh",
+			"seen": "{\"item\":\"vocative:druh\",\"text\":\"друже\",\"display\":\"дру́же\",\"ipa\":\"/ˈdruʒɛ/\",\"clue\":\"друг\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/pan",
+			"seen": "{\"item\":\"vocative:pan\",\"text\":\"пане\",\"display\":\"па́не\",\"ipa\":\"/ˈpanɛ/\",\"clue\":\"пан\",\"cognates\":{\"pl\":{\"form\":\"panie\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/uchytel",
+			"seen": "{\"item\":\"vocative:uchytel\",\"text\":\"учителю\",\"display\":\"учи́телю\",\"ipa\":\"/uˈt͡ʃɪtɛlʲu/\",\"clue\":\"учи́тель\",\"cognates\":{\"pl\":{\"form\":\"nauczycielu\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/olena",
+			"seen": "{\"item\":\"vocative:olena\",\"text\":\"Олено\",\"display\":\"Оле́но\",\"ipa\":\"/ɔˈlɛnɔ/\",\"clue\":\"Оле́на\",\"cognates\":{\"pl\":{\"form\":\"Oleno\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/andriy",
+			"seen": "{\"item\":\"vocative:andriy\",\"text\":\"Андрію\",\"display\":\"Андрі́ю\",\"ipa\":\"/anˈdrʲiju/\",\"clue\":\"Андрі́й\",\"cognates\":{\"pl\":{\"form\":\"Andriju\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/mariya",
+			"seen": "{\"item\":\"vocative:mariya\",\"text\":\"Маріє\",\"display\":\"Марі́є\",\"ipa\":\"/maˈrʲijɛ/\",\"clue\":\"Марі́я\",\"cognates\":{\"pl\":{\"form\":\"Mario\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vocative/babusia",
+			"seen": "{\"item\":\"vocative:babusia\",\"text\":\"бабусю\",\"display\":\"бабу́сю\",\"ipa\":\"/baˈbusʲu/\",\"clue\":\"бабу́ся\",\"cognates\":{\"pl\":{\"form\":\"babciu\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/vowel-chart/i",
 			"seen": "{\"item\":\"vowel:i\",\"text\":\"і\",\"clue\":\"/i/\",\"row\":\"close\",\"col\":\"front\"}",
 			"verdict": "ok"
@@ -1107,11 +1776,6 @@
 			"verdict": "ok"
 		},
 		{
-			"key": "en/lesson/l09",
-			"seen": "\"Lesson 9: My family\"",
-			"verdict": "ok"
-		},
-		{
 			"key": "en/lesson/l02",
 			"seen": "\"Lesson 2: Pronouncing the vowels\"",
 			"verdict": "ok"
@@ -1122,8 +1786,23 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/lesson/g01",
+			"seen": "\"Personal pronouns\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/g02",
+			"seen": "\"The vocative\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/lesson/g03",
 			"seen": "\"Noun cases\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l09",
+			"seen": "\"Lesson 9: My family\"",
 			"verdict": "ok"
 		},
 		{
@@ -1182,6 +1861,32 @@
 			"seen": "{\"title\":\"я, ю, є, ї\",\"body\":\"At the start of a word or after a vowel, each is [j] plus a vowel: я́блуко, моя́. After a consonant, я, ю, є soften it and write the vowel: ряд, люк. ї always stands for two sounds.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
 			"verdict": "ok",
 			"comment": "JIPA 2017 p.352 loosely lists ї among letters marking palatalization; the concept's 'ї always stands for two sounds' is the standard statement and I prefer it."
+		},
+		{
+			"key": "en/concept/pronoun-n",
+			"seen": "{\"title\":\"н after a preposition\",\"body\":\"After a preposition that takes the genitive or accusative, the third-person pronouns take н: його but у ньо́го, її but у не́ї, їх but у них. A preposition that takes the dative does not change them: завдяки́ йому́. The locative always has н, since it is never used without a preposition: на ньо́му, на ній, на них.\",\"sources\":[{\"title\":\"він (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/він\"},{\"title\":\"вона (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/вона\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/vocative",
+			"seen": "{\"title\":\"The vocative\",\"body\":\"Ukrainian has a separate form for addressing someone. Nouns in -а usually take -о (ма́мо), soft ones -е, -є or -ю (зе́мле, Марі́є, бабу́сю). Masculine nouns usually take -е (бра́те, па́не), with г changing to ж (дру́же), or -у or -ю (си́ну, учи́телю). The nominative is not used for this in careful speech.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/animate-accusative",
+			"seen": "{\"title\":\"A person in the accusative\",\"body\":\"A masculine noun for a person or animal has its accusative like its genitive: ба́чу бра́та. For a thing it is like the nominative: ба́чу стіл. In the plural, the same holds for people: ба́чу браті́в.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok",
+			"comment": "True as a learner rule. Exceptions not mentioned: masculine nouns in -а such as слуга́, and inanimates with -а such as листа (own knowledge)."
+		},
+		{
+			"key": "en/concept/dative-ovi",
+			"seen": "{\"title\":\"Two forms in the dative\",\"body\":\"Masculine nouns have two dative forms, -ові or -еві and -у or -ю: бра́тові and бра́ту are both correct. -ові is common for people. The locative of a person has -ові too, as well as -і: на бра́тові, на бра́ті. This board shows the -ові forms.\",\"sources\":[{\"title\":\"брат (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/брат\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/pronoun-stress",
+			"seen": "{\"title\":\"Stress after a preposition\",\"body\":\"After a preposition, мене́ and тебе́ are stressed on the first syllable: у ме́не, до те́бе. нас and вас do not change.\",\"sources\":[{\"title\":\"ти (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/ти\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "en/alphabet",
@@ -1352,6 +2057,76 @@
 		{
 			"key": "en/alphabet/ya",
 			"seen": "{\"exampleGloss\":\"apple\",\"note\":\"Nearest English: ya in yard.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences",
+			"seen": "{\"title\":\"брат in sentences\",\"summary\":\"The same forms in use. Read each sentence and choose the form that fits its gap: the words around it tell you the case and the number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/gen.sg",
+			"seen": "{\"sentenceGloss\":\"I have no older brother.\",\"note\":\"Genitive singular, after немає.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/dat.sg",
+			"seen": "{\"sentenceGloss\":\"I am writing a letter to my brother.\",\"note\":\"Dative singular: the one it goes to. бра́ту is also right.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/acc.sg",
+			"seen": "{\"sentenceGloss\":\"I see my brother.\",\"note\":\"Accusative singular: the direct object.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/ins.sg",
+			"seen": "{\"sentenceGloss\":\"I am going with my brother.\",\"note\":\"Instrumental singular, after зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/loc.sg",
+			"seen": "{\"sentenceGloss\":\"My brother is wearing a new shirt.\",\"note\":\"Locative singular, after на. бра́ті is also right.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/voc.sg",
+			"seen": "{\"sentenceGloss\":\"Thank you, my brother!\",\"note\":\"Vocative singular: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/nom.pl",
+			"seen": "{\"sentenceGloss\":\"My brothers live in Kyiv.\",\"note\":\"Nominative plural: the subject.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/gen.pl",
+			"seen": "{\"sentenceGloss\":\"She has five brothers.\",\"note\":\"Genitive plural, after п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/dat.pl",
+			"seen": "{\"sentenceGloss\":\"I am writing a letter to my brothers.\",\"note\":\"Dative plural: the one it goes to.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/acc.pl",
+			"seen": "{\"sentenceGloss\":\"I see my brothers.\",\"note\":\"Accusative plural: the direct object.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/ins.pl",
+			"seen": "{\"sentenceGloss\":\"I am going with my brothers.\",\"note\":\"Instrumental plural, after зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat-sentences/loc.pl",
+			"seen": "{\"sentenceGloss\":\"My brothers are wearing new shirts.\",\"note\":\"Locative plural, after на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/brat",
+			"seen": "{\"title\":\"Noun cases: брат (brother)\",\"summary\":\"A masculine noun for a person, through all 7 cases. Some forms fill more than one cell.\",\"headers\":{\"nom\":\"Nominative\",\"gen\":\"Genitive\",\"dat\":\"Dative\",\"acc\":\"Accusative\",\"ins\":\"Instrumental\",\"loc\":\"Locative\",\"voc\":\"Vocative\",\"sg\":\"Singular\",\"pl\":\"Plural\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -1752,6 +2527,101 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/pronouns-personal",
+			"seen": "{\"title\":\"я, ти, ми, ви by case\",\"summary\":\"The pronouns of the first and second person. Some forms fill more than one cell, and мене́ and тебе́ move their stress after a preposition.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"my\":\"ми\",\"vy\":\"ви\",\"dat\":\"Da­tive\",\"acc\":\"Ac­cu­sa­tive\",\"ins\":\"In­stru­men­tal\",\"loc\":\"Lo­ca­tive\",\"gen\":\"Gen­i­tive\",\"prep\":\"After a prep­o­si­tion\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences",
+			"seen": "{\"title\":\"Pronouns in sentences\",\"summary\":\"Which form of the pronoun in brackets fits the gap? The words around it tell you the case.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/ya.acc",
+			"seen": "{\"sentenceGloss\":\"He sees me.\",\"note\":\"Accusative: the direct object.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/ty.dat",
+			"seen": "{\"sentenceGloss\":\"She is giving you a book.\",\"note\":\"Dative: the one it goes to.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/ya.ins",
+			"seen": "{\"sentenceGloss\":\"You are coming with me.\",\"note\":\"Instrumental, after зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/ya.gen",
+			"seen": "{\"sentenceGloss\":\"I have a brother.\",\"note\":\"Genitive, after у.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/ty.ins",
+			"seen": "{\"sentenceGloss\":\"I am talking to you.\",\"note\":\"Instrumental, after з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/my.gen",
+			"seen": "{\"sentenceGloss\":\"This is for us.\",\"note\":\"Genitive, after для.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/vy.dat",
+			"seen": "{\"sentenceGloss\":\"We are writing you a letter.\",\"note\":\"Dative: the one it goes to.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/vy.acc",
+			"seen": "{\"sentenceGloss\":\"They are talking about you.\",\"note\":\"Accusative, after про.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/ya.dat",
+			"seen": "{\"sentenceGloss\":\"Tell me, please.\",\"note\":\"Dative: the one it goes to.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/he.prep",
+			"seen": "{\"sentenceGloss\":\"I am thinking about him.\",\"note\":\"Accusative, after про.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/she.prep",
+			"seen": "{\"sentenceGloss\":\"She has a sister.\",\"note\":\"Genitive, after у.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/they.acc",
+			"seen": "{\"sentenceGloss\":\"I see them.\",\"note\":\"Accusative: the direct object.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/he.dat",
+			"seen": "{\"sentenceGloss\":\"Give him a book.\",\"note\":\"Dative: the one it goes to.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/she.ins",
+			"seen": "{\"sentenceGloss\":\"I am going with her.\",\"note\":\"Instrumental, after з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/they.ins",
+			"seen": "{\"sentenceGloss\":\"We live with them.\",\"note\":\"Instrumental, after з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-sentences/she.acc",
+			"seen": "{\"sentenceGloss\":\"He sees her.\",\"note\":\"Accusative: the direct object.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pronouns-third",
+			"seen": "{\"title\":\"він, вона, вони by case\",\"summary\":\"The pronouns of the third person. After a preposition that takes the genitive or accusative they take н. воно declines like він. Some forms fill more than one cell.\",\"headers\":{\"he\":\"він\",\"she\":\"вона\",\"they\":\"вони\",\"gen\":\"Gen­i­tive\",\"prep\":\"After a prep­o­si­tion\",\"dat\":\"Da­tive\",\"acc\":\"Ac­cu­sa­tive\",\"ins\":\"In­stru­men­tal\",\"loc\":\"Lo­ca­tive\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/ru-letters",
 			"seen": "{\"title\":\"From Russian letters\",\"summary\":\"The letters a Russian reader gets wrong. Each tile gives a Russian letter; find the Ukrainian letter nearest to its sound. The apostrophe does the job of ъ, and has no sound of its own.\"}",
 			"verdict": "ok"
@@ -1853,6 +2723,141 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/vikno-sentences",
+			"seen": "{\"title\":\"вікно in sentences\",\"summary\":\"The same forms in use. Read each sentence and choose the form that fits its gap: the words around it tell you the case and the number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno-sentences/gen.sg",
+			"seen": "{\"sentenceGloss\":\"A table stands by this window.\",\"note\":\"Genitive singular, after біля.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno-sentences/dat.sg",
+			"seen": "{\"sentenceGloss\":\"Thanks to this window there is a lot of light here.\",\"note\":\"Dative singular, after завдяки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno-sentences/acc.sg",
+			"seen": "{\"sentenceGloss\":\"I am opening this window.\",\"note\":\"Accusative singular: the direct object.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno-sentences/ins.sg",
+			"seen": "{\"sentenceGloss\":\"Behind this window there is a garden.\",\"note\":\"Instrumental singular, after за.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno-sentences/nom.pl",
+			"seen": "{\"sentenceGloss\":\"These windows are big.\",\"note\":\"Nominative plural: the subject.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno-sentences/gen.pl",
+			"seen": "{\"sentenceGloss\":\"There are five windows in the room.\",\"note\":\"Genitive plural, after п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno-sentences/dat.pl",
+			"seen": "{\"sentenceGloss\":\"Thanks to these windows there is a lot of light here.\",\"note\":\"Dative plural, after завдяки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno-sentences/acc.pl",
+			"seen": "{\"sentenceGloss\":\"I am opening these windows.\",\"note\":\"Accusative plural: the direct object.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno-sentences/ins.pl",
+			"seen": "{\"sentenceGloss\":\"Behind these windows there is a garden.\",\"note\":\"Instrumental plural, after за.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno-sentences/loc.pl",
+			"seen": "{\"sentenceGloss\":\"These windows have no curtains.\",\"note\":\"Locative plural, after на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno",
+			"seen": "{\"title\":\"Noun cases: вікно (window)\",\"summary\":\"A neuter noun through all 7 cases. Its stress moves: вікна́ is genitive singular, ві́кна is plural, and a slip shows them alike.\",\"headers\":{\"nom\":\"Nominative\",\"gen\":\"Genitive\",\"dat\":\"Dative\",\"acc\":\"Accusative\",\"ins\":\"Instrumental\",\"loc\":\"Locative\",\"voc\":\"Vocative\",\"sg\":\"Singular\",\"pl\":\"Plural\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vikno/loc.sg",
+			"seen": "{\"note\":\"вікну́ is also a locative; this board shows вікні́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences",
+			"seen": "{\"title\":\"The vocative in sentences\",\"summary\":\"Who is being addressed? Choose the form of the word in brackets.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/pan",
+			"seen": "{\"sentenceGloss\":\"Good day, sir!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/mama",
+			"seen": "{\"sentenceGloss\":\"Thank you, Mum!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/brat",
+			"seen": "{\"sentenceGloss\":\"Listen, brother!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/uchytel",
+			"seen": "{\"sentenceGloss\":\"Goodbye, teacher!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/olena",
+			"seen": "{\"sentenceGloss\":\"Hi, Olena!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/syn",
+			"seen": "{\"sentenceGloss\":\"Come here, son!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/druh",
+			"seen": "{\"sentenceGloss\":\"How are you, my friend?\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/tato",
+			"seen": "{\"sentenceGloss\":\"Good morning, Dad!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/babusia",
+			"seen": "{\"sentenceGloss\":\"Thank you, Grandma!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/sestra",
+			"seen": "{\"sentenceGloss\":\"Listen, sister!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/andriy",
+			"seen": "{\"sentenceGloss\":\"Hi, Andriy!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative-sentences/mariya",
+			"seen": "{\"sentenceGloss\":\"Goodbye, Mariya!\",\"note\":\"Vocative: addressing someone.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vocative",
+			"seen": "{\"title\":\"Addressing people\",\"summary\":\"Each tile gives a word as it stands in the nominative. Find the form you use to address that person.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/vowel-chart",
 			"seen": "{\"title\":\"The six vowels\",\"summary\":\"The vowel phonemes by tongue position, as an IPA chart. Each cell gives the sound; find its letter.\",\"headers\":{\"close\":\"Close\",\"near\":\"Near-close\",\"mid\":\"Open-mid\",\"open\":\"Open\",\"front\":\"Front\",\"back\":\"Back\"}}",
 			"verdict": "ok"
@@ -1883,11 +2888,6 @@
 			"verdict": "ok"
 		},
 		{
-			"key": "pl/lesson/l09",
-			"seen": "\"Lekcja 9: Moja rodzina\"",
-			"verdict": "ok"
-		},
-		{
 			"key": "pl/lesson/l02",
 			"seen": "\"Lekcja 2: Wymowa samogłosek\"",
 			"verdict": "ok"
@@ -1898,8 +2898,23 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/lesson/g01",
+			"seen": "\"Zaimki osobowe\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/g02",
+			"seen": "\"Wołacz\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/lesson/g03",
 			"seen": "\"Przypadki rzeczowników\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/l09",
+			"seen": "\"Lekcja 9: Moja rodzina\"",
 			"verdict": "ok"
 		},
 		{
@@ -1956,6 +2971,31 @@
 		{
 			"key": "pl/concept/iotated",
 			"seen": "{\"title\":\"я, ю, є, ї\",\"body\":\"Na początku wyrazu lub po samogłosce każda z nich to [j] i samogłoska: я́блуко, моя́. Po spółgłosce я, ю, є zmiękczają ją: ряд, люк. ї zawsze oznacza dwa dźwięki.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/pronoun-n",
+			"seen": "{\"title\":\"н po przyimku\",\"body\":\"Po przyimku z dopełniaczem lub biernikiem zaimki trzeciej osoby dostają н: його, ale у ньо́го, її, ale у не́ї, їх, ale у них. Przyimek z celownikiem ich nie zmienia: завдяки́ йому́. Miejscownik ma н zawsze, bo nie występuje bez przyimka: на ньо́му, на ній, на них.\",\"sources\":[{\"title\":\"він (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/він\"},{\"title\":\"вона (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/вона\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/vocative",
+			"seen": "{\"title\":\"Wołacz\",\"body\":\"Ukraiński ma osobną formę do zwracania się do kogoś. Rzeczowniki na -а zwykle mają -о (ма́мо), miękkie -е, -є lub -ю (зе́мле, Марі́є, бабу́сю). Męskie zwykle mają -е (бра́те, па́не), przy czym г przechodzi w ж (дру́же), albo -у lub -ю (си́ну, учи́телю). W starannej mowie nie używa się do tego mianownika.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/animate-accusative",
+			"seen": "{\"title\":\"Osoba w bierniku\",\"body\":\"Rzeczownik męski oznaczający osobę lub zwierzę ma biernik taki jak dopełniacz: ба́чу бра́та. Przedmiot ma biernik taki jak mianownik: ба́чу стіл. W liczbie mnogiej to samo dotyczy ludzi: ба́чу браті́в.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/dative-ovi",
+			"seen": "{\"title\":\"Dwie formy celownika\",\"body\":\"Rzeczowniki męskie mają dwie formy celownika, -ові lub -еві oraz -у lub -ю: бра́тові i бра́ту są obie poprawne. Dla osób częste jest -ові. Miejscownik osoby też ma -ові, a także -і: на бра́тові, на бра́ті. Ta tablica pokazuje formy na -ові.\",\"sources\":[{\"title\":\"брат (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/брат\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/pronoun-stress",
+			"seen": "{\"title\":\"Akcent po przyimku\",\"body\":\"Po przyimku мене́ i тебе́ mają akcent na pierwszej sylabie: у ме́не, до те́бе. нас i вас się nie zmieniają.\",\"sources\":[{\"title\":\"ти (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/ти\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -2126,6 +3166,76 @@
 		{
 			"key": "pl/alphabet/ya",
 			"seen": "{\"exampleGloss\":\"jabłko\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences",
+			"seen": "{\"title\":\"брат w zdaniach\",\"summary\":\"Te same formy w użyciu. Przeczytaj zdanie i wybierz formę do luki: słowa wokół niej wskazują przypadek i liczbę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/gen.sg",
+			"seen": "{\"sentenceGloss\":\"Nie mam starszego brata.\",\"note\":\"Dopełniacz l. poj., po немає.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/dat.sg",
+			"seen": "{\"sentenceGloss\":\"Piszę list do swojego brata.\",\"note\":\"Celownik l. poj.: adresat. бра́ту też jest poprawne.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/acc.sg",
+			"seen": "{\"sentenceGloss\":\"Widzę swojego brata.\",\"note\":\"Biernik l. poj.: dopełnienie bliższe.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/ins.sg",
+			"seen": "{\"sentenceGloss\":\"Idę ze swoim bratem.\",\"note\":\"Narzędnik l. poj., po зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/loc.sg",
+			"seen": "{\"sentenceGloss\":\"Mój brat ma na sobie nową koszulę.\",\"note\":\"Miejscownik l. poj., po на. бра́ті też jest poprawne.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/voc.sg",
+			"seen": "{\"sentenceGloss\":\"Dziękuję, mój bracie!\",\"note\":\"Wołacz l. poj.: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/nom.pl",
+			"seen": "{\"sentenceGloss\":\"Moi bracia mieszkają w Kijowie.\",\"note\":\"Mianownik l. mn.: podmiot.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/gen.pl",
+			"seen": "{\"sentenceGloss\":\"Ona ma pięciu braci.\",\"note\":\"Dopełniacz l. mn., po п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/dat.pl",
+			"seen": "{\"sentenceGloss\":\"Piszę list do swoich braci.\",\"note\":\"Celownik l. mn.: adresat.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/acc.pl",
+			"seen": "{\"sentenceGloss\":\"Widzę swoich braci.\",\"note\":\"Biernik l. mn.: dopełnienie bliższe.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/ins.pl",
+			"seen": "{\"sentenceGloss\":\"Idę ze swoimi braćmi.\",\"note\":\"Narzędnik l. mn., po зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat-sentences/loc.pl",
+			"seen": "{\"sentenceGloss\":\"Moi bracia mają na sobie nowe koszule.\",\"note\":\"Miejscownik l. mn., po на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/brat",
+			"seen": "{\"title\":\"Przypadki: брат (brat)\",\"summary\":\"Rzeczownik rodzaju męskiego oznaczający osobę, we wszystkich 7 przypadkach. Niektóre formy wypełniają kilka pól.\",\"headers\":{\"nom\":\"Mianownik\",\"gen\":\"Dopełniacz\",\"dat\":\"Celownik\",\"acc\":\"Biernik\",\"ins\":\"Narzędnik\",\"loc\":\"Miejscownik\",\"voc\":\"Wołacz\",\"sg\":\"Liczba pojedyncza\",\"pl\":\"Liczba mnoga\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -2525,6 +3635,101 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/pronouns-personal",
+			"seen": "{\"title\":\"я, ти, ми, ви przez przypadki\",\"summary\":\"Zaimki pierwszej i drugiej osoby. Niektóre formy wypełniają kilka pól, a мене́ i тебе́ po przyimku przenoszą akcent.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"my\":\"ми\",\"vy\":\"ви\",\"dat\":\"Ce­low­nik\",\"acc\":\"Bier­nik\",\"ins\":\"Na­rzęd­nik\",\"loc\":\"Miej­scow­nik\",\"gen\":\"Do­peł­niacz\",\"prep\":\"Po przy­im­ku\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences",
+			"seen": "{\"title\":\"Zaimki w zdaniach\",\"summary\":\"Która forma zaimka w nawiasie pasuje do luki? Słowa wokół niej wskazują przypadek.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/ya.acc",
+			"seen": "{\"sentenceGloss\":\"On mnie widzi.\",\"note\":\"Biernik: dopełnienie bliższe.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/ty.dat",
+			"seen": "{\"sentenceGloss\":\"Ona daje ci książkę.\",\"note\":\"Celownik: adresat.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/ya.ins",
+			"seen": "{\"sentenceGloss\":\"Idziesz ze mną.\",\"note\":\"Narzędnik, po зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/ya.gen",
+			"seen": "{\"sentenceGloss\":\"Mam brata.\",\"note\":\"Dopełniacz, po у.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/ty.ins",
+			"seen": "{\"sentenceGloss\":\"Rozmawiam z tobą.\",\"note\":\"Narzędnik, po з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/my.gen",
+			"seen": "{\"sentenceGloss\":\"To dla nas.\",\"note\":\"Dopełniacz, po для.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/vy.dat",
+			"seen": "{\"sentenceGloss\":\"Piszemy do was list.\",\"note\":\"Celownik: adresat.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/vy.acc",
+			"seen": "{\"sentenceGloss\":\"Mówią o was.\",\"note\":\"Biernik, po про.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/ya.dat",
+			"seen": "{\"sentenceGloss\":\"Powiedz mi, proszę.\",\"note\":\"Celownik: adresat.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/he.prep",
+			"seen": "{\"sentenceGloss\":\"Myślę o nim.\",\"note\":\"Biernik, po про.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/she.prep",
+			"seen": "{\"sentenceGloss\":\"Ona ma siostrę.\",\"note\":\"Dopełniacz, po у.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/they.acc",
+			"seen": "{\"sentenceGloss\":\"Widzę ich.\",\"note\":\"Biernik: dopełnienie bliższe.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/he.dat",
+			"seen": "{\"sentenceGloss\":\"Daj mu książkę.\",\"note\":\"Celownik: adresat.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/she.ins",
+			"seen": "{\"sentenceGloss\":\"Idę z nią.\",\"note\":\"Narzędnik, po з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/they.ins",
+			"seen": "{\"sentenceGloss\":\"Mieszkamy z nimi.\",\"note\":\"Narzędnik, po з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-sentences/she.acc",
+			"seen": "{\"sentenceGloss\":\"On ją widzi.\",\"note\":\"Biernik: dopełnienie bliższe.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pronouns-third",
+			"seen": "{\"title\":\"він, вона, вони przez przypadki\",\"summary\":\"Zaimki trzeciej osoby. Po przyimku z dopełniaczem lub biernikiem dostają н. воно odmienia się jak він. Niektóre formy wypełniają kilka pól.\",\"headers\":{\"he\":\"він\",\"she\":\"вона\",\"they\":\"вони\",\"gen\":\"Do­peł­niacz\",\"prep\":\"Po przy­im­ku\",\"dat\":\"Ce­low­nik\",\"acc\":\"Bier­nik\",\"ins\":\"Na­rzęd­nik\",\"loc\":\"Miej­scow­nik\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/ru-letters",
 			"seen": "{\"title\":\"Od liter rosyjskich\",\"summary\":\"Litery, które mylą czytelnika rosyjskiego. Pole podaje literę rosyjską; znajdź literę ukraińską najbliższą jej dźwiękowi. Apostrof pełni rolę ъ i nie ma własnego dźwięku.\"}",
 			"verdict": "ok"
@@ -2626,6 +3831,142 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/vikno-sentences",
+			"seen": "{\"title\":\"вікно w zdaniach\",\"summary\":\"Te same formy w użyciu. Przeczytaj zdanie i wybierz formę do luki: słowa wokół niej wskazują przypadek i liczbę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno-sentences/gen.sg",
+			"seen": "{\"sentenceGloss\":\"Przy tym oknie stoi stół.\",\"note\":\"Dopełniacz l. poj., po біля.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno-sentences/dat.sg",
+			"seen": "{\"sentenceGloss\":\"Dzięki temu oknu jest tu dużo światła.\",\"note\":\"Celownik l. poj., po завдяки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno-sentences/acc.sg",
+			"seen": "{\"sentenceGloss\":\"Otwieram to okno.\",\"note\":\"Biernik l. poj.: dopełnienie bliższe.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno-sentences/ins.sg",
+			"seen": "{\"sentenceGloss\":\"Za tym oknem jest ogród.\",\"note\":\"Narzędnik l. poj., po за.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno-sentences/nom.pl",
+			"seen": "{\"sentenceGloss\":\"Te okna są duże.\",\"note\":\"Mianownik l. mn.: podmiot.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno-sentences/gen.pl",
+			"seen": "{\"sentenceGloss\":\"W pokoju jest pięć okien.\",\"note\":\"Dopełniacz l. mn., po п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno-sentences/dat.pl",
+			"seen": "{\"sentenceGloss\":\"Dzięki tym oknom jest tu dużo światła.\",\"note\":\"Celownik l. mn., po завдяки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno-sentences/acc.pl",
+			"seen": "{\"sentenceGloss\":\"Otwieram te okna.\",\"note\":\"Biernik l. mn.: dopełnienie bliższe.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno-sentences/ins.pl",
+			"seen": "{\"sentenceGloss\":\"Za tymi oknami jest ogród.\",\"note\":\"Narzędnik l. mn., po за.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno-sentences/loc.pl",
+			"seen": "{\"sentenceGloss\":\"Na tych oknach nie ma zasłon.\",\"note\":\"Miejscownik l. mn., po на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno",
+			"seen": "{\"title\":\"Przypadki: вікно (okno)\",\"summary\":\"Rzeczownik rodzaju nijakiego we wszystkich 7 przypadkach. Akcent się przesuwa: вікна́ to dopełniacz liczby pojedynczej, ві́кна to liczba mnoga, a na kartce wyglądają tak samo.\",\"headers\":{\"nom\":\"Mianownik\",\"gen\":\"Dopełniacz\",\"dat\":\"Celownik\",\"acc\":\"Biernik\",\"ins\":\"Narzędnik\",\"loc\":\"Miejscownik\",\"voc\":\"Wołacz\",\"sg\":\"Liczba pojedyncza\",\"pl\":\"Liczba mnoga\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vikno/loc.sg",
+			"seen": "{\"note\":\"вікну́ to też miejscownik; ta tablica pokazuje вікні́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences",
+			"seen": "{\"title\":\"Wołacz w zdaniach\",\"summary\":\"Do kogo ktoś się zwraca? Wybierz formę słowa w nawiasie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/pan",
+			"seen": "{\"sentenceGloss\":\"Dzień dobry panu!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok",
+			"comment": "Natural Polish (own knowledge). The gloss has a dative, so it no longer mirrors the vocative; the note refers to the Ukrainian."
+		},
+		{
+			"key": "pl/vocative-sentences/mama",
+			"seen": "{\"sentenceGloss\":\"Dziękuję, mamo!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/brat",
+			"seen": "{\"sentenceGloss\":\"Słuchaj, bracie!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/uchytel",
+			"seen": "{\"sentenceGloss\":\"Do widzenia, nauczycielu!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/olena",
+			"seen": "{\"sentenceGloss\":\"Cześć, Oleno!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/syn",
+			"seen": "{\"sentenceGloss\":\"Chodź tu, synu!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/druh",
+			"seen": "{\"sentenceGloss\":\"Co słychać, przyjacielu?\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/tato",
+			"seen": "{\"sentenceGloss\":\"Dzień dobry, tato!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/babusia",
+			"seen": "{\"sentenceGloss\":\"Dziękuję, babciu!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/sestra",
+			"seen": "{\"sentenceGloss\":\"Słuchaj, siostro!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/andriy",
+			"seen": "{\"sentenceGloss\":\"Cześć, Andriju!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative-sentences/mariya",
+			"seen": "{\"sentenceGloss\":\"Do widzenia, Mario!\",\"note\":\"Wołacz: zwrot do kogoś.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vocative",
+			"seen": "{\"title\":\"Zwracanie się do ludzi\",\"summary\":\"Pole podaje słowo w mianowniku. Znajdź formę, której używa się, zwracając się do tej osoby.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/vowel-chart",
 			"seen": "{\"title\":\"Sześć samogłosek\",\"summary\":\"Fonemy samogłoskowe według położenia języka, jak w tabeli IPA. Pole podaje dźwięk; znajdź jego literę.\",\"headers\":{\"close\":\"Przymknięta\",\"near\":\"Prawie przymknięta\",\"mid\":\"Półotwarta\",\"open\":\"Otwarta\",\"front\":\"Przednia\",\"back\":\"Tylna\"}}",
 			"verdict": "ok"
@@ -2639,6 +3980,11 @@
 		{
 			"key": "pl-en/concept/free-stress",
 			"seen": "{\"title\":\"Free, moving stress\",\"body\":\"This is the biggest change from Polish, where stress usually falls on the penultimate syllable. In Ukrainian it can fall on any syllable, tell words apart, as in доро́га and дорога́, and move within one word's forms: роби́ти, роблю́, ро́биш. It can't be guessed, so learn it with each word.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/concept/vocative",
+			"seen": "{\"title\":\"The vocative\",\"body\":\"Polish has this case too, so the idea is familiar, and sometimes the form as well: mamo and ма́мо. Often the ending differs: Polish bracie and panie, Ukrainian бра́те and па́не. Nouns in -а usually take -о (ма́мо), soft ones -е, -є or -ю (зе́мле, Марі́є, бабу́сю). Masculine nouns usually take -е, with г changing to ж (дру́же), or -у or -ю (си́ну, учи́телю).\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -2738,6 +4084,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-en/brat/dat.sg",
+			"seen": "{\"contrast\":\"Polish knows -owi as well (synowi), although брат has bratu.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-en/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"człowiek\",\"means\":\"means any person, in Ukrainian людина; чоловік means a man or husband\"}}",
 			"verdict": "ok",
@@ -2775,8 +4126,18 @@
 			"comment": "Polish g is /ɡ/, devoiced to [k] finally (Polish phonology, Wikipedia), so fair for its main value. góra and гора are a true pair ([ˈɡu.ra], [ɦɔˈra], Wiktionary)."
 		},
 		{
+			"key": "pl-en/pronouns-personal/ya.dat",
+			"seen": "{\"contrast\":\"Polish mnie serves here, and in the genitive and accusative too. Ukrainian tells мене́ from мені́.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-pl/concept/free-stress",
 			"seen": "{\"title\":\"Akcent swobodny i ruchomy\",\"body\":\"To największa zmiana po polskim, gdzie akcent pada zwykle na przedostatnią sylabę. Po ukraińsku może paść na dowolną, rozróżniać słowa, jak доро́га i дорога́, i przesuwać się w formach jednego słowa: роби́ти, роблю́, ро́биш. Nie da się go odgadnąć: trzeba się go uczyć z każdym słowem.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/concept/vocative",
+			"seen": "{\"title\":\"Wołacz\",\"body\":\"Polski też ma ten przypadek, więc zasada jest znana, a czasem i forma: mamo i ма́мо. Często końcówka jest inna: polskie bracie i panie, ukraińskie бра́те i па́не. Rzeczowniki na -а zwykle mają -о (ма́мо), miękkie -е, -є lub -ю (зе́мле, Марі́є, бабу́сю). Męskie zwykle mają -е, przy czym г przechodzi w ж (дру́же), albo -у lub -ю (си́ну, учи́телю).\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -2876,6 +4237,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-pl/brat/dat.sg",
+			"seen": "{\"contrast\":\"Polski też zna -owi (synowi), choć брат ma bratu.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-pl/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"człowiek\",\"means\":\"znaczy każdą osobę, po ukraińsku людина; чоловік to mężczyzna lub mąż\"}}",
 			"verdict": "ok",
@@ -2913,8 +4279,18 @@
 			"comment": "Facts as in pl-en. Natural Polish. \"Wyrazy pokrewne\" often means words of one root within a language, but the context makes the cross-language sense clear."
 		},
 		{
+			"key": "pl-pl/pronouns-personal/ya.dat",
+			"seen": "{\"contrast\":\"Polskie mnie służy tu, a także w dopełniaczu i bierniku. Ukraiński rozróżnia мене́ i мені́.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-uk/concept/free-stress",
 			"seen": "{\"title\":\"Вільний, рухомий наголос\",\"body\":\"Це найбільша зміна порівняно з польською, де наголос зазвичай падає на передостанній склад. В українській він може падати на будь-який склад, розрізняти слова, як доро́га й дорога́, і пересуватися у формах одного слова: роби́ти, роблю́, ро́биш. Вгадати його не можна, тому його вчать із кожним словом.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/concept/vocative",
+			"seen": "{\"title\":\"Кличний відмінок\",\"body\":\"У польській цей відмінок теж є, тому сама ідея знайома, а іноді й форма: mamo і ма́мо. Часто закінчення інше: польське bracie і panie, українське бра́те і па́не. Іменники на -а зазвичай мають -о (ма́мо), м'які -е, -є або -ю (зе́мле, Марі́є, бабу́сю). Чоловічі зазвичай мають -е, причому г переходить у ж (дру́же), або -у чи -ю (си́ну, учи́телю).\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -3013,6 +4389,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-uk/brat/dat.sg",
+			"seen": "{\"contrast\":\"Польська теж знає -owi (synowi), хоча брат має bratu.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-uk/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"człowiek\",\"means\":\"означає будь-яку особу, українською людина; чоловік — це особа чоловічої статі або той, хто одружений із жінкою\"}}",
 			"verdict": "ok"
@@ -3050,6 +4431,11 @@
 			"comment": "Facts as in pl-en. Natural Ukrainian, and \"góra й гора\" follows the й rule after a vowel before a consonant."
 		},
 		{
+			"key": "pl-uk/pronouns-personal/ya.dat",
+			"seen": "{\"contrast\":\"Польське mnie вживається тут, а також у родовому і знахідному. Українська розрізняє мене́ і мені́.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/section/sounds",
 			"seen": "\"Звуки\"",
 			"verdict": "ok"
@@ -3070,11 +4456,6 @@
 			"verdict": "ok"
 		},
 		{
-			"key": "ru/lesson/l09",
-			"seen": "\"Урок 9: Моя семья\"",
-			"verdict": "ok"
-		},
-		{
 			"key": "ru/lesson/l02",
 			"seen": "\"Урок 2: Произношение гласных\"",
 			"verdict": "ok"
@@ -3085,8 +4466,23 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/lesson/g01",
+			"seen": "\"Личные местоимения\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/g02",
+			"seen": "\"Звательный падеж\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/lesson/g03",
 			"seen": "\"Падежи существительных\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l09",
+			"seen": "\"Урок 9: Моя семья\"",
 			"verdict": "ok"
 		},
 		{
@@ -3143,6 +4539,31 @@
 		{
 			"key": "ru/concept/iotated",
 			"seen": "{\"title\":\"я, ю, є, ї\",\"body\":\"В начале слова и после гласного каждая из них — это [j] и гласный: я́блуко, моя́. После согласного я, ю, є смягчают его: ряд, люк. ї всегда обозначает два звука.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/pronoun-n",
+			"seen": "{\"title\":\"н после предлога\",\"body\":\"После предлога с родительным или винительным местоимения третьего лица получают н: його, но у ньо́го, її, но у не́ї, їх, но у них. Предлог с дательным их не меняет: завдяки́ йому́. Местный падеж всегда с н, так как без предлога не употребляется: на ньо́му, на ній, на них.\",\"sources\":[{\"title\":\"він (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/він\"},{\"title\":\"вона (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/вона\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/vocative",
+			"seen": "{\"title\":\"Звательный падеж\",\"body\":\"В украинском есть отдельная форма для обращения. Существительные на -а обычно получают -о (ма́мо), мягкие -е, -є или -ю (зе́мле, Марі́є, бабу́сю). Мужские обычно получают -е (бра́те, па́не), причём г переходит в ж (дру́же), либо -у или -ю (си́ну, учи́телю). В тщательной речи именительный для этого не используется.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/animate-accusative",
+			"seen": "{\"title\":\"Человек в винительном\",\"body\":\"Существительное мужского рода, обозначающее человека или животное, имеет винительный как родительный: ба́чу бра́та. У предмета он как именительный: ба́чу стіл. Во множественном то же у людей: ба́чу браті́в.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/dative-ovi",
+			"seen": "{\"title\":\"Две формы дательного\",\"body\":\"У существительных мужского рода две формы дательного, -ові или -еві и -у или -ю: бра́тові и бра́ту обе правильны. Для людей часто -ові. В местном у человека тоже -ові, а также -і: на бра́тові, на бра́ті. На этой доске формы на -ові.\",\"sources\":[{\"title\":\"брат (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/брат\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/pronoun-stress",
+			"seen": "{\"title\":\"Ударение после предлога\",\"body\":\"После предлога мене́ и тебе́ имеют ударение на первом слоге: у ме́не, до те́бе. нас и вас не меняются.\",\"sources\":[{\"title\":\"ти (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/ти\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -3313,6 +4734,76 @@
 		{
 			"key": "ru/alphabet/ya",
 			"seen": "{\"exampleGloss\":\"яблоко\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences",
+			"seen": "{\"title\":\"брат в предложениях\",\"summary\":\"Те же формы в употреблении. Прочитайте предложение и выберите форму для пропуска: слова вокруг подскажут падеж и число.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/gen.sg",
+			"seen": "{\"sentenceGloss\":\"У меня нет старшего брата.\",\"note\":\"Родительный, ед. ч., после немає.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/dat.sg",
+			"seen": "{\"sentenceGloss\":\"Я пишу письмо своему брату.\",\"note\":\"Дательный, ед. ч.: адресат. бра́ту тоже правильно.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/acc.sg",
+			"seen": "{\"sentenceGloss\":\"Я вижу своего брата.\",\"note\":\"Винительный, ед. ч.: прямое дополнение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/ins.sg",
+			"seen": "{\"sentenceGloss\":\"Я иду со своим братом.\",\"note\":\"Творительный, ед. ч., после зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/loc.sg",
+			"seen": "{\"sentenceGloss\":\"На моём брате новая рубашка.\",\"note\":\"Местный, ед. ч., после на. бра́ті тоже правильно.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/voc.sg",
+			"seen": "{\"sentenceGloss\":\"Спасибо, мой брат!\",\"note\":\"Звательный, ед. ч.: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/nom.pl",
+			"seen": "{\"sentenceGloss\":\"Мои братья живут в Киеве.\",\"note\":\"Именительный, мн. ч.: подлежащее.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/gen.pl",
+			"seen": "{\"sentenceGloss\":\"У неё пять братьев.\",\"note\":\"Родительный, мн. ч., после п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/dat.pl",
+			"seen": "{\"sentenceGloss\":\"Я пишу письмо своим братьям.\",\"note\":\"Дательный, мн. ч.: адресат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/acc.pl",
+			"seen": "{\"sentenceGloss\":\"Я вижу своих братьев.\",\"note\":\"Винительный, мн. ч.: прямое дополнение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/ins.pl",
+			"seen": "{\"sentenceGloss\":\"Я иду со своими братьями.\",\"note\":\"Творительный, мн. ч., после зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat-sentences/loc.pl",
+			"seen": "{\"sentenceGloss\":\"На моих братьях новые рубашки.\",\"note\":\"Местный, мн. ч., после на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/brat",
+			"seen": "{\"title\":\"Падежи: брат\",\"summary\":\"Существительное мужского рода, обозначающее человека, во всех 7 падежах. Некоторые формы занимают несколько клеток.\",\"headers\":{\"nom\":\"Именительный\",\"gen\":\"Родительный\",\"dat\":\"Дательный\",\"acc\":\"Винительный\",\"ins\":\"Творительный\",\"loc\":\"Местный\",\"voc\":\"Звательный\",\"sg\":\"Единственное\",\"pl\":\"Множественное\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -3711,6 +5202,101 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/pronouns-personal",
+			"seen": "{\"title\":\"я, ти, ми, ви по падежам\",\"summary\":\"Местоимения первого и второго лица. Некоторые формы занимают несколько клеток, а мене́ и тебе́ после предлога переносят ударение.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"my\":\"ми\",\"vy\":\"ви\",\"dat\":\"Да­тель­ный\",\"acc\":\"Вини­тель­ный\",\"ins\":\"Твори­тель­ный\",\"loc\":\"Мест­ный\",\"gen\":\"Роди­тель­ный\",\"prep\":\"После пред­ло­га\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences",
+			"seen": "{\"title\":\"Местоимения в предложениях\",\"summary\":\"Какая форма местоимения в скобках подходит к пропуску? Слова вокруг подскажут падеж.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/ya.acc",
+			"seen": "{\"sentenceGloss\":\"Он видит меня.\",\"note\":\"Винительный: прямое дополнение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/ty.dat",
+			"seen": "{\"sentenceGloss\":\"Она даёт тебе книгу.\",\"note\":\"Дательный: адресат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/ya.ins",
+			"seen": "{\"sentenceGloss\":\"Ты идёшь со мной.\",\"note\":\"Творительный, после зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/ya.gen",
+			"seen": "{\"sentenceGloss\":\"У меня есть брат.\",\"note\":\"Родительный, после у.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/ty.ins",
+			"seen": "{\"sentenceGloss\":\"Я разговариваю с тобой.\",\"note\":\"Творительный, после з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/my.gen",
+			"seen": "{\"sentenceGloss\":\"Это для нас.\",\"note\":\"Родительный, после для.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/vy.dat",
+			"seen": "{\"sentenceGloss\":\"Мы пишем вам письмо.\",\"note\":\"Дательный: адресат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/vy.acc",
+			"seen": "{\"sentenceGloss\":\"Они говорят о вас.\",\"note\":\"Винительный, после про.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/ya.dat",
+			"seen": "{\"sentenceGloss\":\"Скажи мне, пожалуйста.\",\"note\":\"Дательный: адресат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/he.prep",
+			"seen": "{\"sentenceGloss\":\"Я думаю о нём.\",\"note\":\"Винительный, после про.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/she.prep",
+			"seen": "{\"sentenceGloss\":\"У неё есть сестра.\",\"note\":\"Родительный, после у.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/they.acc",
+			"seen": "{\"sentenceGloss\":\"Я вижу их.\",\"note\":\"Винительный: прямое дополнение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/he.dat",
+			"seen": "{\"sentenceGloss\":\"Дай ему книгу.\",\"note\":\"Дательный: адресат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/she.ins",
+			"seen": "{\"sentenceGloss\":\"Я иду с ней.\",\"note\":\"Творительный, после з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/they.ins",
+			"seen": "{\"sentenceGloss\":\"Мы живём с ними.\",\"note\":\"Творительный, после з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-sentences/she.acc",
+			"seen": "{\"sentenceGloss\":\"Он видит её.\",\"note\":\"Винительный: прямое дополнение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pronouns-third",
+			"seen": "{\"title\":\"він, вона, вони по падежам\",\"summary\":\"Местоимения третьего лица. После предлога с родительным или винительным они получают н. воно склоняется как він. Некоторые формы занимают несколько клеток.\",\"headers\":{\"he\":\"він\",\"she\":\"вона\",\"they\":\"вони\",\"gen\":\"Роди­тель­ный\",\"prep\":\"После пред­ло­га\",\"dat\":\"Да­тель­ный\",\"acc\":\"Вини­тель­ный\",\"ins\":\"Твори­тель­ный\",\"loc\":\"Мест­ный\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/ru-letters",
 			"seen": "{\"title\":\"От русских букв\",\"summary\":\"Буквы, в которых ошибается читающий по-русски. На плитке русская буква; найдите украинскую букву, ближайшую к её звуку. Апостроф выполняет роль ъ и собственного звука не имеет.\"}",
 			"verdict": "ok"
@@ -3813,6 +5399,142 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/vikno-sentences",
+			"seen": "{\"title\":\"вікно в предложениях\",\"summary\":\"Те же формы в употреблении. Прочитайте предложение и выберите форму для пропуска: слова вокруг подскажут падеж и число.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno-sentences/gen.sg",
+			"seen": "{\"sentenceGloss\":\"У этого окна стоит стол.\",\"note\":\"Родительный, ед. ч., после біля.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno-sentences/dat.sg",
+			"seen": "{\"sentenceGloss\":\"Благодаря этому окну здесь много света.\",\"note\":\"Дательный, ед. ч., после завдяки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno-sentences/acc.sg",
+			"seen": "{\"sentenceGloss\":\"Я открываю это окно.\",\"note\":\"Винительный, ед. ч.: прямое дополнение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno-sentences/ins.sg",
+			"seen": "{\"sentenceGloss\":\"За этим окном сад.\",\"note\":\"Творительный, ед. ч., после за.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno-sentences/nom.pl",
+			"seen": "{\"sentenceGloss\":\"Эти окна большие.\",\"note\":\"Именительный, мн. ч.: подлежащее.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno-sentences/gen.pl",
+			"seen": "{\"sentenceGloss\":\"В комнате пять окон.\",\"note\":\"Родительный, мн. ч., после п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno-sentences/dat.pl",
+			"seen": "{\"sentenceGloss\":\"Благодаря этим окнам здесь много света.\",\"note\":\"Дательный, мн. ч., после завдяки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno-sentences/acc.pl",
+			"seen": "{\"sentenceGloss\":\"Я открываю эти окна.\",\"note\":\"Винительный, мн. ч.: прямое дополнение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno-sentences/ins.pl",
+			"seen": "{\"sentenceGloss\":\"За этими окнами сад.\",\"note\":\"Творительный, мн. ч., после за.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno-sentences/loc.pl",
+			"seen": "{\"sentenceGloss\":\"На этих окнах нет штор.\",\"note\":\"Местный, мн. ч., после на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno",
+			"seen": "{\"title\":\"Падежи: вікно (окно)\",\"summary\":\"Существительное среднего рода во всех 7 падежах. Ударение подвижное: вікна́ — родительный единственного, ві́кна — множественное, а на карточке они выглядят одинаково.\",\"headers\":{\"nom\":\"Именительный\",\"gen\":\"Родительный\",\"dat\":\"Дательный\",\"acc\":\"Винительный\",\"ins\":\"Творительный\",\"loc\":\"Местный\",\"voc\":\"Звательный\",\"sg\":\"Единственное\",\"pl\":\"Множественное\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vikno/loc.sg",
+			"seen": "{\"note\":\"вікну́ тоже местный падеж; на этой доске показано вікні́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences",
+			"seen": "{\"title\":\"Звательный падеж в предложениях\",\"summary\":\"К кому обращаются? Выберите форму слова в скобках.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/pan",
+			"seen": "{\"sentenceGloss\":\"Добрый день, уважаемый!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok",
+			"comment": "Real, current address to a man, though somewhat familiar in tone and looser than пане (own knowledge, not looked up)."
+		},
+		{
+			"key": "ru/vocative-sentences/mama",
+			"seen": "{\"sentenceGloss\":\"Спасибо, мама!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/brat",
+			"seen": "{\"sentenceGloss\":\"Слушай, брат!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/uchytel",
+			"seen": "{\"sentenceGloss\":\"До свидания, учитель!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/olena",
+			"seen": "{\"sentenceGloss\":\"Привет, Олена!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/syn",
+			"seen": "{\"sentenceGloss\":\"Иди сюда, сын!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/druh",
+			"seen": "{\"sentenceGloss\":\"Как дела, друг?\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/tato",
+			"seen": "{\"sentenceGloss\":\"Доброе утро, папа!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/babusia",
+			"seen": "{\"sentenceGloss\":\"Спасибо, бабушка!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/sestra",
+			"seen": "{\"sentenceGloss\":\"Слушай, сестра!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/andriy",
+			"seen": "{\"sentenceGloss\":\"Привет, Андрей!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative-sentences/mariya",
+			"seen": "{\"sentenceGloss\":\"До свидания, Мария!\",\"note\":\"Звательный: обращение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vocative",
+			"seen": "{\"title\":\"Обращение к людям\",\"summary\":\"На плитке слово в именительном падеже. Найдите форму, которой обращаются к этому человеку.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/vowel-chart",
 			"seen": "{\"title\":\"Шесть гласных\",\"summary\":\"Гласные фонемы по положению языка, в виде таблицы МФА. В ячейке звук; найдите его букву.\",\"headers\":{\"close\":\"Верхний\",\"near\":\"Средне-верхний\",\"mid\":\"Средне-нижний\",\"open\":\"Нижний\",\"front\":\"Передний\",\"back\":\"Задний\"}}",
 			"verdict": "ok",
@@ -3826,6 +5548,11 @@
 		{
 			"key": "ru-en/concept/o-unreduced",
 			"seen": "{\"title\":\"о without stress\",\"body\":\"Russian reduces unstressed о towards a: [vɐˈda]. Ukrainian doesn't, and this is the most audible mistake when coming from Russian: say вода́, never вада́. Only before a stressed /u/ does о shift slightly towards [o]. Vakulenko 2025 describes the vowel as close-mid [o] rather than /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/concept/vocative",
+			"seen": "{\"title\":\"The vocative\",\"body\":\"Russian has lost this case, apart from relics such as Боже, so here it has to become a habit: Ukrainian says ма́мо and бра́те where Russian says мама and брат. Nouns in -а usually take -о (ма́мо), soft ones -е, -є or -ю (зе́мле, Марі́є, бабу́сю). Masculine nouns usually take -е (бра́те, па́не), with г changing to ж (дру́же), or -у or -ю (си́ну, учи́телю).\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -3880,6 +5607,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-en/brat/dat.sg",
+			"seen": "{\"contrast\":\"Russian has only -у here: брату.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-en/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"человек\",\"means\":\"means any person, in Ukrainian людина; чоловік means a man or husband\"}}",
 			"verdict": "ok",
@@ -3922,6 +5654,26 @@
 			"comment": "True of the case system. Russian keeps fossils (Боже, Господи) and a colloquial neo-vocative (Лен!) (Wikipedia, Vocative case); a flat \"no vocative\" is acceptable at this level."
 		},
 		{
+			"key": "ru-en/pronouns-personal/ty.gen",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"тебе\",\"means\":\"the dative, to you: Ukrainian тобі́\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/pronouns-personal/ty.acc",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"тебе\",\"means\":\"the dative, to you: Ukrainian тобі́\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/pronouns-personal/ty.dat",
+			"seen": "{\"contrast\":\"Russian has тебе́ here, which in Ukrainian is the genitive and accusative.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/pronouns-personal/ty.loc",
+			"seen": "{\"contrast\":\"Russian has тебе́ here, which in Ukrainian is the genitive and accusative.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-en/ru-letters/g",
 			"seen": "{\"contrast\":\"Russian г has the sound of ґ, but in related words it usually matches Ukrainian г, not ґ: гора, голова.\"}",
 			"verdict": "ok",
@@ -3936,6 +5688,11 @@
 		{
 			"key": "ru-ru/concept/o-unreduced",
 			"seen": "{\"title\":\"о без ударения\",\"body\":\"В русском безударное о сводится к а: [vɐˈda]. В украинском этого нет, и это самая заметная ошибка при переходе с русского: говорите вода́, а не вада́. Лишь перед ударным /u/ о немного смещается к [o]. Вакуленко (2025) описывает этот гласный как [o], а не /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/concept/vocative",
+			"seen": "{\"title\":\"Звательный падеж\",\"body\":\"В русском этот падеж утрачен, если не считать остатков вроде Боже, поэтому здесь он должен войти в привычку: по-украински ма́мо и бра́те там, где по-русски мама и брат. Существительные на -а обычно получают -о (ма́мо), мягкие -е, -є или -ю (зе́мле, Марі́є, бабу́сю). Мужские обычно получают -е (бра́те, па́не), причём г переходит в ж (дру́же), либо -у или -ю (си́ну, учи́телю).\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -3990,6 +5747,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-ru/brat/dat.sg",
+			"seen": "{\"contrast\":\"В русском здесь только -у: брату.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-ru/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"человек\",\"means\":\"значит «любой человек», по-украински людина; чоловік значит «мужчина, муж»\"}}",
 			"verdict": "ok",
@@ -4032,6 +5794,26 @@
 			"comment": "True of the case system. Russian keeps fossils (Боже, Господи) and a colloquial neo-vocative (Лен!) (Wikipedia, Vocative case); a flat \"no vocative\" is acceptable at this level."
 		},
 		{
+			"key": "ru-ru/pronouns-personal/ty.gen",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"тебе\",\"means\":\"дательный падеж: по-украински тобі́\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/pronouns-personal/ty.acc",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"тебе\",\"means\":\"дательный падеж: по-украински тобі́\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/pronouns-personal/ty.dat",
+			"seen": "{\"contrast\":\"По-русски здесь тебе́, а в украинском это родительный и винительный.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/pronouns-personal/ty.loc",
+			"seen": "{\"contrast\":\"По-русски здесь тебе́, а в украинском это родительный и винительный.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-ru/ru-letters/g",
 			"seen": "{\"contrast\":\"Русское г звучит как ґ, но в родственных словах ему обычно отвечает украинское г, а не ґ: гора, голова.\"}",
 			"verdict": "ok",
@@ -4046,6 +5828,11 @@
 		{
 			"key": "ru-uk/concept/o-unreduced",
 			"seen": "{\"title\":\"о без наголосу\",\"body\":\"У російській ненаголошене о наближається до а: [vɐˈda]. В українській цього немає, і це найпомітніша помилка тих, хто переходить із російської: кажіть вода́, а не вада́. Лише перед наголошеним /u/ о трохи зміщується до [o]. Вакуленко (2025) описує цей голосний як напівзакритий [o], а не /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/concept/vocative",
+			"seen": "{\"title\":\"Кличний відмінок\",\"body\":\"У російській цей відмінок втрачено, якщо не брати до уваги залишків на кшталт Боже, тому тут він має ввійти у звичку: українською ма́мо і бра́те там, де російською мама і брат. Іменники на -а зазвичай мають -о (ма́мо), м'які -е, -є або -ю (зе́мле, Марі́є, бабу́сю). Чоловічі зазвичай мають -е (бра́те, па́не), причому г переходить у ж (дру́же), або -у чи -ю (си́ну, учи́телю).\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -4101,6 +5888,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-uk/brat/dat.sg",
+			"seen": "{\"contrast\":\"У російській тут лише -у: брату.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-uk/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"человек\",\"means\":\"означає будь-яку особу, українською людина; чоловік — це особа чоловічої статі або той, хто одружений із жінкою\"}}",
 			"verdict": "ok"
@@ -4142,6 +5934,26 @@
 			"comment": "True of the case system. Russian keeps fossils (Боже, Господи) and a colloquial neo-vocative (Лен!) (Wikipedia, Vocative case); a flat \"no vocative\" is acceptable at this level."
 		},
 		{
+			"key": "ru-uk/pronouns-personal/ty.gen",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"тебе\",\"means\":\"давальний відмінок: українською тобі́\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/pronouns-personal/ty.acc",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"тебе\",\"means\":\"давальний відмінок: українською тобі́\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/pronouns-personal/ty.dat",
+			"seen": "{\"contrast\":\"Російською тут тебе́, а в українській це родовий і знахідний.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/pronouns-personal/ty.loc",
+			"seen": "{\"contrast\":\"Російською тут тебе́, а в українській це родовий і знахідний.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-uk/ru-letters/g",
 			"seen": "{\"contrast\":\"Російське г звучить як ґ, але в споріднених словах йому зазвичай відповідає українське г, а не ґ: гора, голова.\"}",
 			"verdict": "ok",
@@ -4174,11 +5986,6 @@
 			"verdict": "ok"
 		},
 		{
-			"key": "uk/lesson/l09",
-			"seen": "\"Урок 9: Моя сім'я\"",
-			"verdict": "ok"
-		},
-		{
 			"key": "uk/lesson/l02",
 			"seen": "\"Урок 2: Вимова голосних\"",
 			"verdict": "ok"
@@ -4189,8 +5996,23 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/lesson/g01",
+			"seen": "\"Особові займенники\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/g02",
+			"seen": "\"Кличний відмінок\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/lesson/g03",
 			"seen": "\"Відмінки іменників\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l09",
+			"seen": "\"Урок 9: Моя сім'я\"",
 			"verdict": "ok"
 		},
 		{
@@ -4247,6 +6069,31 @@
 		{
 			"key": "uk/concept/iotated",
 			"seen": "{\"title\":\"я, ю, є, ї\",\"body\":\"На початку слова й після голосного кожна з них — це [j] і голосний: я́блуко, моя́. Після приголосного я, ю, є пом'якшують його: ряд, люк. ї завжди позначає два звуки.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/pronoun-n",
+			"seen": "{\"title\":\"н після прийменника\",\"body\":\"Після прийменника з родовим або знахідним займенники третьої особи мають н: його, але у ньо́го, її, але у не́ї, їх, але у них. Прийменник із давальним їх не змінює: завдяки́ йому́. Місцевий завжди з н, бо без прийменника не вживається: на ньо́му, на ній, на них.\",\"sources\":[{\"title\":\"він (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/він\"},{\"title\":\"вона (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/вона\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/vocative",
+			"seen": "{\"title\":\"Кличний відмінок\",\"body\":\"В українській є окрема форма для звертання. Іменники на -а зазвичай мають -о (ма́мо), м'які -е, -є або -ю (зе́мле, Марі́є, бабу́сю). Чоловічі зазвичай мають -е (бра́те, па́не), причому г переходить у ж (дру́же), або -у чи -ю (си́ну, учи́телю). У ретельному мовленні називний для цього не вживається.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/animate-accusative",
+			"seen": "{\"title\":\"Людина в знахідному\",\"body\":\"Іменник чоловічого роду на позначення людини чи тварини має знахідний такий, як родовий: ба́чу бра́та. У предмета він такий, як називний: ба́чу стіл. У множині те саме в людей: ба́чу браті́в.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/dative-ovi",
+			"seen": "{\"title\":\"Дві форми давального\",\"body\":\"Іменники чоловічого роду мають дві форми давального, -ові або -еві та -у або -ю: бра́тові і бра́ту обидві правильні. Для людей часто -ові. Місцевий людини теж має -ові, а також -і: на бра́тові, на бра́ті. На цій дошці форми на -ові.\",\"sources\":[{\"title\":\"брат (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/брат\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/pronoun-stress",
+			"seen": "{\"title\":\"Наголос після прийменника\",\"body\":\"Після прийменника мене́ і тебе́ мають наголос на першому складі: у ме́не, до те́бе. нас і вас не змінюються.\",\"sources\":[{\"title\":\"ти (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/ти\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -4417,6 +6264,76 @@
 		{
 			"key": "uk/alphabet/ya",
 			"seen": "{\"exampleGloss\":\"круглий плід яблуні\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences",
+			"seen": "{\"title\":\"брат у реченнях\",\"summary\":\"Ті самі форми у вжитку. Прочитайте речення й виберіть форму для пропуску: слова навколо підкажуть відмінок і число.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/gen.sg",
+			"seen": "{\"note\":\"Родовий однини, після немає.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/dat.sg",
+			"seen": "{\"note\":\"Давальний однини: адресат. бра́ту теж правильно.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/acc.sg",
+			"seen": "{\"note\":\"Знахідний однини: прямий додаток.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/ins.sg",
+			"seen": "{\"note\":\"Орудний однини, після зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/loc.sg",
+			"seen": "{\"note\":\"Місцевий однини, після на. бра́ті теж правильно.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/voc.sg",
+			"seen": "{\"note\":\"Кличний однини: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/nom.pl",
+			"seen": "{\"note\":\"Називний множини: підмет.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/gen.pl",
+			"seen": "{\"note\":\"Родовий множини, після п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/dat.pl",
+			"seen": "{\"note\":\"Давальний множини: адресат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/acc.pl",
+			"seen": "{\"note\":\"Знахідний множини: прямий додаток.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/ins.pl",
+			"seen": "{\"note\":\"Орудний множини, після зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat-sentences/loc.pl",
+			"seen": "{\"note\":\"Місцевий множини, після на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/brat",
+			"seen": "{\"title\":\"Відмінки: брат\",\"summary\":\"Іменник чоловічого роду на позначення людини в усіх 7 відмінках. Деякі форми займають кілька клітинок.\",\"headers\":{\"nom\":\"Називний\",\"gen\":\"Родовий\",\"dat\":\"Давальний\",\"acc\":\"Знахідний\",\"ins\":\"Орудний\",\"loc\":\"Місцевий\",\"voc\":\"Кличний\",\"sg\":\"Однина\",\"pl\":\"Множина\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -4816,6 +6733,101 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/pronouns-personal",
+			"seen": "{\"title\":\"я, ти, ми, ви за відмінками\",\"summary\":\"Займенники першої та другої особи. Деякі форми займають кілька клітинок, а мене́ і тебе́ після прийменника переносять наголос.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"my\":\"ми\",\"vy\":\"ви\",\"dat\":\"Да­валь­ний\",\"acc\":\"Зна­хід­ний\",\"ins\":\"Оруд­ний\",\"loc\":\"Міс­це­вий\",\"gen\":\"Ро­до­вий\",\"prep\":\"Після при­йменника\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences",
+			"seen": "{\"title\":\"Займенники в реченнях\",\"summary\":\"Яка форма займенника в дужках підходить до пропуску? Слова навколо підкажуть відмінок.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/ya.acc",
+			"seen": "{\"note\":\"Знахідний: прямий додаток.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/ty.dat",
+			"seen": "{\"note\":\"Давальний: адресат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/ya.ins",
+			"seen": "{\"note\":\"Орудний, після зі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/ya.gen",
+			"seen": "{\"note\":\"Родовий, після у.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/ty.ins",
+			"seen": "{\"note\":\"Орудний, після з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/my.gen",
+			"seen": "{\"note\":\"Родовий, після для.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/vy.dat",
+			"seen": "{\"note\":\"Давальний: адресат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/vy.acc",
+			"seen": "{\"note\":\"Знахідний, після про.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/ya.dat",
+			"seen": "{\"note\":\"Давальний: адресат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/he.prep",
+			"seen": "{\"note\":\"Знахідний, після про.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/she.prep",
+			"seen": "{\"note\":\"Родовий, після у.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/they.acc",
+			"seen": "{\"note\":\"Знахідний: прямий додаток.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/he.dat",
+			"seen": "{\"note\":\"Давальний: адресат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/she.ins",
+			"seen": "{\"note\":\"Орудний, після з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/they.ins",
+			"seen": "{\"note\":\"Орудний, після з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-sentences/she.acc",
+			"seen": "{\"note\":\"Знахідний: прямий додаток.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pronouns-third",
+			"seen": "{\"title\":\"він, вона, вони за відмінками\",\"summary\":\"Займенники третьої особи. Після прийменника з родовим або знахідним вони мають н. воно відмінюється як він. Деякі форми займають кілька клітинок.\",\"headers\":{\"he\":\"він\",\"she\":\"вона\",\"they\":\"вони\",\"gen\":\"Ро­до­вий\",\"prep\":\"Після при­йменника\",\"dat\":\"Да­валь­ний\",\"acc\":\"Зна­хід­ний\",\"ins\":\"Оруд­ний\",\"loc\":\"Міс­це­вий\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/ru-letters",
 			"seen": "{\"title\":\"Від російських літер\",\"summary\":\"Літери, у яких помиляється той, хто читає російською. На плитці російська літера; знайдіть українську літеру, найближчу до її звука. Апостроф виконує роль ъ і власного звука не має.\"}",
 			"verdict": "ok"
@@ -4913,6 +6925,141 @@
 		{
 			"key": "uk/unstressed-o/doroha",
 			"seen": "{\"note\":\"шлях\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences",
+			"seen": "{\"title\":\"вікно в реченнях\",\"summary\":\"Ті самі форми у вжитку. Прочитайте речення й виберіть форму для пропуску: слова навколо підкажуть відмінок і число.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences/gen.sg",
+			"seen": "{\"note\":\"Родовий однини, після біля.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences/dat.sg",
+			"seen": "{\"note\":\"Давальний однини, після завдяки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences/acc.sg",
+			"seen": "{\"note\":\"Знахідний однини: прямий додаток.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences/ins.sg",
+			"seen": "{\"note\":\"Орудний однини, після за.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences/nom.pl",
+			"seen": "{\"note\":\"Називний множини: підмет.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences/gen.pl",
+			"seen": "{\"note\":\"Родовий множини, після п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences/dat.pl",
+			"seen": "{\"note\":\"Давальний множини, після завдяки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences/acc.pl",
+			"seen": "{\"note\":\"Знахідний множини: прямий додаток.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences/ins.pl",
+			"seen": "{\"note\":\"Орудний множини, після за.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno-sentences/loc.pl",
+			"seen": "{\"note\":\"Місцевий множини, після на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno",
+			"seen": "{\"title\":\"Відмінки: вікно\",\"summary\":\"Іменник середнього роду в усіх 7 відмінках. Наголос рухомий: вікна́ — родовий однини, ві́кна — множина, а на картці вони однакові.\",\"headers\":{\"nom\":\"Називний\",\"gen\":\"Родовий\",\"dat\":\"Давальний\",\"acc\":\"Знахідний\",\"ins\":\"Орудний\",\"loc\":\"Місцевий\",\"voc\":\"Кличний\",\"sg\":\"Однина\",\"pl\":\"Множина\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vikno/loc.sg",
+			"seen": "{\"note\":\"вікну́ теж місцевий відмінок; на цій дошці показано вікні́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences",
+			"seen": "{\"title\":\"Кличний відмінок у реченнях\",\"summary\":\"До кого звертаються? Виберіть форму слова в дужках.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/pan",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/mama",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/brat",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/uchytel",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/olena",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/syn",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/druh",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/tato",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/babusia",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/sestra",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/andriy",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative-sentences/mariya",
+			"seen": "{\"note\":\"Кличний: звертання.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vocative",
+			"seen": "{\"title\":\"Звертання до людей\",\"summary\":\"На плитці слово в називному відмінку. Знайдіть форму, якою звертаються до цієї людини.\"}",
 			"verdict": "ok"
 		},
 		{

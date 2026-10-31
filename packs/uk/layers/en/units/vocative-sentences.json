@@ -1,0 +1,54 @@
+{
+	"title": "The vocative in sentences",
+	"summary": "Who is being addressed? Choose the form of the word in brackets.",
+	"cells": {
+		"pan": {
+			"sentenceGloss": "Good day, sir!",
+			"note": "Vocative: addressing someone."
+		},
+		"mama": {
+			"sentenceGloss": "Thank you, Mum!",
+			"note": "Vocative: addressing someone."
+		},
+		"brat": {
+			"sentenceGloss": "Listen, brother!",
+			"note": "Vocative: addressing someone."
+		},
+		"uchytel": {
+			"sentenceGloss": "Goodbye, teacher!",
+			"note": "Vocative: addressing someone."
+		},
+		"olena": {
+			"sentenceGloss": "Hi, Olena!",
+			"note": "Vocative: addressing someone."
+		},
+		"syn": {
+			"sentenceGloss": "Come here, son!",
+			"note": "Vocative: addressing someone."
+		},
+		"druh": {
+			"sentenceGloss": "How are you, my friend?",
+			"note": "Vocative: addressing someone."
+		},
+		"tato": {
+			"sentenceGloss": "Good morning, Dad!",
+			"note": "Vocative: addressing someone."
+		},
+		"babusia": {
+			"sentenceGloss": "Thank you, Grandma!",
+			"note": "Vocative: addressing someone."
+		},
+		"sestra": {
+			"sentenceGloss": "Listen, sister!",
+			"note": "Vocative: addressing someone."
+		},
+		"andriy": {
+			"sentenceGloss": "Hi, Andriy!",
+			"note": "Vocative: addressing someone."
+		},
+		"mariya": {
+			"sentenceGloss": "Goodbye, Mariya!",
+			"note": "Vocative: addressing someone."
+		}
+	}
+}

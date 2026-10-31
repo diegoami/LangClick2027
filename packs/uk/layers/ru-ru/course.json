@@ -13,6 +13,16 @@
 					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
 				}
 			]
+		},
+		"vocative": {
+			"title": "Звательный падеж",
+			"body": "В русском этот падеж утрачен, если не считать остатков вроде Боже, поэтому здесь он должен войти в привычку: по-украински ма́мо и бра́те там, где по-русски мама и брат. Существительные на -а обычно получают -о (ма́мо), мягкие -е, -є или -ю (зе́мле, Марі́є, бабу́сю). Мужские обычно получают -е (бра́те, па́не), причём г переходит в ж (дру́же), либо -у или -ю (си́ну, учи́телю).",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				}
+			]
 		}
 	}
 }

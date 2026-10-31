@@ -14,17 +14,23 @@
 		"l01": {
 			"title": "Lekcja 1: Alfabet i jego dźwięki"
 		},
-		"l09": {
-			"title": "Lekcja 9: Moja rodzina"
-		},
 		"l02": {
 			"title": "Lekcja 2: Wymowa samogłosek"
 		},
 		"l03": {
 			"title": "Lekcja 3: Wymowa spółgłosek"
 		},
+		"g01": {
+			"title": "Zaimki osobowe"
+		},
+		"g02": {
+			"title": "Wołacz"
+		},
 		"g03": {
 			"title": "Przypadki rzeczowników"
+		},
+		"l09": {
+			"title": "Lekcja 9: Moja rodzina"
 		}
 	},
 	"concepts": {
@@ -171,6 +177,68 @@
 				{
 					"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
 					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				}
+			]
+		},
+		"pronoun-n": {
+			"title": "н po przyimku",
+			"body": "Po przyimku z dopełniaczem lub biernikiem zaimki trzeciej osoby dostają н: його, ale у ньо́го, її, ale у не́ї, їх, ale у них. Przyimek z celownikiem ich nie zmienia: завдяки́ йому́. Miejscownik ma н zawsze, bo nie występuje bez przyimka: на ньо́му, на ній, на них.",
+			"sources": [
+				{
+					"title": "він (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/він"
+				},
+				{
+					"title": "вона (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/вона"
+				}
+			]
+		},
+		"vocative": {
+			"title": "Wołacz",
+			"body": "Ukraiński ma osobną formę do zwracania się do kogoś. Rzeczowniki na -а zwykle mają -о (ма́мо), miękkie -е, -є lub -ю (зе́мле, Марі́є, бабу́сю). Męskie zwykle mają -е (бра́те, па́не), przy czym г przechodzi w ж (дру́же), albo -у lub -ю (си́ну, учи́телю). W starannej mowie nie używa się do tego mianownika.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				}
+			]
+		},
+		"animate-accusative": {
+			"title": "Osoba w bierniku",
+			"body": "Rzeczownik męski oznaczający osobę lub zwierzę ma biernik taki jak dopełniacz: ба́чу бра́та. Przedmiot ma biernik taki jak mianownik: ба́чу стіл. W liczbie mnogiej to samo dotyczy ludzi: ба́чу браті́в.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				}
+			]
+		},
+		"dative-ovi": {
+			"title": "Dwie formy celownika",
+			"body": "Rzeczowniki męskie mają dwie formy celownika, -ові lub -еві oraz -у lub -ю: бра́тові i бра́ту są obie poprawne. Dla osób częste jest -ові. Miejscownik osoby też ma -ові, a także -і: на бра́тові, на бра́ті. Ta tablica pokazuje formy na -ові.",
+			"sources": [
+				{
+					"title": "брат (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/брат"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"pronoun-stress": {
+			"title": "Akcent po przyimku",
+			"body": "Po przyimku мене́ i тебе́ mają akcent na pierwszej sylabie: у ме́не, до те́бе. нас i вас się nie zmieniają.",
+			"sources": [
+				{
+					"title": "ти (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/ти"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
 				}
 			]
 		}

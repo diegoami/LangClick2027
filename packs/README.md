@@ -104,6 +104,11 @@ text. A test keeps it in step with the units.
    and copies nothing. Editing anything voids its checks: the entry returns to
    `pending` the next time the script runs.
 
+A checker reads stress from the raw page, letter by letter. A page summarised by a tool can't
+be trusted with a stress mark: one checker passed three wrong marks that way. In a sentence,
+it also checks that no other slip in the tray is right too, because that slip would be marked
+wrong.
+
 A checker works from the content and outside sources, without being told the author's
 reasoning, and must test sound descriptions against phonetic sources: "h, as in hat"
 once passed two checkers and was wrong. A native review is recommended for the

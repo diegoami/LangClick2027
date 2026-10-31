@@ -1,0 +1,132 @@
+{
+	"id": "pronouns-sentences",
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 16
+	},
+	"cells": [
+		{
+			"id": "ya.acc",
+			"item": "sentence:pronouns:ya.acc",
+			"text": "мене",
+			"display": "мене́",
+			"sentence": "Він ба́чить ___ (я)."
+		},
+		{
+			"id": "ty.dat",
+			"item": "sentence:pronouns:ty.dat",
+			"text": "тобі",
+			"display": "тобі́",
+			"sentence": "Вона́ дає́ ___ кни́гу (ти)."
+		},
+		{
+			"id": "ya.ins",
+			"item": "sentence:pronouns:ya.ins",
+			"text": "мною",
+			"display": "мно́ю",
+			"sentence": "Ти йдеш зі ___ (я)."
+		},
+		{
+			"id": "ya.gen",
+			"item": "sentence:pronouns:ya.gen",
+			"text": "мене",
+			"display": "ме́не",
+			"sentence": "У ___ є брат (я)."
+		},
+		{
+			"id": "ty.ins",
+			"item": "sentence:pronouns:ty.ins",
+			"text": "тобою",
+			"display": "тобо́ю",
+			"sentence": "Я розмовля́ю з ___ (ти)."
+		},
+		{
+			"id": "my.gen",
+			"item": "sentence:pronouns:my.gen",
+			"text": "нас",
+			"sentence": "Це для ___ (ми)."
+		},
+		{
+			"id": "vy.dat",
+			"item": "sentence:pronouns:vy.dat",
+			"text": "вам",
+			"sentence": "Ми пи́шемо ___ лист (ви)."
+		},
+		{
+			"id": "vy.acc",
+			"item": "sentence:pronouns:vy.acc",
+			"text": "вас",
+			"sentence": "Вони́ гово́рять про ___ (ви)."
+		},
+		{
+			"id": "ya.dat",
+			"item": "sentence:pronouns:ya.dat",
+			"text": "мені",
+			"display": "мені́",
+			"sentence": "Скажи́ ___, будь ла́ска (я)."
+		},
+		{
+			"id": "he.prep",
+			"item": "sentence:pronouns:he.prep",
+			"text": "нього",
+			"display": "ньо́го",
+			"sentence": "Я ду́маю про ___ (він)."
+		},
+		{
+			"id": "she.prep",
+			"item": "sentence:pronouns:she.prep",
+			"text": "неї",
+			"display": "не́ї",
+			"sentence": "У ___ є сестра́ (вона́)."
+		},
+		{
+			"id": "they.acc",
+			"item": "sentence:pronouns:they.acc",
+			"text": "їх",
+			"sentence": "Я ба́чу ___ (вони́)."
+		},
+		{
+			"id": "he.dat",
+			"item": "sentence:pronouns:he.dat",
+			"text": "йому",
+			"display": "йому́",
+			"sentence": "Дай ___ кни́гу (він)."
+		},
+		{
+			"id": "she.ins",
+			"item": "sentence:pronouns:she.ins",
+			"text": "нею",
+			"display": "не́ю",
+			"sentence": "Я йду з ___ (вона́)."
+		},
+		{
+			"id": "they.ins",
+			"item": "sentence:pronouns:they.ins",
+			"text": "ними",
+			"display": "ни́ми",
+			"sentence": "Ми живемо́ з ___ (вони́)."
+		},
+		{
+			"id": "she.acc",
+			"item": "sentence:pronouns:she.acc",
+			"text": "її",
+			"display": "її́",
+			"sentence": "Він ба́чить ___ (вона́)."
+		}
+	],
+	"sources": [
+		{
+			"title": "я (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/я"
+		},
+		{
+			"title": "він (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/він"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"title": "брат w zdaniach",
+	"summary": "Te same formy w użyciu. Przeczytaj zdanie i wybierz formę do luki: słowa wokół niej wskazują przypadek i liczbę.",
+	"cells": {
+		"gen.sg": {
+			"sentenceGloss": "Nie mam starszego brata.",
+			"note": "Dopełniacz l. poj., po немає."
+		},
+		"dat.sg": {
+			"sentenceGloss": "Piszę list do swojego brata.",
+			"note": "Celownik l. poj.: adresat. бра́ту też jest poprawne."
+		},
+		"acc.sg": {
+			"sentenceGloss": "Widzę swojego brata.",
+			"note": "Biernik l. poj.: dopełnienie bliższe."
+		},
+		"ins.sg": {
+			"sentenceGloss": "Idę ze swoim bratem.",
+			"note": "Narzędnik l. poj., po зі."
+		},
+		"loc.sg": {
+			"sentenceGloss": "Mój brat ma na sobie nową koszulę.",
+			"note": "Miejscownik l. poj., po на. бра́ті też jest poprawne."
+		},
+		"voc.sg": {
+			"sentenceGloss": "Dziękuję, mój bracie!",
+			"note": "Wołacz l. poj.: zwrot do kogoś."
+		},
+		"nom.pl": {
+			"sentenceGloss": "Moi bracia mieszkają w Kijowie.",
+			"note": "Mianownik l. mn.: podmiot."
+		},
+		"gen.pl": {
+			"sentenceGloss": "Ona ma pięciu braci.",
+			"note": "Dopełniacz l. mn., po п'ять."
+		},
+		"dat.pl": {
+			"sentenceGloss": "Piszę list do swoich braci.",
+			"note": "Celownik l. mn.: adresat."
+		},
+		"acc.pl": {
+			"sentenceGloss": "Widzę swoich braci.",
+			"note": "Biernik l. mn.: dopełnienie bliższe."
+		},
+		"ins.pl": {
+			"sentenceGloss": "Idę ze swoimi braćmi.",
+			"note": "Narzędnik l. mn., po зі."
+		},
+		"loc.pl": {
+			"sentenceGloss": "Moi bracia mają na sobie nowe koszule.",
+			"note": "Miejscownik l. mn., po на."
+		}
+	}
+}

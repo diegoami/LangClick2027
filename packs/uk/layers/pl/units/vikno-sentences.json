@@ -1,0 +1,46 @@
+{
+	"title": "вікно w zdaniach",
+	"summary": "Te same formy w użyciu. Przeczytaj zdanie i wybierz formę do luki: słowa wokół niej wskazują przypadek i liczbę.",
+	"cells": {
+		"gen.sg": {
+			"sentenceGloss": "Przy tym oknie stoi stół.",
+			"note": "Dopełniacz l. poj., po біля."
+		},
+		"dat.sg": {
+			"sentenceGloss": "Dzięki temu oknu jest tu dużo światła.",
+			"note": "Celownik l. poj., po завдяки."
+		},
+		"acc.sg": {
+			"sentenceGloss": "Otwieram to okno.",
+			"note": "Biernik l. poj.: dopełnienie bliższe."
+		},
+		"ins.sg": {
+			"sentenceGloss": "Za tym oknem jest ogród.",
+			"note": "Narzędnik l. poj., po за."
+		},
+		"nom.pl": {
+			"sentenceGloss": "Te okna są duże.",
+			"note": "Mianownik l. mn.: podmiot."
+		},
+		"gen.pl": {
+			"sentenceGloss": "W pokoju jest pięć okien.",
+			"note": "Dopełniacz l. mn., po п'ять."
+		},
+		"dat.pl": {
+			"sentenceGloss": "Dzięki tym oknom jest tu dużo światła.",
+			"note": "Celownik l. mn., po завдяки."
+		},
+		"acc.pl": {
+			"sentenceGloss": "Otwieram te okna.",
+			"note": "Biernik l. mn.: dopełnienie bliższe."
+		},
+		"ins.pl": {
+			"sentenceGloss": "Za tymi oknami jest ogród.",
+			"note": "Narzędnik l. mn., po за."
+		},
+		"loc.pl": {
+			"sentenceGloss": "Na tych oknach nie ma zasłon.",
+			"note": "Miejscownik l. mn., po на."
+		}
+	}
+}

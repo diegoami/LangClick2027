@@ -1,0 +1,24 @@
+{
+	"cells": {
+		"ty.gen": {
+			"falseFriend": {
+				"kind": "homograph",
+				"form": "тебе",
+				"means": "the dative, to you: Ukrainian тобі́"
+			}
+		},
+		"ty.acc": {
+			"falseFriend": {
+				"kind": "homograph",
+				"form": "тебе",
+				"means": "the dative, to you: Ukrainian тобі́"
+			}
+		},
+		"ty.dat": {
+			"contrast": "Russian has тебе́ here, which in Ukrainian is the genitive and accusative."
+		},
+		"ty.loc": {
+			"contrast": "Russian has тебе́ here, which in Ukrainian is the genitive and accusative."
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"title": "він, вона, вони by case",
+	"summary": "The pronouns of the third person. After a preposition that takes the genitive or accusative they take н. воно declines like він. Some forms fill more than one cell.",
+	"headers": {
+		"he": "він",
+		"she": "вона",
+		"they": "вони",
+		"gen": "Gen­i­tive",
+		"prep": "After a prep­o­si­tion",
+		"dat": "Da­tive",
+		"acc": "Ac­cu­sa­tive",
+		"ins": "In­stru­men­tal",
+		"loc": "Lo­ca­tive"
+	}
+}

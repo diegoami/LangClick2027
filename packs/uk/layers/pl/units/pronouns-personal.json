@@ -1,0 +1,16 @@
+{
+	"title": "я, ти, ми, ви przez przypadki",
+	"summary": "Zaimki pierwszej i drugiej osoby. Niektóre formy wypełniają kilka pól, a мене́ i тебе́ po przyimku przenoszą akcent.",
+	"headers": {
+		"ya": "я",
+		"ty": "ти",
+		"my": "ми",
+		"vy": "ви",
+		"dat": "Ce­low­nik",
+		"acc": "Bier­nik",
+		"ins": "Na­rzęd­nik",
+		"loc": "Miej­scow­nik",
+		"gen": "Do­peł­niacz",
+		"prep": "Po przy­im­ku"
+	}
+}

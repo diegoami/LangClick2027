@@ -1,0 +1,90 @@
+{
+	"id": "vikno-sentences",
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 10
+	},
+	"cells": [
+		{
+			"id": "gen.sg",
+			"item": "sentence:vikno:gen.sg",
+			"text": "вікна",
+			"display": "вікна́",
+			"sentence": "Бі́ля цього́ ___ стої́ть стіл."
+		},
+		{
+			"id": "dat.sg",
+			"item": "sentence:vikno:dat.sg",
+			"text": "вікну",
+			"display": "вікну́",
+			"sentence": "Завдяки́ цьому́ ___ тут бага́то сві́тла."
+		},
+		{
+			"id": "acc.sg",
+			"item": "sentence:vikno:acc.sg",
+			"text": "вікно",
+			"display": "вікно́",
+			"sentence": "Я відчиня́ю це ___."
+		},
+		{
+			"id": "ins.sg",
+			"item": "sentence:vikno:ins.sg",
+			"text": "вікном",
+			"display": "вікно́м",
+			"sentence": "За цим ___ сад."
+		},
+		{
+			"id": "nom.pl",
+			"item": "sentence:vikno:nom.pl",
+			"text": "вікна",
+			"display": "ві́кна",
+			"sentence": "Ці ___ вели́кі."
+		},
+		{
+			"id": "gen.pl",
+			"item": "sentence:vikno:gen.pl",
+			"text": "вікон",
+			"display": "ві́кон",
+			"sentence": "У кімна́ті п'ять ___."
+		},
+		{
+			"id": "dat.pl",
+			"item": "sentence:vikno:dat.pl",
+			"text": "вікнам",
+			"display": "ві́кнам",
+			"sentence": "Завдяки́ цим ___ тут бага́то сві́тла."
+		},
+		{
+			"id": "acc.pl",
+			"item": "sentence:vikno:acc.pl",
+			"text": "вікна",
+			"display": "ві́кна",
+			"sentence": "Я відчиня́ю ці ___."
+		},
+		{
+			"id": "ins.pl",
+			"item": "sentence:vikno:ins.pl",
+			"text": "вікнами",
+			"display": "ві́кнами",
+			"sentence": "За ци́ми ___ сад."
+		},
+		{
+			"id": "loc.pl",
+			"item": "sentence:vikno:loc.pl",
+			"text": "вікнах",
+			"display": "ві́кнах",
+			"sentence": "На цих ___ нема́є штор."
+		}
+	],
+	"sources": [
+		{
+			"title": "вікно (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/вікно"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

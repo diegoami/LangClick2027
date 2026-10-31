@@ -14,17 +14,23 @@
 		"l01": {
 			"title": "Lesson 1: The alphabet and its sounds"
 		},
-		"l09": {
-			"title": "Lesson 9: My family"
-		},
 		"l02": {
 			"title": "Lesson 2: Pronouncing the vowels"
 		},
 		"l03": {
 			"title": "Lesson 3: Pronouncing the consonants"
 		},
+		"g01": {
+			"title": "Personal pronouns"
+		},
+		"g02": {
+			"title": "The vocative"
+		},
 		"g03": {
 			"title": "Noun cases"
+		},
+		"l09": {
+			"title": "Lesson 9: My family"
 		}
 	},
 	"concepts": {
@@ -171,6 +177,68 @@
 				{
 					"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
 					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				}
+			]
+		},
+		"pronoun-n": {
+			"title": "н after a preposition",
+			"body": "After a preposition that takes the genitive or accusative, the third-person pronouns take н: його but у ньо́го, її but у не́ї, їх but у них. A preposition that takes the dative does not change them: завдяки́ йому́. The locative always has н, since it is never used without a preposition: на ньо́му, на ній, на них.",
+			"sources": [
+				{
+					"title": "він (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/він"
+				},
+				{
+					"title": "вона (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/вона"
+				}
+			]
+		},
+		"vocative": {
+			"title": "The vocative",
+			"body": "Ukrainian has a separate form for addressing someone. Nouns in -а usually take -о (ма́мо), soft ones -е, -є or -ю (зе́мле, Марі́є, бабу́сю). Masculine nouns usually take -е (бра́те, па́не), with г changing to ж (дру́же), or -у or -ю (си́ну, учи́телю). The nominative is not used for this in careful speech.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				}
+			]
+		},
+		"animate-accusative": {
+			"title": "A person in the accusative",
+			"body": "A masculine noun for a person or animal has its accusative like its genitive: ба́чу бра́та. For a thing it is like the nominative: ба́чу стіл. In the plural, the same holds for people: ба́чу браті́в.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				}
+			]
+		},
+		"dative-ovi": {
+			"title": "Two forms in the dative",
+			"body": "Masculine nouns have two dative forms, -ові or -еві and -у or -ю: бра́тові and бра́ту are both correct. -ові is common for people. The locative of a person has -ові too, as well as -і: на бра́тові, на бра́ті. This board shows the -ові forms.",
+			"sources": [
+				{
+					"title": "брат (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/брат"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"pronoun-stress": {
+			"title": "Stress after a preposition",
+			"body": "After a preposition, мене́ and тебе́ are stressed on the first syllable: у ме́не, до те́бе. нас and вас do not change.",
+			"sources": [
+				{
+					"title": "ти (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/ти"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
 				}
 			]
 		}

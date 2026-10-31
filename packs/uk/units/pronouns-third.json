@@ -1,0 +1,329 @@
+{
+	"id": "pronouns-third",
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["he", "she", "they"],
+		"columns": ["gen", "prep", "dat", "acc", "ins", "loc"]
+	},
+	"cells": [
+		{
+			"id": "he.gen",
+			"item": "pronoun:he:gen",
+			"text": "його",
+			"display": "його́",
+			"ipa": "/jɔˈɦɔ/",
+			"cognates": {
+				"ru": {
+					"form": "его́"
+				},
+				"pl": {
+					"form": "jego"
+				}
+			},
+			"row": "he",
+			"col": "gen"
+		},
+		{
+			"id": "he.prep",
+			"item": "pronoun:he:prep",
+			"text": "нього",
+			"display": "ньо́го",
+			"ipa": "/ˈnʲɔɦɔ/",
+			"cognates": {
+				"ru": {
+					"form": "него́"
+				},
+				"pl": {
+					"form": "niego"
+				}
+			},
+			"concepts": ["pronoun-n"],
+			"row": "he",
+			"col": "prep"
+		},
+		{
+			"id": "he.dat",
+			"item": "pronoun:he:dat",
+			"text": "йому",
+			"display": "йому́",
+			"ipa": "/jɔˈmu/",
+			"cognates": {
+				"ru": {
+					"form": "ему́"
+				},
+				"pl": {
+					"form": "jemu"
+				}
+			},
+			"row": "he",
+			"col": "dat"
+		},
+		{
+			"id": "he.acc",
+			"item": "pronoun:he:acc",
+			"text": "його",
+			"display": "його́",
+			"ipa": "/jɔˈɦɔ/",
+			"cognates": {
+				"ru": {
+					"form": "его́"
+				},
+				"pl": {
+					"form": "jego"
+				}
+			},
+			"row": "he",
+			"col": "acc"
+		},
+		{
+			"id": "he.ins",
+			"item": "pronoun:he:ins",
+			"text": "ним",
+			"ipa": "/nɪm/",
+			"cognates": {
+				"ru": {
+					"form": "им"
+				},
+				"pl": {
+					"form": "nim"
+				}
+			},
+			"row": "he",
+			"col": "ins"
+		},
+		{
+			"id": "he.loc",
+			"item": "pronoun:he:loc",
+			"text": "ньому",
+			"display": "ньо́му",
+			"ipa": "/ˈnʲɔmu/",
+			"cognates": {
+				"ru": {
+					"form": "нём"
+				},
+				"pl": {
+					"form": "nim"
+				}
+			},
+			"concepts": ["pronoun-n"],
+			"row": "he",
+			"col": "loc"
+		},
+		{
+			"id": "she.gen",
+			"item": "pronoun:she:gen",
+			"text": "її",
+			"display": "її́",
+			"ipa": "/jiˈji/",
+			"cognates": {
+				"ru": {
+					"form": "её"
+				},
+				"pl": {
+					"form": "jej"
+				}
+			},
+			"row": "she",
+			"col": "gen"
+		},
+		{
+			"id": "she.prep",
+			"item": "pronoun:she:prep",
+			"text": "неї",
+			"display": "не́ї",
+			"ipa": "/ˈnɛji/",
+			"cognates": {
+				"ru": {
+					"form": "неё"
+				},
+				"pl": {
+					"form": "niej"
+				}
+			},
+			"concepts": ["pronoun-n"],
+			"row": "she",
+			"col": "prep"
+		},
+		{
+			"id": "she.dat",
+			"item": "pronoun:she:dat",
+			"text": "їй",
+			"ipa": "/jij/",
+			"cognates": {
+				"ru": {
+					"form": "ей"
+				},
+				"pl": {
+					"form": "jej"
+				}
+			},
+			"row": "she",
+			"col": "dat"
+		},
+		{
+			"id": "she.acc",
+			"item": "pronoun:she:acc",
+			"text": "її",
+			"display": "її́",
+			"ipa": "/jiˈji/",
+			"cognates": {
+				"ru": {
+					"form": "её"
+				},
+				"pl": {
+					"form": "ją"
+				}
+			},
+			"row": "she",
+			"col": "acc"
+		},
+		{
+			"id": "she.ins",
+			"item": "pronoun:she:ins",
+			"text": "нею",
+			"display": "не́ю",
+			"ipa": "/ˈnɛju/",
+			"cognates": {
+				"ru": {
+					"form": "ей"
+				},
+				"pl": {
+					"form": "nią"
+				}
+			},
+			"row": "she",
+			"col": "ins"
+		},
+		{
+			"id": "she.loc",
+			"item": "pronoun:she:loc",
+			"text": "ній",
+			"ipa": "/nʲij/",
+			"cognates": {
+				"ru": {
+					"form": "ней"
+				},
+				"pl": {
+					"form": "niej"
+				}
+			},
+			"concepts": ["pronoun-n"],
+			"row": "she",
+			"col": "loc"
+		},
+		{
+			"id": "they.gen",
+			"item": "pronoun:they:gen",
+			"text": "їх",
+			"ipa": "/jix/",
+			"cognates": {
+				"ru": {
+					"form": "их"
+				},
+				"pl": {
+					"form": "ich"
+				}
+			},
+			"row": "they",
+			"col": "gen"
+		},
+		{
+			"id": "they.prep",
+			"item": "pronoun:they:prep",
+			"text": "них",
+			"ipa": "/nɪx/",
+			"cognates": {
+				"ru": {
+					"form": "них"
+				},
+				"pl": {
+					"form": "nich"
+				}
+			},
+			"concepts": ["pronoun-n"],
+			"row": "they",
+			"col": "prep"
+		},
+		{
+			"id": "they.dat",
+			"item": "pronoun:they:dat",
+			"text": "їм",
+			"ipa": "/jim/",
+			"cognates": {
+				"ru": {
+					"form": "им"
+				},
+				"pl": {
+					"form": "im"
+				}
+			},
+			"row": "they",
+			"col": "dat"
+		},
+		{
+			"id": "they.acc",
+			"item": "pronoun:they:acc",
+			"text": "їх",
+			"ipa": "/jix/",
+			"cognates": {
+				"ru": {
+					"form": "их"
+				},
+				"pl": {
+					"form": "ich"
+				}
+			},
+			"row": "they",
+			"col": "acc"
+		},
+		{
+			"id": "they.ins",
+			"item": "pronoun:they:ins",
+			"text": "ними",
+			"display": "ни́ми",
+			"ipa": "/ˈnɪmɪ/",
+			"cognates": {
+				"ru": {
+					"form": "и́ми"
+				},
+				"pl": {
+					"form": "nimi"
+				}
+			},
+			"row": "they",
+			"col": "ins"
+		},
+		{
+			"id": "they.loc",
+			"item": "pronoun:they:loc",
+			"text": "них",
+			"ipa": "/nɪx/",
+			"cognates": {
+				"ru": {
+					"form": "них"
+				},
+				"pl": {
+					"form": "nich"
+				}
+			},
+			"concepts": ["pronoun-n"],
+			"row": "they",
+			"col": "loc"
+		}
+	],
+	"sources": [
+		{
+			"title": "я (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/я"
+		},
+		{
+			"title": "він (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/він"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

@@ -1,0 +1,265 @@
+{
+	"id": "brat",
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["nom", "gen", "dat", "acc", "ins", "loc", "voc"],
+		"columns": ["sg", "pl"]
+	},
+	"cells": [
+		{
+			"id": "nom.sg",
+			"item": "noun:brat:nom.sg",
+			"text": "брат",
+			"ipa": "/brat/",
+			"cognates": {
+				"ru": {
+					"form": "брат"
+				},
+				"pl": {
+					"form": "brat"
+				}
+			},
+			"row": "nom",
+			"col": "sg"
+		},
+		{
+			"id": "gen.sg",
+			"item": "noun:brat:gen.sg",
+			"text": "брата",
+			"display": "бра́та",
+			"ipa": "/ˈbrata/",
+			"cognates": {
+				"ru": {
+					"form": "бра́та"
+				},
+				"pl": {
+					"form": "brata"
+				}
+			},
+			"concepts": ["animate-accusative"],
+			"row": "gen",
+			"col": "sg"
+		},
+		{
+			"id": "dat.sg",
+			"item": "noun:brat:dat.sg",
+			"text": "братові",
+			"display": "бра́тові",
+			"ipa": "/ˈbratɔʋi/",
+			"cognates": {
+				"ru": {
+					"form": "бра́ту"
+				},
+				"pl": {
+					"form": "bratu"
+				}
+			},
+			"concepts": ["dative-ovi"],
+			"row": "dat",
+			"col": "sg"
+		},
+		{
+			"id": "acc.sg",
+			"item": "noun:brat:acc.sg",
+			"text": "брата",
+			"display": "бра́та",
+			"ipa": "/ˈbrata/",
+			"cognates": {
+				"ru": {
+					"form": "бра́та"
+				},
+				"pl": {
+					"form": "brata"
+				}
+			},
+			"concepts": ["animate-accusative"],
+			"row": "acc",
+			"col": "sg"
+		},
+		{
+			"id": "ins.sg",
+			"item": "noun:brat:ins.sg",
+			"text": "братом",
+			"display": "бра́том",
+			"ipa": "/ˈbratɔm/",
+			"cognates": {
+				"ru": {
+					"form": "бра́том"
+				},
+				"pl": {
+					"form": "bratem"
+				}
+			},
+			"row": "ins",
+			"col": "sg"
+		},
+		{
+			"id": "loc.sg",
+			"item": "noun:brat:loc.sg",
+			"text": "братові",
+			"display": "бра́тові",
+			"ipa": "/ˈbratɔʋi/",
+			"cognates": {
+				"ru": {
+					"form": "бра́те"
+				},
+				"pl": {
+					"form": "bracie"
+				}
+			},
+			"concepts": ["dative-ovi"],
+			"row": "loc",
+			"col": "sg"
+		},
+		{
+			"id": "voc.sg",
+			"item": "noun:brat:voc.sg",
+			"text": "брате",
+			"display": "бра́те",
+			"ipa": "/ˈbratɛ/",
+			"cognates": {
+				"ru": {
+					"form": "брат"
+				},
+				"pl": {
+					"form": "bracie"
+				}
+			},
+			"concepts": ["vocative"],
+			"row": "voc",
+			"col": "sg"
+		},
+		{
+			"id": "nom.pl",
+			"item": "noun:brat:nom.pl",
+			"text": "брати",
+			"display": "брати́",
+			"ipa": "/braˈtɪ/",
+			"cognates": {
+				"ru": {
+					"form": "бра́тья"
+				},
+				"pl": {
+					"form": "bracia"
+				}
+			},
+			"row": "nom",
+			"col": "pl"
+		},
+		{
+			"id": "gen.pl",
+			"item": "noun:brat:gen.pl",
+			"text": "братів",
+			"display": "браті́в",
+			"ipa": "/braˈtʲiʋ/",
+			"cognates": {
+				"ru": {
+					"form": "бра́тьев"
+				},
+				"pl": {
+					"form": "braci"
+				}
+			},
+			"concepts": ["animate-accusative"],
+			"row": "gen",
+			"col": "pl"
+		},
+		{
+			"id": "dat.pl",
+			"item": "noun:brat:dat.pl",
+			"text": "братам",
+			"display": "брата́м",
+			"ipa": "/braˈtam/",
+			"cognates": {
+				"ru": {
+					"form": "бра́тьям"
+				},
+				"pl": {
+					"form": "braciom"
+				}
+			},
+			"row": "dat",
+			"col": "pl"
+		},
+		{
+			"id": "acc.pl",
+			"item": "noun:brat:acc.pl",
+			"text": "братів",
+			"display": "браті́в",
+			"ipa": "/braˈtʲiʋ/",
+			"cognates": {
+				"ru": {
+					"form": "бра́тьев"
+				},
+				"pl": {
+					"form": "braci"
+				}
+			},
+			"concepts": ["animate-accusative"],
+			"row": "acc",
+			"col": "pl"
+		},
+		{
+			"id": "ins.pl",
+			"item": "noun:brat:ins.pl",
+			"text": "братами",
+			"display": "брата́ми",
+			"ipa": "/braˈtamɪ/",
+			"cognates": {
+				"ru": {
+					"form": "бра́тьями"
+				},
+				"pl": {
+					"form": "braćmi"
+				}
+			},
+			"row": "ins",
+			"col": "pl"
+		},
+		{
+			"id": "loc.pl",
+			"item": "noun:brat:loc.pl",
+			"text": "братах",
+			"display": "брата́х",
+			"ipa": "/braˈtax/",
+			"cognates": {
+				"ru": {
+					"form": "бра́тьях"
+				},
+				"pl": {
+					"form": "braciach"
+				}
+			},
+			"row": "loc",
+			"col": "pl"
+		},
+		{
+			"id": "voc.pl",
+			"item": "noun:brat:voc.pl",
+			"text": "брати",
+			"display": "брати́",
+			"ipa": "/braˈtɪ/",
+			"cognates": {
+				"ru": {
+					"form": "бра́тья"
+				},
+				"pl": {
+					"form": "bracia"
+				}
+			},
+			"row": "voc",
+			"col": "pl"
+		}
+	],
+	"sources": [
+		{
+			"title": "брат (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/брат"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}
