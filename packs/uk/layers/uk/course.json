@@ -29,6 +29,12 @@
 		"g03": {
 			"title": "Відмінки іменників"
 		},
+		"g04": {
+			"title": "Теперішній час"
+		},
+		"g05": {
+			"title": "Минулий і майбутній час"
+		},
 		"l09": {
 			"title": "Урок 9: Моя сім'я"
 		}
@@ -239,6 +245,76 @@
 				{
 					"title": "Горох, Ukrainian dictionary",
 					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"conjugations": {
+			"title": "Дві дієвідміни",
+			"body": "Українські дієслова поділяються на дві дієвідміни. Перша має -еш або -єш у 2-й особі однини та -уть або -ють у 3-й особі множини: пи́шеш, пи́шуть, чита́єш, чита́ють. Друга має -иш або -їш та -ать або -ять: ро́биш, ро́блять.",
+			"sources": [
+				{
+					"title": "Український правопис (2015), §80",
+					"url": "https://pravopys.net/sections/80/"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"third-no-t": {
+			"title": "I дієвідміна: без -ть у 3-й особі однини",
+			"body": "У першій дієвідміні 3-тя особа однини закінчується на голосний: чита́є, пи́ше. У другій дієвідміні -ть: ро́бить.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"labial-l": {
+			"title": "л після губного",
+			"body": "У другій дієвідміні основа на губний має л у 1-й особі однини та в 3-й особі множини: роблю́, ро́блять, але ро́биш і ро́бить.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"past-gender": {
+			"title": "Минулий час узгоджується в роді",
+			"body": "Минулий час узгоджується з підметом у роді й числі та не має особових закінчень: я чита́в або я чита́ла, залежно від того, хто говорить, і ми чита́ли. Чоловічий рід зазвичай закінчується на -в: чита́в. Деякі основи не мають закінчення: ніс, міг.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"future-two": {
+			"title": "Дві форми майбутнього",
+			"body": "Дієслова недоконаного виду мають дві форми майбутнього з одним значенням: бу́ду чита́ти і чита́тиму. Друга додає до інфінітива -му, -меш, -ме, -мемо, -мете, -муть.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
 				}
 			]
 		}

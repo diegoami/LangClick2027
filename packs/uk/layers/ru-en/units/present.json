@@ -1,0 +1,13 @@
+{
+	"cells": {
+		"he.chytaty": {
+			"contrast": "Russian has -т here: чита́ет. Ukrainian has none."
+		},
+		"he.pysaty": {
+			"contrast": "Russian has -т here: пи́шет. Ukrainian has none."
+		},
+		"they.robyty": {
+			"contrast": "Russian keeps л only in the first person: люблю́, but лю́бят. Ukrainian has it here too: лю́блять, ро́блять."
+		}
+	}
+}

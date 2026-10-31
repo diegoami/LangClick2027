@@ -29,6 +29,12 @@
 		"g03": {
 			"title": "Падежи существительных"
 		},
+		"g04": {
+			"title": "Настоящее время"
+		},
+		"g05": {
+			"title": "Прошедшее и будущее время"
+		},
 		"l09": {
 			"title": "Урок 9: Моя семья"
 		}
@@ -239,6 +245,76 @@
 				{
 					"title": "Горох, Ukrainian dictionary",
 					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"conjugations": {
+			"title": "Два спряжения",
+			"body": "Украинские глаголы делятся на два спряжения. В первом -еш или -єш во 2-м лице ед. ч. и -уть или -ють в 3-м лице мн. ч.: пи́шеш, пи́шуть, чита́єш, чита́ють. Во втором -иш или -їш и -ать или -ять: ро́биш, ро́блять.",
+			"sources": [
+				{
+					"title": "Український правопис (2015), §80",
+					"url": "https://pravopys.net/sections/80/"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"third-no-t": {
+			"title": "I спряжение: без -ть в 3-м лице ед. ч.",
+			"body": "В первом спряжении 3-е лицо ед. ч. оканчивается на гласный: чита́є, пи́ше. Во втором спряжении -ть: ро́бить.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"labial-l": {
+			"title": "л после губного",
+			"body": "Во втором спряжении основа на губной получает л в 1-м лице ед. ч. и в 3-м лице мн. ч.: роблю́, ро́блять, но ро́биш и ро́бить.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"past-gender": {
+			"title": "Прошедшее согласуется в роде",
+			"body": "Прошедшее время согласуется с подлежащим в роде и числе и не имеет личных окончаний: я чита́в или я чита́ла, в зависимости от того, кто говорит, и ми чита́ли. Мужской род обычно оканчивается на -в: чита́в. У некоторых основ окончания нет: ніс, міг.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"future-two": {
+			"title": "Две формы будущего",
+			"body": "У несовершенного вида две формы будущего с одним значением: бу́ду чита́ти и чита́тиму. Вторая прибавляет к инфинитиву -му, -меш, -ме, -мемо, -мете, -муть.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
 				}
 			]
 		}

@@ -29,6 +29,12 @@
 		"g03": {
 			"title": "Noun cases"
 		},
+		"g04": {
+			"title": "The present tense"
+		},
+		"g05": {
+			"title": "The past and the future"
+		},
 		"l09": {
 			"title": "Lesson 9: My family"
 		}
@@ -239,6 +245,76 @@
 				{
 					"title": "Горох, Ukrainian dictionary",
 					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"conjugations": {
+			"title": "Two conjugations",
+			"body": "Ukrainian verbs fall into two conjugations. The first has -еш or -єш in the second person singular and -уть or -ють in the third plural: пи́шеш, пи́шуть, чита́єш, чита́ють. The second has -иш or -їш, and -ать or -ять: ро́биш, ро́блять.",
+			"sources": [
+				{
+					"title": "Український правопис (2015), §80",
+					"url": "https://pravopys.net/sections/80/"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"third-no-t": {
+			"title": "First conjugation: no -ть in the third singular",
+			"body": "In the first conjugation, the third person singular ends in the vowel: чита́є, пи́ше. The second conjugation has -ть: ро́бить.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"labial-l": {
+			"title": "л after a labial",
+			"body": "In the second conjugation, a stem ending in a labial adds л in the first person singular and in the third plural: роблю́, ро́блять, but ро́биш and ро́бить.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"past-gender": {
+			"title": "The past agrees in gender",
+			"body": "The past tense agrees with its subject in gender and number and has no person ending: я чита́в or я чита́ла, depending on who is speaking, and ми чита́ли. The masculine usually ends in -в: чита́в. After some stems it has no ending: ніс, міг.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"future-two": {
+			"title": "Two forms of the future",
+			"body": "The imperfective future has two forms that mean the same: бу́ду чита́ти and чита́тиму. The second adds -му, -меш, -ме, -мемо, -мете, -муть to the infinitive.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "читати (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/читати"
 				}
 			]
 		}

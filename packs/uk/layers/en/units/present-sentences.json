@@ -1,0 +1,62 @@
+{
+	"title": "The present in sentences",
+	"summary": "Which form of the verb in brackets fits the gap? The subject tells you the person.",
+	"cells": {
+		"ya.chytaty": {
+			"sentenceGloss": "I am reading a book now.",
+			"note": "First person singular, first conjugation."
+		},
+		"ty.chytaty": {
+			"sentenceGloss": "You are reading a newspaper now.",
+			"note": "Second person singular, first conjugation."
+		},
+		"he.chytaty": {
+			"sentenceGloss": "She is reading a book now.",
+			"note": "Third person singular, first conjugation."
+		},
+		"vy.chytaty": {
+			"sentenceGloss": "You are reading a book now.",
+			"note": "Second person plural, first conjugation."
+		},
+		"ya.pysaty": {
+			"sentenceGloss": "I am writing a letter now.",
+			"note": "First person singular, first conjugation."
+		},
+		"he.pysaty": {
+			"sentenceGloss": "He is writing a letter now.",
+			"note": "Third person singular, first conjugation."
+		},
+		"my.pysaty": {
+			"sentenceGloss": "We are doing a dictation now.",
+			"note": "First person plural, first conjugation."
+		},
+		"they.pysaty": {
+			"sentenceGloss": "They are writing letters now.",
+			"note": "Third person plural, first conjugation."
+		},
+		"ya.robyty": {
+			"sentenceGloss": "I am doing my homework now.",
+			"note": "First person singular, second conjugation."
+		},
+		"ty.robyty": {
+			"sentenceGloss": "What are you doing now?",
+			"note": "Second person singular, second conjugation."
+		},
+		"he.robyty": {
+			"sentenceGloss": "What is he doing now?",
+			"note": "Third person singular, second conjugation."
+		},
+		"my.robyty": {
+			"sentenceGloss": "We are renovating now.",
+			"note": "First person plural, second conjugation."
+		},
+		"vy.robyty": {
+			"sentenceGloss": "What are you doing now?",
+			"note": "Second person plural, second conjugation."
+		},
+		"they.robyty": {
+			"sentenceGloss": "They are renovating now.",
+			"note": "Third person plural, second conjugation."
+		}
+	}
+}

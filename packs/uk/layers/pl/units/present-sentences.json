@@ -1,0 +1,62 @@
+{
+	"title": "Czas teraźniejszy w zdaniach",
+	"summary": "Która forma czasownika w nawiasie pasuje do luki? Podmiot wskazuje osobę.",
+	"cells": {
+		"ya.chytaty": {
+			"sentenceGloss": "Teraz czytam książkę.",
+			"note": "1. osoba l. poj., I koniugacja."
+		},
+		"ty.chytaty": {
+			"sentenceGloss": "Teraz czytasz gazetę.",
+			"note": "2. osoba l. poj., I koniugacja."
+		},
+		"he.chytaty": {
+			"sentenceGloss": "Teraz ona czyta książkę.",
+			"note": "3. osoba l. poj., I koniugacja."
+		},
+		"vy.chytaty": {
+			"sentenceGloss": "Teraz czytacie książkę.",
+			"note": "2. osoba l. mn., I koniugacja."
+		},
+		"ya.pysaty": {
+			"sentenceGloss": "Teraz piszę list.",
+			"note": "1. osoba l. poj., I koniugacja."
+		},
+		"he.pysaty": {
+			"sentenceGloss": "Teraz on pisze list.",
+			"note": "3. osoba l. poj., I koniugacja."
+		},
+		"my.pysaty": {
+			"sentenceGloss": "Teraz piszemy dyktando.",
+			"note": "1. osoba l. mn., I koniugacja."
+		},
+		"they.pysaty": {
+			"sentenceGloss": "Teraz piszą listy.",
+			"note": "3. osoba l. mn., I koniugacja."
+		},
+		"ya.robyty": {
+			"sentenceGloss": "Teraz robię zadanie domowe.",
+			"note": "1. osoba l. poj., II koniugacja."
+		},
+		"ty.robyty": {
+			"sentenceGloss": "Co teraz robisz?",
+			"note": "2. osoba l. poj., II koniugacja."
+		},
+		"he.robyty": {
+			"sentenceGloss": "Co on teraz robi?",
+			"note": "3. osoba l. poj., II koniugacja."
+		},
+		"my.robyty": {
+			"sentenceGloss": "Teraz robimy remont.",
+			"note": "1. osoba l. mn., II koniugacja."
+		},
+		"vy.robyty": {
+			"sentenceGloss": "Co teraz robicie?",
+			"note": "2. osoba l. mn., II koniugacja."
+		},
+		"they.robyty": {
+			"sentenceGloss": "Teraz robią remont.",
+			"note": "3. osoba l. mn., II koniugacja."
+		}
+	}
+}

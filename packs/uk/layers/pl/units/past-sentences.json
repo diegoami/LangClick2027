@@ -1,0 +1,58 @@
+{
+	"title": "Czas przeszły w zdaniach",
+	"summary": "Kto to zrobił? Podmiot albo imię rozmówcy wskazuje rodzaj.",
+	"cells": {
+		"he.chytaty": {
+			"sentenceGloss": "Wczoraj on czytał książkę.",
+			"note": "Czas przeszły: rodzaj męski, l. poj."
+		},
+		"she.chytaty": {
+			"sentenceGloss": "Wczoraj ona czytała książkę.",
+			"note": "Czas przeszły: rodzaj żeński, l. poj."
+		},
+		"they.chytaty": {
+			"sentenceGloss": "Wczoraj czytali gazetę.",
+			"note": "Czas przeszły: l. mn."
+		},
+		"he.pysaty": {
+			"sentenceGloss": "Wczoraj mój brat pisał list.",
+			"note": "Czas przeszły: rodzaj męski, l. poj."
+		},
+		"she.pysaty": {
+			"sentenceGloss": "Wczoraj moja siostra pisała list.",
+			"note": "Czas przeszły: rodzaj żeński, l. poj."
+		},
+		"they.pysaty": {
+			"sentenceGloss": "Wczoraj pisali listy.",
+			"note": "Czas przeszły: l. mn."
+		},
+		"he.robyty": {
+			"sentenceGloss": "Wczoraj Andrij robił remont.",
+			"note": "Czas przeszły: rodzaj męski, l. poj."
+		},
+		"she.robyty": {
+			"sentenceGloss": "Co robiłaś wczoraj, Oleno?",
+			"note": "Czas przeszły: rodzaj żeński, l. poj."
+		},
+		"they.robyty": {
+			"sentenceGloss": "Wczoraj robiliśmy remont.",
+			"note": "Czas przeszły: l. mn."
+		},
+		"he.buty": {
+			"sentenceGloss": "Gdzie byłeś wczoraj, Andriju?",
+			"note": "Czas przeszły: rodzaj męski, l. poj."
+		},
+		"she.buty": {
+			"sentenceGloss": "Gdzie byłaś wczoraj, Oleno?",
+			"note": "Czas przeszły: rodzaj żeński, l. poj."
+		},
+		"it.buty": {
+			"sentenceGloss": "Wczoraj okno było otwarte.",
+			"note": "Czas przeszły: rodzaj nijaki, l. poj."
+		},
+		"they.buty": {
+			"sentenceGloss": "Gdzie byliście wczoraj?",
+			"note": "Czas przeszły: l. mn."
+		}
+	}
+}

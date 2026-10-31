@@ -1,0 +1,309 @@
+{
+	"id": "past",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["he", "she", "it", "they"],
+		"columns": ["chytaty", "pysaty", "robyty", "buty"]
+	},
+	"cells": [
+		{
+			"id": "he.chytaty",
+			"item": "verb-past:chytaty:he",
+			"text": "читав",
+			"display": "чита́в",
+			"ipa": "/t͡ʃɪˈtaʋ/",
+			"cognates": {
+				"ru": {
+					"form": "чита́л"
+				},
+				"pl": {
+					"form": "czytał"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "he",
+			"col": "chytaty"
+		},
+		{
+			"id": "he.pysaty",
+			"item": "verb-past:pysaty:he",
+			"text": "писав",
+			"display": "писа́в",
+			"ipa": "/pɪˈsaʋ/",
+			"cognates": {
+				"ru": {
+					"form": "писа́л"
+				},
+				"pl": {
+					"form": "pisał"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "he",
+			"col": "pysaty"
+		},
+		{
+			"id": "he.robyty",
+			"item": "verb-past:robyty:he",
+			"text": "робив",
+			"display": "роби́в",
+			"ipa": "/rɔˈbɪʋ/",
+			"cognates": {
+				"pl": {
+					"form": "robił"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "he",
+			"col": "robyty"
+		},
+		{
+			"id": "he.buty",
+			"item": "verb-past:buty:he",
+			"text": "був",
+			"ipa": "/buʋ/",
+			"cognates": {
+				"ru": {
+					"form": "был"
+				},
+				"pl": {
+					"form": "był"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "he",
+			"col": "buty"
+		},
+		{
+			"id": "she.chytaty",
+			"item": "verb-past:chytaty:she",
+			"text": "читала",
+			"display": "чита́ла",
+			"ipa": "/t͡ʃɪˈtala/",
+			"cognates": {
+				"ru": {
+					"form": "чита́ла"
+				},
+				"pl": {
+					"form": "czytała"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "she",
+			"col": "chytaty"
+		},
+		{
+			"id": "she.pysaty",
+			"item": "verb-past:pysaty:she",
+			"text": "писала",
+			"display": "писа́ла",
+			"ipa": "/pɪˈsala/",
+			"cognates": {
+				"ru": {
+					"form": "писа́ла"
+				},
+				"pl": {
+					"form": "pisała"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "she",
+			"col": "pysaty"
+		},
+		{
+			"id": "she.robyty",
+			"item": "verb-past:robyty:she",
+			"text": "робила",
+			"display": "роби́ла",
+			"ipa": "/rɔˈbɪla/",
+			"cognates": {
+				"pl": {
+					"form": "robiła"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "she",
+			"col": "robyty"
+		},
+		{
+			"id": "she.buty",
+			"item": "verb-past:buty:she",
+			"text": "була",
+			"display": "була́",
+			"ipa": "/buˈla/",
+			"cognates": {
+				"ru": {
+					"form": "была́"
+				},
+				"pl": {
+					"form": "była"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "she",
+			"col": "buty"
+		},
+		{
+			"id": "it.chytaty",
+			"item": "verb-past:chytaty:it",
+			"text": "читало",
+			"display": "чита́ло",
+			"ipa": "/t͡ʃɪˈtalɔ/",
+			"cognates": {
+				"ru": {
+					"form": "чита́ло"
+				},
+				"pl": {
+					"form": "czytało"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "it",
+			"col": "chytaty"
+		},
+		{
+			"id": "it.pysaty",
+			"item": "verb-past:pysaty:it",
+			"text": "писало",
+			"display": "писа́ло",
+			"ipa": "/pɪˈsalɔ/",
+			"cognates": {
+				"ru": {
+					"form": "писа́ло"
+				},
+				"pl": {
+					"form": "pisało"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "it",
+			"col": "pysaty"
+		},
+		{
+			"id": "it.robyty",
+			"item": "verb-past:robyty:it",
+			"text": "робило",
+			"display": "роби́ло",
+			"ipa": "/rɔˈbɪlɔ/",
+			"cognates": {
+				"pl": {
+					"form": "robiło"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "it",
+			"col": "robyty"
+		},
+		{
+			"id": "it.buty",
+			"item": "verb-past:buty:it",
+			"text": "було",
+			"display": "було́",
+			"ipa": "/buˈlɔ/",
+			"cognates": {
+				"ru": {
+					"form": "бы́ло"
+				},
+				"pl": {
+					"form": "było"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "it",
+			"col": "buty"
+		},
+		{
+			"id": "they.chytaty",
+			"item": "verb-past:chytaty:they",
+			"text": "читали",
+			"display": "чита́ли",
+			"ipa": "/t͡ʃɪˈtalɪ/",
+			"cognates": {
+				"ru": {
+					"form": "чита́ли"
+				},
+				"pl": {
+					"form": "czytali"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "they",
+			"col": "chytaty"
+		},
+		{
+			"id": "they.pysaty",
+			"item": "verb-past:pysaty:they",
+			"text": "писали",
+			"display": "писа́ли",
+			"ipa": "/pɪˈsalɪ/",
+			"cognates": {
+				"ru": {
+					"form": "писа́ли"
+				},
+				"pl": {
+					"form": "pisali"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "they",
+			"col": "pysaty"
+		},
+		{
+			"id": "they.robyty",
+			"item": "verb-past:robyty:they",
+			"text": "робили",
+			"display": "роби́ли",
+			"ipa": "/rɔˈbɪlɪ/",
+			"cognates": {
+				"pl": {
+					"form": "robili"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "they",
+			"col": "robyty"
+		},
+		{
+			"id": "they.buty",
+			"item": "verb-past:buty:they",
+			"text": "були",
+			"display": "були́",
+			"ipa": "/buˈlɪ/",
+			"cognates": {
+				"ru": {
+					"form": "бы́ли"
+				},
+				"pl": {
+					"form": "byli"
+				}
+			},
+			"concepts": ["past-gender"],
+			"row": "they",
+			"col": "buty"
+		}
+	],
+	"sources": [
+		{
+			"title": "читати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/читати"
+		},
+		{
+			"title": "писати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/писати"
+		},
+		{
+			"title": "робити (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/робити"
+		},
+		{
+			"title": "бути (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/бути"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

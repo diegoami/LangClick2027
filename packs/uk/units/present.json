@@ -1,0 +1,343 @@
+{
+	"id": "present",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["ya", "ty", "he", "my", "vy", "they"],
+		"columns": ["chytaty", "pysaty", "robyty"]
+	},
+	"cells": [
+		{
+			"id": "ya.chytaty",
+			"item": "verb-present:chytaty:ya",
+			"text": "читаю",
+			"display": "чита́ю",
+			"ipa": "/t͡ʃɪˈtaju/",
+			"cognates": {
+				"ru": {
+					"form": "чита́ю"
+				},
+				"pl": {
+					"form": "czytam"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "ya",
+			"col": "chytaty"
+		},
+		{
+			"id": "ya.pysaty",
+			"item": "verb-present:pysaty:ya",
+			"text": "пишу",
+			"display": "пишу́",
+			"ipa": "/pɪˈʃu/",
+			"cognates": {
+				"ru": {
+					"form": "пишу́"
+				},
+				"pl": {
+					"form": "piszę"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "ya",
+			"col": "pysaty"
+		},
+		{
+			"id": "ya.robyty",
+			"item": "verb-present:robyty:ya",
+			"text": "роблю",
+			"display": "роблю́",
+			"ipa": "/rɔˈblʲu/",
+			"cognates": {
+				"pl": {
+					"form": "robię"
+				}
+			},
+			"concepts": ["conjugations", "labial-l"],
+			"row": "ya",
+			"col": "robyty"
+		},
+		{
+			"id": "ty.chytaty",
+			"item": "verb-present:chytaty:ty",
+			"text": "читаєш",
+			"display": "чита́єш",
+			"ipa": "/t͡ʃɪˈtajɛʃ/",
+			"cognates": {
+				"ru": {
+					"form": "чита́ешь"
+				},
+				"pl": {
+					"form": "czytasz"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "ty",
+			"col": "chytaty"
+		},
+		{
+			"id": "ty.pysaty",
+			"item": "verb-present:pysaty:ty",
+			"text": "пишеш",
+			"display": "пи́шеш",
+			"ipa": "/ˈpɪʃɛʃ/",
+			"cognates": {
+				"ru": {
+					"form": "пи́шешь"
+				},
+				"pl": {
+					"form": "piszesz"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "ty",
+			"col": "pysaty"
+		},
+		{
+			"id": "ty.robyty",
+			"item": "verb-present:robyty:ty",
+			"text": "робиш",
+			"display": "ро́биш",
+			"ipa": "/ˈrɔbɪʃ/",
+			"cognates": {
+				"pl": {
+					"form": "robisz"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "ty",
+			"col": "robyty"
+		},
+		{
+			"id": "he.chytaty",
+			"item": "verb-present:chytaty:he",
+			"text": "читає",
+			"display": "чита́є",
+			"ipa": "/t͡ʃɪˈtajɛ/",
+			"cognates": {
+				"ru": {
+					"form": "чита́ет"
+				},
+				"pl": {
+					"form": "czyta"
+				}
+			},
+			"concepts": ["conjugations", "third-no-t"],
+			"row": "he",
+			"col": "chytaty"
+		},
+		{
+			"id": "he.pysaty",
+			"item": "verb-present:pysaty:he",
+			"text": "пише",
+			"display": "пи́ше",
+			"ipa": "/ˈpɪʃɛ/",
+			"cognates": {
+				"ru": {
+					"form": "пи́шет"
+				},
+				"pl": {
+					"form": "pisze"
+				}
+			},
+			"concepts": ["conjugations", "third-no-t"],
+			"row": "he",
+			"col": "pysaty"
+		},
+		{
+			"id": "he.robyty",
+			"item": "verb-present:robyty:he",
+			"text": "робить",
+			"display": "ро́бить",
+			"ipa": "/ˈrɔbɪtʲ/",
+			"cognates": {
+				"pl": {
+					"form": "robi"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "he",
+			"col": "robyty"
+		},
+		{
+			"id": "my.chytaty",
+			"item": "verb-present:chytaty:my",
+			"text": "читаємо",
+			"display": "чита́ємо",
+			"ipa": "/t͡ʃɪˈtajɛmɔ/",
+			"cognates": {
+				"ru": {
+					"form": "чита́ем"
+				},
+				"pl": {
+					"form": "czytamy"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "my",
+			"col": "chytaty",
+			"alsoAccepted": ["читаєм"]
+		},
+		{
+			"id": "my.pysaty",
+			"item": "verb-present:pysaty:my",
+			"text": "пишемо",
+			"display": "пи́шемо",
+			"ipa": "/ˈpɪʃɛmɔ/",
+			"cognates": {
+				"ru": {
+					"form": "пи́шем"
+				},
+				"pl": {
+					"form": "piszemy"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "my",
+			"col": "pysaty",
+			"alsoAccepted": ["пишем"]
+		},
+		{
+			"id": "my.robyty",
+			"item": "verb-present:robyty:my",
+			"text": "робимо",
+			"display": "ро́бимо",
+			"ipa": "/ˈrɔbɪmɔ/",
+			"cognates": {
+				"pl": {
+					"form": "robimy"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "my",
+			"col": "robyty",
+			"alsoAccepted": ["робим"]
+		},
+		{
+			"id": "vy.chytaty",
+			"item": "verb-present:chytaty:vy",
+			"text": "читаєте",
+			"display": "чита́єте",
+			"ipa": "/t͡ʃɪˈtajɛtɛ/",
+			"cognates": {
+				"ru": {
+					"form": "чита́ете"
+				},
+				"pl": {
+					"form": "czytacie"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "vy",
+			"col": "chytaty"
+		},
+		{
+			"id": "vy.pysaty",
+			"item": "verb-present:pysaty:vy",
+			"text": "пишете",
+			"display": "пи́шете",
+			"ipa": "/ˈpɪʃɛtɛ/",
+			"cognates": {
+				"ru": {
+					"form": "пи́шете"
+				},
+				"pl": {
+					"form": "piszecie"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "vy",
+			"col": "pysaty"
+		},
+		{
+			"id": "vy.robyty",
+			"item": "verb-present:robyty:vy",
+			"text": "робите",
+			"display": "ро́бите",
+			"ipa": "/ˈrɔbɪtɛ/",
+			"cognates": {
+				"pl": {
+					"form": "robicie"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "vy",
+			"col": "robyty"
+		},
+		{
+			"id": "they.chytaty",
+			"item": "verb-present:chytaty:they",
+			"text": "читають",
+			"display": "чита́ють",
+			"ipa": "/t͡ʃɪˈtajutʲ/",
+			"cognates": {
+				"ru": {
+					"form": "чита́ют"
+				},
+				"pl": {
+					"form": "czytają"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "they",
+			"col": "chytaty"
+		},
+		{
+			"id": "they.pysaty",
+			"item": "verb-present:pysaty:they",
+			"text": "пишуть",
+			"display": "пи́шуть",
+			"ipa": "/ˈpɪʃutʲ/",
+			"cognates": {
+				"ru": {
+					"form": "пи́шут"
+				},
+				"pl": {
+					"form": "piszą"
+				}
+			},
+			"concepts": ["conjugations"],
+			"row": "they",
+			"col": "pysaty"
+		},
+		{
+			"id": "they.robyty",
+			"item": "verb-present:robyty:they",
+			"text": "роблять",
+			"display": "ро́блять",
+			"ipa": "/ˈrɔblʲatʲ/",
+			"cognates": {
+				"pl": {
+					"form": "robią"
+				}
+			},
+			"concepts": ["conjugations", "labial-l"],
+			"row": "they",
+			"col": "robyty"
+		}
+	],
+	"sources": [
+		{
+			"title": "читати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/читати"
+		},
+		{
+			"title": "писати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/писати"
+		},
+		{
+			"title": "робити (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/робити"
+		},
+		{
+			"title": "бути (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/бути"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

@@ -1,0 +1,341 @@
+{
+	"id": "future",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["ya", "ty", "he", "my", "vy", "they"],
+		"columns": ["buty", "chytaty", "pysaty", "robyty"]
+	},
+	"cells": [
+		{
+			"id": "ya.buty",
+			"item": "verb-future:buty:ya",
+			"text": "буду",
+			"display": "бу́ду",
+			"ipa": "/ˈbudu/",
+			"cognates": {
+				"ru": {
+					"form": "бу́ду"
+				},
+				"pl": {
+					"form": "będę"
+				}
+			},
+			"concepts": ["future-two"],
+			"row": "ya",
+			"col": "buty"
+		},
+		{
+			"id": "ya.chytaty",
+			"item": "verb-future:chytaty:ya",
+			"text": "читатиму",
+			"display": "чита́тиму",
+			"ipa": "/t͡ʃɪˈtatɪmu/",
+			"alsoAccepted": ["буду читати"],
+			"concepts": ["future-two"],
+			"row": "ya",
+			"col": "chytaty"
+		},
+		{
+			"id": "ya.pysaty",
+			"item": "verb-future:pysaty:ya",
+			"text": "писатиму",
+			"display": "писа́тиму",
+			"ipa": "/pɪˈsatɪmu/",
+			"alsoAccepted": ["буду писати"],
+			"concepts": ["future-two"],
+			"row": "ya",
+			"col": "pysaty"
+		},
+		{
+			"id": "ya.robyty",
+			"item": "verb-future:robyty:ya",
+			"text": "робитиму",
+			"display": "роби́тиму",
+			"ipa": "/rɔˈbɪtɪmu/",
+			"alsoAccepted": ["буду робити"],
+			"concepts": ["future-two"],
+			"row": "ya",
+			"col": "robyty"
+		},
+		{
+			"id": "ty.buty",
+			"item": "verb-future:buty:ty",
+			"text": "будеш",
+			"display": "бу́деш",
+			"ipa": "/ˈbudɛʃ/",
+			"cognates": {
+				"ru": {
+					"form": "бу́дешь"
+				},
+				"pl": {
+					"form": "będziesz"
+				}
+			},
+			"concepts": ["future-two"],
+			"row": "ty",
+			"col": "buty"
+		},
+		{
+			"id": "ty.chytaty",
+			"item": "verb-future:chytaty:ty",
+			"text": "читатимеш",
+			"display": "чита́тимеш",
+			"ipa": "/t͡ʃɪˈtatɪmɛʃ/",
+			"alsoAccepted": ["будеш читати"],
+			"concepts": ["future-two"],
+			"row": "ty",
+			"col": "chytaty"
+		},
+		{
+			"id": "ty.pysaty",
+			"item": "verb-future:pysaty:ty",
+			"text": "писатимеш",
+			"display": "писа́тимеш",
+			"ipa": "/pɪˈsatɪmɛʃ/",
+			"alsoAccepted": ["будеш писати"],
+			"concepts": ["future-two"],
+			"row": "ty",
+			"col": "pysaty"
+		},
+		{
+			"id": "ty.robyty",
+			"item": "verb-future:robyty:ty",
+			"text": "робитимеш",
+			"display": "роби́тимеш",
+			"ipa": "/rɔˈbɪtɪmɛʃ/",
+			"alsoAccepted": ["будеш робити"],
+			"concepts": ["future-two"],
+			"row": "ty",
+			"col": "robyty"
+		},
+		{
+			"id": "he.buty",
+			"item": "verb-future:buty:he",
+			"text": "буде",
+			"display": "бу́де",
+			"ipa": "/ˈbudɛ/",
+			"cognates": {
+				"ru": {
+					"form": "бу́дет"
+				},
+				"pl": {
+					"form": "będzie"
+				}
+			},
+			"concepts": ["future-two"],
+			"row": "he",
+			"col": "buty"
+		},
+		{
+			"id": "he.chytaty",
+			"item": "verb-future:chytaty:he",
+			"text": "читатиме",
+			"display": "чита́тиме",
+			"ipa": "/t͡ʃɪˈtatɪmɛ/",
+			"alsoAccepted": ["буде читати"],
+			"concepts": ["future-two"],
+			"row": "he",
+			"col": "chytaty"
+		},
+		{
+			"id": "he.pysaty",
+			"item": "verb-future:pysaty:he",
+			"text": "писатиме",
+			"display": "писа́тиме",
+			"ipa": "/pɪˈsatɪmɛ/",
+			"alsoAccepted": ["буде писати"],
+			"concepts": ["future-two"],
+			"row": "he",
+			"col": "pysaty"
+		},
+		{
+			"id": "he.robyty",
+			"item": "verb-future:robyty:he",
+			"text": "робитиме",
+			"display": "роби́тиме",
+			"ipa": "/rɔˈbɪtɪmɛ/",
+			"alsoAccepted": ["буде робити"],
+			"concepts": ["future-two"],
+			"row": "he",
+			"col": "robyty"
+		},
+		{
+			"id": "my.buty",
+			"item": "verb-future:buty:my",
+			"text": "будемо",
+			"display": "бу́демо",
+			"ipa": "/ˈbudɛmɔ/",
+			"cognates": {
+				"ru": {
+					"form": "бу́дем"
+				},
+				"pl": {
+					"form": "będziemy"
+				}
+			},
+			"concepts": ["future-two"],
+			"row": "my",
+			"col": "buty",
+			"alsoAccepted": ["будем"]
+		},
+		{
+			"id": "my.chytaty",
+			"item": "verb-future:chytaty:my",
+			"text": "читатимемо",
+			"display": "чита́тимемо",
+			"ipa": "/t͡ʃɪˈtatɪmɛmɔ/",
+			"alsoAccepted": ["будемо читати", "будем читати", "читатимем"],
+			"concepts": ["future-two"],
+			"row": "my",
+			"col": "chytaty"
+		},
+		{
+			"id": "my.pysaty",
+			"item": "verb-future:pysaty:my",
+			"text": "писатимемо",
+			"display": "писа́тимемо",
+			"ipa": "/pɪˈsatɪmɛmɔ/",
+			"alsoAccepted": ["будемо писати", "будем писати", "писатимем"],
+			"concepts": ["future-two"],
+			"row": "my",
+			"col": "pysaty"
+		},
+		{
+			"id": "my.robyty",
+			"item": "verb-future:robyty:my",
+			"text": "робитимемо",
+			"display": "роби́тимемо",
+			"ipa": "/rɔˈbɪtɪmɛmɔ/",
+			"alsoAccepted": ["будемо робити", "будем робити", "робитимем"],
+			"concepts": ["future-two"],
+			"row": "my",
+			"col": "robyty"
+		},
+		{
+			"id": "vy.buty",
+			"item": "verb-future:buty:vy",
+			"text": "будете",
+			"display": "бу́дете",
+			"ipa": "/ˈbudɛtɛ/",
+			"cognates": {
+				"ru": {
+					"form": "бу́дете"
+				},
+				"pl": {
+					"form": "będziecie"
+				}
+			},
+			"concepts": ["future-two"],
+			"row": "vy",
+			"col": "buty"
+		},
+		{
+			"id": "vy.chytaty",
+			"item": "verb-future:chytaty:vy",
+			"text": "читатимете",
+			"display": "чита́тимете",
+			"ipa": "/t͡ʃɪˈtatɪmɛtɛ/",
+			"alsoAccepted": ["будете читати"],
+			"concepts": ["future-two"],
+			"row": "vy",
+			"col": "chytaty"
+		},
+		{
+			"id": "vy.pysaty",
+			"item": "verb-future:pysaty:vy",
+			"text": "писатимете",
+			"display": "писа́тимете",
+			"ipa": "/pɪˈsatɪmɛtɛ/",
+			"alsoAccepted": ["будете писати"],
+			"concepts": ["future-two"],
+			"row": "vy",
+			"col": "pysaty"
+		},
+		{
+			"id": "vy.robyty",
+			"item": "verb-future:robyty:vy",
+			"text": "робитимете",
+			"display": "роби́тимете",
+			"ipa": "/rɔˈbɪtɪmɛtɛ/",
+			"alsoAccepted": ["будете робити"],
+			"concepts": ["future-two"],
+			"row": "vy",
+			"col": "robyty"
+		},
+		{
+			"id": "they.buty",
+			"item": "verb-future:buty:they",
+			"text": "будуть",
+			"display": "бу́дуть",
+			"ipa": "/ˈbudutʲ/",
+			"cognates": {
+				"ru": {
+					"form": "бу́дут"
+				},
+				"pl": {
+					"form": "będą"
+				}
+			},
+			"concepts": ["future-two"],
+			"row": "they",
+			"col": "buty"
+		},
+		{
+			"id": "they.chytaty",
+			"item": "verb-future:chytaty:they",
+			"text": "читатимуть",
+			"display": "чита́тимуть",
+			"ipa": "/t͡ʃɪˈtatɪmutʲ/",
+			"alsoAccepted": ["будуть читати"],
+			"concepts": ["future-two"],
+			"row": "they",
+			"col": "chytaty"
+		},
+		{
+			"id": "they.pysaty",
+			"item": "verb-future:pysaty:they",
+			"text": "писатимуть",
+			"display": "писа́тимуть",
+			"ipa": "/pɪˈsatɪmutʲ/",
+			"alsoAccepted": ["будуть писати"],
+			"concepts": ["future-two"],
+			"row": "they",
+			"col": "pysaty"
+		},
+		{
+			"id": "they.robyty",
+			"item": "verb-future:robyty:they",
+			"text": "робитимуть",
+			"display": "роби́тимуть",
+			"ipa": "/rɔˈbɪtɪmutʲ/",
+			"alsoAccepted": ["будуть робити"],
+			"concepts": ["future-two"],
+			"row": "they",
+			"col": "robyty"
+		}
+	],
+	"sources": [
+		{
+			"title": "читати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/читати"
+		},
+		{
+			"title": "писати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/писати"
+		},
+		{
+			"title": "робити (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/робити"
+		},
+		{
+			"title": "бути (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/бути"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

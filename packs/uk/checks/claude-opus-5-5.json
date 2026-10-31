@@ -588,6 +588,222 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/future-sentences/ya.chytaty",
+			"seen": "{\"item\":\"sentence:future:ya.chytaty\",\"text\":\"читатиму\",\"display\":\"чита́тиму\",\"sentence\":\"За́втра я ___ кни́гу (чита́ти).\",\"alsoAccepted\":[\"буду читати\"]}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/future-sentences/my.chytaty",
+			"seen": "{\"item\":\"sentence:future:my.chytaty\",\"text\":\"читатимемо\",\"display\":\"чита́тимемо\",\"sentence\":\"За́втра ми ___ газе́ту (чита́ти).\",\"alsoAccepted\":[\"будемо читати\",\"будем читати\",\"читатимем\"]}",
+			"verdict": "ok",
+			"comment": "Form, stress, IPA per Goroh Словозміна, fresh raw fetch/читати; читатимем per Goroh and Правопис 2015 §80.8а \"зрідка -мем\"; будем compound per §80.8а \"рідше бу́дем\". Sentence marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/future-sentences/ty.pysaty",
+			"seen": "{\"item\":\"sentence:future:ty.pysaty\",\"text\":\"писатимеш\",\"display\":\"писа́тимеш\",\"sentence\":\"За́втра ти ___ лист (писа́ти).\",\"alsoAccepted\":[\"будеш писати\"]}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray. лист is allowed: Правопис 2015 §50 прим. \"(написав) листа́ й лист\"; Goroh знахідний лист. листа́ is the more idiomatic (own judgement)."
+		},
+		{
+			"key": "core/future-sentences/vy.pysaty",
+			"seen": "{\"item\":\"sentence:future:vy.pysaty\",\"text\":\"писатимете\",\"display\":\"писа́тимете\",\"sentence\":\"За́втра ви ___ лист (писа́ти).\",\"alsoAccepted\":[\"будете писати\"]}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray. лист is allowed: Правопис 2015 §50 прим. \"(написав) листа́ й лист\"; Goroh знахідний лист. листа́ is the more idiomatic (own judgement)."
+		},
+		{
+			"key": "core/future-sentences/he.robyty",
+			"seen": "{\"item\":\"sentence:future:he.robyty\",\"text\":\"робитиме\",\"display\":\"роби́тиме\",\"sentence\":\"За́втра вона́ ___ ремо́нт (роби́ти).\",\"alsoAccepted\":[\"буде робити\"]}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/future-sentences/they.robyty",
+			"seen": "{\"item\":\"sentence:future:they.robyty\",\"text\":\"робитимуть\",\"display\":\"роби́тимуть\",\"sentence\":\"За́втра вони́ ___ ремо́нт (роби́ти).\",\"alsoAccepted\":[\"будуть робити\"]}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/future-sentences/ya.buty",
+			"seen": "{\"item\":\"sentence:future:ya.buty\",\"text\":\"буду\",\"display\":\"бу́ду\",\"sentence\":\"За́втра я ___ чита́ти кни́гу (бу́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/future-sentences/ty.buty",
+			"seen": "{\"item\":\"sentence:future:ty.buty\",\"text\":\"будеш\",\"display\":\"бу́деш\",\"sentence\":\"За́втра ти ___ писа́ти лист (бу́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray. лист is allowed: Правопис 2015 §50 прим. \"(написав) листа́ й лист\"; Goroh знахідний лист. листа́ is the more idiomatic (own judgement)."
+		},
+		{
+			"key": "core/future-sentences/he.buty",
+			"seen": "{\"item\":\"sentence:future:he.buty\",\"text\":\"буде\",\"display\":\"бу́де\",\"sentence\":\"За́втра він ___ вдо́ма (бу́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/future-sentences/my.buty",
+			"seen": "{\"item\":\"sentence:future:my.buty\",\"text\":\"будемо\",\"display\":\"бу́демо\",\"sentence\":\"За́втра ми ___ там (бу́ти).\",\"alsoAccepted\":[\"будем\"]}",
+			"verdict": "ok",
+			"comment": "бу́демо, бу́дем on raw Goroh бути; за́втра and там (one syllable, no mark) rechecked. \"ми будемо там\" and \"ми будем там\" have no у/в clash. Natural; one answer in the tray."
+		},
+		{
+			"key": "core/future-sentences/vy.buty",
+			"seen": "{\"item\":\"sentence:future:vy.buty\",\"text\":\"будете\",\"display\":\"бу́дете\",\"sentence\":\"За́втра ви ___ вдо́ма (бу́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/future-sentences/they.buty",
+			"seen": "{\"item\":\"sentence:future:they.buty\",\"text\":\"будуть\",\"display\":\"бу́дуть\",\"sentence\":\"За́втра вони́ ___ удо́ма (бу́ти).\"}",
+			"verdict": "ok",
+			"comment": "будуть удо́ма: у between consonants, Правопис 2019 §23 п.1.1; удо́ма per Goroh Словозміна, fresh raw fetch/удома. Marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/future/ya.buty",
+			"seen": "{\"item\":\"verb-future:buty:ya\",\"text\":\"буду\",\"display\":\"бу́ду\",\"ipa\":\"/ˈbudu/\",\"cognates\":{\"ru\":{\"form\":\"бу́ду\"},\"pl\":{\"form\":\"będę\"}},\"concepts\":[\"future-two\"],\"row\":\"ya\",\"col\":\"buty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/бути; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/ya.chytaty",
+			"seen": "{\"item\":\"verb-future:chytaty:ya\",\"text\":\"читатиму\",\"display\":\"чита́тиму\",\"ipa\":\"/t͡ʃɪˈtatɪmu/\",\"alsoAccepted\":[\"буду читати\"],\"concepts\":[\"future-two\"],\"row\":\"ya\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/ya.pysaty",
+			"seen": "{\"item\":\"verb-future:pysaty:ya\",\"text\":\"писатиму\",\"display\":\"писа́тиму\",\"ipa\":\"/pɪˈsatɪmu/\",\"alsoAccepted\":[\"буду писати\"],\"concepts\":[\"future-two\"],\"row\":\"ya\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/ya.robyty",
+			"seen": "{\"item\":\"verb-future:robyty:ya\",\"text\":\"робитиму\",\"display\":\"роби́тиму\",\"ipa\":\"/rɔˈbɪtɪmu/\",\"alsoAccepted\":[\"буду робити\"],\"concepts\":[\"future-two\"],\"row\":\"ya\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/ty.buty",
+			"seen": "{\"item\":\"verb-future:buty:ty\",\"text\":\"будеш\",\"display\":\"бу́деш\",\"ipa\":\"/ˈbudɛʃ/\",\"cognates\":{\"ru\":{\"form\":\"бу́дешь\"},\"pl\":{\"form\":\"będziesz\"}},\"concepts\":[\"future-two\"],\"row\":\"ty\",\"col\":\"buty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/бути; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/ty.chytaty",
+			"seen": "{\"item\":\"verb-future:chytaty:ty\",\"text\":\"читатимеш\",\"display\":\"чита́тимеш\",\"ipa\":\"/t͡ʃɪˈtatɪmɛʃ/\",\"alsoAccepted\":[\"будеш читати\"],\"concepts\":[\"future-two\"],\"row\":\"ty\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/ty.pysaty",
+			"seen": "{\"item\":\"verb-future:pysaty:ty\",\"text\":\"писатимеш\",\"display\":\"писа́тимеш\",\"ipa\":\"/pɪˈsatɪmɛʃ/\",\"alsoAccepted\":[\"будеш писати\"],\"concepts\":[\"future-two\"],\"row\":\"ty\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/ty.robyty",
+			"seen": "{\"item\":\"verb-future:robyty:ty\",\"text\":\"робитимеш\",\"display\":\"роби́тимеш\",\"ipa\":\"/rɔˈbɪtɪmɛʃ/\",\"alsoAccepted\":[\"будеш робити\"],\"concepts\":[\"future-two\"],\"row\":\"ty\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/he.buty",
+			"seen": "{\"item\":\"verb-future:buty:he\",\"text\":\"буде\",\"display\":\"бу́де\",\"ipa\":\"/ˈbudɛ/\",\"cognates\":{\"ru\":{\"form\":\"бу́дет\"},\"pl\":{\"form\":\"będzie\"}},\"concepts\":[\"future-two\"],\"row\":\"he\",\"col\":\"buty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/бути; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/he.chytaty",
+			"seen": "{\"item\":\"verb-future:chytaty:he\",\"text\":\"читатиме\",\"display\":\"чита́тиме\",\"ipa\":\"/t͡ʃɪˈtatɪmɛ/\",\"alsoAccepted\":[\"буде читати\"],\"concepts\":[\"future-two\"],\"row\":\"he\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/he.pysaty",
+			"seen": "{\"item\":\"verb-future:pysaty:he\",\"text\":\"писатиме\",\"display\":\"писа́тиме\",\"ipa\":\"/pɪˈsatɪmɛ/\",\"alsoAccepted\":[\"буде писати\"],\"concepts\":[\"future-two\"],\"row\":\"he\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/he.robyty",
+			"seen": "{\"item\":\"verb-future:robyty:he\",\"text\":\"робитиме\",\"display\":\"роби́тиме\",\"ipa\":\"/rɔˈbɪtɪmɛ/\",\"alsoAccepted\":[\"буде робити\"],\"concepts\":[\"future-two\"],\"row\":\"he\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/my.buty",
+			"seen": "{\"item\":\"verb-future:buty:my\",\"text\":\"будемо\",\"display\":\"бу́демо\",\"ipa\":\"/ˈbudɛmɔ/\",\"alsoAccepted\":[\"будем\"],\"cognates\":{\"ru\":{\"form\":\"бу́дем\"},\"pl\":{\"form\":\"będziemy\"}},\"concepts\":[\"future-two\"],\"row\":\"my\",\"col\":\"buty\"}",
+			"verdict": "ok",
+			"comment": "Form, stress, IPA per Goroh Словозміна, fresh raw fetch/бути; будем per Правопис 2015 §80.8а \"рідше\". Cognates on en.wiktionary."
+		},
+		{
+			"key": "core/future/my.chytaty",
+			"seen": "{\"item\":\"verb-future:chytaty:my\",\"text\":\"читатимемо\",\"display\":\"чита́тимемо\",\"ipa\":\"/t͡ʃɪˈtatɪmɛmɔ/\",\"alsoAccepted\":[\"будемо читати\",\"будем читати\",\"читатимем\"],\"concepts\":[\"future-two\"],\"row\":\"my\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, stress, IPA per Goroh Словозміна, fresh raw fetch/читати; читатимем per Goroh and Правопис 2015 §80.8а \"зрідка -мем\"; будем compound per §80.8а \"рідше бу́дем\"."
+		},
+		{
+			"key": "core/future/my.pysaty",
+			"seen": "{\"item\":\"verb-future:pysaty:my\",\"text\":\"писатимемо\",\"display\":\"писа́тимемо\",\"ipa\":\"/pɪˈsatɪmɛmɔ/\",\"alsoAccepted\":[\"будемо писати\",\"будем писати\",\"писатимем\"],\"concepts\":[\"future-two\"],\"row\":\"my\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, stress, IPA per Goroh Словозміна, fresh raw fetch/писати; писатимем per Goroh and Правопис 2015 §80.8а \"зрідка -мем\"; будем compound per §80.8а \"рідше бу́дем\"."
+		},
+		{
+			"key": "core/future/my.robyty",
+			"seen": "{\"item\":\"verb-future:robyty:my\",\"text\":\"робитимемо\",\"display\":\"роби́тимемо\",\"ipa\":\"/rɔˈbɪtɪmɛmɔ/\",\"alsoAccepted\":[\"будемо робити\",\"будем робити\",\"робитимем\"],\"concepts\":[\"future-two\"],\"row\":\"my\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, stress, IPA per Goroh Словозміна, fresh raw fetch/робити; робитимем per Goroh and Правопис 2015 §80.8а \"зрідка -мем\"; будем compound per §80.8а \"рідше бу́дем\"."
+		},
+		{
+			"key": "core/future/vy.buty",
+			"seen": "{\"item\":\"verb-future:buty:vy\",\"text\":\"будете\",\"display\":\"бу́дете\",\"ipa\":\"/ˈbudɛtɛ/\",\"cognates\":{\"ru\":{\"form\":\"бу́дете\"},\"pl\":{\"form\":\"będziecie\"}},\"concepts\":[\"future-two\"],\"row\":\"vy\",\"col\":\"buty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/бути; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/vy.chytaty",
+			"seen": "{\"item\":\"verb-future:chytaty:vy\",\"text\":\"читатимете\",\"display\":\"чита́тимете\",\"ipa\":\"/t͡ʃɪˈtatɪmɛtɛ/\",\"alsoAccepted\":[\"будете читати\"],\"concepts\":[\"future-two\"],\"row\":\"vy\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/vy.pysaty",
+			"seen": "{\"item\":\"verb-future:pysaty:vy\",\"text\":\"писатимете\",\"display\":\"писа́тимете\",\"ipa\":\"/pɪˈsatɪmɛtɛ/\",\"alsoAccepted\":[\"будете писати\"],\"concepts\":[\"future-two\"],\"row\":\"vy\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/vy.robyty",
+			"seen": "{\"item\":\"verb-future:robyty:vy\",\"text\":\"робитимете\",\"display\":\"роби́тимете\",\"ipa\":\"/rɔˈbɪtɪmɛtɛ/\",\"alsoAccepted\":[\"будете робити\"],\"concepts\":[\"future-two\"],\"row\":\"vy\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/they.buty",
+			"seen": "{\"item\":\"verb-future:buty:they\",\"text\":\"будуть\",\"display\":\"бу́дуть\",\"ipa\":\"/ˈbudutʲ/\",\"cognates\":{\"ru\":{\"form\":\"бу́дут\"},\"pl\":{\"form\":\"będą\"}},\"concepts\":[\"future-two\"],\"row\":\"they\",\"col\":\"buty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/бути; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/they.chytaty",
+			"seen": "{\"item\":\"verb-future:chytaty:they\",\"text\":\"читатимуть\",\"display\":\"чита́тимуть\",\"ipa\":\"/t͡ʃɪˈtatɪmutʲ/\",\"alsoAccepted\":[\"будуть читати\"],\"concepts\":[\"future-two\"],\"row\":\"they\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/they.pysaty",
+			"seen": "{\"item\":\"verb-future:pysaty:they\",\"text\":\"писатимуть\",\"display\":\"писа́тимуть\",\"ipa\":\"/pɪˈsatɪmutʲ/\",\"alsoAccepted\":[\"будуть писати\"],\"concepts\":[\"future-two\"],\"row\":\"they\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/future/they.robyty",
+			"seen": "{\"item\":\"verb-future:robyty:they\",\"text\":\"робитимуть\",\"display\":\"роби́тимуть\",\"ipa\":\"/rɔˈbɪtɪmutʲ/\",\"alsoAccepted\":[\"будуть робити\"],\"concepts\":[\"future-two\"],\"row\":\"they\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
 			"key": "core/h-or-g/hora",
 			"seen": "{\"item\":\"h-or-g:hora\",\"text\":\"г\",\"clue\":\"_ора́\",\"example\":\"гора́\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
@@ -1018,6 +1234,180 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/past-sentences/he.chytaty",
+			"seen": "{\"item\":\"sentence:past:he.chytaty\",\"text\":\"читав\",\"display\":\"чита́в\",\"sentence\":\"Учо́ра він ___ кни́гу (чита́ти).\"}",
+			"verdict": "ok",
+			"comment": "Учо́ра at sentence start: Правопис 2019 §23 п.1.2-3; учо́ра per Goroh Словозміна, fresh raw fetch/учора. All marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/past-sentences/she.chytaty",
+			"seen": "{\"item\":\"sentence:past:she.chytaty\",\"text\":\"читала\",\"display\":\"чита́ла\",\"sentence\":\"Учо́ра вона́ ___ кни́гу (чита́ти).\"}",
+			"verdict": "ok",
+			"comment": "Учо́ра at sentence start: Правопис 2019 §23 п.1.2-3; учо́ра per Goroh Словозміна, fresh raw fetch/учора. All marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/past-sentences/they.chytaty",
+			"seen": "{\"item\":\"sentence:past:they.chytaty\",\"text\":\"читали\",\"display\":\"чита́ли\",\"sentence\":\"Учо́ра вони́ ___ газе́ту (чита́ти).\"}",
+			"verdict": "ok",
+			"comment": "Учо́ра at sentence start: Правопис 2019 §23 п.1.2-3; учо́ра per Goroh Словозміна, fresh raw fetch/учора. All marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/past-sentences/he.pysaty",
+			"seen": "{\"item\":\"sentence:past:he.pysaty\",\"text\":\"писав\",\"display\":\"писа́в\",\"sentence\":\"Учо́ра мій брат ___ лист (писа́ти).\"}",
+			"verdict": "ok",
+			"comment": "Учо́ра at sentence start: Правопис 2019 §23 п.1.2-3; учо́ра per Goroh Словозміна, fresh raw fetch/учора. All marks compared; one answer in the tray. лист: Правопис 2015 §50 прим. \"(написав) листа́ й лист\"."
+		},
+		{
+			"key": "core/past-sentences/she.pysaty",
+			"seen": "{\"item\":\"sentence:past:she.pysaty\",\"text\":\"писала\",\"display\":\"писа́ла\",\"sentence\":\"Учо́ра моя́ сестра́ ___ лист (писа́ти).\"}",
+			"verdict": "ok",
+			"comment": "Учо́ра at sentence start: Правопис 2019 §23 п.1.2-3; учо́ра per Goroh Словозміна, fresh raw fetch/учора. All marks compared; one answer in the tray. лист: Правопис 2015 §50 прим. \"(написав) листа́ й лист\"."
+		},
+		{
+			"key": "core/past-sentences/they.pysaty",
+			"seen": "{\"item\":\"sentence:past:they.pysaty\",\"text\":\"писали\",\"display\":\"писа́ли\",\"sentence\":\"Учо́ра вони́ ___ листи́ (писа́ти).\"}",
+			"verdict": "ok",
+			"comment": "Учо́ра at sentence start: Правопис 2019 §23 п.1.2-3; учо́ра per Goroh Словозміна, fresh raw fetch/учора. All marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/past-sentences/he.robyty",
+			"seen": "{\"item\":\"sentence:past:he.robyty\",\"text\":\"робив\",\"display\":\"роби́в\",\"sentence\":\"Учо́ра Андрі́й ___ ремо́нт (роби́ти).\"}",
+			"verdict": "ok",
+			"comment": "Учо́ра at sentence start: Правопис 2019 §23 п.1.2-3; учо́ра per Goroh Словозміна, fresh raw fetch/учора. All marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/past-sentences/she.robyty",
+			"seen": "{\"item\":\"sentence:past:she.robyty\",\"text\":\"робила\",\"display\":\"роби́ла\",\"sentence\":\"Що ти ___ вчо́ра, Оле́но (роби́ти)?\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/past-sentences/they.robyty",
+			"seen": "{\"item\":\"sentence:past:they.robyty\",\"text\":\"робили\",\"display\":\"роби́ли\",\"sentence\":\"Учо́ра ми ___ ремо́нт (роби́ти).\"}",
+			"verdict": "ok",
+			"comment": "Учо́ра at sentence start: Правопис 2019 §23 п.1.2-3; учо́ра per Goroh Словозміна, fresh raw fetch/учора. All marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/past-sentences/he.buty",
+			"seen": "{\"item\":\"sentence:past:he.buty\",\"text\":\"був\",\"sentence\":\"Де ти вчо́ра ___, Андрі́ю (бу́ти)?\"}",
+			"verdict": "ok",
+			"comment": "\"ти вчо́ра\", \"ви вчо́ра\": в after a vowel, Правопис 2019 §23 п.2.6; вчо́ра per Goroh Словозміна, fresh raw fetch/вчора. Word order natural (own judgement). Marks compared; the bracket, subject or vocative fix one answer."
+		},
+		{
+			"key": "core/past-sentences/she.buty",
+			"seen": "{\"item\":\"sentence:past:she.buty\",\"text\":\"була\",\"display\":\"була́\",\"sentence\":\"Де ти вчо́ра ___, Оле́но (бу́ти)?\"}",
+			"verdict": "ok",
+			"comment": "\"ти вчо́ра\", \"ви вчо́ра\": в after a vowel, Правопис 2019 §23 п.2.6; вчо́ра per Goroh Словозміна, fresh raw fetch/вчора. Word order natural (own judgement). Marks compared; the bracket, subject or vocative fix one answer."
+		},
+		{
+			"key": "core/past-sentences/it.buty",
+			"seen": "{\"item\":\"sentence:past:it.buty\",\"text\":\"було\",\"display\":\"було́\",\"sentence\":\"Учо́ра вікно́ ___ відчи́нене (бу́ти).\"}",
+			"verdict": "ok",
+			"comment": "Учо́ра at sentence start: Правопис 2019 §23 п.1.2-3; учо́ра per Goroh Словозміна, fresh raw fetch/учора. All marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/past-sentences/they.buty",
+			"seen": "{\"item\":\"sentence:past:they.buty\",\"text\":\"були\",\"display\":\"були́\",\"sentence\":\"Де ви вчо́ра ___ (бу́ти)?\"}",
+			"verdict": "ok",
+			"comment": "\"ти вчо́ра\", \"ви вчо́ра\": в after a vowel, Правопис 2019 §23 п.2.6; вчо́ра per Goroh Словозміна, fresh raw fetch/вчора. Word order natural (own judgement). Marks compared; the bracket, subject or vocative fix one answer."
+		},
+		{
+			"key": "core/past/he.chytaty",
+			"seen": "{\"item\":\"verb-past:chytaty:he\",\"text\":\"читав\",\"display\":\"чита́в\",\"ipa\":\"/t͡ʃɪˈtaʋ/\",\"cognates\":{\"ru\":{\"form\":\"чита́л\"},\"pl\":{\"form\":\"czytał\"}},\"concepts\":[\"past-gender\"],\"row\":\"he\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/he.pysaty",
+			"seen": "{\"item\":\"verb-past:pysaty:he\",\"text\":\"писав\",\"display\":\"писа́в\",\"ipa\":\"/pɪˈsaʋ/\",\"cognates\":{\"ru\":{\"form\":\"писа́л\"},\"pl\":{\"form\":\"pisał\"}},\"concepts\":[\"past-gender\"],\"row\":\"he\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/he.robyty",
+			"seen": "{\"item\":\"verb-past:robyty:he\",\"text\":\"робив\",\"display\":\"роби́в\",\"ipa\":\"/rɔˈbɪʋ/\",\"cognates\":{\"pl\":{\"form\":\"robił\"}},\"concepts\":[\"past-gender\"],\"row\":\"he\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/he.buty",
+			"seen": "{\"item\":\"verb-past:buty:he\",\"text\":\"був\",\"ipa\":\"/buʋ/\",\"cognates\":{\"ru\":{\"form\":\"был\"},\"pl\":{\"form\":\"był\"}},\"concepts\":[\"past-gender\"],\"row\":\"he\",\"col\":\"buty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/бути; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/she.chytaty",
+			"seen": "{\"item\":\"verb-past:chytaty:she\",\"text\":\"читала\",\"display\":\"чита́ла\",\"ipa\":\"/t͡ʃɪˈtala/\",\"cognates\":{\"ru\":{\"form\":\"чита́ла\"},\"pl\":{\"form\":\"czytała\"}},\"concepts\":[\"past-gender\"],\"row\":\"she\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/she.pysaty",
+			"seen": "{\"item\":\"verb-past:pysaty:she\",\"text\":\"писала\",\"display\":\"писа́ла\",\"ipa\":\"/pɪˈsala/\",\"cognates\":{\"ru\":{\"form\":\"писа́ла\"},\"pl\":{\"form\":\"pisała\"}},\"concepts\":[\"past-gender\"],\"row\":\"she\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/she.robyty",
+			"seen": "{\"item\":\"verb-past:robyty:she\",\"text\":\"робила\",\"display\":\"роби́ла\",\"ipa\":\"/rɔˈbɪla/\",\"cognates\":{\"pl\":{\"form\":\"robiła\"}},\"concepts\":[\"past-gender\"],\"row\":\"she\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/she.buty",
+			"seen": "{\"item\":\"verb-past:buty:she\",\"text\":\"була\",\"display\":\"була́\",\"ipa\":\"/buˈla/\",\"cognates\":{\"ru\":{\"form\":\"была́\"},\"pl\":{\"form\":\"była\"}},\"concepts\":[\"past-gender\"],\"row\":\"she\",\"col\":\"buty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/бути; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/it.chytaty",
+			"seen": "{\"item\":\"verb-past:chytaty:it\",\"text\":\"читало\",\"display\":\"чита́ло\",\"ipa\":\"/t͡ʃɪˈtalɔ/\",\"cognates\":{\"ru\":{\"form\":\"чита́ло\"},\"pl\":{\"form\":\"czytało\"}},\"concepts\":[\"past-gender\"],\"row\":\"it\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/it.pysaty",
+			"seen": "{\"item\":\"verb-past:pysaty:it\",\"text\":\"писало\",\"display\":\"писа́ло\",\"ipa\":\"/pɪˈsalɔ/\",\"cognates\":{\"ru\":{\"form\":\"писа́ло\"},\"pl\":{\"form\":\"pisało\"}},\"concepts\":[\"past-gender\"],\"row\":\"it\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/it.robyty",
+			"seen": "{\"item\":\"verb-past:robyty:it\",\"text\":\"робило\",\"display\":\"роби́ло\",\"ipa\":\"/rɔˈbɪlɔ/\",\"cognates\":{\"pl\":{\"form\":\"robiło\"}},\"concepts\":[\"past-gender\"],\"row\":\"it\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/it.buty",
+			"seen": "{\"item\":\"verb-past:buty:it\",\"text\":\"було\",\"display\":\"було́\",\"ipa\":\"/buˈlɔ/\",\"cognates\":{\"ru\":{\"form\":\"бы́ло\"},\"pl\":{\"form\":\"było\"}},\"concepts\":[\"past-gender\"],\"row\":\"it\",\"col\":\"buty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/бути; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/they.chytaty",
+			"seen": "{\"item\":\"verb-past:chytaty:they\",\"text\":\"читали\",\"display\":\"чита́ли\",\"ipa\":\"/t͡ʃɪˈtalɪ/\",\"cognates\":{\"ru\":{\"form\":\"чита́ли\"},\"pl\":{\"form\":\"czytali\"}},\"concepts\":[\"past-gender\"],\"row\":\"they\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/they.pysaty",
+			"seen": "{\"item\":\"verb-past:pysaty:they\",\"text\":\"писали\",\"display\":\"писа́ли\",\"ipa\":\"/pɪˈsalɪ/\",\"cognates\":{\"ru\":{\"form\":\"писа́ли\"},\"pl\":{\"form\":\"pisali\"}},\"concepts\":[\"past-gender\"],\"row\":\"they\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/they.robyty",
+			"seen": "{\"item\":\"verb-past:robyty:they\",\"text\":\"робили\",\"display\":\"роби́ли\",\"ipa\":\"/rɔˈbɪlɪ/\",\"cognates\":{\"pl\":{\"form\":\"robili\"}},\"concepts\":[\"past-gender\"],\"row\":\"they\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/past/they.buty",
+			"seen": "{\"item\":\"verb-past:buty:they\",\"text\":\"були\",\"display\":\"були́\",\"ipa\":\"/buˈlɪ/\",\"cognates\":{\"ru\":{\"form\":\"бы́ли\"},\"pl\":{\"form\":\"byli\"}},\"concepts\":[\"past-gender\"],\"row\":\"they\",\"col\":\"buty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/бути; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
 			"key": "core/pl-letters/zh",
 			"seen": "{\"item\":\"pl-letter:zh\",\"text\":\"ж\",\"ipa\":\"/ʒ/\",\"clue\":\"ż\"}",
 			"verdict": "ok"
@@ -1087,6 +1477,198 @@
 			"key": "core/pl-letters/yi",
 			"seen": "{\"item\":\"pl-letter:yi\",\"text\":\"ї\",\"ipa\":\"/ji/\",\"clue\":\"ji\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/present-sentences/ya.chytaty",
+			"seen": "{\"item\":\"sentence:present:ya.chytaty\",\"text\":\"читаю\",\"display\":\"чита́ю\",\"sentence\":\"За́раз я ___ кни́гу (чита́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/ty.chytaty",
+			"seen": "{\"item\":\"sentence:present:ty.chytaty\",\"text\":\"читаєш\",\"display\":\"чита́єш\",\"sentence\":\"За́раз ти ___ газе́ту (чита́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/he.chytaty",
+			"seen": "{\"item\":\"sentence:present:he.chytaty\",\"text\":\"читає\",\"display\":\"чита́є\",\"sentence\":\"За́раз вона́ ___ кни́гу (чита́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/vy.chytaty",
+			"seen": "{\"item\":\"sentence:present:vy.chytaty\",\"text\":\"читаєте\",\"display\":\"чита́єте\",\"sentence\":\"За́раз ви ___ кни́гу (чита́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/ya.pysaty",
+			"seen": "{\"item\":\"sentence:present:ya.pysaty\",\"text\":\"пишу\",\"display\":\"пишу́\",\"sentence\":\"За́раз я ___ лист (писа́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray. лист is allowed: Правопис 2015 §50 прим. \"(написав) листа́ й лист\"; Goroh знахідний лист. листа́ is the more idiomatic (own judgement)."
+		},
+		{
+			"key": "core/present-sentences/he.pysaty",
+			"seen": "{\"item\":\"sentence:present:he.pysaty\",\"text\":\"пише\",\"display\":\"пи́ше\",\"sentence\":\"За́раз він ___ лист (писа́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray. лист is allowed: Правопис 2015 §50 прим. \"(написав) листа́ й лист\"; Goroh знахідний лист. листа́ is the more idiomatic (own judgement)."
+		},
+		{
+			"key": "core/present-sentences/my.pysaty",
+			"seen": "{\"item\":\"sentence:present:my.pysaty\",\"text\":\"пишемо\",\"display\":\"пи́шемо\",\"sentence\":\"За́раз ми ___ дикта́нт (писа́ти).\",\"alsoAccepted\":[\"пишем\"]}",
+			"verdict": "ok",
+			"comment": "пишем per Goroh Словозміна, fresh raw fetch/писати; sentence marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/they.pysaty",
+			"seen": "{\"item\":\"sentence:present:they.pysaty\",\"text\":\"пишуть\",\"display\":\"пи́шуть\",\"sentence\":\"За́раз вони́ ___ листи́ (писа́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/ya.robyty",
+			"seen": "{\"item\":\"sentence:present:ya.robyty\",\"text\":\"роблю\",\"display\":\"роблю́\",\"sentence\":\"За́раз я ___ дома́шнє завда́ння (роби́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/ty.robyty",
+			"seen": "{\"item\":\"sentence:present:ty.robyty\",\"text\":\"робиш\",\"display\":\"ро́биш\",\"sentence\":\"Що ти за́раз ___ (роби́ти)?\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/he.robyty",
+			"seen": "{\"item\":\"sentence:present:he.robyty\",\"text\":\"робить\",\"display\":\"ро́бить\",\"sentence\":\"Що він за́раз ___ (роби́ти)?\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/my.robyty",
+			"seen": "{\"item\":\"sentence:present:my.robyty\",\"text\":\"робимо\",\"display\":\"ро́бимо\",\"sentence\":\"За́раз ми ___ ремо́нт (роби́ти).\",\"alsoAccepted\":[\"робим\"]}",
+			"verdict": "ok",
+			"comment": "робим per Goroh Словозміна, fresh raw fetch/робити; sentence marks compared; one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/vy.robyty",
+			"seen": "{\"item\":\"sentence:present:vy.robyty\",\"text\":\"робите\",\"display\":\"ро́бите\",\"sentence\":\"Що ви за́раз ___ (роби́ти)?\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/present-sentences/they.robyty",
+			"seen": "{\"item\":\"sentence:present:they.robyty\",\"text\":\"роблять\",\"display\":\"ро́блять\",\"sentence\":\"За́раз вони́ ___ ремо́нт (роби́ти).\"}",
+			"verdict": "ok",
+			"comment": "Every mark compared with raw Goroh pages; the gap has one answer in the tray."
+		},
+		{
+			"key": "core/present/ya.chytaty",
+			"seen": "{\"item\":\"verb-present:chytaty:ya\",\"text\":\"читаю\",\"display\":\"чита́ю\",\"ipa\":\"/t͡ʃɪˈtaju/\",\"cognates\":{\"ru\":{\"form\":\"чита́ю\"},\"pl\":{\"form\":\"czytam\"}},\"concepts\":[\"conjugations\"],\"row\":\"ya\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/ya.pysaty",
+			"seen": "{\"item\":\"verb-present:pysaty:ya\",\"text\":\"пишу\",\"display\":\"пишу́\",\"ipa\":\"/pɪˈʃu/\",\"cognates\":{\"ru\":{\"form\":\"пишу́\"},\"pl\":{\"form\":\"piszę\"}},\"concepts\":[\"conjugations\"],\"row\":\"ya\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/ya.robyty",
+			"seen": "{\"item\":\"verb-present:robyty:ya\",\"text\":\"роблю\",\"display\":\"роблю́\",\"ipa\":\"/rɔˈblʲu/\",\"cognates\":{\"pl\":{\"form\":\"robię\"}},\"concepts\":[\"conjugations\",\"labial-l\"],\"row\":\"ya\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/ty.chytaty",
+			"seen": "{\"item\":\"verb-present:chytaty:ty\",\"text\":\"читаєш\",\"display\":\"чита́єш\",\"ipa\":\"/t͡ʃɪˈtajɛʃ/\",\"cognates\":{\"ru\":{\"form\":\"чита́ешь\"},\"pl\":{\"form\":\"czytasz\"}},\"concepts\":[\"conjugations\"],\"row\":\"ty\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/ty.pysaty",
+			"seen": "{\"item\":\"verb-present:pysaty:ty\",\"text\":\"пишеш\",\"display\":\"пи́шеш\",\"ipa\":\"/ˈpɪʃɛʃ/\",\"cognates\":{\"ru\":{\"form\":\"пи́шешь\"},\"pl\":{\"form\":\"piszesz\"}},\"concepts\":[\"conjugations\"],\"row\":\"ty\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/ty.robyty",
+			"seen": "{\"item\":\"verb-present:robyty:ty\",\"text\":\"робиш\",\"display\":\"ро́биш\",\"ipa\":\"/ˈrɔbɪʃ/\",\"cognates\":{\"pl\":{\"form\":\"robisz\"}},\"concepts\":[\"conjugations\"],\"row\":\"ty\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/he.chytaty",
+			"seen": "{\"item\":\"verb-present:chytaty:he\",\"text\":\"читає\",\"display\":\"чита́є\",\"ipa\":\"/t͡ʃɪˈtajɛ/\",\"cognates\":{\"ru\":{\"form\":\"чита́ет\"},\"pl\":{\"form\":\"czyta\"}},\"concepts\":[\"conjugations\",\"third-no-t\"],\"row\":\"he\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/he.pysaty",
+			"seen": "{\"item\":\"verb-present:pysaty:he\",\"text\":\"пише\",\"display\":\"пи́ше\",\"ipa\":\"/ˈpɪʃɛ/\",\"cognates\":{\"ru\":{\"form\":\"пи́шет\"},\"pl\":{\"form\":\"pisze\"}},\"concepts\":[\"conjugations\",\"third-no-t\"],\"row\":\"he\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/he.robyty",
+			"seen": "{\"item\":\"verb-present:robyty:he\",\"text\":\"робить\",\"display\":\"ро́бить\",\"ipa\":\"/ˈrɔbɪtʲ/\",\"cognates\":{\"pl\":{\"form\":\"robi\"}},\"concepts\":[\"conjugations\"],\"row\":\"he\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/my.chytaty",
+			"seen": "{\"item\":\"verb-present:chytaty:my\",\"text\":\"читаємо\",\"display\":\"чита́ємо\",\"ipa\":\"/t͡ʃɪˈtajɛmɔ/\",\"alsoAccepted\":[\"читаєм\"],\"cognates\":{\"ru\":{\"form\":\"чита́ем\"},\"pl\":{\"form\":\"czytamy\"}},\"concepts\":[\"conjugations\"],\"row\":\"my\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, stress, IPA per Goroh Словозміна, fresh raw fetch/читати; читаєм listed there and on en.wiktionary, unlabelled. Cognates on en.wiktionary."
+		},
+		{
+			"key": "core/present/my.pysaty",
+			"seen": "{\"item\":\"verb-present:pysaty:my\",\"text\":\"пишемо\",\"display\":\"пи́шемо\",\"ipa\":\"/ˈpɪʃɛmɔ/\",\"alsoAccepted\":[\"пишем\"],\"cognates\":{\"ru\":{\"form\":\"пи́шем\"},\"pl\":{\"form\":\"piszemy\"}},\"concepts\":[\"conjugations\"],\"row\":\"my\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, stress, IPA per Goroh Словозміна, fresh raw fetch/писати; пишем listed there and on en.wiktionary, unlabelled. Cognates on en.wiktionary."
+		},
+		{
+			"key": "core/present/my.robyty",
+			"seen": "{\"item\":\"verb-present:robyty:my\",\"text\":\"робимо\",\"display\":\"ро́бимо\",\"ipa\":\"/ˈrɔbɪmɔ/\",\"alsoAccepted\":[\"робим\"],\"cognates\":{\"pl\":{\"form\":\"robimy\"}},\"concepts\":[\"conjugations\"],\"row\":\"my\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, stress, IPA per Goroh Словозміна, fresh raw fetch/робити; робим listed there and on en.wiktionary, unlabelled. Cognate on en.wiktionary."
+		},
+		{
+			"key": "core/present/vy.chytaty",
+			"seen": "{\"item\":\"verb-present:chytaty:vy\",\"text\":\"читаєте\",\"display\":\"чита́єте\",\"ipa\":\"/t͡ʃɪˈtajɛtɛ/\",\"cognates\":{\"ru\":{\"form\":\"чита́ете\"},\"pl\":{\"form\":\"czytacie\"}},\"concepts\":[\"conjugations\"],\"row\":\"vy\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/vy.pysaty",
+			"seen": "{\"item\":\"verb-present:pysaty:vy\",\"text\":\"пишете\",\"display\":\"пи́шете\",\"ipa\":\"/ˈpɪʃɛtɛ/\",\"cognates\":{\"ru\":{\"form\":\"пи́шете\"},\"pl\":{\"form\":\"piszecie\"}},\"concepts\":[\"conjugations\"],\"row\":\"vy\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/vy.robyty",
+			"seen": "{\"item\":\"verb-present:robyty:vy\",\"text\":\"робите\",\"display\":\"ро́бите\",\"ipa\":\"/ˈrɔbɪtɛ/\",\"cognates\":{\"pl\":{\"form\":\"robicie\"}},\"concepts\":[\"conjugations\"],\"row\":\"vy\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/they.chytaty",
+			"seen": "{\"item\":\"verb-present:chytaty:they\",\"text\":\"читають\",\"display\":\"чита́ють\",\"ipa\":\"/t͡ʃɪˈtajutʲ/\",\"cognates\":{\"ru\":{\"form\":\"чита́ют\"},\"pl\":{\"form\":\"czytają\"}},\"concepts\":[\"conjugations\"],\"row\":\"they\",\"col\":\"chytaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/читати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/they.pysaty",
+			"seen": "{\"item\":\"verb-present:pysaty:they\",\"text\":\"пишуть\",\"display\":\"пи́шуть\",\"ipa\":\"/ˈpɪʃutʲ/\",\"cognates\":{\"ru\":{\"form\":\"пи́шут\"},\"pl\":{\"form\":\"piszą\"}},\"concepts\":[\"conjugations\"],\"row\":\"they\",\"col\":\"pysaty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/писати; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
+		},
+		{
+			"key": "core/present/they.robyty",
+			"seen": "{\"item\":\"verb-present:robyty:they\",\"text\":\"роблять\",\"display\":\"ро́блять\",\"ipa\":\"/ˈrɔblʲatʲ/\",\"cognates\":{\"pl\":{\"form\":\"robią\"}},\"concepts\":[\"conjugations\",\"labial-l\"],\"row\":\"they\",\"col\":\"robyty\"}",
+			"verdict": "ok",
+			"comment": "Form, cell and stress compared with Goroh Словозміна/робити; IPA matches the pack convention; cognates found on en.wiktionary. No other standard form to accept."
 		},
 		{
 			"key": "core/pronouns-personal/ya.gen",
@@ -1827,6 +2409,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/lesson/g04",
+			"seen": "\"The present tense\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/g05",
+			"seen": "\"The past and the future\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/lesson/l09",
 			"seen": "\"Lesson 9: My family\"",
 			"verdict": "ok"
@@ -1912,6 +2504,34 @@
 		{
 			"key": "en/concept/pronoun-stress",
 			"seen": "{\"title\":\"Stress after a preposition\",\"body\":\"After a preposition, мене́ and тебе́ are stressed on the first syllable: у ме́не, до те́бе. нас and вас do not change.\",\"sources\":[{\"title\":\"ти (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/ти\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/conjugations",
+			"seen": "{\"title\":\"Two conjugations\",\"body\":\"Ukrainian verbs fall into two conjugations. The first has -еш or -єш in the second person singular and -уть or -ють in the third plural: пи́шеш, пи́шуть, чита́єш, чита́ють. The second has -иш or -їш, and -ать or -ять: ро́биш, ро́блять.\",\"sources\":[{\"title\":\"Український правопис (2015), §80\",\"url\":\"https://pravopys.net/sections/80/\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "Endings per Правопис 2015 §80.2; https://pravopys.net/sections/80/ opened raw, 200, shows §80. Marks match Goroh писати, читати, робити."
+		},
+		{
+			"key": "en/concept/third-no-t",
+			"seen": "{\"title\":\"First conjugation: no -ть in the third singular\",\"body\":\"In the first conjugation, the third person singular ends in the vowel: чита́є, пи́ше. The second conjugation has -ть: ро́бить.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "Title now true and scoped: Правопис 2015 §80.2 -е (-є) in the first conjugation, -ить (-їть) in the second. Marks match Goroh читати, писати, робити. Wording natural (own knowledge)."
+		},
+		{
+			"key": "en/concept/labial-l",
+			"seen": "{\"title\":\"л after a labial\",\"body\":\"In the second conjugation, a stem ending in a labial adds л in the first person singular and in the third plural: роблю́, ро́блять, but ро́биш and ро́бить.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/past-gender",
+			"seen": "{\"title\":\"The past agrees in gender\",\"body\":\"The past tense agrees with its subject in gender and number and has no person ending: я чита́в or я чита́ла, depending on who is speaking, and ми чита́ли. The masculine usually ends in -в: чита́в. After some stems it has no ending: ніс, міг.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "-в usually, none on some stems: Правопис 2015 §80.9; en.wikipedia Ukrainian grammar. Goroh Словозміна, fresh raw fetch: нести ніс, могти міг, читати чита́в, чита́ла, чита́ли."
+		},
+		{
+			"key": "en/concept/future-two",
+			"seen": "{\"title\":\"Two forms of the future\",\"body\":\"The imperfective future has two forms that mean the same: бу́ду чита́ти and чита́тиму. The second adds -му, -меш, -ме, -мемо, -мете, -муть to the infinitive.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -2333,6 +2953,88 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/future-sentences",
+			"seen": "{\"title\":\"The future in sentences\",\"summary\":\"Which form of the verb in brackets fits the gap? When you type, бу́ду чита́ти is as right as чита́тиму.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/future-sentences/ya.chytaty",
+			"seen": "{\"sentenceGloss\":\"Tomorrow I will be reading a book.\",\"note\":\"Future tense, first person singular.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future-sentences/my.chytaty",
+			"seen": "{\"sentenceGloss\":\"Tomorrow we will be reading a newspaper.\",\"note\":\"Future tense, first person plural.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future-sentences/ty.pysaty",
+			"seen": "{\"sentenceGloss\":\"Tomorrow you will be writing a letter.\",\"note\":\"Future tense, second person singular.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future-sentences/vy.pysaty",
+			"seen": "{\"sentenceGloss\":\"Tomorrow you will be writing a letter.\",\"note\":\"Future tense, second person plural.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future-sentences/he.robyty",
+			"seen": "{\"sentenceGloss\":\"Tomorrow she will be renovating.\",\"note\":\"Future tense, third person singular.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future-sentences/they.robyty",
+			"seen": "{\"sentenceGloss\":\"Tomorrow they will be renovating.\",\"note\":\"Future tense, third person plural.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future-sentences/ya.buty",
+			"seen": "{\"sentenceGloss\":\"Tomorrow I will be reading a book.\",\"note\":\"Future tense, first person singular.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future-sentences/ty.buty",
+			"seen": "{\"sentenceGloss\":\"Tomorrow you will be writing a letter.\",\"note\":\"Future tense, second person singular.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future-sentences/he.buty",
+			"seen": "{\"sentenceGloss\":\"He will be at home tomorrow.\",\"note\":\"Future tense, third person singular.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future-sentences/my.buty",
+			"seen": "{\"sentenceGloss\":\"We will be there tomorrow.\",\"note\":\"Future tense, first person plural.\"}",
+			"verdict": "ok",
+			"comment": "Gloss matches the sentence and is natural (own knowledge); note right."
+		},
+		{
+			"key": "en/future-sentences/vy.buty",
+			"seen": "{\"sentenceGloss\":\"You will be at home tomorrow.\",\"note\":\"Future tense, second person plural.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future-sentences/they.buty",
+			"seen": "{\"sentenceGloss\":\"They will be at home tomorrow.\",\"note\":\"Future tense, third person plural.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "en/future",
+			"seen": "{\"title\":\"The future tense\",\"summary\":\"Two forms that mean the same: бу́ду чита́ти and чита́тиму. When you type, either is right.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\",\"buty\":\"бу́ти\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/h-or-g",
 			"seen": "{\"title\":\"г or ґ\",\"summary\":\"Words with one letter missing. Each tile gives the word with a gap; find г or ґ.\"}",
 			"verdict": "ok"
@@ -2549,8 +3251,164 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/past-sentences",
+			"seen": "{\"title\":\"The past in sentences\",\"summary\":\"Who did it? The subject, or the name of the person spoken to, tells you the gender.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/he.chytaty",
+			"seen": "{\"sentenceGloss\":\"He was reading a book yesterday.\",\"note\":\"Past tense: masculine singular.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/she.chytaty",
+			"seen": "{\"sentenceGloss\":\"She was reading a book yesterday.\",\"note\":\"Past tense: feminine singular.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/they.chytaty",
+			"seen": "{\"sentenceGloss\":\"They were reading a newspaper yesterday.\",\"note\":\"Past tense: plural.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/he.pysaty",
+			"seen": "{\"sentenceGloss\":\"Yesterday my brother was writing a letter.\",\"note\":\"Past tense: masculine singular.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/she.pysaty",
+			"seen": "{\"sentenceGloss\":\"Yesterday my sister was writing a letter.\",\"note\":\"Past tense: feminine singular.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/they.pysaty",
+			"seen": "{\"sentenceGloss\":\"They were writing letters yesterday.\",\"note\":\"Past tense: plural.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/he.robyty",
+			"seen": "{\"sentenceGloss\":\"Yesterday Andriy was renovating.\",\"note\":\"Past tense: masculine singular.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/she.robyty",
+			"seen": "{\"sentenceGloss\":\"What were you doing yesterday, Olena?\",\"note\":\"Past tense: feminine singular.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/they.robyty",
+			"seen": "{\"sentenceGloss\":\"We were renovating yesterday.\",\"note\":\"Past tense: plural.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/he.buty",
+			"seen": "{\"sentenceGloss\":\"Where were you yesterday, Andriy?\",\"note\":\"Past tense: masculine singular.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/she.buty",
+			"seen": "{\"sentenceGloss\":\"Where were you yesterday, Olena?\",\"note\":\"Past tense: feminine singular.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/it.buty",
+			"seen": "{\"sentenceGloss\":\"The window was open yesterday.\",\"note\":\"Past tense: neuter singular.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past-sentences/they.buty",
+			"seen": "{\"sentenceGloss\":\"Where were you yesterday?\",\"note\":\"Past tense: plural.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/past",
+			"seen": "{\"title\":\"The past tense\",\"summary\":\"The past agrees with its subject in gender and number, and has no person ending.\",\"headers\":{\"he\":\"він\",\"she\":\"вона\",\"it\":\"воно\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\",\"buty\":\"бу́ти\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/pl-letters",
 			"seen": "{\"title\":\"From Polish spelling\",\"summary\":\"Reading Cyrillic from Polish. Each tile gives the nearest Polish spelling; find the Ukrainian letter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences",
+			"seen": "{\"title\":\"The present in sentences\",\"summary\":\"Which form of the verb in brackets fits the gap? The subject tells you the person.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/ya.chytaty",
+			"seen": "{\"sentenceGloss\":\"I am reading a book now.\",\"note\":\"First person singular, first conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/ty.chytaty",
+			"seen": "{\"sentenceGloss\":\"You are reading a newspaper now.\",\"note\":\"Second person singular, first conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/he.chytaty",
+			"seen": "{\"sentenceGloss\":\"She is reading a book now.\",\"note\":\"Third person singular, first conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/vy.chytaty",
+			"seen": "{\"sentenceGloss\":\"You are reading a book now.\",\"note\":\"Second person plural, first conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/ya.pysaty",
+			"seen": "{\"sentenceGloss\":\"I am writing a letter now.\",\"note\":\"First person singular, first conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/he.pysaty",
+			"seen": "{\"sentenceGloss\":\"He is writing a letter now.\",\"note\":\"Third person singular, first conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/my.pysaty",
+			"seen": "{\"sentenceGloss\":\"We are doing a dictation now.\",\"note\":\"First person plural, first conjugation.\"}",
+			"verdict": "ok",
+			"comment": "Gloss natural (own knowledge); note right."
+		},
+		{
+			"key": "en/present-sentences/they.pysaty",
+			"seen": "{\"sentenceGloss\":\"They are writing letters now.\",\"note\":\"Third person plural, first conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/ya.robyty",
+			"seen": "{\"sentenceGloss\":\"I am doing my homework now.\",\"note\":\"First person singular, second conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/ty.robyty",
+			"seen": "{\"sentenceGloss\":\"What are you doing now?\",\"note\":\"Second person singular, second conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/he.robyty",
+			"seen": "{\"sentenceGloss\":\"What is he doing now?\",\"note\":\"Third person singular, second conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/my.robyty",
+			"seen": "{\"sentenceGloss\":\"We are renovating now.\",\"note\":\"First person plural, second conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/vy.robyty",
+			"seen": "{\"sentenceGloss\":\"What are you doing now?\",\"note\":\"Second person plural, second conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present-sentences/they.robyty",
+			"seen": "{\"sentenceGloss\":\"They are renovating now.\",\"note\":\"Third person plural, second conjugation.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present",
+			"seen": "{\"title\":\"The present tense\",\"summary\":\"Three verbs through all six persons: чита́ти and писа́ти of the first conjugation, and роби́ти of the second.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -2947,6 +3805,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/lesson/g04",
+			"seen": "\"Czas teraźniejszy\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/g05",
+			"seen": "\"Czas przeszły i przyszły\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/lesson/l09",
 			"seen": "\"Lekcja 9: Moja rodzina\"",
 			"verdict": "ok"
@@ -3030,6 +3898,34 @@
 		{
 			"key": "pl/concept/pronoun-stress",
 			"seen": "{\"title\":\"Akcent po przyimku\",\"body\":\"Po przyimku мене́ i тебе́ mają akcent na pierwszej sylabie: у ме́не, до те́бе. нас i вас się nie zmieniają.\",\"sources\":[{\"title\":\"ти (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/ти\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/conjugations",
+			"seen": "{\"title\":\"Dwie koniugacje\",\"body\":\"Czasowniki ukraińskie dzielą się na dwie koniugacje. Pierwsza ma -еш lub -єш w 2. osobie l. poj. i -уть lub -ють w 3. osobie l. mn.: пи́шеш, пи́шуть, чита́єш, чита́ють. Druga ma -иш lub -їш oraz -ать lub -ять: ро́биш, ро́блять.\",\"sources\":[{\"title\":\"Український правопис (2015), §80\",\"url\":\"https://pravopys.net/sections/80/\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "Endings per Правопис 2015 §80.2; https://pravopys.net/sections/80/ opened raw, 200, shows §80. Marks match Goroh писати, читати, робити."
+		},
+		{
+			"key": "pl/concept/third-no-t",
+			"seen": "{\"title\":\"I koniugacja: bez -ть w 3. osobie l. poj.\",\"body\":\"W pierwszej koniugacji 3. osoba l. poj. kończy się samogłoską: чита́є, пи́ше. Druga koniugacja ma -ть: ро́бить.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "Title now true and scoped: Правопис 2015 §80.2 -е (-є) in the first conjugation, -ить (-їть) in the second. Marks match Goroh читати, писати, робити. Wording natural (own knowledge)."
+		},
+		{
+			"key": "pl/concept/labial-l",
+			"seen": "{\"title\":\"л po wargowej\",\"body\":\"W drugiej koniugacji temat zakończony wargową dostaje л w 1. osobie l. poj. i w 3. osobie l. mn.: роблю́, ро́блять, ale ро́биш i ро́бить.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/past-gender",
+			"seen": "{\"title\":\"Czas przeszły zgadza się w rodzaju\",\"body\":\"Czas przeszły zgadza się z podmiotem w rodzaju i liczbie i nie ma końcówek osobowych: я чита́в albo я чита́ла, zależnie od tego, kto mówi, oraz ми чита́ли. Rodzaj męski zwykle kończy się na -в: чита́в. Niektóre tematy nie mają końcówki: ніс, міг.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "-в usually, none on some stems: Правопис 2015 §80.9; en.wikipedia Ukrainian grammar. Goroh Словозміна, fresh raw fetch: нести ніс, могти міг, читати чита́в, чита́ла, чита́ли."
+		},
+		{
+			"key": "pl/concept/future-two",
+			"seen": "{\"title\":\"Dwie formy przyszłe\",\"body\":\"Czasowniki niedokonane mają dwie formy przyszłe o tym samym znaczeniu: бу́ду чита́ти i чита́тиму. Druga dodaje do bezokolicznika -му, -меш, -ме, -мемо, -мете, -муть.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -3449,6 +4345,88 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/future-sentences",
+			"seen": "{\"title\":\"Czas przyszły w zdaniach\",\"summary\":\"Która forma czasownika w nawiasie pasuje do luki? Przy wpisywaniu бу́ду чита́ти jest tak samo dobre jak чита́тиму.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/future-sentences/ya.chytaty",
+			"seen": "{\"sentenceGloss\":\"Jutro będę czytać książkę.\",\"note\":\"Czas przyszły, 1. osoba l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/future-sentences/my.chytaty",
+			"seen": "{\"sentenceGloss\":\"Jutro będziemy czytać gazetę.\",\"note\":\"Czas przyszły, 1. osoba l. mn.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/future-sentences/ty.pysaty",
+			"seen": "{\"sentenceGloss\":\"Jutro będziesz pisać list.\",\"note\":\"Czas przyszły, 2. osoba l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/future-sentences/vy.pysaty",
+			"seen": "{\"sentenceGloss\":\"Jutro będziecie pisać list.\",\"note\":\"Czas przyszły, 2. osoba l. mn.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/future-sentences/he.robyty",
+			"seen": "{\"sentenceGloss\":\"Jutro ona będzie robić remont.\",\"note\":\"Czas przyszły, 3. osoba l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Gloss natural and now shows the subject (own knowledge); note has one stop."
+		},
+		{
+			"key": "pl/future-sentences/they.robyty",
+			"seen": "{\"sentenceGloss\":\"Jutro będą robić remont.\",\"note\":\"Czas przyszły, 3. osoba l. mn.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/future-sentences/ya.buty",
+			"seen": "{\"sentenceGloss\":\"Jutro będę czytać książkę.\",\"note\":\"Czas przyszły, 1. osoba l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/future-sentences/ty.buty",
+			"seen": "{\"sentenceGloss\":\"Jutro będziesz pisać list.\",\"note\":\"Czas przyszły, 2. osoba l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/future-sentences/he.buty",
+			"seen": "{\"sentenceGloss\":\"Jutro on będzie w domu.\",\"note\":\"Czas przyszły, 3. osoba l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/future-sentences/my.buty",
+			"seen": "{\"sentenceGloss\":\"Jutro tam będziemy.\",\"note\":\"Czas przyszły, 1. osoba l. mn.\"}",
+			"verdict": "ok",
+			"comment": "Gloss matches the sentence and is natural (own knowledge); note right."
+		},
+		{
+			"key": "pl/future-sentences/vy.buty",
+			"seen": "{\"sentenceGloss\":\"Jutro będziecie w domu.\",\"note\":\"Czas przyszły, 2. osoba l. mn.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/future-sentences/they.buty",
+			"seen": "{\"sentenceGloss\":\"Jutro będą w domu.\",\"note\":\"Czas przyszły, 3. osoba l. mn.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/future",
+			"seen": "{\"title\":\"Czas przyszły\",\"summary\":\"Dwie formy o tym samym znaczeniu: бу́ду чита́ти i чита́тиму. Przy wpisywaniu pasuje każda z nich.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\",\"buty\":\"бу́ти\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/h-or-g",
 			"seen": "{\"title\":\"г czy ґ\",\"summary\":\"Słowa z brakującą literą. Pole podaje słowo z luką; znajdź г albo ґ.\"}",
 			"verdict": "ok"
@@ -3665,8 +4643,176 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/past-sentences",
+			"seen": "{\"title\":\"Czas przeszły w zdaniach\",\"summary\":\"Kto to zrobił? Podmiot albo imię rozmówcy wskazuje rodzaj.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/past-sentences/he.chytaty",
+			"seen": "{\"sentenceGloss\":\"Wczoraj on czytał książkę.\",\"note\":\"Czas przeszły: rodzaj męski, l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/she.chytaty",
+			"seen": "{\"sentenceGloss\":\"Wczoraj ona czytała książkę.\",\"note\":\"Czas przeszły: rodzaj żeński, l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/they.chytaty",
+			"seen": "{\"sentenceGloss\":\"Wczoraj czytali gazetę.\",\"note\":\"Czas przeszły: l. mn.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/he.pysaty",
+			"seen": "{\"sentenceGloss\":\"Wczoraj mój brat pisał list.\",\"note\":\"Czas przeszły: rodzaj męski, l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/she.pysaty",
+			"seen": "{\"sentenceGloss\":\"Wczoraj moja siostra pisała list.\",\"note\":\"Czas przeszły: rodzaj żeński, l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/they.pysaty",
+			"seen": "{\"sentenceGloss\":\"Wczoraj pisali listy.\",\"note\":\"Czas przeszły: l. mn.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/he.robyty",
+			"seen": "{\"sentenceGloss\":\"Wczoraj Andrij robił remont.\",\"note\":\"Czas przeszły: rodzaj męski, l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/she.robyty",
+			"seen": "{\"sentenceGloss\":\"Co robiłaś wczoraj, Oleno?\",\"note\":\"Czas przeszły: rodzaj żeński, l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/they.robyty",
+			"seen": "{\"sentenceGloss\":\"Wczoraj robiliśmy remont.\",\"note\":\"Czas przeszły: l. mn.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/he.buty",
+			"seen": "{\"sentenceGloss\":\"Gdzie byłeś wczoraj, Andriju?\",\"note\":\"Czas przeszły: rodzaj męski, l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/she.buty",
+			"seen": "{\"sentenceGloss\":\"Gdzie byłaś wczoraj, Oleno?\",\"note\":\"Czas przeszły: rodzaj żeński, l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/it.buty",
+			"seen": "{\"sentenceGloss\":\"Wczoraj okno było otwarte.\",\"note\":\"Czas przeszły: rodzaj nijaki, l. poj.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past-sentences/they.buty",
+			"seen": "{\"sentenceGloss\":\"Gdzie byliście wczoraj?\",\"note\":\"Czas przeszły: l. mn.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "pl/past",
+			"seen": "{\"title\":\"Czas przeszły\",\"summary\":\"Czas przeszły zgadza się z podmiotem w rodzaju i liczbie i nie ma końcówek osobowych.\",\"headers\":{\"he\":\"він\",\"she\":\"вона\",\"it\":\"воно\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\",\"buty\":\"бу́ти\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/pl-letters",
 			"seen": "{\"title\":\"Od polskiej pisowni\",\"summary\":\"Czytanie cyrylicy, wychodząc od polskiego. Pole podaje najbliższą polską pisownię; znajdź literę ukraińską.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences",
+			"seen": "{\"title\":\"Czas teraźniejszy w zdaniach\",\"summary\":\"Która forma czasownika w nawiasie pasuje do luki? Podmiot wskazuje osobę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/ya.chytaty",
+			"seen": "{\"sentenceGloss\":\"Teraz czytam książkę.\",\"note\":\"1. osoba l. poj., I koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/ty.chytaty",
+			"seen": "{\"sentenceGloss\":\"Teraz czytasz gazetę.\",\"note\":\"2. osoba l. poj., I koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/he.chytaty",
+			"seen": "{\"sentenceGloss\":\"Teraz ona czyta książkę.\",\"note\":\"3. osoba l. poj., I koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/vy.chytaty",
+			"seen": "{\"sentenceGloss\":\"Teraz czytacie książkę.\",\"note\":\"2. osoba l. mn., I koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/ya.pysaty",
+			"seen": "{\"sentenceGloss\":\"Teraz piszę list.\",\"note\":\"1. osoba l. poj., I koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/he.pysaty",
+			"seen": "{\"sentenceGloss\":\"Teraz on pisze list.\",\"note\":\"3. osoba l. poj., I koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/my.pysaty",
+			"seen": "{\"sentenceGloss\":\"Teraz piszemy dyktando.\",\"note\":\"1. osoba l. mn., I koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/they.pysaty",
+			"seen": "{\"sentenceGloss\":\"Teraz piszą listy.\",\"note\":\"3. osoba l. mn., I koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/ya.robyty",
+			"seen": "{\"sentenceGloss\":\"Teraz robię zadanie domowe.\",\"note\":\"1. osoba l. poj., II koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/ty.robyty",
+			"seen": "{\"sentenceGloss\":\"Co teraz robisz?\",\"note\":\"2. osoba l. poj., II koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/he.robyty",
+			"seen": "{\"sentenceGloss\":\"Co on teraz robi?\",\"note\":\"3. osoba l. poj., II koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/my.robyty",
+			"seen": "{\"sentenceGloss\":\"Teraz robimy remont.\",\"note\":\"1. osoba l. mn., II koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/vy.robyty",
+			"seen": "{\"sentenceGloss\":\"Co teraz robicie?\",\"note\":\"2. osoba l. mn., II koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present-sentences/they.robyty",
+			"seen": "{\"sentenceGloss\":\"Teraz robią remont.\",\"note\":\"3. osoba l. mn., II koniugacja.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/present",
+			"seen": "{\"title\":\"Czas teraźniejszy\",\"summary\":\"Trzy czasowniki we wszystkich sześciu osobach: чита́ти i писа́ти pierwszej koniugacji, роби́ти drugiej.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -4152,6 +5298,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-en/future/ya.chytaty",
+			"seen": "{\"contrast\":\"Polish has będę czytać or będę czytał. This form has no Polish equivalent.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
 			"key": "pl-en/i-or-y/lis",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"lis\",\"means\":\"is the animal, in Ukrainian лис; ліс means forest\"}}",
 			"verdict": "ok"
@@ -4162,10 +5314,22 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-en/past/he.chytaty",
+			"seen": "{\"contrast\":\"Polish adds a person ending: czytałem, czytałeś. Ukrainian says я чита́в and ти чита́в, with no ending for the person.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
 			"key": "pl-en/pl-letters/g",
 			"seen": "{\"contrast\":\"Polish g has the sound of ґ, but in related words it usually matches г, not ґ: góra and гора.\"}",
 			"verdict": "ok",
 			"comment": "Polish g is /ɡ/, devoiced to [k] finally (Polish phonology, Wikipedia), so fair for its main value. góra and гора are a true pair ([ˈɡu.ra], [ɦɔˈra], Wiktionary)."
+		},
+		{
+			"key": "pl-en/present/they.robyty",
+			"seen": "{\"contrast\":\"Polish has no such л: robią, as in robię.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
 		},
 		{
 			"key": "pl-en/pronouns-personal/ya.dat",
@@ -4305,6 +5469,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-pl/future/ya.chytaty",
+			"seen": "{\"contrast\":\"W polskim jest będę czytać lub będę czytał. Ta forma nie ma polskiego odpowiednika.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
 			"key": "pl-pl/i-or-y/lis",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"lis\",\"means\":\"to zwierzę, po ukraińsku лис; ліс znaczy las\"}}",
 			"verdict": "ok"
@@ -4315,10 +5485,22 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-pl/past/he.chytaty",
+			"seen": "{\"contrast\":\"Polski dodaje końcówkę osobową: czytałem, czytałeś. Po ukraińsku я чита́в i ти чита́в, bez końcówki osobowej.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
 			"key": "pl-pl/pl-letters/g",
 			"seen": "{\"contrast\":\"Polskie g brzmi jak ґ, ale w wyrazach pokrewnych zwykle odpowiada mu г, a nie ґ: góra i гора.\"}",
 			"verdict": "ok",
 			"comment": "Facts as in pl-en. Natural Polish. \"Wyrazy pokrewne\" often means words of one root within a language, but the context makes the cross-language sense clear."
+		},
+		{
+			"key": "pl-pl/present/they.robyty",
+			"seen": "{\"contrast\":\"W polskim nie ma takiego л: robią, tak jak robię.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
 		},
 		{
 			"key": "pl-pl/pronouns-personal/ya.dat",
@@ -4457,6 +5639,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-uk/future/ya.chytaty",
+			"seen": "{\"contrast\":\"У польській є będę czytać або będę czytał. Ця форма не має польського відповідника.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
 			"key": "pl-uk/i-or-y/lis",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"lis\",\"means\":\"означає тварину, українською лис; ліс — це багато дерев\"}}",
 			"verdict": "ok"
@@ -4467,10 +5655,22 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-uk/past/he.chytaty",
+			"seen": "{\"contrast\":\"Польська додає особове закінчення: czytałem, czytałeś. Українською я чита́в і ти чита́в, без особового закінчення.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
 			"key": "pl-uk/pl-letters/g",
 			"seen": "{\"contrast\":\"Польське g звучить як ґ, але в споріднених словах йому зазвичай відповідає г, а не ґ: góra й гора.\"}",
 			"verdict": "ok",
 			"comment": "Facts as in pl-en. Natural Ukrainian, and \"góra й гора\" follows the й rule after a vowel before a consonant."
+		},
+		{
+			"key": "pl-uk/present/they.robyty",
+			"seen": "{\"contrast\":\"У польській такого л немає: robią, як і robię.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
 		},
 		{
 			"key": "pl-uk/pronouns-personal/ya.dat",
@@ -4520,6 +5720,16 @@
 		{
 			"key": "ru/lesson/g03",
 			"seen": "\"Падежи существительных\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/g04",
+			"seen": "\"Настоящее время\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/g05",
+			"seen": "\"Прошедшее и будущее время\"",
 			"verdict": "ok"
 		},
 		{
@@ -4606,6 +5816,34 @@
 		{
 			"key": "ru/concept/pronoun-stress",
 			"seen": "{\"title\":\"Ударение после предлога\",\"body\":\"После предлога мене́ и тебе́ имеют ударение на первом слоге: у ме́не, до те́бе. нас и вас не меняются.\",\"sources\":[{\"title\":\"ти (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/ти\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/conjugations",
+			"seen": "{\"title\":\"Два спряжения\",\"body\":\"Украинские глаголы делятся на два спряжения. В первом -еш или -єш во 2-м лице ед. ч. и -уть или -ють в 3-м лице мн. ч.: пи́шеш, пи́шуть, чита́єш, чита́ють. Во втором -иш или -їш и -ать или -ять: ро́биш, ро́блять.\",\"sources\":[{\"title\":\"Український правопис (2015), §80\",\"url\":\"https://pravopys.net/sections/80/\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "Endings per Правопис 2015 §80.2; https://pravopys.net/sections/80/ opened raw, 200, shows §80. Marks match Goroh писати, читати, робити."
+		},
+		{
+			"key": "ru/concept/third-no-t",
+			"seen": "{\"title\":\"I спряжение: без -ть в 3-м лице ед. ч.\",\"body\":\"В первом спряжении 3-е лицо ед. ч. оканчивается на гласный: чита́є, пи́ше. Во втором спряжении -ть: ро́бить.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "Title now true and scoped: Правопис 2015 §80.2 -е (-є) in the first conjugation, -ить (-їть) in the second. Marks match Goroh читати, писати, робити. Wording natural (own knowledge)."
+		},
+		{
+			"key": "ru/concept/labial-l",
+			"seen": "{\"title\":\"л после губного\",\"body\":\"Во втором спряжении основа на губной получает л в 1-м лице ед. ч. и в 3-м лице мн. ч.: роблю́, ро́блять, но ро́биш и ро́бить.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/past-gender",
+			"seen": "{\"title\":\"Прошедшее согласуется в роде\",\"body\":\"Прошедшее время согласуется с подлежащим в роде и числе и не имеет личных окончаний: я чита́в или я чита́ла, в зависимости от того, кто говорит, и ми чита́ли. Мужской род обычно оканчивается на -в: чита́в. У некоторых основ окончания нет: ніс, міг.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "-в usually, none on some stems: Правопис 2015 §80.9; en.wikipedia Ukrainian grammar. Goroh Словозміна, fresh raw fetch: нести ніс, могти міг, читати чита́в, чита́ла, чита́ли."
+		},
+		{
+			"key": "ru/concept/future-two",
+			"seen": "{\"title\":\"Две формы будущего\",\"body\":\"У несовершенного вида две формы будущего с одним значением: бу́ду чита́ти и чита́тиму. Вторая прибавляет к инфинитиву -му, -меш, -ме, -мемо, -мете, -муть.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -5026,6 +6264,88 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/future-sentences",
+			"seen": "{\"title\":\"Будущее время в предложениях\",\"summary\":\"Какая форма глагола в скобках подходит к пропуску? При вводе бу́ду чита́ти так же верно, как чита́тиму.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/future-sentences/ya.chytaty",
+			"seen": "{\"sentenceGloss\":\"Завтра я буду читать книгу.\",\"note\":\"Будущее время, 1-е лицо ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future-sentences/my.chytaty",
+			"seen": "{\"sentenceGloss\":\"Завтра мы будем читать газету.\",\"note\":\"Будущее время, 1-е лицо мн. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future-sentences/ty.pysaty",
+			"seen": "{\"sentenceGloss\":\"Завтра ты будешь писать письмо.\",\"note\":\"Будущее время, 2-е лицо ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future-sentences/vy.pysaty",
+			"seen": "{\"sentenceGloss\":\"Завтра вы будете писать письмо.\",\"note\":\"Будущее время, 2-е лицо мн. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future-sentences/he.robyty",
+			"seen": "{\"sentenceGloss\":\"Завтра она будет делать ремонт.\",\"note\":\"Будущее время, 3-е лицо ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future-sentences/they.robyty",
+			"seen": "{\"sentenceGloss\":\"Завтра они будут делать ремонт.\",\"note\":\"Будущее время, 3-е лицо мн. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future-sentences/ya.buty",
+			"seen": "{\"sentenceGloss\":\"Завтра я буду читать книгу.\",\"note\":\"Будущее время, 1-е лицо ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future-sentences/ty.buty",
+			"seen": "{\"sentenceGloss\":\"Завтра ты будешь писать письмо.\",\"note\":\"Будущее время, 2-е лицо ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future-sentences/he.buty",
+			"seen": "{\"sentenceGloss\":\"Завтра он будет дома.\",\"note\":\"Будущее время, 3-е лицо ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future-sentences/my.buty",
+			"seen": "{\"sentenceGloss\":\"Завтра мы будем там.\",\"note\":\"Будущее время, 1-е лицо мн. ч.\"}",
+			"verdict": "ok",
+			"comment": "Gloss matches the sentence and is natural (own knowledge); note right."
+		},
+		{
+			"key": "ru/future-sentences/vy.buty",
+			"seen": "{\"sentenceGloss\":\"Завтра вы будете дома.\",\"note\":\"Будущее время, 2-е лицо мн. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future-sentences/they.buty",
+			"seen": "{\"sentenceGloss\":\"Завтра они будут дома.\",\"note\":\"Будущее время, 3-е лицо мн. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/future",
+			"seen": "{\"title\":\"Будущее время\",\"summary\":\"Две формы с одним значением: бу́ду чита́ти и чита́тиму. При вводе подходит любая.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\",\"buty\":\"бу́ти\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/h-or-g",
 			"seen": "{\"title\":\"г или ґ\",\"summary\":\"Слова с пропущенной буквой. На плитке слово с пропуском; найдите г или ґ.\"}",
 			"verdict": "ok"
@@ -5241,8 +6561,177 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/past-sentences",
+			"seen": "{\"title\":\"Прошедшее время в предложениях\",\"summary\":\"Кто это сделал? Подлежащее или имя собеседника подскажет род.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/past-sentences/he.chytaty",
+			"seen": "{\"sentenceGloss\":\"Вчера он читал книгу.\",\"note\":\"Прошедшее время: мужской род, ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/she.chytaty",
+			"seen": "{\"sentenceGloss\":\"Вчера она читала книгу.\",\"note\":\"Прошедшее время: женский род, ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/they.chytaty",
+			"seen": "{\"sentenceGloss\":\"Вчера они читали газету.\",\"note\":\"Прошедшее время: мн. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/he.pysaty",
+			"seen": "{\"sentenceGloss\":\"Вчера мой брат писал письмо.\",\"note\":\"Прошедшее время: мужской род, ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/she.pysaty",
+			"seen": "{\"sentenceGloss\":\"Вчера моя сестра писала письмо.\",\"note\":\"Прошедшее время: женский род, ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/they.pysaty",
+			"seen": "{\"sentenceGloss\":\"Вчера они писали письма.\",\"note\":\"Прошедшее время: мн. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/he.robyty",
+			"seen": "{\"sentenceGloss\":\"Вчера Андрей делал ремонт.\",\"note\":\"Прошедшее время: мужской род, ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/she.robyty",
+			"seen": "{\"sentenceGloss\":\"Что ты делала вчера, Олена?\",\"note\":\"Прошедшее время: женский род, ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/they.robyty",
+			"seen": "{\"sentenceGloss\":\"Вчера мы делали ремонт.\",\"note\":\"Прошедшее время: мн. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/he.buty",
+			"seen": "{\"sentenceGloss\":\"Где ты был вчера, Андрей?\",\"note\":\"Прошедшее время: мужской род, ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/she.buty",
+			"seen": "{\"sentenceGloss\":\"Где ты была вчера, Олена?\",\"note\":\"Прошедшее время: женский род, ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/it.buty",
+			"seen": "{\"sentenceGloss\":\"Вчера окно было открыто.\",\"note\":\"Прошедшее время: средний род, ед. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past-sentences/they.buty",
+			"seen": "{\"sentenceGloss\":\"Где вы были вчера?\",\"note\":\"Прошедшее время: мн. ч.\"}",
+			"verdict": "ok",
+			"comment": "Script compared with the earlier text: only the note typography changed; no doubled stop or stray capital left. Gloss rechecked by reading."
+		},
+		{
+			"key": "ru/past",
+			"seen": "{\"title\":\"Прошедшее время\",\"summary\":\"Прошедшее время согласуется с подлежащим в роде и числе и не имеет личных окончаний.\",\"headers\":{\"he\":\"він\",\"she\":\"вона\",\"it\":\"воно\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\",\"buty\":\"бу́ти\"}}",
+			"verdict": "ok",
+			"comment": "\"Не имеет личных окончаний\" is the usual term (own knowledge); claim per Правопис 2015 §80.9."
+		},
+		{
 			"key": "ru/pl-letters",
 			"seen": "{\"title\":\"От польского написания\",\"summary\":\"Чтение кириллицы, исходя из польского. На плитке ближайшее польское написание; найдите украинскую букву.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences",
+			"seen": "{\"title\":\"Настоящее время в предложениях\",\"summary\":\"Какая форма глагола в скобках подходит к пропуску? Подлежащее подскажет лицо.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/ya.chytaty",
+			"seen": "{\"sentenceGloss\":\"Сейчас я читаю книгу.\",\"note\":\"1-е лицо ед. ч., I спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/ty.chytaty",
+			"seen": "{\"sentenceGloss\":\"Сейчас ты читаешь газету.\",\"note\":\"2-е лицо ед. ч., I спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/he.chytaty",
+			"seen": "{\"sentenceGloss\":\"Сейчас она читает книгу.\",\"note\":\"3-е лицо ед. ч., I спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/vy.chytaty",
+			"seen": "{\"sentenceGloss\":\"Сейчас вы читаете книгу.\",\"note\":\"2-е лицо мн. ч., I спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/ya.pysaty",
+			"seen": "{\"sentenceGloss\":\"Сейчас я пишу письмо.\",\"note\":\"1-е лицо ед. ч., I спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/he.pysaty",
+			"seen": "{\"sentenceGloss\":\"Сейчас он пишет письмо.\",\"note\":\"3-е лицо ед. ч., I спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/my.pysaty",
+			"seen": "{\"sentenceGloss\":\"Сейчас мы пишем диктант.\",\"note\":\"1-е лицо мн. ч., I спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/they.pysaty",
+			"seen": "{\"sentenceGloss\":\"Сейчас они пишут письма.\",\"note\":\"3-е лицо мн. ч., I спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/ya.robyty",
+			"seen": "{\"sentenceGloss\":\"Сейчас я делаю домашнее задание.\",\"note\":\"1-е лицо ед. ч., II спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/ty.robyty",
+			"seen": "{\"sentenceGloss\":\"Что ты сейчас делаешь?\",\"note\":\"2-е лицо ед. ч., II спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/he.robyty",
+			"seen": "{\"sentenceGloss\":\"Что он сейчас делает?\",\"note\":\"3-е лицо ед. ч., II спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/my.robyty",
+			"seen": "{\"sentenceGloss\":\"Сейчас мы делаем ремонт.\",\"note\":\"1-е лицо мн. ч., II спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/vy.robyty",
+			"seen": "{\"sentenceGloss\":\"Что вы сейчас делаете?\",\"note\":\"2-е лицо мн. ч., II спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present-sentences/they.robyty",
+			"seen": "{\"sentenceGloss\":\"Сейчас они делают ремонт.\",\"note\":\"3-е лицо мн. ч., II спряжение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/present",
+			"seen": "{\"title\":\"Настоящее время\",\"summary\":\"Три глагола во всех шести лицах: чита́ти и писа́ти первого спряжения, роби́ти второго.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -5689,6 +7178,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-en/future/ya.chytaty",
+			"seen": "{\"contrast\":\"Russian has only бу́ду чита́ть. This form has no Russian equivalent.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
 			"key": "ru-en/h-or-g/hora",
 			"seen": "{\"contrast\":\"The usual correspondence: Russian г usually matches Ukrainian г, not ґ.\"}",
 			"verdict": "ok"
@@ -5703,6 +7198,30 @@
 			"seen": "{\"contrast\":\"Russian has no vocative: it addresses people in the nominative. In Ukrainian the vocative is alive.\"}",
 			"verdict": "ok",
 			"comment": "True of the case system. Russian keeps fossils (Боже, Господи) and a colloquial neo-vocative (Лен!) (Wikipedia, Vocative case); a flat \"no vocative\" is acceptable at this level."
+		},
+		{
+			"key": "ru-en/past/he.chytaty",
+			"seen": "{\"contrast\":\"Russian ends in -л here: чита́л. Ukrainian ends in -в.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
+			"key": "ru-en/present/he.chytaty",
+			"seen": "{\"contrast\":\"Russian has -т here: чита́ет. Ukrainian has none.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
+			"key": "ru-en/present/he.pysaty",
+			"seen": "{\"contrast\":\"Russian has -т here: пи́шет. Ukrainian has none.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
+			"key": "ru-en/present/they.robyty",
+			"seen": "{\"contrast\":\"Russian keeps л only in the first person: люблю́, but лю́бят. Ukrainian has it here too: лю́блять, ро́блять.\"}",
+			"verdict": "ok",
+			"comment": "люблю́, лю́бят on en.wiktionary любить; лю́блять on Goroh любити; ро́блять on Goroh робити. Marks compared letter by letter."
 		},
 		{
 			"key": "ru-en/pronouns-personal/ty.gen",
@@ -5829,6 +7348,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-ru/future/ya.chytaty",
+			"seen": "{\"contrast\":\"В русском есть только бу́ду чита́ть. У этой формы русского соответствия нет.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
 			"key": "ru-ru/h-or-g/hora",
 			"seen": "{\"contrast\":\"Самое частое соответствие: русскому г обычно отвечает украинское г, а не ґ.\"}",
 			"verdict": "ok"
@@ -5843,6 +7368,30 @@
 			"seen": "{\"contrast\":\"В русском звательного падежа нет: обращаясь, используют именительный. В украинском он живой.\"}",
 			"verdict": "ok",
 			"comment": "True of the case system. Russian keeps fossils (Боже, Господи) and a colloquial neo-vocative (Лен!) (Wikipedia, Vocative case); a flat \"no vocative\" is acceptable at this level."
+		},
+		{
+			"key": "ru-ru/past/he.chytaty",
+			"seen": "{\"contrast\":\"По-русски здесь -л: чита́л. В украинском -в.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
+			"key": "ru-ru/present/he.chytaty",
+			"seen": "{\"contrast\":\"По-русски здесь -т: чита́ет. В украинском его нет.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
+			"key": "ru-ru/present/he.pysaty",
+			"seen": "{\"contrast\":\"По-русски здесь -т: пи́шет. В украинском его нет.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
+			"key": "ru-ru/present/they.robyty",
+			"seen": "{\"contrast\":\"В русском л есть только в 1-м лице: люблю́, но лю́бят. В украинском оно есть и здесь: лю́блять, ро́блять.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
 		},
 		{
 			"key": "ru-ru/pronouns-personal/ty.gen",
@@ -5969,6 +7518,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-uk/future/ya.chytaty",
+			"seen": "{\"contrast\":\"У російській є лише бу́ду чита́ть. Ця форма не має російського відповідника.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
 			"key": "ru-uk/h-or-g/hora",
 			"seen": "{\"contrast\":\"Найчастіша відповідність: російському г зазвичай відповідає українське г, а не ґ.\"}",
 			"verdict": "ok"
@@ -5983,6 +7538,30 @@
 			"seen": "{\"contrast\":\"У російській кличного відмінка немає: звертаються називним. В українській він живий.\"}",
 			"verdict": "ok",
 			"comment": "True of the case system. Russian keeps fossils (Боже, Господи) and a colloquial neo-vocative (Лен!) (Wikipedia, Vocative case); a flat \"no vocative\" is acceptable at this level."
+		},
+		{
+			"key": "ru-uk/past/he.chytaty",
+			"seen": "{\"contrast\":\"Російською тут -л: чита́л. В українській -в.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
+			"key": "ru-uk/present/he.chytaty",
+			"seen": "{\"contrast\":\"Російською тут -т: чита́ет. В українській його немає.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
+			"key": "ru-uk/present/he.pysaty",
+			"seen": "{\"contrast\":\"Російською тут -т: пи́шет. В українській його немає.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
+		},
+		{
+			"key": "ru-uk/present/they.robyty",
+			"seen": "{\"contrast\":\"У російській л є лише в 1-й особі: люблю́, але лю́бят. В українській воно є і тут: лю́блять, ро́блять.\"}",
+			"verdict": "ok",
+			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
 		},
 		{
 			"key": "ru-uk/pronouns-personal/ty.gen",
@@ -6059,6 +7638,16 @@
 		{
 			"key": "uk/lesson/g03",
 			"seen": "\"Відмінки іменників\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/g04",
+			"seen": "\"Теперішній час\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/g05",
+			"seen": "\"Минулий і майбутній час\"",
 			"verdict": "ok"
 		},
 		{
@@ -6145,6 +7734,34 @@
 		{
 			"key": "uk/concept/pronoun-stress",
 			"seen": "{\"title\":\"Наголос після прийменника\",\"body\":\"Після прийменника мене́ і тебе́ мають наголос на першому складі: у ме́не, до те́бе. нас і вас не змінюються.\",\"sources\":[{\"title\":\"ти (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/ти\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/conjugations",
+			"seen": "{\"title\":\"Дві дієвідміни\",\"body\":\"Українські дієслова поділяються на дві дієвідміни. Перша має -еш або -єш у 2-й особі однини та -уть або -ють у 3-й особі множини: пи́шеш, пи́шуть, чита́єш, чита́ють. Друга має -иш або -їш та -ать або -ять: ро́биш, ро́блять.\",\"sources\":[{\"title\":\"Український правопис (2015), §80\",\"url\":\"https://pravopys.net/sections/80/\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "Endings per Правопис 2015 §80.2; https://pravopys.net/sections/80/ opened raw, 200, shows §80. Marks match Goroh писати, читати, робити."
+		},
+		{
+			"key": "uk/concept/third-no-t",
+			"seen": "{\"title\":\"I дієвідміна: без -ть у 3-й особі однини\",\"body\":\"У першій дієвідміні 3-тя особа однини закінчується на голосний: чита́є, пи́ше. У другій дієвідміні -ть: ро́бить.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "Title now true and scoped: Правопис 2015 §80.2 -е (-є) in the first conjugation, -ить (-їть) in the second. Marks match Goroh читати, писати, робити. Wording natural (own knowledge)."
+		},
+		{
+			"key": "uk/concept/labial-l",
+			"seen": "{\"title\":\"л після губного\",\"body\":\"У другій дієвідміні основа на губний має л у 1-й особі однини та в 3-й особі множини: роблю́, ро́блять, але ро́биш і ро́бить.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/past-gender",
+			"seen": "{\"title\":\"Минулий час узгоджується в роді\",\"body\":\"Минулий час узгоджується з підметом у роді й числі та не має особових закінчень: я чита́в або я чита́ла, залежно від того, хто говорить, і ми чита́ли. Чоловічий рід зазвичай закінчується на -в: чита́в. Деякі основи не мають закінчення: ніс, міг.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
+			"verdict": "ok",
+			"comment": "-в usually, none on some stems: Правопис 2015 §80.9; en.wikipedia Ukrainian grammar. Goroh Словозміна, fresh raw fetch: нести ніс, могти міг, читати чита́в, чита́ла, чита́ли."
+		},
+		{
+			"key": "uk/concept/future-two",
+			"seen": "{\"title\":\"Дві форми майбутнього\",\"body\":\"Дієслова недоконаного виду мають дві форми майбутнього з одним значенням: бу́ду чита́ти і чита́тиму. Друга додає до інфінітива -му, -меш, -ме, -мемо, -мете, -муть.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -6564,6 +8181,76 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/future-sentences",
+			"seen": "{\"title\":\"Майбутній час у реченнях\",\"summary\":\"Яка форма дієслова в дужках підходить до пропуску? Під час введення бу́ду чита́ти так само правильно, як чита́тиму.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/ya.chytaty",
+			"seen": "{\"note\":\"Майбутній час, 1-ша особа однини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/my.chytaty",
+			"seen": "{\"note\":\"Майбутній час, 1-ша особа множини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/ty.pysaty",
+			"seen": "{\"note\":\"Майбутній час, 2-га особа однини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/vy.pysaty",
+			"seen": "{\"note\":\"Майбутній час, 2-га особа множини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/he.robyty",
+			"seen": "{\"note\":\"Майбутній час, 3-тя особа однини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/they.robyty",
+			"seen": "{\"note\":\"Майбутній час, 3-тя особа множини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/ya.buty",
+			"seen": "{\"note\":\"Майбутній час, 1-ша особа однини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/ty.buty",
+			"seen": "{\"note\":\"Майбутній час, 2-га особа однини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/he.buty",
+			"seen": "{\"note\":\"Майбутній час, 3-тя особа однини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/my.buty",
+			"seen": "{\"note\":\"Майбутній час, 1-ша особа множини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/vy.buty",
+			"seen": "{\"note\":\"Майбутній час, 2-га особа множини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future-sentences/they.buty",
+			"seen": "{\"note\":\"Майбутній час, 3-тя особа множини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/future",
+			"seen": "{\"title\":\"Майбутній час\",\"summary\":\"Дві форми з одним значенням: бу́ду чита́ти і чита́тиму. Під час введення підходить будь-яка.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\",\"buty\":\"бу́ти\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/h-or-g",
 			"seen": "{\"title\":\"г чи ґ\",\"summary\":\"Слова з пропущеною літерою. На плитці слово з пропуском; знайдіть г чи ґ.\"}",
 			"verdict": "ok"
@@ -6781,8 +8468,163 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/past-sentences",
+			"seen": "{\"title\":\"Минулий час у реченнях\",\"summary\":\"Хто це зробив? Підмет або ім'я співрозмовника підкаже рід.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/he.chytaty",
+			"seen": "{\"note\":\"Минулий час: чоловічий рід, однина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/she.chytaty",
+			"seen": "{\"note\":\"Минулий час: жіночий рід, однина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/they.chytaty",
+			"seen": "{\"note\":\"Минулий час: множина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/he.pysaty",
+			"seen": "{\"note\":\"Минулий час: чоловічий рід, однина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/she.pysaty",
+			"seen": "{\"note\":\"Минулий час: жіночий рід, однина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/they.pysaty",
+			"seen": "{\"note\":\"Минулий час: множина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/he.robyty",
+			"seen": "{\"note\":\"Минулий час: чоловічий рід, однина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/she.robyty",
+			"seen": "{\"note\":\"Минулий час: жіночий рід, однина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/they.robyty",
+			"seen": "{\"note\":\"Минулий час: множина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/he.buty",
+			"seen": "{\"note\":\"Минулий час: чоловічий рід, однина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/she.buty",
+			"seen": "{\"note\":\"Минулий час: жіночий рід, однина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/it.buty",
+			"seen": "{\"note\":\"Минулий час: середній рід, однина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past-sentences/they.buty",
+			"seen": "{\"note\":\"Минулий час: множина.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/past",
+			"seen": "{\"title\":\"Минулий час\",\"summary\":\"Минулий час узгоджується з підметом у роді й числі та не має особових закінчень.\",\"headers\":{\"he\":\"він\",\"she\":\"вона\",\"it\":\"воно\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\",\"buty\":\"бу́ти\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/pl-letters",
 			"seen": "{\"title\":\"Від польського написання\",\"summary\":\"Читання кирилиці, виходячи з польської. На плитці найближче польське написання; знайдіть українську літеру.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences",
+			"seen": "{\"title\":\"Теперішній час у реченнях\",\"summary\":\"Яка форма дієслова в дужках підходить до пропуску? Підмет підкаже особу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/ya.chytaty",
+			"seen": "{\"note\":\"1-ша особа однини, I дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/ty.chytaty",
+			"seen": "{\"note\":\"2-га особа однини, I дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/he.chytaty",
+			"seen": "{\"note\":\"3-тя особа однини, I дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/vy.chytaty",
+			"seen": "{\"note\":\"2-га особа множини, I дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/ya.pysaty",
+			"seen": "{\"note\":\"1-ша особа однини, I дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/he.pysaty",
+			"seen": "{\"note\":\"3-тя особа однини, I дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/my.pysaty",
+			"seen": "{\"note\":\"1-ша особа множини, I дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/they.pysaty",
+			"seen": "{\"note\":\"3-тя особа множини, I дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/ya.robyty",
+			"seen": "{\"note\":\"1-ша особа однини, II дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/ty.robyty",
+			"seen": "{\"note\":\"2-га особа однини, II дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/he.robyty",
+			"seen": "{\"note\":\"3-тя особа однини, II дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/my.robyty",
+			"seen": "{\"note\":\"1-ша особа множини, II дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/vy.robyty",
+			"seen": "{\"note\":\"2-га особа множини, II дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present-sentences/they.robyty",
+			"seen": "{\"note\":\"3-тя особа множини, II дієвідміна.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/present",
+			"seen": "{\"title\":\"Теперішній час\",\"summary\":\"Три дієслова в усіх шести особах: чита́ти і писа́ти першої дієвідміни, роби́ти другої.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"chytaty\":\"чита́ти\",\"pysaty\":\"писа́ти\",\"robyty\":\"роби́ти\"}}",
 			"verdict": "ok"
 		},
 		{

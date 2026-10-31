@@ -1,0 +1,124 @@
+{
+	"id": "future-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 12
+	},
+	"cells": [
+		{
+			"id": "ya.chytaty",
+			"item": "sentence:future:ya.chytaty",
+			"text": "читатиму",
+			"display": "чита́тиму",
+			"sentence": "За́втра я ___ кни́гу (чита́ти).",
+			"alsoAccepted": ["буду читати"]
+		},
+		{
+			"id": "my.chytaty",
+			"item": "sentence:future:my.chytaty",
+			"text": "читатимемо",
+			"display": "чита́тимемо",
+			"sentence": "За́втра ми ___ газе́ту (чита́ти).",
+			"alsoAccepted": ["будемо читати", "будем читати", "читатимем"]
+		},
+		{
+			"id": "ty.pysaty",
+			"item": "sentence:future:ty.pysaty",
+			"text": "писатимеш",
+			"display": "писа́тимеш",
+			"sentence": "За́втра ти ___ лист (писа́ти).",
+			"alsoAccepted": ["будеш писати"]
+		},
+		{
+			"id": "vy.pysaty",
+			"item": "sentence:future:vy.pysaty",
+			"text": "писатимете",
+			"display": "писа́тимете",
+			"sentence": "За́втра ви ___ лист (писа́ти).",
+			"alsoAccepted": ["будете писати"]
+		},
+		{
+			"id": "he.robyty",
+			"item": "sentence:future:he.robyty",
+			"text": "робитиме",
+			"display": "роби́тиме",
+			"sentence": "За́втра вона́ ___ ремо́нт (роби́ти).",
+			"alsoAccepted": ["буде робити"]
+		},
+		{
+			"id": "they.robyty",
+			"item": "sentence:future:they.robyty",
+			"text": "робитимуть",
+			"display": "роби́тимуть",
+			"sentence": "За́втра вони́ ___ ремо́нт (роби́ти).",
+			"alsoAccepted": ["будуть робити"]
+		},
+		{
+			"id": "ya.buty",
+			"item": "sentence:future:ya.buty",
+			"text": "буду",
+			"display": "бу́ду",
+			"sentence": "За́втра я ___ чита́ти кни́гу (бу́ти)."
+		},
+		{
+			"id": "ty.buty",
+			"item": "sentence:future:ty.buty",
+			"text": "будеш",
+			"display": "бу́деш",
+			"sentence": "За́втра ти ___ писа́ти лист (бу́ти)."
+		},
+		{
+			"id": "he.buty",
+			"item": "sentence:future:he.buty",
+			"text": "буде",
+			"display": "бу́де",
+			"sentence": "За́втра він ___ вдо́ма (бу́ти)."
+		},
+		{
+			"id": "my.buty",
+			"item": "sentence:future:my.buty",
+			"text": "будемо",
+			"display": "бу́демо",
+			"sentence": "За́втра ми ___ там (бу́ти).",
+			"alsoAccepted": ["будем"]
+		},
+		{
+			"id": "vy.buty",
+			"item": "sentence:future:vy.buty",
+			"text": "будете",
+			"display": "бу́дете",
+			"sentence": "За́втра ви ___ вдо́ма (бу́ти)."
+		},
+		{
+			"id": "they.buty",
+			"item": "sentence:future:they.buty",
+			"text": "будуть",
+			"display": "бу́дуть",
+			"sentence": "За́втра вони́ ___ удо́ма (бу́ти)."
+		}
+	],
+	"sources": [
+		{
+			"title": "читати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/читати"
+		},
+		{
+			"title": "писати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/писати"
+		},
+		{
+			"title": "робити (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/робити"
+		},
+		{
+			"title": "бути (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/бути"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}
