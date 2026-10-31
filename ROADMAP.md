@@ -9,9 +9,11 @@ v1.0.0. Audience size is not a goal.
 **[v0.2.0](https://github.com/diegoami/LangClick2027/releases/tag/v0.2.0) is released.**
 It covers eMova lessons 1–3 as a whole, compared with Russian or Polish.
 
-**v0.3.0, grammar sections, is in progress** ([proposal #13](https://github.com/diegoami/LangClick2027/issues/13),
-agreed). Separate downloads follow in v0.4.0 ([proposal #6](https://github.com/diegoami/LangClick2027/issues/6)),
-so that sections and the sentence layout land before the pack format has outside users.
+**v0.3.0 is built and goes to its milestone review** ([proposal #13](https://github.com/diegoami/LangClick2027/issues/13),
+[proposal #21](https://github.com/diegoami/LangClick2027/issues/21)): lesson sections, grammar as tables and
+sentences, and typing the answer. Speech gets a test of its own, once the owner decides whether
+voice may leave the device. Separate downloads follow in v0.4.0
+([proposal #6](https://github.com/diegoami/LangClick2027/issues/6)).
 
 ## Milestones
 
