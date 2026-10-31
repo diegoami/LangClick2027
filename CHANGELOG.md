@@ -2,6 +2,14 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
+## Unreleased
+
+For players:
+
+- The Vakulenko source on the alphabet's Overview now opens the right paper.
+
+Also: code is now MIT and packs are CC BY-SA 4.0; the pack validator rejects a stress mark in a cell's `text`; the check that keeps engine code language-neutral is stricter.
+
 ## v0.1.0 — 2026-10-31 — A Ukrainian pack on a board you fill in
 
 **The first release: three Ukrainian units on a board you fill in, to find out whether a table of cells can do the job of Geoclick's map.**
