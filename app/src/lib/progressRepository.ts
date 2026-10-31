@@ -8,8 +8,8 @@
 import type { CardState as SchedulerState } from '@langclick/srs';
 
 /** What a card measures. Recognising a form and producing it are different
- * knowledge, so an item has one card per skill. Only `recognise` is written until
- * typed answers arrive (v0.6.0); having it in the key now needs no migration then. */
+ * knowledge, so an item has one card per skill: the tray writes `recognise`, and
+ * typing writes `produce`. */
 export type Skill = 'recognise' | 'produce';
 
 export interface Card extends SchedulerState {

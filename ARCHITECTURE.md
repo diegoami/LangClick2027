@@ -46,6 +46,8 @@ in through a snippet:
 - `OverviewView` shows every answer, and the unit's sources.
 - `KnownView` shows only what `progress.svelte.ts` says has been earned, more
   strongly at each level.
+- `TypeView` asks one cell at a time for a typed answer, on units that set `typing`, and
+  writes `produce` cards. `attemptTyped` in `packages/quiz-engine` decides what an answer means.
 - `QuizView` shows answers as they resolve, and owns the tray and the pointer. The
   tray groups identical slips with a count. A unit with `compareDisplay` compares the
   marked form, and one with `dealAll` always offers every slip.

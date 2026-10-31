@@ -74,6 +74,61 @@ export function attemptMatch(
 	};
 }
 
+/**
+ * A form as it is compared when typed. Stress marks, capitals, the spelling of the
+ * apostrophe and stray spaces don't count. Nothing else is forgiven: in grammar, one
+ * letter is the answer. `marks` are the pack's display marks.
+ */
+export function typedForm(text: string, marks = ''): string {
+	const bare = [...text.normalize('NFD')].filter((char) => !marks.includes(char)).join('');
+	return bare
+		.normalize('NFC')
+		.toLowerCase()
+		.replace(/[\u2019\u02BC\u0060\u00B4]/g, "'")
+		.replace(/\s+/g, ' ')
+		.trim();
+}
+
+/** What typing an answer did. An empty answer changes nothing. */
+export type TypedOutcome =
+	| { kind: 'ignored' }
+	/** `other`: right, but not the form this board shows. */
+	| { kind: 'correct'; cellId: string; other: boolean }
+	| { kind: 'revealed'; cellId: string };
+
+/**
+ * One typed answer for the cell `cellId`. As with a drop, it is the one attempt: a
+ * wrong answer reveals the cell. `also` lists other forms that are equally right.
+ */
+export function attemptTyped(
+	session: QuizSession,
+	cellId: string,
+	typed: string,
+	options: { also?: readonly string[]; marks?: string } = {}
+): { session: QuizSession; outcome: TypedOutcome } {
+	const { also = [], marks = '' } = options;
+	const item = session.items.find((candidate) => candidate.cell.id === cellId);
+	const answer = typedForm(typed, marks);
+	if (!item || item.status !== 'pending' || answer === '') {
+		return { session, outcome: { kind: 'ignored' } };
+	}
+	const exact = answer === typedForm(item.cell.text, marks);
+	if (exact || also.some((form) => answer === typedForm(form, marks))) {
+		return {
+			session: replaceItem(session, cellId, { ...item, status: 'correct' }),
+			outcome: { kind: 'correct', cellId, other: !exact }
+		};
+	}
+	return {
+		session: replaceItem(session, cellId, {
+			...item,
+			status: 'revealed',
+			errors: item.errors + 1
+		}),
+		outcome: { kind: 'revealed', cellId }
+	};
+}
+
 function replaceItem(session: QuizSession, id: string, next: QuizItemState): QuizSession {
 	return { items: session.items.map((item) => (item.cell.id === id ? next : item)) };
 }

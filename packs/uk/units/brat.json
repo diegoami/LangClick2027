@@ -1,5 +1,6 @@
 {
 	"id": "brat",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "table",
@@ -57,7 +58,8 @@
 			},
 			"concepts": ["dative-ovi"],
 			"row": "dat",
-			"col": "sg"
+			"col": "sg",
+			"alsoAccepted": ["брату"]
 		},
 		{
 			"id": "acc.sg",
@@ -110,7 +112,8 @@
 			},
 			"concepts": ["dative-ovi"],
 			"row": "loc",
-			"col": "sg"
+			"col": "sg",
+			"alsoAccepted": ["браті", "брату"]
 		},
 		{
 			"id": "voc.sg",

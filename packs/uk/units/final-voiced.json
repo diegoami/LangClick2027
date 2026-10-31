@@ -1,5 +1,6 @@
 {
 	"id": "final-voiced",
+	"typing": true,
 	"layout": {
 		"type": "grid",
 		"size": 8

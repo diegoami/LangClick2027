@@ -1,5 +1,6 @@
 {
 	"id": "pronouns-third",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "table",
@@ -108,7 +109,8 @@
 			},
 			"concepts": ["pronoun-n"],
 			"row": "he",
-			"col": "loc"
+			"col": "loc",
+			"alsoAccepted": ["нім"]
 		},
 		{
 			"id": "she.gen",

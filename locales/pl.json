@@ -51,5 +51,16 @@
 	"review.next": "Następna plansza",
 	"review.finish": "Zakończ",
 	"review.done": "Na dziś wszystko.",
-	"review.remaining": "Pozostało plansz: {count}"
+	"review.remaining": "Pozostało plansz: {count}",
+	"unit.type": "Pisanie",
+	"count.typed": "wpisane: {known} z {total}",
+	"type.hint": "Wpisz formę i naciśnij Enter. Akcent i wielkie litery się nie liczą. Zostało: {count}.",
+	"type.check": "Sprawdź",
+	"type.answer": "Twoja odpowiedź",
+	"type.wrong": "Wpisano {typed}. Poprawnie:",
+	"type.alsoRight": "Też poprawnie. Ta tablica pokazuje:",
+	"type.typedNow": "Wpisane teraz: {known} z {total}.",
+	"type.keyboard": "Klawiatura",
+	"type.backspace": "Usuń",
+	"note.alsoAccepted": "Też poprawnie"
 }

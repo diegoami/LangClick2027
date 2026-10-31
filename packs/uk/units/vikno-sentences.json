@@ -1,9 +1,10 @@
 {
 	"id": "vikno-sentences",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "sentences",
-		"size": 10
+		"size": 11
 	},
 	"cells": [
 		{
@@ -33,6 +34,13 @@
 			"text": "вікном",
 			"display": "вікно́м",
 			"sentence": "За цим ___ сад."
+		},
+		{
+			"id": "loc.sg",
+			"item": "sentence:vikno:loc.sg",
+			"text": "вікні",
+			"display": "вікні́",
+			"sentence": "На моє́му ___ нема́є штор."
 		},
 		{
 			"id": "nom.pl",

@@ -34,6 +34,12 @@
 		</p>
 	{/if}
 	{#if cell.note}<p>{cell.note}</p>{/if}
+	{#if cell.alsoAccepted?.length}
+		<p>
+			{t('note.alsoAccepted')}:
+			<span {lang}>{cell.alsoAccepted.join(', ')}</span>
+		</p>
+	{/if}
 	{#if cell.contrast}<p class="contrast">{cell.contrast}</p>{/if}
 	{#if cell.falseFriend}
 		<p class="false-friend">

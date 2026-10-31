@@ -15,7 +15,8 @@
 			"clue": "boy"
 		},
 		"divchyna": {
-			"clue": "girl"
+			"clue": "girl",
+			"note": "дівчинка is a child, дівчина a young woman."
 		},
 		"dytyna": {
 			"clue": "child"

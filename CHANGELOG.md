@@ -9,6 +9,7 @@ For players:
 - Lessons are grouped under Sounds, Grammar and Themes.
 - A new kind of exercise: complete a sentence by choosing the form that fits its gap, starting with кімната.
 - The tray stays at ten slips however well you know a unit, since new material is what moves you forward.
+- A new Type tab: produce each answer instead of choosing it, with an on-screen keyboard if yours can't type Ukrainian. What you can type is tracked apart from what you recognise, and Review asks each the way you learned it.
 - Grammar gains personal pronouns, including their forms after a preposition, the vocative, and the nouns брат and вікно, each as a table and in sentences. From Russian, тебе́ is marked as a false friend.
 
 Also: a cell's recorded checks now cover its `item` and `concepts`, and the check that keeps engine code language-neutral covers more languages and every non-Latin script.

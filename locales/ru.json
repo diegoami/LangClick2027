@@ -51,5 +51,16 @@
 	"review.next": "Следующая таблица",
 	"review.finish": "Завершить",
 	"review.done": "На сегодня всё.",
-	"review.remaining": "Осталось таблиц: {count}"
+	"review.remaining": "Осталось таблиц: {count}",
+	"unit.type": "Ввод",
+	"count.typed": "введено: {known} из {total}",
+	"type.hint": "Введите форму и нажмите Enter. Ударение и заглавные буквы не учитываются. Осталось: {count}.",
+	"type.check": "Проверить",
+	"type.answer": "Ваш ответ",
+	"type.wrong": "Вы ввели {typed}. Правильно:",
+	"type.alsoRight": "Тоже правильно. На этой доске:",
+	"type.typedNow": "Введено сейчас: {known} из {total}.",
+	"type.keyboard": "Клавиатура",
+	"type.backspace": "Удалить",
+	"note.alsoAccepted": "Тоже правильно"
 }

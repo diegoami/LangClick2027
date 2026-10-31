@@ -51,5 +51,16 @@
 	"review.next": "Next board",
 	"review.finish": "Finish",
 	"review.done": "All done for today.",
-	"review.remaining": "Boards left: {count}"
+	"review.remaining": "Boards left: {count}",
+	"unit.type": "Type",
+	"count.typed": "typed: {known} of {total}",
+	"type.hint": "Type the form and press Enter. Stress marks and capitals don't count. Left: {count}.",
+	"type.check": "Check",
+	"type.answer": "Your answer",
+	"type.wrong": "You typed {typed}. It is:",
+	"type.alsoRight": "Also right. This board shows:",
+	"type.typedNow": "Typed now: {known} of {total}.",
+	"type.keyboard": "Keyboard",
+	"type.backspace": "Delete",
+	"note.alsoAccepted": "Also right"
 }

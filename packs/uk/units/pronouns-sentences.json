@@ -1,5 +1,6 @@
 {
 	"id": "pronouns-sentences",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "sentences",

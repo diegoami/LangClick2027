@@ -3,7 +3,7 @@
 	import LanguagePicker from '$lib/LanguagePicker.svelte';
 	import { explanationLanguage, languageName, languagesChosen, t } from '$lib/language.svelte';
 	import type { LocalLesson } from '$lib/packs';
-	import { dueCells, isStudied, unitKnown } from '$lib/progress.svelte';
+	import { dueCount, isStudied, unitKnown } from '$lib/progress.svelte';
 
 	let { data } = $props();
 
@@ -18,7 +18,7 @@
 	}
 
 	function due(packId: string, lesson: LocalLesson) {
-		return lesson.units.reduce((sum, unit) => sum + dueCells(packId, unit).length, 0);
+		return lesson.units.reduce((sum, unit) => sum + dueCount(packId, unit), 0);
 	}
 </script>
 

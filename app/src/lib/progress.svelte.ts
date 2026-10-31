@@ -13,9 +13,9 @@ import {
 	type Skill
 } from './progressRepository';
 
-const SKILL: Skill = 'recognise';
-
 type ItemRef = Pick<Cell, 'item'>;
+
+const cardKey = (itemId: string, skill: Skill) => `${skill}:${itemId}`;
 
 let repository: ProgressRepository = new LocalStorageProgressRepository();
 let cardsByPack = $state<Record<string, Record<string, Card>>>({});
@@ -29,47 +29,66 @@ export async function loadProgress(packId: string): Promise<void> {
 		repository.getStudied(packId)
 	]);
 	cardsByPack[packId] = Object.fromEntries(
-		cards.filter((card) => card.skill === SKILL).map((card) => [card.itemId, card])
+		cards.map((card) => [cardKey(card.itemId, card.skill), card])
 	);
 	studiedByPack[packId] = studied;
 }
 
 /** The earned level of one item, 0 if it has never been answered. */
-export function levelOf(packId: string, cell: ItemRef): number {
-	return cardsByPack[packId]?.[cell.item]?.cleanStreak ?? 0;
+export function levelOf(packId: string, cell: ItemRef, skill: Skill = 'recognise'): number {
+	return cardsByPack[packId]?.[cardKey(cell.item, skill)]?.cleanStreak ?? 0;
 }
 
-export function unitLevels(packId: string, unit: LocalUnit): number[] {
-	return unit.cells.map((cell) => levelOf(packId, cell));
+export function unitLevels(packId: string, unit: LocalUnit, skill: Skill = 'recognise'): number[] {
+	return unit.cells.map((cell) => levelOf(packId, cell, skill));
 }
 
-export function unitKnown(packId: string, unit: LocalUnit): number {
-	return knownCount(unitLevels(packId, unit));
+export function unitKnown(packId: string, unit: LocalUnit, skill: Skill = 'recognise'): number {
+	return knownCount(unitLevels(packId, unit, skill));
 }
 
 /** Whether the player has answered anything in this unit yet. */
 export function unitStarted(packId: string, unit: LocalUnit): boolean {
-	return unit.cells.some((cell) => cardsByPack[packId]?.[cell.item] !== undefined);
+	return unit.cells.some((cell) => cardsByPack[packId]?.[cardKey(cell.item, 'recognise')]);
 }
 
 /** What is due for review in this unit. An item never answered isn't due: it's new,
  * and belongs to the quiz. */
-export function dueCells(packId: string, unit: LocalUnit, today = todayLocalDate()) {
+export function dueCells(
+	packId: string,
+	unit: LocalUnit,
+	today = todayLocalDate(),
+	skill: Skill = 'recognise'
+) {
 	return unit.cells.filter((cell) => {
-		const card = cardsByPack[packId]?.[cell.item];
+		const card = cardsByPack[packId]?.[cardKey(cell.item, skill)];
 		return card !== undefined && isDue(card, today);
 	});
 }
 
+/** How much is due in this unit, in every skill. */
+export function dueCount(packId: string, unit: LocalUnit, today = todayLocalDate()): number {
+	return (
+		dueCells(packId, unit, today, 'recognise').length +
+		dueCells(packId, unit, today, 'produce').length
+	);
+}
+
 /** Records one answer, in memory at once and then on disk. */
-export async function recordAnswer(packId: string, cell: ItemRef, grade: Grade): Promise<void> {
-	const previous = cardsByPack[packId]?.[cell.item];
+export async function recordAnswer(
+	packId: string,
+	cell: ItemRef,
+	grade: Grade,
+	skill: Skill = 'recognise'
+): Promise<void> {
+	const key = cardKey(cell.item, skill);
+	const previous = cardsByPack[packId]?.[key];
 	const card: Card = {
 		...rate(previous, grade, todayLocalDate()),
 		itemId: cell.item,
-		skill: SKILL
+		skill
 	};
-	cardsByPack[packId] = { ...cardsByPack[packId], [cell.item]: card };
+	cardsByPack[packId] = { ...cardsByPack[packId], [key]: card };
 	await repository.saveCard(packId, card);
 }
 
