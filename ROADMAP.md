@@ -1,26 +1,27 @@
 # Langclick — Roadmap
 
-The first languages are the ones the owner cares about: Ukrainian, Swedish and
-Japanese, in that order. Audience size is not a goal.
+Ukrainian comes first, as a companion to the source material: study eMova's course,
+then practise and repeat here, which eMova doesn't offer. Other languages follow
+v1.0.0. Audience size is not a goal.
 
 ## Status
 
-**v0.1.0 in progress** ([proposal #1](https://github.com/diegoami/LangClick2027/issues/1)).
+**v0.1.0 in release prep** ([proposal #1](https://github.com/diegoami/LangClick2027/issues/1)).
 The question it answers: does a table or grid of cells work as the map?
+
+**v0.2.0 agreed** ([proposal #3](https://github.com/diegoami/LangClick2027/issues/3)),
+to start once v0.1.0 is tagged.
 
 ## Milestones
 
 | Milestone | Delivers |
 |---|---|
 | v0.1.0 | Ukrainian, 3 units (alphabet, one noun case table, one vocabulary set), with Overview, Known, drag quiz and saved progress |
-| v0.2.0 | Multiple choice, typed fill-ins with an on-screen letter bank, Tour |
-| v0.3.0 | First video through `ai-player`: one AI lesson and one play-through by the owner |
-| v0.4.0 | Ordered course, review across units, Windows and Android builds |
-| v0.5.0 | Swedish pack with no engine changes, which proves packs are pluggable |
-| v0.6.0 | Native audio per item |
-| v0.7.0 | Japanese kana, with fonts and romaji-to-kana input |
-| v0.8+ | Ukrainian and Swedish A1 filled out, unit by unit, then Japanese beyond kana |
-| v1.0.0 | Ukrainian A1, Swedish A1, Japanese kana and first units |
-| After 1.0 | Polish first, since it can reuse Ukrainian's table structure; then Finnish, French and Spanish, with Chinese last |
+| v0.2.0 | Study links and tracking, a Review screen; comparison with Russian or Polish, concepts, IPA, cognates; a phonetics module covering eMova lessons 1–3 |
+| v0.3.0 | Native audio, guided lessons (Tour), first video through `ai-player` |
+| v0.4.0 | Correspondence boards, false friends, multiple choice and typed answers, Windows and Android builds |
+| v0.5+ | eMova lessons 4–27 in batches, tracked by a coverage ledger |
+| v1.0.0 | The whole 27-lesson course covered, compared with Russian and with Polish |
+| Afterwards | eMova's B1 course, then other languages: Swedish, Japanese and more |
 
 A later milestone gets its scope settled in its own proposal.

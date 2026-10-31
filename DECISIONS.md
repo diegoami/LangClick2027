@@ -62,8 +62,25 @@ packs take that licence from the start. Audio licences vary by contributor and h
 to be checked separately when audio arrives. The code licence is still undecided
 and doesn't block anything yet.
 
-## Letters are asked for by sound, with the example word held back (2026-10-31)
+## Letters are asked for by sound, with the example word held back (2026-10-31, #3)
 
-There is no audio until v0.6.0, so an alphabet tile gives a Latin spelling and an
-English comparison. Its example word is a `note`, shown only with the answer,
-because a word written in the alphabet being learned would give the letter away.
+There is no audio yet, so an alphabet tile gives the sound in IPA with the nearest
+English comparison. The first version used comparisons alone, and "г: h, as in hat"
+was wrong: Vakulenko (2025) finds English h closer to х. Both content checks passed
+it, so checkers are now given phonetic sources to test against. The example word is
+a `note`, shown only with the answer, because a word written in the alphabet being
+learned would give the letter away.
+
+## Langclick supplements its source material (2026-10-31, #3)
+
+eMova teaches, and has graded tests, but offers no item-by-item tracking or scheduled
+repetition. Langclick adds those: study the source first, then exercises, then
+repetition. It links to eMova and doesn't copy its text, which has no open licence.
+
+## One path, with different explanations (2026-10-31, #3)
+
+A Russian and a Polish speaker need different explanations, including different
+kinds of false friends, but they are learning the same language. So there is one
+course and one record of progress, and the comparison changes what is explained.
+Comparing with and explaining in are separate settings, since a learner may read
+English while comparing with Polish.
