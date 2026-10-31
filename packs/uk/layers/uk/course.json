@@ -8,12 +8,18 @@
 		},
 		"l14": {
 			"title": "Урок 14: Мій дім"
+		},
+		"l02": {
+			"title": "Урок 2: Вимова голосних"
+		},
+		"l03": {
+			"title": "Урок 3: Вимова приголосних"
 		}
 	},
 	"concepts": {
 		"h-sound": {
 			"title": "Звук г",
-			"body": "Дзвінкий щілинний приголосний, пара до глухого х. Фонетисти описують його по-різному: /ɦ/, гортанний, в опублікованій ілюстрації МФА (Pompino-Marschall et al. 2017); [ʕ] перед а, о, у, и, е, [ɣʲ] у м'якій позиції та [ɣ] перед дзвінкими приголосними й у кінці слова у Вакуленка (2025), який не знаходить переконливих підтверджень гортанного [ɦ]. Вибуховий /ɡ/ позначає окрема літера ґ.",
+			"body": "Дзвінкий щілинний приголосний, пара до глухого х. Фонетисти описують його по-різному: /ɦ/, гортанний, в опублікованій ілюстрації МФА (Pompino-Marschall et al. 2017); [ʕ] перед а, о, у, и, е, [ɣʲ] у м'якій позиції та [ɣ] перед дзвінкими приголосними й у кінці слова у Вакуленка (2025), який не знаходить переконливих підтверджень гортанного [ɦ]. Проривний /ɡ/ позначає окрема літера ґ.",
 			"sources": [
 				{
 					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
@@ -74,6 +80,86 @@
 				{
 					"title": "кімната (English Wiktionary)",
 					"url": "https://en.wiktionary.org/wiki/кімната"
+				}
+			]
+		},
+		"soft-hard": {
+			"title": "М'які, напівм'які й тверді",
+			"body": "Справжнє протиставлення простих і палаталізованих фонем є лише в зубних і ясенних /t d n s z t͡s d͡z r l/, як у лад і ладь, рис і рись. Решта приголосних стають напівм'якими лише як варіант перед /i/ та /j/. Прості приголосні веляризовані, тому л зазвичай твердий [ɫ]. Перед е та и приголосний залишається твердим.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Feldstein, An Approach to Ukrainian Reading for Russian Students",
+					"url": "https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf"
+				}
+			]
+		},
+		"final-voicing": {
+			"title": "Немає оглушення в кінці",
+			"body": "На відміну від російської та більшості інших сучасних слов'янських мов, українська зберігає дзвінкий приголосний у кінці слова: віз закінчується на [z], а ваз відрізняється від вас. Уподібнення діє переважно в один бік: глухий стає дзвінким перед дзвінким, як в о́тже [ˈɔd͡ʒɛ], але дзвінкий не оглушується перед глухим. Виняток — г, який перед к і т стає [x], як у легки́й і ні́гті. У швидкому мовленні кінцевий дзвінкий може частково оглушуватися.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Feldstein, An Approach to Ukrainian Reading for Russian Students",
+					"url": "https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf"
+				}
+			]
+		},
+		"free-stress": {
+			"title": "Вільний, рухомий наголос",
+			"body": "Наголос може падати на будь-який склад, розрізняти слова, як доро́га й дорога́, і пересуватися у формах одного слова: роби́ти, роблю́, ро́биш. На письмі його зазвичай не позначають, тому його вчать із кожним словом.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				}
+			]
+		},
+		"apostrophe": {
+			"title": "Апостроф",
+			"body": "Стоїть перед я, ю, є, ї, переважно після б, п, в, м, ф, р і після префікса на приголосний, коли приголосний залишається твердим, а [j] вимовляється: м'яч, п'ю, подвір'я, в'їзд. Без нього я, ю, є пом'якшують приголосний: ряд, люк.",
+			"sources": [
+				{
+					"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				},
+				{
+					"title": "Ukrainian alphabet (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_alphabet"
+				}
+			]
+		},
+		"one-sound-two-letters": {
+			"title": "Дві літери, один звук",
+			"body": "дж і дз пишуться двома літерами, але це цілісні африкати, /d͡ʒ/ і /d͡z/: джерело, дзвін. Окремих літер в алфавіті вони не мають.",
+			"sources": [
+				{
+					"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				},
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				}
+			]
+		},
+		"iotated": {
+			"title": "я, ю, є, ї",
+			"body": "На початку слова й після голосного кожна з них — це [j] і голосний: я́блуко, моя́. Після приголосного я, ю, є пом'якшують його: ряд, люк. ї завжди позначає два звуки.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
 				}
 			]
 		}

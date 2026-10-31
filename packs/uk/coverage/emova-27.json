@@ -1,0 +1,142 @@
+{
+	"course": "Є-мова, Українська за 27 уроків",
+	"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/",
+	"note": "Titles and our mapping only: none of the course's text.",
+	"lessons": [
+		{
+			"number": 1,
+			"title": "Алфавіт. Відмінності звуків",
+			"units": ["alphabet", "letter-names", "ru-letters", "pl-letters"]
+		},
+		{
+			"number": 2,
+			"title": "Вимова голосних звуків",
+			"units": ["vowel-chart", "i-or-y", "unstressed-o", "stress-pairs"]
+		},
+		{
+			"number": 3,
+			"title": "Вимова приголосних звуків",
+			"units": ["consonant-chart", "h-or-g", "final-voiced", "hard-labials"]
+		},
+		{
+			"number": 4,
+			"title": "Знайомство, або Як тебе звати",
+			"units": []
+		},
+		{
+			"number": 5,
+			"title": "Привітання. Звертання. Етикетні формули",
+			"units": []
+		},
+		{
+			"number": 6,
+			"title": "Час і період. Місяці",
+			"units": []
+		},
+		{
+			"number": 7,
+			"title": "Будні та вихідні",
+			"units": []
+		},
+		{
+			"number": 8,
+			"title": "Погода",
+			"units": []
+		},
+		{
+			"number": 9,
+			"title": "Моя сім'я",
+			"units": ["family"]
+		},
+		{
+			"number": 10,
+			"title": "Моя професія",
+			"units": []
+		},
+		{
+			"number": 11,
+			"title": "Назви частин тіла",
+			"units": []
+		},
+		{
+			"number": 12,
+			"title": "Вигляд. Зовнішність",
+			"units": []
+		},
+		{
+			"number": 13,
+			"title": "Одяг і розмір",
+			"units": []
+		},
+		{
+			"number": 14,
+			"title": "Мій дім",
+			"units": ["kimnata"]
+		},
+		{
+			"number": 15,
+			"title": "Супермаркет. Продукти",
+			"units": []
+		},
+		{
+			"number": 16,
+			"title": "Страви і кухня",
+			"units": []
+		},
+		{
+			"number": 17,
+			"title": "Ресторан і гроші",
+			"units": []
+		},
+		{
+			"number": 18,
+			"title": "Транспорт",
+			"units": []
+		},
+		{
+			"number": 19,
+			"title": "Орієнтація в місті. Будівлі",
+			"units": []
+		},
+		{
+			"number": 20,
+			"title": "Подорожі. Міста України",
+			"units": []
+		},
+		{
+			"number": 21,
+			"title": "Характер і прикметники",
+			"units": []
+		},
+		{
+			"number": 22,
+			"title": "Хобі і дозвілля",
+			"units": []
+		},
+		{
+			"number": 23,
+			"title": "Послуги (пошта, банк, бібліотека)",
+			"units": []
+		},
+		{
+			"number": 24,
+			"title": "Самопочуття",
+			"units": []
+		},
+		{
+			"number": 25,
+			"title": "Державні та релігійні свята",
+			"units": []
+		},
+		{
+			"number": 26,
+			"title": "Природа України",
+			"units": []
+		},
+		{
+			"number": 27,
+			"title": "Усе про навчання",
+			"units": []
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"title": "Sześć samogłosek",
+	"summary": "Fonemy samogłoskowe według położenia języka, jak w tabeli IPA. Pole podaje dźwięk; znajdź jego literę.",
+	"headers": {
+		"close": "Przymknięta",
+		"near": "Prawie przymknięta",
+		"mid": "Półotwarta",
+		"open": "Otwarta",
+		"front": "Przednia",
+		"back": "Tylna"
+	},
+	"cells": {
+		"a": {
+			"note": "Zapisywane /a/, jak w ilustracji IPA. Opisy ukraińskie zaliczają je do szeregu tylnego, a Wakulenko (2025) zapisuje samogłoskę akcentowaną jako [ɑ]."
+		}
+	}
+}

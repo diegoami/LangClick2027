@@ -1,0 +1,21 @@
+{
+	"title": "Hard labials",
+	"summary": "Where Russian ends in a soft labial, Ukrainian ends in a hard one, and has no soft sign. Each tile gives the Russian word; find the Ukrainian.",
+	"cells": {
+		"lyubov": {
+			"note": "love"
+		},
+		"step": {
+			"note": "steppe"
+		},
+		"holub": {
+			"note": "pigeon"
+		},
+		"krov": {
+			"note": "blood"
+		},
+		"sim": {
+			"note": "seven"
+		}
+	}
+}

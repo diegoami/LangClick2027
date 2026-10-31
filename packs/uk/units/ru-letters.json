@@ -1,0 +1,75 @@
+{
+	"id": "ru-letters",
+	"compareWith": ["ru"],
+	"layout": {
+		"type": "grid",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+		},
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		},
+		{
+			"title": "Ukrainian alphabet (Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Ukrainian_alphabet"
+		}
+	],
+	"cells": [
+		{
+			"id": "i",
+			"item": "ru-letter:i",
+			"text": "і",
+			"ipa": "/i/",
+			"clue": "рус. и"
+		},
+		{
+			"id": "y",
+			"item": "ru-letter:y",
+			"text": "и",
+			"ipa": "/ɪ/",
+			"clue": "≈ рус. ы",
+			"concepts": ["y-vowel"]
+		},
+		{
+			"id": "e",
+			"item": "ru-letter:e",
+			"text": "е",
+			"ipa": "/ɛ/",
+			"clue": "рус. э"
+		},
+		{
+			"id": "ye",
+			"item": "ru-letter:ye",
+			"text": "є",
+			"ipa": "/jɛ/",
+			"clue": "рус. е"
+		},
+		{
+			"id": "yo",
+			"item": "ru-letter:yo",
+			"text": "йо",
+			"ipa": "/jɔ/",
+			"clue": "рус. ё"
+		},
+		{
+			"id": "g",
+			"item": "ru-letter:g",
+			"text": "ґ",
+			"ipa": "/ɡ/",
+			"clue": "рус. г"
+		},
+		{
+			"id": "hard",
+			"item": "ru-letter:hard",
+			"text": "'",
+			"clue": "рус. ъ",
+			"example": "об'є́кт",
+			"concepts": ["apostrophe"]
+		}
+	]
+}

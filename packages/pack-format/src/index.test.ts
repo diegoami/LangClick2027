@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import {
+	answerOf,
 	checkTargets,
 	layerNames,
 	localizeUnit,
@@ -298,6 +299,12 @@ describe('validatePack: units and cells', () => {
 		expect(problems([table, withCell(grid, 'y', { text: '' })])).toContain('has no text');
 	});
 
+	it('fails a unit that compares display on a cell with none', () => {
+		expect(problems([{ ...table, compareDisplay: true }, grid])).toContain(
+			'cell b needs a display to compare'
+		);
+	});
+
 	it('fails a unit offered for an unknown comparison', () => {
 		expect(problems([{ ...table, compareWith: ['de'] }, grid])).toContain(
 			'offered for unknown comparison de'
@@ -432,6 +439,18 @@ describe('validatePack: layers', () => {
 		expect(problems([table, grid], own, set)).toEqual([]);
 		set.uk.units.grid.cells = { x: { clue: 'a', note: 'ы' } };
 		expect(problems([table, grid], own, set)).toContain('contains the forbidden letter ы');
+	});
+});
+
+describe('answerOf', () => {
+	const cell = { text: 'замок', display: `за${STRESS}мок` };
+
+	it('is the bare text by default', () => {
+		expect(answerOf({}, cell)).toBe('замок');
+	});
+
+	it('is the marked form when the marks are the point', () => {
+		expect(answerOf({ compareDisplay: true }, cell)).toBe(`за${STRESS}мок`);
 	});
 });
 

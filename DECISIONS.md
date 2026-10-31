@@ -73,6 +73,25 @@ is data, and the explanation of it comes from the interface.
 worse one. Such a tile is easy for that reader, which is true of the language: cognates
 are easy. Only a clue in the pack's own language gives the answer away by containing it.
 
+## The vowel chart follows the sources, and says where they differ (2026-10-31, #3)
+
+а sits in the back row, as Ukrainian descriptions have it, and is transcribed /a/ as in the
+IPA illustration; its note names both, and Vakulenko's [ɑ]. и is near-close in the English and
+Polish layers, after that illustration's [ɪ]. The Russian and Ukrainian layers use their
+traditional label, high-mid, because the sources themselves disagree on the row and
+Vakulenko rejects the lax terms. A native review should settle this one.
+
+## A unit can make the stress mark the answer (2026-10-31, #3)
+
+Slips normally show bare `text`, so a stress mark can't give anything away. But за́мок and
+замо́к differ only by stress, and with bare text the two slips would be interchangeable,
+so a quiz on them would test nothing. A unit that is about stress sets `compareDisplay`.
+
+## Identical slips collapse (2026-10-31, #3)
+
+They are interchangeable, so a tray of г г ґ г ґ г only adds noise. The tray shows each
+text once, with a count.
+
 ## Review shows the board, not a list (2026-10-31, #3)
 
 Repetition could have been a stream of single questions. It stays on the board, with the

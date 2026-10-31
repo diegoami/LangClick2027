@@ -1,0 +1,22 @@
+{
+	"title": "Tabela spółgłosek",
+	"summary": "Twarde spółgłoski według sposobu i miejsca artykulacji, jak w tabeli IPA. Pole podaje dźwięk; znajdź jego literę lub litery.",
+	"headers": {
+		"plosive-vl": "Zwarta, bezdźwięczna",
+		"plosive-vd": "Zwarta, dźwięczna",
+		"nasal": "Nosowa",
+		"fricative-vl": "Szczelinowa, bezdźwięczna",
+		"fricative-vd": "Szczelinowa, dźwięczna",
+		"affricate-vl": "Zwarto-szczelinowa, bezdźwięczna",
+		"affricate-vd": "Zwarto-szczelinowa, dźwięczna",
+		"trill": "Drżąca",
+		"approximant": "Aproksymant",
+		"lateral": "Boczna",
+		"labial": "War­go­wa",
+		"post": "Za­dzią­sło­wa",
+		"palatal": "Pod­nie­bien­na",
+		"velar": "Tyl­no­ję­zy­ko­wa",
+		"glottal": "Krta­nio­wa",
+		"denti-alveolar": "Zę­bo­wa/​dzią­sło­wa"
+	}
+}

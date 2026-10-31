@@ -1,0 +1,9 @@
+{
+	"title": "From Russian letters",
+	"summary": "The letters a Russian reader gets wrong. Each tile gives a Russian letter; find the Ukrainian letter nearest to its sound. The apostrophe does the job of ъ, and has no sound of its own.",
+	"cells": {
+		"hard": {
+			"exampleGloss": "object"
+		}
+	}
+}

@@ -87,10 +87,12 @@
 
 	th {
 		font-weight: 600;
-		font-size: 0.9rem;
+		/* A chart has many columns: on a phone its labels have to shrink to fit. */
+		font-size: clamp(0.6rem, 2.6vw, 0.9rem);
 		color: var(--muted);
 		text-align: left;
-		overflow-wrap: anywhere;
+		overflow-wrap: break-word;
+		hyphens: auto;
 	}
 
 	thead th {

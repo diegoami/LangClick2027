@@ -1,0 +1,259 @@
+{
+	"id": "consonant-chart",
+	"layout": {
+		"type": "table",
+		"rows": [
+			"plosive-vl",
+			"plosive-vd",
+			"nasal",
+			"fricative-vl",
+			"fricative-vd",
+			"affricate-vl",
+			"affricate-vd",
+			"trill",
+			"approximant",
+			"lateral"
+		],
+		"columns": ["labial", "denti-alveolar", "post", "palatal", "velar", "glottal"],
+		"gaps": [
+			"plosive-vl/post",
+			"plosive-vl/palatal",
+			"plosive-vl/glottal",
+			"plosive-vd/post",
+			"plosive-vd/palatal",
+			"plosive-vd/glottal",
+			"nasal/post",
+			"nasal/palatal",
+			"nasal/velar",
+			"nasal/glottal",
+			"fricative-vl/palatal",
+			"fricative-vl/glottal",
+			"fricative-vd/labial",
+			"fricative-vd/palatal",
+			"fricative-vd/velar",
+			"affricate-vl/labial",
+			"affricate-vl/palatal",
+			"affricate-vl/velar",
+			"affricate-vl/glottal",
+			"affricate-vd/labial",
+			"affricate-vd/palatal",
+			"affricate-vd/velar",
+			"affricate-vd/glottal",
+			"trill/labial",
+			"trill/post",
+			"trill/palatal",
+			"trill/velar",
+			"trill/glottal",
+			"approximant/denti-alveolar",
+			"approximant/post",
+			"approximant/velar",
+			"approximant/glottal",
+			"lateral/labial",
+			"lateral/post",
+			"lateral/palatal",
+			"lateral/velar",
+			"lateral/glottal"
+		]
+	},
+	"sources": [
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		},
+		{
+			"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+			"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+		}
+	],
+	"cells": [
+		{
+			"id": "p",
+			"item": "consonant:p",
+			"text": "п",
+			"clue": "/p/",
+			"row": "plosive-vl",
+			"col": "labial"
+		},
+		{
+			"id": "b",
+			"item": "consonant:b",
+			"text": "б",
+			"clue": "/b/",
+			"row": "plosive-vd",
+			"col": "labial"
+		},
+		{
+			"id": "t",
+			"item": "consonant:t",
+			"text": "т",
+			"clue": "/t/",
+			"row": "plosive-vl",
+			"col": "denti-alveolar"
+		},
+		{
+			"id": "d",
+			"item": "consonant:d",
+			"text": "д",
+			"clue": "/d/",
+			"row": "plosive-vd",
+			"col": "denti-alveolar"
+		},
+		{
+			"id": "k",
+			"item": "consonant:k",
+			"text": "к",
+			"clue": "/k/",
+			"row": "plosive-vl",
+			"col": "velar"
+		},
+		{
+			"id": "g",
+			"item": "consonant:g",
+			"text": "ґ",
+			"clue": "/ɡ/",
+			"concepts": ["h-sound"],
+			"row": "plosive-vd",
+			"col": "velar"
+		},
+		{
+			"id": "m",
+			"item": "consonant:m",
+			"text": "м",
+			"clue": "/m/",
+			"row": "nasal",
+			"col": "labial"
+		},
+		{
+			"id": "n",
+			"item": "consonant:n",
+			"text": "н",
+			"clue": "/n/",
+			"row": "nasal",
+			"col": "denti-alveolar"
+		},
+		{
+			"id": "f",
+			"item": "consonant:f",
+			"text": "ф",
+			"clue": "/f/",
+			"row": "fricative-vl",
+			"col": "labial"
+		},
+		{
+			"id": "s",
+			"item": "consonant:s",
+			"text": "с",
+			"clue": "/s/",
+			"row": "fricative-vl",
+			"col": "denti-alveolar"
+		},
+		{
+			"id": "sh",
+			"item": "consonant:sh",
+			"text": "ш",
+			"clue": "/ʃ/",
+			"row": "fricative-vl",
+			"col": "post"
+		},
+		{
+			"id": "kh",
+			"item": "consonant:kh",
+			"text": "х",
+			"clue": "/x/",
+			"row": "fricative-vl",
+			"col": "velar"
+		},
+		{
+			"id": "z",
+			"item": "consonant:z",
+			"text": "з",
+			"clue": "/z/",
+			"row": "fricative-vd",
+			"col": "denti-alveolar"
+		},
+		{
+			"id": "zh",
+			"item": "consonant:zh",
+			"text": "ж",
+			"clue": "/ʒ/",
+			"row": "fricative-vd",
+			"col": "post"
+		},
+		{
+			"id": "h",
+			"item": "consonant:h",
+			"text": "г",
+			"clue": "/ɦ/",
+			"concepts": ["h-sound"],
+			"row": "fricative-vd",
+			"col": "glottal"
+		},
+		{
+			"id": "ts",
+			"item": "consonant:ts",
+			"text": "ц",
+			"clue": "/t͡s/",
+			"row": "affricate-vl",
+			"col": "denti-alveolar"
+		},
+		{
+			"id": "ch",
+			"item": "consonant:ch",
+			"text": "ч",
+			"clue": "/t͡ʃ/",
+			"row": "affricate-vl",
+			"col": "post"
+		},
+		{
+			"id": "dz",
+			"item": "consonant:dz",
+			"text": "дз",
+			"clue": "/d͡z/",
+			"concepts": ["one-sound-two-letters"],
+			"row": "affricate-vd",
+			"col": "denti-alveolar"
+		},
+		{
+			"id": "dzh",
+			"item": "consonant:dzh",
+			"text": "дж",
+			"clue": "/d͡ʒ/",
+			"concepts": ["one-sound-two-letters"],
+			"row": "affricate-vd",
+			"col": "post"
+		},
+		{
+			"id": "r",
+			"item": "consonant:r",
+			"text": "р",
+			"clue": "/r/",
+			"row": "trill",
+			"col": "denti-alveolar"
+		},
+		{
+			"id": "v",
+			"item": "consonant:v",
+			"text": "в",
+			"clue": "/ʋ/",
+			"concepts": ["v-allophones"],
+			"row": "approximant",
+			"col": "labial"
+		},
+		{
+			"id": "j",
+			"item": "consonant:j",
+			"text": "й",
+			"clue": "/j/",
+			"row": "approximant",
+			"col": "palatal"
+		},
+		{
+			"id": "l",
+			"item": "consonant:l",
+			"text": "л",
+			"clue": "/l/",
+			"row": "lateral",
+			"col": "denti-alveolar"
+		}
+	]
+}

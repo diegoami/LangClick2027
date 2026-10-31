@@ -6,6 +6,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { describe, expect, it } from 'vitest';
 import {
+	answerOf,
 	checkTargets,
 	localizeUnit,
 	mergeCourse,
@@ -97,8 +98,10 @@ describe.each(packIds)('pack %s', (packId) => {
 		(_id, unit) => {
 			for (const a of unit.cells) {
 				for (const b of unit.cells) {
-					if (a === b || a.text !== b.text) continue;
-					const session = createQuizSession(unit.cells);
+					if (a === b || answerOf(unit, a) !== answerOf(unit, b)) continue;
+					const session = createQuizSession(
+						unit.cells.map((cell) => ({ id: cell.id, text: answerOf(unit, cell) }))
+					);
 					expect(attemptMatch(session, a.id, b.id).outcome).toEqual({
 						kind: 'correct',
 						cellId: b.id
@@ -108,6 +111,26 @@ describe.each(packIds)('pack %s', (packId) => {
 			expect(unit.cells.length).toBeGreaterThan(0);
 		}
 	);
+
+	it('tracks every eMova lesson, and each maps to units that exist', () => {
+		const file = path.join(packDir, 'coverage', 'emova-27.json');
+		if (!existsSync(file)) return;
+		const { lessons } = readJson<{ lessons: { number: number; title: string; units: string[] }[] }>(
+			file
+		);
+		expect(lessons.map((lesson) => lesson.number)).toEqual(
+			Array.from({ length: 27 }, (_, i) => i + 1)
+		);
+		const known = new Set(units.map((unit) => unit.id));
+		for (const lesson of lessons) {
+			expect(lesson.units.filter((id) => !known.has(id))).toEqual([]);
+		}
+		const mapped = new Set(lessons.flatMap((lesson) => lesson.units));
+		for (const lesson of manifest.lessons) {
+			if (!lesson.id.startsWith('l')) continue;
+			for (const id of lesson.units) expect(mapped.has(id), id).toBe(true);
+		}
+	});
 
 	// Every combination the learner can pick must give every cell something to ask.
 	const combinations = [

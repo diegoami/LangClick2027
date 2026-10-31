@@ -1,0 +1,22 @@
+{
+	"title": "The consonant chart",
+	"summary": "The plain consonants by manner and place of articulation, as an IPA chart. Each cell gives the sound; find its letter or letters.",
+	"headers": {
+		"plosive-vl": "Plosive, voiceless",
+		"plosive-vd": "Plosive, voiced",
+		"nasal": "Nasal",
+		"fricative-vl": "Fricative, voiceless",
+		"fricative-vd": "Fricative, voiced",
+		"affricate-vl": "Affricate, voiceless",
+		"affricate-vd": "Affricate, voiced",
+		"trill": "Trill",
+		"approximant": "Approximant",
+		"lateral": "Lateral",
+		"labial": "Labial",
+		"post": "Post-al­ve­o­lar",
+		"palatal": "Palatal",
+		"velar": "Velar",
+		"glottal": "Glottal",
+		"denti-alveolar": "Den­tal/​al­ve­o­lar"
+	}
+}

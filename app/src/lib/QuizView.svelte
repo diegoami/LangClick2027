@@ -4,6 +4,7 @@
 	// right one. packages/quiz-engine decides what a drop means; this owns the
 	// pointer, the tray and when to draw.
 	import {
+		answerOf,
 		shownText,
 		type LocalCell,
 		type LocalUnit,
@@ -43,7 +44,9 @@
 
 	function newRound(): RoundInProgress {
 		const asked = only ? unit.cells.filter((cell) => only.has(cell.item)) : unit.cells;
-		const session = createQuizSession(asked);
+		const session = createQuizSession(
+			asked.map((cell) => ({ id: cell.id, text: answerOf(unit, cell) }))
+		);
 		const size = handSize(unitLevel(unitLevels(pack.id, unit)));
 		return { session, size, hand: refillHand(pendingIds(session), [], size) };
 	}
@@ -79,7 +82,8 @@
 	const statusById = $derived(new Map(session.items.map((item) => [item.cell.id, item.status])));
 
 	function textOf(id: string): string {
-		return cellById.get(id)?.text ?? '';
+		const cell = cellById.get(id);
+		return cell ? answerOf(unit, cell) : '';
 	}
 
 	/** One drop. Everything a slip does, by pointer or keyboard, comes through here. */
@@ -198,6 +202,19 @@
 		return statusById.get(cell.id) !== 'pending';
 	}
 
+	// Slips with equal text are interchangeable, so the tray shows each once, with a
+	// count: ten copies of the same letter would only be noise.
+	const tray = $derived.by(() => {
+		const entries: { text: string; slipId: string; count: number }[] = [];
+		for (const slipId of hand) {
+			const text = textOf(slipId);
+			const entry = entries.find((candidate) => candidate.text === text);
+			if (entry) entry.count += 1;
+			else entries.push({ text, slipId, count: 1 });
+		}
+		return entries;
+	});
+
 	const ghost = $derived.by(() => {
 		if (!press?.dragging) return undefined;
 		return { text: textOf(press.slipId), ...aimPoint(press.x, press.y, press.touch) };
@@ -249,13 +266,14 @@
 	</section>
 {:else}
 	<div class="tray" role="group" aria-label={t('quiz.slips')}>
-		{#each hand as slipId (slipId)}
+		{#each tray as { slipId, count } (slipId)}
 			<button
 				type="button"
 				class="slip"
 				class:selected={selected === slipId}
 				class:lifted={press?.slipId === slipId && press.dragging}
 				data-slip-id={slipId}
+				data-count={count > 1 ? count : undefined}
 				lang={pack.language}
 				aria-pressed={selected === slipId}
 				onpointerdown={(event) => onSlipPointerDown(event, slipId)}
@@ -304,9 +322,20 @@
 		user-select: none;
 	}
 
+	.slip[data-count]::after {
+		content: ' ×' attr(data-count);
+		font-size: 0.8em;
+		font-weight: 400;
+		color: var(--muted);
+	}
+
 	.slip.selected {
 		background: var(--accent);
 		color: #fff;
+	}
+
+	.slip.selected[data-count]::after {
+		color: inherit;
 	}
 
 	.slip.lifted {

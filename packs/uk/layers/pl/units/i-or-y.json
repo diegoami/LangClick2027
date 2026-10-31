@@ -1,0 +1,30 @@
+{
+	"title": "і czy и",
+	"summary": "Pary słów, które rozróżnia tylko ta samogłoska. Pole podaje znaczenie; znajdź słowo.",
+	"cells": {
+		"dim": {
+			"clue": "dom"
+		},
+		"dym": {
+			"clue": "dym"
+		},
+		"lis": {
+			"clue": "las"
+		},
+		"lys": {
+			"clue": "lis"
+		},
+		"kit": {
+			"clue": "kot"
+		},
+		"kyt": {
+			"clue": "wal"
+		},
+		"bik": {
+			"clue": "bok"
+		},
+		"byk": {
+			"clue": "byk"
+		}
+	}
+}

@@ -1,0 +1,71 @@
+{
+	"id": "vowel-chart",
+	"layout": {
+		"type": "table",
+		"rows": ["close", "near", "mid", "open"],
+		"columns": ["front", "back"],
+		"gaps": ["near/back", "open/front"]
+	},
+	"sources": [
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		},
+		{
+			"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+			"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+		}
+	],
+	"cells": [
+		{
+			"id": "i",
+			"item": "vowel:i",
+			"text": "і",
+			"clue": "/i/",
+			"row": "close",
+			"col": "front"
+		},
+		{
+			"id": "y",
+			"item": "vowel:y",
+			"text": "и",
+			"clue": "/ɪ/",
+			"concepts": ["y-vowel"],
+			"row": "near",
+			"col": "front"
+		},
+		{
+			"id": "u",
+			"item": "vowel:u",
+			"text": "у",
+			"clue": "/u/",
+			"row": "close",
+			"col": "back"
+		},
+		{
+			"id": "e",
+			"item": "vowel:e",
+			"text": "е",
+			"clue": "/ɛ/",
+			"row": "mid",
+			"col": "front"
+		},
+		{
+			"id": "o",
+			"item": "vowel:o",
+			"text": "о",
+			"clue": "/ɔ/",
+			"concepts": ["o-unreduced"],
+			"row": "mid",
+			"col": "back"
+		},
+		{
+			"id": "a",
+			"item": "vowel:a",
+			"text": "а",
+			"clue": "/a/",
+			"row": "open",
+			"col": "back"
+		}
+	]
+}

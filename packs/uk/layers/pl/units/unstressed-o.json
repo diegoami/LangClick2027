@@ -1,0 +1,30 @@
+{
+	"title": "о pozostaje о",
+	"summary": "Słowa, w których о bez akcentu się nie zmienia. Pole podaje słowo w IPA; znajdź jego zapis.",
+	"cells": {
+		"moloko": {
+			"note": "mleko"
+		},
+		"voda": {
+			"note": "woda"
+		},
+		"holova": {
+			"note": "głowa"
+		},
+		"sova": {
+			"note": "sowa"
+		},
+		"korova": {
+			"note": "krowa"
+		},
+		"robota": {
+			"note": "praca"
+		},
+		"boroda": {
+			"note": "broda"
+		},
+		"doroha": {
+			"note": "droga"
+		}
+	}
+}

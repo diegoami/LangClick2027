@@ -101,6 +101,9 @@ export interface Unit {
 	sources: Source[];
 	/** Offered only for these comparisons; for everyone if absent. */
 	compareWith?: string[];
+	/** The marks are the point of this unit, as with stress: slips show `display`, and
+	 * it is what's compared. */
+	compareDisplay?: boolean;
 }
 
 export interface FalseFriend {
@@ -171,6 +174,7 @@ export interface LocalUnit {
 	layout: LocalLayout;
 	cells: LocalCell[];
 	sources: Source[];
+	compareDisplay?: boolean;
 }
 
 /** The two layers a choice of comparison and language resolves to. */
@@ -222,6 +226,7 @@ export function localizeUnit(
 		summary: overlay?.summary ?? base?.summary ?? '',
 		layout,
 		sources: unit.sources,
+		compareDisplay: unit.compareDisplay,
 		cells: unit.cells.map((cell) => ({
 			...cell,
 			...base?.cells?.[cell.id],
@@ -237,6 +242,14 @@ export function localizeUnit(
 /** The answer as shown: `display` if the cell has one, else `text`. */
 export function shownText(cell: Pick<Cell, 'text' | 'display'>): string {
 	return cell.display ?? cell.text;
+}
+
+/** What a slip shows and a cell compares in this unit. */
+export function answerOf(
+	unit: { compareDisplay?: boolean },
+	cell: Pick<Cell, 'text' | 'display'>
+): string {
+	return unit.compareDisplay ? shownText(cell) : cell.text;
 }
 
 // ------------------------------------------------------------------------ validation
@@ -548,6 +561,13 @@ export function validatePack(
 		if (!unit.sources?.length) issues.push({ where, problem: 'has no source' });
 		validateSources(unit.sources, where, issues);
 		validateLayout(unit, pack, issues);
+		if (unit.compareDisplay) {
+			for (const cell of unit.cells ?? []) {
+				if (cell.display === undefined) {
+					issues.push({ where, problem: `cell ${cell.id} needs a display to compare` });
+				}
+			}
+		}
 		for (const compare of unit.compareWith ?? []) {
 			if (!pack.comparisons?.includes(compare)) {
 				issues.push({ where, problem: `offered for unknown comparison ${compare}` });

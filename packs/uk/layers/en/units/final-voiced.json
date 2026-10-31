@@ -1,0 +1,30 @@
+{
+	"title": "Voiced to the end",
+	"summary": "Words that keep their final voiced consonant. Each tile gives the word in IPA; find how it is written.",
+	"cells": {
+		"dub": {
+			"note": "oak"
+		},
+		"sad": {
+			"note": "orchard, garden"
+		},
+		"did": {
+			"note": "grandfather, old man"
+		},
+		"nizh": {
+			"note": "knife"
+		},
+		"khlib": {
+			"note": "bread"
+		},
+		"med": {
+			"note": "honey"
+		},
+		"harazh": {
+			"note": "garage"
+		},
+		"viz": {
+			"note": "cart"
+		}
+	}
+}

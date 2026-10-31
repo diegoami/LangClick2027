@@ -36,6 +36,14 @@ shown once visible, and may add only the marks the manifest declares. A cell acc
 a slip when their `text` is equal, so a form that fills two cells needs nothing
 special.
 
+A unit with `compareDisplay` is the exception, for when the marks are the point, as
+with stress: за́мок and замо́к are different answers there, so slips show `display` and
+it is what's compared.
+
+Long column headers can carry soft hyphens (U+00AD) at syllable boundaries, and a
+zero-width space after a slash, so that a chart wraps sensibly on a phone. Browsers don't
+all hyphenate every language on their own.
+
 `item` is what progress is kept against. Use the same `item` for the same thing in
 another unit, and it shares its progress there. **Item ids are permanent.** Never
 reuse one for something else, or learners' progress would attach to the wrong thing.
@@ -62,6 +70,12 @@ alike, as across the Polish script boundary), or `partial` (only partly the same
 `ipa` is a phonemic transcription between slashes, following Pompino-Marschall,
 Steriopolo & Żygis (2017), the published IPA illustration. Where another source
 disagrees, a concept says so and names it, rather than choosing silently.
+
+## Coverage
+
+`packs/uk/coverage/emova-27.json` tracks eMova's 27 lessons against our units, so it
+shows what is still uncovered. It holds titles and the mapping, with none of the course's
+text. A test keeps it in step with the units.
 
 ## Checks before anything ships
 

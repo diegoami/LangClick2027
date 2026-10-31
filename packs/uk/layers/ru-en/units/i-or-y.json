@@ -1,0 +1,11 @@
+{
+	"cells": {
+		"kit": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "кит",
+				"means": "means whale in both languages; кіт means cat"
+			}
+		}
+	}
+}

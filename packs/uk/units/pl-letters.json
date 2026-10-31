@@ -1,0 +1,124 @@
+{
+	"id": "pl-letters",
+	"compareWith": ["pl"],
+	"layout": {
+		"type": "grid",
+		"size": 14
+	},
+	"sources": [
+		{
+			"title": "Ukrainian alphabet (Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Ukrainian_alphabet"
+		},
+		{
+			"title": "Ukraiński (Wikibooks)",
+			"url": "https://pl.wikibooks.org/wiki/Ukrai%C5%84ski"
+		},
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		}
+	],
+	"cells": [
+		{
+			"id": "zh",
+			"item": "pl-letter:zh",
+			"text": "ж",
+			"ipa": "/ʒ/",
+			"clue": "ż"
+		},
+		{
+			"id": "ch",
+			"item": "pl-letter:ch",
+			"text": "ч",
+			"ipa": "/t͡ʃ/",
+			"clue": "cz"
+		},
+		{
+			"id": "sh",
+			"item": "pl-letter:sh",
+			"text": "ш",
+			"ipa": "/ʃ/",
+			"clue": "sz"
+		},
+		{
+			"id": "shch",
+			"item": "pl-letter:shch",
+			"text": "щ",
+			"ipa": "/ʃt͡ʃ/",
+			"clue": "szcz"
+		},
+		{
+			"id": "ts",
+			"item": "pl-letter:ts",
+			"text": "ц",
+			"ipa": "/t͡s/",
+			"clue": "c"
+		},
+		{
+			"id": "kh",
+			"item": "pl-letter:kh",
+			"text": "х",
+			"ipa": "/x/",
+			"clue": "ch"
+		},
+		{
+			"id": "g",
+			"item": "pl-letter:g",
+			"text": "ґ",
+			"ipa": "/ɡ/",
+			"clue": "g"
+		},
+		{
+			"id": "v",
+			"item": "pl-letter:v",
+			"text": "в",
+			"ipa": "/ʋ/",
+			"clue": "w",
+			"concepts": ["v-allophones"]
+		},
+		{
+			"id": "y",
+			"item": "pl-letter:y",
+			"text": "и",
+			"ipa": "/ɪ/",
+			"clue": "y",
+			"concepts": ["y-vowel"]
+		},
+		{
+			"id": "i",
+			"item": "pl-letter:i",
+			"text": "і",
+			"ipa": "/i/",
+			"clue": "i"
+		},
+		{
+			"id": "ya",
+			"item": "pl-letter:ya",
+			"text": "я",
+			"ipa": "/ja/",
+			"clue": "ja"
+		},
+		{
+			"id": "yu",
+			"item": "pl-letter:yu",
+			"text": "ю",
+			"ipa": "/ju/",
+			"clue": "ju"
+		},
+		{
+			"id": "ye",
+			"item": "pl-letter:ye",
+			"text": "є",
+			"ipa": "/jɛ/",
+			"clue": "je"
+		},
+		{
+			"id": "yi",
+			"item": "pl-letter:yi",
+			"text": "ї",
+			"ipa": "/ji/",
+			"clue": "ji"
+		}
+	]
+}
