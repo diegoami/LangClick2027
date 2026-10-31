@@ -54,13 +54,13 @@ sources, and the manifest's `forbiddenLetters` catches the crudest case. A paid
 native review is optional. These checks are less than a native speaker's: two
 Claude models, working separately from outside dictionaries, can share a blind spot.
 
-## Packs are CC BY-SA 4.0 (2026-10-31, #1)
+## Code is MIT, packs are CC BY-SA 4.0 (2026-10-31, #1, #6)
 
 Natural Earth was public domain, but language data mostly isn't. Share-alike
 sources such as Wiktionary and JMdict can't be used in a more restrictive pack, so
 packs take that licence from the start. Audio licences vary by contributor and have
-to be checked separately when audio arrives. The code licence is still undecided
-and doesn't block anything yet.
+to be checked separately when audio arrives. The code is MIT, the simplest licence
+that lets anyone build on it.
 
 ## Letters are asked for by sound, with the example word held back (2026-10-31, #3)
 

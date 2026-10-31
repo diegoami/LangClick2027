@@ -97,7 +97,24 @@ export function shownText(cell: Cell): string {
 	return cell.display ?? cell.text;
 }
 
-function validateCell(cell: Cell, unit: Unit, pack: PackManifest, issues: PackIssue[]): void {
+/** The pattern a cell's text must match, or undefined if the pack's script names
+ * are not valid. Script names come from the pack, so a bad one must not throw. */
+function textPattern(pack: PackManifest): RegExp | undefined {
+	try {
+		const allowed = pack.scripts.map((script) => `\\p{Script=${script}}`).join('');
+		return new RegExp(`^[${allowed}\\p{M}\\s'ʼ-]+$`, 'u');
+	} catch {
+		return undefined;
+	}
+}
+
+function validateCell(
+	cell: Cell,
+	unit: Unit,
+	pack: PackManifest,
+	pattern: RegExp | undefined,
+	issues: PackIssue[]
+): void {
 	const where = `${pack.id}/${unit.id}/${cell.id}`;
 	const report = (problem: string) => issues.push({ where, problem });
 
@@ -109,14 +126,14 @@ function validateCell(cell: Cell, unit: Unit, pack: PackManifest, issues: PackIs
 	}
 	if (cell.text !== cell.text.normalize('NFC')) report('text is not in NFC form');
 
-	// Script names come from the pack, so a bad one must not throw out of here.
-	try {
-		const allowed = pack.scripts.map((script) => `\\p{Script=${script}}`).join('');
-		const pattern = new RegExp(`^[${allowed}\\p{M}\\s'ʼ-]+$`, 'u');
-		if (!pattern.test(cell.text))
-			report(`text "${cell.text}" has letters outside the pack's scripts`);
-	} catch {
-		issues.push({ where: pack.id, problem: `scripts ${pack.scripts} are not valid script names` });
+	if (pattern && !pattern.test(cell.text)) {
+		report(`text "${cell.text}" has letters outside the pack's scripts`);
+	}
+
+	// Slips show `text`, so a mark here would give the answer away on the slip. Only
+	// the pack's declared marks count: other scripts spell with combining marks.
+	if ([...(pack.displayMarks ?? '')].some((mark) => cell.text.includes(mark))) {
+		report(`text "${cell.text}" contains a display mark`);
 	}
 
 	if (cell.display !== undefined && removeMarks(cell.display, pack.displayMarks) !== cell.text) {
@@ -184,6 +201,10 @@ export function validatePack(pack: PackManifest, units: readonly Unit[]): PackIs
 		if (!present(pack[field])) issues.push({ where: pack.id, problem: `manifest has no ${field}` });
 	}
 	if (!pack.scripts?.length) issues.push({ where: pack.id, problem: 'manifest has no scripts' });
+	const pattern = textPattern(pack);
+	if (!pattern) {
+		issues.push({ where: pack.id, problem: `scripts ${pack.scripts} are not valid script names` });
+	}
 
 	const found = new Set(units.map((unit) => unit.id));
 	for (const id of pack.units ?? []) {
@@ -211,7 +232,7 @@ export function validatePack(pack: PackManifest, units: readonly Unit[]): PackIs
 		const ids = new Set<string>();
 		const items = new Set<string>();
 		for (const cell of unit.cells ?? []) {
-			validateCell(cell, unit, pack, issues);
+			validateCell(cell, unit, pack, pattern, issues);
 			if (ids.has(cell.id)) issues.push({ where, problem: `duplicate cell id ${cell.id}` });
 			if (items.has(cell.item)) issues.push({ where, problem: `duplicate item ${cell.item}` });
 			ids.add(cell.id);

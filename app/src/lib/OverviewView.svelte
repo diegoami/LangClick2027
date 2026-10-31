@@ -33,7 +33,7 @@
 
 <footer>
 	Sources:
-	{#each unit.sources as source, i (source.url)}
+	{#each unit.sources as source, i (i)}
 		{#if i > 0},{/if}
 		<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -- an outside address -->
 		<a href={source.url} rel="external noreferrer" target="_blank">{source.title}</a>
