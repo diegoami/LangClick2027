@@ -1,5 +1,6 @@
 {
 	"id": "h-or-g",
+	"dealAll": true,
 	"layout": {
 		"type": "grid",
 		"size": 12

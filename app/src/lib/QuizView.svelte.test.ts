@@ -1,12 +1,13 @@
 import { beforeEach, describe, expect, it } from 'vitest';
 import { render } from 'vitest-browser-svelte';
+import { createQuizSession } from '@langclick/quiz-engine';
 import { userEvent } from 'vitest/browser';
 import { localizeUnit, type PackManifest, type Unit, type UnitText } from '@langclick/pack-format';
 import kimnata from '../../../packs/uk/units/kimnata.json';
 import kimnataText from '../../../packs/uk/layers/en/units/kimnata.json';
 import pack from '../../../packs/uk/pack.json';
 import { resetLanguages } from './language.svelte';
-import { forgetRound } from './quizRound';
+import { forgetRound, rememberRound } from './quizRound';
 import {
 	dueCells,
 	levelOf,
@@ -57,7 +58,14 @@ beforeEach(async () => {
 
 describe('QuizView', () => {
 	it('deals ten slips on a new unit, and shows no answers', async () => {
-		start();
+		const handed = localizeUnit(
+			{ ...(kimnata as unknown as Unit), dealAll: false },
+			kimnataText as UnitText,
+			undefined,
+			{}
+		);
+		forgetRound(manifest.id, handed.id);
+		render(QuizView, { pack: manifest, unit: handed });
 		const dealt = slips().reduce((sum, slip) => sum + Number(slip.dataset.count ?? 1), 0);
 		expect(dealt).toBe(10);
 		expect(cellEl('dat.sg').textContent?.trim()).toBe('');
@@ -129,6 +137,22 @@ describe('QuizView', () => {
 		expect(cellEl('acc.sg').textContent).not.toContain('/kimˈnatu/');
 		await place('кімнату', 'acc.sg');
 		expect(cellEl('acc.sg').textContent).toContain('/kimˈnatu/');
+	});
+
+	it('offers every form of a unit that deals all, once each with a count', async () => {
+		start();
+		expect(slips().reduce((sum, slip) => sum + Number(slip.dataset.count ?? 1), 0)).toBe(14);
+		expect(slips()).toHaveLength(10);
+		expect(slipWith('кімнати')?.dataset.count).toBe('4');
+		expect(slipWith('кімнаті')?.dataset.count).toBe('2');
+	});
+
+	it('offers every form on a round saved with a smaller hand', async () => {
+		forgetRound(manifest.id, unit.id);
+		const session = createQuizSession(unit.cells.map((cell) => ({ id: cell.id, text: cell.text })));
+		rememberRound(manifest.id, unit.id, { session, hand: ['nom.sg', 'gen.pl', 'ins.pl'], size: 3 });
+		render(QuizView, { pack: manifest, unit });
+		expect(slips().reduce((sum, slip) => sum + Number(slip.dataset.count ?? 1), 0)).toBe(14);
 	});
 
 	it('ignores a drop on a cell already filled', async () => {

@@ -1,6 +1,6 @@
 # Langclick — Decisions
 
-The *why* behind product and design choices. When a later decision supersedes an
+The _why_ behind product and design choices. When a later decision supersedes an
 earlier one, amend the entry.
 
 ## A board plays the part of the map (2026-10-31, #1)
@@ -72,6 +72,15 @@ is data, and the explanation of it comes from the interface.
 "брат" is the right Russian gloss for брат, and rejecting it would mean inventing a
 worse one. Such a tile is easy for that reader, which is true of the language: cognates
 are easy. Only a clue in the pack's own language gives the answer away by containing it.
+
+## A unit can always deal every slip (2026-10-31, #3)
+
+Geoclick's shrinking hand (10, 6, 3, 1) stops a map being finished by elimination, because
+each place is its own fact. A declension is not like that: кімнату is the accusative only
+against кімнати and кімнаті. The owner found that a subset of the forms didn't test what the
+lesson teaches. A unit that sets `dealAll` keeps every slip in the tray, and accepts that
+the last few can be worked out by elimination and that a known unit gets no harder. That is
+set on `kimnata`, `stress-pairs` and `h-or-g`, where a lone slip leaves no real choice.
 
 ## The vowel chart follows the sources, and says where they differ (2026-10-31, #3)
 

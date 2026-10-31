@@ -1,5 +1,6 @@
 {
 	"id": "kimnata",
+	"dealAll": true,
 	"layout": {
 		"type": "table",
 		"rows": ["nom", "gen", "dat", "acc", "ins", "loc", "voc"],

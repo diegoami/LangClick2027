@@ -7,6 +7,7 @@ Each release's entry is its release notes (`docs/RELEASES.md`).
 For players:
 
 - Choose what to compare Ukrainian with, Russian or Polish, and which language explanations are in: English, Russian, Polish or Ukrainian. Your progress stays when you switch.
+- A declension, a stress pair or a choice between two letters now always shows every option in the tray, since those answers only mean something against each other.
 - Three lessons follow Є-мова's first three: the alphabet and letter names, the vowels, and the consonants. They include the IPA charts as boards, і or и, г or ґ, where the stress falls, final voiced consonants, and exercises only for your comparison: reading from Russian letters, or from Polish spelling.
 - Each lesson links to what to study first, starting with Є-мова's course, and you can mark it as studied.
 - A new Review screen brings back what is due today, one board at a time.

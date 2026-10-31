@@ -104,6 +104,9 @@ export interface Unit {
 	/** The marks are the point of this unit, as with stress: slips show `display`, and
 	 * it is what's compared. */
 	compareDisplay?: boolean;
+	/** The answers only mean something against each other, as in a declension: the tray
+	 * always offers all of them, however well the unit is known. */
+	dealAll?: boolean;
 }
 
 export interface FalseFriend {
@@ -175,6 +178,7 @@ export interface LocalUnit {
 	cells: LocalCell[];
 	sources: Source[];
 	compareDisplay?: boolean;
+	dealAll?: boolean;
 }
 
 /** The two layers a choice of comparison and language resolves to. */
@@ -227,6 +231,7 @@ export function localizeUnit(
 		layout,
 		sources: unit.sources,
 		compareDisplay: unit.compareDisplay,
+		dealAll: unit.dealAll,
 		cells: unit.cells.map((cell) => ({
 			...cell,
 			...base?.cells?.[cell.id],

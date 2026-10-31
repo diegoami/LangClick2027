@@ -1,5 +1,6 @@
 {
 	"id": "stress-pairs",
+	"dealAll": true,
 	"compareDisplay": true,
 	"layout": {
 		"type": "grid",

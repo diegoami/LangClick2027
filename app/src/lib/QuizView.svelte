@@ -47,14 +47,26 @@
 		const session = createQuizSession(
 			asked.map((cell) => ({ id: cell.id, text: answerOf(unit, cell) }))
 		);
-		const size = handSize(unitLevel(unitLevels(pack.id, unit)));
+		const size = unit.dealAll ? asked.length : handSize(unitLevel(unitLevels(pack.id, unit)));
 		return { session, size, hand: refillHand(pendingIds(session), [], size) };
 	}
 
+	/** A round saved with a smaller hand still has to offer everything in such a unit. */
+	function resumed(round: RoundInProgress): RoundInProgress {
+		if (!unit.dealAll) return round;
+		const pending = pendingIds(round.session);
+		return {
+			...round,
+			size: pending.length,
+			hand: refillHand(pending, round.hand, pending.length)
+		};
+	}
+
 	// A review is one sitting, and isn't a round to come back to.
-	const start = untrack(() =>
-		only ? newRound() : (roundInProgress(pack.id, unit.id) ?? newRound())
-	);
+	const start = untrack(() => {
+		const saved = only ? undefined : roundInProgress(pack.id, unit.id);
+		return saved ? resumed(saved) : newRound();
+	});
 
 	let session = $state.raw<QuizSession>(start.session);
 	let hand = $state.raw<string[]>(start.hand);

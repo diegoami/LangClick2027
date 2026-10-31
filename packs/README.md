@@ -40,6 +40,11 @@ A unit with `compareDisplay` is the exception, for when the marks are the point,
 with stress: за́мок and замо́к are different answers there, so slips show `display` and
 it is what's compared.
 
+A unit with `dealAll` always offers every slip, however well it is known. Use it when the
+answers only mean something against each other: the forms of a declension, the two sides of
+a stress pair, a choice between two letters. Other units deal a shrinking hand, so that the
+last slips can't be worked out by elimination.
+
 Long column headers can carry soft hyphens (U+00AD) at syllable boundaries, and a
 zero-width space after a slash, so that a chart wraps sensibly on a phone. Browsers don't
 all hyphenate every language on their own.
