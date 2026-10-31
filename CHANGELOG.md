@@ -2,7 +2,9 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
-## Unreleased
+## v0.2.0 — 2026-10-31 — Study first, then practise, compared with Russian or Polish
+
+**Langclick becomes a companion to Є-мова: study a lesson there, then practise and track it here, with explanations that fit the language you come from.**
 
 For players:
 
@@ -16,6 +18,10 @@ For players:
 - The Vakulenko source on the alphabet's Overview now opens the right paper.
 
 Also: code is now MIT and packs are CC BY-SA 4.0; the pack validator rejects a stress mark in a cell's `text`; the check that keeps engine code language-neutral is stricter.
+
+Not done, on purpose: separate downloads, audio, guided lessons and typed answers, which have their own milestones. Only Є-мова's lessons 1–3 are covered as a whole. Lessons 9 and 14 hold the one unit each that v0.1.0 had, and grammar sections come next (#13).
+
+Not tried: a real phone, only an emulated one. No native speaker has read the content: two independent model checkers passed all of it against sources, and a native review is still to come. The Є-мова links for lessons 1–3 need a signed-in course account, so they were not followed by the checkers. The links for lessons 9 and 14 open the course outline, not the lesson. The owner played the release locally, and that is where the change to the tray in Lesson 14 came from.
 
 ## v0.1.0 — 2026-10-31 — A Ukrainian pack on a board you fill in
 

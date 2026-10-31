@@ -1,6 +1,6 @@
 // Where pack content comes from. A pack is a folder under packs/: nothing here names
 // one, so adding a pack needs no code. Reading goes through `PackSource`, so that
-// downloads can replace the local folder (v0.3.0, #6) without touching any screen.
+// downloads can replace the local folder (v0.4.0, #6) without touching any screen.
 
 import {
 	layerNames,
