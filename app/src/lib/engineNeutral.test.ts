@@ -22,13 +22,16 @@ function sourceFiles(dir: string): string[] {
 	});
 }
 
+// This is a blocklist, not a proof: a green run says no language on this list is named.
 // A quoted language code, ISO 639-1 or 639-3, alone or with a region or script.
-const QUOTED_CODE = `['"](?:uk|ukr|ru|rus|pl|pol|sv|swe|ja|jpn|fi|fin|zh|zho|fr|fra|es|spa)(?:-[\\w-]+)?['"]`;
+const QUOTED_CODE = `['"](?:uk|ukr|ru|rus|pl|pol|sv|swe|ja|jpn|fi|fin|zh|zho|fr|fra|es|spa|de|deu|ger|it|ita|pt|por|ko|kor)(?:-[\\w-]+)?['"]`;
 const NAMED = new RegExp(
-	`ukrain|russian|swedish|japanese|polish|finnish|chinese|french|spanish|cyrillic|${QUOTED_CODE}`,
+	`ukrain|russian|swedish|japanese|polish|finnish|chinese|french|spanish|german|italian|portuguese|korean|cyrillic|${QUOTED_CODE}`,
 	'i'
 );
-const OTHER_SCRIPT = /\p{Script=Cyrillic}|\p{Script=Hiragana}|\p{Script=Katakana}|\p{Script=Han}/u;
+// Any letter outside the Latin script. The IPA needs the Latin letters, the shared marks
+// such as the stress mark, and two Greek letters.
+const OTHER_SCRIPT = /(?![\p{Script=Latin}\p{Script=Common}βθ])\p{L}/u;
 
 describe('the check itself', () => {
 	it.each([
@@ -38,10 +41,27 @@ describe('the check itself', () => {
 		'hreflang="uk-Latn"',
 		'lang="ru"',
 		"'pl-PL'",
-		'Russian'
+		'Russian',
+		"code: 'de'",
+		'German',
+		'lang="ko"'
 	])('catches %s', (source) => {
 		expect(source.match(NAMED)).not.toBeNull();
 	});
+
+	it.each(['\u043A', '\u3042', '\u4E2D', '\uD55C', '\u03B1', '\u0639'])(
+		'catches the letter %s as another script',
+		(source) => {
+			expect(source.match(OTHER_SCRIPT)).not.toBeNull();
+		}
+	);
+
+	it.each(['plain text', 'caf\u00E9', '/\u0283/', '\u00D7', '\u2192', '\u02C8', '\u03B2'])(
+		'leaves %s alone as a script',
+		(source) => {
+			expect(source.match(OTHER_SCRIPT)).toBeNull();
+		}
+	);
 
 	it.each(['lang="en"', "'en-GB'", 'lang={pack.language}', "'pack'", 'overuk'])(
 		'leaves %s alone',

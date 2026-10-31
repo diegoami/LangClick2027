@@ -563,7 +563,19 @@ describe('content checks', () => {
 	it.each([
 		['an answer', 'core/grid/x', () => [table, withCell(grid, 'x', { text: 'сестра' })], layers()],
 		['an IPA', 'core/grid/x', () => [table, withCell(grid, 'x', { ipa: '/brat/' })], layers()],
-		['a cognate', 'core/grid/x', () => [table, withCell(grid, 'x', { cognates: {} })], layers()]
+		['a cognate', 'core/grid/x', () => [table, withCell(grid, 'x', { cognates: {} })], layers()],
+		[
+			'an item',
+			'core/grid/x',
+			() => [table, withCell(grid, 'x', { item: 'word:other' })],
+			layers()
+		],
+		[
+			'a concept',
+			'core/grid/x',
+			() => [table, withCell(grid, 'x', { concepts: ['other'] })],
+			layers()
+		]
 	])('voids the check when %s is edited', (_what, key, edited, set) => {
 		const checks = [passing('one'), passing('two')];
 		const targets = checkTargets(edited(), set);
