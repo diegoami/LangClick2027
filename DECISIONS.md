@@ -78,10 +78,10 @@ are easy. Only a clue in the pack's own language gives the answer away by contai
 Geoclick's shrinking hand (10, 6, 3, 1) stops a map being finished by elimination, because
 each place is its own fact. A declension is not like that: кімнату is the accusative only
 against кімнати and кімнаті. The owner found that a subset of the forms didn't test what the
-lesson teaches. A unit that sets  keeps every slip in the tray. The last few can then
+lesson teaches. A unit that sets `dealAll` keeps every slip in the tray. The last few can then
 be worked out by elimination, and a known unit plays as it did at first. The owner doesn't
 count that as a cost: a unit doesn't need to get harder, because new material is what moves
-a learner forward. It is set on ,  and , where a lone slip
+a learner forward. It is set on `kimnata`, `stress-pairs` and `h-or-g`, where a lone slip
 leaves no real choice.
 
 ## The vowel chart follows the sources, and says where they differ (2026-10-31, #3)
