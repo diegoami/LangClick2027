@@ -3,222 +3,6 @@
 	"date": "2026-10-31",
 	"items": [
 		{
-			"item": "letter:b",
-			"display": "Б б",
-			"clue": "b, as in bed",
-			"note": "брат: brother",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:h",
-			"display": "Г г",
-			"clue": "h, as in hat",
-			"note": "голова́: head. This letter is the h sound; the g sound has its own letter, ґ.",
-			"verdict": "ok",
-			"comment": "Judgement call: Ukrainian г is voiced [ɦ] (Wikipedia, Wiktionary IPA for голова́), so English h in hat is an approximation. It is the same comparison Wikipedia makes (h in hello) and is acceptable."
-		},
-		{
-			"item": "letter:g",
-			"display": "Ґ ґ",
-			"clue": "g, as in go",
-			"note": "ґа́нок: porch. A rare letter, but easy to confuse with г.",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:d",
-			"display": "Д д",
-			"clue": "d, as in dog",
-			"note": "дім: house",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:e",
-			"display": "Е е",
-			"clue": "e, as in pet",
-			"note": "екра́н: screen",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:ye",
-			"display": "Є є",
-			"clue": "ye, as in yes",
-			"note": "Євро́па: Europe",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:zh",
-			"display": "Ж ж",
-			"clue": "zh, like s in pleasure",
-			"note": "жі́нка: woman",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:z",
-			"display": "З з",
-			"clue": "z, as in zoo",
-			"note": "зима́: winter",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:i",
-			"display": "І і",
-			"clue": "i, like ee in see",
-			"note": "і́грашка: toy",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:yi",
-			"display": "Ї ї",
-			"clue": "yi, as in yeast",
-			"note": "ї́жа: food",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:j",
-			"display": "Й й",
-			"clue": "y, as in boy",
-			"note": "йо́гурт: yogurt",
-			"verdict": "ok",
-			"comment": "Goroh's entry and Wiktionary both give йо́гурт. A reader comment on the Goroh page cites Ponomariv for two accepted stresses (йо́гурт and йогу́рт); I could not confirm that second stress in a dictionary. The stress shown is valid either way."
-		},
-		{
-			"item": "letter:k",
-			"display": "К к",
-			"clue": "k, as in kit",
-			"note": "кіт: cat",
-			"verdict": "ok",
-			"comment": "Wiktionary glosses кіт as male cat or tomcat, with кішка as the female. \"cat\" is acceptable as a simple gloss."
-		},
-		{
-			"item": "letter:l",
-			"display": "Л л",
-			"clue": "l, as in lamp",
-			"note": "лі́то: summer",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:m",
-			"display": "М м",
-			"clue": "m, as in map",
-			"note": "ма́ма: mum",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:n",
-			"display": "Н н",
-			"clue": "n, as in net",
-			"note": "ніч: night",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:o",
-			"display": "О о",
-			"clue": "o, as in port",
-			"note": "о́ко: eye",
-			"verdict": "ok",
-			"comment": "Judgement call: Wikipedia compares о /ɔ/ to the o in long; port is a comparable vowel but is long and, for rhotic speakers, followed by r. Acceptable as an approximation."
-		},
-		{
-			"item": "letter:p",
-			"display": "П п",
-			"clue": "p, as in pen",
-			"note": "пес: dog",
-			"verdict": "ok",
-			"comment": "Wiktionary glosses пес as male dog, with собака as a synonym. \"dog\" is acceptable."
-		},
-		{
-			"item": "letter:r",
-			"display": "Р р",
-			"clue": "r, rolled",
-			"note": "рука́: hand",
-			"verdict": "ok",
-			"comment": "рука́ means both hand and arm (Wiktionary). \"hand\" is correct but only part of the meaning; acceptable for an example word."
-		},
-		{
-			"item": "letter:s",
-			"display": "С с",
-			"clue": "s, as in sun",
-			"note": "со́нце: sun",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:t",
-			"display": "Т т",
-			"clue": "t, as in top",
-			"note": "та́то: dad",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:u",
-			"display": "У у",
-			"clue": "u, like oo in moon",
-			"note": "у́чень: pupil",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:f",
-			"display": "Ф ф",
-			"clue": "f, as in fan",
-			"note": "фо́то: photo",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:kh",
-			"display": "Х х",
-			"clue": "kh, as in loch",
-			"note": "хліб: bread",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:ts",
-			"display": "Ц ц",
-			"clue": "ts, as in cats",
-			"note": "цу́кор: sugar",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:ch",
-			"display": "Ч ч",
-			"clue": "ch, as in chin",
-			"note": "час: time",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:sh",
-			"display": "Ш ш",
-			"clue": "sh, as in shop",
-			"note": "шко́ла: school",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:shch",
-			"display": "Щ щ",
-			"clue": "shch, as in fresh cheese",
-			"note": "що: what",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:soft",
-			"display": "Ь ь",
-			"clue": "soft sign, softens the sound before it",
-			"note": "день: day. It has no sound of its own.",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:yu",
-			"display": "Ю ю",
-			"clue": "yu, as in you",
-			"note": "юна́к: young man",
-			"verdict": "ok"
-		},
-		{
-			"item": "letter:ya",
-			"display": "Я я",
-			"clue": "ya, as in yard",
-			"note": "я́блуко: apple",
-			"verdict": "ok"
-		},
-		{
 			"item": "noun:kimnata:nom.sg",
 			"display": "кімна́та",
 			"verdict": "ok"
@@ -441,35 +225,256 @@
 			"verdict": "ok"
 		},
 		{
-			"item": "letter:a",
-			"display": "А а",
-			"clue": "a, as in father",
-			"note": "авто́бус: bus",
-			"verdict": "ok",
-			"comment": "Example verified: Goroh and English Wiktionary's Ukrainian section both give авто́бус, masculine, \"bus\". The а in this example is unstressed (Wiktionary IPA [ɐu̯ˈtɔbʊs]), so it shows the letter but is not the clearest model of the father vowel; that does not make the cell wrong."
-		},
-		{
-			"item": "letter:v",
-			"display": "В в",
-			"clue": "v, as in van",
-			"note": "вода́: water. Often softer than an English v, and like w at the end of a syllable, as in був (was).",
-			"verdict": "ok",
-			"comment": "Note verified: був is the masculine past of бути, \"was\" (Goroh, Wiktionary), with IPA [buu̯] (Wiktionary) and /buu̯/ (Wikipedia, Ukrainian phonology). Wikipedia and Ukrainian Wikipedia both describe в as [w]/[u̯] after a vowel in the syllable coda, so \"like w at the end of a syllable\" is correct. Judgement call on the unchanged clue: \"v, as in van\" remains a simplification, and Wiktionary transcribes the example itself as [wɔˈda], so the w-like sound is not limited to syllable ends. \"Often softer than an English v\" covers this loosely, and I accept the clue and note together. \"was\" is masculine only; a woman says була́."
-		},
-		{
-			"item": "letter:y",
-			"display": "И и",
-			"clue": "y, like i in bit",
-			"note": "ри́ба: fish. Like the i in bit, never the ee sound, which is і.",
-			"verdict": "ok",
-			"comment": "Note verified: Wiktionary gives ри́ба [ˈrɪbɐ], \"fish\", and Wikipedia gives и as /ɪ/. \"never the ee sound\" is not contradicted by the sources I read: English and Ukrainian Wikipedia describe unstressed и as moving toward е, not toward і. Ukrainian Wikipedia's И article says the letter renders [і] in borrowed common nouns; I read this as the spelling of foreign [i] in loanwords, not as a statement that и is pronounced ee, but the fetched text does not settle that. The note leaves out the unstressed drift toward е, which is an acceptable simplification."
-		},
-		{
 			"item": "word:onuka",
 			"display": "ону́ка",
 			"clue": "granddaughter",
 			"verdict": "ok",
 			"comment": "Goroh gives ону́ка (animate, feminine, 1st declension). English Wiktionary gives ону́ка [oˈnukɐ], \"granddaughter\", with вну́ка as an alternative form. Goroh's definition page and slovnyk.ua (СУМ) cross-refer онука to внука, defined on Goroh as \"Дочка сина або дочки\". Standard Ukrainian and not a Russian form; unlike онучка, it showed no foot-wrap homonym in the entries I read."
+		},
+		{
+			"item": "letter:a",
+			"display": "А а",
+			"clue": "/a/, as in father",
+			"note": "авто́бус: bus",
+			"verdict": "ok",
+			"comment": "JIPA gives /a/; Vakulenko's Table 1 gives [ɑ] when stressed and [ɐ] when unstressed or after palatalised consonants. Father fits [ɑ] and is acceptable as an approximation. The а in авто́бус is unstressed, so the example is not the clearest model of this comparison."
+		},
+		{
+			"item": "letter:b",
+			"display": "Б б",
+			"clue": "/b/, as in bed",
+			"note": "брат: brother",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:h",
+			"display": "Г г",
+			"clue": "/ɦ/, voiced, unlike English h",
+			"note": "голова́: head. A voiced fricative, partner of х. Phoneticians describe it differently: /ɦ/ in the published IPA illustration, [ʕ] or [ɣ] in Vakulenko 2025. English h is closer to х. The sound of g has its own letter, ґ.",
+			"verdict": "ok",
+			"comment": "Checked against both papers. /ɦ/ matches JIPA's table. Vakulenko gives ʕ before а, о, у, и, е and ɣ before voiced consonants and word-finally, says [ɦ] lacks convincing experimental confirmation, and concludes English [h] is phonetically close to Ukrainian [x], so the note reports him accurately. \"English h is closer to х\" rests on Vakulenko alone; JIPA does not address it. The note omits his possible plosive allophone [g], and JIPA's [x] before /k/; neither omission misleads at this level."
+		},
+		{
+			"item": "letter:g",
+			"display": "Ґ ґ",
+			"clue": "/ɡ/, as in go",
+			"note": "ґа́нок: porch. A rare letter, but easy to confuse with г.",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:d",
+			"display": "Д д",
+			"clue": "/d/, as in dog",
+			"note": "дім: house",
+			"verdict": "ok",
+			"comment": "The clue fits the phoneme, but JIPA's own transcription of the example is дім [dʲim], so it has a palatalised д, not the plain sound of dog. I passed it because the clue makes no claim that contradicts this, unlike the dark-l clue for л, and the difference is small for an English speaker. Vakulenko also treats plain д as dental (d̪), a difference small enough to fall within the unit's stated approximation."
+		},
+		{
+			"item": "letter:e",
+			"display": "Е е",
+			"clue": "/ɛ/, as in pet",
+			"note": "екра́н: screen",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:ye",
+			"display": "Є є",
+			"clue": "/jɛ/, as in yes",
+			"note": "Євро́па: Europe",
+			"verdict": "ok",
+			"comment": "/jɛ/ is correct for this example, at the start of a word. After a consonant є marks softness rather than a separate [j] (JIPA p. 352), which the cell does not say. An omission, not an error. The same applies to ю and я."
+		},
+		{
+			"item": "letter:zh",
+			"display": "Ж ж",
+			"clue": "/ʒ/, like s in pleasure",
+			"note": "жі́нка: woman",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:z",
+			"display": "З з",
+			"clue": "/z/, as in zoo",
+			"note": "зима́: winter",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:i",
+			"display": "І і",
+			"clue": "/i/, like ee in see",
+			"note": "і́грашка: toy",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:yi",
+			"display": "Ї ї",
+			"clue": "/ji/, as in yeast",
+			"note": "ї́жа: food",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:j",
+			"display": "Й й",
+			"clue": "/j/, as in boy",
+			"note": "йо́гурт: yogurt",
+			"verdict": "ok",
+			"comment": "/j/ could be misread by an English speaker as the j of jam, but \"as in boy\" and the example йо́гурт resolve that. Both contexts match JIPA p. 352: й stands for /j/ only syllable-finally, as [i̯], or before о."
+		},
+		{
+			"item": "letter:k",
+			"display": "К к",
+			"clue": "/k/, unaspirated, as in skin",
+			"note": "кіт: cat",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:m",
+			"display": "М м",
+			"clue": "/m/, as in map",
+			"note": "ма́ма: mum",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:n",
+			"display": "Н н",
+			"clue": "/n/, as in net",
+			"note": "ніч: night",
+			"verdict": "ok",
+			"comment": "As with д: the clue fits the phoneme, but Wiktionary gives the example ніч as [nʲitʃ] with a palatalised н, and Wikipedia gives ні as /nʲi/. I passed it because the clue makes no claim that contradicts this, unlike the clue for л."
+		},
+		{
+			"item": "letter:p",
+			"display": "П п",
+			"clue": "/p/, unaspirated, as in spin",
+			"note": "пес: dog",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:r",
+			"display": "Р р",
+			"clue": "/r/, trilled",
+			"note": "рука́: hand",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:s",
+			"display": "С с",
+			"clue": "/s/, as in sun",
+			"note": "со́нце: sun",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:t",
+			"display": "Т т",
+			"clue": "/t/, unaspirated, as in stop",
+			"note": "та́то: dad",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:u",
+			"display": "У у",
+			"clue": "/u/, like oo in moon",
+			"note": "у́чень: pupil",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:f",
+			"display": "Ф ф",
+			"clue": "/f/, as in fan",
+			"note": "фо́то: photo",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:kh",
+			"display": "Х х",
+			"clue": "/x/, as in loch",
+			"note": "хліб: bread",
+			"verdict": "ok",
+			"comment": "/x/ is in both papers. Many English speakers pronounce loch with [k], so the comparison only helps those who know the Scots sound, but it is the closest available and the unit calls comparisons approximate."
+		},
+		{
+			"item": "letter:ts",
+			"display": "Ц ц",
+			"clue": "/t͡s/, as in cats",
+			"note": "цу́кор: sugar",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:ch",
+			"display": "Ч ч",
+			"clue": "/t͡ʃ/, as in chin",
+			"note": "час: time",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:sh",
+			"display": "Ш ш",
+			"clue": "/ʃ/, as in shop",
+			"note": "шко́ла: school",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:shch",
+			"display": "Щ щ",
+			"clue": "/ʃt͡ʃ/, as in fresh cheese",
+			"note": "що: what",
+			"verdict": "ok",
+			"comment": "/ʃt͡ʃ/ matches JIPA p. 353, which adds that it can reduce to [t͡ʃ] or [ʃ]. JIPA's narrow transcription shows this very word що reduced in running speech (ʃə, t͡ʃə), with ʃt͡ʃɔ in the broad transcription. The clue gives the careful form, which is right for a learner."
+		},
+		{
+			"item": "letter:soft",
+			"display": "Ь ь",
+			"clue": "soft sign, marks the consonant before it as soft",
+			"note": "день: day. It has no sound of its own.",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:yu",
+			"display": "Ю ю",
+			"clue": "/ju/, as in you",
+			"note": "юна́к: young man",
+			"verdict": "ok",
+			"comment": "/ju/ is correct for this example, at the start of a word. After a consonant ю marks softness (JIPA: люк [lʲuk]), which the cell does not say. An omission, not an error."
+		},
+		{
+			"item": "letter:ya",
+			"display": "Я я",
+			"clue": "/ja/, as in yard",
+			"note": "я́блуко: apple",
+			"verdict": "ok",
+			"comment": "/ja/ is correct for this example, at the start of a word. After a consonant я marks softness (JIPA: ряд [rʲad]), which the cell does not say. An omission, not an error. Vakulenko's [ɐ] after palatalised consonants does not affect this example."
+		},
+		{
+			"item": "letter:v",
+			"display": "В в",
+			"clue": "/ʋ/, between English v and w",
+			"note": "вода́: water. It varies by position: labiodental [ʋ] before front vowels, nearer [w] before rounded back vowels, and [u̯] at the end of a syllable, as in був (was, masculine). Vakulenko 2025 disputes [w], since the lips barely protrude, and writes [β̞].",
+			"verdict": "ok",
+			"comment": "All claims check out. JIPA p. 352 gives [ʋ] before front vowels, [w] before rounded back [u ɔ] and [u̯] syllable-finally; був is ˈbuu̯ in JIPA and masculine past \"was\" per Goroh and Wiktionary. Vakulenko does call the w label an error, reports the lips barely protruding, and writes β̞ (code points match his text). His case also rests on F2, which the note omits, and his Table 2 gives β̞ for the syllable-final ў too, so his dispute reaches [u̯] as well as [w]. Neither omission misleads a learner."
+		},
+		{
+			"item": "letter:l",
+			"display": "Л л",
+			"clue": "/l/, usually dark [ɫ], as in full",
+			"note": "ла́мпа: lamp, with the hard [ɫ]. Before і it is soft: лі́то (summer) has [lʲ].",
+			"verdict": "ok",
+			"comment": "ла́мпа verified: Goroh and Wiktionary give ла́мпа, feminine, \"lamp\", and Wiktionary gives [ˈɫampɐ]. лі́то is [ˈlʲitɔ] (Wiktionary). This resolves my earlier flag on this cell. \"Before і it is soft\" is slightly absolute: Wikipedia, Ukrainian phonology, says consonants are typically palatalised before /i/ and that non-palatalisation is rare but allowed. Acceptable at this level. \"hard\" and \"soft\" match JIPA p. 352's usage."
+		},
+		{
+			"item": "letter:o",
+			"display": "О о",
+			"clue": "/ɔ/, as in port",
+			"note": "о́ко: eye. Unlike Russian, it does not reduce towards a without stress: вода́ is never вада́. It can still shift slightly, towards [o] before a stressed /u/. Vakulenko 2025 describes the vowel as close-mid [o] rather than /ɔ/.",
+			"verdict": "ok",
+			"comment": "All claims check out, and this resolves my earlier flag on this cell. Russian merges unstressed /o/ with /a/ (Wikipedia, Russian phonology; Wiktionary has Russian вода́ as [vɐˈda] and Ukrainian as [wɔˈda]). The shift to [o] before stressed /u/ is in JIPA p. 354. Vakulenko does describe /о/ as close-mid [o], always above the midline. The note names one shift only; Vakulenko's rise in F2 for unstressed /о/ and JIPA's general reduction in fluent speech go unmentioned, but \"can still shift\" does not exclude them. The clue is unchanged and acceptable as before."
+		},
+		{
+			"item": "letter:y",
+			"display": "И и",
+			"clue": "/ɪ/, like i in bit",
+			"note": "ри́ба: fish. Retracted and lowered compared with і. Close to the Russian vowel [ɨ], but not the same sound. Vakulenko 2025 transcribes it as a lowered, advanced [ɨ] instead.",
+			"verdict": "ok",
+			"comment": "The meaning holds after the rewording, and \"Russian vowel [ɨ]\" is now JIPA's own term (p. 353: \"phonetically different from Russian [ɨ]\"). It is also slightly more accurate, because Russian [ɨ] is written ы and also и after ж, ш, ц (Wikipedia, Russian phonology). The judgement call from my last check stands: \"not the same sound\" is well supported, but \"close to\" has only indirect support (Vakulenko's barred [ɨ] symbol, и replacing ы in Russian loanwords, informal commentary), with no acoustic comparison found and nothing contradicting it. Passed as an approximation. \"instead\" means instead of /ɪ/, a minor ambiguity because it follows the [ɨ] sentence."
 		}
 	]
 }

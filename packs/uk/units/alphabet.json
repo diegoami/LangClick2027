@@ -1,9 +1,20 @@
 {
 	"id": "alphabet",
 	"title": "The alphabet",
-	"summary": "All 33 letters, in order. Each tile gives the sound; find its letter.",
-	"layout": { "type": "grid", "size": 33 },
+	"summary": "All 33 letters, in order. Each tile gives the sound in IPA with the nearest English comparison, which is only ever approximate; find its letter.",
+	"layout": {
+		"type": "grid",
+		"size": 33
+	},
 	"sources": [
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		},
+		{
+			"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+			"url": "https://doi.org/10.30687/BES/2785-3187/2025/01/001"
+		},
 		{
 			"title": "Ukrainian alphabet (Wikipedia)",
 			"url": "https://en.wikipedia.org/wiki/Ukrainian_alphabet"
@@ -11,6 +22,10 @@
 		{
 			"title": "English Wiktionary, for the example words",
 			"url": "https://en.wiktionary.org/wiki/голова"
+		},
+		{
+			"title": "Є-мова, Українська за 27 уроків, lessons 1–3 (enrolment needed)",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
 		}
 	],
 	"cells": [
@@ -18,171 +33,231 @@
 			"id": "a",
 			"item": "letter:a",
 			"text": "А а",
-			"clue": "a, as in father",
+			"clue": "/a/, as in father",
 			"note": "авто́бус: bus"
 		},
 		{
 			"id": "b",
 			"item": "letter:b",
 			"text": "Б б",
-			"clue": "b, as in bed",
+			"clue": "/b/, as in bed",
 			"note": "брат: brother"
 		},
 		{
 			"id": "v",
 			"item": "letter:v",
 			"text": "В в",
-			"clue": "v, as in van",
-			"note": "вода́: water. Often softer than an English v, and like w at the end of a syllable, as in був (was)."
+			"clue": "/ʋ/, between English v and w",
+			"note": "вода́: water. It varies by position: labiodental [ʋ] before front vowels, nearer [w] before rounded back vowels, and [u̯] at the end of a syllable, as in був (was, masculine). Vakulenko 2025 disputes [w], since the lips barely protrude, and writes [β̞]."
 		},
 		{
 			"id": "h",
 			"item": "letter:h",
 			"text": "Г г",
-			"clue": "h, as in hat",
-			"note": "голова́: head. This letter is the h sound; the g sound has its own letter, ґ."
+			"clue": "/ɦ/, voiced, unlike English h",
+			"note": "голова́: head. A voiced fricative, partner of х. Phoneticians describe it differently: /ɦ/ in the published IPA illustration, [ʕ] or [ɣ] in Vakulenko 2025. English h is closer to х. The sound of g has its own letter, ґ."
 		},
 		{
 			"id": "g",
 			"item": "letter:g",
 			"text": "Ґ ґ",
-			"clue": "g, as in go",
+			"clue": "/ɡ/, as in go",
 			"note": "ґа́нок: porch. A rare letter, but easy to confuse with г."
 		},
-		{ "id": "d", "item": "letter:d", "text": "Д д", "clue": "d, as in dog", "note": "дім: house" },
+		{
+			"id": "d",
+			"item": "letter:d",
+			"text": "Д д",
+			"clue": "/d/, as in dog",
+			"note": "дім: house"
+		},
 		{
 			"id": "e",
 			"item": "letter:e",
 			"text": "Е е",
-			"clue": "e, as in pet",
+			"clue": "/ɛ/, as in pet",
 			"note": "екра́н: screen"
 		},
 		{
 			"id": "ye",
 			"item": "letter:ye",
 			"text": "Є є",
-			"clue": "ye, as in yes",
+			"clue": "/jɛ/, as in yes",
 			"note": "Євро́па: Europe"
 		},
 		{
 			"id": "zh",
 			"item": "letter:zh",
 			"text": "Ж ж",
-			"clue": "zh, like s in pleasure",
+			"clue": "/ʒ/, like s in pleasure",
 			"note": "жі́нка: woman"
 		},
 		{
 			"id": "z",
 			"item": "letter:z",
 			"text": "З з",
-			"clue": "z, as in zoo",
+			"clue": "/z/, as in zoo",
 			"note": "зима́: winter"
 		},
 		{
 			"id": "y",
 			"item": "letter:y",
 			"text": "И и",
-			"clue": "y, like i in bit",
-			"note": "ри́ба: fish. Like the i in bit, never the ee sound, which is і."
+			"clue": "/ɪ/, like i in bit",
+			"note": "ри́ба: fish. Retracted and lowered compared with і. Close to the Russian vowel [ɨ], but not the same sound. Vakulenko 2025 transcribes it as a lowered, advanced [ɨ] instead."
 		},
 		{
 			"id": "i",
 			"item": "letter:i",
 			"text": "І і",
-			"clue": "i, like ee in see",
+			"clue": "/i/, like ee in see",
 			"note": "і́грашка: toy"
 		},
 		{
 			"id": "yi",
 			"item": "letter:yi",
 			"text": "Ї ї",
-			"clue": "yi, as in yeast",
+			"clue": "/ji/, as in yeast",
 			"note": "ї́жа: food"
 		},
 		{
 			"id": "j",
 			"item": "letter:j",
 			"text": "Й й",
-			"clue": "y, as in boy",
+			"clue": "/j/, as in boy",
 			"note": "йо́гурт: yogurt"
 		},
-		{ "id": "k", "item": "letter:k", "text": "К к", "clue": "k, as in kit", "note": "кіт: cat" },
+		{
+			"id": "k",
+			"item": "letter:k",
+			"text": "К к",
+			"clue": "/k/, unaspirated, as in skin",
+			"note": "кіт: cat"
+		},
 		{
 			"id": "l",
 			"item": "letter:l",
 			"text": "Л л",
-			"clue": "l, as in lamp",
-			"note": "лі́то: summer"
+			"clue": "/l/, usually dark [ɫ], as in full",
+			"note": "ла́мпа: lamp, with the hard [ɫ]. Before і it is soft: лі́то (summer) has [lʲ]."
 		},
-		{ "id": "m", "item": "letter:m", "text": "М м", "clue": "m, as in map", "note": "ма́ма: mum" },
-		{ "id": "n", "item": "letter:n", "text": "Н н", "clue": "n, as in net", "note": "ніч: night" },
-		{ "id": "o", "item": "letter:o", "text": "О о", "clue": "o, as in port", "note": "о́ко: eye" },
-		{ "id": "p", "item": "letter:p", "text": "П п", "clue": "p, as in pen", "note": "пес: dog" },
-		{ "id": "r", "item": "letter:r", "text": "Р р", "clue": "r, rolled", "note": "рука́: hand" },
-		{ "id": "s", "item": "letter:s", "text": "С с", "clue": "s, as in sun", "note": "со́нце: sun" },
-		{ "id": "t", "item": "letter:t", "text": "Т т", "clue": "t, as in top", "note": "та́то: dad" },
+		{
+			"id": "m",
+			"item": "letter:m",
+			"text": "М м",
+			"clue": "/m/, as in map",
+			"note": "ма́ма: mum"
+		},
+		{
+			"id": "n",
+			"item": "letter:n",
+			"text": "Н н",
+			"clue": "/n/, as in net",
+			"note": "ніч: night"
+		},
+		{
+			"id": "o",
+			"item": "letter:o",
+			"text": "О о",
+			"clue": "/ɔ/, as in port",
+			"note": "о́ко: eye. Unlike Russian, it does not reduce towards a without stress: вода́ is never вада́. It can still shift slightly, towards [o] before a stressed /u/. Vakulenko 2025 describes the vowel as close-mid [o] rather than /ɔ/."
+		},
+		{
+			"id": "p",
+			"item": "letter:p",
+			"text": "П п",
+			"clue": "/p/, unaspirated, as in spin",
+			"note": "пес: dog"
+		},
+		{
+			"id": "r",
+			"item": "letter:r",
+			"text": "Р р",
+			"clue": "/r/, trilled",
+			"note": "рука́: hand"
+		},
+		{
+			"id": "s",
+			"item": "letter:s",
+			"text": "С с",
+			"clue": "/s/, as in sun",
+			"note": "со́нце: sun"
+		},
+		{
+			"id": "t",
+			"item": "letter:t",
+			"text": "Т т",
+			"clue": "/t/, unaspirated, as in stop",
+			"note": "та́то: dad"
+		},
 		{
 			"id": "u",
 			"item": "letter:u",
 			"text": "У у",
-			"clue": "u, like oo in moon",
+			"clue": "/u/, like oo in moon",
 			"note": "у́чень: pupil"
 		},
-		{ "id": "f", "item": "letter:f", "text": "Ф ф", "clue": "f, as in fan", "note": "фо́то: photo" },
+		{
+			"id": "f",
+			"item": "letter:f",
+			"text": "Ф ф",
+			"clue": "/f/, as in fan",
+			"note": "фо́то: photo"
+		},
 		{
 			"id": "kh",
 			"item": "letter:kh",
 			"text": "Х х",
-			"clue": "kh, as in loch",
+			"clue": "/x/, as in loch",
 			"note": "хліб: bread"
 		},
 		{
 			"id": "ts",
 			"item": "letter:ts",
 			"text": "Ц ц",
-			"clue": "ts, as in cats",
+			"clue": "/t͡s/, as in cats",
 			"note": "цу́кор: sugar"
 		},
 		{
 			"id": "ch",
 			"item": "letter:ch",
 			"text": "Ч ч",
-			"clue": "ch, as in chin",
+			"clue": "/t͡ʃ/, as in chin",
 			"note": "час: time"
 		},
 		{
 			"id": "sh",
 			"item": "letter:sh",
 			"text": "Ш ш",
-			"clue": "sh, as in shop",
+			"clue": "/ʃ/, as in shop",
 			"note": "шко́ла: school"
 		},
 		{
 			"id": "shch",
 			"item": "letter:shch",
 			"text": "Щ щ",
-			"clue": "shch, as in fresh cheese",
+			"clue": "/ʃt͡ʃ/, as in fresh cheese",
 			"note": "що: what"
 		},
 		{
 			"id": "soft",
 			"item": "letter:soft",
 			"text": "Ь ь",
-			"clue": "soft sign, softens the sound before it",
+			"clue": "soft sign, marks the consonant before it as soft",
 			"note": "день: day. It has no sound of its own."
 		},
 		{
 			"id": "yu",
 			"item": "letter:yu",
 			"text": "Ю ю",
-			"clue": "yu, as in you",
+			"clue": "/ju/, as in you",
 			"note": "юна́к: young man"
 		},
 		{
 			"id": "ya",
 			"item": "letter:ya",
 			"text": "Я я",
-			"clue": "ya, as in yard",
+			"clue": "/ja/, as in yard",
 			"note": "я́блуко: apple"
 		}
 	]
