@@ -640,10 +640,10 @@ export function checkTargets(units: readonly Unit[], layers: Layers): CheckTarge
 	const targets: CheckTarget[] = [];
 	for (const unit of units) {
 		for (const cell of unit.cells) {
-			const { text, display, ipa, clue, example, cognates, row, col } = cell;
+			const { item, text, display, ipa, clue, example, cognates, concepts, row, col } = cell;
 			targets.push({
 				key: `core/${unit.id}/${cell.id}`,
-				seen: seenOf({ text, display, ipa, clue, example, cognates, row, col })
+				seen: seenOf({ item, text, display, ipa, clue, example, cognates, concepts, row, col })
 			});
 		}
 	}

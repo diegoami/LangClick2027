@@ -2,6 +2,10 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
+## Unreleased
+
+Also: a cell's recorded checks now cover its `item` and `concepts`, and the check that keeps engine code language-neutral covers more languages and every non-Latin script.
+
 ## v0.2.0 — 2026-10-31 — Study first, then practise, compared with Russian or Polish
 
 **Langclick becomes a companion to Є-мова: study a lesson there, then practise and track it here, with explanations that fit the language you come from.**

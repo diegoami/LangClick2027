@@ -3,1029 +3,1020 @@
 	"entries": [
 		{
 			"key": "core/alphabet/a",
-			"seen": "{\"text\":\"А а\",\"clue\":\"/a/\",\"example\":\"авто́бус\"}",
+			"seen": "{\"item\":\"letter:a\",\"text\":\"А а\",\"clue\":\"/a/\",\"example\":\"авто́бус\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/b",
-			"seen": "{\"text\":\"Б б\",\"clue\":\"/b/\",\"example\":\"брат\"}",
+			"seen": "{\"item\":\"letter:b\",\"text\":\"Б б\",\"clue\":\"/b/\",\"example\":\"брат\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/v",
-			"seen": "{\"text\":\"В в\",\"clue\":\"/ʋ/\",\"example\":\"вода́\"}",
+			"seen": "{\"item\":\"letter:v\",\"text\":\"В в\",\"clue\":\"/ʋ/\",\"example\":\"вода́\",\"concepts\":[\"v-allophones\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/h",
-			"seen": "{\"text\":\"Г г\",\"clue\":\"/ɦ/\",\"example\":\"голова́\"}",
+			"seen": "{\"item\":\"letter:h\",\"text\":\"Г г\",\"clue\":\"/ɦ/\",\"example\":\"голова́\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/g",
-			"seen": "{\"text\":\"Ґ ґ\",\"clue\":\"/ɡ/\",\"example\":\"ґа́нок\"}",
+			"seen": "{\"item\":\"letter:g\",\"text\":\"Ґ ґ\",\"clue\":\"/ɡ/\",\"example\":\"ґа́нок\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/d",
-			"seen": "{\"text\":\"Д д\",\"clue\":\"/d/\",\"example\":\"дім\"}",
+			"seen": "{\"item\":\"letter:d\",\"text\":\"Д д\",\"clue\":\"/d/\",\"example\":\"дім\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/e",
-			"seen": "{\"text\":\"Е е\",\"clue\":\"/ɛ/\",\"example\":\"екра́н\"}",
+			"seen": "{\"item\":\"letter:e\",\"text\":\"Е е\",\"clue\":\"/ɛ/\",\"example\":\"екра́н\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/ye",
-			"seen": "{\"text\":\"Є є\",\"clue\":\"/jɛ/\",\"example\":\"Євро́па\"}",
+			"seen": "{\"item\":\"letter:ye\",\"text\":\"Є є\",\"clue\":\"/jɛ/\",\"example\":\"Євро́па\",\"concepts\":[\"iotated\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/zh",
-			"seen": "{\"text\":\"Ж ж\",\"clue\":\"/ʒ/\",\"example\":\"жі́нка\"}",
+			"seen": "{\"item\":\"letter:zh\",\"text\":\"Ж ж\",\"clue\":\"/ʒ/\",\"example\":\"жі́нка\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/z",
-			"seen": "{\"text\":\"З з\",\"clue\":\"/z/\",\"example\":\"зима́\"}",
+			"seen": "{\"item\":\"letter:z\",\"text\":\"З з\",\"clue\":\"/z/\",\"example\":\"зима́\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/y",
-			"seen": "{\"text\":\"И и\",\"clue\":\"/ɪ/\",\"example\":\"ри́ба\"}",
+			"seen": "{\"item\":\"letter:y\",\"text\":\"И и\",\"clue\":\"/ɪ/\",\"example\":\"ри́ба\",\"concepts\":[\"y-vowel\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/i",
-			"seen": "{\"text\":\"І і\",\"clue\":\"/i/\",\"example\":\"і́грашка\"}",
+			"seen": "{\"item\":\"letter:i\",\"text\":\"І і\",\"clue\":\"/i/\",\"example\":\"і́грашка\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/yi",
-			"seen": "{\"text\":\"Ї ї\",\"clue\":\"/ji/\",\"example\":\"ї́жа\"}",
+			"seen": "{\"item\":\"letter:yi\",\"text\":\"Ї ї\",\"clue\":\"/ji/\",\"example\":\"ї́жа\",\"concepts\":[\"iotated\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/j",
-			"seen": "{\"text\":\"Й й\",\"clue\":\"/j/\",\"example\":\"йо́гурт\"}",
+			"seen": "{\"item\":\"letter:j\",\"text\":\"Й й\",\"clue\":\"/j/\",\"example\":\"йо́гурт\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/k",
-			"seen": "{\"text\":\"К к\",\"clue\":\"/k/\",\"example\":\"кіт\"}",
+			"seen": "{\"item\":\"letter:k\",\"text\":\"К к\",\"clue\":\"/k/\",\"example\":\"кіт\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/l",
-			"seen": "{\"text\":\"Л л\",\"clue\":\"/l/\",\"example\":\"ла́мпа\"}",
+			"seen": "{\"item\":\"letter:l\",\"text\":\"Л л\",\"clue\":\"/l/\",\"example\":\"ла́мпа\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/m",
-			"seen": "{\"text\":\"М м\",\"clue\":\"/m/\",\"example\":\"ма́ма\"}",
+			"seen": "{\"item\":\"letter:m\",\"text\":\"М м\",\"clue\":\"/m/\",\"example\":\"ма́ма\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/n",
-			"seen": "{\"text\":\"Н н\",\"clue\":\"/n/\",\"example\":\"ніч\"}",
+			"seen": "{\"item\":\"letter:n\",\"text\":\"Н н\",\"clue\":\"/n/\",\"example\":\"ніч\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/o",
-			"seen": "{\"text\":\"О о\",\"clue\":\"/ɔ/\",\"example\":\"о́ко\"}",
+			"seen": "{\"item\":\"letter:o\",\"text\":\"О о\",\"clue\":\"/ɔ/\",\"example\":\"о́ко\",\"concepts\":[\"o-unreduced\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/p",
-			"seen": "{\"text\":\"П п\",\"clue\":\"/p/\",\"example\":\"пес\"}",
+			"seen": "{\"item\":\"letter:p\",\"text\":\"П п\",\"clue\":\"/p/\",\"example\":\"пес\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/r",
-			"seen": "{\"text\":\"Р р\",\"clue\":\"/r/\",\"example\":\"рука́\"}",
+			"seen": "{\"item\":\"letter:r\",\"text\":\"Р р\",\"clue\":\"/r/\",\"example\":\"рука́\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/s",
-			"seen": "{\"text\":\"С с\",\"clue\":\"/s/\",\"example\":\"со́нце\"}",
+			"seen": "{\"item\":\"letter:s\",\"text\":\"С с\",\"clue\":\"/s/\",\"example\":\"со́нце\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/t",
-			"seen": "{\"text\":\"Т т\",\"clue\":\"/t/\",\"example\":\"та́то\"}",
+			"seen": "{\"item\":\"letter:t\",\"text\":\"Т т\",\"clue\":\"/t/\",\"example\":\"та́то\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/u",
-			"seen": "{\"text\":\"У у\",\"clue\":\"/u/\",\"example\":\"у́чень\"}",
+			"seen": "{\"item\":\"letter:u\",\"text\":\"У у\",\"clue\":\"/u/\",\"example\":\"у́чень\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/f",
-			"seen": "{\"text\":\"Ф ф\",\"clue\":\"/f/\",\"example\":\"фо́то\"}",
+			"seen": "{\"item\":\"letter:f\",\"text\":\"Ф ф\",\"clue\":\"/f/\",\"example\":\"фо́то\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/kh",
-			"seen": "{\"text\":\"Х х\",\"clue\":\"/x/\",\"example\":\"хліб\"}",
+			"seen": "{\"item\":\"letter:kh\",\"text\":\"Х х\",\"clue\":\"/x/\",\"example\":\"хліб\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/ts",
-			"seen": "{\"text\":\"Ц ц\",\"clue\":\"/t͡s/\",\"example\":\"цу́кор\"}",
+			"seen": "{\"item\":\"letter:ts\",\"text\":\"Ц ц\",\"clue\":\"/t͡s/\",\"example\":\"цу́кор\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/ch",
-			"seen": "{\"text\":\"Ч ч\",\"clue\":\"/t͡ʃ/\",\"example\":\"час\"}",
+			"seen": "{\"item\":\"letter:ch\",\"text\":\"Ч ч\",\"clue\":\"/t͡ʃ/\",\"example\":\"час\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/sh",
-			"seen": "{\"text\":\"Ш ш\",\"clue\":\"/ʃ/\",\"example\":\"шко́ла\"}",
+			"seen": "{\"item\":\"letter:sh\",\"text\":\"Ш ш\",\"clue\":\"/ʃ/\",\"example\":\"шко́ла\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/shch",
-			"seen": "{\"text\":\"Щ щ\",\"clue\":\"/ʃt͡ʃ/\",\"example\":\"що\"}",
+			"seen": "{\"item\":\"letter:shch\",\"text\":\"Щ щ\",\"clue\":\"/ʃt͡ʃ/\",\"example\":\"що\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/soft",
-			"seen": "{\"text\":\"Ь ь\",\"clue\":\"◌ʲ\",\"example\":\"день\"}",
+			"seen": "{\"item\":\"letter:soft\",\"text\":\"Ь ь\",\"clue\":\"◌ʲ\",\"example\":\"день\",\"concepts\":[\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/yu",
-			"seen": "{\"text\":\"Ю ю\",\"clue\":\"/ju/\",\"example\":\"юна́к\"}",
+			"seen": "{\"item\":\"letter:yu\",\"text\":\"Ю ю\",\"clue\":\"/ju/\",\"example\":\"юна́к\",\"concepts\":[\"iotated\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/ya",
-			"seen": "{\"text\":\"Я я\",\"clue\":\"/ja/\",\"example\":\"я́блуко\"}",
+			"seen": "{\"item\":\"letter:ya\",\"text\":\"Я я\",\"clue\":\"/ja/\",\"example\":\"я́блуко\",\"concepts\":[\"iotated\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/p",
-			"seen": "{\"text\":\"п\",\"clue\":\"/p/\",\"row\":\"plosive-vl\",\"col\":\"labial\"}",
+			"seen": "{\"item\":\"consonant:p\",\"text\":\"п\",\"clue\":\"/p/\",\"row\":\"plosive-vl\",\"col\":\"labial\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/b",
-			"seen": "{\"text\":\"б\",\"clue\":\"/b/\",\"row\":\"plosive-vd\",\"col\":\"labial\"}",
+			"seen": "{\"item\":\"consonant:b\",\"text\":\"б\",\"clue\":\"/b/\",\"row\":\"plosive-vd\",\"col\":\"labial\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/t",
-			"seen": "{\"text\":\"т\",\"clue\":\"/t/\",\"row\":\"plosive-vl\",\"col\":\"denti-alveolar\"}",
+			"seen": "{\"item\":\"consonant:t\",\"text\":\"т\",\"clue\":\"/t/\",\"row\":\"plosive-vl\",\"col\":\"denti-alveolar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/d",
-			"seen": "{\"text\":\"д\",\"clue\":\"/d/\",\"row\":\"plosive-vd\",\"col\":\"denti-alveolar\"}",
+			"seen": "{\"item\":\"consonant:d\",\"text\":\"д\",\"clue\":\"/d/\",\"row\":\"plosive-vd\",\"col\":\"denti-alveolar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/k",
-			"seen": "{\"text\":\"к\",\"clue\":\"/k/\",\"row\":\"plosive-vl\",\"col\":\"velar\"}",
+			"seen": "{\"item\":\"consonant:k\",\"text\":\"к\",\"clue\":\"/k/\",\"row\":\"plosive-vl\",\"col\":\"velar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/g",
-			"seen": "{\"text\":\"ґ\",\"clue\":\"/ɡ/\",\"row\":\"plosive-vd\",\"col\":\"velar\"}",
+			"seen": "{\"item\":\"consonant:g\",\"text\":\"ґ\",\"clue\":\"/ɡ/\",\"concepts\":[\"h-sound\"],\"row\":\"plosive-vd\",\"col\":\"velar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/m",
-			"seen": "{\"text\":\"м\",\"clue\":\"/m/\",\"row\":\"nasal\",\"col\":\"labial\"}",
+			"seen": "{\"item\":\"consonant:m\",\"text\":\"м\",\"clue\":\"/m/\",\"row\":\"nasal\",\"col\":\"labial\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/n",
-			"seen": "{\"text\":\"н\",\"clue\":\"/n/\",\"row\":\"nasal\",\"col\":\"denti-alveolar\"}",
+			"seen": "{\"item\":\"consonant:n\",\"text\":\"н\",\"clue\":\"/n/\",\"row\":\"nasal\",\"col\":\"denti-alveolar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/f",
-			"seen": "{\"text\":\"ф\",\"clue\":\"/f/\",\"row\":\"fricative-vl\",\"col\":\"labial\"}",
+			"seen": "{\"item\":\"consonant:f\",\"text\":\"ф\",\"clue\":\"/f/\",\"row\":\"fricative-vl\",\"col\":\"labial\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/s",
-			"seen": "{\"text\":\"с\",\"clue\":\"/s/\",\"row\":\"fricative-vl\",\"col\":\"denti-alveolar\"}",
+			"seen": "{\"item\":\"consonant:s\",\"text\":\"с\",\"clue\":\"/s/\",\"row\":\"fricative-vl\",\"col\":\"denti-alveolar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/sh",
-			"seen": "{\"text\":\"ш\",\"clue\":\"/ʃ/\",\"row\":\"fricative-vl\",\"col\":\"post\"}",
+			"seen": "{\"item\":\"consonant:sh\",\"text\":\"ш\",\"clue\":\"/ʃ/\",\"row\":\"fricative-vl\",\"col\":\"post\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/kh",
-			"seen": "{\"text\":\"х\",\"clue\":\"/x/\",\"row\":\"fricative-vl\",\"col\":\"velar\"}",
+			"seen": "{\"item\":\"consonant:kh\",\"text\":\"х\",\"clue\":\"/x/\",\"row\":\"fricative-vl\",\"col\":\"velar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/z",
-			"seen": "{\"text\":\"з\",\"clue\":\"/z/\",\"row\":\"fricative-vd\",\"col\":\"denti-alveolar\"}",
+			"seen": "{\"item\":\"consonant:z\",\"text\":\"з\",\"clue\":\"/z/\",\"row\":\"fricative-vd\",\"col\":\"denti-alveolar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/zh",
-			"seen": "{\"text\":\"ж\",\"clue\":\"/ʒ/\",\"row\":\"fricative-vd\",\"col\":\"post\"}",
+			"seen": "{\"item\":\"consonant:zh\",\"text\":\"ж\",\"clue\":\"/ʒ/\",\"row\":\"fricative-vd\",\"col\":\"post\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/h",
-			"seen": "{\"text\":\"г\",\"clue\":\"/ɦ/\",\"row\":\"fricative-vd\",\"col\":\"glottal\"}",
-			"verdict": "ok",
-			"comment": "Placement matches Jipa 2017 (glottal). Vakulenko 2025 disagrees ([ʕ]/[ɣ]); the concept already says so."
+			"seen": "{\"item\":\"consonant:h\",\"text\":\"г\",\"clue\":\"/ɦ/\",\"concepts\":[\"h-sound\"],\"row\":\"fricative-vd\",\"col\":\"glottal\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/ts",
-			"seen": "{\"text\":\"ц\",\"clue\":\"/t͡s/\",\"row\":\"affricate-vl\",\"col\":\"denti-alveolar\"}",
+			"seen": "{\"item\":\"consonant:ts\",\"text\":\"ц\",\"clue\":\"/t͡s/\",\"row\":\"affricate-vl\",\"col\":\"denti-alveolar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/ch",
-			"seen": "{\"text\":\"ч\",\"clue\":\"/t͡ʃ/\",\"row\":\"affricate-vl\",\"col\":\"post\"}",
+			"seen": "{\"item\":\"consonant:ch\",\"text\":\"ч\",\"clue\":\"/t͡ʃ/\",\"row\":\"affricate-vl\",\"col\":\"post\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/dz",
-			"seen": "{\"text\":\"дз\",\"clue\":\"/d͡z/\",\"row\":\"affricate-vd\",\"col\":\"denti-alveolar\"}",
+			"seen": "{\"item\":\"consonant:dz\",\"text\":\"дз\",\"clue\":\"/d͡z/\",\"concepts\":[\"one-sound-two-letters\"],\"row\":\"affricate-vd\",\"col\":\"denti-alveolar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/dzh",
-			"seen": "{\"text\":\"дж\",\"clue\":\"/d͡ʒ/\",\"row\":\"affricate-vd\",\"col\":\"post\"}",
+			"seen": "{\"item\":\"consonant:dzh\",\"text\":\"дж\",\"clue\":\"/d͡ʒ/\",\"concepts\":[\"one-sound-two-letters\"],\"row\":\"affricate-vd\",\"col\":\"post\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/r",
-			"seen": "{\"text\":\"р\",\"clue\":\"/r/\",\"row\":\"trill\",\"col\":\"denti-alveolar\"}",
+			"seen": "{\"item\":\"consonant:r\",\"text\":\"р\",\"clue\":\"/r/\",\"row\":\"trill\",\"col\":\"denti-alveolar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/v",
-			"seen": "{\"text\":\"в\",\"clue\":\"/ʋ/\",\"row\":\"approximant\",\"col\":\"labial\"}",
+			"seen": "{\"item\":\"consonant:v\",\"text\":\"в\",\"clue\":\"/ʋ/\",\"concepts\":[\"v-allophones\"],\"row\":\"approximant\",\"col\":\"labial\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/j",
-			"seen": "{\"text\":\"й\",\"clue\":\"/j/\",\"row\":\"approximant\",\"col\":\"palatal\"}",
+			"seen": "{\"item\":\"consonant:j\",\"text\":\"й\",\"clue\":\"/j/\",\"row\":\"approximant\",\"col\":\"palatal\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/consonant-chart/l",
-			"seen": "{\"text\":\"л\",\"clue\":\"/l/\",\"row\":\"lateral\",\"col\":\"denti-alveolar\"}",
+			"seen": "{\"item\":\"consonant:l\",\"text\":\"л\",\"clue\":\"/l/\",\"row\":\"lateral\",\"col\":\"denti-alveolar\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/lyudyna",
-			"seen": "{\"text\":\"людина\",\"display\":\"люди́на\",\"ipa\":\"/lʲuˈdɪna/\",\"cognates\":{\"ru\":{\"form\":\"люди\",\"ipa\":\"/ˈlʲudʲɪ/\"},\"pl\":{\"form\":\"ludzie\",\"ipa\":\"/ˈlud͡ʑɛ/\"}}}",
+			"seen": "{\"item\":\"word:lyudyna\",\"text\":\"людина\",\"display\":\"люди́на\",\"ipa\":\"/lʲuˈdɪna/\",\"cognates\":{\"ru\":{\"form\":\"люди\",\"ipa\":\"/ˈlʲudʲɪ/\"},\"pl\":{\"form\":\"ludzie\",\"ipa\":\"/ˈlud͡ʑɛ/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/cholovik",
-			"seen": "{\"text\":\"чоловік\",\"display\":\"чолові́к\",\"ipa\":\"/t͡ʃɔlɔˈʋik/\",\"cognates\":{\"ru\":{\"form\":\"человек\",\"ipa\":\"/t͡ɕɪlɐˈvʲek/\"},\"pl\":{\"form\":\"człowiek\",\"ipa\":\"/ˈt͡ʂwɔvjɛk/\"}}}",
-			"verdict": "ok",
-			"comment": "Facts correct; ru человек IPA agrees with en.wiktionary ([t͡ɕɪɫɐˈvʲek], with dark l)."
+			"seen": "{\"item\":\"word:cholovik\",\"text\":\"чоловік\",\"display\":\"чолові́к\",\"ipa\":\"/t͡ʃɔlɔˈʋik/\",\"cognates\":{\"ru\":{\"form\":\"человек\",\"ipa\":\"/t͡ɕɪlɐˈvʲek/\"},\"pl\":{\"form\":\"człowiek\",\"ipa\":\"/ˈt͡ʂwɔvjɛk/\"}}}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/zhinka",
-			"seen": "{\"text\":\"жінка\",\"display\":\"жі́нка\",\"ipa\":\"/ˈʒinka/\",\"cognates\":{\"ru\":{\"form\":\"жена\",\"ipa\":\"/ʐɨˈna/\"},\"pl\":{\"form\":\"żona\",\"ipa\":\"/ˈʐɔna/\"}}}",
-			"verdict": "ok",
-			"comment": "Cognates are real. Note for the pl and ru overlays: Polish żona means only \"wife\" (en.wiktionary; \"woman\" is obsolete) and Russian жена likewise, so жінка/żona is a partial false friend that no overlay records."
+			"seen": "{\"item\":\"word:zhinka\",\"text\":\"жінка\",\"display\":\"жі́нка\",\"ipa\":\"/ˈʒinka/\",\"cognates\":{\"ru\":{\"form\":\"жена\",\"ipa\":\"/ʐɨˈna/\"},\"pl\":{\"form\":\"żona\",\"ipa\":\"/ˈʐɔna/\"}}}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/khlopets",
-			"seen": "{\"text\":\"хлопець\",\"display\":\"хло́пець\",\"ipa\":\"/ˈxlɔpɛt͡sʲ/\",\"cognates\":{\"pl\":{\"form\":\"chłopiec\",\"ipa\":\"/ˈxwɔpjɛt͡s/\"}}}",
+			"seen": "{\"item\":\"word:khlopets\",\"text\":\"хлопець\",\"display\":\"хло́пець\",\"ipa\":\"/ˈxlɔpɛt͡sʲ/\",\"cognates\":{\"pl\":{\"form\":\"chłopiec\",\"ipa\":\"/ˈxwɔpjɛt͡s/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/divchyna",
-			"seen": "{\"text\":\"дівчина\",\"display\":\"ді́вчина\",\"ipa\":\"/ˈdʲiʋt͡ʃɪna/\",\"cognates\":{\"ru\":{\"form\":\"девушка\",\"ipa\":\"/ˈdʲevʊʂkə/\"},\"pl\":{\"form\":\"dziewczyna\",\"ipa\":\"/d͡ʑɛfˈt͡ʂɨna/\"}}}",
-			"verdict": "ok",
-			"comment": "Palatalized д before і: JIPA vowel table gives дім as dʲim, and dentals contrast palatalized/plain. Consistent with the other edited entries."
+			"seen": "{\"item\":\"word:divchyna\",\"text\":\"дівчина\",\"display\":\"ді́вчина\",\"ipa\":\"/ˈdʲiʋt͡ʃɪna/\",\"cognates\":{\"ru\":{\"form\":\"девушка\",\"ipa\":\"/ˈdʲevʊʂkə/\"},\"pl\":{\"form\":\"dziewczyna\",\"ipa\":\"/d͡ʑɛfˈt͡ʂɨna/\"}}}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/dytyna",
-			"seen": "{\"text\":\"дитина\",\"display\":\"дити́на\",\"ipa\":\"/dɪˈtɪna/\",\"cognates\":{\"ru\":{\"form\":\"дитя\",\"ipa\":\"/dʲɪˈtʲa/\"},\"pl\":{\"form\":\"dziecko\",\"ipa\":\"/ˈd͡ʑɛt͡skɔ/\"}}}",
+			"seen": "{\"item\":\"word:dytyna\",\"text\":\"дитина\",\"display\":\"дити́на\",\"ipa\":\"/dɪˈtɪna/\",\"cognates\":{\"ru\":{\"form\":\"дитя\",\"ipa\":\"/dʲɪˈtʲa/\"},\"pl\":{\"form\":\"dziecko\",\"ipa\":\"/ˈd͡ʑɛt͡skɔ/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/mama",
-			"seen": "{\"text\":\"мама\",\"display\":\"ма́ма\",\"ipa\":\"/ˈmama/\",\"cognates\":{\"ru\":{\"form\":\"мама\",\"ipa\":\"/ˈmamə/\"},\"pl\":{\"form\":\"mama\",\"ipa\":\"/ˈmama/\"}}}",
+			"seen": "{\"item\":\"word:mama\",\"text\":\"мама\",\"display\":\"ма́ма\",\"ipa\":\"/ˈmama/\",\"cognates\":{\"ru\":{\"form\":\"мама\",\"ipa\":\"/ˈmamə/\"},\"pl\":{\"form\":\"mama\",\"ipa\":\"/ˈmama/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/tato",
-			"seen": "{\"text\":\"тато\",\"display\":\"та́то\",\"ipa\":\"/ˈtatɔ/\",\"cognates\":{\"pl\":{\"form\":\"tata\",\"ipa\":\"/ˈtata/\"}}}",
+			"seen": "{\"item\":\"word:tato\",\"text\":\"тато\",\"display\":\"та́то\",\"ipa\":\"/ˈtatɔ/\",\"cognates\":{\"pl\":{\"form\":\"tata\",\"ipa\":\"/ˈtata/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/maty",
-			"seen": "{\"text\":\"мати\",\"display\":\"ма́ти\",\"ipa\":\"/ˈmatɪ/\",\"cognates\":{\"ru\":{\"form\":\"мать\",\"ipa\":\"/matʲ/\"},\"pl\":{\"form\":\"matka\",\"ipa\":\"/ˈmatka/\"}}}",
+			"seen": "{\"item\":\"word:maty\",\"text\":\"мати\",\"display\":\"ма́ти\",\"ipa\":\"/ˈmatɪ/\",\"cognates\":{\"ru\":{\"form\":\"мать\",\"ipa\":\"/matʲ/\"},\"pl\":{\"form\":\"matka\",\"ipa\":\"/ˈmatka/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/batko",
-			"seen": "{\"text\":\"батько\",\"display\":\"ба́тько\",\"ipa\":\"/ˈbatʲkɔ/\",\"cognates\":{\"ru\":{\"form\":\"батя\",\"ipa\":\"/ˈbatʲə/\"}}}",
+			"seen": "{\"item\":\"word:batko\",\"text\":\"батько\",\"display\":\"ба́тько\",\"ipa\":\"/ˈbatʲkɔ/\",\"cognates\":{\"ru\":{\"form\":\"батя\",\"ipa\":\"/ˈbatʲə/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/syn",
-			"seen": "{\"text\":\"син\",\"ipa\":\"/sɪn/\",\"cognates\":{\"ru\":{\"form\":\"сын\",\"ipa\":\"/sɨn/\"},\"pl\":{\"form\":\"syn\",\"ipa\":\"/sɨn/\"}}}",
+			"seen": "{\"item\":\"word:syn\",\"text\":\"син\",\"ipa\":\"/sɪn/\",\"cognates\":{\"ru\":{\"form\":\"сын\",\"ipa\":\"/sɨn/\"},\"pl\":{\"form\":\"syn\",\"ipa\":\"/sɨn/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/dochka",
-			"seen": "{\"text\":\"дочка\",\"display\":\"дочка́\",\"ipa\":\"/dɔt͡ʃˈka/\",\"cognates\":{\"ru\":{\"form\":\"дочка\",\"ipa\":\"/ˈdot͡ɕkə/\"},\"pl\":{\"form\":\"córka\",\"ipa\":\"/ˈt͡surka/\"}}}",
+			"seen": "{\"item\":\"word:dochka\",\"text\":\"дочка\",\"display\":\"дочка́\",\"ipa\":\"/dɔt͡ʃˈka/\",\"cognates\":{\"ru\":{\"form\":\"дочка\",\"ipa\":\"/ˈdot͡ɕkə/\"},\"pl\":{\"form\":\"córka\",\"ipa\":\"/ˈt͡surka/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/brat",
-			"seen": "{\"text\":\"брат\",\"ipa\":\"/brat/\",\"cognates\":{\"ru\":{\"form\":\"брат\",\"ipa\":\"/brat/\"},\"pl\":{\"form\":\"brat\",\"ipa\":\"/brat/\"}}}",
+			"seen": "{\"item\":\"word:brat\",\"text\":\"брат\",\"ipa\":\"/brat/\",\"cognates\":{\"ru\":{\"form\":\"брат\",\"ipa\":\"/brat/\"},\"pl\":{\"form\":\"brat\",\"ipa\":\"/brat/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/sestra",
-			"seen": "{\"text\":\"сестра\",\"display\":\"сестра́\",\"ipa\":\"/sɛˈstra/\",\"cognates\":{\"ru\":{\"form\":\"сестра\",\"ipa\":\"/sʲɪˈstra/\"},\"pl\":{\"form\":\"siostra\",\"ipa\":\"/ˈɕɔstra/\"}}}",
+			"seen": "{\"item\":\"word:sestra\",\"text\":\"сестра\",\"display\":\"сестра́\",\"ipa\":\"/sɛˈstra/\",\"cognates\":{\"ru\":{\"form\":\"сестра\",\"ipa\":\"/sʲɪˈstra/\"},\"pl\":{\"form\":\"siostra\",\"ipa\":\"/ˈɕɔstra/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/babusya",
-			"seen": "{\"text\":\"бабуся\",\"display\":\"бабу́ся\",\"ipa\":\"/baˈbusʲa/\",\"cognates\":{\"ru\":{\"form\":\"бабушка\",\"ipa\":\"/ˈbabʊʂkə/\"},\"pl\":{\"form\":\"babcia\",\"ipa\":\"/ˈbapt͡ɕa/\"}}}",
+			"seen": "{\"item\":\"word:babusya\",\"text\":\"бабуся\",\"display\":\"бабу́ся\",\"ipa\":\"/baˈbusʲa/\",\"cognates\":{\"ru\":{\"form\":\"бабушка\",\"ipa\":\"/ˈbabʊʂkə/\"},\"pl\":{\"form\":\"babcia\",\"ipa\":\"/ˈbapt͡ɕa/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/didus",
-			"seen": "{\"text\":\"дідусь\",\"display\":\"діду́сь\",\"ipa\":\"/dʲiˈdusʲ/\",\"cognates\":{\"ru\":{\"form\":\"дедушка\",\"ipa\":\"/ˈdʲedʊʂkə/\"},\"pl\":{\"form\":\"dziadek\",\"ipa\":\"/ˈd͡ʑadɛk/\"}}}",
+			"seen": "{\"item\":\"word:didus\",\"text\":\"дідусь\",\"display\":\"діду́сь\",\"ipa\":\"/dʲiˈdusʲ/\",\"cognates\":{\"ru\":{\"form\":\"дедушка\",\"ipa\":\"/ˈdʲedʊʂkə/\"},\"pl\":{\"form\":\"dziadek\",\"ipa\":\"/ˈd͡ʑadɛk/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/onuk",
-			"seen": "{\"text\":\"онук\",\"display\":\"ону́к\",\"ipa\":\"/ɔˈnuk/\",\"cognates\":{\"ru\":{\"form\":\"внук\",\"ipa\":\"/vnuk/\"},\"pl\":{\"form\":\"wnuk\",\"ipa\":\"/vnuk/\"}}}",
+			"seen": "{\"item\":\"word:onuk\",\"text\":\"онук\",\"display\":\"ону́к\",\"ipa\":\"/ɔˈnuk/\",\"cognates\":{\"ru\":{\"form\":\"внук\",\"ipa\":\"/vnuk/\"},\"pl\":{\"form\":\"wnuk\",\"ipa\":\"/vnuk/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/onuka",
-			"seen": "{\"text\":\"онука\",\"display\":\"ону́ка\",\"ipa\":\"/ɔˈnuka/\",\"cognates\":{\"ru\":{\"form\":\"внучка\",\"ipa\":\"/ˈvnut͡ɕkə/\"},\"pl\":{\"form\":\"wnuczka\",\"ipa\":\"/ˈvnut͡ʂka/\"}}}",
+			"seen": "{\"item\":\"word:onuka\",\"text\":\"онука\",\"display\":\"ону́ка\",\"ipa\":\"/ɔˈnuka/\",\"cognates\":{\"ru\":{\"form\":\"внучка\",\"ipa\":\"/ˈvnut͡ɕkə/\"},\"pl\":{\"form\":\"wnuczka\",\"ipa\":\"/ˈvnut͡ʂka/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/dyadko",
-			"seen": "{\"text\":\"дядько\",\"display\":\"дя́дько\",\"ipa\":\"/ˈdʲadʲkɔ/\",\"cognates\":{\"ru\":{\"form\":\"дядя\",\"ipa\":\"/ˈdʲadʲə/\"}}}",
-			"verdict": "ok",
-			"comment": "pl clue wujek is accepted: en.wiktionary lists both mother's brother and father's brother (stryj) senses."
+			"seen": "{\"item\":\"word:dyadko\",\"text\":\"дядько\",\"display\":\"дя́дько\",\"ipa\":\"/ˈdʲadʲkɔ/\",\"cognates\":{\"ru\":{\"form\":\"дядя\",\"ipa\":\"/ˈdʲadʲə/\"}}}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/titka",
-			"seen": "{\"text\":\"тітка\",\"display\":\"ті́тка\",\"ipa\":\"/ˈtʲitka/\",\"cognates\":{\"ru\":{\"form\":\"тётка\",\"ipa\":\"/ˈtʲotkə/\"},\"pl\":{\"form\":\"ciotka\",\"ipa\":\"/ˈt͡ɕɔtka/\"}}}",
+			"seen": "{\"item\":\"word:titka\",\"text\":\"тітка\",\"display\":\"ті́тка\",\"ipa\":\"/ˈtʲitka/\",\"cognates\":{\"ru\":{\"form\":\"тётка\",\"ipa\":\"/ˈtʲotkə/\"},\"pl\":{\"form\":\"ciotka\",\"ipa\":\"/ˈt͡ɕɔtka/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/rodyna",
-			"seen": "{\"text\":\"родина\",\"display\":\"роди́на\",\"ipa\":\"/rɔˈdɪna/\",\"cognates\":{\"ru\":{\"form\":\"родина\",\"ipa\":\"/ˈrodʲɪnə/\"},\"pl\":{\"form\":\"rodzina\",\"ipa\":\"/rɔˈd͡ʑina/\"}}}",
+			"seen": "{\"item\":\"word:rodyna\",\"text\":\"родина\",\"display\":\"роди́на\",\"ipa\":\"/rɔˈdɪna/\",\"cognates\":{\"ru\":{\"form\":\"родина\",\"ipa\":\"/ˈrodʲɪnə/\"},\"pl\":{\"form\":\"rodzina\",\"ipa\":\"/rɔˈd͡ʑina/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/batky",
-			"seen": "{\"text\":\"батьки\",\"display\":\"батьки́\",\"ipa\":\"/batʲˈkɪ/\"}",
+			"seen": "{\"item\":\"word:batky\",\"text\":\"батьки\",\"display\":\"батьки́\",\"ipa\":\"/batʲˈkɪ/\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/druh",
-			"seen": "{\"text\":\"друг\",\"ipa\":\"/druɦ/\",\"cognates\":{\"ru\":{\"form\":\"друг\",\"ipa\":\"/druk/\"},\"pl\":{\"form\":\"druh\",\"ipa\":\"/drux/\"}}}",
+			"seen": "{\"item\":\"word:druh\",\"text\":\"друг\",\"ipa\":\"/druɦ/\",\"cognates\":{\"ru\":{\"form\":\"друг\",\"ipa\":\"/druk/\"},\"pl\":{\"form\":\"druh\",\"ipa\":\"/drux/\"}}}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/family/podruha",
-			"seen": "{\"text\":\"подруга\",\"display\":\"по́друга\",\"ipa\":\"/ˈpɔdruɦa/\",\"cognates\":{\"ru\":{\"form\":\"подруга\",\"ipa\":\"/pɐˈdruɡə/\"}}}",
-			"verdict": "ok",
-			"comment": "Stress по́друга follows Hrinchenko 1909, Holoskevych 1929 and en.wiktionary uk (по́друга, IPA [ˈpɔdrʊɦɐ]); older Ukrainian dictionaries and Russian have подру́га, so a learner may meet both. Not an error."
+			"seen": "{\"item\":\"word:podruha\",\"text\":\"подруга\",\"display\":\"по́друга\",\"ipa\":\"/ˈpɔdruɦa/\",\"cognates\":{\"ru\":{\"form\":\"подруга\",\"ipa\":\"/pɐˈdruɡə/\"}}}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/final-voiced/dub",
-			"seen": "{\"text\":\"дуб\",\"ipa\":\"/dub/\",\"clue\":\"/dub/\"}",
+			"seen": "{\"item\":\"final:dub\",\"text\":\"дуб\",\"ipa\":\"/dub/\",\"clue\":\"/dub/\",\"concepts\":[\"final-voicing\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/final-voiced/sad",
-			"seen": "{\"text\":\"сад\",\"ipa\":\"/sad/\",\"clue\":\"/sad/\"}",
+			"seen": "{\"item\":\"final:sad\",\"text\":\"сад\",\"ipa\":\"/sad/\",\"clue\":\"/sad/\",\"concepts\":[\"final-voicing\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/final-voiced/did",
-			"seen": "{\"text\":\"дід\",\"ipa\":\"/dʲid/\",\"clue\":\"/dʲid/\"}",
+			"seen": "{\"item\":\"final:did\",\"text\":\"дід\",\"ipa\":\"/dʲid/\",\"clue\":\"/dʲid/\",\"concepts\":[\"final-voicing\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/final-voiced/nizh",
-			"seen": "{\"text\":\"ніж\",\"ipa\":\"/nʲiʒ/\",\"clue\":\"/nʲiʒ/\"}",
+			"seen": "{\"item\":\"final:nizh\",\"text\":\"ніж\",\"ipa\":\"/nʲiʒ/\",\"clue\":\"/nʲiʒ/\",\"concepts\":[\"final-voicing\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/final-voiced/khlib",
-			"seen": "{\"text\":\"хліб\",\"ipa\":\"/xlʲib/\",\"clue\":\"/xlʲib/\"}",
+			"seen": "{\"item\":\"final:khlib\",\"text\":\"хліб\",\"ipa\":\"/xlʲib/\",\"clue\":\"/xlʲib/\",\"concepts\":[\"final-voicing\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/final-voiced/med",
-			"seen": "{\"text\":\"мед\",\"ipa\":\"/mɛd/\",\"clue\":\"/mɛd/\"}",
+			"seen": "{\"item\":\"final:med\",\"text\":\"мед\",\"ipa\":\"/mɛd/\",\"clue\":\"/mɛd/\",\"concepts\":[\"final-voicing\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/final-voiced/harazh",
-			"seen": "{\"text\":\"гараж\",\"display\":\"гара́ж\",\"ipa\":\"/ɦaˈraʒ/\",\"clue\":\"/ɦaˈraʒ/\"}",
+			"seen": "{\"item\":\"final:harazh\",\"text\":\"гараж\",\"display\":\"гара́ж\",\"ipa\":\"/ɦaˈraʒ/\",\"clue\":\"/ɦaˈraʒ/\",\"concepts\":[\"final-voicing\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/final-voiced/viz",
-			"seen": "{\"text\":\"віз\",\"ipa\":\"/ʋiz/\",\"clue\":\"/ʋiz/\"}",
+			"seen": "{\"item\":\"final:viz\",\"text\":\"віз\",\"ipa\":\"/ʋiz/\",\"clue\":\"/ʋiz/\",\"concepts\":[\"final-voicing\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/hora",
-			"seen": "{\"text\":\"г\",\"clue\":\"_ора́\",\"example\":\"гора́\"}",
+			"seen": "{\"item\":\"h-or-g:hora\",\"text\":\"г\",\"clue\":\"_ора́\",\"example\":\"гора́\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/holova",
-			"seen": "{\"text\":\"г\",\"clue\":\"_олова́\",\"example\":\"голова́\"}",
+			"seen": "{\"item\":\"h-or-g:holova\",\"text\":\"г\",\"clue\":\"_олова́\",\"example\":\"голова́\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/bahato",
-			"seen": "{\"text\":\"г\",\"clue\":\"ба_а́то\",\"example\":\"бага́то\"}",
+			"seen": "{\"item\":\"h-or-g:bahato\",\"text\":\"г\",\"clue\":\"ба_а́то\",\"example\":\"бага́то\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/noha",
-			"seen": "{\"text\":\"г\",\"clue\":\"но_а́\",\"example\":\"нога́\"}",
+			"seen": "{\"item\":\"h-or-g:noha\",\"text\":\"г\",\"clue\":\"но_а́\",\"example\":\"нога́\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/harnyi",
-			"seen": "{\"text\":\"г\",\"clue\":\"_а́рний\",\"example\":\"га́рний\"}",
+			"seen": "{\"item\":\"h-or-g:harnyi\",\"text\":\"г\",\"clue\":\"_а́рний\",\"example\":\"га́рний\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/lehkyi",
-			"seen": "{\"text\":\"г\",\"clue\":\"ле_ки́й\",\"example\":\"легки́й\"}",
+			"seen": "{\"item\":\"h-or-g:lehkyi\",\"text\":\"г\",\"clue\":\"ле_ки́й\",\"example\":\"легки́й\",\"concepts\":[\"h-sound\",\"final-voicing\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/hanok",
-			"seen": "{\"text\":\"ґ\",\"clue\":\"_а́нок\",\"example\":\"ґа́нок\"}",
+			"seen": "{\"item\":\"h-or-g:hanok\",\"text\":\"ґ\",\"clue\":\"_а́нок\",\"example\":\"ґа́нок\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/gudzyk",
-			"seen": "{\"text\":\"ґ\",\"clue\":\"_у́дзик\",\"example\":\"ґу́дзик\"}",
+			"seen": "{\"item\":\"h-or-g:gudzyk\",\"text\":\"ґ\",\"clue\":\"_у́дзик\",\"example\":\"ґу́дзик\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/agrus",
-			"seen": "{\"text\":\"ґ\",\"clue\":\"а́_рус\",\"example\":\"а́ґрус\"}",
+			"seen": "{\"item\":\"h-or-g:agrus\",\"text\":\"ґ\",\"clue\":\"а́_рус\",\"example\":\"а́ґрус\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/grunt",
-			"seen": "{\"text\":\"ґ\",\"clue\":\"_рунт\",\"example\":\"ґрунт\"}",
+			"seen": "{\"item\":\"h-or-g:grunt\",\"text\":\"ґ\",\"clue\":\"_рунт\",\"example\":\"ґрунт\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/gedz",
-			"seen": "{\"text\":\"ґ\",\"clue\":\"_едзь\",\"example\":\"ґедзь\"}",
+			"seen": "{\"item\":\"h-or-g:gedz\",\"text\":\"ґ\",\"clue\":\"_едзь\",\"example\":\"ґедзь\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/h-or-g/gava",
-			"seen": "{\"text\":\"ґ\",\"clue\":\"_а́ва\",\"example\":\"ґа́ва\"}",
+			"seen": "{\"item\":\"h-or-g:gava\",\"text\":\"ґ\",\"clue\":\"_а́ва\",\"example\":\"ґа́ва\",\"concepts\":[\"h-sound\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/hard-labials/lyubov",
-			"seen": "{\"text\":\"любов\",\"display\":\"любо́в\",\"ipa\":\"/lʲuˈbɔʋ/\",\"clue\":\"любовь\"}",
+			"seen": "{\"item\":\"labial:lyubov\",\"text\":\"любов\",\"display\":\"любо́в\",\"ipa\":\"/lʲuˈbɔʋ/\",\"clue\":\"любовь\",\"concepts\":[\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/hard-labials/step",
-			"seen": "{\"text\":\"степ\",\"ipa\":\"/stɛp/\",\"clue\":\"степь\"}",
+			"seen": "{\"item\":\"labial:step\",\"text\":\"степ\",\"ipa\":\"/stɛp/\",\"clue\":\"степь\",\"concepts\":[\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/hard-labials/holub",
-			"seen": "{\"text\":\"голуб\",\"display\":\"го́луб\",\"ipa\":\"/ˈɦɔlub/\",\"clue\":\"голубь\"}",
+			"seen": "{\"item\":\"labial:holub\",\"text\":\"голуб\",\"display\":\"го́луб\",\"ipa\":\"/ˈɦɔlub/\",\"clue\":\"голубь\",\"concepts\":[\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/hard-labials/krov",
-			"seen": "{\"text\":\"кров\",\"ipa\":\"/krɔʋ/\",\"clue\":\"кровь\"}",
+			"seen": "{\"item\":\"labial:krov\",\"text\":\"кров\",\"ipa\":\"/krɔʋ/\",\"clue\":\"кровь\",\"concepts\":[\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/hard-labials/sim",
-			"seen": "{\"text\":\"сім\",\"ipa\":\"/sʲim/\",\"clue\":\"семь\"}",
+			"seen": "{\"item\":\"labial:sim\",\"text\":\"сім\",\"ipa\":\"/sʲim/\",\"clue\":\"семь\",\"concepts\":[\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/i-or-y/dim",
-			"seen": "{\"text\":\"дім\",\"ipa\":\"/dʲim/\"}",
+			"seen": "{\"item\":\"pair:dim\",\"text\":\"дім\",\"ipa\":\"/dʲim/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/i-or-y/dym",
-			"seen": "{\"text\":\"дим\",\"ipa\":\"/dɪm/\"}",
+			"seen": "{\"item\":\"pair:dym\",\"text\":\"дим\",\"ipa\":\"/dɪm/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/i-or-y/lis",
-			"seen": "{\"text\":\"ліс\",\"ipa\":\"/lʲis/\"}",
+			"seen": "{\"item\":\"pair:lis\",\"text\":\"ліс\",\"ipa\":\"/lʲis/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/i-or-y/lys",
-			"seen": "{\"text\":\"лис\",\"ipa\":\"/lɪs/\"}",
+			"seen": "{\"item\":\"pair:lys\",\"text\":\"лис\",\"ipa\":\"/lɪs/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/i-or-y/kit",
-			"seen": "{\"text\":\"кіт\",\"ipa\":\"/kit/\"}",
+			"seen": "{\"item\":\"pair:kit\",\"text\":\"кіт\",\"ipa\":\"/kit/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/i-or-y/kyt",
-			"seen": "{\"text\":\"кит\",\"ipa\":\"/kɪt/\"}",
+			"seen": "{\"item\":\"pair:kyt\",\"text\":\"кит\",\"ipa\":\"/kɪt/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/i-or-y/bik",
-			"seen": "{\"text\":\"бік\",\"ipa\":\"/bik/\"}",
+			"seen": "{\"item\":\"pair:bik\",\"text\":\"бік\",\"ipa\":\"/bik/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/i-or-y/byk",
-			"seen": "{\"text\":\"бик\",\"ipa\":\"/bɪk/\"}",
+			"seen": "{\"item\":\"pair:byk\",\"text\":\"бик\",\"ipa\":\"/bɪk/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/nom.sg",
-			"seen": "{\"text\":\"кімната\",\"display\":\"кімна́та\",\"ipa\":\"/kimˈnata/\",\"cognates\":{\"ru\":{\"form\":\"комната\",\"ipa\":\"/ˈkomnətə/\"},\"pl\":{\"form\":\"komnata\",\"ipa\":\"/kɔmˈnata/\"}},\"row\":\"nom\",\"col\":\"sg\"}",
+			"seen": "{\"item\":\"noun:kimnata:nom.sg\",\"text\":\"кімната\",\"display\":\"кімна́та\",\"ipa\":\"/kimˈnata/\",\"cognates\":{\"ru\":{\"form\":\"комната\",\"ipa\":\"/ˈkomnətə/\"},\"pl\":{\"form\":\"komnata\",\"ipa\":\"/kɔmˈnata/\"}},\"row\":\"nom\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/nom.pl",
-			"seen": "{\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"row\":\"nom\",\"col\":\"pl\"}",
+			"seen": "{\"item\":\"noun:kimnata:nom.pl\",\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"concepts\":[\"shared-forms\"],\"row\":\"nom\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/gen.sg",
-			"seen": "{\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"row\":\"gen\",\"col\":\"sg\"}",
+			"seen": "{\"item\":\"noun:kimnata:gen.sg\",\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"concepts\":[\"shared-forms\"],\"row\":\"gen\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/gen.pl",
-			"seen": "{\"text\":\"кімнат\",\"display\":\"кімна́т\",\"ipa\":\"/kimˈnat/\",\"row\":\"gen\",\"col\":\"pl\"}",
+			"seen": "{\"item\":\"noun:kimnata:gen.pl\",\"text\":\"кімнат\",\"display\":\"кімна́т\",\"ipa\":\"/kimˈnat/\",\"row\":\"gen\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/dat.sg",
-			"seen": "{\"text\":\"кімнаті\",\"display\":\"кімна́ті\",\"ipa\":\"/kimˈnatʲi/\",\"row\":\"dat\",\"col\":\"sg\"}",
+			"seen": "{\"item\":\"noun:kimnata:dat.sg\",\"text\":\"кімнаті\",\"display\":\"кімна́ті\",\"ipa\":\"/kimˈnatʲi/\",\"concepts\":[\"shared-forms\"],\"row\":\"dat\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/dat.pl",
-			"seen": "{\"text\":\"кімнатам\",\"display\":\"кімна́там\",\"ipa\":\"/kimˈnatam/\",\"row\":\"dat\",\"col\":\"pl\"}",
+			"seen": "{\"item\":\"noun:kimnata:dat.pl\",\"text\":\"кімнатам\",\"display\":\"кімна́там\",\"ipa\":\"/kimˈnatam/\",\"row\":\"dat\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/acc.sg",
-			"seen": "{\"text\":\"кімнату\",\"display\":\"кімна́ту\",\"ipa\":\"/kimˈnatu/\",\"row\":\"acc\",\"col\":\"sg\"}",
+			"seen": "{\"item\":\"noun:kimnata:acc.sg\",\"text\":\"кімнату\",\"display\":\"кімна́ту\",\"ipa\":\"/kimˈnatu/\",\"row\":\"acc\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/acc.pl",
-			"seen": "{\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"row\":\"acc\",\"col\":\"pl\"}",
+			"seen": "{\"item\":\"noun:kimnata:acc.pl\",\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"concepts\":[\"shared-forms\"],\"row\":\"acc\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/ins.sg",
-			"seen": "{\"text\":\"кімнатою\",\"display\":\"кімна́тою\",\"ipa\":\"/kimˈnatɔju/\",\"row\":\"ins\",\"col\":\"sg\"}",
+			"seen": "{\"item\":\"noun:kimnata:ins.sg\",\"text\":\"кімнатою\",\"display\":\"кімна́тою\",\"ipa\":\"/kimˈnatɔju/\",\"row\":\"ins\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/ins.pl",
-			"seen": "{\"text\":\"кімнатами\",\"display\":\"кімна́тами\",\"ipa\":\"/kimˈnatamɪ/\",\"row\":\"ins\",\"col\":\"pl\"}",
+			"seen": "{\"item\":\"noun:kimnata:ins.pl\",\"text\":\"кімнатами\",\"display\":\"кімна́тами\",\"ipa\":\"/kimˈnatamɪ/\",\"row\":\"ins\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/loc.sg",
-			"seen": "{\"text\":\"кімнаті\",\"display\":\"кімна́ті\",\"ipa\":\"/kimˈnatʲi/\",\"row\":\"loc\",\"col\":\"sg\"}",
+			"seen": "{\"item\":\"noun:kimnata:loc.sg\",\"text\":\"кімнаті\",\"display\":\"кімна́ті\",\"ipa\":\"/kimˈnatʲi/\",\"concepts\":[\"shared-forms\"],\"row\":\"loc\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/loc.pl",
-			"seen": "{\"text\":\"кімнатах\",\"display\":\"кімна́тах\",\"ipa\":\"/kimˈnatax/\",\"row\":\"loc\",\"col\":\"pl\"}",
+			"seen": "{\"item\":\"noun:kimnata:loc.pl\",\"text\":\"кімнатах\",\"display\":\"кімна́тах\",\"ipa\":\"/kimˈnatax/\",\"row\":\"loc\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/voc.sg",
-			"seen": "{\"text\":\"кімнато\",\"display\":\"кімна́то\",\"ipa\":\"/kimˈnatɔ/\",\"row\":\"voc\",\"col\":\"sg\"}",
+			"seen": "{\"item\":\"noun:kimnata:voc.sg\",\"text\":\"кімнато\",\"display\":\"кімна́то\",\"ipa\":\"/kimˈnatɔ/\",\"row\":\"voc\",\"col\":\"sg\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/kimnata/voc.pl",
-			"seen": "{\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"row\":\"voc\",\"col\":\"pl\"}",
+			"seen": "{\"item\":\"noun:kimnata:voc.pl\",\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"concepts\":[\"shared-forms\"],\"row\":\"voc\",\"col\":\"pl\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/a",
-			"seen": "{\"text\":\"а\",\"clue\":\"А а\"}",
+			"seen": "{\"item\":\"letter-name:a\",\"text\":\"а\",\"clue\":\"А а\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/b",
-			"seen": "{\"text\":\"бе\",\"clue\":\"Б б\"}",
+			"seen": "{\"item\":\"letter-name:b\",\"text\":\"бе\",\"clue\":\"Б б\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/v",
-			"seen": "{\"text\":\"ве\",\"clue\":\"В в\"}",
+			"seen": "{\"item\":\"letter-name:v\",\"text\":\"ве\",\"clue\":\"В в\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/h",
-			"seen": "{\"text\":\"ге\",\"clue\":\"Г г\"}",
+			"seen": "{\"item\":\"letter-name:h\",\"text\":\"ге\",\"clue\":\"Г г\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/g",
-			"seen": "{\"text\":\"ґе\",\"clue\":\"Ґ ґ\"}",
+			"seen": "{\"item\":\"letter-name:g\",\"text\":\"ґе\",\"clue\":\"Ґ ґ\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/d",
-			"seen": "{\"text\":\"де\",\"clue\":\"Д д\"}",
+			"seen": "{\"item\":\"letter-name:d\",\"text\":\"де\",\"clue\":\"Д д\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/e",
-			"seen": "{\"text\":\"е\",\"clue\":\"Е е\"}",
+			"seen": "{\"item\":\"letter-name:e\",\"text\":\"е\",\"clue\":\"Е е\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/ye",
-			"seen": "{\"text\":\"є\",\"clue\":\"Є є\"}",
+			"seen": "{\"item\":\"letter-name:ye\",\"text\":\"є\",\"clue\":\"Є є\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/zh",
-			"seen": "{\"text\":\"же\",\"clue\":\"Ж ж\"}",
+			"seen": "{\"item\":\"letter-name:zh\",\"text\":\"же\",\"clue\":\"Ж ж\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/z",
-			"seen": "{\"text\":\"зе\",\"clue\":\"З з\"}",
+			"seen": "{\"item\":\"letter-name:z\",\"text\":\"зе\",\"clue\":\"З з\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/y",
-			"seen": "{\"text\":\"и\",\"clue\":\"И и\"}",
+			"seen": "{\"item\":\"letter-name:y\",\"text\":\"и\",\"clue\":\"И и\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/i",
-			"seen": "{\"text\":\"і\",\"clue\":\"І і\"}",
+			"seen": "{\"item\":\"letter-name:i\",\"text\":\"і\",\"clue\":\"І і\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/yi",
-			"seen": "{\"text\":\"ї\",\"clue\":\"Ї ї\"}",
+			"seen": "{\"item\":\"letter-name:yi\",\"text\":\"ї\",\"clue\":\"Ї ї\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/j",
-			"seen": "{\"text\":\"йот\",\"clue\":\"Й й\"}",
+			"seen": "{\"item\":\"letter-name:j\",\"text\":\"йот\",\"clue\":\"Й й\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/k",
-			"seen": "{\"text\":\"ка\",\"clue\":\"К к\"}",
+			"seen": "{\"item\":\"letter-name:k\",\"text\":\"ка\",\"clue\":\"К к\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/l",
-			"seen": "{\"text\":\"ел\",\"clue\":\"Л л\"}",
+			"seen": "{\"item\":\"letter-name:l\",\"text\":\"ел\",\"clue\":\"Л л\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/m",
-			"seen": "{\"text\":\"ем\",\"clue\":\"М м\"}",
+			"seen": "{\"item\":\"letter-name:m\",\"text\":\"ем\",\"clue\":\"М м\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/n",
-			"seen": "{\"text\":\"ен\",\"clue\":\"Н н\"}",
+			"seen": "{\"item\":\"letter-name:n\",\"text\":\"ен\",\"clue\":\"Н н\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/o",
-			"seen": "{\"text\":\"о\",\"clue\":\"О о\"}",
+			"seen": "{\"item\":\"letter-name:o\",\"text\":\"о\",\"clue\":\"О о\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/p",
-			"seen": "{\"text\":\"пе\",\"clue\":\"П п\"}",
+			"seen": "{\"item\":\"letter-name:p\",\"text\":\"пе\",\"clue\":\"П п\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/r",
-			"seen": "{\"text\":\"ер\",\"clue\":\"Р р\"}",
+			"seen": "{\"item\":\"letter-name:r\",\"text\":\"ер\",\"clue\":\"Р р\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/s",
-			"seen": "{\"text\":\"ес\",\"clue\":\"С с\"}",
+			"seen": "{\"item\":\"letter-name:s\",\"text\":\"ес\",\"clue\":\"С с\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/t",
-			"seen": "{\"text\":\"те\",\"clue\":\"Т т\"}",
+			"seen": "{\"item\":\"letter-name:t\",\"text\":\"те\",\"clue\":\"Т т\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/u",
-			"seen": "{\"text\":\"у\",\"clue\":\"У у\"}",
+			"seen": "{\"item\":\"letter-name:u\",\"text\":\"у\",\"clue\":\"У у\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/f",
-			"seen": "{\"text\":\"еф\",\"clue\":\"Ф ф\"}",
+			"seen": "{\"item\":\"letter-name:f\",\"text\":\"еф\",\"clue\":\"Ф ф\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/kh",
-			"seen": "{\"text\":\"ха\",\"clue\":\"Х х\"}",
+			"seen": "{\"item\":\"letter-name:kh\",\"text\":\"ха\",\"clue\":\"Х х\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/ts",
-			"seen": "{\"text\":\"це\",\"clue\":\"Ц ц\"}",
+			"seen": "{\"item\":\"letter-name:ts\",\"text\":\"це\",\"clue\":\"Ц ц\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/ch",
-			"seen": "{\"text\":\"че\",\"clue\":\"Ч ч\"}",
+			"seen": "{\"item\":\"letter-name:ch\",\"text\":\"че\",\"clue\":\"Ч ч\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/sh",
-			"seen": "{\"text\":\"ша\",\"clue\":\"Ш ш\"}",
+			"seen": "{\"item\":\"letter-name:sh\",\"text\":\"ша\",\"clue\":\"Ш ш\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/shch",
-			"seen": "{\"text\":\"ща\",\"clue\":\"Щ щ\"}",
+			"seen": "{\"item\":\"letter-name:shch\",\"text\":\"ща\",\"clue\":\"Щ щ\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/soft",
-			"seen": "{\"text\":\"м'який знак\",\"clue\":\"Ь ь\"}",
+			"seen": "{\"item\":\"letter-name:soft\",\"text\":\"м'який знак\",\"clue\":\"Ь ь\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/yu",
-			"seen": "{\"text\":\"ю\",\"clue\":\"Ю ю\"}",
+			"seen": "{\"item\":\"letter-name:yu\",\"text\":\"ю\",\"clue\":\"Ю ю\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/letter-names/ya",
-			"seen": "{\"text\":\"я\",\"clue\":\"Я я\"}",
+			"seen": "{\"item\":\"letter-name:ya\",\"text\":\"я\",\"clue\":\"Я я\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/zh",
-			"seen": "{\"text\":\"ж\",\"ipa\":\"/ʒ/\",\"clue\":\"ż\"}",
+			"seen": "{\"item\":\"pl-letter:zh\",\"text\":\"ж\",\"ipa\":\"/ʒ/\",\"clue\":\"ż\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/ch",
-			"seen": "{\"text\":\"ч\",\"ipa\":\"/t͡ʃ/\",\"clue\":\"cz\"}",
+			"seen": "{\"item\":\"pl-letter:ch\",\"text\":\"ч\",\"ipa\":\"/t͡ʃ/\",\"clue\":\"cz\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/sh",
-			"seen": "{\"text\":\"ш\",\"ipa\":\"/ʃ/\",\"clue\":\"sz\"}",
+			"seen": "{\"item\":\"pl-letter:sh\",\"text\":\"ш\",\"ipa\":\"/ʃ/\",\"clue\":\"sz\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/shch",
-			"seen": "{\"text\":\"щ\",\"ipa\":\"/ʃt͡ʃ/\",\"clue\":\"szcz\"}",
+			"seen": "{\"item\":\"pl-letter:shch\",\"text\":\"щ\",\"ipa\":\"/ʃt͡ʃ/\",\"clue\":\"szcz\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/ts",
-			"seen": "{\"text\":\"ц\",\"ipa\":\"/t͡s/\",\"clue\":\"c\"}",
+			"seen": "{\"item\":\"pl-letter:ts\",\"text\":\"ц\",\"ipa\":\"/t͡s/\",\"clue\":\"c\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/kh",
-			"seen": "{\"text\":\"х\",\"ipa\":\"/x/\",\"clue\":\"ch\"}",
+			"seen": "{\"item\":\"pl-letter:kh\",\"text\":\"х\",\"ipa\":\"/x/\",\"clue\":\"ch\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/g",
-			"seen": "{\"text\":\"ґ\",\"ipa\":\"/ɡ/\",\"clue\":\"g\"}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"pl-letter:g\",\"text\":\"ґ\",\"ipa\":\"/ɡ/\",\"clue\":\"g\",\"concepts\":[\"h-sound\"]}",
+			"verdict": "ok",
+			"comment": "Russian г main value is [ɡ] (allophones [ɣ], [x] are secondary), Polish g is /ɡ/; гора/голова/góra correspond to Ukrainian г (Proto-Slavic *g > ɦ). h-sound concept fits. English \"has the sound of\" is a little stiff (\"sounds like\" is more natural) but correct."
 		},
 		{
 			"key": "core/pl-letters/v",
-			"seen": "{\"text\":\"в\",\"ipa\":\"/ʋ/\",\"clue\":\"w\"}",
+			"seen": "{\"item\":\"pl-letter:v\",\"text\":\"в\",\"ipa\":\"/ʋ/\",\"clue\":\"w\",\"concepts\":[\"v-allophones\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/y",
-			"seen": "{\"text\":\"и\",\"ipa\":\"/ɪ/\",\"clue\":\"y\"}",
+			"seen": "{\"item\":\"pl-letter:y\",\"text\":\"и\",\"ipa\":\"/ɪ/\",\"clue\":\"y\",\"concepts\":[\"y-vowel\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/i",
-			"seen": "{\"text\":\"і\",\"ipa\":\"/i/\",\"clue\":\"i\"}",
+			"seen": "{\"item\":\"pl-letter:i\",\"text\":\"і\",\"ipa\":\"/i/\",\"clue\":\"i\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/ya",
-			"seen": "{\"text\":\"я\",\"ipa\":\"/ja/\",\"clue\":\"ja\"}",
+			"seen": "{\"item\":\"pl-letter:ya\",\"text\":\"я\",\"ipa\":\"/ja/\",\"clue\":\"ja\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/yu",
-			"seen": "{\"text\":\"ю\",\"ipa\":\"/ju/\",\"clue\":\"ju\"}",
+			"seen": "{\"item\":\"pl-letter:yu\",\"text\":\"ю\",\"ipa\":\"/ju/\",\"clue\":\"ju\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/ye",
-			"seen": "{\"text\":\"є\",\"ipa\":\"/jɛ/\",\"clue\":\"je\"}",
+			"seen": "{\"item\":\"pl-letter:ye\",\"text\":\"є\",\"ipa\":\"/jɛ/\",\"clue\":\"je\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/pl-letters/yi",
-			"seen": "{\"text\":\"ї\",\"ipa\":\"/ji/\",\"clue\":\"ji\"}",
+			"seen": "{\"item\":\"pl-letter:yi\",\"text\":\"ї\",\"ipa\":\"/ji/\",\"clue\":\"ji\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/ru-letters/i",
-			"seen": "{\"text\":\"і\",\"ipa\":\"/i/\",\"clue\":\"рус. и\"}",
+			"seen": "{\"item\":\"ru-letter:i\",\"text\":\"і\",\"ipa\":\"/i/\",\"clue\":\"рус. и\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/ru-letters/y",
-			"seen": "{\"text\":\"и\",\"ipa\":\"/ɪ/\",\"clue\":\"≈ рус. ы\"}",
-			"verdict": "ok",
-			"comment": "Ukrainian и /ɪ/ is only approximately Russian ы /ɨ/ (Jipa 2017 notes it differs); the ≈ is right."
+			"seen": "{\"item\":\"ru-letter:y\",\"text\":\"и\",\"ipa\":\"/ɪ/\",\"clue\":\"≈ рус. ы\",\"concepts\":[\"y-vowel\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/ru-letters/e",
-			"seen": "{\"text\":\"е\",\"ipa\":\"/ɛ/\",\"clue\":\"рус. э\"}",
+			"seen": "{\"item\":\"ru-letter:e\",\"text\":\"е\",\"ipa\":\"/ɛ/\",\"clue\":\"рус. э\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/ru-letters/ye",
-			"seen": "{\"text\":\"є\",\"ipa\":\"/jɛ/\",\"clue\":\"рус. е\"}",
+			"seen": "{\"item\":\"ru-letter:ye\",\"text\":\"є\",\"ipa\":\"/jɛ/\",\"clue\":\"рус. е\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/ru-letters/yo",
-			"seen": "{\"text\":\"йо\",\"ipa\":\"/jɔ/\",\"clue\":\"рус. ё\"}",
+			"seen": "{\"item\":\"ru-letter:yo\",\"text\":\"йо\",\"ipa\":\"/jɔ/\",\"clue\":\"рус. ё\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/ru-letters/g",
-			"seen": "{\"text\":\"ґ\",\"ipa\":\"/ɡ/\",\"clue\":\"рус. г\"}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"ru-letter:g\",\"text\":\"ґ\",\"ipa\":\"/ɡ/\",\"clue\":\"рус. г\",\"concepts\":[\"h-sound\"]}",
+			"verdict": "ok",
+			"comment": "Russian г main value is [ɡ] (allophones [ɣ], [x] are secondary), Polish g is /ɡ/; гора/голова/góra correspond to Ukrainian г (Proto-Slavic *g > ɦ). h-sound concept fits. English \"has the sound of\" is a little stiff (\"sounds like\" is more natural) but correct."
 		},
 		{
 			"key": "core/ru-letters/hard",
-			"seen": "{\"text\":\"'\",\"clue\":\"рус. ъ\",\"example\":\"об'є́кт\"}",
-			"verdict": "ok",
-			"comment": "об'є́кт stress confirmed (Wiktionary); Russian объект has ъ, so the example now illustrates ъ -> '."
+			"seen": "{\"item\":\"ru-letter:hard\",\"text\":\"'\",\"clue\":\"рус. ъ\",\"example\":\"об'є́кт\",\"concepts\":[\"apostrophe\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/stress-pairs/castle",
-			"seen": "{\"text\":\"замок\",\"display\":\"за́мок\",\"ipa\":\"/ˈzamɔk/\"}",
+			"seen": "{\"item\":\"stress:castle\",\"text\":\"замок\",\"display\":\"за́мок\",\"ipa\":\"/ˈzamɔk/\",\"concepts\":[\"free-stress\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/stress-pairs/lock",
-			"seen": "{\"text\":\"замок\",\"display\":\"замо́к\",\"ipa\":\"/zaˈmɔk/\"}",
+			"seen": "{\"item\":\"stress:lock\",\"text\":\"замок\",\"display\":\"замо́к\",\"ipa\":\"/zaˈmɔk/\",\"concepts\":[\"free-stress\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/stress-pairs/atlas",
-			"seen": "{\"text\":\"атлас\",\"display\":\"а́тлас\",\"ipa\":\"/ˈatlas/\"}",
-			"verdict": "ok",
-			"comment": "а́тлас = book of maps; confirmed by uk.wikipedia (Нормативний наголос) via search snippet; ukr-mova.in.ua blocked (403)."
+			"seen": "{\"item\":\"stress:atlas\",\"text\":\"атлас\",\"display\":\"а́тлас\",\"ipa\":\"/ˈatlas/\",\"concepts\":[\"free-stress\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/stress-pairs/satin",
-			"seen": "{\"text\":\"атлас\",\"display\":\"атла́с\",\"ipa\":\"/atˈlas/\"}",
-			"verdict": "ok",
-			"comment": "атла́с = satin fabric; same sources as а́тлас. uk.wiktionary gives no stress, СУМ-11 (slovnyk.ua) confirms both senses."
+			"seen": "{\"item\":\"stress:satin\",\"text\":\"атлас\",\"display\":\"атла́с\",\"ipa\":\"/atˈlas/\",\"concepts\":[\"free-stress\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/stress-pairs/road",
-			"seen": "{\"text\":\"дорога\",\"display\":\"доро́га\",\"ipa\":\"/dɔˈrɔɦa/\"}",
+			"seen": "{\"item\":\"stress:road\",\"text\":\"дорога\",\"display\":\"доро́га\",\"ipa\":\"/dɔˈrɔɦa/\",\"concepts\":[\"free-stress\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/stress-pairs/dear",
-			"seen": "{\"text\":\"дорога\",\"display\":\"дорога́\",\"ipa\":\"/dɔrɔˈɦa/\"}",
+			"seen": "{\"item\":\"stress:dear\",\"text\":\"дорога\",\"display\":\"дорога́\",\"ipa\":\"/dɔrɔˈɦa/\",\"concepts\":[\"free-stress\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/stress-pairs/chickens",
-			"seen": "{\"text\":\"кури\",\"display\":\"ку́ри\",\"ipa\":\"/ˈkurɪ/\"}",
+			"seen": "{\"item\":\"stress:chickens\",\"text\":\"кури\",\"display\":\"ку́ри\",\"ipa\":\"/ˈkurɪ/\",\"concepts\":[\"free-stress\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/stress-pairs/smoke",
-			"seen": "{\"text\":\"кури\",\"display\":\"кури́\",\"ipa\":\"/kuˈrɪ/\"}",
+			"seen": "{\"item\":\"stress:smoke\",\"text\":\"кури\",\"display\":\"кури́\",\"ipa\":\"/kuˈrɪ/\",\"concepts\":[\"free-stress\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/unstressed-o/moloko",
-			"seen": "{\"text\":\"молоко\",\"display\":\"молоко́\",\"ipa\":\"/mɔlɔˈkɔ/\",\"clue\":\"/mɔlɔˈkɔ/\"}",
+			"seen": "{\"item\":\"word:moloko\",\"text\":\"молоко\",\"display\":\"молоко́\",\"ipa\":\"/mɔlɔˈkɔ/\",\"clue\":\"/mɔlɔˈkɔ/\",\"concepts\":[\"o-unreduced\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/unstressed-o/voda",
-			"seen": "{\"text\":\"вода\",\"display\":\"вода́\",\"ipa\":\"/ʋɔˈda/\",\"clue\":\"/ʋɔˈda/\"}",
+			"seen": "{\"item\":\"word:voda\",\"text\":\"вода\",\"display\":\"вода́\",\"ipa\":\"/ʋɔˈda/\",\"clue\":\"/ʋɔˈda/\",\"concepts\":[\"o-unreduced\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/unstressed-o/holova",
-			"seen": "{\"text\":\"голова\",\"display\":\"голова́\",\"ipa\":\"/ɦɔlɔˈʋa/\",\"clue\":\"/ɦɔlɔˈʋa/\"}",
+			"seen": "{\"item\":\"word:holova\",\"text\":\"голова\",\"display\":\"голова́\",\"ipa\":\"/ɦɔlɔˈʋa/\",\"clue\":\"/ɦɔlɔˈʋa/\",\"concepts\":[\"o-unreduced\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/unstressed-o/sova",
-			"seen": "{\"text\":\"сова\",\"display\":\"сова́\",\"ipa\":\"/sɔˈʋa/\",\"clue\":\"/sɔˈʋa/\"}",
+			"seen": "{\"item\":\"word:sova\",\"text\":\"сова\",\"display\":\"сова́\",\"ipa\":\"/sɔˈʋa/\",\"clue\":\"/sɔˈʋa/\",\"concepts\":[\"o-unreduced\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/unstressed-o/korova",
-			"seen": "{\"text\":\"корова\",\"display\":\"коро́ва\",\"ipa\":\"/kɔˈrɔʋa/\",\"clue\":\"/kɔˈrɔʋa/\"}",
+			"seen": "{\"item\":\"word:korova\",\"text\":\"корова\",\"display\":\"коро́ва\",\"ipa\":\"/kɔˈrɔʋa/\",\"clue\":\"/kɔˈrɔʋa/\",\"concepts\":[\"o-unreduced\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/unstressed-o/robota",
-			"seen": "{\"text\":\"робота\",\"display\":\"робо́та\",\"ipa\":\"/rɔˈbɔta/\",\"clue\":\"/rɔˈbɔta/\"}",
+			"seen": "{\"item\":\"word:robota\",\"text\":\"робота\",\"display\":\"робо́та\",\"ipa\":\"/rɔˈbɔta/\",\"clue\":\"/rɔˈbɔta/\",\"concepts\":[\"o-unreduced\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/unstressed-o/boroda",
-			"seen": "{\"text\":\"борода\",\"display\":\"борода́\",\"ipa\":\"/bɔrɔˈda/\",\"clue\":\"/bɔrɔˈda/\"}",
+			"seen": "{\"item\":\"word:boroda\",\"text\":\"борода\",\"display\":\"борода́\",\"ipa\":\"/bɔrɔˈda/\",\"clue\":\"/bɔrɔˈda/\",\"concepts\":[\"o-unreduced\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/unstressed-o/doroha",
-			"seen": "{\"text\":\"дорога\",\"display\":\"доро́га\",\"ipa\":\"/dɔˈrɔɦa/\",\"clue\":\"/dɔˈrɔɦa/\"}",
+			"seen": "{\"item\":\"word:doroha\",\"text\":\"дорога\",\"display\":\"доро́га\",\"ipa\":\"/dɔˈrɔɦa/\",\"clue\":\"/dɔˈrɔɦa/\",\"concepts\":[\"o-unreduced\"]}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/vowel-chart/i",
-			"seen": "{\"text\":\"і\",\"clue\":\"/i/\",\"row\":\"close\",\"col\":\"front\"}",
+			"seen": "{\"item\":\"vowel:i\",\"text\":\"і\",\"clue\":\"/i/\",\"row\":\"close\",\"col\":\"front\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/vowel-chart/y",
-			"seen": "{\"text\":\"и\",\"clue\":\"/ɪ/\",\"row\":\"near\",\"col\":\"front\"}",
+			"seen": "{\"item\":\"vowel:y\",\"text\":\"и\",\"clue\":\"/ɪ/\",\"concepts\":[\"y-vowel\"],\"row\":\"near\",\"col\":\"front\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/vowel-chart/u",
-			"seen": "{\"text\":\"у\",\"clue\":\"/u/\",\"row\":\"close\",\"col\":\"back\"}",
+			"seen": "{\"item\":\"vowel:u\",\"text\":\"у\",\"clue\":\"/u/\",\"row\":\"close\",\"col\":\"back\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/vowel-chart/e",
-			"seen": "{\"text\":\"е\",\"clue\":\"/ɛ/\",\"row\":\"mid\",\"col\":\"front\"}",
+			"seen": "{\"item\":\"vowel:e\",\"text\":\"е\",\"clue\":\"/ɛ/\",\"row\":\"mid\",\"col\":\"front\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/vowel-chart/o",
-			"seen": "{\"text\":\"о\",\"clue\":\"/ɔ/\",\"row\":\"mid\",\"col\":\"back\"}",
+			"seen": "{\"item\":\"vowel:o\",\"text\":\"о\",\"clue\":\"/ɔ/\",\"concepts\":[\"o-unreduced\"],\"row\":\"mid\",\"col\":\"back\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "core/vowel-chart/a",
-			"seen": "{\"text\":\"а\",\"clue\":\"/a/\",\"row\":\"open\",\"col\":\"back\"}",
-			"verdict": "ok",
-			"comment": "Back row for а follows Ukrainian descriptions and Vakulenko 2025 Table 1 (а -> ɑ under stress); the symbol /a/ is Jipa's, which gives no placement. The note says so."
+			"seen": "{\"item\":\"vowel:a\",\"text\":\"а\",\"clue\":\"/a/\",\"row\":\"open\",\"col\":\"back\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "en/lesson/l01",
@@ -2545,6 +2536,12 @@
 			"comment": "sjp.pwn.pl: komnata = \"pokój mieszkalny lub sala reprezentacyjna w dawnych rezydencjach, pałacach i zamkach\" (no usage label). The wording is consistent with it; it names the palace/castle sense and omits \"dawnych\" (historical)."
 		},
 		{
+			"key": "pl-en/pl-letters/g",
+			"seen": "{\"contrast\":\"Polish g has the sound of ґ, but in related words it usually matches г, not ґ: góra and гора.\"}",
+			"verdict": "ok",
+			"comment": "Russian г main value is [ɡ] (allophones [ɣ], [x] are secondary), Polish g is /ɡ/; гора/голова/góra correspond to Ukrainian г (Proto-Slavic *g > ɦ). h-sound concept fits. English \"has the sound of\" is a little stiff (\"sounds like\" is more natural) but correct."
+		},
+		{
 			"key": "pl-pl/concept/free-stress",
 			"seen": "{\"title\":\"Akcent swobodny i ruchomy\",\"body\":\"To największa zmiana po polskim, gdzie akcent pada zwykle na przedostatnią sylabę. Po ukraińsku może paść na dowolną, rozróżniać słowa, jak доро́га i дорога́, i przesuwać się w formach jednego słowa: роби́ти, роблю́, ро́биш. Nie da się go odgadnąć: trzeba się go uczyć z każdym słowem.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
 			"verdict": "ok"
@@ -2669,6 +2666,12 @@
 			"seen": "{\"contrast\":\"Wołacz jak w polskim: żywy przypadek. Polskie komnata to sala w pałacu lub zamku; zwykłe pomieszczenie to pokój.\"}",
 			"verdict": "ok",
 			"comment": "sjp.pwn.pl: komnata = \"pokój mieszkalny lub sala reprezentacyjna w dawnych rezydencjach, pałacach i zamkach\" (no usage label). The wording is consistent with it; it names the palace/castle sense and omits \"dawnych\" (historical)."
+		},
+		{
+			"key": "pl-pl/pl-letters/g",
+			"seen": "{\"contrast\":\"Polskie g brzmi jak ґ, ale w wyrazach pokrewnych zwykle odpowiada mu г, a nie ґ: góra i гора.\"}",
+			"verdict": "ok",
+			"comment": "Russian г main value is [ɡ] (allophones [ɣ], [x] are secondary), Polish g is /ɡ/; гора/голова/góra correspond to Ukrainian г (Proto-Slavic *g > ɦ). h-sound concept fits. English \"has the sound of\" is a little stiff (\"sounds like\" is more natural) but correct."
 		},
 		{
 			"key": "pl-uk/concept/free-stress",
@@ -2796,6 +2799,12 @@
 			"seen": "{\"contrast\":\"Кличний, як у польській: живий відмінок. Польське komnata — це зала в палаці чи замку; звичайна кімната — це pokój.\"}",
 			"verdict": "ok",
 			"comment": "sjp.pwn.pl: komnata = \"pokój mieszkalny lub sala reprezentacyjna w dawnych rezydencjach, pałacach i zamkach\" (no usage label). The wording is consistent with it; it names the palace/castle sense and omits \"dawnych\" (historical)."
+		},
+		{
+			"key": "pl-uk/pl-letters/g",
+			"seen": "{\"contrast\":\"Польське g звучить як ґ, але в споріднених словах йому зазвичай відповідає г, а не ґ: góra й гора.\"}",
+			"verdict": "ok",
+			"comment": "Russian г main value is [ɡ] (allophones [ɣ], [x] are secondary), Polish g is /ɡ/; гора/голова/góra correspond to Ukrainian г (Proto-Slavic *g > ɦ). h-sound concept fits. English \"has the sound of\" is a little stiff (\"sounds like\" is more natural) but correct."
 		},
 		{
 			"key": "ru/lesson/l01",
@@ -3593,6 +3602,18 @@
 			"comment": "Standard grammar says Russian has no vocative; fossils (Боже, Господи) and colloquial truncations (мам, Вань) exist. Acceptable."
 		},
 		{
+			"key": "ru-en/ru-letters/g",
+			"seen": "{\"contrast\":\"Russian г has the sound of ґ, but in related words it usually matches Ukrainian г, not ґ: гора, голова.\"}",
+			"verdict": "ok",
+			"comment": "Russian г main value is [ɡ] (allophones [ɣ], [x] are secondary), Polish g is /ɡ/; гора/голова/góra correspond to Ukrainian г (Proto-Slavic *g > ɦ). h-sound concept fits. English \"has the sound of\" is a little stiff (\"sounds like\" is more natural) but correct."
+		},
+		{
+			"key": "ru-en/ru-letters/yo",
+			"seen": "{\"contrast\":\"Not every ё becomes йо: after a soft consonant it is ьо (льон, for лён), after ж and ч it is о (жовтий, чорний), and many words have another vowel (мед).\"}",
+			"verdict": "ok",
+			"comment": "Facts hold: льон (лён), жовтий, чорний, мед (мёд) are correct and the claim is now hedged. Not exhaustive (ш, щ also give о: шёл-йшов... щоки), but nothing false. Wording natural."
+		},
+		{
 			"key": "ru-ru/concept/o-unreduced",
 			"seen": "{\"title\":\"о без ударения\",\"body\":\"В русском безударное о сводится к а: [vɐˈda]. В украинском этого нет, и это самая заметная ошибка при переходе с русского: говорите вода́, а не вада́. Лишь перед ударным /u/ о немного смещается к [o]. Вакуленко (2025) описывает этот гласный как [o], а не /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
 			"verdict": "ok",
@@ -3692,6 +3713,18 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-ru/ru-letters/g",
+			"seen": "{\"contrast\":\"Русское г звучит как ґ, но в родственных словах ему обычно отвечает украинское г, а не ґ: гора, голова.\"}",
+			"verdict": "ok",
+			"comment": "Russian г main value is [ɡ] (allophones [ɣ], [x] are secondary), Polish g is /ɡ/; гора/голова/góra correspond to Ukrainian г (Proto-Slavic *g > ɦ). h-sound concept fits. English \"has the sound of\" is a little stiff (\"sounds like\" is more natural) but correct."
+		},
+		{
+			"key": "ru-ru/ru-letters/yo",
+			"seen": "{\"contrast\":\"Не каждое ё становится йо: после мягкого согласного пишется ьо (льон, по-русски лён), после ж и ч — о (жовтий, чорний), а во многих словах стоит другой гласный (мед).\"}",
+			"verdict": "ok",
+			"comment": "Facts hold: льон (лён), жовтий, чорний, мед (мёд) are correct and the claim is now hedged. Not exhaustive (ш, щ also give о: шёл-йшов... щоки), but nothing false. Wording natural."
+		},
+		{
 			"key": "ru-uk/concept/o-unreduced",
 			"seen": "{\"title\":\"о без наголосу\",\"body\":\"У російській ненаголошене о наближається до а: [vɐˈda]. В українській цього немає, і це найпомітніша помилка тих, хто переходить із російської: кажіть вода́, а не вада́. Лише перед наголошеним /u/ о трохи зміщується до [o]. Вакуленко (2025) описує цей голосний як напівзакритий [o], а не /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
 			"verdict": "ok",
@@ -3789,6 +3822,18 @@
 			"key": "ru-uk/kimnata/voc.sg",
 			"seen": "{\"contrast\":\"У російській кличного відмінка немає: звертаються називним. В українській він живий.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/ru-letters/g",
+			"seen": "{\"contrast\":\"Російське г звучить як ґ, але в споріднених словах йому зазвичай відповідає українське г, а не ґ: гора, голова.\"}",
+			"verdict": "ok",
+			"comment": "Russian г main value is [ɡ] (allophones [ɣ], [x] are secondary), Polish g is /ɡ/; гора/голова/góra correspond to Ukrainian г (Proto-Slavic *g > ɦ). h-sound concept fits. English \"has the sound of\" is a little stiff (\"sounds like\" is more natural) but correct."
+		},
+		{
+			"key": "ru-uk/ru-letters/yo",
+			"seen": "{\"contrast\":\"Не кожне ё стає йо: після м'якого приголосного пишеться ьо (льон, російською лён), після ж і ч — о (жовтий, чорний), а в багатьох словах стоїть інший голосний (мед).\"}",
+			"verdict": "ok",
+			"comment": "Facts hold: льон (лён), жовтий, чорний, мед (мёд) are correct and the claim is now hedged. Not exhaustive (ш, щ also give о: шёл-йшов... щоки), but nothing false. Wording natural."
 		},
 		{
 			"key": "uk/lesson/l01",

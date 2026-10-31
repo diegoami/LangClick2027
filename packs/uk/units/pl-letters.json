@@ -67,7 +67,8 @@
 			"item": "pl-letter:g",
 			"text": "ґ",
 			"ipa": "/ɡ/",
-			"clue": "g"
+			"clue": "g",
+			"concepts": ["h-sound"]
 		},
 		{
 			"id": "v",

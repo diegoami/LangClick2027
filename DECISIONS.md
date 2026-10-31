@@ -43,7 +43,10 @@ slip or a typed answer shouldn't be wrong over it. Slips show `text`, so a stres
 mark on a slip can't give anything away, and an answer shows `display` once it is
 visible.
 
-## Two recorded checks per item, tied to its text (2026-10-31, #1)
+## Two recorded checks per item, tied to its text (2026-10-31, #1, #17)
+
+A cell's record also covers its `item` and its `concepts`: a concept note on the wrong
+tile is a content error, and a renamed item forks learners' progress.
 
 The owner is learning these languages and can't be the correctness check, and a
 code reviewer won't catch a wrong form. Every item needs two independent AI checks,

@@ -66,7 +66,7 @@
 			"text": "г",
 			"clue": "ле_ки́й",
 			"example": "легки́й",
-			"concepts": ["h-sound"]
+			"concepts": ["h-sound", "final-voicing"]
 		},
 		{
 			"id": "hanok",
