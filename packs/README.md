@@ -40,10 +40,18 @@ A unit with `compareDisplay` is the exception, for when the marks are the point,
 with stress: за́мок and замо́к are different answers there, so slips show `display` and
 it is what's compared.
 
-A unit with `dealAll` always offers every slip, however well it is known. Use it when the
-answers only mean something against each other: the forms of a declension, the two sides of
-a stress pair, a choice between two letters. Other units deal a shrinking hand, so that the
-last slips can't be worked out by elimination.
+A unit with `dealAll` always offers every slip. Use it when the answers only mean something
+against each other: the forms of a declension, the two sides of a stress pair, a choice
+between two letters. Other units deal ten slips at a time, so that a long unit doesn't crowd
+the tray.
+
+A unit with layout `sentences` tests use as well as recall: one wide row per cell, each a
+`sentence` with one gap, written `___`. The words around the gap must fix the answer, so
+no two sentences can be the same with different answers, and a sentence can't contain its
+own answer. Every language of explanation except the pack's own gives a `sentenceGloss`.
+Sentences are written for the pack, never copied from a course.
+
+Lessons sit under the manifest's `sections`, and each section has a title in `course.json`.
 
 Long column headers can carry soft hyphens (U+00AD) at syllable boundaries, and a
 zero-width space after a slash, so that a chart wraps sensibly on a phone. Browsers don't

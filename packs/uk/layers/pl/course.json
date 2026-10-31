@@ -1,4 +1,15 @@
 {
+	"sections": {
+		"sounds": {
+			"title": "Dźwięki"
+		},
+		"grammar": {
+			"title": "Gramatyka"
+		},
+		"themes": {
+			"title": "Tematy"
+		}
+	},
 	"lessons": {
 		"l01": {
 			"title": "Lekcja 1: Alfabet i jego dźwięki"
@@ -6,14 +17,14 @@
 		"l09": {
 			"title": "Lekcja 9: Moja rodzina"
 		},
-		"l14": {
-			"title": "Lekcja 14: Mój dom"
-		},
 		"l02": {
 			"title": "Lekcja 2: Wymowa samogłosek"
 		},
 		"l03": {
 			"title": "Lekcja 3: Wymowa spółgłosek"
+		},
+		"g03": {
+			"title": "Przypadki rzeczowników"
 		}
 	},
 	"concepts": {

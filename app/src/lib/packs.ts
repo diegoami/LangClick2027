@@ -100,6 +100,7 @@ export async function loadUnit(
 
 export interface LocalLesson {
 	id: string;
+	section: { id: string; title: string };
 	title: string;
 	study: StudyLink[];
 	units: LocalUnit[];
@@ -108,6 +109,10 @@ export interface LocalLesson {
 function lessonFor(lesson: Lesson, course: CourseText, units: LocalUnit[], choice: LayerChoice) {
 	return {
 		id: lesson.id,
+		section: {
+			id: lesson.section,
+			title: course.sections?.[lesson.section]?.title ?? lesson.section
+		},
 		title: course.lessons?.[lesson.id]?.title ?? lesson.id,
 		study: lesson.study.filter((link) => offeredFor(link, choice.compareWith)),
 		units

@@ -1,0 +1,54 @@
+{
+	"title": "кімната in sentences",
+	"summary": "The same forms in use. Read each sentence and choose the form that fits its gap: the words around it tell you the case and the number.",
+	"cells": {
+		"gen.sg": {
+			"sentenceGloss": "I have no separate room.",
+			"note": "Genitive singular: немає takes the genitive."
+		},
+		"dat.sg": {
+			"sentenceGloss": "Thanks to this room we have more space.",
+			"note": "Dative singular, after завдяки."
+		},
+		"acc.sg": {
+			"sentenceGloss": "I am tidying this room.",
+			"note": "Accusative singular: the direct object."
+		},
+		"ins.sg": {
+			"sentenceGloss": "The kitchen is next to this room.",
+			"note": "Instrumental singular, after поруч із."
+		},
+		"loc.sg": {
+			"sentenceGloss": "There is a window in this room.",
+			"note": "Locative singular, after у for where something is."
+		},
+		"voc.sg": {
+			"sentenceGloss": "Farewell, my room!",
+			"note": "Vocative singular: addressing the room."
+		},
+		"nom.pl": {
+			"sentenceGloss": "These rooms are big.",
+			"note": "Nominative plural: the subject."
+		},
+		"gen.pl": {
+			"sentenceGloss": "There are five rooms in the flat.",
+			"note": "Genitive plural, after п'ять."
+		},
+		"dat.pl": {
+			"sentenceGloss": "Thanks to these rooms we have more space.",
+			"note": "Dative plural, after завдяки."
+		},
+		"acc.pl": {
+			"sentenceGloss": "I am tidying these rooms.",
+			"note": "Accusative plural: the direct object, the same as the nominative for things."
+		},
+		"ins.pl": {
+			"sentenceGloss": "The kitchen is between two rooms.",
+			"note": "Instrumental plural, after між."
+		},
+		"loc.pl": {
+			"sentenceGloss": "It is quiet in these rooms.",
+			"note": "Locative plural, after у for where something is."
+		}
+	}
+}

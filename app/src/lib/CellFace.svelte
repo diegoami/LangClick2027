@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { shownText, type LocalCell } from '@langclick/pack-format';
+	import { sentenceParts, shownText, type LocalCell } from '@langclick/pack-format';
 
 	interface Props {
 		cell: LocalCell;
@@ -12,19 +12,42 @@
 	}
 
 	let { cell, lang, showAnswer, level = 3 }: Props = $props();
+
+	const parts = $derived(cell.sentence ? sentenceParts(cell.sentence) : undefined);
 </script>
 
-<span class="answer" data-level={level} {lang}>
-	{#if showAnswer}{shownText(cell)}{:else}&nbsp;{/if}
-</span>
-{#if showAnswer && cell.ipa}
-	<span class="ipa">{cell.ipa}</span>
-{/if}
-{#if cell.clue}
-	<span class="clue">{cell.clue}</span>
+{#if parts}
+	<span class="sentence" {lang}>
+		{parts[0]}{#if showAnswer}<span class="answer" data-level={level}>{shownText(cell)}</span
+			>{:else}<span class="gap"></span>{/if}{parts[1]}
+	</span>
+	{#if cell.sentenceGloss}
+		<span class="clue">{cell.sentenceGloss}</span>
+	{/if}
+{:else}
+	<span class="answer" data-level={level} {lang}>
+		{#if showAnswer}{shownText(cell)}{:else}&nbsp;{/if}
+	</span>
+	{#if showAnswer && cell.ipa}
+		<span class="ipa">{cell.ipa}</span>
+	{/if}
+	{#if cell.clue}
+		<span class="clue">{cell.clue}</span>
+	{/if}
 {/if}
 
 <style>
+	.sentence {
+		font-size: 1.05rem;
+		line-height: 1.4;
+	}
+
+	.gap {
+		display: inline-block;
+		width: 4.5em;
+		border-bottom: 2px solid var(--muted);
+	}
+
 	.answer {
 		font-size: 1.15rem;
 		font-weight: 600;

@@ -76,15 +76,25 @@ is data, and the explanation of it comes from the interface.
 worse one. Such a tile is easy for that reader, which is true of the language: cognates
 are easy. Only a clue in the pack's own language gives the answer away by containing it.
 
+## The hand stays at ten, and grammar gets its own section (2026-10-31, #13)
+
+Geoclick's hand shrinks as a map is learned. Here a unit doesn't need to get harder, since
+new material is what moves a learner forward, so the hand stays at ten and `dealAll` units
+show everything. Sections group the lessons, because following eMova's order alone would
+scatter the grammar across its themed lessons.
+
+A table tests whether you remember the forms; only a sentence tests whether you would pick
+the right one. So a grammar lesson has both, with the sentence as a layout on the same slips
+and scoring, not a new quiz engine. The glossed meaning stays visible on the tile: the
+exercise tests the form, not whether the word is known.
+
 ## A unit can always deal every slip (2026-10-31, #3)
 
 Geoclick's shrinking hand (10, 6, 3, 1) stops a map being finished by elimination, because
 each place is its own fact. A declension is not like that: кімнату is the accusative only
 against кімнати and кімнаті. The owner found that a subset of the forms didn't test what the
 lesson teaches. A unit that sets `dealAll` keeps every slip in the tray. The last few can then
-be worked out by elimination, and a known unit plays as it did at first. The owner doesn't
-count that as a cost: a unit doesn't need to get harder, because new material is what moves
-a learner forward. It is set on `kimnata`, `stress-pairs` and `h-or-g`, where a lone slip
+be worked out by elimination, which the owner doesn't count as a cost. It is set on `kimnata`, `stress-pairs` and `h-or-g`, where a lone slip
 leaves no real choice.
 
 ## The vowel chart follows the sources, and says where they differ (2026-10-31, #3)

@@ -44,28 +44,40 @@
 				{:else}
 					<p class="quiet">{t('home.nothingDue')}</p>
 				{/if}
-				<ol>
-					{#each lessons as lesson (lesson.id)}
-						{@const dueNow = due(pack.id, lesson)}
-						{@const knownNow = known(pack.id, lesson)}
-						{@const size = total(lesson)}
-						<li>
-							<a href={resolve('/lesson/[pack]/[lesson]', { pack: pack.id, lesson: lesson.id })}>
-								<span class="title">{lesson.title}</span>
-								<span class="count">
-									{#if isStudied(pack.id, lesson.id)}<span class="studied"
-											>✓ {t('lesson.studied')}</span
-										>{/if}
-									{t('count.known', { known: knownNow, total: size })}
-									{#if dueNow > 0}<span class="due">{t('count.due', { count: dueNow })}</span>{/if}
-								</span>
-								<span class="bar" aria-hidden="true">
-									<span style:width="{size ? (100 * knownNow) / size : 0}%"></span>
-								</span>
-							</a>
-						</li>
-					{/each}
-				</ol>
+				{#each pack.sections as sectionId (sectionId)}
+					{@const inSection = lessons.filter((lesson) => lesson.section.id === sectionId)}
+					{#if inSection.length > 0}
+						<h3>{inSection[0].section.title}</h3>
+						<ol>
+							{#each inSection as lesson (lesson.id)}
+								{@const dueNow = due(pack.id, lesson)}
+								{@const knownNow = known(pack.id, lesson)}
+								{@const size = total(lesson)}
+								<li>
+									<a
+										href={resolve('/lesson/[pack]/[lesson]', {
+											pack: pack.id,
+											lesson: lesson.id
+										})}
+									>
+										<span class="title">{lesson.title}</span>
+										<span class="count">
+											{#if isStudied(pack.id, lesson.id)}<span class="studied"
+													>✓ {t('lesson.studied')}</span
+												>{/if}
+											{t('count.known', { known: knownNow, total: size })}
+											{#if dueNow > 0}<span class="due">{t('count.due', { count: dueNow })}</span
+												>{/if}
+										</span>
+										<span class="bar" aria-hidden="true">
+											<span style:width="{size ? (100 * knownNow) / size : 0}%"></span>
+										</span>
+									</a>
+								</li>
+							{/each}
+						</ol>
+					{/if}
+				{/each}
 			</section>
 		{/each}
 	{/if}
@@ -87,11 +99,17 @@
 		color: var(--muted);
 	}
 
+	h3 {
+		margin: 1.25rem 0 0;
+		font-size: 1rem;
+		color: var(--muted);
+	}
+
 	ol {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
 		gap: 0.6rem;
-		margin: 0.75rem 0 0;
+		margin: 0.5rem 0 0;
 		padding: 0;
 		list-style: none;
 	}

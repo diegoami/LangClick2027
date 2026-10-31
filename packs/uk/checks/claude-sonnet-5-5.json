@@ -567,6 +567,71 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/kimnata-sentences/gen.sg",
+			"seen": "{\"item\":\"sentence:kimnata:gen.sg\",\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"sentence\":\"У мене́ нема́є окре́мої ___.\"}",
+			"verdict": "ok",
+			"comment": "окре́мої (Goroh), нема́є (Goroh), мене́ (Goroh, variant ме́не); немає + genitive. Only genitive fits."
+		},
+		{
+			"key": "core/kimnata-sentences/dat.sg",
+			"seen": "{\"item\":\"sentence:kimnata:dat.sg\",\"text\":\"кімнаті\",\"display\":\"кімна́ті\",\"sentence\":\"Завдяки́ цій ___ у нас бі́льше мі́сця.\"}",
+			"verdict": "ok",
+			"comment": "Marks compared letter by letter with Goroh: завдяки́ (final и; Goroh entry), бі́льше (і), мі́сця (і), кімна́ти/кімна́там (а). Dative is the only case after завдяки (Goroh: з дав. в.); natural."
+		},
+		{
+			"key": "core/kimnata-sentences/acc.sg",
+			"seen": "{\"item\":\"sentence:kimnata:acc.sg\",\"text\":\"кімнату\",\"display\":\"кімна́ту\",\"sentence\":\"Я прибира́ю цю ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/kimnata-sentences/ins.sg",
+			"seen": "{\"item\":\"sentence:kimnata:ins.sg\",\"text\":\"кімнатою\",\"display\":\"кімна́тою\",\"sentence\":\"Ку́хня по́руч із ціє́ю ___.\"}",
+			"verdict": "ok",
+			"comment": "ціє́ю confirmed on Goroh (цей); поруч із + instrumental (Goroh: поруч з + оруд.), ку́хня, по́руч confirmed."
+		},
+		{
+			"key": "core/kimnata-sentences/loc.sg",
+			"seen": "{\"item\":\"sentence:kimnata:loc.sg\",\"text\":\"кімнаті\",\"display\":\"кімна́ті\",\"sentence\":\"У цій ___ є вікно́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/kimnata-sentences/voc.sg",
+			"seen": "{\"item\":\"sentence:kimnata:voc.sg\",\"text\":\"кімнато\",\"display\":\"кімна́то\",\"sentence\":\"Проща́й, моя́ ___!\"}",
+			"verdict": "ok",
+			"comment": "Stress проща́й (Goroh), моя́ (Goroh мій), кімна́то (Goroh). Grammatical; poetic but natural."
+		},
+		{
+			"key": "core/kimnata-sentences/nom.pl",
+			"seen": "{\"item\":\"sentence:kimnata:nom.pl\",\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"sentence\":\"Ці ___ вели́кі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/kimnata-sentences/gen.pl",
+			"seen": "{\"item\":\"sentence:kimnata:gen.pl\",\"text\":\"кімнат\",\"display\":\"кімна́т\",\"sentence\":\"У кварти́рі п'ять ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/kimnata-sentences/dat.pl",
+			"seen": "{\"item\":\"sentence:kimnata:dat.pl\",\"text\":\"кімнатам\",\"display\":\"кімна́там\",\"sentence\":\"Завдяки́ цим ___ у нас бі́льше мі́сця.\"}",
+			"verdict": "ok",
+			"comment": "Marks compared letter by letter with Goroh: завдяки́ (final и; Goroh entry), бі́льше (і), мі́сця (і), кімна́ти/кімна́там (а). Dative is the only case after завдяки (Goroh: з дав. в.); natural."
+		},
+		{
+			"key": "core/kimnata-sentences/acc.pl",
+			"seen": "{\"item\":\"sentence:kimnata:acc.pl\",\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"sentence\":\"Я прибира́ю ці ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/kimnata-sentences/ins.pl",
+			"seen": "{\"item\":\"sentence:kimnata:ins.pl\",\"text\":\"кімнатами\",\"display\":\"кімна́тами\",\"sentence\":\"Ку́хня між двома́ ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/kimnata-sentences/loc.pl",
+			"seen": "{\"item\":\"sentence:kimnata:loc.pl\",\"text\":\"кімнатах\",\"display\":\"кімна́тах\",\"sentence\":\"У цих ___ ти́хо.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/kimnata/nom.sg",
 			"seen": "{\"item\":\"noun:kimnata:nom.sg\",\"text\":\"кімната\",\"display\":\"кімна́та\",\"ipa\":\"/kimˈnata/\",\"cognates\":{\"ru\":{\"form\":\"комната\",\"ipa\":\"/ˈkomnətə/\"},\"pl\":{\"form\":\"komnata\",\"ipa\":\"/kɔmˈnata/\"}},\"row\":\"nom\",\"col\":\"sg\"}",
 			"verdict": "ok"
@@ -1019,6 +1084,21 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/section/sounds",
+			"seen": "\"Sounds\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/section/grammar",
+			"seen": "\"Grammar\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/section/themes",
+			"seen": "\"Themes\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/lesson/l01",
 			"seen": "\"Lesson 1: The alphabet and its sounds\"",
 			"verdict": "ok"
@@ -1029,11 +1109,6 @@
 			"verdict": "ok"
 		},
 		{
-			"key": "en/lesson/l14",
-			"seen": "\"Lesson 14: My home\"",
-			"verdict": "ok"
-		},
-		{
 			"key": "en/lesson/l02",
 			"seen": "\"Lesson 2: Pronouncing the vowels\"",
 			"verdict": "ok"
@@ -1041,6 +1116,11 @@
 		{
 			"key": "en/lesson/l03",
 			"seen": "\"Lesson 3: Pronouncing the consonants\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/g03",
+			"seen": "\"Noun cases\"",
 			"verdict": "ok"
 		},
 		{
@@ -1587,6 +1667,73 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/kimnata-sentences",
+			"seen": "{\"title\":\"кімната in sentences\",\"summary\":\"The same forms in use. Read each sentence and choose the form that fits its gap: the words around it tell you the case and the number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata-sentences/gen.sg",
+			"seen": "{\"sentenceGloss\":\"I have no separate room.\",\"note\":\"Genitive singular: немає takes the genitive.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata-sentences/dat.sg",
+			"seen": "{\"sentenceGloss\":\"Thanks to this room we have more space.\",\"note\":\"Dative singular, after завдяки.\"}",
+			"verdict": "ok",
+			"comment": "Goroh: завдяки́ governs the dative (з дав. в.), мі́сця, бі́льше stress confirmed; 'у нас більше місця' is natural (partitive genitive); gloss and note correct."
+		},
+		{
+			"key": "en/kimnata-sentences/acc.sg",
+			"seen": "{\"sentenceGloss\":\"I am tidying this room.\",\"note\":\"Accusative singular: the direct object.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata-sentences/ins.sg",
+			"seen": "{\"sentenceGloss\":\"The kitchen is next to this room.\",\"note\":\"Instrumental singular, after поруч із.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata-sentences/loc.sg",
+			"seen": "{\"sentenceGloss\":\"There is a window in this room.\",\"note\":\"Locative singular, after у for where something is.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata-sentences/voc.sg",
+			"seen": "{\"sentenceGloss\":\"Farewell, my room!\",\"note\":\"Vocative singular: addressing the room.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata-sentences/nom.pl",
+			"seen": "{\"sentenceGloss\":\"These rooms are big.\",\"note\":\"Nominative plural: the subject.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata-sentences/gen.pl",
+			"seen": "{\"sentenceGloss\":\"There are five rooms in the flat.\",\"note\":\"Genitive plural, after п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata-sentences/dat.pl",
+			"seen": "{\"sentenceGloss\":\"Thanks to these rooms we have more space.\",\"note\":\"Dative plural, after завдяки.\"}",
+			"verdict": "ok",
+			"comment": "Goroh: завдяки́ governs the dative (з дав. в.), мі́сця, бі́льше stress confirmed; 'у нас більше місця' is natural (partitive genitive); gloss and note correct."
+		},
+		{
+			"key": "en/kimnata-sentences/acc.pl",
+			"seen": "{\"sentenceGloss\":\"I am tidying these rooms.\",\"note\":\"Accusative plural: the direct object, the same as the nominative for things.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata-sentences/ins.pl",
+			"seen": "{\"sentenceGloss\":\"The kitchen is between two rooms.\",\"note\":\"Instrumental plural, after між.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/kimnata-sentences/loc.pl",
+			"seen": "{\"sentenceGloss\":\"It is quiet in these rooms.\",\"note\":\"Locative plural, after у for where something is.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/kimnata",
 			"seen": "{\"title\":\"Noun cases: кімната (room)\",\"summary\":\"One regular noun through all 7 cases, singular and plural. Some forms fill more than one cell.\",\"headers\":{\"nom\":\"Nominative\",\"gen\":\"Genitive\",\"dat\":\"Dative\",\"acc\":\"Accusative\",\"ins\":\"Instrumental\",\"loc\":\"Locative\",\"voc\":\"Vocative\",\"sg\":\"Singular\",\"pl\":\"Plural\"}}",
 			"verdict": "ok"
@@ -1713,6 +1860,21 @@
 			"comment": "Note accurate: Jipa writes /a/; Vakulenko 2025 Table 1 gives ɑ for stressed а (and ɐ unstressed or after palatalized consonants); Ukrainian descriptions class а as a back vowel."
 		},
 		{
+			"key": "pl/section/sounds",
+			"seen": "\"Dźwięki\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/section/grammar",
+			"seen": "\"Gramatyka\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/section/themes",
+			"seen": "\"Tematy\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/lesson/l01",
 			"seen": "\"Lekcja 1: Alfabet i jego dźwięki\"",
 			"verdict": "ok"
@@ -1723,11 +1885,6 @@
 			"verdict": "ok"
 		},
 		{
-			"key": "pl/lesson/l14",
-			"seen": "\"Lekcja 14: Mój dom\"",
-			"verdict": "ok"
-		},
-		{
 			"key": "pl/lesson/l02",
 			"seen": "\"Lekcja 2: Wymowa samogłosek\"",
 			"verdict": "ok"
@@ -1735,6 +1892,11 @@
 		{
 			"key": "pl/lesson/l03",
 			"seen": "\"Lekcja 3: Wymowa spółgłosek\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/g03",
+			"seen": "\"Przypadki rzeczowników\"",
 			"verdict": "ok"
 		},
 		{
@@ -2282,6 +2444,73 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/kimnata-sentences",
+			"seen": "{\"title\":\"кімната w zdaniach\",\"summary\":\"Te same formy w użyciu. Przeczytaj zdanie i wybierz formę do luki: słowa wokół niej wskazują przypadek i liczbę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata-sentences/gen.sg",
+			"seen": "{\"sentenceGloss\":\"Nie mam osobnego pokoju.\",\"note\":\"Dopełniacz l. poj.: немає łączy się z dopełniaczem.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata-sentences/dat.sg",
+			"seen": "{\"sentenceGloss\":\"Dzięki temu pokojowi mamy więcej miejsca.\",\"note\":\"Celownik l. poj., po завдяки.\"}",
+			"verdict": "ok",
+			"comment": "Goroh: завдяки́ governs the dative (з дав. в.), мі́сця, бі́льше stress confirmed; 'у нас більше місця' is natural (partitive genitive); gloss and note correct."
+		},
+		{
+			"key": "pl/kimnata-sentences/acc.sg",
+			"seen": "{\"sentenceGloss\":\"Sprzątam ten pokój.\",\"note\":\"Biernik l. poj.: dopełnienie bliższe.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata-sentences/ins.sg",
+			"seen": "{\"sentenceGloss\":\"Kuchnia jest obok tego pokoju.\",\"note\":\"Narzędnik l. poj., po поруч із.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata-sentences/loc.sg",
+			"seen": "{\"sentenceGloss\":\"W tym pokoju jest okno.\",\"note\":\"Miejscownik l. poj., po у przy określeniu miejsca.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata-sentences/voc.sg",
+			"seen": "{\"sentenceGloss\":\"Żegnaj, mój pokoju!\",\"note\":\"Wołacz l. poj.: zwrot do pokoju.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata-sentences/nom.pl",
+			"seen": "{\"sentenceGloss\":\"Te pokoje są duże.\",\"note\":\"Mianownik l. mn.: podmiot.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata-sentences/gen.pl",
+			"seen": "{\"sentenceGloss\":\"W mieszkaniu jest pięć pokoi.\",\"note\":\"Dopełniacz l. mn., po п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata-sentences/dat.pl",
+			"seen": "{\"sentenceGloss\":\"Dzięki tym pokojom mamy więcej miejsca.\",\"note\":\"Celownik l. mn., po завдяки.\"}",
+			"verdict": "ok",
+			"comment": "Goroh: завдяки́ governs the dative (з дав. в.), мі́сця, бі́льше stress confirmed; 'у нас більше місця' is natural (partitive genitive); gloss and note correct."
+		},
+		{
+			"key": "pl/kimnata-sentences/acc.pl",
+			"seen": "{\"sentenceGloss\":\"Sprzątam te pokoje.\",\"note\":\"Biernik l. mn.: dopełnienie bliższe; dla rzeczy równy mianownikowi.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata-sentences/ins.pl",
+			"seen": "{\"sentenceGloss\":\"Kuchnia jest między dwoma pokojami.\",\"note\":\"Narzędnik l. mn., po між.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/kimnata-sentences/loc.pl",
+			"seen": "{\"sentenceGloss\":\"W tych pokojach jest cicho.\",\"note\":\"Miejscownik l. mn., po у przy określeniu miejsca.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/kimnata",
 			"seen": "{\"title\":\"Przypadki: кімната (pokój)\",\"summary\":\"Jeden regularny rzeczownik we wszystkich 7 przypadkach, w liczbie pojedynczej i mnogiej. Niektóre formy wypełniają kilka pól.\",\"headers\":{\"nom\":\"Mianownik\",\"gen\":\"Dopełniacz\",\"dat\":\"Celownik\",\"acc\":\"Biernik\",\"ins\":\"Narzędnik\",\"loc\":\"Miejscownik\",\"voc\":\"Wołacz\",\"sg\":\"Pojedyncza\",\"pl\":\"Mnoga\"}}",
 			"verdict": "ok"
@@ -2807,6 +3036,21 @@
 			"comment": "Russian г main value is [ɡ] (allophones [ɣ], [x] are secondary), Polish g is /ɡ/; гора/голова/góra correspond to Ukrainian г (Proto-Slavic *g > ɦ). h-sound concept fits. English \"has the sound of\" is a little stiff (\"sounds like\" is more natural) but correct."
 		},
 		{
+			"key": "ru/section/sounds",
+			"seen": "\"Звуки\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/section/grammar",
+			"seen": "\"Грамматика\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/section/themes",
+			"seen": "\"Темы\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/lesson/l01",
 			"seen": "\"Урок 1: Алфавит и его звуки\"",
 			"verdict": "ok"
@@ -2817,11 +3061,6 @@
 			"verdict": "ok"
 		},
 		{
-			"key": "ru/lesson/l14",
-			"seen": "\"Урок 14: Мой дом\"",
-			"verdict": "ok"
-		},
-		{
 			"key": "ru/lesson/l02",
 			"seen": "\"Урок 2: Произношение гласных\"",
 			"verdict": "ok"
@@ -2829,6 +3068,11 @@
 		{
 			"key": "ru/lesson/l03",
 			"seen": "\"Урок 3: Произношение согласных\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/g03",
+			"seen": "\"Падежи существительных\"",
 			"verdict": "ok"
 		},
 		{
@@ -3375,6 +3619,73 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/kimnata-sentences",
+			"seen": "{\"title\":\"кімната в предложениях\",\"summary\":\"Те же формы в употреблении. Прочитайте предложение и выберите форму для пропуска: слова вокруг подскажут падеж и число.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata-sentences/gen.sg",
+			"seen": "{\"sentenceGloss\":\"У меня нет отдельной комнаты.\",\"note\":\"Родительный, ед. ч.: немає требует родительного.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata-sentences/dat.sg",
+			"seen": "{\"sentenceGloss\":\"Благодаря этой комнате у нас больше места.\",\"note\":\"Дательный, ед. ч., после завдяки.\"}",
+			"verdict": "ok",
+			"comment": "Goroh: завдяки́ governs the dative (з дав. в.), мі́сця, бі́льше stress confirmed; 'у нас більше місця' is natural (partitive genitive); gloss and note correct."
+		},
+		{
+			"key": "ru/kimnata-sentences/acc.sg",
+			"seen": "{\"sentenceGloss\":\"Я убираю эту комнату.\",\"note\":\"Винительный, ед. ч.: прямое дополнение.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata-sentences/ins.sg",
+			"seen": "{\"sentenceGloss\":\"Кухня рядом с этой комнатой.\",\"note\":\"Творительный, ед. ч., после поруч із.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata-sentences/loc.sg",
+			"seen": "{\"sentenceGloss\":\"В этой комнате есть окно.\",\"note\":\"Местный, ед. ч., после у при указании места.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata-sentences/voc.sg",
+			"seen": "{\"sentenceGloss\":\"Прощай, моя комната!\",\"note\":\"Звательный, ед. ч.: обращение к комнате. В русском такой формы нет.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata-sentences/nom.pl",
+			"seen": "{\"sentenceGloss\":\"Эти комнаты большие.\",\"note\":\"Именительный, мн. ч.: подлежащее.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata-sentences/gen.pl",
+			"seen": "{\"sentenceGloss\":\"В квартире пять комнат.\",\"note\":\"Родительный, мн. ч., после п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata-sentences/dat.pl",
+			"seen": "{\"sentenceGloss\":\"Благодаря этим комнатам у нас больше места.\",\"note\":\"Дательный, мн. ч., после завдяки.\"}",
+			"verdict": "ok",
+			"comment": "Goroh: завдяки́ governs the dative (з дав. в.), мі́сця, бі́льше stress confirmed; 'у нас більше місця' is natural (partitive genitive); gloss and note correct."
+		},
+		{
+			"key": "ru/kimnata-sentences/acc.pl",
+			"seen": "{\"sentenceGloss\":\"Я убираю эти комнаты.\",\"note\":\"Винительный, мн. ч.: прямое дополнение; у неодушевлённых совпадает с именительным.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata-sentences/ins.pl",
+			"seen": "{\"sentenceGloss\":\"Кухня между двумя комнатами.\",\"note\":\"Творительный, мн. ч., после між.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/kimnata-sentences/loc.pl",
+			"seen": "{\"sentenceGloss\":\"В этих комнатах тихо.\",\"note\":\"Местный, мн. ч., после у при указании места.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/kimnata",
 			"seen": "{\"title\":\"Падежи: кімната (комната)\",\"summary\":\"Одно регулярное существительное во всех 7 падежах, в единственном и множественном числе. Некоторые формы стоят в нескольких ячейках.\",\"headers\":{\"nom\":\"Именительный\",\"gen\":\"Родительный\",\"dat\":\"Дательный\",\"acc\":\"Винительный\",\"ins\":\"Творительный\",\"loc\":\"Местный\",\"voc\":\"Звательный\",\"sg\":\"Единственное\",\"pl\":\"Множественное\"}}",
 			"verdict": "ok"
@@ -3836,6 +4147,21 @@
 			"comment": "Facts hold: льон (лён), жовтий, чорний, мед (мёд) are correct and the claim is now hedged. Not exhaustive (ш, щ also give о: шёл-йшов... щоки), but nothing false. Wording natural."
 		},
 		{
+			"key": "uk/section/sounds",
+			"seen": "\"Звуки\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/section/grammar",
+			"seen": "\"Граматика\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/section/themes",
+			"seen": "\"Теми\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/lesson/l01",
 			"seen": "\"Урок 1: Алфавіт і його звуки\"",
 			"verdict": "ok"
@@ -3846,11 +4172,6 @@
 			"verdict": "ok"
 		},
 		{
-			"key": "uk/lesson/l14",
-			"seen": "\"Урок 14: Мій дім\"",
-			"verdict": "ok"
-		},
-		{
 			"key": "uk/lesson/l02",
 			"seen": "\"Урок 2: Вимова голосних\"",
 			"verdict": "ok"
@@ -3858,6 +4179,11 @@
 		{
 			"key": "uk/lesson/l03",
 			"seen": "\"Урок 3: Вимова приголосних\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/g03",
+			"seen": "\"Відмінки іменників\"",
 			"verdict": "ok"
 		},
 		{
@@ -4402,6 +4728,74 @@
 		{
 			"key": "uk/i-or-y/byk",
 			"seen": "{\"clue\":\"самець корови\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata-sentences",
+			"seen": "{\"title\":\"кімната в реченнях\",\"summary\":\"Ті самі форми у вжитку. Прочитайте речення й виберіть форму для пропуску: слова навколо підкажуть відмінок і число.\"}",
+			"verdict": "ok",
+			"comment": "Title ok: after a vowel (кімната) euphony prefers в before a consonant, so 'в реченнях' is right."
+		},
+		{
+			"key": "uk/kimnata-sentences/gen.sg",
+			"seen": "{\"note\":\"Родовий однини: немає вимагає родового.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata-sentences/dat.sg",
+			"seen": "{\"note\":\"Давальний однини, після завдяки.\"}",
+			"verdict": "ok",
+			"comment": "Goroh: завдяки́ governs the dative (з дав. в.), мі́сця, бі́льше stress confirmed; 'у нас більше місця' is natural (partitive genitive); gloss and note correct."
+		},
+		{
+			"key": "uk/kimnata-sentences/acc.sg",
+			"seen": "{\"note\":\"Знахідний однини: прямий додаток.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata-sentences/ins.sg",
+			"seen": "{\"note\":\"Орудний однини, після поруч із.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata-sentences/loc.sg",
+			"seen": "{\"note\":\"Місцевий однини, після у, коли йдеться про місце.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata-sentences/voc.sg",
+			"seen": "{\"note\":\"Кличний однини: звертання до кімнати.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata-sentences/nom.pl",
+			"seen": "{\"note\":\"Називний множини: підмет.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata-sentences/gen.pl",
+			"seen": "{\"note\":\"Родовий множини, після п'ять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata-sentences/dat.pl",
+			"seen": "{\"note\":\"Давальний множини, після завдяки.\"}",
+			"verdict": "ok",
+			"comment": "Goroh: завдяки́ governs the dative (з дав. в.), мі́сця, бі́льше stress confirmed; 'у нас більше місця' is natural (partitive genitive); gloss and note correct."
+		},
+		{
+			"key": "uk/kimnata-sentences/acc.pl",
+			"seen": "{\"note\":\"Знахідний множини: прямий додаток; у неживих збігається з називним.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata-sentences/ins.pl",
+			"seen": "{\"note\":\"Орудний множини, після між.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/kimnata-sentences/loc.pl",
+			"seen": "{\"note\":\"Місцевий множини, після у, коли йдеться про місце.\"}",
 			"verdict": "ok"
 		},
 		{

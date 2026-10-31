@@ -4,6 +4,12 @@ Each release's entry is its release notes (`docs/RELEASES.md`).
 
 ## Unreleased
 
+For players:
+
+- Lessons are grouped under Sounds, Grammar and Themes.
+- A new kind of exercise: complete a sentence by choosing the form that fits its gap, starting with кімната.
+- The tray stays at ten slips however well you know a unit, since new material is what moves you forward.
+
 Also: a cell's recorded checks now cover its `item` and `concepts`, and the check that keeps engine code language-neutral covers more languages and every non-Latin script.
 
 ## v0.2.0 — 2026-10-31 — Study first, then practise, compared with Russian or Polish

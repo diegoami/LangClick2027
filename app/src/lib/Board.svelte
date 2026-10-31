@@ -22,7 +22,7 @@
 	}
 
 	function ariaLabel(cell: LocalCell): string {
-		if (unit.layout.type !== 'table') return `${cell.clue}: ${spoken(cell)}`;
+		if (unit.layout.type !== 'table') return `${cell.sentence ?? cell.clue}: ${spoken(cell)}`;
 		const { rows, columns } = unit.layout;
 		return `${labelOf(rows, cell.row)}, ${labelOf(columns, cell.col)}: ${spoken(cell)}`;
 	}
@@ -66,7 +66,7 @@
 		</tbody>
 	</table>
 {:else}
-	<ul class="board-grid">
+	<ul class="board-grid" class:sentences={unit.layout.type === 'sentences'}>
 		{#each unit.cells as cell (cell.id)}
 			<li>{@render cellButton(cell)}</li>
 		{/each}
@@ -110,6 +110,10 @@
 		margin: 0;
 		padding: 0;
 		list-style: none;
+	}
+
+	.board-grid.sentences {
+		grid-template-columns: 1fr;
 	}
 
 	.board-grid li {
