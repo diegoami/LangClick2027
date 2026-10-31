@@ -81,6 +81,38 @@ describe('LocalStorageProgressRepository', () => {
 	});
 });
 
+describe('studied lessons', () => {
+	const repository = new LocalStorageProgressRepository();
+
+	beforeEach(() => {
+		vi.stubGlobal('localStorage', fakeStorage());
+	});
+
+	it('reads none when none are saved, and reads back what was saved', async () => {
+		expect(await repository.getStudied('test')).toEqual([]);
+		await repository.saveStudied('test', ['l1', 'l2']);
+		expect(await new LocalStorageProgressRepository().getStudied('test')).toEqual(['l1', 'l2']);
+		expect(await repository.getStudied('other')).toEqual([]);
+	});
+
+	it('reads junk as none, and survives a localStorage that throws', async () => {
+		localStorage.setItem('langclick:progress:v1:test:studied', '{not json');
+		expect(await repository.getStudied('test')).toEqual([]);
+		localStorage.setItem('langclick:progress:v1:test:studied', '"text"');
+		expect(await repository.getStudied('test')).toEqual([]);
+		vi.stubGlobal('localStorage', {
+			getItem: () => {
+				throw new Error('blocked');
+			},
+			setItem: () => {
+				throw new Error('full');
+			}
+		});
+		expect(await repository.getStudied('test')).toEqual([]);
+		await expect(repository.saveStudied('test', ['l1'])).resolves.toBeUndefined();
+	});
+});
+
 describe('todayLocalDate', () => {
 	it('is a calendar date', () => {
 		expect(todayLocalDate()).toMatch(/^\d{4}-\d{2}-\d{2}$/);

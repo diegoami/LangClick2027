@@ -1,0 +1,15 @@
+{
+	"title": "Noun cases: кімната (room)",
+	"summary": "One regular noun through all 7 cases, singular and plural. Some forms fill more than one cell.",
+	"headers": {
+		"nom": "Nominative",
+		"gen": "Genitive",
+		"dat": "Dative",
+		"acc": "Accusative",
+		"ins": "Instrumental",
+		"loc": "Locative",
+		"voc": "Vocative",
+		"sg": "Singular",
+		"pl": "Plural"
+	}
+}

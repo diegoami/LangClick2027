@@ -9,12 +9,33 @@ stays on the device.
 
 | Path | What it is |
 |---|---|
-| `packs/<id>/` | Authored content: a manifest, units and content checks. See `packs/README.md` |
-| `packages/pack-format` | The pack types and the validator. Pure |
+| `packs/<id>/` | Authored content: a manifest, units, layers and content checks. See `packs/README.md` |
+| `locales/` | Interface text, one file per language, outside the engine |
+| `packages/pack-format` | The pack types, the validator, the merging of layers into what a learner sees, and the content-check rules. Pure |
 | `packages/quiz-engine` | What a drop means: a round's cells, their status, the score. Pure |
 | `packages/srs` | The scheduler, copied unchanged from Geoclick: an earned level and a due date per card. Pure |
 | `app/src/lib` | The screens and their state |
-| `app/src/routes` | Home, then `/unit/[pack]/[unit]` with `overview` and `quiz` |
+| `app/src/routes` | Home, `/lesson/[pack]/[lesson]`, `/review/[pack]`, and `/unit/[pack]/[unit]` with `overview` and `quiz` |
+
+## How a learner moves through it
+
+Study, then exercises, then repetition. A lesson page (`routes/lesson`) links to what
+to study and lets you mark it studied, which locks nothing. The boards come next.
+`ReviewView` then deals what is due across every started unit, one board at a time,
+using `QuizView`'s `only`: the due cells are asked and the rest stay visible.
+
+## Languages
+
+Two independent choices, in `language.svelte.ts`: what to compare with, and what to
+explain in. Interface text comes from `locales/`. Pack text comes in layers:
+
+- A **unit** holds what is true in every language: answers, IPA, cognates.
+- A **base layer** (`layers/<language>/`) holds titles, labels, clues and notes.
+- An **overlay** (`layers/<compare>-<language>/`) holds what that comparison adds.
+
+`localizeUnit` merges the three into the `LocalUnit` every screen draws, so no screen
+knows about layers. Everything is read through `PackSource` in `packs.ts`. Today that
+is the local `packs/` folder; v0.3.0 puts downloads behind the same interface (#6).
 
 ## How a unit plays
 
@@ -38,8 +59,7 @@ Overview keeps it and a reload starts fresh.
 
 **Progress.** Each answer goes through `rate` from `packages/srs` and is saved at
 once by `progressRepository.ts`, keyed by pack, item and skill. Only `recognise` is
-written so far. Rounds cover the whole unit; the due dates are saved but nothing
-reads them until review across units arrives in v0.4.0.
+written so far. A round covers the whole unit, and Review reads the saved due dates.
 
 **Difficulty.** `difficulty.ts` sets the hand size from the share of the unit known
 when the round starts: 10, 6, 3, then 1 slips.
@@ -47,7 +67,9 @@ when the round starts: 10, 6, 3, then 1 slips.
 ## What keeps it honest
 
 - `packs.test.ts` runs the validator and the recorded content checks over every
-  pack in `packs/`, so a new pack is covered by being there.
+  pack in `packs/`, so a new pack is covered by being there. It also checks that every
+  choice of languages leaves no tile without a clue.
+- `locales.test.ts` keeps the interface languages in step: same keys, same placeholders.
 - `engineNeutral.test.ts` fails if engine code names a language or contains another
   script's text.
 - `QuizView.svelte.test.ts` plays rounds in real Chromium against real pack data.

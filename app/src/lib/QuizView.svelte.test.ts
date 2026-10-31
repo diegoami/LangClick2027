@@ -1,15 +1,25 @@
 import { beforeEach, describe, expect, it } from 'vitest';
 import { render } from 'vitest-browser-svelte';
 import { userEvent } from 'vitest/browser';
-import type { PackManifest, Unit } from '@langclick/pack-format';
+import { localizeUnit, type PackManifest, type Unit, type UnitText } from '@langclick/pack-format';
 import kimnata from '../../../packs/uk/units/kimnata.json';
+import kimnataText from '../../../packs/uk/layers/en/units/kimnata.json';
 import pack from '../../../packs/uk/pack.json';
+import { resetLanguages } from './language.svelte';
 import { forgetRound } from './quizRound';
-import { levelOf, loadProgress, resetProgressMirror } from './progress.svelte';
+import {
+	dueCells,
+	levelOf,
+	loadProgress,
+	recordAnswer,
+	resetProgressMirror
+} from './progress.svelte';
+import { todayLocalDate } from './progressRepository';
 import QuizView from './QuizView.svelte';
+import ReviewView from './ReviewView.svelte';
 
-const manifest = pack as PackManifest;
-const unit = kimnata as Unit;
+const manifest = pack as unknown as PackManifest;
+const unit = localizeUnit(kimnata as unknown as Unit, kimnataText as UnitText, undefined, {});
 
 const cellEl = (id: string) => document.querySelector<HTMLElement>(`[data-cell-id="${id}"]`)!;
 const slips = () => [...document.querySelectorAll<HTMLElement>('[data-slip-id]')];
@@ -37,13 +47,14 @@ function start() {
 	return render(QuizView, { pack: manifest, unit });
 }
 
-describe('QuizView', () => {
-	beforeEach(async () => {
-		localStorage.clear();
-		resetProgressMirror();
-		await loadProgress(manifest.id);
-	});
+beforeEach(async () => {
+	localStorage.clear();
+	resetLanguages({ compareWith: null, explainIn: 'en' });
+	resetProgressMirror();
+	await loadProgress(manifest.id);
+});
 
+describe('QuizView', () => {
 	it('deals ten slips on a new unit, and shows no answers', async () => {
 		start();
 		expect(slips()).toHaveLength(10);
@@ -74,6 +85,14 @@ describe('QuizView', () => {
 		}
 		expect(slipWith('кімнати')).toBeUndefined();
 		expect(document.querySelector('.revealed')).toBeNull();
+	});
+
+	it('shows the IPA once an answer is visible', async () => {
+		start();
+		await dealUntil('кімнату');
+		expect(cellEl('acc.sg').textContent).not.toContain('/kimˈnatu/');
+		await place('кімнату', 'acc.sg');
+		expect(cellEl('acc.sg').textContent).toContain('/kimˈnatu/');
 	});
 
 	it('reveals the right cell on a wrong drop, explains, and lowers the level', async () => {
@@ -122,5 +141,69 @@ describe('QuizView', () => {
 		}
 		expect(document.querySelector('.score')?.textContent).toContain('14 of 14');
 		expect(slips()).toHaveLength(0);
+	});
+
+	it('speaks the language chosen', async () => {
+		resetLanguages({ compareWith: 'ru', explainIn: 'pl' });
+		start();
+		expect(document.querySelector('.hint')?.textContent).toContain('Przeciągnij');
+	});
+});
+
+describe('review', () => {
+	const cell = (id: string) => unit.cells.find((c) => c.id === id)!;
+
+	it('finds what is due: an answer missed today, but not a new item or a correct one', async () => {
+		await recordAnswer(manifest.id, cell('acc.sg'), 'again');
+		await recordAnswer(manifest.id, cell('nom.sg'), 'good');
+		expect(dueCells(manifest.id, unit).map((c) => c.id)).toEqual(['acc.sg']);
+	});
+
+	it('finds a correct answer once its day comes', async () => {
+		await recordAnswer(manifest.id, cell('nom.sg'), 'good');
+		const [y, m, d] = todayLocalDate().split('-').map(Number);
+		const tomorrow = new Date(y, m - 1, d + 1);
+		const pad = (n: number) => String(n).padStart(2, '0');
+		const later = `${tomorrow.getFullYear()}-${pad(tomorrow.getMonth() + 1)}-${pad(tomorrow.getDate())}`;
+		expect(dueCells(manifest.id, unit, later).map((c) => c.id)).toEqual(['nom.sg']);
+	});
+
+	it('asks only what is due, shows the rest, and ignores a drop on what is shown', async () => {
+		await recordAnswer(manifest.id, cell('acc.sg'), 'again');
+		render(QuizView, { pack: manifest, unit, only: new Set([cell('acc.sg').item]) });
+		expect(slips().map((slip) => slip.textContent)).toEqual(['кімнату']);
+		expect(cellEl('nom.sg').classList.contains('given')).toBe(true);
+		expect(cellEl('nom.sg').textContent).toContain('кімна́та');
+		expect(cellEl('acc.sg').textContent?.trim()).toBe('');
+
+		await place('кімнату', 'nom.sg');
+		expect(slipWith('кімнату')).toBeDefined();
+		expect(cellEl('acc.sg').classList.contains('revealed')).toBe(false);
+
+		// The drop was ignored, so the slip is still selected.
+		await userEvent.click(cellEl('acc.sg'));
+		expect(cellEl('acc.sg').classList.contains('correct')).toBe(true);
+		expect(levelOf(manifest.id, cell('acc.sg'))).toBe(1);
+	});
+
+	it('walks the boards that have something due, then says it is done', async () => {
+		const other = { ...unit, id: 'other', title: 'Second board' };
+		await recordAnswer(manifest.id, cell('acc.sg'), 'again');
+		render(ReviewView, { pack: manifest, units: [unit, other] });
+
+		// Both boards contain the item, since a word can recur across units.
+		expect(document.querySelector('h2')?.textContent).toBe(unit.title);
+		await place('кімнату', 'acc.sg');
+		await userEvent.click(document.querySelector<HTMLElement>('.score .action')!);
+		expect(document.querySelector('h2')?.textContent).toBe('Second board');
+		await place('кімнату', 'acc.sg');
+		await userEvent.click(document.querySelector<HTMLElement>('.score .action')!);
+		expect(document.querySelector('.done')?.textContent).toContain('All done');
+	});
+
+	it('says so when nothing is due', async () => {
+		render(ReviewView, { pack: manifest, units: [unit] });
+		expect(document.querySelector('main, p')?.textContent).toContain('Nothing is due');
+		expect(document.querySelector('[data-cell-id]')).toBeNull();
 	});
 });

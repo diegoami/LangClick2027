@@ -1,39 +1,36 @@
 <script lang="ts">
 	// Only what the player has earned: an answer appears at its first clean quiz
 	// answer and strengthens up to Known. Nothing here gives away what isn't earned.
-	import { shownText, type Cell, type PackManifest, type Unit } from '@langclick/pack-format';
-	import { resolve } from '$app/paths';
+	import {
+		shownText,
+		type LocalCell,
+		type LocalUnit,
+		type PackManifest
+	} from '@langclick/pack-format';
 	import Board from './Board.svelte';
 	import CellFace from './CellFace.svelte';
 	import CellNote from './CellNote.svelte';
 	import { KNOWN_CLEAN_STREAK } from './difficulty';
+	import { t } from './language.svelte';
 	import { levelOf, unitStarted } from './progress.svelte';
 
 	interface Props {
 		pack: PackManifest;
-		unit: Unit;
+		unit: LocalUnit;
 	}
 
 	let { pack, unit }: Props = $props();
-	let chosen = $state<Cell>();
+	let chosen = $state<LocalCell>();
+	const current = $derived(unit.cells.find((cell) => cell.id === chosen?.id));
 
-	const earned = (cell: Cell) => levelOf(pack.id, cell) > 0;
+	const earned = (cell: LocalCell) => levelOf(pack.id, cell) > 0;
 </script>
 
-{#if !unitStarted(pack.id, unit)}
-	<p>
-		Nothing earned yet. Look through the
-		<a href={resolve('/unit/[pack]/[unit]/overview', { pack: pack.id, unit: unit.id })}>Overview</a
-		>, then take the
-		<a href={resolve('/unit/[pack]/[unit]/quiz', { pack: pack.id, unit: unit.id })}>Quiz</a>.
-	</p>
-{:else}
-	<p>Answers appear as you earn them, and grow stronger until you know them.</p>
-{/if}
+<p>{unitStarted(pack.id, unit) ? t('known.hint') : t('known.empty')}</p>
 
 <Board
 	{unit}
-	spoken={(cell) => (earned(cell) ? shownText(cell) : 'not earned yet')}
+	spoken={(cell) => (earned(cell) ? shownText(cell) : t('cell.notEarned'))}
 	classOf={(cell) => {
 		if (!earned(cell)) return 'empty';
 		const known = levelOf(pack.id, cell) >= KNOWN_CLEAN_STREAK;
@@ -53,8 +50,8 @@
 	{/snippet}
 </Board>
 
-{#if chosen}
-	<CellNote cell={chosen} lang={pack.language} />
+{#if current}
+	<CellNote cell={current} lang={pack.language} />
 {/if}
 
 <style>

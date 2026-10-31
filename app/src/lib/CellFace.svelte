@@ -1,8 +1,8 @@
 <script lang="ts">
-	import { shownText, type Cell } from '@langclick/pack-format';
+	import { shownText, type LocalCell } from '@langclick/pack-format';
 
 	interface Props {
-		cell: Cell;
+		cell: LocalCell;
 		/** The pack's language tag, so the answer is read and drawn correctly. */
 		lang: string;
 		/** Whether the answer is visible yet. */
@@ -17,6 +17,9 @@
 <span class="answer" data-level={level} {lang}>
 	{#if showAnswer}{shownText(cell)}{:else}&nbsp;{/if}
 </span>
+{#if showAnswer && cell.ipa}
+	<span class="ipa">{cell.ipa}</span>
+{/if}
 {#if cell.clue}
 	<span class="clue">{cell.clue}</span>
 {/if}
@@ -34,6 +37,11 @@
 
 	.answer[data-level='2'] {
 		opacity: 0.7;
+	}
+
+	.ipa {
+		font-size: 0.75rem;
+		color: var(--accent);
 	}
 
 	.clue {

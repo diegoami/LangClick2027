@@ -1,0 +1,58 @@
+{
+	"cells": {
+		"h": {
+			"contrast": "Not Polish g, though the letter suggests it. A voiced fricative that standard Polish lacks as a separate phoneme; Polish h is the voiceless ch."
+		},
+		"g": {
+			"contrast": "This is Polish g."
+		},
+		"v": {
+			"contrast": "Corresponds to Polish w, but at the end of a syllable it sounds close to Polish ł: був like był."
+		},
+		"e": {
+			"contrast": "This is Polish e; a consonant before it stays hard."
+		},
+		"ye": {
+			"contrast": "At the start of a word it is je; after a consonant it softens it, like Polish ie."
+		},
+		"y": {
+			"contrast": "Corresponds to Polish y, though not the same sound."
+		},
+		"i": {
+			"contrast": "This is Polish i."
+		},
+		"yi": {
+			"contrast": "Always two sounds: ji."
+		},
+		"l": {
+			"contrast": "Not Polish l: usually a hard, dark [ɫ]. Nor is it Polish ł, which sounds like [w]."
+		},
+		"kh": {
+			"contrast": "Like Polish ch or h."
+		},
+		"ts": {
+			"contrast": "Like Polish c. It can also be softened, [t͡sʲ], as in кінець, but that is not Polish ć."
+		},
+		"zh": {
+			"contrast": "Like Polish ż."
+		},
+		"ch": {
+			"contrast": "Like Polish cz."
+		},
+		"sh": {
+			"contrast": "Like Polish sz."
+		},
+		"shch": {
+			"contrast": "Like Polish szcz: two sounds."
+		},
+		"soft": {
+			"contrast": "Marks softness, but not the Polish kind: ś and ć are alveolo-palatal, while standard Ukrainian has palatalized dentals, such as [nʲ] in день."
+		},
+		"yu": {
+			"contrast": "At the start of a word it is ju; after a consonant it softens it, like Polish iu."
+		},
+		"ya": {
+			"contrast": "At the start of a word it is ja; after a consonant it softens it, like Polish ia."
+		}
+	}
+}

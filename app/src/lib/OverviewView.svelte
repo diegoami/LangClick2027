@@ -1,17 +1,25 @@
 <script lang="ts">
 	// Everything the unit expects you to learn, with every answer showing.
-	import { shownText, type Cell, type PackManifest, type Unit } from '@langclick/pack-format';
+	import {
+		shownText,
+		type LocalCell,
+		type LocalUnit,
+		type PackManifest
+	} from '@langclick/pack-format';
 	import Board from './Board.svelte';
 	import CellFace from './CellFace.svelte';
 	import CellNote from './CellNote.svelte';
+	import { t } from './language.svelte';
 
 	interface Props {
 		pack: PackManifest;
-		unit: Unit;
+		unit: LocalUnit;
 	}
 
 	let { pack, unit }: Props = $props();
-	let chosen = $state<Cell>();
+	let chosen = $state<LocalCell>();
+	// A change of language rebuilds the cells, so follow the choice by id.
+	const current = $derived(unit.cells.find((cell) => cell.id === chosen?.id));
 </script>
 
 <p>{unit.summary}</p>
@@ -27,17 +35,17 @@
 	{/snippet}
 </Board>
 
-{#if chosen}
-	<CellNote cell={chosen} lang={pack.language} />
+{#if current}
+	<CellNote cell={current} lang={pack.language} />
 {/if}
 
 <footer>
-	Sources:
+	{t('overview.sources')}
 	{#each unit.sources as source, i (i)}
 		{#if i > 0},{/if}
 		<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -- an outside address -->
 		<a href={source.url} rel="external noreferrer" target="_blank">{source.title}</a>
-	{/each}. Content licence: {pack.licence}.
+	{/each}. {t('overview.licence', { licence: pack.licence })}
 </footer>
 
 <style>

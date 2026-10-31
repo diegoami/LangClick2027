@@ -1,28 +1,33 @@
 <script lang="ts">
 	import { page } from '$app/state';
 	import { resolve } from '$app/paths';
+	import { t } from '$lib/language.svelte';
 	import { unitKnown } from '$lib/progress.svelte';
 
 	let { data, children } = $props();
 
 	const params = $derived({ pack: data.pack.id, unit: data.unit.id });
 	const tabs = $derived([
-		{ label: 'Known', href: resolve('/unit/[pack]/[unit]', params) },
-		{ label: 'Overview', href: resolve('/unit/[pack]/[unit]/overview', params) },
-		{ label: 'Quiz', href: resolve('/unit/[pack]/[unit]/quiz', params) }
+		{ label: t('unit.known'), href: resolve('/unit/[pack]/[unit]', params) },
+		{ label: t('unit.overview'), href: resolve('/unit/[pack]/[unit]/overview', params) },
+		{ label: t('unit.quiz'), href: resolve('/unit/[pack]/[unit]/quiz', params) }
 	]);
 </script>
 
 <svelte:head>
-	<title>{data.unit.title} · {data.pack.name} · Langclick</title>
+	<title>{data.unit.title} · Langclick</title>
 </svelte:head>
 
 <main>
 	<header>
-		<a class="back" href={resolve('/')}>← {data.pack.name}</a>
+		<a
+			class="back"
+			href={resolve('/lesson/[pack]/[lesson]', { pack: data.pack.id, lesson: data.lessonId })}
+			>← {t('lesson.back')}</a
+		>
 		<h1>{data.unit.title}</h1>
 		<nav>
-			{#each tabs as tab (tab.label)}
+			{#each tabs as tab (tab.href)}
 				<a
 					href={tab.href}
 					class:current={page.url.pathname === tab.href}
@@ -30,7 +35,10 @@
 				>
 			{/each}
 			<span class="count">
-				{unitKnown(data.pack.id, data.unit)} of {data.unit.cells.length} known
+				{t('count.known', {
+					known: unitKnown(data.pack.id, data.unit),
+					total: data.unit.cells.length
+				})}
 			</span>
 		</nav>
 	</header>

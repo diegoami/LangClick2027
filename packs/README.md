@@ -1,53 +1,94 @@
 # Language packs
 
 A pack is a folder here. Nothing else registers it: the app finds every
-`packs/*/pack.json`.
+`packs/*/pack.json`. Everything is plain JSON, with no code and no HTML.
 
-    packs/<id>/pack.json           id, language tag, scripts, licence, unit order
-    packs/<id>/units/<unit>.json   a board: its layout, cells and sources
-    packs/<id>/checks/<name>.json  independent content checks
+    packs/<id>/pack.json                       the manifest: versions, lessons, what's offered
+    packs/<id>/units/<unit>.json               a board: what is true in every language
+    packs/<id>/layers/<language>/              a base layer: text in that language
+    packs/<id>/layers/<compare>-<language>/    an overlay: what that comparison adds
+    packs/<id>/checks/<checker>.json           independent content checks
 
-The types are in `packages/pack-format/src/index.ts`. Rules about one language go
-in that pack's manifest (`forbiddenLetters`, `displayMarks`, `scripts`), never in
-the engine.
+Each layer holds `course.json` (lesson titles, concepts) and `units/<unit>.json`
+(a unit's title, labels, and per-cell text). A learner receives one base and one
+overlay, and an overlay holds only what the comparison adds. The types are in
+`packages/pack-format/src/index.ts`.
+
+Rules about one language go in that pack's manifest (`forbiddenLetters`,
+`displayMarks`, `scripts`), never in the engine.
+
+## Lessons
+
+`pack.json` lists the course in teaching order. A lesson has units, and `study`:
+links to what to watch and read first. Langclick supplements these and doesn't copy
+them, so link to the source and write exercises from facts. A study link or a unit
+with `compareWith` is offered only for those comparisons.
 
 ## Boards
 
-- A `table` has rows and columns, and exactly one cell at each crossing.
+- A `table` has rows and columns and one cell at each crossing, except the crossings
+  listed in `gaps`, as an IPA chart needs.
 - A `grid` is tiles in order. `size` says how many there must be, and every cell
-  needs a `clue` that fits only its own answer.
+  needs a clue that fits only its own answer.
 
 `text` is the answer as compared, and slips show it. `display` is the answer as
-shown once visible, and may add only the marks the manifest declares. A cell
-accepts a slip when their `text` is equal, so a form that fills two cells needs
-nothing special.
+shown once visible, and may add only the marks the manifest declares. A cell accepts
+a slip when their `text` is equal, so a form that fills two cells needs nothing
+special.
 
 `item` is what progress is kept against. Use the same `item` for the same thing in
-another unit, and it shares its progress there.
+another unit, and it shares its progress there. **Item ids are permanent.** Never
+reuse one for something else, or learners' progress would attach to the wrong thing.
 
-## Checks before an item ships
+## What goes where
+
+| Where       | What                                                                                     | Example                                |
+| ----------- | ---------------------------------------------------------------------------------------- | -------------------------------------- |
+| Unit        | Facts in every language: answer, IPA, example word, cognates, concept ids                | `"ipa": "/ɔˈnuk/"`                     |
+| Unit `clue` | A clue that needs no translation                                                         | `"clue": "/ɦ/"`                        |
+| Base layer  | Titles, labels, translated clues, general notes, concepts                                | `"clue": "grandson"`                   |
+| Overlay     | What this comparison adds: `contrast`, `falseFriend`, a concept reworded for this reader | `"contrast": "Like Russian э, not е."` |
+
+**Explanations are written for their reader, not translated from one master text.**
+A Russian speaker is told what to unlearn. A Polish speaker is told about the script
+and free stress first.
+
+`falseFriend.kind` says what sort it is, because they differ by comparison:
+`homograph` (written the same, as Russian often is), `lookalike` (looks or sounds
+alike, as across the Polish script boundary), or `partial` (only partly the same).
+
+## IPA
+
+`ipa` is a phonemic transcription between slashes, following Pompino-Marschall,
+Steriopolo & Żygis (2017), the published IPA illustration. Where another source
+disagrees, a concept says so and names it, rather than choosing silently.
+
+## Checks before anything ships
 
 `app/src/lib/packs.test.ts` runs these in the gates, for every pack:
 
 1. **The validator** (`validatePack`): board complete, no forbidden letters, no
-   lookalike letters from another script, `display` matches `text`, sources
-   present.
-2. **Two independent checks** (`validateChecks`): each item must be passed by two
-   different checkers, each recorded in `checks/` with the exact answer, clue and
-   note it saw. Editing any of those voids its checks, so it has to be checked
-   again.
+   lookalike letters from another script, `display` matches `text`, IPA is a
+   transcription with stress where the word has it, every layer complete, links only
+   to `http` and `https`.
+2. **Two independent checks** (`validateChecks`): each piece of content must be passed
+   by two different checkers. `node scripts/pack-check.mjs <pack> <checker>` writes a
+   checker's record with the exact content in `seen`, so a checker fills in verdicts
+   and copies nothing. Editing anything voids its checks: the entry returns to
+   `pending` the next time the script runs.
+
+A checker works from the content and outside sources, without being told the author's
+reasoning, and must test sound descriptions against phonetic sources: "h, as in hat"
+once passed two checkers and was wrong. A native review is recommended for the
+phonetics module.
 
 Open every source link before it ships. A DOI can resolve to the wrong paper even
-when the paper prints it, as Vakulenko 2025's does, so link to where a reader
-actually lands.
-
-A checker works from the unit files and outside sources, without being told the
-author's reasoning. A paid native review is optional and is not required for a
-milestone.
+when the paper prints it, as Vakulenko 2025's does, so link to where a reader actually
+lands.
 
 ## Licence
 
-Each pack names its licence in its manifest. Packs are
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), so data from
-sources under that licence, such as Wiktionary and JMdict, can be used in them.
-Each unit lists its sources, and the app shows them on the unit's Overview.
+Each pack names its licence in its manifest. Packs here are
+[CC BY-SA 4.0](LICENSE), so data from sources under that licence, such as Wiktionary
+and JMdict, can be used in them. Each unit lists its sources, and the app shows them
+on the unit's Overview.

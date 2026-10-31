@@ -1,0 +1,83 @@
+{
+	"title": "People and family",
+	"summary": "24 everyday words for people. Each tile gives the meaning; find the word.",
+	"cells": {
+		"lyudyna": {
+			"clue": "person"
+		},
+		"cholovik": {
+			"clue": "man, husband"
+		},
+		"zhinka": {
+			"clue": "woman, wife"
+		},
+		"khlopets": {
+			"clue": "boy"
+		},
+		"divchyna": {
+			"clue": "girl"
+		},
+		"dytyna": {
+			"clue": "child"
+		},
+		"mama": {
+			"clue": "mum"
+		},
+		"tato": {
+			"clue": "dad"
+		},
+		"maty": {
+			"clue": "mother",
+			"note": "Related to English mother."
+		},
+		"batko": {
+			"clue": "father"
+		},
+		"syn": {
+			"clue": "son",
+			"note": "Related to English son."
+		},
+		"dochka": {
+			"clue": "daughter",
+			"note": "Related to English daughter."
+		},
+		"brat": {
+			"clue": "brother",
+			"note": "Related to English brother."
+		},
+		"sestra": {
+			"clue": "sister",
+			"note": "Related to English sister."
+		},
+		"babusya": {
+			"clue": "grandmother"
+		},
+		"didus": {
+			"clue": "grandfather"
+		},
+		"onuk": {
+			"clue": "grandson"
+		},
+		"onuka": {
+			"clue": "granddaughter"
+		},
+		"dyadko": {
+			"clue": "uncle"
+		},
+		"titka": {
+			"clue": "aunt"
+		},
+		"rodyna": {
+			"clue": "family"
+		},
+		"batky": {
+			"clue": "parents"
+		},
+		"druh": {
+			"clue": "friend (male)"
+		},
+		"podruha": {
+			"clue": "friend (female)"
+		}
+	}
+}

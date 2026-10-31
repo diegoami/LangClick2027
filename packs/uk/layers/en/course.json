@@ -1,0 +1,81 @@
+{
+	"lessons": {
+		"l01": {
+			"title": "Lesson 1: The alphabet and its sounds"
+		},
+		"l09": {
+			"title": "Lesson 9: My family"
+		},
+		"l14": {
+			"title": "Lesson 14: My home"
+		}
+	},
+	"concepts": {
+		"h-sound": {
+			"title": "The sound of г",
+			"body": "A voiced fricative, the voiced partner of х. Phoneticians describe it differently: /ɦ/, glottal, in the published IPA illustration (Pompino-Marschall et al. 2017); [ʕ] before а, о, у, и, е, [ɣʲ] when softened, and [ɣ] before voiced consonants and at the end of a word in Vakulenko 2025, who finds no convincing evidence for glottal [ɦ]. Both agree that it is voiced, which English h is not: Vakulenko finds English h closer to х. The plosive /ɡ/ has its own letter, ґ.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"v-allophones": {
+			"title": "The variants of в",
+			"body": "One phoneme, /ʋ/, with variants by position: labiodental [ʋ] before front vowels, nearer [w] before rounded back vowels, and [u̯] at the end of a syllable, as in був (was, masculine). It does not turn into f. Vakulenko 2025 disputes the label [w], since the lips barely protrude, and writes [β̞].",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"y-vowel": {
+			"title": "The vowel и",
+			"body": "Written /ɪ/ here, following the IPA illustration: retracted and lowered compared with і, with a hard consonant before it. Close to the Russian vowel [ɨ], but not the same sound. Vakulenko 2025 transcribes it as a lowered, advanced [ɨ] instead. Without stress it comes close to е.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"o-unreduced": {
+			"title": "о without stress",
+			"body": "Written /ɔ/ here, following the IPA illustration. Unlike in Russian, it does not reduce towards a without stress: вода́ is never вада́. It can still shift slightly, towards [o] before a stressed /u/. Vakulenko 2025 describes the vowel as close-mid [o] rather than /ɔ/.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		},
+		"shared-forms": {
+			"title": "One form, several cells",
+			"body": "Case endings overlap, so one form can fill several cells: кімнати is genitive singular and nominative, accusative and vocative plural, and кімнаті is both dative and locative singular. On this board either slip is right in any of its cells.",
+			"sources": [
+				{
+					"title": "кімната (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/кімната"
+				}
+			]
+		}
+	}
+}

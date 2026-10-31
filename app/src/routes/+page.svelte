@@ -1,16 +1,24 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
-	import type { PackManifest, Unit } from '@langclick/pack-format';
-	import { unitKnown, unitStarted } from '$lib/progress.svelte';
+	import LanguagePicker from '$lib/LanguagePicker.svelte';
+	import { explanationLanguage, languageName, languagesChosen, t } from '$lib/language.svelte';
+	import type { LocalLesson } from '$lib/packs';
+	import { dueCells, isStudied, unitKnown } from '$lib/progress.svelte';
 
 	let { data } = $props();
 
-	// A unit opens on the Overview until there is something earned to show.
-	function opening(pack: PackManifest, unit: Unit) {
-		const params = { pack: pack.id, unit: unit.id };
-		return unitStarted(pack.id, unit)
-			? resolve('/unit/[pack]/[unit]', params)
-			: resolve('/unit/[pack]/[unit]/overview', params);
+	const packs = $derived(data.packs.map(({ pack }) => pack));
+
+	function known(packId: string, lesson: LocalLesson) {
+		return lesson.units.reduce((sum, unit) => sum + unitKnown(packId, unit), 0);
+	}
+
+	function total(lesson: LocalLesson) {
+		return lesson.units.reduce((sum, unit) => sum + unit.cells.length, 0);
+	}
+
+	function due(packId: string, lesson: LocalLesson) {
+		return lesson.units.reduce((sum, unit) => sum + dueCells(packId, unit).length, 0);
 	}
 </script>
 
@@ -20,45 +28,75 @@
 
 <main>
 	<h1>Langclick</h1>
-	<p class="tagline">Fill in the board. What you get right stays known.</p>
+	<p class="tagline">{t('app.tagline')}</p>
 
-	{#each data.packs as { pack, units } (pack.id)}
-		<section>
-			<h2>{pack.name}</h2>
-			<ul>
-				{#each units as unit (unit.id)}
-					{@const known = unitKnown(pack.id, unit)}
-					<li>
-						<a href={opening(pack, unit)}>
-							<span class="title">{unit.title}</span>
-							<span class="count">{known} of {unit.cells.length} known</span>
-							<span class="bar" aria-hidden="true">
-								<span style:width="{(100 * known) / unit.cells.length}%"></span>
-							</span>
-						</a>
-					</li>
-				{/each}
-			</ul>
-		</section>
-	{/each}
+	<LanguagePicker {packs} firstRun={!languagesChosen()} />
+
+	{#if languagesChosen()}
+		{#each data.packs as { pack, lessons } (pack.id)}
+			{@const dueTotal = lessons.reduce((sum, lesson) => sum + due(pack.id, lesson), 0)}
+			<section>
+				<h2>{languageName(pack.language, explanationLanguage())}</h2>
+				{#if dueTotal > 0}
+					<a class="action review" href={resolve('/review/[pack]', { pack: pack.id })}
+						>{t('home.review', { count: dueTotal })}</a
+					>
+				{:else}
+					<p class="quiet">{t('home.nothingDue')}</p>
+				{/if}
+				<ol>
+					{#each lessons as lesson (lesson.id)}
+						{@const dueNow = due(pack.id, lesson)}
+						{@const knownNow = known(pack.id, lesson)}
+						{@const size = total(lesson)}
+						<li>
+							<a href={resolve('/lesson/[pack]/[lesson]', { pack: pack.id, lesson: lesson.id })}>
+								<span class="title">{lesson.title}</span>
+								<span class="count">
+									{#if isStudied(pack.id, lesson.id)}<span class="studied"
+											>✓ {t('lesson.studied')}</span
+										>{/if}
+									{t('count.known', { known: knownNow, total: size })}
+									{#if dueNow > 0}<span class="due">{t('count.due', { count: dueNow })}</span>{/if}
+								</span>
+								<span class="bar" aria-hidden="true">
+									<span style:width="{size ? (100 * knownNow) / size : 0}%"></span>
+								</span>
+							</a>
+						</li>
+					{/each}
+				</ol>
+			</section>
+		{/each}
+	{/if}
 </main>
 
 <style>
 	.tagline {
-		margin: 0.25rem 0 1.5rem;
+		margin: 0.25rem 0 1rem;
 		color: var(--muted);
 	}
 
-	ul {
+	.review {
+		margin-top: 0.5rem;
+	}
+
+	.quiet {
+		margin: 0.25rem 0;
+		font-size: 0.9rem;
+		color: var(--muted);
+	}
+
+	ol {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
 		gap: 0.6rem;
-		margin: 0.6rem 0 0;
+		margin: 0.75rem 0 0;
 		padding: 0;
 		list-style: none;
 	}
 
-	a {
+	li a {
 		display: block;
 		height: 100%;
 		padding: 0.75rem;
@@ -69,7 +107,7 @@
 		text-decoration: none;
 	}
 
-	a:hover {
+	li a:hover {
 		border-color: var(--accent);
 	}
 
@@ -83,6 +121,15 @@
 		margin: 0.2rem 0 0.4rem;
 		font-size: 0.85rem;
 		color: var(--muted);
+	}
+
+	.studied {
+		color: var(--known);
+	}
+
+	.due {
+		color: var(--revealed);
+		font-weight: 600;
 	}
 
 	.bar {

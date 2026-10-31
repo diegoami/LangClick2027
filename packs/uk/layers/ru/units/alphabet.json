@@ -1,0 +1,107 @@
+{
+	"title": "Алфавит",
+	"summary": "Все 33 буквы по порядку. На каждой плитке указан звук в МФА; найдите его букву.",
+	"cells": {
+		"a": {
+			"exampleGloss": "автобус"
+		},
+		"b": {
+			"exampleGloss": "брат"
+		},
+		"v": {
+			"exampleGloss": "вода"
+		},
+		"h": {
+			"exampleGloss": "голова"
+		},
+		"g": {
+			"exampleGloss": "крыльцо"
+		},
+		"d": {
+			"exampleGloss": "дом"
+		},
+		"e": {
+			"exampleGloss": "экран"
+		},
+		"ye": {
+			"exampleGloss": "Европа"
+		},
+		"zh": {
+			"exampleGloss": "женщина"
+		},
+		"z": {
+			"exampleGloss": "зима"
+		},
+		"y": {
+			"exampleGloss": "рыба"
+		},
+		"i": {
+			"exampleGloss": "игрушка"
+		},
+		"yi": {
+			"exampleGloss": "еда"
+		},
+		"j": {
+			"exampleGloss": "йогурт"
+		},
+		"k": {
+			"exampleGloss": "кот"
+		},
+		"l": {
+			"exampleGloss": "лампа",
+			"note": "Обычно твёрдый [ɫ]. Перед і мягкий: лі́то (лето) с [lʲ]."
+		},
+		"m": {
+			"exampleGloss": "мама"
+		},
+		"n": {
+			"exampleGloss": "ночь"
+		},
+		"o": {
+			"exampleGloss": "глаз"
+		},
+		"p": {
+			"exampleGloss": "пёс"
+		},
+		"r": {
+			"exampleGloss": "рука"
+		},
+		"s": {
+			"exampleGloss": "солнце"
+		},
+		"t": {
+			"exampleGloss": "папа"
+		},
+		"u": {
+			"exampleGloss": "ученик"
+		},
+		"f": {
+			"exampleGloss": "фото"
+		},
+		"kh": {
+			"exampleGloss": "хлеб"
+		},
+		"ts": {
+			"exampleGloss": "сахар"
+		},
+		"ch": {
+			"exampleGloss": "время"
+		},
+		"sh": {
+			"exampleGloss": "школа"
+		},
+		"shch": {
+			"exampleGloss": "что"
+		},
+		"soft": {
+			"exampleGloss": "день",
+			"note": "Собственного звука не имеет: показывает мягкость предыдущего согласного."
+		},
+		"yu": {
+			"exampleGloss": "юноша"
+		},
+		"ya": {
+			"exampleGloss": "яблоко"
+		}
+	}
+}

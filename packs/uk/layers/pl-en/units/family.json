@@ -1,0 +1,21 @@
+{
+	"cells": {
+		"cholovik": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "człowiek",
+				"means": "means any person, in Ukrainian людина; чоловік means a man or husband"
+			}
+		},
+		"druh": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "druh",
+				"means": "today a member of the scouts or a fire brigade, and a literary word for a friend; друг is simply a friend"
+			}
+		},
+		"rodyna": {
+			"contrast": "This is Polish rodzina. The stress falls on the same syllable only by chance: in Ukrainian it has to be learned word by word."
+		}
+	}
+}

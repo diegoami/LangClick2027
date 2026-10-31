@@ -1,0 +1,83 @@
+{
+	"title": "Ludzie i rodzina",
+	"summary": "24 codzienne słowa o ludziach. Każde pole podaje znaczenie; znajdź słowo.",
+	"cells": {
+		"lyudyna": {
+			"clue": "człowiek"
+		},
+		"cholovik": {
+			"clue": "mężczyzna, mąż"
+		},
+		"zhinka": {
+			"clue": "kobieta, żona"
+		},
+		"khlopets": {
+			"clue": "chłopiec"
+		},
+		"divchyna": {
+			"clue": "dziewczyna"
+		},
+		"dytyna": {
+			"clue": "dziecko"
+		},
+		"mama": {
+			"clue": "mama"
+		},
+		"tato": {
+			"clue": "tata"
+		},
+		"maty": {
+			"clue": "matka",
+			"note": "Spokrewnione z angielskim mother."
+		},
+		"batko": {
+			"clue": "ojciec"
+		},
+		"syn": {
+			"clue": "syn",
+			"note": "Spokrewnione z angielskim son."
+		},
+		"dochka": {
+			"clue": "córka",
+			"note": "Spokrewnione z angielskim daughter."
+		},
+		"brat": {
+			"clue": "brat",
+			"note": "Spokrewnione z angielskim brother."
+		},
+		"sestra": {
+			"clue": "siostra",
+			"note": "Spokrewnione z angielskim sister."
+		},
+		"babusya": {
+			"clue": "babcia"
+		},
+		"didus": {
+			"clue": "dziadek"
+		},
+		"onuk": {
+			"clue": "wnuk"
+		},
+		"onuka": {
+			"clue": "wnuczka"
+		},
+		"dyadko": {
+			"clue": "wujek"
+		},
+		"titka": {
+			"clue": "ciotka"
+		},
+		"rodyna": {
+			"clue": "rodzina"
+		},
+		"batky": {
+			"clue": "rodzice"
+		},
+		"druh": {
+			"clue": "przyjaciel"
+		},
+		"podruha": {
+			"clue": "przyjaciółka"
+		}
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"title": "The alphabet",
+	"summary": "All 33 letters, in order. Each tile gives the sound in IPA; find its letter.",
+	"cells": {
+		"a": {
+			"exampleGloss": "bus",
+			"note": "Nearest English: a in father."
+		},
+		"b": {
+			"exampleGloss": "brother",
+			"note": "Nearest English: b in bed."
+		},
+		"v": {
+			"exampleGloss": "water",
+			"note": "Between English v and w."
+		},
+		"h": {
+			"exampleGloss": "head",
+			"note": "Voiced, unlike English h."
+		},
+		"g": {
+			"exampleGloss": "porch",
+			"note": "Nearest English: g in go."
+		},
+		"d": {
+			"exampleGloss": "house",
+			"note": "Nearest English: d in dog."
+		},
+		"e": {
+			"exampleGloss": "screen",
+			"note": "Nearest English: e in pet."
+		},
+		"ye": {
+			"exampleGloss": "Europe",
+			"note": "Nearest English: ye in yes."
+		},
+		"zh": {
+			"exampleGloss": "woman",
+			"note": "Nearest English: s in pleasure."
+		},
+		"z": {
+			"exampleGloss": "winter",
+			"note": "Nearest English: z in zoo."
+		},
+		"y": {
+			"exampleGloss": "fish",
+			"note": "Nearest English: i in bit."
+		},
+		"i": {
+			"exampleGloss": "toy",
+			"note": "Nearest English: ee in see."
+		},
+		"yi": {
+			"exampleGloss": "food",
+			"note": "Nearest English: yea in yeast."
+		},
+		"j": {
+			"exampleGloss": "yogurt",
+			"note": "Nearest English: y in boy."
+		},
+		"k": {
+			"exampleGloss": "cat",
+			"note": "Unaspirated, as in skin."
+		},
+		"l": {
+			"exampleGloss": "lamp",
+			"note": "Usually dark [ɫ], as in full. Before і it is soft: лі́то (summer) has [lʲ]."
+		},
+		"m": {
+			"exampleGloss": "mum",
+			"note": "Nearest English: m in map."
+		},
+		"n": {
+			"exampleGloss": "night",
+			"note": "Nearest English: n in net."
+		},
+		"o": {
+			"exampleGloss": "eye",
+			"note": "Nearest English: o in port."
+		},
+		"p": {
+			"exampleGloss": "dog",
+			"note": "Unaspirated, as in spin."
+		},
+		"r": {
+			"exampleGloss": "hand, arm",
+			"note": "Trilled."
+		},
+		"s": {
+			"exampleGloss": "sun",
+			"note": "Nearest English: s in sun."
+		},
+		"t": {
+			"exampleGloss": "dad",
+			"note": "Unaspirated, as in stop."
+		},
+		"u": {
+			"exampleGloss": "pupil",
+			"note": "Nearest English: oo in moon."
+		},
+		"f": {
+			"exampleGloss": "photo",
+			"note": "Nearest English: f in fan."
+		},
+		"kh": {
+			"exampleGloss": "bread",
+			"note": "Nearest English: ch in loch."
+		},
+		"ts": {
+			"exampleGloss": "sugar",
+			"note": "Nearest English: ts in cats."
+		},
+		"ch": {
+			"exampleGloss": "time",
+			"note": "Nearest English: ch in chin."
+		},
+		"sh": {
+			"exampleGloss": "school",
+			"note": "Nearest English: sh in shop."
+		},
+		"shch": {
+			"exampleGloss": "what",
+			"note": "Two sounds, as in fresh cheese."
+		},
+		"soft": {
+			"exampleGloss": "day",
+			"note": "It has no sound of its own: it marks the consonant before it as soft."
+		},
+		"yu": {
+			"exampleGloss": "young man",
+			"note": "Nearest English: you."
+		},
+		"ya": {
+			"exampleGloss": "apple",
+			"note": "Nearest English: ya in yard."
+		}
+	}
+}

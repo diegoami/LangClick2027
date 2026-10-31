@@ -54,6 +54,38 @@ sources, and the manifest's `forbiddenLetters` catches the crudest case. A paid
 native review is optional. These checks are less than a native speaker's: two
 Claude models, working separately from outside dictionaries, can share a blind spot.
 
+## Comparing with and explaining in are separate settings (2026-10-31, #3)
+
+What you compare with decides what is explained; what you explain in decides the
+language it is written in. A learner may read English while comparing with Polish. In
+a pack this is a base layer per language and an overlay per combination, so a learner
+downloads only their own (#6), and the overlay only has to say what the comparison adds.
+
+## False friends have kinds (2026-10-31, #3)
+
+With Russian they are mostly same-script homographs; with Polish they cross the script
+and only appear once transliterated. A learner should be told which it is, so the kind
+is data, and the explanation of it comes from the interface.
+
+## A clue may equal the answer in another language (2026-10-31, #3)
+
+"брат" is the right Russian gloss for брат, and rejecting it would mean inventing a
+worse one. Such a tile is easy for that reader, which is true of the language: cognates
+are easy. Only a clue in the pack's own language gives the answer away by containing it.
+
+## Review shows the board, not a list (2026-10-31, #3)
+
+Repetition could have been a stream of single questions. It stays on the board, with the
+due cells open and the rest visible, because a form is remembered by its place in the
+table. The queue is fixed when a review starts, so an answer missed today waits for the
+next review rather than keeping the board open.
+
+## Checkers fill in verdicts and copy nothing (2026-10-31, #3)
+
+Four languages and six overlays are too much to copy by hand without error, so
+`scripts/pack-check.mjs` writes each checker's record with the exact content, and a
+verdict is void as soon as that content changes.
+
 ## Code is MIT, packs are CC BY-SA 4.0 (2026-10-31, #1, #6)
 
 Natural Earth was public domain, but language data mostly isn't. Share-alike
