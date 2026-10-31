@@ -1,5 +1,6 @@
 {
 	"id": "vocative-sentences",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "sentences",
@@ -32,7 +33,8 @@
 			"item": "sentence:vocative:uchytel",
 			"text": "учителю",
 			"display": "учи́телю",
-			"sentence": "До поба́чення, ___! (учи́тель)"
+			"sentence": "До поба́чення, ___! (учи́тель)",
+			"alsoAccepted": ["вчителю"]
 		},
 		{
 			"id": "olena",

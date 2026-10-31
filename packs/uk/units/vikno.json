@@ -1,5 +1,6 @@
 {
 	"id": "vikno",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "table",

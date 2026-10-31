@@ -10,8 +10,12 @@
 	const tabs = $derived([
 		{ label: t('unit.known'), href: resolve('/unit/[pack]/[unit]', params) },
 		{ label: t('unit.overview'), href: resolve('/unit/[pack]/[unit]/overview', params) },
-		{ label: t('unit.quiz'), href: resolve('/unit/[pack]/[unit]/quiz', params) }
+		{ label: t('unit.quiz'), href: resolve('/unit/[pack]/[unit]/quiz', params) },
+		...(data.unit.typing
+			? [{ label: t('unit.type'), href: resolve('/unit/[pack]/[unit]/type', params) }]
+			: [])
 	]);
+	const typing = $derived(page.url.pathname === resolve('/unit/[pack]/[unit]/type', params));
 </script>
 
 <svelte:head>
@@ -35,10 +39,17 @@
 				>
 			{/each}
 			<span class="count">
-				{t('count.known', {
-					known: unitKnown(data.pack.id, data.unit),
-					total: data.unit.cells.length
-				})}
+				{#if typing}
+					{t('count.typed', {
+						known: unitKnown(data.pack.id, data.unit, 'produce'),
+						total: data.unit.cells.length
+					})}
+				{:else}
+					{t('count.known', {
+						known: unitKnown(data.pack.id, data.unit),
+						total: data.unit.cells.length
+					})}
+				{/if}
 			</span>
 		</nav>
 	</header>

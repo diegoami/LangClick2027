@@ -1,5 +1,6 @@
 {
 	"id": "kimnata",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "table",

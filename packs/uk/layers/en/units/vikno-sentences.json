@@ -18,6 +18,10 @@
 			"sentenceGloss": "Behind this window there is a garden.",
 			"note": "Instrumental singular, after за."
 		},
+		"loc.sg": {
+			"sentenceGloss": "My window has no curtains.",
+			"note": "Locative singular, after на."
+		},
 		"nom.pl": {
 			"sentenceGloss": "These windows are big.",
 			"note": "Nominative plural: the subject."

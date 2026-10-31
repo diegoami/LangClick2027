@@ -173,6 +173,34 @@ describe('validatePack: sentences', () => {
 	});
 });
 
+describe('validatePack: typing', () => {
+	it('passes other accepted forms', () => {
+		const good = withCell(grid, 'x', { alsoAccepted: ['брата'] });
+		expect(problems([table, good])).toEqual([]);
+	});
+
+	it.each([
+		['repeats the answer', (text: string) => [text], 'repeats the answer'],
+		['has a mark', () => ['бра\u0301та'], 'contains a display mark'],
+		['has another script', () => ['brata'], "outside the pack's scripts"],
+		['has a forbidden letter', () => ['браты'], 'forbidden letter ы']
+	])('fails an accepted form that %s', (_what, forms, problem) => {
+		const cell = grid.cells.find((c) => c.id === 'x')!;
+		const bad = withCell(grid, 'x', { alsoAccepted: forms(cell.text) });
+		expect(problems([table, bad]).join()).toContain(problem);
+	});
+
+	it('fails typing a unit whose answer is its marks', () => {
+		const bad = {
+			...grid,
+			typing: true,
+			compareDisplay: true,
+			cells: grid.cells.map((cell) => ({ ...cell, display: cell.display ?? cell.text }))
+		};
+		expect(problems([table, bad])).toContain('typing ignores marks, so it cannot ask for them');
+	});
+});
+
 describe('sentenceParts', () => {
 	it('splits around the gap', () => {
 		expect(sentenceParts('Я бачу ___!')).toEqual(['Я бачу ', '!']);
@@ -672,6 +700,12 @@ describe('content checks', () => {
 		['an answer', 'core/grid/x', () => [table, withCell(grid, 'x', { text: 'сестра' })], layers()],
 		['an IPA', 'core/grid/x', () => [table, withCell(grid, 'x', { ipa: '/brat/' })], layers()],
 		['a cognate', 'core/grid/x', () => [table, withCell(grid, 'x', { cognates: {} })], layers()],
+		[
+			'an accepted form',
+			'core/grid/x',
+			() => [table, withCell(grid, 'x', { alsoAccepted: ['брата'] })],
+			layers()
+		],
 		[
 			'an item',
 			'core/grid/x',

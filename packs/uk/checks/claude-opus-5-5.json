@@ -174,9 +174,9 @@
 		},
 		{
 			"key": "core/brat-sentences/dat.sg",
-			"seen": "{\"item\":\"sentence:brat:dat.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"sentence\":\"Я пишу́ лист своє́му ___.\"}",
+			"seen": "{\"item\":\"sentence:brat:dat.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"sentence\":\"Я пишу́ лист своє́му ___.\",\"alsoAccepted\":[\"брату\"]}",
 			"verdict": "ok",
-			"comment": "Inanimate лист stays valid, though пишу листа is at least as common in Ukrainian (own knowledge)."
+			"comment": "Both right and both fit своє́му: Goroh (ULIF) lists бра́тові, бра́ту; Правопис 2015 §49.1 gives both endings. Nothing missing."
 		},
 		{
 			"key": "core/brat-sentences/acc.sg",
@@ -190,8 +190,9 @@
 		},
 		{
 			"key": "core/brat-sentences/loc.sg",
-			"seen": "{\"item\":\"sentence:brat:loc.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"sentence\":\"На моє́му ___ нова́ соро́чка.\"}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"sentence:brat:loc.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"sentence\":\"На моє́му ___ нова́ соро́чка.\",\"alsoAccepted\":[\"браті\",\"брату\"]}",
+			"verdict": "ok",
+			"comment": "All three fit на моє́му: Goroh (ULIF) lists бра́тові, бра́ті, брату, unlabelled. Правопис 2015 §52.1 gives на братові and -у for persons (на робітнику) but -і only for non-person animals (на коні), so браті rests on Goroh alone. The 2019 text was not readable."
 		},
 		{
 			"key": "core/brat-sentences/voc.sg",
@@ -241,8 +242,9 @@
 		},
 		{
 			"key": "core/brat/dat.sg",
-			"seen": "{\"item\":\"noun:brat:dat.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"ipa\":\"/ˈbratɔʋi/\",\"cognates\":{\"ru\":{\"form\":\"бра́ту\"},\"pl\":{\"form\":\"bratu\"}},\"concepts\":[\"dative-ovi\"],\"row\":\"dat\",\"col\":\"sg\"}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"noun:brat:dat.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"ipa\":\"/ˈbratɔʋi/\",\"alsoAccepted\":[\"брату\"],\"cognates\":{\"ru\":{\"form\":\"бра́ту\"},\"pl\":{\"form\":\"bratu\"}},\"concepts\":[\"dative-ovi\"],\"row\":\"dat\",\"col\":\"sg\"}",
+			"verdict": "ok",
+			"comment": "Both right: Goroh (ULIF) lists бра́тові, бра́ту; Правопис 2015 §49.1 gives -ові and also -у for masculine nouns. Nothing missing."
 		},
 		{
 			"key": "core/brat/acc.sg",
@@ -256,8 +258,9 @@
 		},
 		{
 			"key": "core/brat/loc.sg",
-			"seen": "{\"item\":\"noun:brat:loc.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"ipa\":\"/ˈbratɔʋi/\",\"cognates\":{\"ru\":{\"form\":\"бра́те\"},\"pl\":{\"form\":\"bracie\"}},\"concepts\":[\"dative-ovi\"],\"row\":\"loc\",\"col\":\"sg\"}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"noun:brat:loc.sg\",\"text\":\"братові\",\"display\":\"бра́тові\",\"ipa\":\"/ˈbratɔʋi/\",\"alsoAccepted\":[\"браті\",\"брату\"],\"cognates\":{\"ru\":{\"form\":\"бра́те\"},\"pl\":{\"form\":\"bracie\"}},\"concepts\":[\"dative-ovi\"],\"row\":\"loc\",\"col\":\"sg\"}",
+			"verdict": "ok",
+			"comment": "Goroh (ULIF) lists бра́тові, бра́ті, брату, all unlabelled, and nothing else. Правопис 2015 §52.1 gives на братові and -у for persons (при батьку) but -і only for non-person animals (на коні), so браті rests on Goroh alone. The 2019 text was not readable."
 		},
 		{
 			"key": "core/brat/voc.sg",
@@ -431,13 +434,15 @@
 		},
 		{
 			"key": "core/family/khlopets",
-			"seen": "{\"item\":\"word:khlopets\",\"text\":\"хлопець\",\"display\":\"хло́пець\",\"ipa\":\"/ˈxlɔpɛt͡sʲ/\",\"cognates\":{\"pl\":{\"form\":\"chłopiec\",\"ipa\":\"/ˈxwɔpjɛt͡s/\"}}}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"word:khlopets\",\"text\":\"хлопець\",\"display\":\"хло́пець\",\"ipa\":\"/ˈxlɔpɛt͡sʲ/\",\"alsoAccepted\":[\"хлопчик\"],\"cognates\":{\"pl\":{\"form\":\"chłopiec\",\"ipa\":\"/ˈxwɔpjɛt͡s/\"}}}",
+			"verdict": "ok",
+			"comment": "СУМ ХЛО́ПЧИК: \"Дитина чоловічої статі\". Fits boy, chłopiec, мальчик and the uk clue."
 		},
 		{
 			"key": "core/family/divchyna",
-			"seen": "{\"item\":\"word:divchyna\",\"text\":\"дівчина\",\"display\":\"ді́вчина\",\"ipa\":\"/ˈdʲiʋt͡ʃɪna/\",\"cognates\":{\"ru\":{\"form\":\"девушка\",\"ipa\":\"/ˈdʲevʊʂkə/\"},\"pl\":{\"form\":\"dziewczyna\",\"ipa\":\"/d͡ʑɛfˈt͡ʂɨna/\"}}}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"word:divchyna\",\"text\":\"дівчина\",\"display\":\"ді́вчина\",\"ipa\":\"/ˈdʲiʋt͡ʃɪna/\",\"alsoAccepted\":[\"дівчинка\"],\"cognates\":{\"ru\":{\"form\":\"девушка\",\"ipa\":\"/ˈdʲevʊʂkə/\"},\"pl\":{\"form\":\"dziewczyna\",\"ipa\":\"/d͡ʑɛfˈt͡ʂɨna/\"}}}",
+			"verdict": "ok",
+			"comment": "дівчинка fits en girl. On ru, pl and uk the clue is дівчина only, and the note says which is which when дівчинка is typed."
 		},
 		{
 			"key": "core/family/dytyna",
@@ -471,8 +476,9 @@
 		},
 		{
 			"key": "core/family/dochka",
-			"seen": "{\"item\":\"word:dochka\",\"text\":\"дочка\",\"display\":\"дочка́\",\"ipa\":\"/dɔt͡ʃˈka/\",\"cognates\":{\"ru\":{\"form\":\"дочка\",\"ipa\":\"/ˈdot͡ɕkə/\"},\"pl\":{\"form\":\"córka\",\"ipa\":\"/ˈt͡surka/\"}}}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"word:dochka\",\"text\":\"дочка\",\"display\":\"дочка́\",\"ipa\":\"/dɔt͡ʃˈka/\",\"alsoAccepted\":[\"донька\"],\"cognates\":{\"ru\":{\"form\":\"дочка\",\"ipa\":\"/ˈdot͡ɕkə/\"},\"pl\":{\"form\":\"córka\",\"ipa\":\"/ˈt͡surka/\"}}}",
+			"verdict": "ok",
+			"comment": "СУМ ДО́НЬКА: \"Те саме, що дочка́\". Fits every clue. Separate from this form: the ru clue \"дочь, дочка\" spells the answer itself."
 		},
 		{
 			"key": "core/family/brat",
@@ -486,38 +492,45 @@
 		},
 		{
 			"key": "core/family/babusya",
-			"seen": "{\"item\":\"word:babusya\",\"text\":\"бабуся\",\"display\":\"бабу́ся\",\"ipa\":\"/baˈbusʲa/\",\"cognates\":{\"ru\":{\"form\":\"бабушка\",\"ipa\":\"/ˈbabʊʂkə/\"},\"pl\":{\"form\":\"babcia\",\"ipa\":\"/ˈbapt͡ɕa/\"}}}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"word:babusya\",\"text\":\"бабуся\",\"display\":\"бабу́ся\",\"ipa\":\"/baˈbusʲa/\",\"alsoAccepted\":[\"баба\"],\"cognates\":{\"ru\":{\"form\":\"бабушка\",\"ipa\":\"/ˈbabʊʂkə/\"},\"pl\":{\"form\":\"babcia\",\"ipa\":\"/ˈbapt͡ɕa/\"}}}",
+			"verdict": "ok",
+			"comment": "СУМ БА́БА: \"Мати батька або матері\", the uk clue almost word for word; БАБУ́СЯ is its \"пестлива форма\". Other senses of баба are colloquial or dismissive, but this one is unlabelled."
 		},
 		{
 			"key": "core/family/didus",
-			"seen": "{\"item\":\"word:didus\",\"text\":\"дідусь\",\"display\":\"діду́сь\",\"ipa\":\"/dʲiˈdusʲ/\",\"cognates\":{\"ru\":{\"form\":\"дедушка\",\"ipa\":\"/ˈdʲedʊʂkə/\"},\"pl\":{\"form\":\"dziadek\",\"ipa\":\"/ˈd͡ʑadɛk/\"}}}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"word:didus\",\"text\":\"дідусь\",\"display\":\"діду́сь\",\"ipa\":\"/dʲiˈdusʲ/\",\"alsoAccepted\":[\"дід\"],\"cognates\":{\"ru\":{\"form\":\"дедушка\",\"ipa\":\"/ˈdʲedʊʂkə/\"},\"pl\":{\"form\":\"dziadek\",\"ipa\":\"/ˈd͡ʑadɛk/\"}}}",
+			"verdict": "ok",
+			"comment": "СУМ ДІД: \"Батьків або материн батько\"; ДІДУ́СЬ is \"розм., зменшувально-пестлива форма\" of it. Fits every clue."
 		},
 		{
 			"key": "core/family/onuk",
-			"seen": "{\"item\":\"word:onuk\",\"text\":\"онук\",\"display\":\"ону́к\",\"ipa\":\"/ɔˈnuk/\",\"cognates\":{\"ru\":{\"form\":\"внук\",\"ipa\":\"/vnuk/\"},\"pl\":{\"form\":\"wnuk\",\"ipa\":\"/vnuk/\"}}}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"word:onuk\",\"text\":\"онук\",\"display\":\"ону́к\",\"ipa\":\"/ɔˈnuk/\",\"alsoAccepted\":[\"внук\"],\"cognates\":{\"ru\":{\"form\":\"внук\",\"ipa\":\"/vnuk/\"},\"pl\":{\"form\":\"wnuk\",\"ipa\":\"/vnuk/\"}}}",
+			"verdict": "ok",
+			"comment": "СУМ: \"ВНУК (ОНУ́К, рідко УНУ́К)… Син сина або дочки\". Fits every clue. The ru clue внук is spelled the same, as cognates are elsewhere on this board."
 		},
 		{
 			"key": "core/family/onuka",
-			"seen": "{\"item\":\"word:onuka\",\"text\":\"онука\",\"display\":\"ону́ка\",\"ipa\":\"/ɔˈnuka/\",\"cognates\":{\"ru\":{\"form\":\"внучка\",\"ipa\":\"/ˈvnut͡ɕkə/\"},\"pl\":{\"form\":\"wnuczka\",\"ipa\":\"/ˈvnut͡ʂka/\"}}}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"word:onuka\",\"text\":\"онука\",\"display\":\"ону́ка\",\"ipa\":\"/ɔˈnuka/\",\"alsoAccepted\":[\"внучка\",\"онучка\",\"внука\"],\"cognates\":{\"ru\":{\"form\":\"внучка\",\"ipa\":\"/ˈvnut͡ɕkə/\"},\"pl\":{\"form\":\"wnuczka\",\"ipa\":\"/ˈvnut͡ʂka/\"}}}",
+			"verdict": "ok",
+			"comment": "СУМ: \"ВНУ́КА (ОНУ́КА…) Дочка сина або дочки\"; \"ВНУ́ЧКА (ОНУ́ЧКА…)\" is its diminutive; ОНУ́ЧКА \"див. вну́чка\". The foot-cloth онучка is a separate homonym and doesn't matter here. The ru clue внучка is spelled the same as one accepted form."
 		},
 		{
 			"key": "core/family/dyadko",
-			"seen": "{\"item\":\"word:dyadko\",\"text\":\"дядько\",\"display\":\"дя́дько\",\"ipa\":\"/ˈdʲadʲkɔ/\",\"cognates\":{\"ru\":{\"form\":\"дядя\",\"ipa\":\"/ˈdʲadʲə/\"}}}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"word:dyadko\",\"text\":\"дядько\",\"display\":\"дя́дько\",\"ipa\":\"/ˈdʲadʲkɔ/\",\"alsoAccepted\":[\"дядя\"],\"cognates\":{\"ru\":{\"form\":\"дядя\",\"ipa\":\"/ˈdʲadʲə/\"}}}",
+			"verdict": "ok",
+			"comment": "СУМ ДЯ́ДЯ: \"розм. Пестлива форма до дя́дько 1, 2\", so it fits the clue but is colloquial and affectionate. The ru clue is дядя, so a Russian speaker can type their own word and pass; the \"also right\" message still shows дядько."
 		},
 		{
 			"key": "core/family/titka",
-			"seen": "{\"item\":\"word:titka\",\"text\":\"тітка\",\"display\":\"ті́тка\",\"ipa\":\"/ˈtʲitka/\",\"cognates\":{\"ru\":{\"form\":\"тётка\",\"ipa\":\"/ˈtʲotkə/\"},\"pl\":{\"form\":\"ciotka\",\"ipa\":\"/ˈt͡ɕɔtka/\"}}}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"word:titka\",\"text\":\"тітка\",\"display\":\"ті́тка\",\"ipa\":\"/ˈtʲitka/\",\"alsoAccepted\":[\"тьотя\"],\"cognates\":{\"ru\":{\"form\":\"тётка\",\"ipa\":\"/ˈtʲotkə/\"},\"pl\":{\"form\":\"ciotka\",\"ipa\":\"/ˈt͡ɕɔtka/\"}}}",
+			"verdict": "ok",
+			"comment": "СУМ ТЬО́ТЯ: \"Те саме, що ті́тка\", unlabelled. Fits every clue. That it is mainly spoken is my own knowledge."
 		},
 		{
 			"key": "core/family/rodyna",
-			"seen": "{\"item\":\"word:rodyna\",\"text\":\"родина\",\"display\":\"роди́на\",\"ipa\":\"/rɔˈdɪna/\",\"cognates\":{\"ru\":{\"form\":\"родина\",\"ipa\":\"/ˈrodʲɪnə/\"},\"pl\":{\"form\":\"rodzina\",\"ipa\":\"/rɔˈd͡ʑina/\"}}}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"word:rodyna\",\"text\":\"родина\",\"display\":\"роди́на\",\"ipa\":\"/rɔˈdɪna/\",\"alsoAccepted\":[\"сім'я\"],\"cognates\":{\"ru\":{\"form\":\"родина\",\"ipa\":\"/ˈrodʲɪnə/\"},\"pl\":{\"form\":\"rodzina\",\"ipa\":\"/rɔˈd͡ʑina/\"}}}",
+			"verdict": "ok",
+			"comment": "СУМ defines СІМ'Я́ and РОДИ́НА alike, each naming the other. Fits every clue; the apostrophe is normalised when typed."
 		},
 		{
 			"key": "core/family/batky",
@@ -663,8 +676,9 @@
 		},
 		{
 			"key": "core/i-or-y/dim",
-			"seen": "{\"item\":\"pair:dim\",\"text\":\"дім\",\"ipa\":\"/dʲim/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"pair:dim\",\"text\":\"дім\",\"ipa\":\"/dʲim/\",\"alsoAccepted\":[\"будинок\"],\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
+			"verdict": "ok",
+			"comment": "СУМ ДІМ: \"Будівля…; будинок\"; БУДИ́НОК: \"Будівля, споруда, признач. для житла\". Fits every clue, and the uk clue no longer contains the word."
 		},
 		{
 			"key": "core/i-or-y/dym",
@@ -678,13 +692,15 @@
 		},
 		{
 			"key": "core/i-or-y/lys",
-			"seen": "{\"item\":\"pair:lys\",\"text\":\"лис\",\"ipa\":\"/lɪs/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"pair:lys\",\"text\":\"лис\",\"ipa\":\"/lɪs/\",\"alsoAccepted\":[\"лисиця\"],\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
+			"verdict": "ok",
+			"comment": "СУМ ЛИСИ́ЦЯ: \"Самиця лиса\", also \"Те саме, що лис 1\", the animal. Fits fox, lis and the uk clue. Russian лис is male-marked (own knowledge), but the generic sense covers it."
 		},
 		{
 			"key": "core/i-or-y/kit",
-			"seen": "{\"item\":\"pair:kit\",\"text\":\"кіт\",\"ipa\":\"/kit/\",\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"pair:kit\",\"text\":\"кіт\",\"ipa\":\"/kit/\",\"alsoAccepted\":[\"кішка\"],\"concepts\":[\"y-vowel\",\"soft-hard\"]}",
+			"verdict": "ok",
+			"comment": "СУМ КІ́ШКА: \"Самиця кота\", also \"Те саме, що кіт\". Fits cat and the uk clue. pl kot and ru кот lean male (own knowledge), but the generic sense covers them."
 		},
 		{
 			"key": "core/i-or-y/kyt",
@@ -1304,8 +1320,9 @@
 		},
 		{
 			"key": "core/pronouns-third/he.loc",
-			"seen": "{\"item\":\"pronoun:he:loc\",\"text\":\"ньому\",\"display\":\"ньо́му\",\"ipa\":\"/ˈnʲɔmu/\",\"cognates\":{\"ru\":{\"form\":\"нём\"},\"pl\":{\"form\":\"nim\"}},\"concepts\":[\"pronoun-n\"],\"row\":\"he\",\"col\":\"loc\"}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"pronoun:he:loc\",\"text\":\"ньому\",\"display\":\"ньо́му\",\"ipa\":\"/ˈnʲɔmu/\",\"alsoAccepted\":[\"нім\"],\"cognates\":{\"ru\":{\"form\":\"нём\"},\"pl\":{\"form\":\"nim\"}},\"concepts\":[\"pronoun-n\"],\"row\":\"he\",\"col\":\"loc\"}",
+			"verdict": "ok",
+			"comment": "Goroh він, місцевий: ньо́му, нім, unlabelled; Правопис 2015 §73: \"ньому (нім)\". The 2019 text is not published on its site for this section."
 		},
 		{
 			"key": "core/pronouns-third/she.gen",
@@ -1505,6 +1522,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/vikno-sentences/loc.sg",
+			"seen": "{\"item\":\"sentence:vikno:loc.sg\",\"text\":\"вікні\",\"display\":\"вікні́\",\"sentence\":\"На моє́му ___ нема́є штор.\"}",
+			"verdict": "ok",
+			"comment": "На takes the locative, and §52.3б gives -і, so вікну doesn't fit. Letter by letter on Goroh: вікні́, моє́му (місцевий), нема́є, штор (родовий мн.). Not the same sentence as \"На цих ___ нема́є штор\", and the agreeing word tells them apart."
+		},
+		{
 			"key": "core/vikno-sentences/nom.pl",
 			"seen": "{\"item\":\"sentence:vikno:nom.pl\",\"text\":\"вікна\",\"display\":\"ві́кна\",\"sentence\":\"Ці ___ вели́кі.\"}",
 			"verdict": "ok"
@@ -1562,7 +1585,8 @@
 		{
 			"key": "core/vikno/loc.sg",
 			"seen": "{\"item\":\"noun:vikno:loc.sg\",\"text\":\"вікні\",\"display\":\"вікні́\",\"ipa\":\"/ʋikˈnʲi/\",\"cognates\":{\"ru\":{\"form\":\"окне́\"},\"pl\":{\"form\":\"oknie\"}},\"row\":\"loc\",\"col\":\"sg\"}",
-			"verdict": "ok"
+			"verdict": "ok",
+			"comment": "вікні́ is on Goroh and is the form §52.3б gives. Goroh also lists вікну́ unlabelled, so leaving it out is a teaching choice, not an error of fact: it holds only after по, and the note says so."
 		},
 		{
 			"key": "core/vikno/voc.sg",
@@ -1621,8 +1645,9 @@
 		},
 		{
 			"key": "core/vocative-sentences/uchytel",
-			"seen": "{\"item\":\"sentence:vocative:uchytel\",\"text\":\"учителю\",\"display\":\"учи́телю\",\"sentence\":\"До поба́чення, ___! (учи́тель)\"}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"sentence:vocative:uchytel\",\"text\":\"учителю\",\"display\":\"учи́телю\",\"sentence\":\"До поба́чення, ___! (учи́тель)\",\"alsoAccepted\":[\"вчителю\"]}",
+			"verdict": "ok",
+			"comment": "Goroh вчи́тель, кличний: вчи́телю; СУМ ВЧИ́ТЕЛЬ \"див. учи́тель\". Same word, and it fits the sentence. The cue names учи́тель, so this only forgives the у/в spelling."
 		},
 		{
 			"key": "core/vocative-sentences/olena",
@@ -1702,8 +1727,9 @@
 		},
 		{
 			"key": "core/vocative/uchytel",
-			"seen": "{\"item\":\"vocative:uchytel\",\"text\":\"учителю\",\"display\":\"учи́телю\",\"ipa\":\"/uˈt͡ʃɪtɛlʲu/\",\"clue\":\"учи́тель\",\"cognates\":{\"pl\":{\"form\":\"nauczycielu\"}},\"concepts\":[\"vocative\"]}",
-			"verdict": "ok"
+			"seen": "{\"item\":\"vocative:uchytel\",\"text\":\"учителю\",\"display\":\"учи́телю\",\"ipa\":\"/uˈt͡ʃɪtɛlʲu/\",\"clue\":\"учи́тель\",\"alsoAccepted\":[\"вчителю\"],\"cognates\":{\"pl\":{\"form\":\"nauczycielu\"}},\"concepts\":[\"vocative\"]}",
+			"verdict": "ok",
+			"comment": "Goroh вчи́тель, кличний: вчи́телю; СУМ ВЧИ́ТЕЛЬ \"див. учи́тель\". Same word. Правопис 2015 §53 itself prints вчителю."
 		},
 		{
 			"key": "core/vocative/olena",
@@ -2162,8 +2188,9 @@
 		},
 		{
 			"key": "en/family/divchyna",
-			"seen": "{\"clue\":\"girl\"}",
-			"verdict": "ok"
+			"seen": "{\"clue\":\"girl\",\"note\":\"дівчинка is a child, дівчина a young woman.\"}",
+			"verdict": "ok",
+			"comment": "Matches СУМ: ДІ́ВЧИНКА \"Дитина жіночої статі\", ДІ́ВЧИНА \"Молода незаміжня особа жіночої статі\". \"girl\" fits both words, so the clue still fits and the note says which is which. \"Young woman\" drops СУМ's \"unmarried\", which is fine for a learner."
 		},
 		{
 			"key": "en/family/dytyna",
@@ -2748,6 +2775,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/vikno-sentences/loc.sg",
+			"seen": "{\"sentenceGloss\":\"My window has no curtains.\",\"note\":\"Locative singular, after на.\"}",
+			"verdict": "ok",
+			"comment": "Gloss matches the sentence; the note is right: the locative after на."
+		},
+		{
 			"key": "en/vikno-sentences/nom.pl",
 			"seen": "{\"sentenceGloss\":\"These windows are big.\",\"note\":\"Nominative plural: the subject.\"}",
 			"verdict": "ok"
@@ -2784,8 +2817,9 @@
 		},
 		{
 			"key": "en/vikno/loc.sg",
-			"seen": "{\"note\":\"вікну́ is also a locative; this board shows вікні́.\"}",
-			"verdict": "ok"
+			"seen": "{\"note\":\"In the locative after на or у, it is вікні́. Dictionaries also list вікну́, which the spelling rules allow for nouns like this only after по.\"}",
+			"verdict": "ok",
+			"comment": "Goroh (ULIF) lists вікну́, вікні́ unlabelled. Правопис 2015 §52.3б gives neuters -і, with -у only after по, stated for the class, not naming вікно. The §52.2а exception (-к- suffix) doesn't cover вікно. The note names both sources fairly. \"Dictionaries\" rests on Goroh's ULIF data; I read no second dictionary. The 2019 text of this rule is not on its site. The accusative на вікно and у вікно are no longer contradicted."
 		},
 		{
 			"key": "en/vocative-sentences",
@@ -3270,8 +3304,9 @@
 		},
 		{
 			"key": "pl/family/divchyna",
-			"seen": "{\"clue\":\"dziewczyna\"}",
-			"verdict": "ok"
+			"seen": "{\"clue\":\"dziewczyna\",\"note\":\"дівчинка to dziecko, дівчина to młoda kobieta.\"}",
+			"verdict": "ok",
+			"comment": "Matches СУМ: ДІ́ВЧИНКА \"Дитина жіночої статі\", ДІ́ВЧИНА \"Молода незаміжня особа жіночої статі\". dziewczyna fits дівчина. Typed дівчинка is accepted on a clue it doesn't quite fit, and the note corrects that. The Polish rests on my own knowledge."
 		},
 		{
 			"key": "pl/family/dytyna",
@@ -3856,6 +3891,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/vikno-sentences/loc.sg",
+			"seen": "{\"sentenceGloss\":\"Na moim oknie nie ma zasłon.\",\"note\":\"Miejscownik l. poj., po на.\"}",
+			"verdict": "ok",
+			"comment": "Gloss matches the sentence; the note is right: miejscownik after на."
+		},
+		{
 			"key": "pl/vikno-sentences/nom.pl",
 			"seen": "{\"sentenceGloss\":\"Te okna są duże.\",\"note\":\"Mianownik l. mn.: podmiot.\"}",
 			"verdict": "ok"
@@ -3892,8 +3933,9 @@
 		},
 		{
 			"key": "pl/vikno/loc.sg",
-			"seen": "{\"note\":\"вікну́ to też miejscownik; ta tablica pokazuje вікні́.\"}",
-			"verdict": "ok"
+			"seen": "{\"note\":\"W miejscowniku po на i у jest вікні́. Słowniki podają też вікну́, ale zasady pisowni dopuszczają -у przy takich rzeczownikach tylko po по.\"}",
+			"verdict": "ok",
+			"comment": "Goroh (ULIF) lists вікну́, вікні́ unlabelled. Правопис 2015 §52.3б gives neuters -і, with -у only after по, stated for the class, not naming вікно. The §52.2а exception (-к- suffix) doesn't cover вікно. The note names both sources fairly. \"Dictionaries\" rests on Goroh's ULIF data; I read no second dictionary. The 2019 text of this rule is not on its site. Says the same as the en note. The Polish rests on my own knowledge."
 		},
 		{
 			"key": "pl/vocative-sentences",
@@ -4838,8 +4880,9 @@
 		},
 		{
 			"key": "ru/family/divchyna",
-			"seen": "{\"clue\":\"девушка\"}",
-			"verdict": "ok"
+			"seen": "{\"clue\":\"девушка\",\"note\":\"дівчинка — ребёнок, дівчина — молодая женщина.\"}",
+			"verdict": "ok",
+			"comment": "Matches СУМ: ДІ́ВЧИНКА \"Дитина жіночої статі\", ДІ́ВЧИНА \"Молода незаміжня особа жіночої статі\". девушка fits дівчина. Typed дівчинка is accepted on a clue it doesn't quite fit, and the note corrects that. The Russian rests on my own knowledge."
 		},
 		{
 			"key": "ru/family/dytyna",
@@ -4873,8 +4916,9 @@
 		},
 		{
 			"key": "ru/family/dochka",
-			"seen": "{\"clue\":\"дочь, дочка\",\"note\":\"Родственно английскому daughter.\"}",
-			"verdict": "ok"
+			"seen": "{\"clue\":\"дочь\",\"note\":\"Родственно английскому daughter.\"}",
+			"verdict": "ok",
+			"comment": "дочь means daughter and no longer spells the answer. It fits дочка and the accepted донька (СУМ ДО́НЬКА: \"Те саме, що дочка́\"). The Russian rests on my own knowledge."
 		},
 		{
 			"key": "ru/family/brat",
@@ -5424,6 +5468,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/vikno-sentences/loc.sg",
+			"seen": "{\"sentenceGloss\":\"На моём окне нет штор.\",\"note\":\"Местный, ед. ч., после на.\"}",
+			"verdict": "ok",
+			"comment": "Gloss matches the sentence; the note is right: местный after на."
+		},
+		{
 			"key": "ru/vikno-sentences/nom.pl",
 			"seen": "{\"sentenceGloss\":\"Эти окна большие.\",\"note\":\"Именительный, мн. ч.: подлежащее.\"}",
 			"verdict": "ok"
@@ -5460,8 +5510,9 @@
 		},
 		{
 			"key": "ru/vikno/loc.sg",
-			"seen": "{\"note\":\"вікну́ тоже местный падеж; на этой доске показано вікні́.\"}",
-			"verdict": "ok"
+			"seen": "{\"note\":\"В местном падеже после на и у будет вікні́. Словари приводят и вікну́, но правописание допускает -у у таких существительных только после по.\"}",
+			"verdict": "ok",
+			"comment": "Goroh (ULIF) lists вікну́, вікні́ unlabelled. Правопис 2015 §52.3б gives neuters -і, with -у only after по, stated for the class, not naming вікно. The §52.2а exception (-к- suffix) doesn't cover вікно. The note names both sources fairly. \"Dictionaries\" rests on Goroh's ULIF data; I read no second dictionary. The 2019 text of this rule is not on its site. Says the same as the en note. The Russian rests on my own knowledge."
 		},
 		{
 			"key": "ru/vocative-sentences",
@@ -6368,8 +6419,9 @@
 		},
 		{
 			"key": "uk/family/divchyna",
-			"seen": "{\"clue\":\"молода особа жіночої статі\"}",
-			"verdict": "ok"
+			"seen": "{\"clue\":\"молода особа жіночої статі\",\"note\":\"дівчинка — дитина, дівчина — молода жінка.\"}",
+			"verdict": "ok",
+			"comment": "Matches СУМ: ДІ́ВЧИНКА \"Дитина жіночої статі\", ДІ́ВЧИНА \"Молода незаміжня особа жіночої статі\". The clue is СУМ's definition without \"незаміжня\", and fits дівчина. Typed дівчинка is accepted on a clue it doesn't quite fit, and the note corrects that."
 		},
 		{
 			"key": "uk/family/dytyna",
@@ -6613,8 +6665,9 @@
 		},
 		{
 			"key": "uk/i-or-y/dim",
-			"seen": "{\"clue\":\"будинок, де живуть\"}",
-			"verdict": "ok"
+			"seen": "{\"clue\":\"споруда, де живуть\"}",
+			"verdict": "ok",
+			"comment": "хата would also fit this description and is not accepted, but it is a narrower word and I rejected it in the sweep; en house has the same limit."
 		},
 		{
 			"key": "uk/i-or-y/dym",
@@ -6953,6 +7006,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/vikno-sentences/loc.sg",
+			"seen": "{\"note\":\"Місцевий однини, після на.\"}",
+			"verdict": "ok",
+			"comment": "The note is right: місцевий after на. No gloss is needed in the pack's own language."
+		},
+		{
 			"key": "uk/vikno-sentences/nom.pl",
 			"seen": "{\"note\":\"Називний множини: підмет.\"}",
 			"verdict": "ok"
@@ -6989,8 +7048,9 @@
 		},
 		{
 			"key": "uk/vikno/loc.sg",
-			"seen": "{\"note\":\"вікну́ теж місцевий відмінок; на цій дошці показано вікні́.\"}",
-			"verdict": "ok"
+			"seen": "{\"note\":\"У місцевому відмінку після на й у буде вікні́. Словники подають і вікну́, але правопис допускає -у в таких іменниках лише після по.\"}",
+			"verdict": "ok",
+			"comment": "Goroh (ULIF) lists вікну́, вікні́ unlabelled. Правопис 2015 §52.3б gives neuters -і, with -у only after по, stated for the class, not naming вікно. The §52.2а exception (-к- suffix) doesn't cover вікно. The note names both sources fairly. \"Dictionaries\" rests on Goroh's ULIF data; I read no second dictionary. The 2019 text of this rule is not on its site. Says the same as the en note."
 		},
 		{
 			"key": "uk/vocative-sentences",

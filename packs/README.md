@@ -51,6 +51,12 @@ no two sentences can be the same with different answers, and a sentence can't co
 own answer. Every language of explanation except the pack's own gives a `sentenceGloss`.
 Sentences are written for the pack, never copied from a course.
 
+A unit with `typing` offers the Type tab, where the learner produces each answer. Typing
+ignores stress marks and capitals and forgives nothing else, so a cell lists in `alsoAccepted`
+any other form that is equally right, or typing would mark it wrong. A unit whose answer is
+its marks can't set `typing`. The manifest's `keyboard` gives rows of keys for an on-screen
+keyboard, for a learner whose own can't type the language.
+
 Lessons sit under the manifest's `sections`, and each section has a title in `course.json`.
 
 Long column headers can carry soft hyphens (U+00AD) at syllable boundaries, and a

@@ -1,5 +1,6 @@
 {
 	"id": "brat-sentences",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "sentences",
@@ -18,7 +19,8 @@
 			"item": "sentence:brat:dat.sg",
 			"text": "братові",
 			"display": "бра́тові",
-			"sentence": "Я пишу́ лист своє́му ___."
+			"sentence": "Я пишу́ лист своє́му ___.",
+			"alsoAccepted": ["брату"]
 		},
 		{
 			"id": "acc.sg",
@@ -39,7 +41,8 @@
 			"item": "sentence:brat:loc.sg",
 			"text": "братові",
 			"display": "бра́тові",
-			"sentence": "На моє́му ___ нова́ соро́чка."
+			"sentence": "На моє́му ___ нова́ соро́чка.",
+			"alsoAccepted": ["браті", "брату"]
 		},
 		{
 			"id": "voc.sg",

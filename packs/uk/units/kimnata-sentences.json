@@ -1,5 +1,6 @@
 {
 	"id": "kimnata-sentences",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "sentences",

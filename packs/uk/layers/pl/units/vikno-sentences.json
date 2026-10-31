@@ -18,6 +18,10 @@
 			"sentenceGloss": "Za tym oknem jest ogród.",
 			"note": "Narzędnik l. poj., po за."
 		},
+		"loc.sg": {
+			"sentenceGloss": "Na moim oknie nie ma zasłon.",
+			"note": "Miejscownik l. poj., po на."
+		},
 		"nom.pl": {
 			"sentenceGloss": "Te okna są duże.",
 			"note": "Mianownik l. mn.: podmiot."

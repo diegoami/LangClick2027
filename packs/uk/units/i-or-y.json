@@ -1,5 +1,6 @@
 {
 	"id": "i-or-y",
+	"typing": true,
 	"layout": {
 		"type": "grid",
 		"size": 8
@@ -20,7 +21,8 @@
 			"item": "pair:dim",
 			"text": "дім",
 			"ipa": "/dʲim/",
-			"concepts": ["y-vowel", "soft-hard"]
+			"concepts": ["y-vowel", "soft-hard"],
+			"alsoAccepted": ["будинок"]
 		},
 		{
 			"id": "dym",
@@ -41,14 +43,16 @@
 			"item": "pair:lys",
 			"text": "лис",
 			"ipa": "/lɪs/",
-			"concepts": ["y-vowel", "soft-hard"]
+			"concepts": ["y-vowel", "soft-hard"],
+			"alsoAccepted": ["лисиця"]
 		},
 		{
 			"id": "kit",
 			"item": "pair:kit",
 			"text": "кіт",
 			"ipa": "/kit/",
-			"concepts": ["y-vowel", "soft-hard"]
+			"concepts": ["y-vowel", "soft-hard"],
+			"alsoAccepted": ["кішка"]
 		},
 		{
 			"id": "kyt",

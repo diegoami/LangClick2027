@@ -62,6 +62,8 @@ export interface PackManifest {
 	forbiddenLetters?: string;
 	/** Marks that `display` may add to `text`, such as a stress mark. */
 	displayMarks?: string;
+	/** Rows of keys for an on-screen keyboard, for a learner whose own can't type this. */
+	keyboard?: string[];
 }
 
 export type BoardLayout =
@@ -97,6 +99,8 @@ export interface Cell {
 	sentence?: string;
 	/** A word illustrating the answer, shown only with it. */
 	example?: string;
+	/** Other forms that are equally right when typed. A tray offers only `text`. */
+	alsoAccepted?: string[];
 	/** Related forms, by language. */
 	cognates?: Record<string, Cognate>;
 	/** Ids of the concepts this cell illustrates. */
@@ -118,6 +122,8 @@ export interface Unit {
 	/** The answers only mean something against each other, as in a declension: the tray
 	 * always offers all of them, however well the unit is known. */
 	dealAll?: boolean;
+	/** Offers the Type tab: the learner produces each answer instead of choosing it. */
+	typing?: boolean;
 }
 
 export interface FalseFriend {
@@ -195,6 +201,7 @@ export interface LocalUnit {
 	sources: Source[];
 	compareDisplay?: boolean;
 	dealAll?: boolean;
+	typing?: boolean;
 }
 
 /** The two layers a choice of comparison and language resolves to. */
@@ -249,6 +256,7 @@ export function localizeUnit(
 		sources: unit.sources,
 		compareDisplay: unit.compareDisplay,
 		dealAll: unit.dealAll,
+		typing: unit.typing,
 		cells: unit.cells.map((cell) => ({
 			...cell,
 			...base?.cells?.[cell.id],
@@ -356,7 +364,20 @@ function validateCell(
 		}
 	}
 
-	for (const letter of forbiddenIn([shownText(cell), cell.example], pack)) {
+	for (const form of cell.alsoAccepted ?? []) {
+		if (!present(form)) report('has an empty accepted form');
+		else if (form === cell.text) report(`accepted form "${form}" repeats the answer`);
+		else if (pattern && !pattern.test(form)) {
+			report(`accepted form "${form}" has letters outside the pack's scripts`);
+		} else if ([...(pack.displayMarks ?? '')].some((mark) => form.includes(mark))) {
+			report(`accepted form "${form}" contains a display mark`);
+		}
+	}
+
+	for (const letter of forbiddenIn(
+		[shownText(cell), cell.example, ...(cell.alsoAccepted ?? [])],
+		pack
+	)) {
 		report(`contains the forbidden letter ${letter}`);
 	}
 	for (const [language, cognate] of Object.entries(cell.cognates ?? {})) {
@@ -638,6 +659,9 @@ export function validatePack(
 		if (!unit.sources?.length) issues.push({ where, problem: 'has no source' });
 		validateSources(unit.sources, where, issues);
 		validateLayout(unit, pack, issues);
+		if (unit.typing && unit.compareDisplay) {
+			issues.push({ where, problem: 'typing ignores marks, so it cannot ask for them' });
+		}
 		if (unit.compareDisplay) {
 			for (const cell of unit.cells ?? []) {
 				if (cell.display === undefined) {
@@ -712,8 +736,20 @@ export function checkTargets(units: readonly Unit[], layers: Layers): CheckTarge
 	const targets: CheckTarget[] = [];
 	for (const unit of units) {
 		for (const cell of unit.cells) {
-			const { item, text, display, ipa, clue, sentence, example, cognates, concepts, row, col } =
-				cell;
+			const {
+				item,
+				text,
+				display,
+				ipa,
+				clue,
+				sentence,
+				example,
+				alsoAccepted,
+				cognates,
+				concepts,
+				row,
+				col
+			} = cell;
 			targets.push({
 				key: `core/${unit.id}/${cell.id}`,
 				seen: seenOf({
@@ -724,6 +760,7 @@ export function checkTargets(units: readonly Unit[], layers: Layers): CheckTarge
 					clue,
 					sentence,
 					example,
+					alsoAccepted,
 					cognates,
 					concepts,
 					row,

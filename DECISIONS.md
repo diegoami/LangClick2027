@@ -76,6 +76,20 @@ is data, and the explanation of it comes from the interface.
 worse one. Such a tile is easy for that reader, which is true of the language: cognates
 are easy. Only a clue in the pack's own language gives the answer away by containing it.
 
+## Typing is a separate skill, and speech waits (2026-10-31, #21)
+
+A tray tests recognition: мамо can be picked because it looks right next to ма́ма. Typing
+produces the form, so it writes a `produce` card, apart from `recognise`, and Review asks
+each skill the way it was learned. The whole form is typed, since a blank after мам- would
+show where the stem stops, and there is one attempt, so the scheduler gets an honest answer.
+Stress marks, capitals and the apostrophe's spelling don't count. Nothing else is forgiven,
+because one letter is the answer. That makes `alsoAccepted` necessary: a form that is equally
+right has to be listed, or typing teaches that it is wrong.
+
+Speech is not built. A recogniser corrects towards likely words, may not be fair to an
+ending, may send audio off the device, and can't judge pronunciation. It gets a spike after
+the verbs, and whether voice may leave the device is the owner's decision.
+
 ## The hand stays at ten, and grammar gets its own section (2026-10-31, #13)
 
 Geoclick's hand shrinks as a map is learned. Here a unit doesn't need to get harder, since

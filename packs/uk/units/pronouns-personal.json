@@ -1,5 +1,6 @@
 {
 	"id": "pronouns-personal",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "table",

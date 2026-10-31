@@ -1,5 +1,6 @@
 {
 	"id": "family",
+	"typing": true,
 	"layout": {
 		"type": "grid",
 		"size": 24
@@ -77,7 +78,8 @@
 					"form": "chłopiec",
 					"ipa": "/ˈxwɔpjɛt͡s/"
 				}
-			}
+			},
+			"alsoAccepted": ["хлопчик"]
 		},
 		{
 			"id": "divchyna",
@@ -94,7 +96,8 @@
 					"form": "dziewczyna",
 					"ipa": "/d͡ʑɛfˈt͡ʂɨna/"
 				}
-			}
+			},
+			"alsoAccepted": ["дівчинка"]
 		},
 		{
 			"id": "dytyna",
@@ -204,7 +207,8 @@
 					"form": "córka",
 					"ipa": "/ˈt͡surka/"
 				}
-			}
+			},
+			"alsoAccepted": ["донька"]
 		},
 		{
 			"id": "brat",
@@ -254,7 +258,8 @@
 					"form": "babcia",
 					"ipa": "/ˈbapt͡ɕa/"
 				}
-			}
+			},
+			"alsoAccepted": ["баба"]
 		},
 		{
 			"id": "didus",
@@ -271,7 +276,8 @@
 					"form": "dziadek",
 					"ipa": "/ˈd͡ʑadɛk/"
 				}
-			}
+			},
+			"alsoAccepted": ["дід"]
 		},
 		{
 			"id": "onuk",
@@ -288,7 +294,8 @@
 					"form": "wnuk",
 					"ipa": "/vnuk/"
 				}
-			}
+			},
+			"alsoAccepted": ["внук"]
 		},
 		{
 			"id": "onuka",
@@ -305,7 +312,8 @@
 					"form": "wnuczka",
 					"ipa": "/ˈvnut͡ʂka/"
 				}
-			}
+			},
+			"alsoAccepted": ["внучка", "онучка", "внука"]
 		},
 		{
 			"id": "dyadko",
@@ -318,7 +326,8 @@
 					"form": "дядя",
 					"ipa": "/ˈdʲadʲə/"
 				}
-			}
+			},
+			"alsoAccepted": ["дядя"]
 		},
 		{
 			"id": "titka",
@@ -335,7 +344,8 @@
 					"form": "ciotka",
 					"ipa": "/ˈt͡ɕɔtka/"
 				}
-			}
+			},
+			"alsoAccepted": ["тьотя"]
 		},
 		{
 			"id": "rodyna",
@@ -352,7 +362,8 @@
 					"form": "rodzina",
 					"ipa": "/rɔˈd͡ʑina/"
 				}
-			}
+			},
+			"alsoAccepted": ["сім'я"]
 		},
 		{
 			"id": "batky",

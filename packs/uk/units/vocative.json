@@ -1,5 +1,6 @@
 {
 	"id": "vocative",
+	"typing": true,
 	"dealAll": true,
 	"layout": {
 		"type": "grid",
@@ -111,7 +112,8 @@
 					"form": "nauczycielu"
 				}
 			},
-			"concepts": ["vocative"]
+			"concepts": ["vocative"],
+			"alsoAccepted": ["вчителю"]
 		},
 		{
 			"id": "olena",

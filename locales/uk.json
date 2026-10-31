@@ -51,5 +51,16 @@
 	"review.next": "Наступна таблиця",
 	"review.finish": "Завершити",
 	"review.done": "На сьогодні все.",
-	"review.remaining": "Залишилося таблиць: {count}"
+	"review.remaining": "Залишилося таблиць: {count}",
+	"unit.type": "Введення",
+	"count.typed": "введено: {known} з {total}",
+	"type.hint": "Введіть форму й натисніть Enter. Наголос і великі літери не враховуються. Залишилося: {count}.",
+	"type.check": "Перевірити",
+	"type.answer": "Ваша відповідь",
+	"type.wrong": "Ви ввели {typed}. Правильно:",
+	"type.alsoRight": "Теж правильно. На цій дошці:",
+	"type.typedNow": "Введено зараз: {known} з {total}.",
+	"type.keyboard": "Клавіатура",
+	"type.backspace": "Видалити",
+	"note.alsoAccepted": "Теж правильно"
 }
