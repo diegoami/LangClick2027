@@ -83,7 +83,8 @@
 			"item": "letter:ye",
 			"text": "Є є",
 			"clue": "/jɛ/",
-			"example": "Євро́па"
+			"example": "Євро́па",
+			"concepts": ["iotated"]
 		},
 		{
 			"id": "zh",
@@ -119,7 +120,8 @@
 			"item": "letter:yi",
 			"text": "Ї ї",
 			"clue": "/ji/",
-			"example": "ї́жа"
+			"example": "ї́жа",
+			"concepts": ["iotated"]
 		},
 		{
 			"id": "j",
@@ -246,21 +248,24 @@
 			"item": "letter:soft",
 			"text": "Ь ь",
 			"clue": "◌ʲ",
-			"example": "день"
+			"example": "день",
+			"concepts": ["soft-hard"]
 		},
 		{
 			"id": "yu",
 			"item": "letter:yu",
 			"text": "Ю ю",
 			"clue": "/ju/",
-			"example": "юна́к"
+			"example": "юна́к",
+			"concepts": ["iotated"]
 		},
 		{
 			"id": "ya",
 			"item": "letter:ya",
 			"text": "Я я",
 			"clue": "/ja/",
-			"example": "я́блуко"
+			"example": "я́блуко",
+			"concepts": ["iotated"]
 		}
 	]
 }

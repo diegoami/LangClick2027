@@ -1,0 +1,30 @@
+{
+	"title": "о stays о",
+	"summary": "Words where о keeps its quality without stress. Each tile gives the word in IPA; find how it is written.",
+	"cells": {
+		"moloko": {
+			"note": "milk"
+		},
+		"voda": {
+			"note": "water"
+		},
+		"holova": {
+			"note": "head"
+		},
+		"sova": {
+			"note": "owl"
+		},
+		"korova": {
+			"note": "cow"
+		},
+		"robota": {
+			"note": "work"
+		},
+		"boroda": {
+			"note": "beard"
+		},
+		"doroha": {
+			"note": "road"
+		}
+	}
+}

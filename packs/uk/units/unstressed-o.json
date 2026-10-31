@@ -1,0 +1,91 @@
+{
+	"id": "unstressed-o",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		},
+		{
+			"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+		}
+	],
+	"cells": [
+		{
+			"id": "moloko",
+			"item": "word:moloko",
+			"text": "молоко",
+			"display": "молоко́",
+			"ipa": "/mɔlɔˈkɔ/",
+			"clue": "/mɔlɔˈkɔ/",
+			"concepts": ["o-unreduced"]
+		},
+		{
+			"id": "voda",
+			"item": "word:voda",
+			"text": "вода",
+			"display": "вода́",
+			"ipa": "/ʋɔˈda/",
+			"clue": "/ʋɔˈda/",
+			"concepts": ["o-unreduced"]
+		},
+		{
+			"id": "holova",
+			"item": "word:holova",
+			"text": "голова",
+			"display": "голова́",
+			"ipa": "/ɦɔlɔˈʋa/",
+			"clue": "/ɦɔlɔˈʋa/",
+			"concepts": ["o-unreduced"]
+		},
+		{
+			"id": "sova",
+			"item": "word:sova",
+			"text": "сова",
+			"display": "сова́",
+			"ipa": "/sɔˈʋa/",
+			"clue": "/sɔˈʋa/",
+			"concepts": ["o-unreduced"]
+		},
+		{
+			"id": "korova",
+			"item": "word:korova",
+			"text": "корова",
+			"display": "коро́ва",
+			"ipa": "/kɔˈrɔʋa/",
+			"clue": "/kɔˈrɔʋa/",
+			"concepts": ["o-unreduced"]
+		},
+		{
+			"id": "robota",
+			"item": "word:robota",
+			"text": "робота",
+			"display": "робо́та",
+			"ipa": "/rɔˈbɔta/",
+			"clue": "/rɔˈbɔta/",
+			"concepts": ["o-unreduced"]
+		},
+		{
+			"id": "boroda",
+			"item": "word:boroda",
+			"text": "борода",
+			"display": "борода́",
+			"ipa": "/bɔrɔˈda/",
+			"clue": "/bɔrɔˈda/",
+			"concepts": ["o-unreduced"]
+		},
+		{
+			"id": "doroha",
+			"item": "word:doroha",
+			"text": "дорога",
+			"display": "доро́га",
+			"ipa": "/dɔˈrɔɦa/",
+			"clue": "/dɔˈrɔɦa/",
+			"concepts": ["o-unreduced"]
+		}
+	]
+}

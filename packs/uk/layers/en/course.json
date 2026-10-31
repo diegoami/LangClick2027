@@ -8,6 +8,12 @@
 		},
 		"l14": {
 			"title": "Lesson 14: My home"
+		},
+		"l02": {
+			"title": "Lesson 2: Pronouncing the vowels"
+		},
+		"l03": {
+			"title": "Lesson 3: Pronouncing the consonants"
 		}
 	},
 	"concepts": {
@@ -74,6 +80,86 @@
 				{
 					"title": "кімната (English Wiktionary)",
 					"url": "https://en.wiktionary.org/wiki/кімната"
+				}
+			]
+		},
+		"soft-hard": {
+			"title": "Soft, half-soft and hard",
+			"body": "Only the denti-alveolars /t d n s z t͡s d͡z r l/ have a true contrast between plain and palatalized phonemes, as in лад and ладь, or рис and рись. Other consonants become half-palatalized, or \"semi-soft\", as a variant before /i/ and /j/. Plain consonants are velarized, which is why л is usually dark [ɫ]. The consonant before е and и stays hard.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Feldstein, An Approach to Ukrainian Reading for Russian Students",
+					"url": "https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf"
+				}
+			]
+		},
+		"final-voicing": {
+			"title": "No final devoicing",
+			"body": "Unlike Russian and most other modern Slavic languages, Ukrainian keeps a voiced consonant voiced at the end of a word: віз ends in [z], and ваз differs from вас. Assimilation mostly goes one way: a voiceless consonant becomes voiced before a voiced one, as in о́тже [ˈɔd͡ʒɛ], but a voiced one doesn't devoice before a voiceless one. The exception is г, which becomes [x] before к and т, as in легки́й and ні́гті. In fast speech a final voiced consonant can partly devoice.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Feldstein, An Approach to Ukrainian Reading for Russian Students",
+					"url": "https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf"
+				}
+			]
+		},
+		"free-stress": {
+			"title": "Free, moving stress",
+			"body": "Stress can fall on any syllable, can tell words apart, as in доро́га and дорога́, and can move within one word's forms: роби́ти, роблю́, ро́биш. Ordinary writing doesn't mark it, so it has to be learned with each word.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				}
+			]
+		},
+		"apostrophe": {
+			"title": "The apostrophe",
+			"body": "It stands before я, ю, є, ї, mainly after б, п, в, м, ф, р and after a prefix ending in a consonant, when the consonant stays hard and [j] is pronounced: м'яч, п'ю, подвір'я, в'їзд. Without it, я, ю and є soften the consonant instead: ряд, люк.",
+			"sources": [
+				{
+					"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				},
+				{
+					"title": "Ukrainian alphabet (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_alphabet"
+				}
+			]
+		},
+		"one-sound-two-letters": {
+			"title": "Two letters, one sound",
+			"body": "дж and дз are written with two letters but are single affricates, /d͡ʒ/ and /d͡z/: джерело, дзвін. They have no letter of their own in the alphabet.",
+			"sources": [
+				{
+					"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				},
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				}
+			]
+		},
+		"iotated": {
+			"title": "я, ю, є, ї",
+			"body": "At the start of a word or after a vowel, each is [j] plus a vowel: я́блуко, моя́. After a consonant, я, ю, є soften it and write the vowel: ряд, люк. ї always stands for two sounds.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
 				}
 			]
 		}

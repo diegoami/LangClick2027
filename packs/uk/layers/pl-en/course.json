@@ -1,1 +1,14 @@
-{}
+{
+	"concepts": {
+		"free-stress": {
+			"title": "Free, moving stress",
+			"body": "This is the biggest change from Polish, where stress usually falls on the penultimate syllable. In Ukrainian it can fall on any syllable, tell words apart, as in доро́га and дорога́, and move within one word's forms: роби́ти, роблю́, ро́биш. It can't be guessed, so learn it with each word.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				}
+			]
+		}
+	}
+}

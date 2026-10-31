@@ -1,0 +1,85 @@
+{
+	"id": "stress-pairs",
+	"dealAll": true,
+	"compareDisplay": true,
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries",
+			"url": "https://en.wiktionary.org/wiki/замок"
+		}
+	],
+	"cells": [
+		{
+			"id": "castle",
+			"item": "stress:castle",
+			"text": "замок",
+			"display": "за́мок",
+			"ipa": "/ˈzamɔk/",
+			"concepts": ["free-stress"]
+		},
+		{
+			"id": "lock",
+			"item": "stress:lock",
+			"text": "замок",
+			"display": "замо́к",
+			"ipa": "/zaˈmɔk/",
+			"concepts": ["free-stress"]
+		},
+		{
+			"id": "atlas",
+			"item": "stress:atlas",
+			"text": "атлас",
+			"display": "а́тлас",
+			"ipa": "/ˈatlas/",
+			"concepts": ["free-stress"]
+		},
+		{
+			"id": "satin",
+			"item": "stress:satin",
+			"text": "атлас",
+			"display": "атла́с",
+			"ipa": "/atˈlas/",
+			"concepts": ["free-stress"]
+		},
+		{
+			"id": "road",
+			"item": "stress:road",
+			"text": "дорога",
+			"display": "доро́га",
+			"ipa": "/dɔˈrɔɦa/",
+			"concepts": ["free-stress"]
+		},
+		{
+			"id": "dear",
+			"item": "stress:dear",
+			"text": "дорога",
+			"display": "дорога́",
+			"ipa": "/dɔrɔˈɦa/",
+			"concepts": ["free-stress"]
+		},
+		{
+			"id": "chickens",
+			"item": "stress:chickens",
+			"text": "кури",
+			"display": "ку́ри",
+			"ipa": "/ˈkurɪ/",
+			"concepts": ["free-stress"]
+		},
+		{
+			"id": "smoke",
+			"item": "stress:smoke",
+			"text": "кури",
+			"display": "кури́",
+			"ipa": "/kuˈrɪ/",
+			"concepts": ["free-stress"]
+		}
+	]
+}

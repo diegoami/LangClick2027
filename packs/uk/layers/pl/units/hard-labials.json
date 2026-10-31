@@ -1,0 +1,21 @@
+{
+	"title": "Twarde wargowe",
+	"summary": "Gdzie rosyjski kończy się miękką wargową, ukraiński kończy się twardą i nie ma znaku miękkiego. Pole podaje słowo rosyjskie; znajdź ukraińskie.",
+	"cells": {
+		"lyubov": {
+			"note": "miłość"
+		},
+		"step": {
+			"note": "step"
+		},
+		"holub": {
+			"note": "gołąb"
+		},
+		"krov": {
+			"note": "krew"
+		},
+		"sim": {
+			"note": "siedem"
+		}
+	}
+}

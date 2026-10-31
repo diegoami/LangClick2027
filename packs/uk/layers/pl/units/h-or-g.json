@@ -1,0 +1,42 @@
+{
+	"title": "г czy ґ",
+	"summary": "Słowa z brakującą literą. Pole podaje słowo z luką; znajdź г albo ґ.",
+	"cells": {
+		"hora": {
+			"exampleGloss": "góra"
+		},
+		"holova": {
+			"exampleGloss": "głowa"
+		},
+		"bahato": {
+			"exampleGloss": "dużo"
+		},
+		"noha": {
+			"exampleGloss": "noga"
+		},
+		"harnyi": {
+			"exampleGloss": "ładny"
+		},
+		"lehkyi": {
+			"exampleGloss": "lekki"
+		},
+		"hanok": {
+			"exampleGloss": "ganek"
+		},
+		"gudzyk": {
+			"exampleGloss": "guzik"
+		},
+		"agrus": {
+			"exampleGloss": "agrest"
+		},
+		"grunt": {
+			"exampleGloss": "grunt"
+		},
+		"gedz": {
+			"exampleGloss": "giez"
+		},
+		"gava": {
+			"exampleGloss": "wrona"
+		}
+	}
+}

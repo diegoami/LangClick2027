@@ -1,0 +1,62 @@
+{
+	"id": "hard-labials",
+	"compareWith": ["ru"],
+	"layout": {
+		"type": "grid",
+		"size": 5
+	},
+	"sources": [
+		{
+			"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+		},
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		}
+	],
+	"cells": [
+		{
+			"id": "lyubov",
+			"item": "labial:lyubov",
+			"text": "любов",
+			"display": "любо́в",
+			"ipa": "/lʲuˈbɔʋ/",
+			"clue": "любовь",
+			"concepts": ["soft-hard"]
+		},
+		{
+			"id": "step",
+			"item": "labial:step",
+			"text": "степ",
+			"ipa": "/stɛp/",
+			"clue": "степь",
+			"concepts": ["soft-hard"]
+		},
+		{
+			"id": "holub",
+			"item": "labial:holub",
+			"text": "голуб",
+			"display": "го́луб",
+			"ipa": "/ˈɦɔlub/",
+			"clue": "голубь",
+			"concepts": ["soft-hard"]
+		},
+		{
+			"id": "krov",
+			"item": "labial:krov",
+			"text": "кров",
+			"ipa": "/krɔʋ/",
+			"clue": "кровь",
+			"concepts": ["soft-hard"]
+		},
+		{
+			"id": "sim",
+			"item": "labial:sim",
+			"text": "сім",
+			"ipa": "/sʲim/",
+			"clue": "семь",
+			"concepts": ["soft-hard"]
+		}
+	]
+}

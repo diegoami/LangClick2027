@@ -1,12 +1,13 @@
 import { beforeEach, describe, expect, it } from 'vitest';
 import { render } from 'vitest-browser-svelte';
+import { createQuizSession } from '@langclick/quiz-engine';
 import { userEvent } from 'vitest/browser';
 import { localizeUnit, type PackManifest, type Unit, type UnitText } from '@langclick/pack-format';
 import kimnata from '../../../packs/uk/units/kimnata.json';
 import kimnataText from '../../../packs/uk/layers/en/units/kimnata.json';
 import pack from '../../../packs/uk/pack.json';
 import { resetLanguages } from './language.svelte';
-import { forgetRound } from './quizRound';
+import { forgetRound, rememberRound } from './quizRound';
 import {
 	dueCells,
 	levelOf,
@@ -32,10 +33,11 @@ async function place(text: string, cellId: string) {
 	await userEvent.click(cellEl(cellId));
 }
 
-/** Plays until a slip with this text is in the hand, by answering others correctly. */
-async function dealUntil(text: string) {
+/** Plays until a slip with this text is in the hand, by answering others correctly.
+ * The deal is random, so a test that needs a cell left open has to name it. */
+async function dealUntil(text: string, keepOpen?: string) {
 	while (!slipWith(text)) {
-		const slip = slips()[0];
+		const slip = slips().find((candidate) => candidate.dataset.slipId !== keepOpen)!;
 		const own = slip.dataset.slipId!;
 		await userEvent.click(slip);
 		await userEvent.click(cellEl(own));
@@ -56,8 +58,16 @@ beforeEach(async () => {
 
 describe('QuizView', () => {
 	it('deals ten slips on a new unit, and shows no answers', async () => {
-		start();
-		expect(slips()).toHaveLength(10);
+		const handed = localizeUnit(
+			{ ...(kimnata as unknown as Unit), dealAll: false },
+			kimnataText as UnitText,
+			undefined,
+			{}
+		);
+		forgetRound(manifest.id, handed.id);
+		render(QuizView, { pack: manifest, unit: handed });
+		const dealt = slips().reduce((sum, slip) => sum + Number(slip.dataset.count ?? 1), 0);
+		expect(dealt).toBe(10);
 		expect(cellEl('dat.sg').textContent?.trim()).toBe('');
 	});
 
@@ -74,6 +84,40 @@ describe('QuizView', () => {
 		await dealUntil('кімнаті');
 		await place('кімнаті', second);
 		expect(cellEl(second).classList.contains('correct')).toBe(true);
+	});
+
+	it('shows identical slips once, with a count that falls as they are used', async () => {
+		const pair = localizeUnit(
+			{
+				id: 'pair',
+				sources: [],
+				layout: { type: 'grid', size: 3 },
+				cells: [
+					{ id: 'a', item: 'p:a', text: 'г', clue: '_ора' },
+					{ id: 'b', item: 'p:b', text: 'г', clue: '_олова' },
+					{ id: 'c', item: 'p:c', text: 'ґ', clue: '_анок' }
+				]
+			},
+			{ title: 'Pair', summary: '' },
+			undefined,
+			{}
+		);
+		forgetRound(manifest.id, pair.id);
+		render(QuizView, { pack: manifest, unit: pair });
+		expect(
+			slips()
+				.map((slip) => slip.textContent)
+				.sort()
+		).toEqual(['г', 'ґ']);
+		expect(slipWith('г')?.dataset.count).toBe('2');
+
+		await place('г', 'b');
+		expect(cellEl('b').classList.contains('correct')).toBe(true);
+		expect(slipWith('г')?.dataset.count).toBeUndefined();
+
+		await place('г', 'a');
+		expect(cellEl('a').classList.contains('correct')).toBe(true);
+		expect(slipWith('г')).toBeUndefined();
 	});
 
 	it('takes the form shared by four cells in any order, and then has no slip left for it', async () => {
@@ -95,9 +139,36 @@ describe('QuizView', () => {
 		expect(cellEl('acc.sg').textContent).toContain('/kimˈnatu/');
 	});
 
+	it('offers every form of a unit that deals all, once each with a count', async () => {
+		start();
+		expect(slips().reduce((sum, slip) => sum + Number(slip.dataset.count ?? 1), 0)).toBe(14);
+		expect(slips()).toHaveLength(10);
+		expect(slipWith('кімнати')?.dataset.count).toBe('4');
+		expect(slipWith('кімнаті')?.dataset.count).toBe('2');
+	});
+
+	it('offers every form on a round saved with a smaller hand', async () => {
+		forgetRound(manifest.id, unit.id);
+		const session = createQuizSession(unit.cells.map((cell) => ({ id: cell.id, text: cell.text })));
+		rememberRound(manifest.id, unit.id, { session, hand: ['nom.sg', 'gen.pl', 'ins.pl'], size: 3 });
+		render(QuizView, { pack: manifest, unit });
+		expect(slips().reduce((sum, slip) => sum + Number(slip.dataset.count ?? 1), 0)).toBe(14);
+	});
+
+	it('ignores a drop on a cell already filled', async () => {
+		start();
+		await dealUntil('кімнат');
+		await place('кімнат', 'gen.pl');
+		await dealUntil('кімнату');
+		await place('кімнату', 'gen.pl');
+
+		expect(cellEl('acc.sg').classList.contains('revealed')).toBe(false);
+		expect(slipWith('кімнату')).toBeDefined();
+	});
+
 	it('reveals the right cell on a wrong drop, explains, and lowers the level', async () => {
 		start();
-		await dealUntil('кімнату');
+		await dealUntil('кімнату', 'gen.pl');
 		await place('кімнату', 'gen.pl');
 
 		expect(cellEl('acc.sg').classList.contains('revealed')).toBe(true);
@@ -147,6 +218,38 @@ describe('QuizView', () => {
 		resetLanguages({ compareWith: 'ru', explainIn: 'pl' });
 		start();
 		expect(document.querySelector('.hint')?.textContent).toContain('Przeciągnij');
+	});
+});
+
+describe('a unit where the marks are the answer', () => {
+	const stressed = localizeUnit(
+		{
+			id: 'stress',
+			sources: [],
+			compareDisplay: true,
+			layout: { type: 'grid', size: 2 },
+			cells: [
+				{ id: 'castle', item: 't:castle', text: 'замок', display: 'за\u0301мок', clue: 'castle' },
+				{ id: 'lock', item: 't:lock', text: 'замок', display: 'замо\u0301к', clue: 'lock' }
+			]
+		},
+		{ title: 'Stress', summary: '' },
+		undefined,
+		{}
+	);
+
+	it('shows the marks on the slips, and tells the two apart', async () => {
+		forgetRound(manifest.id, stressed.id);
+		render(QuizView, { pack: manifest, unit: stressed });
+		expect(
+			slips()
+				.map((slip) => slip.textContent)
+				.sort()
+		).toEqual(['за\u0301мок', 'замо\u0301к']);
+
+		await place('за\u0301мок', 'lock');
+		expect(cellEl('castle').classList.contains('revealed')).toBe(true);
+		expect(cellEl('lock').classList.contains('correct')).toBe(false);
 	});
 });
 

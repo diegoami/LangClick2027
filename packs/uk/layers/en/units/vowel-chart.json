@@ -1,0 +1,17 @@
+{
+	"title": "The six vowels",
+	"summary": "The vowel phonemes by tongue position, as an IPA chart. Each cell gives the sound; find its letter.",
+	"headers": {
+		"close": "Close",
+		"near": "Near-close",
+		"mid": "Open-mid",
+		"open": "Open",
+		"front": "Front",
+		"back": "Back"
+	},
+	"cells": {
+		"a": {
+			"note": "Transcribed /a/, following the IPA illustration. Ukrainian descriptions place it in the back row, and Vakulenko 2025 writes the stressed vowel [ɑ]."
+		}
+	}
+}

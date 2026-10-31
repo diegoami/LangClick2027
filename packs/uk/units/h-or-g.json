@@ -1,0 +1,120 @@
+{
+	"id": "h-or-g",
+	"dealAll": true,
+	"layout": {
+		"type": "grid",
+		"size": 12
+	},
+	"sources": [
+		{
+			"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+		},
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries",
+			"url": "https://en.wiktionary.org/wiki/замок"
+		}
+	],
+	"cells": [
+		{
+			"id": "hora",
+			"item": "h-or-g:hora",
+			"text": "г",
+			"clue": "_ора́",
+			"example": "гора́",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "holova",
+			"item": "h-or-g:holova",
+			"text": "г",
+			"clue": "_олова́",
+			"example": "голова́",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "bahato",
+			"item": "h-or-g:bahato",
+			"text": "г",
+			"clue": "ба_а́то",
+			"example": "бага́то",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "noha",
+			"item": "h-or-g:noha",
+			"text": "г",
+			"clue": "но_а́",
+			"example": "нога́",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "harnyi",
+			"item": "h-or-g:harnyi",
+			"text": "г",
+			"clue": "_а́рний",
+			"example": "га́рний",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "lehkyi",
+			"item": "h-or-g:lehkyi",
+			"text": "г",
+			"clue": "ле_ки́й",
+			"example": "легки́й",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "hanok",
+			"item": "h-or-g:hanok",
+			"text": "ґ",
+			"clue": "_а́нок",
+			"example": "ґа́нок",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "gudzyk",
+			"item": "h-or-g:gudzyk",
+			"text": "ґ",
+			"clue": "_у́дзик",
+			"example": "ґу́дзик",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "agrus",
+			"item": "h-or-g:agrus",
+			"text": "ґ",
+			"clue": "а́_рус",
+			"example": "а́ґрус",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "grunt",
+			"item": "h-or-g:grunt",
+			"text": "ґ",
+			"clue": "_рунт",
+			"example": "ґрунт",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "gedz",
+			"item": "h-or-g:gedz",
+			"text": "ґ",
+			"clue": "_едзь",
+			"example": "ґедзь",
+			"concepts": ["h-sound"]
+		},
+		{
+			"id": "gava",
+			"item": "h-or-g:gava",
+			"text": "ґ",
+			"clue": "_а́ва",
+			"example": "ґа́ва",
+			"concepts": ["h-sound"]
+		}
+	]
+}

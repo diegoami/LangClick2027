@@ -1,0 +1,88 @@
+{
+	"id": "final-voiced",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		},
+		{
+			"title": "Feldstein, An Approach to Ukrainian Reading for Russian Students",
+			"url": "https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf"
+		},
+		{
+			"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+		}
+	],
+	"cells": [
+		{
+			"id": "dub",
+			"item": "final:dub",
+			"text": "дуб",
+			"ipa": "/dub/",
+			"clue": "/dub/",
+			"concepts": ["final-voicing"]
+		},
+		{
+			"id": "sad",
+			"item": "final:sad",
+			"text": "сад",
+			"ipa": "/sad/",
+			"clue": "/sad/",
+			"concepts": ["final-voicing"]
+		},
+		{
+			"id": "did",
+			"item": "final:did",
+			"text": "дід",
+			"ipa": "/dʲid/",
+			"clue": "/dʲid/",
+			"concepts": ["final-voicing"]
+		},
+		{
+			"id": "nizh",
+			"item": "final:nizh",
+			"text": "ніж",
+			"ipa": "/nʲiʒ/",
+			"clue": "/nʲiʒ/",
+			"concepts": ["final-voicing"]
+		},
+		{
+			"id": "khlib",
+			"item": "final:khlib",
+			"text": "хліб",
+			"ipa": "/xlʲib/",
+			"clue": "/xlʲib/",
+			"concepts": ["final-voicing"]
+		},
+		{
+			"id": "med",
+			"item": "final:med",
+			"text": "мед",
+			"ipa": "/mɛd/",
+			"clue": "/mɛd/",
+			"concepts": ["final-voicing"]
+		},
+		{
+			"id": "harazh",
+			"item": "final:harazh",
+			"text": "гараж",
+			"display": "гара́ж",
+			"ipa": "/ɦaˈraʒ/",
+			"clue": "/ɦaˈraʒ/",
+			"concepts": ["final-voicing"]
+		},
+		{
+			"id": "viz",
+			"item": "final:viz",
+			"text": "віз",
+			"ipa": "/ʋiz/",
+			"clue": "/ʋiz/",
+			"concepts": ["final-voicing"]
+		}
+	]
+}

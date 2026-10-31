@@ -1,0 +1,30 @@
+{
+	"title": "Gdzie pada akcent",
+	"summary": "Te same litery, różne słowa: akcent jest tu zapisany i to on jest odpowiedzią. Pole podaje znaczenie; znajdź słowo.",
+	"cells": {
+		"castle": {
+			"clue": "zamek (budowla)"
+		},
+		"lock": {
+			"clue": "zamek (w drzwiach)"
+		},
+		"road": {
+			"clue": "droga"
+		},
+		"dear": {
+			"clue": "droga (kosztowna)"
+		},
+		"chickens": {
+			"clue": "kury"
+		},
+		"smoke": {
+			"clue": "pal!"
+		},
+		"atlas": {
+			"clue": "atlas"
+		},
+		"satin": {
+			"clue": "atłas"
+		}
+	}
+}

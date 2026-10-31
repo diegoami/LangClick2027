@@ -1,1 +1,18 @@
-{}
+{
+	"concepts": {
+		"o-unreduced": {
+			"title": "о без ударения",
+			"body": "В русском безударное о сводится к а: [vɐˈda]. В украинском этого нет, и это самая заметная ошибка при переходе с русского: говорите вода́, а не вада́. Лишь перед ударным /u/ о немного смещается к [o]. Вакуленко (2025) описывает этот гласный как [o], а не /ɔ/.",
+			"sources": [
+				{
+					"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100316000372"
+				},
+				{
+					"title": "Vakulenko (2025), Balcania et Slavia 5(1)",
+					"url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/"
+				}
+			]
+		}
+	}
+}

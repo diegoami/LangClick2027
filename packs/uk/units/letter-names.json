@@ -1,0 +1,217 @@
+{
+	"id": "letter-names",
+	"layout": {
+		"type": "grid",
+		"size": 33
+	},
+	"sources": [
+		{
+			"title": "Ukrainian alphabet (Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Ukrainian_alphabet"
+		},
+		{
+			"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+		}
+	],
+	"cells": [
+		{
+			"id": "a",
+			"item": "letter-name:a",
+			"text": "а",
+			"clue": "А а"
+		},
+		{
+			"id": "b",
+			"item": "letter-name:b",
+			"text": "бе",
+			"clue": "Б б"
+		},
+		{
+			"id": "v",
+			"item": "letter-name:v",
+			"text": "ве",
+			"clue": "В в"
+		},
+		{
+			"id": "h",
+			"item": "letter-name:h",
+			"text": "ге",
+			"clue": "Г г"
+		},
+		{
+			"id": "g",
+			"item": "letter-name:g",
+			"text": "ґе",
+			"clue": "Ґ ґ"
+		},
+		{
+			"id": "d",
+			"item": "letter-name:d",
+			"text": "де",
+			"clue": "Д д"
+		},
+		{
+			"id": "e",
+			"item": "letter-name:e",
+			"text": "е",
+			"clue": "Е е"
+		},
+		{
+			"id": "ye",
+			"item": "letter-name:ye",
+			"text": "є",
+			"clue": "Є є"
+		},
+		{
+			"id": "zh",
+			"item": "letter-name:zh",
+			"text": "же",
+			"clue": "Ж ж"
+		},
+		{
+			"id": "z",
+			"item": "letter-name:z",
+			"text": "зе",
+			"clue": "З з"
+		},
+		{
+			"id": "y",
+			"item": "letter-name:y",
+			"text": "и",
+			"clue": "И и"
+		},
+		{
+			"id": "i",
+			"item": "letter-name:i",
+			"text": "і",
+			"clue": "І і"
+		},
+		{
+			"id": "yi",
+			"item": "letter-name:yi",
+			"text": "ї",
+			"clue": "Ї ї"
+		},
+		{
+			"id": "j",
+			"item": "letter-name:j",
+			"text": "йот",
+			"clue": "Й й"
+		},
+		{
+			"id": "k",
+			"item": "letter-name:k",
+			"text": "ка",
+			"clue": "К к"
+		},
+		{
+			"id": "l",
+			"item": "letter-name:l",
+			"text": "ел",
+			"clue": "Л л"
+		},
+		{
+			"id": "m",
+			"item": "letter-name:m",
+			"text": "ем",
+			"clue": "М м"
+		},
+		{
+			"id": "n",
+			"item": "letter-name:n",
+			"text": "ен",
+			"clue": "Н н"
+		},
+		{
+			"id": "o",
+			"item": "letter-name:o",
+			"text": "о",
+			"clue": "О о"
+		},
+		{
+			"id": "p",
+			"item": "letter-name:p",
+			"text": "пе",
+			"clue": "П п"
+		},
+		{
+			"id": "r",
+			"item": "letter-name:r",
+			"text": "ер",
+			"clue": "Р р"
+		},
+		{
+			"id": "s",
+			"item": "letter-name:s",
+			"text": "ес",
+			"clue": "С с"
+		},
+		{
+			"id": "t",
+			"item": "letter-name:t",
+			"text": "те",
+			"clue": "Т т"
+		},
+		{
+			"id": "u",
+			"item": "letter-name:u",
+			"text": "у",
+			"clue": "У у"
+		},
+		{
+			"id": "f",
+			"item": "letter-name:f",
+			"text": "еф",
+			"clue": "Ф ф"
+		},
+		{
+			"id": "kh",
+			"item": "letter-name:kh",
+			"text": "ха",
+			"clue": "Х х"
+		},
+		{
+			"id": "ts",
+			"item": "letter-name:ts",
+			"text": "це",
+			"clue": "Ц ц"
+		},
+		{
+			"id": "ch",
+			"item": "letter-name:ch",
+			"text": "че",
+			"clue": "Ч ч"
+		},
+		{
+			"id": "sh",
+			"item": "letter-name:sh",
+			"text": "ша",
+			"clue": "Ш ш"
+		},
+		{
+			"id": "shch",
+			"item": "letter-name:shch",
+			"text": "ща",
+			"clue": "Щ щ"
+		},
+		{
+			"id": "soft",
+			"item": "letter-name:soft",
+			"text": "м'який знак",
+			"clue": "Ь ь"
+		},
+		{
+			"id": "yu",
+			"item": "letter-name:yu",
+			"text": "ю",
+			"clue": "Ю ю"
+		},
+		{
+			"id": "ya",
+			"item": "letter-name:ya",
+			"text": "я",
+			"clue": "Я я"
+		}
+	]
+}

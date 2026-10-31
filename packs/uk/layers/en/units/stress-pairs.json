@@ -1,0 +1,30 @@
+{
+	"title": "Where the stress falls",
+	"summary": "The same letters, different words: stress is written here, and it is the answer. Each tile gives the meaning; find the word.",
+	"cells": {
+		"castle": {
+			"clue": "castle"
+		},
+		"lock": {
+			"clue": "lock"
+		},
+		"road": {
+			"clue": "road"
+		},
+		"dear": {
+			"clue": "dear, expensive (feminine)"
+		},
+		"chickens": {
+			"clue": "chickens"
+		},
+		"smoke": {
+			"clue": "smoke! (imperative)"
+		},
+		"atlas": {
+			"clue": "atlas"
+		},
+		"satin": {
+			"clue": "satin"
+		}
+	}
+}

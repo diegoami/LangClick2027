@@ -1,0 +1,30 @@
+{
+	"title": "Dźwięczne do końca",
+	"summary": "Słowa zachowujące dźwięczną spółgłoskę na końcu. Pole podaje słowo w IPA; znajdź jego zapis.",
+	"cells": {
+		"dub": {
+			"note": "dąb"
+		},
+		"sad": {
+			"note": "sad"
+		},
+		"did": {
+			"note": "dziadek"
+		},
+		"nizh": {
+			"note": "nóż"
+		},
+		"khlib": {
+			"note": "chleb"
+		},
+		"med": {
+			"note": "miód"
+		},
+		"harazh": {
+			"note": "garaż"
+		},
+		"viz": {
+			"note": "wóz"
+		}
+	}
+}

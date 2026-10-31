@@ -11,7 +11,7 @@
 	"lessons": [
 		{
 			"id": "l01",
-			"units": ["alphabet"],
+			"units": ["alphabet", "letter-names", "ru-letters", "pl-letters"],
 			"study": [
 				{
 					"kind": "video",
@@ -43,6 +43,58 @@
 					"kind": "reading",
 					"title": "Ukrainian, Journal of the IPA (2017)",
 					"url": "https://doi.org/10.1017/S0025100316000372"
+				}
+			]
+		},
+		{
+			"id": "l02",
+			"units": ["vowel-chart", "i-or-y", "unstressed-o", "stress-pairs"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 2: Вимова голосних звуків",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@4ea59d6a26e846e596bd39acac8d4722"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 2: завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@bc32f8a0f04542789411ac8c4aaca1bc"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 2: тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@f7ee9479ca744ae0ba6b61f76eaba667"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 2: додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3b6adcfbd2244cde99fdd0b8dffa6391"
+				}
+			]
+		},
+		{
+			"id": "l03",
+			"units": ["consonant-chart", "h-or-g", "final-voiced", "hard-labials"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 3: Вимова приголосних звуків",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@c50742186290432f85116498f194b1ae"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 3: завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@1057ba6f77db4b31b2778bba23706f62"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 3: тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@30b278b0763e46b79e8683656c5848d2"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 3: додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@b9ab43fb9e1d47c18581830c73256a1b"
 				}
 			]
 		},

@@ -1,0 +1,42 @@
+{
+	"title": "г or ґ",
+	"summary": "Words with one letter missing. Each tile gives the word with a gap; find г or ґ.",
+	"cells": {
+		"hora": {
+			"exampleGloss": "mountain"
+		},
+		"holova": {
+			"exampleGloss": "head"
+		},
+		"bahato": {
+			"exampleGloss": "a lot"
+		},
+		"noha": {
+			"exampleGloss": "leg, foot"
+		},
+		"harnyi": {
+			"exampleGloss": "beautiful"
+		},
+		"lehkyi": {
+			"exampleGloss": "light, easy"
+		},
+		"hanok": {
+			"exampleGloss": "porch"
+		},
+		"gudzyk": {
+			"exampleGloss": "button"
+		},
+		"agrus": {
+			"exampleGloss": "gooseberry"
+		},
+		"grunt": {
+			"exampleGloss": "soil"
+		},
+		"gedz": {
+			"exampleGloss": "horsefly"
+		},
+		"gava": {
+			"exampleGloss": "crow"
+		}
+	}
+}

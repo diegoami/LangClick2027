@@ -1,0 +1,9 @@
+{
+	"title": "Od liter rosyjskich",
+	"summary": "Litery, które mylą czytelnika rosyjskiego. Pole podaje literę rosyjską; znajdź literę ukraińską najbliższą jej dźwiękowi. Apostrof pełni rolę ъ i nie ma własnego dźwięku.",
+	"cells": {
+		"hard": {
+			"exampleGloss": "obiekt"
+		}
+	}
+}

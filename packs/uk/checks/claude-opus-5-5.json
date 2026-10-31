@@ -167,6 +167,124 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/consonant-chart/p",
+			"seen": "{\"text\":\"п\",\"clue\":\"/p/\",\"row\":\"plosive-vl\",\"col\":\"labial\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/b",
+			"seen": "{\"text\":\"б\",\"clue\":\"/b/\",\"row\":\"plosive-vd\",\"col\":\"labial\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/t",
+			"seen": "{\"text\":\"т\",\"clue\":\"/t/\",\"row\":\"plosive-vl\",\"col\":\"denti-alveolar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/d",
+			"seen": "{\"text\":\"д\",\"clue\":\"/d/\",\"row\":\"plosive-vd\",\"col\":\"denti-alveolar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/k",
+			"seen": "{\"text\":\"к\",\"clue\":\"/k/\",\"row\":\"plosive-vl\",\"col\":\"velar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/g",
+			"seen": "{\"text\":\"ґ\",\"clue\":\"/ɡ/\",\"row\":\"plosive-vd\",\"col\":\"velar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/m",
+			"seen": "{\"text\":\"м\",\"clue\":\"/m/\",\"row\":\"nasal\",\"col\":\"labial\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/n",
+			"seen": "{\"text\":\"н\",\"clue\":\"/n/\",\"row\":\"nasal\",\"col\":\"denti-alveolar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/f",
+			"seen": "{\"text\":\"ф\",\"clue\":\"/f/\",\"row\":\"fricative-vl\",\"col\":\"labial\"}",
+			"verdict": "ok",
+			"comment": "JIPA 2017 has f in the labiodental column; 'labial' merges it with bilabial, which is accurate as far as it goes."
+		},
+		{
+			"key": "core/consonant-chart/s",
+			"seen": "{\"text\":\"с\",\"clue\":\"/s/\",\"row\":\"fricative-vl\",\"col\":\"denti-alveolar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/sh",
+			"seen": "{\"text\":\"ш\",\"clue\":\"/ʃ/\",\"row\":\"fricative-vl\",\"col\":\"post\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/kh",
+			"seen": "{\"text\":\"х\",\"clue\":\"/x/\",\"row\":\"fricative-vl\",\"col\":\"velar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/z",
+			"seen": "{\"text\":\"з\",\"clue\":\"/z/\",\"row\":\"fricative-vd\",\"col\":\"denti-alveolar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/zh",
+			"seen": "{\"text\":\"ж\",\"clue\":\"/ʒ/\",\"row\":\"fricative-vd\",\"col\":\"post\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/h",
+			"seen": "{\"text\":\"г\",\"clue\":\"/ɦ/\",\"row\":\"fricative-vd\",\"col\":\"glottal\"}",
+			"verdict": "ok",
+			"comment": "/ɦ/ glottal follows JIPA 2017's chart. Vakulenko 2025 disputes it ([ʕ], [ɣ]); the h-sound concept names that accurately. ЕСУ also says гортанний."
+		},
+		{
+			"key": "core/consonant-chart/ts",
+			"seen": "{\"text\":\"ц\",\"clue\":\"/t͡s/\",\"row\":\"affricate-vl\",\"col\":\"denti-alveolar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/ch",
+			"seen": "{\"text\":\"ч\",\"clue\":\"/t͡ʃ/\",\"row\":\"affricate-vl\",\"col\":\"post\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/dz",
+			"seen": "{\"text\":\"дз\",\"clue\":\"/d͡z/\",\"row\":\"affricate-vd\",\"col\":\"denti-alveolar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/dzh",
+			"seen": "{\"text\":\"дж\",\"clue\":\"/d͡ʒ/\",\"row\":\"affricate-vd\",\"col\":\"post\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/r",
+			"seen": "{\"text\":\"р\",\"clue\":\"/r/\",\"row\":\"trill\",\"col\":\"denti-alveolar\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/v",
+			"seen": "{\"text\":\"в\",\"clue\":\"/ʋ/\",\"row\":\"approximant\",\"col\":\"labial\"}",
+			"verdict": "ok",
+			"comment": "JIPA 2017 has ʋ in the labiodental column; 'labial' covers bilabial and labiodental together, and is accurate for the merged column."
+		},
+		{
+			"key": "core/consonant-chart/j",
+			"seen": "{\"text\":\"й\",\"clue\":\"/j/\",\"row\":\"approximant\",\"col\":\"palatal\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/consonant-chart/l",
+			"seen": "{\"text\":\"л\",\"clue\":\"/l/\",\"row\":\"lateral\",\"col\":\"denti-alveolar\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/family/lyudyna",
 			"seen": "{\"text\":\"людина\",\"display\":\"люди́на\",\"ipa\":\"/lʲuˈdɪna/\",\"cognates\":{\"ru\":{\"form\":\"люди\",\"ipa\":\"/ˈlʲudʲɪ/\"},\"pl\":{\"form\":\"ludzie\",\"ipa\":\"/ˈlud͡ʑɛ/\"}}}",
 			"verdict": "ok",
@@ -291,6 +409,171 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/final-voiced/dub",
+			"seen": "{\"text\":\"дуб\",\"ipa\":\"/dub/\",\"clue\":\"/dub/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/final-voiced/sad",
+			"seen": "{\"text\":\"сад\",\"ipa\":\"/sad/\",\"clue\":\"/sad/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/final-voiced/did",
+			"seen": "{\"text\":\"дід\",\"ipa\":\"/dʲid/\",\"clue\":\"/dʲid/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/final-voiced/nizh",
+			"seen": "{\"text\":\"ніж\",\"ipa\":\"/nʲiʒ/\",\"clue\":\"/nʲiʒ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/final-voiced/khlib",
+			"seen": "{\"text\":\"хліб\",\"ipa\":\"/xlʲib/\",\"clue\":\"/xlʲib/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/final-voiced/med",
+			"seen": "{\"text\":\"мед\",\"ipa\":\"/mɛd/\",\"clue\":\"/mɛd/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/final-voiced/harazh",
+			"seen": "{\"text\":\"гараж\",\"display\":\"гара́ж\",\"ipa\":\"/ɦaˈraʒ/\",\"clue\":\"/ɦaˈraʒ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/final-voiced/viz",
+			"seen": "{\"text\":\"віз\",\"ipa\":\"/ʋiz/\",\"clue\":\"/ʋiz/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/hora",
+			"seen": "{\"text\":\"г\",\"clue\":\"_ора́\",\"example\":\"гора́\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/holova",
+			"seen": "{\"text\":\"г\",\"clue\":\"_олова́\",\"example\":\"голова́\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/bahato",
+			"seen": "{\"text\":\"г\",\"clue\":\"ба_а́то\",\"example\":\"бага́то\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/noha",
+			"seen": "{\"text\":\"г\",\"clue\":\"но_а́\",\"example\":\"нога́\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/harnyi",
+			"seen": "{\"text\":\"г\",\"clue\":\"_а́рний\",\"example\":\"га́рний\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/lehkyi",
+			"seen": "{\"text\":\"г\",\"clue\":\"ле_ки́й\",\"example\":\"легки́й\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/hanok",
+			"seen": "{\"text\":\"ґ\",\"clue\":\"_а́нок\",\"example\":\"ґа́нок\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/gudzyk",
+			"seen": "{\"text\":\"ґ\",\"clue\":\"_у́дзик\",\"example\":\"ґу́дзик\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/agrus",
+			"seen": "{\"text\":\"ґ\",\"clue\":\"а́_рус\",\"example\":\"а́ґрус\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/grunt",
+			"seen": "{\"text\":\"ґ\",\"clue\":\"_рунт\",\"example\":\"ґрунт\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/gedz",
+			"seen": "{\"text\":\"ґ\",\"clue\":\"_едзь\",\"example\":\"ґедзь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/h-or-g/gava",
+			"seen": "{\"text\":\"ґ\",\"clue\":\"_а́ва\",\"example\":\"ґа́ва\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hard-labials/lyubov",
+			"seen": "{\"text\":\"любов\",\"display\":\"любо́в\",\"ipa\":\"/lʲuˈbɔʋ/\",\"clue\":\"любовь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hard-labials/step",
+			"seen": "{\"text\":\"степ\",\"ipa\":\"/stɛp/\",\"clue\":\"степь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hard-labials/holub",
+			"seen": "{\"text\":\"голуб\",\"display\":\"го́луб\",\"ipa\":\"/ˈɦɔlub/\",\"clue\":\"голубь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hard-labials/krov",
+			"seen": "{\"text\":\"кров\",\"ipa\":\"/krɔʋ/\",\"clue\":\"кровь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hard-labials/sim",
+			"seen": "{\"text\":\"сім\",\"ipa\":\"/sʲim/\",\"clue\":\"семь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/i-or-y/dim",
+			"seen": "{\"text\":\"дім\",\"ipa\":\"/dʲim/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/i-or-y/dym",
+			"seen": "{\"text\":\"дим\",\"ipa\":\"/dɪm/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/i-or-y/lis",
+			"seen": "{\"text\":\"ліс\",\"ipa\":\"/lʲis/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/i-or-y/lys",
+			"seen": "{\"text\":\"лис\",\"ipa\":\"/lɪs/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/i-or-y/kit",
+			"seen": "{\"text\":\"кіт\",\"ipa\":\"/kit/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/i-or-y/kyt",
+			"seen": "{\"text\":\"кит\",\"ipa\":\"/kɪt/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/i-or-y/bik",
+			"seen": "{\"text\":\"бік\",\"ipa\":\"/bik/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/i-or-y/byk",
+			"seen": "{\"text\":\"бик\",\"ipa\":\"/bɪk/\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/kimnata/nom.sg",
 			"seen": "{\"text\":\"кімната\",\"display\":\"кімна́та\",\"ipa\":\"/kimˈnata/\",\"cognates\":{\"ru\":{\"form\":\"комната\",\"ipa\":\"/ˈkomnətə/\"},\"pl\":{\"form\":\"komnata\",\"ipa\":\"/kɔmˈnata/\"}},\"row\":\"nom\",\"col\":\"sg\"}",
 			"verdict": "ok"
@@ -361,6 +644,396 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/letter-names/a",
+			"seen": "{\"text\":\"а\",\"clue\":\"А а\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/b",
+			"seen": "{\"text\":\"бе\",\"clue\":\"Б б\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/v",
+			"seen": "{\"text\":\"ве\",\"clue\":\"В в\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/h",
+			"seen": "{\"text\":\"ге\",\"clue\":\"Г г\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/g",
+			"seen": "{\"text\":\"ґе\",\"clue\":\"Ґ ґ\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/d",
+			"seen": "{\"text\":\"де\",\"clue\":\"Д д\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/e",
+			"seen": "{\"text\":\"е\",\"clue\":\"Е е\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/ye",
+			"seen": "{\"text\":\"є\",\"clue\":\"Є є\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/zh",
+			"seen": "{\"text\":\"же\",\"clue\":\"Ж ж\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/z",
+			"seen": "{\"text\":\"зе\",\"clue\":\"З з\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/y",
+			"seen": "{\"text\":\"и\",\"clue\":\"И и\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/i",
+			"seen": "{\"text\":\"і\",\"clue\":\"І і\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/yi",
+			"seen": "{\"text\":\"ї\",\"clue\":\"Ї ї\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/j",
+			"seen": "{\"text\":\"йот\",\"clue\":\"Й й\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/k",
+			"seen": "{\"text\":\"ка\",\"clue\":\"К к\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/l",
+			"seen": "{\"text\":\"ел\",\"clue\":\"Л л\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/m",
+			"seen": "{\"text\":\"ем\",\"clue\":\"М м\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/n",
+			"seen": "{\"text\":\"ен\",\"clue\":\"Н н\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/o",
+			"seen": "{\"text\":\"о\",\"clue\":\"О о\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/p",
+			"seen": "{\"text\":\"пе\",\"clue\":\"П п\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/r",
+			"seen": "{\"text\":\"ер\",\"clue\":\"Р р\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/s",
+			"seen": "{\"text\":\"ес\",\"clue\":\"С с\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/t",
+			"seen": "{\"text\":\"те\",\"clue\":\"Т т\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/u",
+			"seen": "{\"text\":\"у\",\"clue\":\"У у\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/f",
+			"seen": "{\"text\":\"еф\",\"clue\":\"Ф ф\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/kh",
+			"seen": "{\"text\":\"ха\",\"clue\":\"Х х\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/ts",
+			"seen": "{\"text\":\"це\",\"clue\":\"Ц ц\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/ch",
+			"seen": "{\"text\":\"че\",\"clue\":\"Ч ч\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/sh",
+			"seen": "{\"text\":\"ша\",\"clue\":\"Ш ш\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/shch",
+			"seen": "{\"text\":\"ща\",\"clue\":\"Щ щ\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/soft",
+			"seen": "{\"text\":\"м'який знак\",\"clue\":\"Ь ь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/yu",
+			"seen": "{\"text\":\"ю\",\"clue\":\"Ю ю\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/letter-names/ya",
+			"seen": "{\"text\":\"я\",\"clue\":\"Я я\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/zh",
+			"seen": "{\"text\":\"ж\",\"ipa\":\"/ʒ/\",\"clue\":\"ż\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/ch",
+			"seen": "{\"text\":\"ч\",\"ipa\":\"/t͡ʃ/\",\"clue\":\"cz\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/sh",
+			"seen": "{\"text\":\"ш\",\"ipa\":\"/ʃ/\",\"clue\":\"sz\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/shch",
+			"seen": "{\"text\":\"щ\",\"ipa\":\"/ʃt͡ʃ/\",\"clue\":\"szcz\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/ts",
+			"seen": "{\"text\":\"ц\",\"ipa\":\"/t͡s/\",\"clue\":\"c\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/kh",
+			"seen": "{\"text\":\"х\",\"ipa\":\"/x/\",\"clue\":\"ch\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/g",
+			"seen": "{\"text\":\"ґ\",\"ipa\":\"/ɡ/\",\"clue\":\"g\"}",
+			"verdict": "ok",
+			"comment": "True by sound, and the summary says nearest. In cognates Polish g usually matches Ukrainian г (góra, гора), and no pl overlay on h-or-g says so."
+		},
+		{
+			"key": "core/pl-letters/v",
+			"seen": "{\"text\":\"в\",\"ipa\":\"/ʋ/\",\"clue\":\"w\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/y",
+			"seen": "{\"text\":\"и\",\"ipa\":\"/ɪ/\",\"clue\":\"y\"}",
+			"verdict": "ok",
+			"comment": "Polish y and Ukrainian и are not identical, but the summary says 'nearest', so the mapping is fair."
+		},
+		{
+			"key": "core/pl-letters/i",
+			"seen": "{\"text\":\"і\",\"ipa\":\"/i/\",\"clue\":\"i\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/ya",
+			"seen": "{\"text\":\"я\",\"ipa\":\"/ja/\",\"clue\":\"ja\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/yu",
+			"seen": "{\"text\":\"ю\",\"ipa\":\"/ju/\",\"clue\":\"ju\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/ye",
+			"seen": "{\"text\":\"є\",\"ipa\":\"/jɛ/\",\"clue\":\"je\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/pl-letters/yi",
+			"seen": "{\"text\":\"ї\",\"ipa\":\"/ji/\",\"clue\":\"ji\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/ru-letters/i",
+			"seen": "{\"text\":\"і\",\"ipa\":\"/i/\",\"clue\":\"рус. и\"}",
+			"verdict": "ok",
+			"comment": "True by sound. In cognates Russian и usually matches Ukrainian и, not і (кит, липа); i-or-y and Feldstein cover that."
+		},
+		{
+			"key": "core/ru-letters/y",
+			"seen": "{\"text\":\"и\",\"ipa\":\"/ɪ/\",\"clue\":\"≈ рус. ы\"}",
+			"verdict": "ok",
+			"comment": "≈ keeps it as the nearest sound, as JIPA 2017 p.353 requires, and the unit summary says nearest."
+		},
+		{
+			"key": "core/ru-letters/e",
+			"seen": "{\"text\":\"е\",\"ipa\":\"/ɛ/\",\"clue\":\"рус. э\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/ru-letters/ye",
+			"seen": "{\"text\":\"є\",\"ipa\":\"/jɛ/\",\"clue\":\"рус. е\"}",
+			"verdict": "ok",
+			"comment": "True word-initially and after a vowel. After a consonant the mapping differs (Russian е softens, Ukrainian е doesn't), which soft-hard covers."
+		},
+		{
+			"key": "core/ru-letters/yo",
+			"seen": "{\"text\":\"йо\",\"ipa\":\"/jɔ/\",\"clue\":\"рус. ё\"}",
+			"verdict": "ok",
+			"comment": "True for /jɔ/ word-initially. After a consonant Ukrainian writes ьо (льон), and in cognates Russian ё often matches е (мёд, мед), so it is a mapping of sound only."
+		},
+		{
+			"key": "core/ru-letters/g",
+			"seen": "{\"text\":\"ґ\",\"ipa\":\"/ɡ/\",\"clue\":\"рус. г\"}",
+			"verdict": "ok",
+			"comment": "True by sound. In cognates Russian г matches Ukrainian г, which ru-*/h-or-g/hora says explicitly, so the two tiles need the \"by sound\" framing."
+		},
+		{
+			"key": "core/ru-letters/hard",
+			"seen": "{\"text\":\"'\",\"clue\":\"рус. ъ\",\"example\":\"об'є́кт\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/stress-pairs/castle",
+			"seen": "{\"text\":\"замок\",\"display\":\"за́мок\",\"ipa\":\"/ˈzamɔk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/stress-pairs/lock",
+			"seen": "{\"text\":\"замок\",\"display\":\"замо́к\",\"ipa\":\"/zaˈmɔk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/stress-pairs/atlas",
+			"seen": "{\"text\":\"атлас\",\"display\":\"а́тлас\",\"ipa\":\"/ˈatlas/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/stress-pairs/satin",
+			"seen": "{\"text\":\"атлас\",\"display\":\"атла́с\",\"ipa\":\"/atˈlas/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/stress-pairs/road",
+			"seen": "{\"text\":\"дорога\",\"display\":\"доро́га\",\"ipa\":\"/dɔˈrɔɦa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/stress-pairs/dear",
+			"seen": "{\"text\":\"дорога\",\"display\":\"дорога́\",\"ipa\":\"/dɔrɔˈɦa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/stress-pairs/chickens",
+			"seen": "{\"text\":\"кури\",\"display\":\"ку́ри\",\"ipa\":\"/ˈkurɪ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/stress-pairs/smoke",
+			"seen": "{\"text\":\"кури\",\"display\":\"кури́\",\"ipa\":\"/kuˈrɪ/\"}",
+			"verdict": "ok",
+			"comment": "JIPA 2017 glosses kuˈry 'to smoke', which is wrong; goroh gives кури́ as the imperative. The pack's imperative is right."
+		},
+		{
+			"key": "core/unstressed-o/moloko",
+			"seen": "{\"text\":\"молоко\",\"display\":\"молоко́\",\"ipa\":\"/mɔlɔˈkɔ/\",\"clue\":\"/mɔlɔˈkɔ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/unstressed-o/voda",
+			"seen": "{\"text\":\"вода\",\"display\":\"вода́\",\"ipa\":\"/ʋɔˈda/\",\"clue\":\"/ʋɔˈda/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/unstressed-o/holova",
+			"seen": "{\"text\":\"голова\",\"display\":\"голова́\",\"ipa\":\"/ɦɔlɔˈʋa/\",\"clue\":\"/ɦɔlɔˈʋa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/unstressed-o/sova",
+			"seen": "{\"text\":\"сова\",\"display\":\"сова́\",\"ipa\":\"/sɔˈʋa/\",\"clue\":\"/sɔˈʋa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/unstressed-o/korova",
+			"seen": "{\"text\":\"корова\",\"display\":\"коро́ва\",\"ipa\":\"/kɔˈrɔʋa/\",\"clue\":\"/kɔˈrɔʋa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/unstressed-o/robota",
+			"seen": "{\"text\":\"робота\",\"display\":\"робо́та\",\"ipa\":\"/rɔˈbɔta/\",\"clue\":\"/rɔˈbɔta/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/unstressed-o/boroda",
+			"seen": "{\"text\":\"борода\",\"display\":\"борода́\",\"ipa\":\"/bɔrɔˈda/\",\"clue\":\"/bɔrɔˈda/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/unstressed-o/doroha",
+			"seen": "{\"text\":\"дорога\",\"display\":\"доро́га\",\"ipa\":\"/dɔˈrɔɦa/\",\"clue\":\"/dɔˈrɔɦa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vowel-chart/i",
+			"seen": "{\"text\":\"і\",\"clue\":\"/i/\",\"row\":\"close\",\"col\":\"front\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vowel-chart/y",
+			"seen": "{\"text\":\"и\",\"clue\":\"/ɪ/\",\"row\":\"near\",\"col\":\"front\"}",
+			"verdict": "ok",
+			"comment": "Near-close front follows JIPA 2017 (/ɪ/, F2 about 1.9 kHz in Figure 1). Sources differ: ЕСУ has и in the high row, teaching materials високо-середній, Vakulenko 2025 ɨ̞+. The y-vowel concept names the Vakulenko difference."
+		},
+		{
+			"key": "core/vowel-chart/u",
+			"seen": "{\"text\":\"у\",\"clue\":\"/u/\",\"row\":\"close\",\"col\":\"back\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vowel-chart/e",
+			"seen": "{\"text\":\"е\",\"clue\":\"/ɛ/\",\"row\":\"mid\",\"col\":\"front\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vowel-chart/o",
+			"seen": "{\"text\":\"о\",\"clue\":\"/ɔ/\",\"row\":\"mid\",\"col\":\"back\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/vowel-chart/a",
+			"seen": "{\"text\":\"а\",\"clue\":\"/a/\",\"row\":\"open\",\"col\":\"back\"}",
+			"verdict": "ok",
+			"comment": "Back row matches ЕСУ ('заднього ([а], [о], [у])') and Vakulenko 2025 Table 1 (stressed ɑ), and JIPA 2017 Figure 1 has a at F2 about 1.2 kHz beside ɔ and u. /a/ under Back is unusual for an IPA symbol, but the cell's note says so and why."
+		},
+		{
 			"key": "en/lesson/l01",
 			"seen": "\"Lesson 1: The alphabet and its sounds\"",
 			"verdict": "ok"
@@ -373,6 +1046,16 @@
 		{
 			"key": "en/lesson/l14",
 			"seen": "\"Lesson 14: My home\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l02",
+			"seen": "\"Lesson 2: Pronouncing the vowels\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l03",
+			"seen": "\"Lesson 3: Pronouncing the consonants\"",
 			"verdict": "ok"
 		},
 		{
@@ -399,6 +1082,38 @@
 			"key": "en/concept/shared-forms",
 			"seen": "{\"title\":\"One form, several cells\",\"body\":\"Case endings overlap, so one form can fill several cells: кімнати is genitive singular and nominative, accusative and vocative plural, and кімнаті is both dative and locative singular. On this board either slip is right in any of its cells.\",\"sources\":[{\"title\":\"кімната (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/кімната\"}]}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/soft-hard",
+			"seen": "{\"title\":\"Soft, half-soft and hard\",\"body\":\"Only the denti-alveolars /t d n s z t͡s d͡z r l/ have a true contrast between plain and palatalized phonemes, as in лад and ладь, or рис and рись. Other consonants become half-palatalized, or \\\"semi-soft\\\", as a variant before /i/ and /j/. Plain consonants are velarized, which is why л is usually dark [ɫ]. The consonant before е and и stays hard.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Feldstein, An Approach to Ukrainian Reading for Russian Students\",\"url\":\"https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/final-voicing",
+			"seen": "{\"title\":\"No final devoicing\",\"body\":\"Unlike Russian and most other modern Slavic languages, Ukrainian keeps a voiced consonant voiced at the end of a word: віз ends in [z], and ваз differs from вас. Assimilation mostly goes one way: a voiceless consonant becomes voiced before a voiced one, as in о́тже [ˈɔd͡ʒɛ], but a voiced one doesn't devoice before a voiceless one. The exception is г, which becomes [x] before к and т, as in легки́й and ні́гті. In fast speech a final voiced consonant can partly devoice.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Feldstein, An Approach to Ukrainian Reading for Russian Students\",\"url\":\"https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf\"}]}",
+			"verdict": "ok",
+			"comment": "Applies to all four layers. ні́гті stress is en.wiktionary's; en.wikipedia and teaching materials found by search give кігті, нігті, легко, вогко, дьогтю as г read [x]. Those sources list words where this states a rule by position, and JIPA 2017 p.352 names only /k/, so 'before к and т' is a fair generalisation rather than a quotation."
+		},
+		{
+			"key": "en/concept/free-stress",
+			"seen": "{\"title\":\"Free, moving stress\",\"body\":\"Stress can fall on any syllable, can tell words apart, as in доро́га and дорога́, and can move within one word's forms: роби́ти, роблю́, ро́биш. Ordinary writing doesn't mark it, so it has to be learned with each word.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/apostrophe",
+			"seen": "{\"title\":\"The apostrophe\",\"body\":\"It stands before я, ю, є, ї, mainly after б, п, в, м, ф, р and after a prefix ending in a consonant, when the consonant stays hard and [j] is pronounced: м'яч, п'ю, подвір'я, в'їзд. Without it, я, ю and є soften the consonant instead: ряд, люк.\",\"sources\":[{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"},{\"title\":\"Ukrainian alphabet (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_alphabet\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/one-sound-two-letters",
+			"seen": "{\"title\":\"Two letters, one sound\",\"body\":\"дж and дз are written with two letters but are single affricates, /d͡ʒ/ and /d͡z/: джерело, дзвін. They have no letter of their own in the alphabet.\",\"sources\":[{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"},{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/iotated",
+			"seen": "{\"title\":\"я, ю, є, ї\",\"body\":\"At the start of a word or after a vowel, each is [j] plus a vowel: я́блуко, моя́. After a consonant, я, ю, є soften it and write the vowel: ряд, люк. ї always stands for two sounds.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok",
+			"comment": "JIPA 2017 p.352 loosely lists ї among letters marking palatalization; the concept's 'ї always stands for two sounds' is the standard statement and I prefer it."
 		},
 		{
 			"key": "en/alphabet",
@@ -572,6 +1287,12 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/consonant-chart",
+			"seen": "{\"title\":\"The consonant chart\",\"summary\":\"The plain consonants by manner and place of articulation, as an IPA chart. Each cell gives the sound; find its letter or letters.\",\"headers\":{\"plosive-vl\":\"Plosive, voiceless\",\"plosive-vd\":\"Plosive, voiced\",\"nasal\":\"Nasal\",\"fricative-vl\":\"Fricative, voiceless\",\"fricative-vd\":\"Fricative, voiced\",\"affricate-vl\":\"Affricate, voiceless\",\"affricate-vd\":\"Affricate, voiced\",\"trill\":\"Trill\",\"approximant\":\"Approximant\",\"lateral\":\"Lateral\",\"labial\":\"Labial\",\"post\":\"Post-al­ve­o­lar\",\"palatal\":\"Palatal\",\"velar\":\"Velar\",\"glottal\":\"Glottal\",\"denti-alveolar\":\"Den­tal/​al­ve­o­lar\"}}",
+			"verdict": "ok",
+			"comment": "Soft hyphens checked in all four consonant-chart entries: every one falls on a syllable boundary. The zero-width space follows the slash only."
+		},
+		{
 			"key": "en/family",
 			"seen": "{\"title\":\"People and family\",\"summary\":\"24 everyday words for people. Each tile gives the meaning; find the word.\"}",
 			"verdict": "ok"
@@ -697,8 +1418,315 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/final-voiced",
+			"seen": "{\"title\":\"Voiced to the end\",\"summary\":\"Words that keep their final voiced consonant. Each tile gives the word in IPA; find how it is written.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/final-voiced/dub",
+			"seen": "{\"note\":\"oak\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/final-voiced/sad",
+			"seen": "{\"note\":\"orchard, garden\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/final-voiced/did",
+			"seen": "{\"note\":\"grandfather, old man\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/final-voiced/nizh",
+			"seen": "{\"note\":\"knife\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/final-voiced/khlib",
+			"seen": "{\"note\":\"bread\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/final-voiced/med",
+			"seen": "{\"note\":\"honey\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/final-voiced/harazh",
+			"seen": "{\"note\":\"garage\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/final-voiced/viz",
+			"seen": "{\"note\":\"cart\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g",
+			"seen": "{\"title\":\"г or ґ\",\"summary\":\"Words with one letter missing. Each tile gives the word with a gap; find г or ґ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/hora",
+			"seen": "{\"exampleGloss\":\"mountain\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/holova",
+			"seen": "{\"exampleGloss\":\"head\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/bahato",
+			"seen": "{\"exampleGloss\":\"a lot\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/noha",
+			"seen": "{\"exampleGloss\":\"leg, foot\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/harnyi",
+			"seen": "{\"exampleGloss\":\"beautiful\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/lehkyi",
+			"seen": "{\"exampleGloss\":\"light, easy\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/hanok",
+			"seen": "{\"exampleGloss\":\"porch\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/gudzyk",
+			"seen": "{\"exampleGloss\":\"button\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/agrus",
+			"seen": "{\"exampleGloss\":\"gooseberry\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/grunt",
+			"seen": "{\"exampleGloss\":\"soil\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/gedz",
+			"seen": "{\"exampleGloss\":\"horsefly\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/h-or-g/gava",
+			"seen": "{\"exampleGloss\":\"crow\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/hard-labials",
+			"seen": "{\"title\":\"Hard labials\",\"summary\":\"Where Russian ends in a soft labial, Ukrainian ends in a hard one, and has no soft sign. Each tile gives the Russian word; find the Ukrainian.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/hard-labials/lyubov",
+			"seen": "{\"note\":\"love\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/hard-labials/step",
+			"seen": "{\"note\":\"steppe\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/hard-labials/holub",
+			"seen": "{\"note\":\"pigeon\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/hard-labials/krov",
+			"seen": "{\"note\":\"blood\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/hard-labials/sim",
+			"seen": "{\"note\":\"seven\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/i-or-y",
+			"seen": "{\"title\":\"і or и\",\"summary\":\"Pairs that only this vowel tells apart. Each tile gives the meaning; find the word.\"}",
+			"verdict": "ok",
+			"comment": "'only this vowel' is true of spelling. In дім/дим and ліс/лис the consonant also differs in softness, as the IPA shows."
+		},
+		{
+			"key": "en/i-or-y/dim",
+			"seen": "{\"clue\":\"house\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/i-or-y/dym",
+			"seen": "{\"clue\":\"smoke\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/i-or-y/lis",
+			"seen": "{\"clue\":\"forest\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/i-or-y/lys",
+			"seen": "{\"clue\":\"fox\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/i-or-y/kit",
+			"seen": "{\"clue\":\"cat\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/i-or-y/kyt",
+			"seen": "{\"clue\":\"whale\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/i-or-y/bik",
+			"seen": "{\"clue\":\"side\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/i-or-y/byk",
+			"seen": "{\"clue\":\"bull\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/kimnata",
 			"seen": "{\"title\":\"Noun cases: кімната (room)\",\"summary\":\"One regular noun through all 7 cases, singular and plural. Some forms fill more than one cell.\",\"headers\":{\"nom\":\"Nominative\",\"gen\":\"Genitive\",\"dat\":\"Dative\",\"acc\":\"Accusative\",\"ins\":\"Instrumental\",\"loc\":\"Locative\",\"voc\":\"Vocative\",\"sg\":\"Singular\",\"pl\":\"Plural\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/letter-names",
+			"seen": "{\"title\":\"Letter names\",\"summary\":\"What each letter is called when you spell a word aloud. Each tile gives the letter; find its name.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/pl-letters",
+			"seen": "{\"title\":\"From Polish spelling\",\"summary\":\"Reading Cyrillic from Polish. Each tile gives the nearest Polish spelling; find the Ukrainian letter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/ru-letters",
+			"seen": "{\"title\":\"From Russian letters\",\"summary\":\"The letters a Russian reader gets wrong. Each tile gives a Russian letter; find the Ukrainian letter nearest to its sound. The apostrophe does the job of ъ, and has no sound of its own.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/ru-letters/hard",
+			"seen": "{\"exampleGloss\":\"object\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/stress-pairs",
+			"seen": "{\"title\":\"Where the stress falls\",\"summary\":\"The same letters, different words: stress is written here, and it is the answer. Each tile gives the meaning; find the word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/stress-pairs/castle",
+			"seen": "{\"clue\":\"castle\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/stress-pairs/lock",
+			"seen": "{\"clue\":\"lock\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/stress-pairs/road",
+			"seen": "{\"clue\":\"road\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/stress-pairs/dear",
+			"seen": "{\"clue\":\"dear, expensive (feminine)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/stress-pairs/chickens",
+			"seen": "{\"clue\":\"chickens\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/stress-pairs/smoke",
+			"seen": "{\"clue\":\"smoke! (imperative)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/stress-pairs/atlas",
+			"seen": "{\"clue\":\"atlas\"}",
+			"verdict": "ok",
+			"comment": "а́тлас and атла́с confirmed by goroh, IPA follows. English atlas has initial stress, a slight hint, not a giveaway: the slips differ only by stress and the clue doesn't show it. The ru and uk layers describe instead of naming, so no layer prints the answer."
+		},
+		{
+			"key": "en/stress-pairs/satin",
+			"seen": "{\"clue\":\"satin\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/unstressed-o",
+			"seen": "{\"title\":\"о stays о\",\"summary\":\"Words where о keeps its quality without stress. Each tile gives the word in IPA; find how it is written.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/unstressed-o/moloko",
+			"seen": "{\"note\":\"milk\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/unstressed-o/voda",
+			"seen": "{\"note\":\"water\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/unstressed-o/holova",
+			"seen": "{\"note\":\"head\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/unstressed-o/sova",
+			"seen": "{\"note\":\"owl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/unstressed-o/korova",
+			"seen": "{\"note\":\"cow\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/unstressed-o/robota",
+			"seen": "{\"note\":\"work\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/unstressed-o/boroda",
+			"seen": "{\"note\":\"beard\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/unstressed-o/doroha",
+			"seen": "{\"note\":\"road\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vowel-chart",
+			"seen": "{\"title\":\"The six vowels\",\"summary\":\"The vowel phonemes by tongue position, as an IPA chart. Each cell gives the sound; find its letter.\",\"headers\":{\"close\":\"Close\",\"near\":\"Near-close\",\"mid\":\"Open-mid\",\"open\":\"Open\",\"front\":\"Front\",\"back\":\"Back\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/vowel-chart/a",
+			"seen": "{\"note\":\"Transcribed /a/, following the IPA illustration. Ukrainian descriptions place it in the back row, and Vakulenko 2025 writes the stressed vowel [ɑ].\"}",
 			"verdict": "ok"
 		},
 		{
@@ -714,6 +1742,16 @@
 		{
 			"key": "pl/lesson/l14",
 			"seen": "\"Lekcja 14: Mój dom\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/l02",
+			"seen": "\"Lekcja 2: Wymowa samogłosek\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/l03",
+			"seen": "\"Lekcja 3: Wymowa spółgłosek\"",
 			"verdict": "ok"
 		},
 		{
@@ -740,6 +1778,36 @@
 		{
 			"key": "pl/concept/shared-forms",
 			"seen": "{\"title\":\"Jedna forma, kilka pól\",\"body\":\"Końcówki przypadków się pokrywają, więc jedna forma może wypełnić kilka pól: кімнати to dopełniacz liczby pojedynczej oraz mianownik, biernik i wołacz liczby mnogiej, a кімнаті to zarówno celownik, jak i miejscownik liczby pojedynczej. Na tej planszy taka kartka pasuje do każdego ze swoich pól.\",\"sources\":[{\"title\":\"кімната (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/кімната\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/soft-hard",
+			"seen": "{\"title\":\"Miękkie, półmiękkie i twarde\",\"body\":\"Prawdziwa opozycja fonemów zwykłych i spalatalizowanych występuje tylko u zębowych i dziąsłowych /t d n s z t͡s d͡z r l/, jak w лад i ладь, рис i рись. Pozostałe spółgłoski stają się półmiękkie tylko jako wariant przed /i/ i /j/. Spółgłoski zwykłe są welaryzowane, dlatego л to zwykle ciemne [ɫ]. Przed е i и spółgłoska pozostaje twarda.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Feldstein, An Approach to Ukrainian Reading for Russian Students\",\"url\":\"https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/final-voicing",
+			"seen": "{\"title\":\"Brak ubezdźwięcznienia na końcu\",\"body\":\"W przeciwieństwie do polskiego, rosyjskiego i większości innych współczesnych języków słowiańskich ukraiński zachowuje spółgłoskę dźwięczną na końcu wyrazu: віз kończy się na [z], a ваз różni się od вас. Upodobnienie działa głównie w jedną stronę: bezdźwięczna staje się dźwięczna przed dźwięczną, jak w о́тже [ˈɔd͡ʒɛ], ale dźwięczna nie traci dźwięczności przed bezdźwięczną. Wyjątkiem jest г, które przed к i т przechodzi w [x], jak w легки́й i ні́гті. W szybkiej mowie końcowa dźwięczna może się częściowo ubezdźwięcznić.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Feldstein, An Approach to Ukrainian Reading for Russian Students\",\"url\":\"https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/free-stress",
+			"seen": "{\"title\":\"Akcent swobodny i ruchomy\",\"body\":\"Akcent może padać na dowolną sylabę, rozróżniać słowa, jak доро́га i дорога́, i przesuwać się w formach jednego słowa: роби́ти, роблю́, ро́биш. W zwykłym piśmie się go nie zaznacza, więc trzeba się go uczyć z każdym słowem.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/apostrophe",
+			"seen": "{\"title\":\"Apostrof\",\"body\":\"Stoi przed я, ю, є, ї, głównie po б, п, в, м, ф, р oraz po przedrostku zakończonym spółgłoską, gdy spółgłoska pozostaje twarda, a [j] się wymawia: м'яч, п'ю, подвір'я, в'їзд. Bez niego я, ю, є zmiękczają spółgłoskę: ряд, люк.\",\"sources\":[{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"},{\"title\":\"Ukrainian alphabet (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_alphabet\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/one-sound-two-letters",
+			"seen": "{\"title\":\"Dwie litery, jeden dźwięk\",\"body\":\"дж i дз pisze się dwiema literami, ale to pojedyncze zwarto-szczelinowe, /d͡ʒ/ i /d͡z/: джерело, дзвін. Nie mają w alfabecie własnych liter.\",\"sources\":[{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"},{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/iotated",
+			"seen": "{\"title\":\"я, ю, є, ї\",\"body\":\"Na początku wyrazu lub po samogłosce każda z nich to [j] i samogłoska: я́блуко, моя́. Po spółgłosce я, ю, є zmiękczają ją: ряд, люк. ї zawsze oznacza dwa dźwięki.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -913,6 +1981,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/consonant-chart",
+			"seen": "{\"title\":\"Tabela spółgłosek\",\"summary\":\"Twarde spółgłoski według sposobu i miejsca artykulacji, jak w tabeli IPA. Pole podaje dźwięk; znajdź jego literę lub litery.\",\"headers\":{\"plosive-vl\":\"Zwarta, bezdźwięczna\",\"plosive-vd\":\"Zwarta, dźwięczna\",\"nasal\":\"Nosowa\",\"fricative-vl\":\"Szczelinowa, bezdźwięczna\",\"fricative-vd\":\"Szczelinowa, dźwięczna\",\"affricate-vl\":\"Zwarto-szczelinowa, bezdźwięczna\",\"affricate-vd\":\"Zwarto-szczelinowa, dźwięczna\",\"trill\":\"Drżąca\",\"approximant\":\"Aproksymant\",\"lateral\":\"Boczna\",\"labial\":\"War­go­wa\",\"post\":\"Za­dzią­sło­wa\",\"palatal\":\"Pod­nie­bien­na\",\"velar\":\"Tyl­no­ję­zy­ko­wa\",\"glottal\":\"Krta­nio­wa\",\"denti-alveolar\":\"Zę­bo­wa/​dzią­sło­wa\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/family",
 			"seen": "{\"title\":\"Ludzie i rodzina\",\"summary\":\"24 codzienne słowa o ludziach. Każde pole podaje znaczenie; znajdź słowo.\"}",
 			"verdict": "ok"
@@ -1038,8 +2111,320 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/final-voiced",
+			"seen": "{\"title\":\"Dźwięczne do końca\",\"summary\":\"Słowa zachowujące dźwięczną spółgłoskę na końcu. Pole podaje słowo w IPA; znajdź jego zapis.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/final-voiced/dub",
+			"seen": "{\"note\":\"dąb\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/final-voiced/sad",
+			"seen": "{\"note\":\"sad\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/final-voiced/did",
+			"seen": "{\"note\":\"dziadek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/final-voiced/nizh",
+			"seen": "{\"note\":\"nóż\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/final-voiced/khlib",
+			"seen": "{\"note\":\"chleb\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/final-voiced/med",
+			"seen": "{\"note\":\"miód\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/final-voiced/harazh",
+			"seen": "{\"note\":\"garaż\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/final-voiced/viz",
+			"seen": "{\"note\":\"wóz\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g",
+			"seen": "{\"title\":\"г czy ґ\",\"summary\":\"Słowa z brakującą literą. Pole podaje słowo z luką; znajdź г albo ґ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/hora",
+			"seen": "{\"exampleGloss\":\"góra\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/holova",
+			"seen": "{\"exampleGloss\":\"głowa\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/bahato",
+			"seen": "{\"exampleGloss\":\"dużo\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/noha",
+			"seen": "{\"exampleGloss\":\"noga\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/harnyi",
+			"seen": "{\"exampleGloss\":\"ładny\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/lehkyi",
+			"seen": "{\"exampleGloss\":\"lekki\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/hanok",
+			"seen": "{\"exampleGloss\":\"ganek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/gudzyk",
+			"seen": "{\"exampleGloss\":\"guzik\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/agrus",
+			"seen": "{\"exampleGloss\":\"agrest\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/grunt",
+			"seen": "{\"exampleGloss\":\"grunt\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/gedz",
+			"seen": "{\"exampleGloss\":\"giez\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/h-or-g/gava",
+			"seen": "{\"exampleGloss\":\"wrona\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/hard-labials",
+			"seen": "{\"title\":\"Twarde wargowe\",\"summary\":\"Gdzie rosyjski kończy się miękką wargową, ukraiński kończy się twardą i nie ma znaku miękkiego. Pole podaje słowo rosyjskie; znajdź ukraińskie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/hard-labials/lyubov",
+			"seen": "{\"note\":\"miłość\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/hard-labials/step",
+			"seen": "{\"note\":\"step\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/hard-labials/holub",
+			"seen": "{\"note\":\"gołąb\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/hard-labials/krov",
+			"seen": "{\"note\":\"krew\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/hard-labials/sim",
+			"seen": "{\"note\":\"siedem\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/i-or-y",
+			"seen": "{\"title\":\"і czy и\",\"summary\":\"Pary słów, które rozróżnia tylko ta samogłoska. Pole podaje znaczenie; znajdź słowo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/i-or-y/dim",
+			"seen": "{\"clue\":\"dom\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/i-or-y/dym",
+			"seen": "{\"clue\":\"dym\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/i-or-y/lis",
+			"seen": "{\"clue\":\"las\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/i-or-y/lys",
+			"seen": "{\"clue\":\"lis\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/i-or-y/kit",
+			"seen": "{\"clue\":\"kot\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/i-or-y/kyt",
+			"seen": "{\"clue\":\"wal\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/i-or-y/bik",
+			"seen": "{\"clue\":\"bok\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/i-or-y/byk",
+			"seen": "{\"clue\":\"byk\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/kimnata",
 			"seen": "{\"title\":\"Przypadki: кімната (pokój)\",\"summary\":\"Jeden regularny rzeczownik we wszystkich 7 przypadkach, w liczbie pojedynczej i mnogiej. Niektóre formy wypełniają kilka pól.\",\"headers\":{\"nom\":\"Mianownik\",\"gen\":\"Dopełniacz\",\"dat\":\"Celownik\",\"acc\":\"Biernik\",\"ins\":\"Narzędnik\",\"loc\":\"Miejscownik\",\"voc\":\"Wołacz\",\"sg\":\"Pojedyncza\",\"pl\":\"Mnoga\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/letter-names",
+			"seen": "{\"title\":\"Nazwy liter\",\"summary\":\"Jak nazywa się każda litera przy literowaniu. Pole podaje literę; znajdź jej nazwę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/pl-letters",
+			"seen": "{\"title\":\"Od polskiej pisowni\",\"summary\":\"Czytanie cyrylicy, wychodząc od polskiego. Pole podaje najbliższą polską pisownię; znajdź literę ukraińską.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/ru-letters",
+			"seen": "{\"title\":\"Od liter rosyjskich\",\"summary\":\"Litery, które mylą czytelnika rosyjskiego. Pole podaje literę rosyjską; znajdź literę ukraińską najbliższą jej dźwiękowi. Apostrof pełni rolę ъ i nie ma własnego dźwięku.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/ru-letters/hard",
+			"seen": "{\"exampleGloss\":\"obiekt\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/stress-pairs",
+			"seen": "{\"title\":\"Gdzie pada akcent\",\"summary\":\"Te same litery, różne słowa: akcent jest tu zapisany i to on jest odpowiedzią. Pole podaje znaczenie; znajdź słowo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/stress-pairs/castle",
+			"seen": "{\"clue\":\"zamek (budowla)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/stress-pairs/lock",
+			"seen": "{\"clue\":\"zamek (w drzwiach)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/stress-pairs/road",
+			"seen": "{\"clue\":\"droga\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/stress-pairs/dear",
+			"seen": "{\"clue\":\"droga (kosztowna)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/stress-pairs/chickens",
+			"seen": "{\"clue\":\"kury\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/stress-pairs/smoke",
+			"seen": "{\"clue\":\"pal!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/stress-pairs/atlas",
+			"seen": "{\"clue\":\"atlas\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/stress-pairs/satin",
+			"seen": "{\"clue\":\"atłas\"}",
+			"verdict": "ok",
+			"comment": "atłas is the Polish cognate; it tells which word, not where the stress falls, so it gives nothing away."
+		},
+		{
+			"key": "pl/unstressed-o",
+			"seen": "{\"title\":\"о pozostaje о\",\"summary\":\"Słowa, w których о bez akcentu się nie zmienia. Pole podaje słowo w IPA; znajdź jego zapis.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/unstressed-o/moloko",
+			"seen": "{\"note\":\"mleko\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/unstressed-o/voda",
+			"seen": "{\"note\":\"woda\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/unstressed-o/holova",
+			"seen": "{\"note\":\"głowa\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/unstressed-o/sova",
+			"seen": "{\"note\":\"sowa\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/unstressed-o/korova",
+			"seen": "{\"note\":\"krowa\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/unstressed-o/robota",
+			"seen": "{\"note\":\"praca\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/unstressed-o/boroda",
+			"seen": "{\"note\":\"broda\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/unstressed-o/doroha",
+			"seen": "{\"note\":\"droga\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vowel-chart",
+			"seen": "{\"title\":\"Sześć samogłosek\",\"summary\":\"Fonemy samogłoskowe według położenia języka, jak w tabeli IPA. Pole podaje dźwięk; znajdź jego literę.\",\"headers\":{\"close\":\"Przymknięta\",\"near\":\"Prawie przymknięta\",\"mid\":\"Półotwarta\",\"open\":\"Otwarta\",\"front\":\"Przednia\",\"back\":\"Tylna\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/vowel-chart/a",
+			"seen": "{\"note\":\"Zapisywane /a/, jak w ilustracji IPA. Opisy ukraińskie zaliczają je do szeregu tylnego, a Wakulenko (2025) zapisuje samogłoskę akcentowaną jako [ɑ].\"}",
+			"verdict": "ok",
+			"comment": "'Wakulenko' matches the pl layer's other concepts; the paper itself is signed Vakulenko, as the sources' titles have it."
+		},
+		{
+			"key": "pl-en/concept/free-stress",
+			"seen": "{\"title\":\"Free, moving stress\",\"body\":\"This is the biggest change from Polish, where stress usually falls on the penultimate syllable. In Ukrainian it can fall on any syllable, tell words apart, as in доро́га and дорога́, and move within one word's forms: роби́ти, роблю́, ро́биш. It can't be guessed, so learn it with each word.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -1049,7 +2434,7 @@
 		},
 		{
 			"key": "pl-en/alphabet/g",
-			"seen": "{\"contrast\":\"This is Polish g.\"}",
+			"seen": "{\"contrast\":\"This is Polish g. Note that in related words Polish g usually matches г, as in góra and гора.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1155,8 +2540,23 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-en/final-voiced/dub",
+			"seen": "{\"contrast\":\"Polish dąb ends voiceless, [dɔmp]; Ukrainian дуб ends voiced.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/i-or-y/lis",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"lis\",\"means\":\"is the animal, in Ukrainian лис; ліс means forest\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-en/kimnata/voc.sg",
 			"seen": "{\"contrast\":\"A vocative as in Polish: a living case. Polish komnata is a hall or chamber in a palace or castle; the ordinary word for a room is pokój.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/concept/free-stress",
+			"seen": "{\"title\":\"Akcent swobodny i ruchomy\",\"body\":\"To największa zmiana po polskim, gdzie akcent pada zwykle na przedostatnią sylabę. Po ukraińsku może paść na dowolną, rozróżniać słowa, jak доро́га i дорога́, i przesuwać się w formach jednego słowa: роби́ти, роблю́, ро́биш. Nie da się go odgadnąć: trzeba się go uczyć z każdym słowem.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -1166,7 +2566,7 @@
 		},
 		{
 			"key": "pl-pl/alphabet/g",
-			"seen": "{\"contrast\":\"To polskie g.\"}",
+			"seen": "{\"contrast\":\"To polskie g. Uwaga: w słowach pokrewnych polskiemu g zwykle odpowiada г, jak w góra i гора.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1272,8 +2672,23 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-pl/final-voiced/dub",
+			"seen": "{\"contrast\":\"Polskie dąb kończy się bezdźwięcznie, [dɔmp]; ukraińskie дуб kończy się dźwięcznie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/i-or-y/lis",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"lis\",\"means\":\"to zwierzę, po ukraińsku лис; ліс znaczy las\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-pl/kimnata/voc.sg",
 			"seen": "{\"contrast\":\"Wołacz jak w polskim: żywy przypadek. Polskie komnata to sala w pałacu lub zamku; zwykłe pomieszczenie to pokój.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/concept/free-stress",
+			"seen": "{\"title\":\"Вільний, рухомий наголос\",\"body\":\"Це найбільша зміна порівняно з польською, де наголос зазвичай падає на передостанній склад. В українській він може падати на будь-який склад, розрізняти слова, як доро́га й дорога́, і пересуватися у формах одного слова: роби́ти, роблю́, ро́биш. Вгадати його не можна, тому його вчать із кожним словом.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -1283,7 +2698,7 @@
 		},
 		{
 			"key": "pl-uk/alphabet/g",
-			"seen": "{\"contrast\":\"Це польське g.\"}",
+			"seen": "{\"contrast\":\"Це польське g. Зауважте: у споріднених словах польському g зазвичай відповідає г, як у góra й гора.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1388,6 +2803,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-uk/final-voiced/dub",
+			"seen": "{\"contrast\":\"Польське dąb закінчується глухо, [dɔmp]; українське дуб закінчується дзвінко.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/i-or-y/lis",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"lis\",\"means\":\"означає тварину, українською лис; ліс — це багато дерев\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-uk/kimnata/voc.sg",
 			"seen": "{\"contrast\":\"Кличний, як у польській: живий відмінок. Польське komnata — це зала в палаці чи замку; звичайна кімната — це pokój.\"}",
 			"verdict": "ok"
@@ -1405,6 +2830,16 @@
 		{
 			"key": "ru/lesson/l14",
 			"seen": "\"Урок 14: Мой дом\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l02",
+			"seen": "\"Урок 2: Произношение гласных\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l03",
+			"seen": "\"Урок 3: Произношение согласных\"",
 			"verdict": "ok"
 		},
 		{
@@ -1430,6 +2865,37 @@
 		{
 			"key": "ru/concept/shared-forms",
 			"seen": "{\"title\":\"Одна форма, несколько ячеек\",\"body\":\"Падежные окончания совпадают, поэтому одна форма может стоять в нескольких ячейках: кімнати — это родительный падеж единственного числа и именительный, винительный и звательный множественного, а кімнаті — и дательный, и местный единственного. В этой таблице такая карточка подходит к любой из своих ячеек.\",\"sources\":[{\"title\":\"кімната (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/кімната\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/soft-hard",
+			"seen": "{\"title\":\"Мягкие, полумягкие и твёрдые\",\"body\":\"Настоящее противопоставление простых и палатализованных фонем есть только у зубных и альвеолярных /t d n s z t͡s d͡z r l/, как в лад и ладь, рис и рись. Остальные согласные становятся полумягкими лишь как вариант перед /i/ и /j/. Простые согласные веляризованы, поэтому л обычно твёрдый [ɫ]. Перед е и и согласный остаётся твёрдым.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Feldstein, An Approach to Ukrainian Reading for Russian Students\",\"url\":\"https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/final-voicing",
+			"seen": "{\"title\":\"Нет оглушения на конце\",\"body\":\"В отличие от русского и большинства других современных славянских языков, украинский сохраняет звонкий согласный в конце слова: віз оканчивается на [z], а ваз отличается от вас. Уподобление идёт в основном в одну сторону: глухой становится звонким перед звонким, как в о́тже [ˈɔd͡ʒɛ], но звонкий не оглушается перед глухим. Исключение — г, который перед к и т становится [x], как в легки́й и ні́гті. В быстрой речи конечный звонкий может частично оглушаться.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Feldstein, An Approach to Ukrainian Reading for Russian Students\",\"url\":\"https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/free-stress",
+			"seen": "{\"title\":\"Свободное, подвижное ударение\",\"body\":\"Ударение может падать на любой слог, различать слова, как доро́га и дорога́, и перемещаться в формах одного слова: роби́ти, роблю́, ро́биш. На письме оно обычно не обозначается, поэтому его учат с каждым словом.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/apostrophe",
+			"seen": "{\"title\":\"Апостроф\",\"body\":\"Стоит перед я, ю, є, ї, в основном после б, п, в, м, ф, р и после приставки на согласный, когда согласный остаётся твёрдым, а [j] произносится: м'яч, п'ю, подвір'я, в'їзд. В русском эту роль играет ъ или ь. Без апострофа я, ю, є смягчают согласный: ряд, люк.\",\"sources\":[{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"},{\"title\":\"Ukrainian alphabet (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_alphabet\"}]}",
+			"verdict": "ok",
+			"comment": "ъ, ь is true (въезд, пью), and the reordering fixes what 'эту роль' refers to. м'яч, the first example, has neither in Russian (мяч); not false as worded."
+		},
+		{
+			"key": "ru/concept/one-sound-two-letters",
+			"seen": "{\"title\":\"Две буквы, один звук\",\"body\":\"дж и дз пишутся двумя буквами, но это единые аффрикаты, /d͡ʒ/ и /d͡z/: джерело, дзвін. Отдельных букв для них в алфавите нет.\",\"sources\":[{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"},{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/iotated",
+			"seen": "{\"title\":\"я, ю, є, ї\",\"body\":\"В начале слова и после гласного каждая из них — это [j] и гласный: я́блуко, моя́. После согласного я, ю, є смягчают его: ряд, люк. ї всегда обозначает два звука.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -1603,6 +3069,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/consonant-chart",
+			"seen": "{\"title\":\"Таблица согласных\",\"summary\":\"Твёрдые согласные по способу и месту образования, в виде таблицы МФА. В ячейке звук; найдите его букву или буквы.\",\"headers\":{\"plosive-vl\":\"Взрывной, глухой\",\"plosive-vd\":\"Взрывной, звонкий\",\"nasal\":\"Носовой\",\"fricative-vl\":\"Щелевой, глухой\",\"fricative-vd\":\"Щелевой, звонкий\",\"affricate-vl\":\"Аффриката, глухая\",\"affricate-vd\":\"Аффриката, звонкая\",\"trill\":\"Дрожащий\",\"approximant\":\"Аппроксимант\",\"lateral\":\"Боковой\",\"labial\":\"Губ­ной\",\"post\":\"Пост­аль­ве­о­ляр­ный\",\"palatal\":\"Нёб­ный\",\"velar\":\"Зад­не­языч­ный\",\"glottal\":\"Гор­тан­ный\",\"denti-alveolar\":\"Зуб­ной/​аль­ве­о­ляр­ный\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/family",
 			"seen": "{\"title\":\"Люди и семья\",\"summary\":\"24 повседневных слова о людях. На каждой плитке указано значение; найдите слово.\"}",
 			"verdict": "ok"
@@ -1728,8 +3199,321 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/final-voiced",
+			"seen": "{\"title\":\"Звонкие до конца\",\"summary\":\"Слова, сохраняющие звонкий согласный в конце. На плитке слово в МФА; найдите, как оно пишется.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/final-voiced/dub",
+			"seen": "{\"note\":\"дуб\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/final-voiced/sad",
+			"seen": "{\"note\":\"сад\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/final-voiced/did",
+			"seen": "{\"note\":\"дед\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/final-voiced/nizh",
+			"seen": "{\"note\":\"нож\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/final-voiced/khlib",
+			"seen": "{\"note\":\"хлеб\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/final-voiced/med",
+			"seen": "{\"note\":\"мёд\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/final-voiced/harazh",
+			"seen": "{\"note\":\"гараж\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/final-voiced/viz",
+			"seen": "{\"note\":\"воз\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g",
+			"seen": "{\"title\":\"г или ґ\",\"summary\":\"Слова с пропущенной буквой. На плитке слово с пропуском; найдите г или ґ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/hora",
+			"seen": "{\"exampleGloss\":\"гора\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/holova",
+			"seen": "{\"exampleGloss\":\"голова\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/bahato",
+			"seen": "{\"exampleGloss\":\"много\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/noha",
+			"seen": "{\"exampleGloss\":\"нога\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/harnyi",
+			"seen": "{\"exampleGloss\":\"красивый\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/lehkyi",
+			"seen": "{\"exampleGloss\":\"лёгкий\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/hanok",
+			"seen": "{\"exampleGloss\":\"крыльцо\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/gudzyk",
+			"seen": "{\"exampleGloss\":\"пуговица\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/agrus",
+			"seen": "{\"exampleGloss\":\"крыжовник\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/grunt",
+			"seen": "{\"exampleGloss\":\"почва\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/gedz",
+			"seen": "{\"exampleGloss\":\"овод\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/h-or-g/gava",
+			"seen": "{\"exampleGloss\":\"ворона\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/hard-labials",
+			"seen": "{\"title\":\"Твёрдые губные\",\"summary\":\"Где в русском на конце мягкий губной, в украинском твёрдый и мягкого знака нет. На плитке русское слово; найдите украинское.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/hard-labials/lyubov",
+			"seen": "{\"note\":\"любовь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/hard-labials/step",
+			"seen": "{\"note\":\"степь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/hard-labials/holub",
+			"seen": "{\"note\":\"голубь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/hard-labials/krov",
+			"seen": "{\"note\":\"кровь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/hard-labials/sim",
+			"seen": "{\"note\":\"семь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/i-or-y",
+			"seen": "{\"title\":\"і или и\",\"summary\":\"Пары слов, которые различает только этот гласный. На плитке значение; найдите слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/i-or-y/dim",
+			"seen": "{\"clue\":\"дом\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/i-or-y/dym",
+			"seen": "{\"clue\":\"дым\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/i-or-y/lis",
+			"seen": "{\"clue\":\"лес\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/i-or-y/lys",
+			"seen": "{\"clue\":\"лис\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/i-or-y/kit",
+			"seen": "{\"clue\":\"кот\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/i-or-y/kyt",
+			"seen": "{\"clue\":\"кит\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/i-or-y/bik",
+			"seen": "{\"clue\":\"бок\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/i-or-y/byk",
+			"seen": "{\"clue\":\"бык\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/kimnata",
 			"seen": "{\"title\":\"Падежи: кімната (комната)\",\"summary\":\"Одно регулярное существительное во всех 7 падежах, в единственном и множественном числе. Некоторые формы стоят в нескольких ячейках.\",\"headers\":{\"nom\":\"Именительный\",\"gen\":\"Родительный\",\"dat\":\"Дательный\",\"acc\":\"Винительный\",\"ins\":\"Творительный\",\"loc\":\"Местный\",\"voc\":\"Звательный\",\"sg\":\"Единственное\",\"pl\":\"Множественное\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/letter-names",
+			"seen": "{\"title\":\"Названия букв\",\"summary\":\"Как называется каждая буква, когда слово произносят по буквам. На плитке буква; найдите её название.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/pl-letters",
+			"seen": "{\"title\":\"От польского написания\",\"summary\":\"Чтение кириллицы, исходя из польского. На плитке ближайшее польское написание; найдите украинскую букву.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/ru-letters",
+			"seen": "{\"title\":\"От русских букв\",\"summary\":\"Буквы, в которых ошибается читающий по-русски. На плитке русская буква; найдите украинскую букву, ближайшую к её звуку. Апостроф выполняет роль ъ и собственного звука не имеет.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/ru-letters/hard",
+			"seen": "{\"exampleGloss\":\"объект\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/stress-pairs",
+			"seen": "{\"title\":\"Куда падает ударение\",\"summary\":\"Одни и те же буквы, разные слова: ударение здесь показано, и оно и есть ответ. На плитке значение; найдите слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/stress-pairs/castle",
+			"seen": "{\"clue\":\"за́мок\"}",
+			"verdict": "ok",
+			"comment": "Clue is identical to the answer, as also for lock, since Russian has the same pair. Correct, but it tests copying rather than memory."
+		},
+		{
+			"key": "ru/stress-pairs/lock",
+			"seen": "{\"clue\":\"замо́к\"}",
+			"verdict": "ok",
+			"comment": "Clue is identical to the answer, as also for castle, since Russian has the same pair. Correct, but it tests copying rather than memory."
+		},
+		{
+			"key": "ru/stress-pairs/road",
+			"seen": "{\"clue\":\"дорога\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/stress-pairs/dear",
+			"seen": "{\"clue\":\"дорогая\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/stress-pairs/chickens",
+			"seen": "{\"clue\":\"куры\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/stress-pairs/smoke",
+			"seen": "{\"clue\":\"кури!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/stress-pairs/atlas",
+			"seen": "{\"clue\":\"книга с картами\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/stress-pairs/satin",
+			"seen": "{\"clue\":\"блестящая ткань\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/unstressed-o",
+			"seen": "{\"title\":\"о остаётся о\",\"summary\":\"Слова, в которых о без ударения не меняется. На плитке слово в МФА; найдите, как оно пишется.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/unstressed-o/moloko",
+			"seen": "{\"note\":\"молоко\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/unstressed-o/voda",
+			"seen": "{\"note\":\"вода\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/unstressed-o/holova",
+			"seen": "{\"note\":\"голова\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/unstressed-o/sova",
+			"seen": "{\"note\":\"сова\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/unstressed-o/korova",
+			"seen": "{\"note\":\"корова\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/unstressed-o/robota",
+			"seen": "{\"note\":\"работа\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/unstressed-o/boroda",
+			"seen": "{\"note\":\"борода\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/unstressed-o/doroha",
+			"seen": "{\"note\":\"дорога\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/vowel-chart",
+			"seen": "{\"title\":\"Шесть гласных\",\"summary\":\"Гласные фонемы по положению языка, в виде таблицы МФА. В ячейке звук; найдите его букву.\",\"headers\":{\"close\":\"Верхний\",\"near\":\"Средне-верхний\",\"mid\":\"Средне-нижний\",\"open\":\"Нижний\",\"front\":\"Передний\",\"back\":\"Задний\"}}",
+			"verdict": "ok",
+			"comment": "Средне-верхний is ru.wikipedia's close-mid row, while en and pl say near-close for the same cell, so the layers differ by one row. Both are defensible: JIPA 2017 p.353 writes ɪ but says the vowel is lowered, and en.wikipedia Ukrainian phonology calls it retracted close-mid."
+		},
+		{
+			"key": "ru/vowel-chart/a",
+			"seen": "{\"note\":\"Записывается /a/, как в иллюстрации МФА. Украинские описания относят его к заднему ряду, а Вакуленко (2025) записывает ударный гласный как [ɑ].\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/concept/o-unreduced",
+			"seen": "{\"title\":\"о without stress\",\"body\":\"Russian reduces unstressed о towards a: [vɐˈda]. Ukrainian doesn't, and this is the most audible mistake when coming from Russian: say вода́, never вада́. Only before a stressed /u/ does о shift slightly towards [o]. Vakulenko 2025 describes the vowel as close-mid [o] rather than /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -1805,10 +3589,30 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-en/final-voiced/dub",
+			"seen": "{\"contrast\":\"Not [dup], as in Russian: the final [b] stays voiced.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/h-or-g/hora",
+			"seen": "{\"contrast\":\"The usual correspondence: Russian г usually matches Ukrainian г, not ґ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/i-or-y/kit",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"кит\",\"means\":\"means whale in both languages; кіт means cat\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-en/kimnata/voc.sg",
 			"seen": "{\"contrast\":\"Russian has no vocative: it addresses people in the nominative. In Ukrainian the vocative is alive.\"}",
 			"verdict": "ok",
 			"comment": "True of the case system. Russian keeps fossils (Боже, Господи) and a colloquial neo-vocative (Лен!) (Wikipedia, Vocative case); a flat \"no vocative\" is acceptable at this level."
+		},
+		{
+			"key": "ru-ru/concept/o-unreduced",
+			"seen": "{\"title\":\"о без ударения\",\"body\":\"В русском безударное о сводится к а: [vɐˈda]. В украинском этого нет, и это самая заметная ошибка при переходе с русского: говорите вода́, а не вада́. Лишь перед ударным /u/ о немного смещается к [o]. Вакуленко (2025) описывает этот гласный как [o], а не /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "ru-ru/alphabet/h",
@@ -1883,19 +3687,40 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-ru/final-voiced/dub",
+			"seen": "{\"contrast\":\"Не [dup], как в русском: конечный [b] остаётся звонким.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/h-or-g/hora",
+			"seen": "{\"contrast\":\"Самое частое соответствие: русскому г обычно отвечает украинское г, а не ґ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/i-or-y/kit",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"кит\",\"means\":\"значит «кит» в обоих языках; кіт значит «кот»\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-ru/kimnata/voc.sg",
 			"seen": "{\"contrast\":\"В русском звательного падежа нет: обращаясь, используют именительный. В украинском он живой.\"}",
 			"verdict": "ok",
 			"comment": "True of the case system. Russian keeps fossils (Боже, Господи) and a colloquial neo-vocative (Лен!) (Wikipedia, Vocative case); a flat \"no vocative\" is acceptable at this level."
 		},
 		{
-			"key": "ru-uk/alphabet/h",
-			"seen": "{\"contrast\":\"Не російське г: дзвінкий щілинний, а не вибуховий. Схожий [ɣ] є в російській лише в окремих словах, наприклад ага, бухгалтер.\"}",
+			"key": "ru-uk/concept/o-unreduced",
+			"seen": "{\"title\":\"о без наголосу\",\"body\":\"У російській ненаголошене о наближається до а: [vɐˈda]. В українській цього немає, і це найпомітніша помилка тих, хто переходить із російської: кажіть вода́, а не вада́. Лише перед наголошеним /u/ о трохи зміщується до [o]. Вакуленко (2025) описує цей голосний як напівзакритий [o], а не /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-uk/alphabet/h",
+			"seen": "{\"contrast\":\"Не російське г: дзвінкий щілинний, а не проривний. Схожий [ɣ] є в російській лише в окремих словах, наприклад ага, бухгалтер.\"}",
+			"verdict": "ok",
+			"comment": "en.wikipedia Russian phonology lists ага́, ого́, угу́ and бухгалтер with [ɣ]. en.wiktionary gives [ɡ] as бухгалтер's standard form and [ɣ] as acceptable, so the example is true but not the only pronunciation."
+		},
+		{
 			"key": "ru-uk/alphabet/g",
-			"seen": "{\"contrast\":\"Як російське г: вибуховий. Слів із цією літерою небагато.\"}",
+			"seen": "{\"contrast\":\"Як російське г: проривний. Слів із цією літерою небагато.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1960,6 +3785,21 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-uk/final-voiced/dub",
+			"seen": "{\"contrast\":\"Не [dup], як у російській: кінцевий [b] залишається дзвінким.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/h-or-g/hora",
+			"seen": "{\"contrast\":\"Найчастіша відповідність: російському г зазвичай відповідає українське г, а не ґ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/i-or-y/kit",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"кит\",\"means\":\"означає морську тварину в обох мовах; кіт — це домашній звір\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-uk/kimnata/voc.sg",
 			"seen": "{\"contrast\":\"У російській кличного відмінка немає: звертаються називним. В українській він живий.\"}",
 			"verdict": "ok",
@@ -1981,9 +3821,20 @@
 			"verdict": "ok"
 		},
 		{
-			"key": "uk/concept/h-sound",
-			"seen": "{\"title\":\"Звук г\",\"body\":\"Дзвінкий щілинний приголосний, пара до глухого х. Фонетисти описують його по-різному: /ɦ/, гортанний, в опублікованій ілюстрації МФА (Pompino-Marschall et al. 2017); [ʕ] перед а, о, у, и, е, [ɣʲ] у м'якій позиції та [ɣ] перед дзвінкими приголосними й у кінці слова у Вакуленка (2025), який не знаходить переконливих підтверджень гортанного [ɦ]. Вибуховий /ɡ/ позначає окрема літера ґ.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"key": "uk/lesson/l02",
+			"seen": "\"Урок 2: Вимова голосних\"",
 			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l03",
+			"seen": "\"Урок 3: Вимова приголосних\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/h-sound",
+			"seen": "{\"title\":\"Звук г\",\"body\":\"Дзвінкий щілинний приголосний, пара до глухого х. Фонетисти описують його по-різному: /ɦ/, гортанний, в опублікованій ілюстрації МФА (Pompino-Marschall et al. 2017); [ʕ] перед а, о, у, и, е, [ɣʲ] у м'якій позиції та [ɣ] перед дзвінкими приголосними й у кінці слова у Вакуленка (2025), який не знаходить переконливих підтверджень гортанного [ɦ]. Проривний /ɡ/ позначає окрема літера ґ.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
+			"verdict": "ok",
+			"comment": "Each attribution checked against the extract: Vakulenko 2025 Table 2 and p.18 for [ʕ], [ɣʲ], [ɣ] and the lack of evidence for [ɦ]; JIPA 2017 p.352 for /ɦ/."
 		},
 		{
 			"key": "uk/concept/v-allophones",
@@ -2003,6 +3854,36 @@
 		{
 			"key": "uk/concept/shared-forms",
 			"seen": "{\"title\":\"Одна форма, кілька клітинок\",\"body\":\"Відмінкові закінчення збігаються, тому одна форма може стояти в кількох клітинках: кімнати — це родовий відмінок однини та називний, знахідний і кличний множини, а кімнаті — і давальний, і місцевий однини. У цій таблиці така картка підходить до будь-якої зі своїх клітинок.\",\"sources\":[{\"title\":\"кімната (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/кімната\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/soft-hard",
+			"seen": "{\"title\":\"М'які, напівм'які й тверді\",\"body\":\"Справжнє протиставлення простих і палаталізованих фонем є лише в зубних і ясенних /t d n s z t͡s d͡z r l/, як у лад і ладь, рис і рись. Решта приголосних стають напівм'якими лише як варіант перед /i/ та /j/. Прості приголосні веляризовані, тому л зазвичай твердий [ɫ]. Перед е та и приголосний залишається твердим.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Feldstein, An Approach to Ukrainian Reading for Russian Students\",\"url\":\"https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/final-voicing",
+			"seen": "{\"title\":\"Немає оглушення в кінці\",\"body\":\"На відміну від російської та більшості інших сучасних слов'янських мов, українська зберігає дзвінкий приголосний у кінці слова: віз закінчується на [z], а ваз відрізняється від вас. Уподібнення діє переважно в один бік: глухий стає дзвінким перед дзвінким, як в о́тже [ˈɔd͡ʒɛ], але дзвінкий не оглушується перед глухим. Виняток — г, який перед к і т стає [x], як у легки́й і ні́гті. У швидкому мовленні кінцевий дзвінкий може частково оглушуватися.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Feldstein, An Approach to Ukrainian Reading for Russian Students\",\"url\":\"https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/documents/An%20approach%20to%20Ukrainian%20reading%20for%20Russian%20Students%20with%20intro.pdf\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/free-stress",
+			"seen": "{\"title\":\"Вільний, рухомий наголос\",\"body\":\"Наголос може падати на будь-який склад, розрізняти слова, як доро́га й дорога́, і пересуватися у формах одного слова: роби́ти, роблю́, ро́биш. На письмі його зазвичай не позначають, тому його вчать із кожним словом.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/apostrophe",
+			"seen": "{\"title\":\"Апостроф\",\"body\":\"Стоїть перед я, ю, є, ї, переважно після б, п, в, м, ф, р і після префікса на приголосний, коли приголосний залишається твердим, а [j] вимовляється: м'яч, п'ю, подвір'я, в'їзд. Без нього я, ю, є пом'якшують приголосний: ряд, люк.\",\"sources\":[{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"},{\"title\":\"Ukrainian alphabet (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_alphabet\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/one-sound-two-letters",
+			"seen": "{\"title\":\"Дві літери, один звук\",\"body\":\"дж і дз пишуться двома літерами, але це цілісні африкати, /d͡ʒ/ і /d͡z/: джерело, дзвін. Окремих літер в алфавіті вони не мають.\",\"sources\":[{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"},{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/iotated",
+			"seen": "{\"title\":\"я, ю, є, ї\",\"body\":\"На початку слова й після голосного кожна з них — це [j] і голосний: я́блуко, моя́. Після приголосного я, ю, є пом'якшують його: ряд, люк. ї завжди позначає два звуки.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Є-мова, Українська за 27 уроків (enrolment needed)\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -2027,7 +3908,7 @@
 		},
 		{
 			"key": "uk/alphabet/h",
-			"seen": "{\"exampleGloss\":\"верхня частина тіла\"}",
+			"seen": "{\"exampleGloss\":\"частина тіла з обличчям і мозком\"}",
 			"verdict": "ok"
 		},
 		{
@@ -2176,6 +4057,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/consonant-chart",
+			"seen": "{\"title\":\"Таблиця приголосних\",\"summary\":\"Тверді приголосні за способом і місцем творення, у вигляді таблиці МФА. У клітинці звук; знайдіть його літеру чи літери.\",\"headers\":{\"plosive-vl\":\"Проривний, глухий\",\"plosive-vd\":\"Проривний, дзвінкий\",\"nasal\":\"Носовий\",\"fricative-vl\":\"Щілинний, глухий\",\"fricative-vd\":\"Щілинний, дзвінкий\",\"affricate-vl\":\"Африката, глуха\",\"affricate-vd\":\"Африката, дзвінка\",\"trill\":\"Дрижачий\",\"approximant\":\"Апроксимант\",\"lateral\":\"Боковий\",\"labial\":\"Губ­ний\",\"post\":\"За­ясен­ний\",\"palatal\":\"Під­не­бін­ний\",\"velar\":\"Зад­ньо­язи­ко­вий\",\"glottal\":\"Гор­тан­ний\",\"denti-alveolar\":\"Зуб­ний/​ясен­ний\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/family",
 			"seen": "{\"title\":\"Люди й родина\",\"summary\":\"24 повсякденні слова про людей. На кожній плитці вказано значення; знайдіть слово.\"}",
 			"verdict": "ok"
@@ -2301,8 +4187,315 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/final-voiced",
+			"seen": "{\"title\":\"Дзвінкі до кінця\",\"summary\":\"Слова, що зберігають дзвінкий приголосний у кінці. На плитці слово в МФА; знайдіть, як воно пишеться.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/final-voiced/dub",
+			"seen": "{\"note\":\"велике дерево з жолудями\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/final-voiced/sad",
+			"seen": "{\"note\":\"місце, де ростуть плодові дерева\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/final-voiced/did",
+			"seen": "{\"note\":\"батько батька чи матері\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/final-voiced/nizh",
+			"seen": "{\"note\":\"те, чим ріжуть\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/final-voiced/khlib",
+			"seen": "{\"note\":\"печений виріб із борошна\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/final-voiced/med",
+			"seen": "{\"note\":\"те, що роблять бджоли\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/final-voiced/harazh",
+			"seen": "{\"note\":\"місце для автомобіля\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/final-voiced/viz",
+			"seen": "{\"note\":\"те, що тягне кінь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g",
+			"seen": "{\"title\":\"г чи ґ\",\"summary\":\"Слова з пропущеною літерою. На плитці слово з пропуском; знайдіть г чи ґ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/hora",
+			"seen": "{\"exampleGloss\":\"велике природне підвищення над рівниною\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/holova",
+			"seen": "{\"exampleGloss\":\"частина тіла з обличчям і мозком\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/bahato",
+			"seen": "{\"exampleGloss\":\"у великій кількості\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/noha",
+			"seen": "{\"exampleGloss\":\"частина тіла, на якій ходять\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/harnyi",
+			"seen": "{\"exampleGloss\":\"приємний на вигляд\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/lehkyi",
+			"seen": "{\"exampleGloss\":\"невеликої ваги\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/hanok",
+			"seen": "{\"exampleGloss\":\"прибудова перед входом до будинку\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/gudzyk",
+			"seen": "{\"exampleGloss\":\"те, чим застібають одяг\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/agrus",
+			"seen": "{\"exampleGloss\":\"колючий кущ із кислими ягодами\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/grunt",
+			"seen": "{\"exampleGloss\":\"верхній шар землі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/gedz",
+			"seen": "{\"exampleGloss\":\"комаха, що кусає худобу\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/h-or-g/gava",
+			"seen": "{\"exampleGloss\":\"чорно-сірий птах\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/hard-labials",
+			"seen": "{\"title\":\"Тверді губні\",\"summary\":\"Де в російській у кінці м'який губний, в українській твердий і м'якого знака немає. На плитці російське слово; знайдіть українське.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/hard-labials/lyubov",
+			"seen": "{\"note\":\"почуття глибокої прихильності\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/hard-labials/step",
+			"seen": "{\"note\":\"рівнина без лісу\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/hard-labials/holub",
+			"seen": "{\"note\":\"міський сірий птах\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/hard-labials/krov",
+			"seen": "{\"note\":\"червона рідина в тілі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/hard-labials/sim",
+			"seen": "{\"note\":\"число після шести\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/i-or-y",
+			"seen": "{\"title\":\"і чи и\",\"summary\":\"Пари слів, які розрізняє лише цей голосний. На плитці значення; знайдіть слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/i-or-y/dim",
+			"seen": "{\"clue\":\"будинок, де живуть\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/i-or-y/dym",
+			"seen": "{\"clue\":\"те, що йде від вогню\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/i-or-y/lis",
+			"seen": "{\"clue\":\"багато дерев разом\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/i-or-y/lys",
+			"seen": "{\"clue\":\"рудий хижий звір\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/i-or-y/kit",
+			"seen": "{\"clue\":\"домашній звір, що ловить мишей\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/i-or-y/kyt",
+			"seen": "{\"clue\":\"найбільша морська тварина\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/i-or-y/bik",
+			"seen": "{\"clue\":\"права чи ліва частина\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/i-or-y/byk",
+			"seen": "{\"clue\":\"самець корови\"}",
+			"verdict": "ok",
+			"comment": "'самець корови' is odd logically, since корова is itself the female, though plain and unambiguous as a clue. Native review welcome. Goroh has it as a large domestic ruminant."
+		},
+		{
 			"key": "uk/kimnata",
 			"seen": "{\"title\":\"Відмінки: кімната\",\"summary\":\"Один регулярний іменник у всіх 7 відмінках, в однині та множині. Деякі форми стоять у кількох клітинках.\",\"headers\":{\"nom\":\"Називний\",\"gen\":\"Родовий\",\"dat\":\"Давальний\",\"acc\":\"Знахідний\",\"ins\":\"Орудний\",\"loc\":\"Місцевий\",\"voc\":\"Кличний\",\"sg\":\"Однина\",\"pl\":\"Множина\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/letter-names",
+			"seen": "{\"title\":\"Назви літер\",\"summary\":\"Як називається кожна літера, коли слово читають за літерами. На плитці літера; знайдіть її назву.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/pl-letters",
+			"seen": "{\"title\":\"Від польського написання\",\"summary\":\"Читання кирилиці, виходячи з польської. На плитці найближче польське написання; знайдіть українську літеру.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/ru-letters",
+			"seen": "{\"title\":\"Від російських літер\",\"summary\":\"Літери, у яких помиляється той, хто читає російською. На плитці російська літера; знайдіть українську літеру, найближчу до її звука. Апостроф виконує роль ъ і власного звука не має.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/ru-letters/hard",
+			"seen": "{\"exampleGloss\":\"те, на що спрямована дія\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/stress-pairs",
+			"seen": "{\"title\":\"Куди падає наголос\",\"summary\":\"Ті самі літери, різні слова: наголос тут позначено, і саме він є відповіддю. На плитці значення; знайдіть слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/stress-pairs/castle",
+			"seen": "{\"clue\":\"велика укріплена споруда\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/stress-pairs/lock",
+			"seen": "{\"clue\":\"пристрій, що замикає двері\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/stress-pairs/road",
+			"seen": "{\"clue\":\"шлях\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/stress-pairs/dear",
+			"seen": "{\"clue\":\"що багато коштує\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/stress-pairs/chickens",
+			"seen": "{\"clue\":\"домашні птахи\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/stress-pairs/smoke",
+			"seen": "{\"clue\":\"наказ палити тютюн\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/stress-pairs/atlas",
+			"seen": "{\"clue\":\"книга з мапами\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/stress-pairs/satin",
+			"seen": "{\"clue\":\"блискуча тканина\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/unstressed-o",
+			"seen": "{\"title\":\"о залишається о\",\"summary\":\"Слова, у яких о без наголосу не змінюється. На плитці слово в МФА; знайдіть, як воно пишеться.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/unstressed-o/moloko",
+			"seen": "{\"note\":\"білий напій\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/unstressed-o/voda",
+			"seen": "{\"note\":\"рідина, яку п'ють\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/unstressed-o/holova",
+			"seen": "{\"note\":\"частина тіла з обличчям і мозком\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/unstressed-o/sova",
+			"seen": "{\"note\":\"нічний птах\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/unstressed-o/korova",
+			"seen": "{\"note\":\"тварина, що дає молоко\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/unstressed-o/robota",
+			"seen": "{\"note\":\"те, за що платять\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/unstressed-o/boroda",
+			"seen": "{\"note\":\"волосся на підборідді\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/unstressed-o/doroha",
+			"seen": "{\"note\":\"шлях\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/vowel-chart",
+			"seen": "{\"title\":\"Шість голосних\",\"summary\":\"Голосні фонеми за положенням язика, у вигляді таблиці МФА. У клітинці звук; знайдіть його літеру.\",\"headers\":{\"close\":\"Високий\",\"near\":\"Високо-середній\",\"mid\":\"Низько-середній\",\"open\":\"Низький\",\"front\":\"Передній\",\"back\":\"Задній\"}}",
+			"verdict": "ok",
+			"comment": "Високо-середній is the teaching term for и (teaching source found by search), and uk.wikipedia's close-mid row; en and pl say near-close, a difference of one row as in ru. ЕСУ has и high and е, о середній, so sources differ. Accepted."
+		},
+		{
+			"key": "uk/vowel-chart/a",
+			"seen": "{\"note\":\"Записується /a/, як в ілюстрації МФА. Українські описи відносять його до заднього ряду, а Вакуленко (2025) записує наголошений голосний як [ɑ].\"}",
 			"verdict": "ok"
 		}
 	]

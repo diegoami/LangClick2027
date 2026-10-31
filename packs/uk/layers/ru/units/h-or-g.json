@@ -1,0 +1,42 @@
+{
+	"title": "г или ґ",
+	"summary": "Слова с пропущенной буквой. На плитке слово с пропуском; найдите г или ґ.",
+	"cells": {
+		"hora": {
+			"exampleGloss": "гора"
+		},
+		"holova": {
+			"exampleGloss": "голова"
+		},
+		"bahato": {
+			"exampleGloss": "много"
+		},
+		"noha": {
+			"exampleGloss": "нога"
+		},
+		"harnyi": {
+			"exampleGloss": "красивый"
+		},
+		"lehkyi": {
+			"exampleGloss": "лёгкий"
+		},
+		"hanok": {
+			"exampleGloss": "крыльцо"
+		},
+		"gudzyk": {
+			"exampleGloss": "пуговица"
+		},
+		"agrus": {
+			"exampleGloss": "крыжовник"
+		},
+		"grunt": {
+			"exampleGloss": "почва"
+		},
+		"gedz": {
+			"exampleGloss": "овод"
+		},
+		"gava": {
+			"exampleGloss": "ворона"
+		}
+	}
+}

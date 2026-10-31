@@ -1,0 +1,30 @@
+{
+	"title": "і or и",
+	"summary": "Pairs that only this vowel tells apart. Each tile gives the meaning; find the word.",
+	"cells": {
+		"dim": {
+			"clue": "house"
+		},
+		"dym": {
+			"clue": "smoke"
+		},
+		"lis": {
+			"clue": "forest"
+		},
+		"lys": {
+			"clue": "fox"
+		},
+		"kit": {
+			"clue": "cat"
+		},
+		"kyt": {
+			"clue": "whale"
+		},
+		"bik": {
+			"clue": "side"
+		},
+		"byk": {
+			"clue": "bull"
+		}
+	}
+}

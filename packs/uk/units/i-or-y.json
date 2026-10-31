@@ -1,0 +1,75 @@
+{
+	"id": "i-or-y",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100316000372"
+		},
+		{
+			"title": "Є-мова, Українська за 27 уроків (enrolment needed)",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+		}
+	],
+	"cells": [
+		{
+			"id": "dim",
+			"item": "pair:dim",
+			"text": "дім",
+			"ipa": "/dʲim/",
+			"concepts": ["y-vowel", "soft-hard"]
+		},
+		{
+			"id": "dym",
+			"item": "pair:dym",
+			"text": "дим",
+			"ipa": "/dɪm/",
+			"concepts": ["y-vowel", "soft-hard"]
+		},
+		{
+			"id": "lis",
+			"item": "pair:lis",
+			"text": "ліс",
+			"ipa": "/lʲis/",
+			"concepts": ["y-vowel", "soft-hard"]
+		},
+		{
+			"id": "lys",
+			"item": "pair:lys",
+			"text": "лис",
+			"ipa": "/lɪs/",
+			"concepts": ["y-vowel", "soft-hard"]
+		},
+		{
+			"id": "kit",
+			"item": "pair:kit",
+			"text": "кіт",
+			"ipa": "/kit/",
+			"concepts": ["y-vowel", "soft-hard"]
+		},
+		{
+			"id": "kyt",
+			"item": "pair:kyt",
+			"text": "кит",
+			"ipa": "/kɪt/",
+			"concepts": ["y-vowel", "soft-hard"]
+		},
+		{
+			"id": "bik",
+			"item": "pair:bik",
+			"text": "бік",
+			"ipa": "/bik/",
+			"concepts": ["y-vowel", "soft-hard"]
+		},
+		{
+			"id": "byk",
+			"item": "pair:byk",
+			"text": "бик",
+			"ipa": "/bɪk/",
+			"concepts": ["y-vowel", "soft-hard"]
+		}
+	]
+}
