@@ -1,0 +1,11 @@
+{
+	"id": "uk",
+	"name": "Ukrainian",
+	"language": "uk",
+	"scripts": ["Cyrl"],
+	"glossLanguage": "en",
+	"licence": "CC-BY-SA-4.0",
+	"units": ["alphabet", "kimnata", "family"],
+	"forbiddenLetters": "ёъыэ",
+	"displayMarks": "́"
+}

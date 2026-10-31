@@ -1,0 +1,69 @@
+# Langclick — Decisions
+
+The *why* behind product and design choices. When a later decision supersedes an
+earlier one, amend the entry.
+
+## A board plays the part of the map (2026-10-31, #1)
+
+Geoclick works because one screen shows everything to learn and fills in as you
+earn it. A list of exercises would lose that. A grammar table already has the shape
+of a map, so a unit is a table or grid of cells, and Geoclick's Overview, Known and
+Quiz carry over. Whether this works is what v0.1.0's play-through is there to find
+out.
+
+## A cell accepts a slip by text, not by id (2026-10-31, #1)
+
+Geoclick marks a drop correct when the slip's id equals the target's. On a grammar
+table that would score a correct answer as a mistake, because one form can fill
+several cells. Slips with equal text are therefore interchangeable.
+
+## A slip dropped off the board, or on a filled cell, is not an answer (2026-10-31)
+
+Geoclick counts a drop outside any region as a miss. A board has gaps, and a filled
+cell already shows its answer, so here those drops are slips of the hand: the slip
+goes back to the tray and nothing is lost.
+
+## Copy from Geoclick; don't fork it or share a package (2026-10-31, #1)
+
+About half of Geoclick's app code is bound to the map, so a fork would mostly mean
+deleting. A shared package would be premature for one owner with two apps. Copied
+files name their origin commit (9b449cc). A fix in one doesn't reach the other by
+itself.
+
+## Language rules live in the pack (2026-10-31, #1)
+
+The stress mark and the letters Ukrainian must not contain are fields in its
+manifest, not code, and a test keeps engine code free of any language. That is what
+lets the Swedish pack in v0.5.0 test whether packs are really pluggable.
+
+## `display` is shown, `text` is compared (2026-10-31, #1)
+
+Ukrainian stress moves and isn't normally written. A learner needs to see it, but a
+slip or a typed answer shouldn't be wrong over it. Slips show `text`, so a stress
+mark on a slip can't give anything away, and an answer shows `display` once it is
+visible.
+
+## Two recorded checks per item, tied to its text (2026-10-31, #1)
+
+The owner is learning these languages and can't be the correctness check, and a
+code reviewer won't catch a wrong form. Every item needs two independent AI checks,
+kept in `packs/<id>/checks/`. A check stores the answer, clue and note it saw, so
+editing any of them voids it, and a gate fails until it is checked again. For Ukrainian the
+checks look specifically for Russian forms, a known risk with AI tools and some
+sources, and the manifest's `forbiddenLetters` catches the crudest case. A paid
+native review is optional. These checks are less than a native speaker's: two
+Claude models, working separately from outside dictionaries, can share a blind spot.
+
+## Packs are CC BY-SA 4.0 (2026-10-31, #1)
+
+Natural Earth was public domain, but language data mostly isn't. Share-alike
+sources such as Wiktionary and JMdict can't be used in a more restrictive pack, so
+packs take that licence from the start. Audio licences vary by contributor and have
+to be checked separately when audio arrives. The code licence is still undecided
+and doesn't block anything yet.
+
+## Letters are asked for by sound, with the example word held back (2026-10-31)
+
+There is no audio until v0.6.0, so an alphabet tile gives a Latin spelling and an
+English comparison. Its example word is a `note`, shown only with the answer,
+because a word written in the alphabet being learned would give the letter away.

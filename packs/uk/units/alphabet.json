@@ -1,0 +1,189 @@
+{
+	"id": "alphabet",
+	"title": "The alphabet",
+	"summary": "All 33 letters, in order. Each tile gives the sound; find its letter.",
+	"layout": { "type": "grid", "size": 33 },
+	"sources": [
+		{
+			"title": "Ukrainian alphabet (Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Ukrainian_alphabet"
+		},
+		{
+			"title": "English Wiktionary, for the example words",
+			"url": "https://en.wiktionary.org/wiki/голова"
+		}
+	],
+	"cells": [
+		{
+			"id": "a",
+			"item": "letter:a",
+			"text": "А а",
+			"clue": "a, as in father",
+			"note": "авто́бус: bus"
+		},
+		{
+			"id": "b",
+			"item": "letter:b",
+			"text": "Б б",
+			"clue": "b, as in bed",
+			"note": "брат: brother"
+		},
+		{
+			"id": "v",
+			"item": "letter:v",
+			"text": "В в",
+			"clue": "v, as in van",
+			"note": "вода́: water. Often softer than an English v, and like w at the end of a syllable, as in був (was)."
+		},
+		{
+			"id": "h",
+			"item": "letter:h",
+			"text": "Г г",
+			"clue": "h, as in hat",
+			"note": "голова́: head. This letter is the h sound; the g sound has its own letter, ґ."
+		},
+		{
+			"id": "g",
+			"item": "letter:g",
+			"text": "Ґ ґ",
+			"clue": "g, as in go",
+			"note": "ґа́нок: porch. A rare letter, but easy to confuse with г."
+		},
+		{ "id": "d", "item": "letter:d", "text": "Д д", "clue": "d, as in dog", "note": "дім: house" },
+		{
+			"id": "e",
+			"item": "letter:e",
+			"text": "Е е",
+			"clue": "e, as in pet",
+			"note": "екра́н: screen"
+		},
+		{
+			"id": "ye",
+			"item": "letter:ye",
+			"text": "Є є",
+			"clue": "ye, as in yes",
+			"note": "Євро́па: Europe"
+		},
+		{
+			"id": "zh",
+			"item": "letter:zh",
+			"text": "Ж ж",
+			"clue": "zh, like s in pleasure",
+			"note": "жі́нка: woman"
+		},
+		{
+			"id": "z",
+			"item": "letter:z",
+			"text": "З з",
+			"clue": "z, as in zoo",
+			"note": "зима́: winter"
+		},
+		{
+			"id": "y",
+			"item": "letter:y",
+			"text": "И и",
+			"clue": "y, like i in bit",
+			"note": "ри́ба: fish. Like the i in bit, never the ee sound, which is і."
+		},
+		{
+			"id": "i",
+			"item": "letter:i",
+			"text": "І і",
+			"clue": "i, like ee in see",
+			"note": "і́грашка: toy"
+		},
+		{
+			"id": "yi",
+			"item": "letter:yi",
+			"text": "Ї ї",
+			"clue": "yi, as in yeast",
+			"note": "ї́жа: food"
+		},
+		{
+			"id": "j",
+			"item": "letter:j",
+			"text": "Й й",
+			"clue": "y, as in boy",
+			"note": "йо́гурт: yogurt"
+		},
+		{ "id": "k", "item": "letter:k", "text": "К к", "clue": "k, as in kit", "note": "кіт: cat" },
+		{
+			"id": "l",
+			"item": "letter:l",
+			"text": "Л л",
+			"clue": "l, as in lamp",
+			"note": "лі́то: summer"
+		},
+		{ "id": "m", "item": "letter:m", "text": "М м", "clue": "m, as in map", "note": "ма́ма: mum" },
+		{ "id": "n", "item": "letter:n", "text": "Н н", "clue": "n, as in net", "note": "ніч: night" },
+		{ "id": "o", "item": "letter:o", "text": "О о", "clue": "o, as in port", "note": "о́ко: eye" },
+		{ "id": "p", "item": "letter:p", "text": "П п", "clue": "p, as in pen", "note": "пес: dog" },
+		{ "id": "r", "item": "letter:r", "text": "Р р", "clue": "r, rolled", "note": "рука́: hand" },
+		{ "id": "s", "item": "letter:s", "text": "С с", "clue": "s, as in sun", "note": "со́нце: sun" },
+		{ "id": "t", "item": "letter:t", "text": "Т т", "clue": "t, as in top", "note": "та́то: dad" },
+		{
+			"id": "u",
+			"item": "letter:u",
+			"text": "У у",
+			"clue": "u, like oo in moon",
+			"note": "у́чень: pupil"
+		},
+		{ "id": "f", "item": "letter:f", "text": "Ф ф", "clue": "f, as in fan", "note": "фо́то: photo" },
+		{
+			"id": "kh",
+			"item": "letter:kh",
+			"text": "Х х",
+			"clue": "kh, as in loch",
+			"note": "хліб: bread"
+		},
+		{
+			"id": "ts",
+			"item": "letter:ts",
+			"text": "Ц ц",
+			"clue": "ts, as in cats",
+			"note": "цу́кор: sugar"
+		},
+		{
+			"id": "ch",
+			"item": "letter:ch",
+			"text": "Ч ч",
+			"clue": "ch, as in chin",
+			"note": "час: time"
+		},
+		{
+			"id": "sh",
+			"item": "letter:sh",
+			"text": "Ш ш",
+			"clue": "sh, as in shop",
+			"note": "шко́ла: school"
+		},
+		{
+			"id": "shch",
+			"item": "letter:shch",
+			"text": "Щ щ",
+			"clue": "shch, as in fresh cheese",
+			"note": "що: what"
+		},
+		{
+			"id": "soft",
+			"item": "letter:soft",
+			"text": "Ь ь",
+			"clue": "soft sign, softens the sound before it",
+			"note": "день: day. It has no sound of its own."
+		},
+		{
+			"id": "yu",
+			"item": "letter:yu",
+			"text": "Ю ю",
+			"clue": "yu, as in you",
+			"note": "юна́к: young man"
+		},
+		{
+			"id": "ya",
+			"item": "letter:ya",
+			"text": "Я я",
+			"clue": "ya, as in yard",
+			"note": "я́блуко: apple"
+		}
+	]
+}
