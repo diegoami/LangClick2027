@@ -1,0 +1,167 @@
+<script lang="ts">
+	// A unit's board: the table or grid that plays the part of Geoclick's map. It
+	// knows the layout; each screen decides what a cell shows and what a press does.
+	// Every cell carries `data-cell-id` for hit-testing, and so tools such as
+	// ai-player can drive the board without changing the app.
+	import type { Cell, Unit } from '@langclick/pack-format';
+	import type { Snippet } from 'svelte';
+
+	interface Props {
+		unit: Unit;
+		face: Snippet<[Cell]>;
+		/** What the cell currently holds, for screen readers. */
+		spoken: (cell: Cell) => string;
+		classOf?: (cell: Cell) => string;
+		onpick?: (cell: Cell) => void;
+	}
+
+	let { unit, face, spoken, classOf = () => '', onpick }: Props = $props();
+
+	function labelOf(header: { id: string; label: string }[], id: string | undefined) {
+		return header.find((entry) => entry.id === id)?.label ?? '';
+	}
+
+	function ariaLabel(cell: Cell): string {
+		if (unit.layout.type !== 'table') return `${cell.clue}: ${spoken(cell)}`;
+		const { rows, columns } = unit.layout;
+		return `${labelOf(rows, cell.row)}, ${labelOf(columns, cell.col)}: ${spoken(cell)}`;
+	}
+</script>
+
+{#snippet cellButton(cell: Cell)}
+	<button
+		type="button"
+		class="cell {classOf(cell)}"
+		data-cell-id={cell.id}
+		aria-label={ariaLabel(cell)}
+		onclick={() => onpick?.(cell)}
+	>
+		{@render face(cell)}
+	</button>
+{/snippet}
+
+{#if unit.layout.type === 'table'}
+	{@const { rows, columns } = unit.layout}
+	<table class="board-table">
+		<thead>
+			<tr>
+				<td></td>
+				{#each columns as column (column.id)}
+					<th scope="col">{column.label}</th>
+				{/each}
+			</tr>
+		</thead>
+		<tbody>
+			{#each rows as row (row.id)}
+				<tr>
+					<th scope="row">{row.label}</th>
+					{#each columns as column (column.id)}
+						{@const cell = unit.cells.find((c) => c.row === row.id && c.col === column.id)}
+						<td>
+							{#if cell}{@render cellButton(cell)}{/if}
+						</td>
+					{/each}
+				</tr>
+			{/each}
+		</tbody>
+	</table>
+{:else}
+	<ul class="board-grid">
+		{#each unit.cells as cell (cell.id)}
+			<li>{@render cellButton(cell)}</li>
+		{/each}
+	</ul>
+{/if}
+
+<style>
+	.board-table {
+		width: 100%;
+		border-collapse: separate;
+		border-spacing: 0.35rem;
+		table-layout: fixed;
+	}
+
+	.board-table thead td {
+		width: 28%;
+	}
+
+	th {
+		font-weight: 600;
+		font-size: 0.9rem;
+		color: var(--muted);
+		text-align: left;
+		overflow-wrap: anywhere;
+	}
+
+	thead th {
+		text-align: center;
+	}
+
+	td {
+		padding: 0;
+	}
+
+	.board-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr));
+		gap: 0.4rem;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	.board-grid li {
+		display: flex;
+	}
+
+	.cell {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		gap: 0.15rem;
+		width: 100%;
+		min-height: 3.25rem;
+		padding: 0.35rem;
+		border: 1px solid var(--line);
+		border-radius: 0.4rem;
+		background: var(--card);
+		text-align: center;
+		transition:
+			background-color 0.15s,
+			border-color 0.15s;
+	}
+
+	.cell:global(.empty) {
+		border-style: dashed;
+		background: transparent;
+	}
+
+	.cell:global(.pickable) {
+		cursor: pointer;
+	}
+
+	.cell:global(.target) {
+		border-color: var(--accent);
+		background: var(--accent-soft);
+	}
+
+	.cell:global(.correct) {
+		border-color: var(--known);
+		background: var(--known-soft);
+	}
+
+	.cell:global(.revealed) {
+		border-color: var(--revealed);
+		background: var(--revealed-soft);
+	}
+
+	.cell:global(.wrong) {
+		border-color: var(--wrong);
+		background: var(--wrong-soft);
+	}
+
+	.cell:global(.selected) {
+		box-shadow: 0 0 0 2px var(--accent);
+	}
+</style>

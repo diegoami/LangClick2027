@@ -1,0 +1,156 @@
+{
+	"id": "family",
+	"title": "People and family",
+	"summary": "24 everyday words for people. Each tile gives the meaning; find the word.",
+	"layout": { "type": "grid", "size": 24 },
+	"sources": [
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example родина)",
+			"url": "https://en.wiktionary.org/wiki/родина"
+		},
+		{ "title": "Горох, Ukrainian dictionary", "url": "https://goroh.pp.ua/" }
+	],
+	"cells": [
+		{
+			"id": "lyudyna",
+			"item": "word:lyudyna",
+			"text": "людина",
+			"display": "люди́на",
+			"clue": "person"
+		},
+		{
+			"id": "cholovik",
+			"item": "word:cholovik",
+			"text": "чоловік",
+			"display": "чолові́к",
+			"clue": "man, husband"
+		},
+		{
+			"id": "zhinka",
+			"item": "word:zhinka",
+			"text": "жінка",
+			"display": "жі́нка",
+			"clue": "woman, wife"
+		},
+		{
+			"id": "khlopets",
+			"item": "word:khlopets",
+			"text": "хлопець",
+			"display": "хло́пець",
+			"clue": "boy"
+		},
+		{
+			"id": "divchyna",
+			"item": "word:divchyna",
+			"text": "дівчина",
+			"display": "ді́вчина",
+			"clue": "girl"
+		},
+		{
+			"id": "dytyna",
+			"item": "word:dytyna",
+			"text": "дитина",
+			"display": "дити́на",
+			"clue": "child"
+		},
+		{ "id": "mama", "item": "word:mama", "text": "мама", "display": "ма́ма", "clue": "mum" },
+		{ "id": "tato", "item": "word:tato", "text": "тато", "display": "та́то", "clue": "dad" },
+		{
+			"id": "maty",
+			"item": "word:maty",
+			"text": "мати",
+			"display": "ма́ти",
+			"clue": "mother",
+			"note": "Related to the English word mother."
+		},
+		{
+			"id": "batko",
+			"item": "word:batko",
+			"text": "батько",
+			"display": "ба́тько",
+			"clue": "father"
+		},
+		{
+			"id": "syn",
+			"item": "word:syn",
+			"text": "син",
+			"clue": "son",
+			"note": "Related to the English word son."
+		},
+		{
+			"id": "dochka",
+			"item": "word:dochka",
+			"text": "дочка",
+			"display": "дочка́",
+			"clue": "daughter",
+			"note": "Related to the English word daughter."
+		},
+		{
+			"id": "brat",
+			"item": "word:brat",
+			"text": "брат",
+			"clue": "brother",
+			"note": "Related to the English word brother."
+		},
+		{
+			"id": "sestra",
+			"item": "word:sestra",
+			"text": "сестра",
+			"display": "сестра́",
+			"clue": "sister",
+			"note": "Related to the English word sister."
+		},
+		{
+			"id": "babusya",
+			"item": "word:babusya",
+			"text": "бабуся",
+			"display": "бабу́ся",
+			"clue": "grandmother"
+		},
+		{
+			"id": "didus",
+			"item": "word:didus",
+			"text": "дідусь",
+			"display": "діду́сь",
+			"clue": "grandfather"
+		},
+		{ "id": "onuk", "item": "word:onuk", "text": "онук", "display": "ону́к", "clue": "grandson" },
+		{
+			"id": "onuka",
+			"item": "word:onuka",
+			"text": "онука",
+			"display": "ону́ка",
+			"clue": "granddaughter"
+		},
+		{
+			"id": "dyadko",
+			"item": "word:dyadko",
+			"text": "дядько",
+			"display": "дя́дько",
+			"clue": "uncle"
+		},
+		{ "id": "titka", "item": "word:titka", "text": "тітка", "display": "ті́тка", "clue": "aunt" },
+		{
+			"id": "rodyna",
+			"item": "word:rodyna",
+			"text": "родина",
+			"display": "роди́на",
+			"clue": "family"
+		},
+		{
+			"id": "batky",
+			"item": "word:batky",
+			"text": "батьки",
+			"display": "батьки́",
+			"clue": "parents"
+		},
+		{ "id": "druh", "item": "word:druh", "text": "друг", "clue": "friend (male)" },
+		{
+			"id": "podruha",
+			"item": "word:podruha",
+			"text": "подруга",
+			"display": "по́друга",
+			"clue": "friend (female)"
+		}
+	]
+}

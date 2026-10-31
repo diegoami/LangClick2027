@@ -1,0 +1,466 @@
+{
+	"checker": "claude-sonnet-5-5",
+	"date": "2026-10-31",
+	"items": [
+		{
+			"item": "letter:b",
+			"display": "Б б",
+			"clue": "b, as in bed",
+			"note": "брат: brother",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:h",
+			"display": "Г г",
+			"clue": "h, as in hat",
+			"note": "голова́: head. This letter is the h sound; the g sound has its own letter, ґ.",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:g",
+			"display": "Ґ ґ",
+			"clue": "g, as in go",
+			"note": "ґа́нок: porch. A rare letter, but easy to confuse with г.",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:d",
+			"display": "Д д",
+			"clue": "d, as in dog",
+			"note": "дім: house",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:e",
+			"display": "Е е",
+			"clue": "e, as in pet",
+			"note": "екра́н: screen",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:ye",
+			"display": "Є є",
+			"clue": "ye, as in yes",
+			"note": "Євро́па: Europe",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:zh",
+			"display": "Ж ж",
+			"clue": "zh, like s in pleasure",
+			"note": "жі́нка: woman",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:z",
+			"display": "З з",
+			"clue": "z, as in zoo",
+			"note": "зима́: winter",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:i",
+			"display": "І і",
+			"clue": "i, like ee in see",
+			"note": "і́грашка: toy",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:yi",
+			"display": "Ї ї",
+			"clue": "yi, as in yeast",
+			"note": "ї́жа: food",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:j",
+			"display": "Й й",
+			"clue": "y, as in boy",
+			"note": "йо́гурт: yogurt",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:k",
+			"display": "К к",
+			"clue": "k, as in kit",
+			"note": "кіт: cat",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:l",
+			"display": "Л л",
+			"clue": "l, as in lamp",
+			"note": "лі́то: summer",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:m",
+			"display": "М м",
+			"clue": "m, as in map",
+			"note": "ма́ма: mum",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:n",
+			"display": "Н н",
+			"clue": "n, as in net",
+			"note": "ніч: night",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:o",
+			"display": "О о",
+			"clue": "o, as in port",
+			"note": "о́ко: eye",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:p",
+			"display": "П п",
+			"clue": "p, as in pen",
+			"note": "пес: dog",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:r",
+			"display": "Р р",
+			"clue": "r, rolled",
+			"note": "рука́: hand",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:s",
+			"display": "С с",
+			"clue": "s, as in sun",
+			"note": "со́нце: sun",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:t",
+			"display": "Т т",
+			"clue": "t, as in top",
+			"note": "та́то: dad",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:u",
+			"display": "У у",
+			"clue": "u, like oo in moon",
+			"note": "у́чень: pupil",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:f",
+			"display": "Ф ф",
+			"clue": "f, as in fan",
+			"note": "фо́то: photo",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:kh",
+			"display": "Х х",
+			"clue": "kh, as in loch",
+			"note": "хліб: bread",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:ts",
+			"display": "Ц ц",
+			"clue": "ts, as in cats",
+			"note": "цу́кор: sugar",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:ch",
+			"display": "Ч ч",
+			"clue": "ch, as in chin",
+			"note": "час: time",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:sh",
+			"display": "Ш ш",
+			"clue": "sh, as in shop",
+			"note": "шко́ла: school",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:shch",
+			"display": "Щ щ",
+			"clue": "shch, as in fresh cheese",
+			"note": "що: what",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:soft",
+			"display": "Ь ь",
+			"clue": "soft sign, softens the sound before it",
+			"note": "день: day. It has no sound of its own.",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:yu",
+			"display": "Ю ю",
+			"clue": "yu, as in you",
+			"note": "юна́к: young man",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:ya",
+			"display": "Я я",
+			"clue": "ya, as in yard",
+			"note": "я́блуко: apple",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:nom.sg",
+			"display": "кімна́та",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:nom.pl",
+			"display": "кімна́ти",
+			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural.",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:gen.sg",
+			"display": "кімна́ти",
+			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural.",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:gen.pl",
+			"display": "кімна́т",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:dat.sg",
+			"display": "кімна́ті",
+			"note": "Same form as the locative singular.",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:dat.pl",
+			"display": "кімна́там",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:acc.sg",
+			"display": "кімна́ту",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:acc.pl",
+			"display": "кімна́ти",
+			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural.",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:ins.sg",
+			"display": "кімна́тою",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:ins.pl",
+			"display": "кімна́тами",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:loc.sg",
+			"display": "кімна́ті",
+			"note": "Same form as the dative singular.",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:loc.pl",
+			"display": "кімна́тах",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:voc.sg",
+			"display": "кімна́то",
+			"verdict": "ok"
+		},
+		{
+			"item": "noun:kimnata:voc.pl",
+			"display": "кімна́ти",
+			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural.",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:lyudyna",
+			"display": "люди́на",
+			"clue": "person",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:cholovik",
+			"display": "чолові́к",
+			"clue": "man, husband",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:zhinka",
+			"display": "жі́нка",
+			"clue": "woman, wife",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:khlopets",
+			"display": "хло́пець",
+			"clue": "boy",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:divchyna",
+			"display": "ді́вчина",
+			"clue": "girl",
+			"verdict": "ok",
+			"comment": "Wiktionary lists both ді́вчина and дівчи́на as valid stress; the displayed ді́вчина is acceptable. СУМ (slovnyk.ua) shows no stress mark so it could not be cross-checked there."
+		},
+		{
+			"item": "word:dytyna",
+			"display": "дити́на",
+			"clue": "child",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:mama",
+			"display": "ма́ма",
+			"clue": "mum",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:tato",
+			"display": "та́то",
+			"clue": "dad",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:maty",
+			"display": "ма́ти",
+			"clue": "mother",
+			"note": "Related to the English word mother.",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:batko",
+			"display": "ба́тько",
+			"clue": "father",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:syn",
+			"display": "син",
+			"clue": "son",
+			"note": "Related to the English word son.",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:dochka",
+			"display": "дочка́",
+			"clue": "daughter",
+			"note": "Related to the English word daughter.",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:brat",
+			"display": "брат",
+			"clue": "brother",
+			"note": "Related to the English word brother.",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:sestra",
+			"display": "сестра́",
+			"clue": "sister",
+			"note": "Related to the English word sister.",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:babusya",
+			"display": "бабу́ся",
+			"clue": "grandmother",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:didus",
+			"display": "діду́сь",
+			"clue": "grandfather",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:onuk",
+			"display": "ону́к",
+			"clue": "grandson",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:dyadko",
+			"display": "дя́дько",
+			"clue": "uncle",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:titka",
+			"display": "ті́тка",
+			"clue": "aunt",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:rodyna",
+			"display": "роди́на",
+			"clue": "family",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:batky",
+			"display": "батьки́",
+			"clue": "parents",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:druh",
+			"display": "друг",
+			"clue": "friend (male)",
+			"verdict": "ok"
+		},
+		{
+			"item": "word:podruha",
+			"display": "по́друга",
+			"clue": "friend (female)",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:a",
+			"display": "А а",
+			"clue": "a, as in father",
+			"note": "авто́бус: bus",
+			"verdict": "ok"
+		},
+		{
+			"item": "letter:v",
+			"display": "В в",
+			"clue": "v, as in van",
+			"note": "вода́: water. Often softer than an English v, and like w at the end of a syllable, as in був (was).",
+			"verdict": "ok",
+			"comment": "Judgement call, not an error. Wikipedia (Ukrainian phonology): в is /ʋ/, a labiodental approximant, realised as [ʋ], [β] or [w], most often [w]/[u̯] in syllable codas and word-initially before a consonant; Wiktionary gives був as [buu̯] (final в = non-syllabic u), so \"like w at the end of a syllable, as in був\" is supported, and був = masculine past of бути \"to be\" so \"was\" is right. \"Softer than an English v\" is loose (the sound is less buzzy than English v, but sources do not use \"softer\"; palatalised /ʋʲ/ is rare); acceptable as a hint. Note that Wiktionary transcribes вода as [wɔˈda], so the initial в there is often w-like too, but \"often\" covers this."
+		},
+		{
+			"item": "letter:y",
+			"display": "И и",
+			"clue": "y, like i in bit",
+			"note": "ри́ба: fish. Like the i in bit, never the ee sound, which is і.",
+			"verdict": "ok",
+			"comment": "Wikipedia (Ukrainian phonology): и is /ɪ/ (Wikipedia Ukrainian alphabet article: close central /ɪ̈/, like i in mitt) and і is /i/. Wiktionary: ри́ба [ˈrɪbɐ], \"fish\". Clue and note are accurate; \"never the ee sound\" is a fair teaching simplification (Ukrainian /ɪ/ is somewhat tenser and more fronted than English /ɪ/)."
+		},
+		{
+			"item": "word:onuka",
+			"display": "ону́ка",
+			"clue": "granddaughter",
+			"verdict": "ok",
+			"comment": "Wiktionary: ону́ка [oˈnukɐ], feminine personal noun, \"granddaughter\"; formed from ону́к. Stress and meaning confirmed."
+		}
+	]
+}

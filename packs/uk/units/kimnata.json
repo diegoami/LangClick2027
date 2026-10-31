@@ -1,0 +1,145 @@
+{
+	"id": "kimnata",
+	"title": "Noun cases: кімната (room)",
+	"summary": "One regular noun through all 7 cases, singular and plural. Some forms fill more than one cell.",
+	"layout": {
+		"type": "table",
+		"rows": [
+			{ "id": "nom", "label": "Nominative" },
+			{ "id": "gen", "label": "Genitive" },
+			{ "id": "dat", "label": "Dative" },
+			{ "id": "acc", "label": "Accusative" },
+			{ "id": "ins", "label": "Instrumental" },
+			{ "id": "loc", "label": "Locative" },
+			{ "id": "voc", "label": "Vocative" }
+		],
+		"columns": [
+			{ "id": "sg", "label": "Singular" },
+			{ "id": "pl", "label": "Plural" }
+		]
+	},
+	"sources": [
+		{ "title": "кімната (English Wiktionary)", "url": "https://en.wiktionary.org/wiki/кімната" },
+		{ "title": "Горох, Ukrainian dictionary", "url": "https://goroh.pp.ua/" }
+	],
+	"cells": [
+		{
+			"id": "nom.sg",
+			"item": "noun:kimnata:nom.sg",
+			"text": "кімната",
+			"display": "кімна́та",
+			"row": "nom",
+			"col": "sg"
+		},
+		{
+			"id": "nom.pl",
+			"item": "noun:kimnata:nom.pl",
+			"text": "кімнати",
+			"display": "кімна́ти",
+			"row": "nom",
+			"col": "pl",
+			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural."
+		},
+		{
+			"id": "gen.sg",
+			"item": "noun:kimnata:gen.sg",
+			"text": "кімнати",
+			"display": "кімна́ти",
+			"row": "gen",
+			"col": "sg",
+			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural."
+		},
+		{
+			"id": "gen.pl",
+			"item": "noun:kimnata:gen.pl",
+			"text": "кімнат",
+			"display": "кімна́т",
+			"row": "gen",
+			"col": "pl"
+		},
+		{
+			"id": "dat.sg",
+			"item": "noun:kimnata:dat.sg",
+			"text": "кімнаті",
+			"display": "кімна́ті",
+			"row": "dat",
+			"col": "sg",
+			"note": "Same form as the locative singular."
+		},
+		{
+			"id": "dat.pl",
+			"item": "noun:kimnata:dat.pl",
+			"text": "кімнатам",
+			"display": "кімна́там",
+			"row": "dat",
+			"col": "pl"
+		},
+		{
+			"id": "acc.sg",
+			"item": "noun:kimnata:acc.sg",
+			"text": "кімнату",
+			"display": "кімна́ту",
+			"row": "acc",
+			"col": "sg"
+		},
+		{
+			"id": "acc.pl",
+			"item": "noun:kimnata:acc.pl",
+			"text": "кімнати",
+			"display": "кімна́ти",
+			"row": "acc",
+			"col": "pl",
+			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural."
+		},
+		{
+			"id": "ins.sg",
+			"item": "noun:kimnata:ins.sg",
+			"text": "кімнатою",
+			"display": "кімна́тою",
+			"row": "ins",
+			"col": "sg"
+		},
+		{
+			"id": "ins.pl",
+			"item": "noun:kimnata:ins.pl",
+			"text": "кімнатами",
+			"display": "кімна́тами",
+			"row": "ins",
+			"col": "pl"
+		},
+		{
+			"id": "loc.sg",
+			"item": "noun:kimnata:loc.sg",
+			"text": "кімнаті",
+			"display": "кімна́ті",
+			"row": "loc",
+			"col": "sg",
+			"note": "Same form as the dative singular."
+		},
+		{
+			"id": "loc.pl",
+			"item": "noun:kimnata:loc.pl",
+			"text": "кімнатах",
+			"display": "кімна́тах",
+			"row": "loc",
+			"col": "pl"
+		},
+		{
+			"id": "voc.sg",
+			"item": "noun:kimnata:voc.sg",
+			"text": "кімнато",
+			"display": "кімна́то",
+			"row": "voc",
+			"col": "sg"
+		},
+		{
+			"id": "voc.pl",
+			"item": "noun:kimnata:voc.pl",
+			"text": "кімнати",
+			"display": "кімна́ти",
+			"row": "voc",
+			"col": "pl",
+			"note": "Same form in four cells: genitive singular, and nominative, accusative and vocative plural."
+		}
+	]
+}
