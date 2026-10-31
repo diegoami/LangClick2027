@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Single source of truth for the project version: the root package.json.
-// Propagates it to the app's manifest and the lockfile. v0.4.0 adds the desktop
+// Propagates it to the app's manifest and the lockfile. v0.6.0 adds the desktop
 // and Android manifests, as Geoclick2027's version of this script does.
 //
 //   node scripts/sync-version.mjs --check    # exit 1 if any file disagrees

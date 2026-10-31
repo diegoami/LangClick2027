@@ -39,7 +39,7 @@ that explains it.
    issue records that.
 4. **Beta, if one is wanted** (it can run alongside the review). On a throwaway
    commit on top of the candidate, carrying only `sync-version.mjs
-   X.Y.Z-beta.N`, tag `vX.Y.Z-beta.N`; it is never merged, and the tag keeps it.
+X.Y.Z-beta.N`, tag `vX.Y.Z-beta.N`; it is never merged, and the tag keeps it.
    The code is the candidate's, so the owner tests what the reviewer reviews. If
    the candidate moves, the next beta is `beta.N+1` on the new candidate.
 5. **On AGREE:** `git tag -a vX.Y.Z <reviewed sha> -m "vX.Y.Z — <theme>"` —
@@ -70,14 +70,14 @@ lead sentence saying what the release is, then bullets in player-facing terms
 first, then what was deliberately not done and what was not tried. They name the
 tagged commit.
 
-**Until installers exist (v0.4.0)** a release has no build artefacts:
+**Until installers exist (v0.6.0)** a release has no build artefacts:
 
 ```bash
 gh release create vX.Y.Z --verify-tag --title "vX.Y.Z — <theme>" --notes-file <entry>
 ```
 
 Add `--prerelease` for an alpha or beta. Web deployment stays the owner's call
-and is separate from a release. When v0.4.0 adds Windows and Android builds, this
+and is separate from a release. When v0.6.0 adds Windows and Android builds, this
 section takes Geoclick's packaging steps, with a signing key of this project's
 own from its first APK.
 

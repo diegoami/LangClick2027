@@ -34,7 +34,7 @@ itself.
 
 The stress mark and the letters Ukrainian must not contain are fields in its
 manifest, not code, and a test keeps engine code free of any language. That is what
-lets the Swedish pack in v0.5.0 test whether packs are really pluggable.
+lets a later language's pack test whether packs are really pluggable.
 
 ## `display` is shown, `text` is compared (2026-10-31, #1)
 

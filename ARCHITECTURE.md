@@ -2,20 +2,20 @@
 
 A client-only web app, in the shape of
 [Geoclick2027](https://github.com/diegoami/Geoclick2027): one web core, with
-Tauri and Capacitor shells to come in v0.4.0. No backend and no accounts; progress
+Tauri and Capacitor shells to come in v0.6.0. No backend and no accounts; progress
 stays on the device.
 
 ## Layout
 
-| Path | What it is |
-|---|---|
-| `packs/<id>/` | Authored content: a manifest, units, layers and content checks. See `packs/README.md` |
-| `locales/` | Interface text, one file per language, outside the engine |
+| Path                   | What it is                                                                                                       |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `packs/<id>/`          | Authored content: a manifest, units, layers and content checks. See `packs/README.md`                            |
+| `locales/`             | Interface text, one file per language, outside the engine                                                        |
 | `packages/pack-format` | The pack types, the validator, the merging of layers into what a learner sees, and the content-check rules. Pure |
-| `packages/quiz-engine` | What a drop means: a round's cells, their status, the score. Pure |
-| `packages/srs` | The scheduler, copied unchanged from Geoclick: an earned level and a due date per card. Pure |
-| `app/src/lib` | The screens and their state |
-| `app/src/routes` | Home, `/lesson/[pack]/[lesson]`, `/review/[pack]`, and `/unit/[pack]/[unit]` with `overview` and `quiz` |
+| `packages/quiz-engine` | What a drop means: a round's cells, their status, the score. Pure                                                |
+| `packages/srs`         | The scheduler, copied unchanged from Geoclick: an earned level and a due date per card. Pure                     |
+| `app/src/lib`          | The screens and their state                                                                                      |
+| `app/src/routes`       | Home, `/lesson/[pack]/[lesson]`, `/review/[pack]`, and `/unit/[pack]/[unit]` with `overview` and `quiz`          |
 
 ## How a learner moves through it
 
@@ -35,7 +35,7 @@ explain in. Interface text comes from `locales/`. Pack text comes in layers:
 
 `localizeUnit` merges the three into the `LocalUnit` every screen draws, so no screen
 knows about layers. Everything is read through `PackSource` in `packs.ts`. Today that
-is the local `packs/` folder; v0.3.0 puts downloads behind the same interface (#6).
+is the local `packs/` folder; v0.4.0 puts downloads behind the same interface (#6).
 
 ## How a unit plays
 
@@ -46,7 +46,9 @@ in through a snippet:
 - `OverviewView` shows every answer, and the unit's sources.
 - `KnownView` shows only what `progress.svelte.ts` says has been earned, more
   strongly at each level.
-- `QuizView` shows answers as they resolve, and owns the tray and the pointer.
+- `QuizView` shows answers as they resolve, and owns the tray and the pointer. The
+  tray groups identical slips with a count. A unit with `compareDisplay` compares the
+  marked form, and one with `dealAll` always offers every slip.
 
 **A round.** `createQuizSession` makes one item per cell, and the hand holds slips
 named by the id of the cell they were dealt for. Every drop goes through

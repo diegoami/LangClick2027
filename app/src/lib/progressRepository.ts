@@ -1,6 +1,6 @@
 // Local persistence: everything is keyed to the device or browser, never a user.
 // The interface is deliberately backend-agnostic, so the SQLite implementations
-// the desktop and Android builds need (v0.4.0) can replace the localStorage one
+// the desktop and Android builds need (v0.6.0) can replace the localStorage one
 // without touching call sites. The approach is Geoclick2027's (9b449cc), but
 // progress is per item across a whole pack, not per map: a word can recur in
 // several units.
