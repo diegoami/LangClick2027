@@ -1,0 +1,382 @@
+{
+	"id": "hours",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["h1", "h2", "h3", "h4", "h5", "h6", "h7", "h8", "h9", "h10", "h11", "h12"],
+		"columns": ["hour", "at", "half"]
+	},
+	"cells": [
+		{
+			"id": "h1.hour",
+			"item": "hour:h1:hour",
+			"text": "перша",
+			"display": "пе́рша",
+			"ipa": "/ˈpɛrʃa/",
+			"concepts": ["clock-time"],
+			"row": "h1",
+			"col": "hour"
+		},
+		{
+			"id": "h1.at",
+			"item": "hour:h1:at",
+			"text": "першій",
+			"display": "пе́ршій",
+			"ipa": "/ˈpɛrʃij/",
+			"concepts": ["clock-time"],
+			"row": "h1",
+			"col": "at"
+		},
+		{
+			"id": "h1.half",
+			"item": "hour:h1:half",
+			"text": "першу",
+			"display": "пе́ршу",
+			"ipa": "/ˈpɛrʃu/",
+			"concepts": ["clock-time"],
+			"row": "h1",
+			"col": "half"
+		},
+		{
+			"id": "h2.hour",
+			"item": "hour:h2:hour",
+			"text": "друга",
+			"display": "дру́га",
+			"ipa": "/ˈdruɦa/",
+			"concepts": ["clock-time"],
+			"row": "h2",
+			"col": "hour"
+		},
+		{
+			"id": "h2.at",
+			"item": "hour:h2:at",
+			"text": "другій",
+			"display": "дру́гій",
+			"ipa": "/ˈdruɦij/",
+			"concepts": ["clock-time"],
+			"row": "h2",
+			"col": "at"
+		},
+		{
+			"id": "h2.half",
+			"item": "hour:h2:half",
+			"text": "другу",
+			"display": "дру́гу",
+			"ipa": "/ˈdruɦu/",
+			"concepts": ["clock-time"],
+			"row": "h2",
+			"col": "half"
+		},
+		{
+			"id": "h3.hour",
+			"item": "hour:h3:hour",
+			"text": "третя",
+			"display": "тре́тя",
+			"ipa": "/ˈtrɛtʲa/",
+			"concepts": ["clock-time"],
+			"row": "h3",
+			"col": "hour"
+		},
+		{
+			"id": "h3.at",
+			"item": "hour:h3:at",
+			"text": "третій",
+			"display": "тре́тій",
+			"ipa": "/ˈtrɛtʲij/",
+			"concepts": ["clock-time"],
+			"row": "h3",
+			"col": "at"
+		},
+		{
+			"id": "h3.half",
+			"item": "hour:h3:half",
+			"text": "третю",
+			"display": "тре́тю",
+			"ipa": "/ˈtrɛtʲu/",
+			"concepts": ["clock-time"],
+			"row": "h3",
+			"col": "half"
+		},
+		{
+			"id": "h4.hour",
+			"item": "hour:h4:hour",
+			"text": "четверта",
+			"display": "четве́рта",
+			"ipa": "/t͡ʃɛtˈʋɛrta/",
+			"concepts": ["clock-time"],
+			"row": "h4",
+			"col": "hour"
+		},
+		{
+			"id": "h4.at",
+			"item": "hour:h4:at",
+			"text": "четвертій",
+			"display": "четве́ртій",
+			"ipa": "/t͡ʃɛtˈʋɛrtʲij/",
+			"concepts": ["clock-time"],
+			"row": "h4",
+			"col": "at"
+		},
+		{
+			"id": "h4.half",
+			"item": "hour:h4:half",
+			"text": "четверту",
+			"display": "четве́рту",
+			"ipa": "/t͡ʃɛtˈʋɛrtu/",
+			"concepts": ["clock-time"],
+			"row": "h4",
+			"col": "half"
+		},
+		{
+			"id": "h5.hour",
+			"item": "hour:h5:hour",
+			"text": "п'ята",
+			"display": "п'я́та",
+			"ipa": "/ˈpjata/",
+			"concepts": ["clock-time"],
+			"row": "h5",
+			"col": "hour"
+		},
+		{
+			"id": "h5.at",
+			"item": "hour:h5:at",
+			"text": "п'ятій",
+			"display": "п'я́тій",
+			"ipa": "/ˈpjatʲij/",
+			"concepts": ["clock-time"],
+			"row": "h5",
+			"col": "at"
+		},
+		{
+			"id": "h5.half",
+			"item": "hour:h5:half",
+			"text": "п'яту",
+			"display": "п'я́ту",
+			"ipa": "/ˈpjatu/",
+			"concepts": ["clock-time"],
+			"row": "h5",
+			"col": "half"
+		},
+		{
+			"id": "h6.hour",
+			"item": "hour:h6:hour",
+			"text": "шоста",
+			"display": "шо́ста",
+			"ipa": "/ˈʃɔsta/",
+			"concepts": ["clock-time"],
+			"row": "h6",
+			"col": "hour"
+		},
+		{
+			"id": "h6.at",
+			"item": "hour:h6:at",
+			"text": "шостій",
+			"display": "шо́стій",
+			"ipa": "/ˈʃɔsʲtʲij/",
+			"concepts": ["clock-time"],
+			"row": "h6",
+			"col": "at"
+		},
+		{
+			"id": "h6.half",
+			"item": "hour:h6:half",
+			"text": "шосту",
+			"display": "шо́сту",
+			"ipa": "/ˈʃɔstu/",
+			"concepts": ["clock-time"],
+			"row": "h6",
+			"col": "half"
+		},
+		{
+			"id": "h7.hour",
+			"item": "hour:h7:hour",
+			"text": "сьома",
+			"display": "сьо́ма",
+			"ipa": "/ˈsʲɔma/",
+			"concepts": ["clock-time"],
+			"row": "h7",
+			"col": "hour"
+		},
+		{
+			"id": "h7.at",
+			"item": "hour:h7:at",
+			"text": "сьомій",
+			"display": "сьо́мій",
+			"ipa": "/ˈsʲɔmij/",
+			"concepts": ["clock-time"],
+			"row": "h7",
+			"col": "at"
+		},
+		{
+			"id": "h7.half",
+			"item": "hour:h7:half",
+			"text": "сьому",
+			"display": "сьо́му",
+			"ipa": "/ˈsʲɔmu/",
+			"concepts": ["clock-time"],
+			"row": "h7",
+			"col": "half"
+		},
+		{
+			"id": "h8.hour",
+			"item": "hour:h8:hour",
+			"text": "восьма",
+			"display": "во́сьма",
+			"ipa": "/ˈʋɔsʲma/",
+			"concepts": ["clock-time"],
+			"row": "h8",
+			"col": "hour"
+		},
+		{
+			"id": "h8.at",
+			"item": "hour:h8:at",
+			"text": "восьмій",
+			"display": "во́сьмій",
+			"ipa": "/ˈʋɔsʲmij/",
+			"concepts": ["clock-time"],
+			"row": "h8",
+			"col": "at"
+		},
+		{
+			"id": "h8.half",
+			"item": "hour:h8:half",
+			"text": "восьму",
+			"display": "во́сьму",
+			"ipa": "/ˈʋɔsʲmu/",
+			"concepts": ["clock-time"],
+			"row": "h8",
+			"col": "half"
+		},
+		{
+			"id": "h9.hour",
+			"item": "hour:h9:hour",
+			"text": "дев'ята",
+			"display": "дев'я́та",
+			"ipa": "/dɛˈʋjata/",
+			"concepts": ["clock-time"],
+			"row": "h9",
+			"col": "hour"
+		},
+		{
+			"id": "h9.at",
+			"item": "hour:h9:at",
+			"text": "дев'ятій",
+			"display": "дев'я́тій",
+			"ipa": "/dɛˈʋjatʲij/",
+			"concepts": ["clock-time"],
+			"row": "h9",
+			"col": "at"
+		},
+		{
+			"id": "h9.half",
+			"item": "hour:h9:half",
+			"text": "дев'яту",
+			"display": "дев'я́ту",
+			"ipa": "/dɛˈʋjatu/",
+			"concepts": ["clock-time"],
+			"row": "h9",
+			"col": "half"
+		},
+		{
+			"id": "h10.hour",
+			"item": "hour:h10:hour",
+			"text": "десята",
+			"display": "деся́та",
+			"ipa": "/dɛˈsʲata/",
+			"concepts": ["clock-time"],
+			"row": "h10",
+			"col": "hour"
+		},
+		{
+			"id": "h10.at",
+			"item": "hour:h10:at",
+			"text": "десятій",
+			"display": "деся́тій",
+			"ipa": "/dɛˈsʲatʲij/",
+			"concepts": ["clock-time"],
+			"row": "h10",
+			"col": "at"
+		},
+		{
+			"id": "h10.half",
+			"item": "hour:h10:half",
+			"text": "десяту",
+			"display": "деся́ту",
+			"ipa": "/dɛˈsʲatu/",
+			"concepts": ["clock-time"],
+			"row": "h10",
+			"col": "half"
+		},
+		{
+			"id": "h11.hour",
+			"item": "hour:h11:hour",
+			"text": "одинадцята",
+			"display": "одина́дцята",
+			"ipa": "/ɔdɪˈnad͡zʲt͡sʲata/",
+			"concepts": ["clock-time"],
+			"row": "h11",
+			"col": "hour"
+		},
+		{
+			"id": "h11.at",
+			"item": "hour:h11:at",
+			"text": "одинадцятій",
+			"display": "одина́дцятій",
+			"ipa": "/ɔdɪˈnad͡zʲt͡sʲatʲij/",
+			"concepts": ["clock-time"],
+			"row": "h11",
+			"col": "at"
+		},
+		{
+			"id": "h11.half",
+			"item": "hour:h11:half",
+			"text": "одинадцяту",
+			"display": "одина́дцяту",
+			"ipa": "/ɔdɪˈnad͡zʲt͡sʲatu/",
+			"concepts": ["clock-time"],
+			"row": "h11",
+			"col": "half"
+		},
+		{
+			"id": "h12.hour",
+			"item": "hour:h12:hour",
+			"text": "дванадцята",
+			"display": "двана́дцята",
+			"ipa": "/dʋaˈnad͡zʲt͡sʲata/",
+			"concepts": ["clock-time"],
+			"row": "h12",
+			"col": "hour"
+		},
+		{
+			"id": "h12.at",
+			"item": "hour:h12:at",
+			"text": "дванадцятій",
+			"display": "двана́дцятій",
+			"ipa": "/dʋaˈnad͡zʲt͡sʲatʲij/",
+			"concepts": ["clock-time"],
+			"row": "h12",
+			"col": "at"
+		},
+		{
+			"id": "h12.half",
+			"item": "hour:h12:half",
+			"text": "дванадцяту",
+			"display": "двана́дцяту",
+			"ipa": "/dʋaˈnad͡zʲt͡sʲatu/",
+			"concepts": ["clock-time"],
+			"row": "h12",
+			"col": "half"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example година)",
+			"url": "https://en.wiktionary.org/wiki/година"
+		}
+	]
+}

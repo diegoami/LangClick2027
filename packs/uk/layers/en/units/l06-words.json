@@ -1,0 +1,63 @@
+{
+	"title": "Words",
+	"summary": "The words of this lesson. Each tile gives the meaning; find the word.",
+	"cells": {
+		"sekunda": {
+			"clue": "a second"
+		},
+		"khvylyna": {
+			"clue": "a minute"
+		},
+		"hodyna": {
+			"clue": "an hour"
+		},
+		"doba": {
+			"clue": "a day and a night, 24 hours"
+		},
+		"den": {
+			"clue": "a day"
+		},
+		"tyzhden": {
+			"clue": "a week"
+		},
+		"misyats": {
+			"clue": "a month"
+		},
+		"rik": {
+			"clue": "a year"
+		},
+		"chas": {
+			"clue": "time"
+		},
+		"pora-roku": {
+			"clue": "a season"
+		},
+		"sohodni": {
+			"clue": "today"
+		},
+		"vchora": {
+			"clue": "yesterday"
+		},
+		"zavtra": {
+			"clue": "tomorrow"
+		},
+		"pislyazavtra": {
+			"clue": "the day after tomorrow"
+		},
+		"rivno": {
+			"clue": "exactly, on the dot"
+		},
+		"skilky": {
+			"clue": "how many, how much"
+		},
+		"chekaty": {
+			"clue": "to wait"
+		},
+		"vidpochyvaty": {
+			"clue": "to rest"
+		},
+		"ulyublenyi": {
+			"clue": "favourite"
+		}
+	}
+}

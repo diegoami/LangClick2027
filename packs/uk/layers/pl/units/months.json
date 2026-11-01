@@ -1,0 +1,20 @@
+{
+	"title": "Miesiące",
+	"summary": "Dwanaście miesięcy i jak powiedzieć „w tym miesiącu”: у albo в z miejscownikiem.",
+	"headers": {
+		"m1": "styczeń",
+		"m2": "luty",
+		"m3": "marzec",
+		"m4": "kwiecień",
+		"m5": "maj",
+		"m6": "czerwiec",
+		"m7": "lipiec",
+		"m8": "sierpień",
+		"m9": "wrzesień",
+		"m10": "październik",
+		"m11": "listopad",
+		"m12": "grudzień",
+		"name": "miesiąc",
+		"in": "w: у, в …"
+	}
+}

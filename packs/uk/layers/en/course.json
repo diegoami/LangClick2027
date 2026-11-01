@@ -43,6 +43,9 @@
 		},
 		"l09": {
 			"title": "Lesson 9: My family"
+		},
+		"l06": {
+			"title": "Lesson 6: Time, days and months"
 		}
 	},
 	"concepts": {
@@ -344,7 +347,7 @@
 			"sources": [
 				{
 					"title": "Є-мова, урок 4: Знайомство, або Як тебе звати",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@982bf157e9df447abfef1418fae0c800"
 				}
 			]
 		},
@@ -378,7 +381,89 @@
 			"sources": [
 				{
 					"title": "Є-мова, урок 5: Привітання. Звертання. Етикетні формули",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@8d4b7f7f5f5442da9f32b50eb01e23da"
+				}
+			]
+		},
+		"clock-time": {
+			"title": "Telling the time",
+			"body": "The hour is a feminine ordinal, agreeing with годи́на, even when годи́на itself is left out: Котра́ годи́на? — Тре́тя. At an hour is о with the locative: о тре́тій. Before a vowel о becomes об: об одина́дцятій. Half past names the hour ahead with на and the accusative, so 2:30 is пів на тре́тю.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Позначення часу: нюанси мовлення (Профспілкова преса)",
+					"url": "https://profpressa.com/articles/poznachennia-chasu-niuansi-movlennia/print"
+				},
+				{
+					"title": "об (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/об"
+				},
+				{
+					"title": "Telling the Time (Elon.io, Ukrainian grammar)",
+					"url": "https://elon.io/grammar/ukrainian/numbers/telling-time"
+				}
+			]
+		},
+		"count-time": {
+			"title": "Counting time",
+			"body": "A noun after a number changes with the number. One takes the nominative singular: одна́ годи́на. Two, three and four take the nominative plural, often with the stress of the genitive singular: дві годи́ни, дві доби́, два мі́сяці. Five and up take the genitive plural: п'ять годи́н. The last digit decides above twenty, and 11 to 14 count as many: одина́дцять годи́н.",
+			"sources": [
+				{
+					"title": "Узгодження числівника й іменника (Профспілкова преса)",
+					"url": "https://profpressa.com/articles/uzgodzhennia-chislivnika-i-imennika-sekreti-pravopisu/print"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				},
+				{
+					"title": "дванадцять (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/дванадцять"
+				}
+			]
+		},
+		"teens-stress": {
+			"title": "Stress from 11 to 19",
+			"body": "From 11 to 19 the stress falls on -на́дцять: одина́дцять, чотирна́дцять, дев'ятна́дцять.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"month-in": {
+			"title": "In a month",
+			"body": "In a month is у or в with the locative. Most month names end in a soft consonant and lose the vowel before it: сі́чень, у сі́чні. лю́тий is an adjective in form, so it goes у лю́тому. листопа́д ends hard and goes у листопа́ді. A month name starts with a consonant, so в follows a vowel, and у follows a consonant or opens a sentence. Before в it is always у: у ве́ресні.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Український правопис (2019), § 23: у та в",
+					"url": "https://2019.pravopys.net/sections/23/"
+				}
+			]
+		},
+		"season-when": {
+			"title": "In a season",
+			"body": "In a season is usually a single adverb, with no preposition: взи́мку, навесні́, влі́тку, восени́. The first and third also begin with у: узи́мку, улі́тку. You will also hear зимо́ю, весно́ю, лі́том and о́сінню.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
 				}
 			]
 		}

@@ -1,0 +1,16 @@
+{
+	"title": "Counting time",
+	"summary": "After 2, 3 and 4 a noun takes one form, and after 5 and up it takes another.",
+	"headers": {
+		"sekunda": "секу́нда",
+		"khvylyna": "хвили́на",
+		"hodyna": "годи́на",
+		"doba": "доба́",
+		"den": "день",
+		"tyzhden": "ти́ждень",
+		"misyats": "мі́сяць",
+		"rik": "рік",
+		"few": "2, 3, 4",
+		"many": "5 and up"
+	}
+}

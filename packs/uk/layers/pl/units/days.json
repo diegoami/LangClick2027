@@ -1,0 +1,27 @@
+{
+	"title": "Dni tygodnia",
+	"summary": "Siedem dni, pierwszy poniedziałek. Pole podaje dzień; znajdź nazwę.",
+	"cells": {
+		"ponedilok": {
+			"clue": "poniedziałek"
+		},
+		"vivtorok": {
+			"clue": "wtorek"
+		},
+		"sereda": {
+			"clue": "środa"
+		},
+		"chetver": {
+			"clue": "czwartek"
+		},
+		"pyatnytsya": {
+			"clue": "piątek"
+		},
+		"subota": {
+			"clue": "sobota"
+		},
+		"nedilya": {
+			"clue": "niedziela"
+		}
+	}
+}

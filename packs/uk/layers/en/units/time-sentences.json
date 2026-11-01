@@ -1,0 +1,66 @@
+{
+	"title": "Telling the time",
+	"summary": "The time, at a time, half past, and how long something takes.",
+	"cells": {
+		"hodyna": {
+			"sentenceGloss": "Excuse me, what time is it?"
+		},
+		"kotra": {
+			"sentenceGloss": "Tell me, please, what time is it? — Seven."
+		},
+		"persha": {
+			"sentenceGloss": "It's one o'clock now.",
+			"note": "Nominative, a feminine ordinal: it agrees with годи́на."
+		},
+		"syoma": {
+			"sentenceGloss": "It's seven o'clock now.",
+			"note": "Nominative, a feminine ordinal: it agrees with годи́на."
+		},
+		"tretii": {
+			"sentenceGloss": "The lesson is at three.",
+			"note": "Locative after о: о тре́тій."
+		},
+		"vosmii": {
+			"sentenceGloss": "I get up at eight.",
+			"note": "Locative after о: о тре́тій."
+		},
+		"ob": {
+			"sentenceGloss": "The lesson is at eleven.",
+			"note": "Before a vowel, о becomes об."
+		},
+		"odynadtsiatii": {
+			"sentenceGloss": "The concert is at eleven.",
+			"note": "Locative after о: о тре́тій."
+		},
+		"kotrii": {
+			"sentenceGloss": "Tell me, at what time does the concert start? — At seven.",
+			"note": "Locative after о: о тре́тій."
+		},
+		"rivno": {
+			"sentenceGloss": "The concert is at two p.m. sharp."
+		},
+		"tretyu": {
+			"sentenceGloss": "It's half past two now.",
+			"note": "Accusative after на, and the hour ahead: 2:30 is пів на тре́тю."
+		},
+		"pershu": {
+			"sentenceGloss": "It's half past twelve now.",
+			"note": "Accusative after на, and the hour ahead: 2:30 is пів на тре́тю."
+		},
+		"hodyn": {
+			"sentenceGloss": "The train takes thirteen hours.",
+			"note": "From 5 up, the genitive plural."
+		},
+		"khvylyn": {
+			"sentenceGloss": "The train arrives in five minutes.",
+			"note": "From 5 up, the genitive plural."
+		},
+		"khvylyny": {
+			"sentenceGloss": "Wait two minutes.",
+			"note": "After 2, 3 and 4."
+		},
+		"odynadtsiat": {
+			"sentenceGloss": "The train takes eleven hours."
+		}
+	}
+}

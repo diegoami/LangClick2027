@@ -1,0 +1,303 @@
+{
+	"id": "months",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["m1", "m2", "m3", "m4", "m5", "m6", "m7", "m8", "m9", "m10", "m11", "m12"],
+		"columns": ["name", "in"]
+	},
+	"cells": [
+		{
+			"id": "m1.name",
+			"item": "month:m1:name",
+			"text": "січень",
+			"display": "сі́чень",
+			"ipa": "/ˈsʲit͡ʃɛnʲ/",
+			"concepts": ["month-in"],
+			"row": "m1",
+			"col": "name"
+		},
+		{
+			"id": "m1.in",
+			"item": "month:m1:in",
+			"text": "січні",
+			"display": "сі́чні",
+			"ipa": "/ˈsʲit͡ʃnʲi/",
+			"concepts": ["month-in"],
+			"row": "m1",
+			"col": "in"
+		},
+		{
+			"id": "m2.name",
+			"item": "month:m2:name",
+			"text": "лютий",
+			"display": "лю́тий",
+			"ipa": "/ˈlʲutɪj/",
+			"cognates": {
+				"pl": {
+					"form": "luty"
+				}
+			},
+			"concepts": ["month-in"],
+			"row": "m2",
+			"col": "name"
+		},
+		{
+			"id": "m2.in",
+			"item": "month:m2:in",
+			"text": "лютому",
+			"display": "лю́тому",
+			"ipa": "/ˈlʲutɔmu/",
+			"alsoAccepted": ["лютім"],
+			"concepts": ["month-in"],
+			"row": "m2",
+			"col": "in"
+		},
+		{
+			"id": "m3.name",
+			"item": "month:m3:name",
+			"text": "березень",
+			"display": "бе́резень",
+			"ipa": "/ˈbɛrɛzɛnʲ/",
+			"concepts": ["month-in"],
+			"row": "m3",
+			"col": "name"
+		},
+		{
+			"id": "m3.in",
+			"item": "month:m3:in",
+			"text": "березні",
+			"display": "бе́резні",
+			"ipa": "/ˈbɛrɛzʲnʲi/",
+			"concepts": ["month-in"],
+			"row": "m3",
+			"col": "in"
+		},
+		{
+			"id": "m4.name",
+			"item": "month:m4:name",
+			"text": "квітень",
+			"display": "кві́тень",
+			"ipa": "/ˈkʋitɛnʲ/",
+			"cognates": {
+				"pl": {
+					"form": "kwiecień"
+				}
+			},
+			"concepts": ["month-in"],
+			"row": "m4",
+			"col": "name"
+		},
+		{
+			"id": "m4.in",
+			"item": "month:m4:in",
+			"text": "квітні",
+			"display": "кві́тні",
+			"ipa": "/ˈkʋitʲnʲi/",
+			"concepts": ["month-in"],
+			"row": "m4",
+			"col": "in"
+		},
+		{
+			"id": "m5.name",
+			"item": "month:m5:name",
+			"text": "травень",
+			"display": "тра́вень",
+			"ipa": "/ˈtraʋɛnʲ/",
+			"concepts": ["month-in"],
+			"row": "m5",
+			"col": "name"
+		},
+		{
+			"id": "m5.in",
+			"item": "month:m5:in",
+			"text": "травні",
+			"display": "тра́вні",
+			"ipa": "/ˈtraʋnʲi/",
+			"concepts": ["month-in"],
+			"row": "m5",
+			"col": "in"
+		},
+		{
+			"id": "m6.name",
+			"item": "month:m6:name",
+			"text": "червень",
+			"display": "че́рвень",
+			"ipa": "/ˈt͡ʃɛrʋɛnʲ/",
+			"cognates": {
+				"pl": {
+					"form": "czerwiec"
+				}
+			},
+			"concepts": ["month-in"],
+			"row": "m6",
+			"col": "name"
+		},
+		{
+			"id": "m6.in",
+			"item": "month:m6:in",
+			"text": "червні",
+			"display": "че́рвні",
+			"ipa": "/ˈt͡ʃɛrʋnʲi/",
+			"concepts": ["month-in"],
+			"row": "m6",
+			"col": "in"
+		},
+		{
+			"id": "m7.name",
+			"item": "month:m7:name",
+			"text": "липень",
+			"display": "ли́пень",
+			"ipa": "/ˈlɪpɛnʲ/",
+			"cognates": {
+				"pl": {
+					"form": "lipiec"
+				}
+			},
+			"concepts": ["month-in"],
+			"row": "m7",
+			"col": "name"
+		},
+		{
+			"id": "m7.in",
+			"item": "month:m7:in",
+			"text": "липні",
+			"display": "ли́пні",
+			"ipa": "/ˈlɪpnʲi/",
+			"concepts": ["month-in"],
+			"row": "m7",
+			"col": "in"
+		},
+		{
+			"id": "m8.name",
+			"item": "month:m8:name",
+			"text": "серпень",
+			"display": "се́рпень",
+			"ipa": "/ˈsɛrpɛnʲ/",
+			"cognates": {
+				"pl": {
+					"form": "sierpień"
+				}
+			},
+			"concepts": ["month-in"],
+			"row": "m8",
+			"col": "name"
+		},
+		{
+			"id": "m8.in",
+			"item": "month:m8:in",
+			"text": "серпні",
+			"display": "се́рпні",
+			"ipa": "/ˈsɛrpnʲi/",
+			"concepts": ["month-in"],
+			"row": "m8",
+			"col": "in"
+		},
+		{
+			"id": "m9.name",
+			"item": "month:m9:name",
+			"text": "вересень",
+			"display": "ве́ресень",
+			"ipa": "/ˈʋɛrɛsɛnʲ/",
+			"cognates": {
+				"pl": {
+					"form": "wrzesień"
+				}
+			},
+			"concepts": ["month-in"],
+			"row": "m9",
+			"col": "name"
+		},
+		{
+			"id": "m9.in",
+			"item": "month:m9:in",
+			"text": "вересні",
+			"display": "ве́ресні",
+			"ipa": "/ˈʋɛrɛsʲnʲi/",
+			"concepts": ["month-in"],
+			"row": "m9",
+			"col": "in"
+		},
+		{
+			"id": "m10.name",
+			"item": "month:m10:name",
+			"text": "жовтень",
+			"display": "жо́втень",
+			"ipa": "/ˈʒɔʋtɛnʲ/",
+			"concepts": ["month-in"],
+			"row": "m10",
+			"col": "name"
+		},
+		{
+			"id": "m10.in",
+			"item": "month:m10:in",
+			"text": "жовтні",
+			"display": "жо́втні",
+			"ipa": "/ˈʒɔʋtʲnʲi/",
+			"concepts": ["month-in"],
+			"row": "m10",
+			"col": "in"
+		},
+		{
+			"id": "m11.name",
+			"item": "month:m11:name",
+			"text": "листопад",
+			"display": "листопа́д",
+			"ipa": "/lɪstɔˈpad/",
+			"cognates": {
+				"pl": {
+					"form": "listopad"
+				}
+			},
+			"concepts": ["month-in"],
+			"row": "m11",
+			"col": "name"
+		},
+		{
+			"id": "m11.in",
+			"item": "month:m11:in",
+			"text": "листопаді",
+			"display": "листопа́ді",
+			"ipa": "/lɪstɔˈpadʲi/",
+			"concepts": ["month-in"],
+			"row": "m11",
+			"col": "in"
+		},
+		{
+			"id": "m12.name",
+			"item": "month:m12:name",
+			"text": "грудень",
+			"display": "гру́день",
+			"ipa": "/ˈɦrudɛnʲ/",
+			"cognates": {
+				"pl": {
+					"form": "grudzień"
+				}
+			},
+			"concepts": ["month-in"],
+			"row": "m12",
+			"col": "name"
+		},
+		{
+			"id": "m12.in",
+			"item": "month:m12:in",
+			"text": "грудні",
+			"display": "гру́дні",
+			"ipa": "/ˈɦrudʲnʲi/",
+			"concepts": ["month-in"],
+			"row": "m12",
+			"col": "in"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example година)",
+			"url": "https://en.wiktionary.org/wiki/година"
+		}
+	]
+}

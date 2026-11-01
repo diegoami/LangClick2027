@@ -1,0 +1,153 @@
+{
+	"id": "l06-phrases",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 17
+	},
+	"cells": [
+		{
+			"id": "sohodni",
+			"item": "phrase:l06:sohodni",
+			"text": "сьогодні",
+			"display": "сього́дні",
+			"sentence": "Яки́й ___ день?",
+			"alsoAccepted": ["нині"]
+		},
+		{
+			"id": "den",
+			"item": "phrase:l06:den",
+			"text": "день",
+			"sentence": "Понеді́лок — пе́рший ___ ти́жня."
+		},
+		{
+			"id": "ponedilok",
+			"item": "phrase:l06:ponedilok",
+			"text": "понеділок",
+			"display": "понеді́лок",
+			"sentence": "Сього́дні вівто́рок, а вчо́ра був ___."
+		},
+		{
+			"id": "chetver",
+			"item": "phrase:l06:chetver",
+			"text": "четвер",
+			"display": "четве́р",
+			"sentence": "Сього́дні середа́, а за́втра бу́де ___."
+		},
+		{
+			"id": "nedilya",
+			"item": "phrase:l06:nedilya",
+			"text": "неділя",
+			"display": "неді́ля",
+			"sentence": "Сього́дні субо́та, а за́втра бу́де ___."
+		},
+		{
+			"id": "tyzhden",
+			"item": "phrase:l06:tyzhden",
+			"text": "тиждень",
+			"display": "ти́ждень",
+			"sentence": "Сім днів — це оди́н ___."
+		},
+		{
+			"id": "rik",
+			"item": "phrase:l06:rik",
+			"text": "рік",
+			"sentence": "Двана́дцять місяці́в — це оди́н ___."
+		},
+		{
+			"id": "travni",
+			"item": "phrase:l06:travni",
+			"text": "травні",
+			"display": "тра́вні",
+			"sentence": "Мій день наро́дження в ___ (тра́вень).",
+			"concepts": ["month-in"]
+		},
+		{
+			"id": "sichni",
+			"item": "phrase:l06:sichni",
+			"text": "січні",
+			"display": "сі́чні",
+			"sentence": "У ___ (сі́чень) хо́лодно.",
+			"concepts": ["month-in"]
+		},
+		{
+			"id": "lyutomu",
+			"item": "phrase:l06:lyutomu",
+			"text": "лютому",
+			"display": "лю́тому",
+			"sentence": "Конце́рт у ___ (лю́тий).",
+			"alsoAccepted": ["лютім"],
+			"concepts": ["month-in"]
+		},
+		{
+			"id": "serpni",
+			"item": "phrase:l06:serpni",
+			"text": "серпні",
+			"display": "се́рпні",
+			"sentence": "Ми відпочива́ємо в ___ (се́рпень).",
+			"concepts": ["month-in"]
+		},
+		{
+			"id": "roku",
+			"item": "phrase:l06:roku",
+			"text": "року",
+			"display": "ро́ку",
+			"sentence": "Яка́ твоя́ улю́блена пора́ ___?"
+		},
+		{
+			"id": "ulyublena",
+			"item": "phrase:l06:ulyublena",
+			"text": "улюблена",
+			"display": "улю́блена",
+			"sentence": "Яка́ твоя́ ___ пора́ ро́ку?",
+			"alsoAccepted": ["любима"]
+		},
+		{
+			"id": "vzymku",
+			"item": "phrase:l06:vzymku",
+			"text": "взимку",
+			"display": "взи́мку",
+			"sentence": "У Ки́єві ___ (зима́) хо́лодно.",
+			"alsoAccepted": ["узимку", "зимою"],
+			"concepts": ["season-when"]
+		},
+		{
+			"id": "navesni",
+			"item": "phrase:l06:navesni",
+			"text": "навесні",
+			"display": "навесні́",
+			"sentence": "Я люблю́ гуля́ти ___ (весна́).",
+			"alsoAccepted": ["весною"],
+			"concepts": ["season-when"]
+		},
+		{
+			"id": "vlitku",
+			"item": "phrase:l06:vlitku",
+			"text": "влітку",
+			"display": "влі́тку",
+			"sentence": "Ми відпочива́ємо ___ (лі́то).",
+			"alsoAccepted": ["улітку", "літом"],
+			"concepts": ["season-when"]
+		},
+		{
+			"id": "voseny",
+			"item": "phrase:l06:voseny",
+			"text": "восени",
+			"display": "восени́",
+			"sentence": "Мені́ су́мно ___ (о́сінь).",
+			"alsoAccepted": ["осінню"],
+			"concepts": ["season-when"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Є-мова, урок 6: Час і період. Місяці",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

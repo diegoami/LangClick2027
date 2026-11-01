@@ -1,0 +1,179 @@
+{
+	"id": "time-count",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["sekunda", "khvylyna", "hodyna", "doba", "den", "tyzhden", "misyats", "rik"],
+		"columns": ["few", "many"]
+	},
+	"cells": [
+		{
+			"id": "sekunda.few",
+			"item": "count:sekunda:few",
+			"text": "секунди",
+			"display": "секу́нди",
+			"ipa": "/sɛˈkundɪ/",
+			"concepts": ["count-time"],
+			"row": "sekunda",
+			"col": "few"
+		},
+		{
+			"id": "sekunda.many",
+			"item": "count:sekunda:many",
+			"text": "секунд",
+			"display": "секу́нд",
+			"ipa": "/sɛˈkund/",
+			"concepts": ["count-time"],
+			"row": "sekunda",
+			"col": "many"
+		},
+		{
+			"id": "khvylyna.few",
+			"item": "count:khvylyna:few",
+			"text": "хвилини",
+			"display": "хвили́ни",
+			"ipa": "/xʋɪˈlɪnɪ/",
+			"concepts": ["count-time"],
+			"row": "khvylyna",
+			"col": "few"
+		},
+		{
+			"id": "khvylyna.many",
+			"item": "count:khvylyna:many",
+			"text": "хвилин",
+			"display": "хвили́н",
+			"ipa": "/xʋɪˈlɪn/",
+			"concepts": ["count-time"],
+			"row": "khvylyna",
+			"col": "many"
+		},
+		{
+			"id": "hodyna.few",
+			"item": "count:hodyna:few",
+			"text": "години",
+			"display": "годи́ни",
+			"ipa": "/ɦɔˈdɪnɪ/",
+			"concepts": ["count-time"],
+			"row": "hodyna",
+			"col": "few"
+		},
+		{
+			"id": "hodyna.many",
+			"item": "count:hodyna:many",
+			"text": "годин",
+			"display": "годи́н",
+			"ipa": "/ɦɔˈdɪn/",
+			"concepts": ["count-time"],
+			"row": "hodyna",
+			"col": "many"
+		},
+		{
+			"id": "doba.few",
+			"item": "count:doba:few",
+			"text": "доби",
+			"display": "доби́",
+			"ipa": "/dɔˈbɪ/",
+			"concepts": ["count-time"],
+			"row": "doba",
+			"col": "few"
+		},
+		{
+			"id": "doba.many",
+			"item": "count:doba:many",
+			"text": "діб",
+			"ipa": "/dʲib/",
+			"concepts": ["count-time"],
+			"row": "doba",
+			"col": "many"
+		},
+		{
+			"id": "den.few",
+			"item": "count:den:few",
+			"text": "дні",
+			"ipa": "/dʲnʲi/",
+			"concepts": ["count-time"],
+			"row": "den",
+			"col": "few"
+		},
+		{
+			"id": "den.many",
+			"item": "count:den:many",
+			"text": "днів",
+			"ipa": "/dʲnʲiʋ/",
+			"concepts": ["count-time"],
+			"row": "den",
+			"col": "many"
+		},
+		{
+			"id": "tyzhden.few",
+			"item": "count:tyzhden:few",
+			"text": "тижні",
+			"display": "ти́жні",
+			"ipa": "/ˈtɪʒnʲi/",
+			"concepts": ["count-time"],
+			"row": "tyzhden",
+			"col": "few"
+		},
+		{
+			"id": "tyzhden.many",
+			"item": "count:tyzhden:many",
+			"text": "тижнів",
+			"display": "ти́жнів",
+			"ipa": "/ˈtɪʒnʲiʋ/",
+			"concepts": ["count-time"],
+			"row": "tyzhden",
+			"col": "many"
+		},
+		{
+			"id": "misyats.few",
+			"item": "count:misyats:few",
+			"text": "місяці",
+			"display": "мі́сяці",
+			"ipa": "/ˈmisʲat͡sʲi/",
+			"concepts": ["count-time"],
+			"row": "misyats",
+			"col": "few"
+		},
+		{
+			"id": "misyats.many",
+			"item": "count:misyats:many",
+			"text": "місяців",
+			"display": "місяці́в",
+			"ipa": "/misʲaˈt͡sʲiʋ/",
+			"concepts": ["count-time"],
+			"row": "misyats",
+			"col": "many"
+		},
+		{
+			"id": "rik.few",
+			"item": "count:rik:few",
+			"text": "роки",
+			"display": "ро́ки",
+			"ipa": "/ˈrɔkɪ/",
+			"concepts": ["count-time"],
+			"row": "rik",
+			"col": "few"
+		},
+		{
+			"id": "rik.many",
+			"item": "count:rik:many",
+			"text": "років",
+			"display": "ро́ків",
+			"ipa": "/ˈrɔkiʋ/",
+			"concepts": ["count-time"],
+			"row": "rik",
+			"col": "many"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example година)",
+			"url": "https://en.wiktionary.org/wiki/година"
+		}
+	]
+}

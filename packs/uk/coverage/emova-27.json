@@ -41,7 +41,17 @@
 		{
 			"number": 6,
 			"title": "Час і період. Місяці",
-			"units": []
+			"units": [
+				"l06-words",
+				"days",
+				"months",
+				"seasons",
+				"hours",
+				"time-sentences",
+				"l06-numbers",
+				"time-count",
+				"l06-phrases"
+			]
 		},
 		{
 			"number": 7,

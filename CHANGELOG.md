@@ -6,7 +6,9 @@ Each release's entry is its release notes (`docs/RELEASES.md`).
 
 For players:
 
-- Lessons 4 and 5 of Є-мова: getting to know someone, countries, greetings and addressing people by name, each with words, phrases and sentences, in the tray or typed. False friends such as прі́звище appear for your comparison.
+- Lessons 4 and 5 of Є-мова: getting to know someone, countries, greetings and addressing people by name, each with words, phrases and sentences, in the tray or typed. False friends such as прі́звище appear for your comparison
+- Lesson 6 of Є-мова: the units of time, days, months, seasons, the clock with о and пів на, numbers for minutes and durations, and counting forms such as п'ять годи́н. False friends include неді́ля and час from Russian, and хвили́на from Polish
+- Study links for lessons 4, 5, 6, 9 and 14 open the lesson itself, not the course outline.
 
 ## v0.3.0 — 2026-10-31 — Grammar you have to produce
 

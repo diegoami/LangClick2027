@@ -1,0 +1,66 @@
+{
+	"title": "Która godzina",
+	"summary": "Godzina, „o której”, wpół do i jak długo coś trwa.",
+	"cells": {
+		"hodyna": {
+			"sentenceGloss": "Przepraszam, która godzina?"
+		},
+		"kotra": {
+			"sentenceGloss": "Proszę powiedzieć, która godzina? — Siódma."
+		},
+		"persha": {
+			"sentenceGloss": "Jest teraz pierwsza.",
+			"note": "Mianownik, rodzaj żeński: w zgodzie z годи́на."
+		},
+		"syoma": {
+			"sentenceGloss": "Jest teraz siódma.",
+			"note": "Mianownik, rodzaj żeński: w zgodzie z годи́на."
+		},
+		"tretii": {
+			"sentenceGloss": "Lekcja jest o trzeciej.",
+			"note": "Miejscownik po о: о тре́тій."
+		},
+		"vosmii": {
+			"sentenceGloss": "Wstaję o ósmej.",
+			"note": "Miejscownik po о: о тре́тій."
+		},
+		"ob": {
+			"sentenceGloss": "Lekcja jest o jedenastej.",
+			"note": "Przed samogłoską о przechodzi w об."
+		},
+		"odynadtsiatii": {
+			"sentenceGloss": "Koncert jest o jedenastej.",
+			"note": "Miejscownik po о: о тре́тій."
+		},
+		"kotrii": {
+			"sentenceGloss": "Proszę powiedzieć, o której zaczyna się koncert? — O siódmej.",
+			"note": "Miejscownik po о: о тре́тій."
+		},
+		"rivno": {
+			"sentenceGloss": "Koncert jest punktualnie o czternastej."
+		},
+		"tretyu": {
+			"sentenceGloss": "Jest teraz wpół do trzeciej.",
+			"note": "Biernik po на i następna godzina: 2:30 to пів на тре́тю."
+		},
+		"pershu": {
+			"sentenceGloss": "Jest teraz wpół do pierwszej.",
+			"note": "Biernik po на i następna godzina: 2:30 to пів на тре́тю."
+		},
+		"hodyn": {
+			"sentenceGloss": "Pociąg jedzie trzynaście godzin.",
+			"note": "Od 5 wzwyż, dopełniacz liczby mnogiej."
+		},
+		"khvylyn": {
+			"sentenceGloss": "Pociąg przyjedzie za pięć minut.",
+			"note": "Od 5 wzwyż, dopełniacz liczby mnogiej."
+		},
+		"khvylyny": {
+			"sentenceGloss": "Poczekaj dwie minuty.",
+			"note": "Po 2, 3 i 4."
+		},
+		"odynadtsiat": {
+			"sentenceGloss": "Pociąg jedzie jedenaście godzin."
+		}
+	}
+}

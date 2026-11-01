@@ -1,0 +1,61 @@
+{
+	"title": "Zwroty",
+	"summary": "Dni, miesiące i pory roku w zdaniach.",
+	"cells": {
+		"sohodni": {
+			"sentenceGloss": "Jaki dziś dzień?"
+		},
+		"den": {
+			"sentenceGloss": "Poniedziałek to pierwszy dzień tygodnia."
+		},
+		"ponedilok": {
+			"sentenceGloss": "Dziś jest wtorek, a wczoraj był poniedziałek."
+		},
+		"chetver": {
+			"sentenceGloss": "Dziś jest środa, a jutro będzie czwartek."
+		},
+		"nedilya": {
+			"sentenceGloss": "Dziś jest sobota, a jutro będzie niedziela."
+		},
+		"tyzhden": {
+			"sentenceGloss": "Siedem dni to jeden tydzień."
+		},
+		"rik": {
+			"sentenceGloss": "Dwanaście miesięcy to jeden rok."
+		},
+		"travni": {
+			"sentenceGloss": "Moje urodziny są w maju.",
+			"note": "Miejscownik po у lub в."
+		},
+		"sichni": {
+			"sentenceGloss": "W styczniu jest zimno.",
+			"note": "Miejscownik po у lub в."
+		},
+		"lyutomu": {
+			"sentenceGloss": "Koncert jest w lutym.",
+			"note": "Miejscownik po у lub в."
+		},
+		"serpni": {
+			"sentenceGloss": "Odpoczywamy w sierpniu.",
+			"note": "Miejscownik po у lub в."
+		},
+		"roku": {
+			"sentenceGloss": "Jaka jest twoja ulubiona pora roku?"
+		},
+		"ulyublena": {
+			"sentenceGloss": "Jaka jest twoja ulubiona pora roku?"
+		},
+		"vzymku": {
+			"sentenceGloss": "W Kijowie zimą jest zimno."
+		},
+		"navesni": {
+			"sentenceGloss": "Lubię spacerować wiosną."
+		},
+		"vlitku": {
+			"sentenceGloss": "Odpoczywamy latem."
+		},
+		"voseny": {
+			"sentenceGloss": "Jest mi smutno jesienią."
+		}
+	}
+}

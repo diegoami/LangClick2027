@@ -1,0 +1,61 @@
+{
+	"title": "Phrases",
+	"summary": "Days, months and seasons, used in sentences.",
+	"cells": {
+		"sohodni": {
+			"sentenceGloss": "What day is it today?"
+		},
+		"den": {
+			"sentenceGloss": "Monday is the first day of the week."
+		},
+		"ponedilok": {
+			"sentenceGloss": "Today is Tuesday, and yesterday was Monday."
+		},
+		"chetver": {
+			"sentenceGloss": "Today is Wednesday, and tomorrow will be Thursday."
+		},
+		"nedilya": {
+			"sentenceGloss": "Today is Saturday, and tomorrow will be Sunday."
+		},
+		"tyzhden": {
+			"sentenceGloss": "Seven days make one week."
+		},
+		"rik": {
+			"sentenceGloss": "Twelve months make one year."
+		},
+		"travni": {
+			"sentenceGloss": "My birthday is in May.",
+			"note": "Locative after у or в."
+		},
+		"sichni": {
+			"sentenceGloss": "It's cold in January.",
+			"note": "Locative after у or в."
+		},
+		"lyutomu": {
+			"sentenceGloss": "The concert is in February.",
+			"note": "Locative after у or в."
+		},
+		"serpni": {
+			"sentenceGloss": "We take our holiday in August.",
+			"note": "Locative after у or в."
+		},
+		"roku": {
+			"sentenceGloss": "What is your favourite season?"
+		},
+		"ulyublena": {
+			"sentenceGloss": "What is your favourite season?"
+		},
+		"vzymku": {
+			"sentenceGloss": "It's cold in Kyiv in winter."
+		},
+		"navesni": {
+			"sentenceGloss": "I like going for walks in spring."
+		},
+		"vlitku": {
+			"sentenceGloss": "We take our holiday in summer."
+		},
+		"voseny": {
+			"sentenceGloss": "I feel sad in autumn."
+		}
+	}
+}

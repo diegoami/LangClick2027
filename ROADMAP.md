@@ -10,7 +10,8 @@ v1.0.0. Audience size is not a goal.
 eMova lessons 1–3 as a whole, and a first grammar batch as tables and sentences, in the tray or typed,
 compared with Russian or Polish.
 
-**v0.4.0, eMova lessons 4–8, is in progress** ([proposal #27](https://github.com/diegoami/LangClick2027/issues/27)):
+**v0.4.0, eMova lessons 4–8, is in progress** ([proposal #27](https://github.com/diegoami/LangClick2027/issues/27)),
+with lessons 4 to 6 done and 7 and 8 to come:
 the owner put lessons before separate downloads
 ([proposal #6](https://github.com/diegoami/LangClick2027/issues/6)), which is now v0.8.0. Speech stays open on
 [proposal #21](https://github.com/diegoami/LangClick2027/issues/21): its test waits on the owner's decision on

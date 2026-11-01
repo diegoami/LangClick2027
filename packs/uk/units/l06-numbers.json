@@ -1,0 +1,221 @@
+{
+	"id": "l06-numbers",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 13
+	},
+	"cells": [
+		{
+			"id": "n11",
+			"item": "number:n11",
+			"text": "одинадцять",
+			"display": "одина́дцять",
+			"ipa": "/ɔdɪˈnad͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "оди́ннадцать"
+				},
+				"pl": {
+					"form": "jedenaście"
+				}
+			},
+			"concepts": ["teens-stress"]
+		},
+		{
+			"id": "n12",
+			"item": "number:n12",
+			"text": "дванадцять",
+			"display": "двана́дцять",
+			"ipa": "/dʋaˈnad͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "двена́дцать"
+				},
+				"pl": {
+					"form": "dwanaście"
+				}
+			},
+			"concepts": ["teens-stress"]
+		},
+		{
+			"id": "n13",
+			"item": "number:n13",
+			"text": "тринадцять",
+			"display": "трина́дцять",
+			"ipa": "/trɪˈnad͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "трина́дцать"
+				},
+				"pl": {
+					"form": "trzynaście"
+				}
+			},
+			"concepts": ["teens-stress"]
+		},
+		{
+			"id": "n14",
+			"item": "number:n14",
+			"text": "чотирнадцять",
+			"display": "чотирна́дцять",
+			"ipa": "/t͡ʃɔtɪrˈnad͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "четы́рнадцать"
+				},
+				"pl": {
+					"form": "czternaście"
+				}
+			},
+			"concepts": ["teens-stress"]
+		},
+		{
+			"id": "n15",
+			"item": "number:n15",
+			"text": "п'ятнадцять",
+			"display": "п'ятна́дцять",
+			"ipa": "/pjatˈnad͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "пятна́дцать"
+				},
+				"pl": {
+					"form": "piętnaście"
+				}
+			},
+			"concepts": ["teens-stress"]
+		},
+		{
+			"id": "n16",
+			"item": "number:n16",
+			"text": "шістнадцять",
+			"display": "шістна́дцять",
+			"ipa": "/ʃisˈnad͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "шестна́дцать"
+				},
+				"pl": {
+					"form": "szesnaście"
+				}
+			},
+			"concepts": ["teens-stress"]
+		},
+		{
+			"id": "n17",
+			"item": "number:n17",
+			"text": "сімнадцять",
+			"display": "сімна́дцять",
+			"ipa": "/sʲimˈnad͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "семна́дцать"
+				},
+				"pl": {
+					"form": "siedemnaście"
+				}
+			},
+			"concepts": ["teens-stress"]
+		},
+		{
+			"id": "n18",
+			"item": "number:n18",
+			"text": "вісімнадцять",
+			"display": "вісімна́дцять",
+			"ipa": "/ʋisʲimˈnad͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "восемна́дцать"
+				},
+				"pl": {
+					"form": "osiemnaście"
+				}
+			},
+			"concepts": ["teens-stress"]
+		},
+		{
+			"id": "n19",
+			"item": "number:n19",
+			"text": "дев'ятнадцять",
+			"display": "дев'ятна́дцять",
+			"ipa": "/dɛʋjatˈnad͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "девятна́дцать"
+				},
+				"pl": {
+					"form": "dziewiętnaście"
+				}
+			},
+			"concepts": ["teens-stress"]
+		},
+		{
+			"id": "n20",
+			"item": "number:n20",
+			"text": "двадцять",
+			"display": "два́дцять",
+			"ipa": "/ˈdʋad͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "два́дцать"
+				},
+				"pl": {
+					"form": "dwadzieścia"
+				}
+			}
+		},
+		{
+			"id": "n30",
+			"item": "number:n30",
+			"text": "тридцять",
+			"display": "три́дцять",
+			"ipa": "/ˈtrɪd͡zʲt͡sʲatʲ/",
+			"cognates": {
+				"ru": {
+					"form": "три́дцать"
+				},
+				"pl": {
+					"form": "trzydzieści"
+				}
+			}
+		},
+		{
+			"id": "n40",
+			"item": "number:n40",
+			"text": "сорок",
+			"display": "со́рок",
+			"ipa": "/ˈsɔrɔk/",
+			"cognates": {
+				"ru": {
+					"form": "со́рок"
+				}
+			}
+		},
+		{
+			"id": "n50",
+			"item": "number:n50",
+			"text": "п'ятдесят",
+			"display": "п'ятдеся́т",
+			"ipa": "/pjadːɛˈsʲat/",
+			"cognates": {
+				"ru": {
+					"form": "пятьдеся́т"
+				},
+				"pl": {
+					"form": "pięćdziesiąt"
+				}
+			}
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example година)",
+			"url": "https://en.wiktionary.org/wiki/година"
+		}
+	]
+}

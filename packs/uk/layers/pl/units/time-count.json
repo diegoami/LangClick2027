@@ -1,0 +1,16 @@
+{
+	"title": "Liczenie czasu",
+	"summary": "Po 2, 3 i 4 rzeczownik ma jedną formę, a od 5 wzwyż inną.",
+	"headers": {
+		"sekunda": "секу́нда",
+		"khvylyna": "хвили́на",
+		"hodyna": "годи́на",
+		"doba": "доба́",
+		"den": "день",
+		"tyzhden": "ти́ждень",
+		"misyats": "мі́сяць",
+		"rik": "рік",
+		"few": "2, 3, 4",
+		"many": "od 5"
+	}
+}

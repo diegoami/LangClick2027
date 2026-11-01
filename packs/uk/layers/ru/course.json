@@ -43,6 +43,9 @@
 		},
 		"l09": {
 			"title": "Урок 9: Моя семья"
+		},
+		"l06": {
+			"title": "Урок 6: Время, дни и месяцы"
 		}
 	},
 	"concepts": {
@@ -344,7 +347,7 @@
 			"sources": [
 				{
 					"title": "Є-мова, урок 4: Знайомство, або Як тебе звати",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@982bf157e9df447abfef1418fae0c800"
 				}
 			]
 		},
@@ -378,7 +381,89 @@
 			"sources": [
 				{
 					"title": "Є-мова, урок 5: Привітання. Звертання. Етикетні формули",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@8d4b7f7f5f5442da9f32b50eb01e23da"
+				}
+			]
+		},
+		"clock-time": {
+			"title": "Который час",
+			"body": "Час называют порядковым числительным женского рода, в согласии с годи́на, даже если само годи́на опущено: Котра́ годи́на? — Тре́тя. На вопрос «во сколько» отвечают с о и местным падежом: о тре́тій. Перед гласным о становится об: об одина́дцятій. Половину часа считают к следующему часу с на и винительным падежом, так что 2:30 это пів на тре́тю.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Позначення часу: нюанси мовлення (Профспілкова преса)",
+					"url": "https://profpressa.com/articles/poznachennia-chasu-niuansi-movlennia/print"
+				},
+				{
+					"title": "об (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/об"
+				},
+				{
+					"title": "Telling the Time (Elon.io, Ukrainian grammar)",
+					"url": "https://elon.io/grammar/ukrainian/numbers/telling-time"
+				}
+			]
+		},
+		"count-time": {
+			"title": "Счёт времени",
+			"body": "Существительное после числа меняется вместе с числом. Один: именительный падеж единственного числа, одна́ годи́на. Два, три и четыре: именительный падеж множественного числа, часто с ударением родительного падежа единственного числа: дві годи́ни, дві доби́, два мі́сяці. От пяти: родительный падеж множественного числа, п'ять годи́н. Выше двадцати решает последняя цифра, а числа от 11 до 14 идут как от пяти: одина́дцять годи́н.",
+			"sources": [
+				{
+					"title": "Узгодження числівника й іменника (Профспілкова преса)",
+					"url": "https://profpressa.com/articles/uzgodzhennia-chislivnika-i-imennika-sekreti-pravopisu/print"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				},
+				{
+					"title": "дванадцять (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/дванадцять"
+				}
+			]
+		},
+		"teens-stress": {
+			"title": "Ударение от 11 до 19",
+			"body": "От 11 до 19 ударение падает на -на́дцять: одина́дцять, чотирна́дцять, дев'ятна́дцять.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"month-in": {
+			"title": "В каком месяце",
+			"body": "«В таком-то месяце» это у или в с местным падежом. Почти все названия месяцев кончаются на мягкий согласный и теряют гласный перед ним: сі́чень, у сі́чні. лю́тий по форме прилагательное, поэтому у лю́тому. листопа́д кончается твёрдо: у листопа́ді. Название месяца начинается с согласного, поэтому в идёт после гласного, а у после согласного или в начале предложения. Перед в всегда у: у ве́ресні.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Український правопис (2019), § 23: у та в",
+					"url": "https://2019.pravopys.net/sections/23/"
+				}
+			]
+		},
+		"season-when": {
+			"title": "В какое время года",
+			"body": "На вопрос «когда» обычно отвечают одним наречием, без предлога: взи́мку, навесні́, влі́тку, восени́. Первое и третье бывают и с у: узи́мку, улі́тку. Говорят также зимо́ю, весно́ю, лі́том и о́сінню.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
 				}
 			]
 		}
