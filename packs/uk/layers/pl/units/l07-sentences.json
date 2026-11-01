@@ -1,0 +1,84 @@
+{
+	"title": "Zdania",
+	"summary": "бу́ти w czasie teraźniejszym, przeszłym i przyszłym, kiedy coś się dzieje, i czasowniki na co dzień.",
+	"cells": {
+		"ye": {
+			"sentenceGloss": "Mam teraz psa.",
+			"note": "Teraz: є, we wszystkich osobach."
+		},
+		"bula": {
+			"sentenceGloss": "Wczoraj Maria była w biurze."
+		},
+		"buv": {
+			"sentenceGloss": "W zeszłym roku Petro był we Lwowie."
+		},
+		"buly": {
+			"sentenceGloss": "W zeszłym tygodniu byliśmy nad morzem."
+		},
+		"bulo": {
+			"sentenceGloss": "Wczoraj w mieście było bardzo ciekawie."
+		},
+		"budu": {
+			"sentenceGloss": "Jutro będę w biurze o ósmej."
+		},
+		"budesh": {
+			"sentenceGloss": "Kiedy jutro będziesz w domu?"
+		},
+		"bude": {
+			"sentenceGloss": "Jutro spotkanie będzie o trzeciej."
+		},
+		"budemo": {
+			"sentenceGloss": "W przyszłym tygodniu będziemy w Odessie."
+		},
+		"budete": {
+			"sentenceGloss": "Czy będziecie na Ukrainie w przyszłym roku?"
+		},
+		"budut": {
+			"sentenceGloss": "Jutro będą w pracy."
+		},
+		"kym": {
+			"sentenceGloss": "Kim będziesz, gdy dorośniesz?",
+			"note": "Narzędnik: kim ktoś będzie."
+		},
+		"veterynarom": {
+			"sentenceGloss": "Siostra będzie weterynarzem.",
+			"note": "Narzędnik: kim ktoś będzie."
+		},
+		"mynuloho": {
+			"sentenceGloss": "Byłam w Kijowie w zeszłym roku.",
+			"note": "Dopełniacz, bez przyimka."
+		},
+		"nastupnoho": {
+			"sentenceGloss": "Będziemy w domu w przyszłym tygodniu.",
+			"note": "Dopełniacz, bez przyimka."
+		},
+		"tsoho": {
+			"sentenceGloss": "Gdzie będziesz odpoczywać w tym roku?",
+			"note": "Dopełniacz, bez przyimka."
+		},
+		"subotu": {
+			"sentenceGloss": "W sobotę odpoczywam.",
+			"note": "Biernik po у lub в."
+		},
+		"seredu": {
+			"sentenceGloss": "W środę mam lekcję.",
+			"note": "Biernik po у lub в."
+		},
+		"ponedilka": {
+			"sentenceGloss": "Pracuję tutaj od poniedziałku.",
+			"note": "Dopełniacz po з."
+		},
+		"pratsyuyu": {
+			"sentenceGloss": "Pracuję w biurze."
+		},
+		"slukhayemo": {
+			"sentenceGloss": "Słuchamy muzyki."
+		},
+		"dyvytsya": {
+			"sentenceGloss": "On ogląda film."
+		},
+		"vidpochyvayut": {
+			"sentenceGloss": "Odpoczywają w domu."
+		}
+	}
+}

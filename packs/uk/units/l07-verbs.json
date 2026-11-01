@@ -1,0 +1,211 @@
+{
+	"id": "l07-verbs",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["ya", "ty", "he", "my", "vy", "they"],
+		"columns": ["pratsyuvaty", "slukhaty", "dyvytysya"]
+	},
+	"cells": [
+		{
+			"id": "ya.pratsyuvaty",
+			"item": "verb-present:pratsyuvaty:ya",
+			"text": "працюю",
+			"display": "працю́ю",
+			"ipa": "/praˈt͡sʲuju/",
+			"concepts": ["conjugations"],
+			"row": "ya",
+			"col": "pratsyuvaty"
+		},
+		{
+			"id": "ya.slukhaty",
+			"item": "verb-present:slukhaty:ya",
+			"text": "слухаю",
+			"display": "слу́хаю",
+			"ipa": "/ˈsluxaju/",
+			"concepts": ["conjugations"],
+			"row": "ya",
+			"col": "slukhaty"
+		},
+		{
+			"id": "ya.dyvytysya",
+			"item": "verb-present:dyvytysya:ya",
+			"text": "дивлюся",
+			"display": "дивлю́ся",
+			"ipa": "/dɪʋˈlʲusʲa/",
+			"alsoAccepted": ["дивлюсь"],
+			"concepts": ["conjugations"],
+			"row": "ya",
+			"col": "dyvytysya"
+		},
+		{
+			"id": "ty.pratsyuvaty",
+			"item": "verb-present:pratsyuvaty:ty",
+			"text": "працюєш",
+			"display": "працю́єш",
+			"ipa": "/praˈt͡sʲujɛʃ/",
+			"concepts": ["conjugations"],
+			"row": "ty",
+			"col": "pratsyuvaty"
+		},
+		{
+			"id": "ty.slukhaty",
+			"item": "verb-present:slukhaty:ty",
+			"text": "слухаєш",
+			"display": "слу́хаєш",
+			"ipa": "/ˈsluxajɛʃ/",
+			"concepts": ["conjugations"],
+			"row": "ty",
+			"col": "slukhaty"
+		},
+		{
+			"id": "ty.dyvytysya",
+			"item": "verb-present:dyvytysya:ty",
+			"text": "дивишся",
+			"display": "ди́вишся",
+			"ipa": "/ˈdɪʋɪsʲːa/",
+			"concepts": ["conjugations"],
+			"row": "ty",
+			"col": "dyvytysya"
+		},
+		{
+			"id": "he.pratsyuvaty",
+			"item": "verb-present:pratsyuvaty:he",
+			"text": "працює",
+			"display": "працю́є",
+			"ipa": "/praˈt͡sʲujɛ/",
+			"concepts": ["conjugations"],
+			"row": "he",
+			"col": "pratsyuvaty"
+		},
+		{
+			"id": "he.slukhaty",
+			"item": "verb-present:slukhaty:he",
+			"text": "слухає",
+			"display": "слу́хає",
+			"ipa": "/ˈsluxajɛ/",
+			"concepts": ["conjugations"],
+			"row": "he",
+			"col": "slukhaty"
+		},
+		{
+			"id": "he.dyvytysya",
+			"item": "verb-present:dyvytysya:he",
+			"text": "дивиться",
+			"display": "ди́виться",
+			"ipa": "/ˈdɪʋɪt͡sʲːa/",
+			"concepts": ["conjugations"],
+			"row": "he",
+			"col": "dyvytysya"
+		},
+		{
+			"id": "my.pratsyuvaty",
+			"item": "verb-present:pratsyuvaty:my",
+			"text": "працюємо",
+			"display": "працю́ємо",
+			"ipa": "/praˈt͡sʲujɛmɔ/",
+			"alsoAccepted": ["працюєм"],
+			"concepts": ["conjugations"],
+			"row": "my",
+			"col": "pratsyuvaty"
+		},
+		{
+			"id": "my.slukhaty",
+			"item": "verb-present:slukhaty:my",
+			"text": "слухаємо",
+			"display": "слу́хаємо",
+			"ipa": "/ˈsluxajɛmɔ/",
+			"alsoAccepted": ["слухаєм"],
+			"concepts": ["conjugations"],
+			"row": "my",
+			"col": "slukhaty"
+		},
+		{
+			"id": "my.dyvytysya",
+			"item": "verb-present:dyvytysya:my",
+			"text": "дивимося",
+			"display": "ди́вимося",
+			"ipa": "/ˈdɪʋɪmɔsʲa/",
+			"alsoAccepted": ["дивимось", "дивимся"],
+			"concepts": ["conjugations"],
+			"row": "my",
+			"col": "dyvytysya"
+		},
+		{
+			"id": "vy.pratsyuvaty",
+			"item": "verb-present:pratsyuvaty:vy",
+			"text": "працюєте",
+			"display": "працю́єте",
+			"ipa": "/praˈt͡sʲujɛtɛ/",
+			"concepts": ["conjugations"],
+			"row": "vy",
+			"col": "pratsyuvaty"
+		},
+		{
+			"id": "vy.slukhaty",
+			"item": "verb-present:slukhaty:vy",
+			"text": "слухаєте",
+			"display": "слу́хаєте",
+			"ipa": "/ˈsluxajɛtɛ/",
+			"concepts": ["conjugations"],
+			"row": "vy",
+			"col": "slukhaty"
+		},
+		{
+			"id": "vy.dyvytysya",
+			"item": "verb-present:dyvytysya:vy",
+			"text": "дивитеся",
+			"display": "ди́витеся",
+			"ipa": "/ˈdɪʋɪtɛsʲa/",
+			"alsoAccepted": ["дивитесь"],
+			"concepts": ["conjugations"],
+			"row": "vy",
+			"col": "dyvytysya"
+		},
+		{
+			"id": "they.pratsyuvaty",
+			"item": "verb-present:pratsyuvaty:they",
+			"text": "працюють",
+			"display": "працю́ють",
+			"ipa": "/praˈt͡sʲujutʲ/",
+			"concepts": ["conjugations"],
+			"row": "they",
+			"col": "pratsyuvaty"
+		},
+		{
+			"id": "they.slukhaty",
+			"item": "verb-present:slukhaty:they",
+			"text": "слухають",
+			"display": "слу́хають",
+			"ipa": "/ˈsluxajutʲ/",
+			"concepts": ["conjugations"],
+			"row": "they",
+			"col": "slukhaty"
+		},
+		{
+			"id": "they.dyvytysya",
+			"item": "verb-present:dyvytysya:they",
+			"text": "дивляться",
+			"display": "ди́вляться",
+			"ipa": "/ˈdɪʋlʲat͡sʲːa/",
+			"concepts": ["conjugations"],
+			"row": "they",
+			"col": "dyvytysya"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "працювати (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/працювати"
+		},
+		{
+			"title": "дивитися (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/дивитися"
+		}
+	]
+}

@@ -1,0 +1,358 @@
+{
+	"id": "l07-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 27
+	},
+	"cells": [
+		{
+			"id": "budni",
+			"item": "word:budni",
+			"text": "будні",
+			"display": "бу́дні",
+			"ipa": "/ˈbudʲnʲi/",
+			"cognates": {
+				"ru": {
+					"form": "бу́дни"
+				}
+			}
+		},
+		{
+			"id": "vykhidni",
+			"item": "word:vykhidni",
+			"text": "вихідні",
+			"display": "вихідні́",
+			"ipa": "/ʋɪxidʲˈnʲi/",
+			"alsoAccepted": ["вікенд"]
+		},
+		{
+			"id": "robota",
+			"item": "word:robota",
+			"text": "робота",
+			"display": "робо́та",
+			"ipa": "/rɔˈbɔta/",
+			"alsoAccepted": ["праця"],
+			"cognates": {
+				"ru": {
+					"form": "рабо́та"
+				},
+				"pl": {
+					"form": "robota"
+				}
+			}
+		},
+		{
+			"id": "vidpochynok",
+			"item": "word:vidpochynok",
+			"text": "відпочинок",
+			"display": "відпочи́нок",
+			"ipa": "/ʋidpɔˈt͡ʃɪnɔk/",
+			"cognates": {
+				"pl": {
+					"form": "odpoczynek"
+				}
+			},
+			"alsoAccepted": ["спочинок"]
+		},
+		{
+			"id": "povidomlennya",
+			"item": "word:povidomlennya",
+			"text": "повідомлення",
+			"display": "повідо́млення",
+			"ipa": "/pɔʋiˈdɔmlɛnʲːa/",
+			"cognates": {
+				"pl": {
+					"form": "powiadomienie"
+				}
+			}
+		},
+		{
+			"id": "zaproshennya",
+			"item": "word:zaproshennya",
+			"text": "запрошення",
+			"display": "запро́шення",
+			"ipa": "/zaˈprɔʃɛnʲːa/",
+			"cognates": {
+				"pl": {
+					"form": "zaproszenie"
+				}
+			}
+		},
+		{
+			"id": "nomer",
+			"item": "word:nomer",
+			"text": "номер",
+			"display": "но́мер",
+			"ipa": "/ˈnɔmɛr/",
+			"cognates": {
+				"ru": {
+					"form": "но́мер"
+				},
+				"pl": {
+					"form": "numer"
+				}
+			}
+		},
+		{
+			"id": "do-rechi",
+			"item": "word:do-rechi",
+			"text": "до речі",
+			"display": "до ре́чі",
+			"ipa": "/dɔ ˈrɛt͡ʃi/",
+			"alsoAccepted": ["між іншим"]
+		},
+		{
+			"id": "dyvno",
+			"item": "word:dyvno",
+			"text": "дивно",
+			"display": "ди́вно",
+			"ipa": "/ˈdɪʋnɔ/",
+			"cognates": {
+				"pl": {
+					"form": "dziwnie"
+				}
+			}
+		},
+		{
+			"id": "davno",
+			"item": "word:davno",
+			"text": "давно",
+			"display": "давно́",
+			"ipa": "/daʋˈnɔ/",
+			"cognates": {
+				"ru": {
+					"form": "давно́"
+				},
+				"pl": {
+					"form": "dawno"
+				}
+			}
+		},
+		{
+			"id": "nastupnyi",
+			"item": "word:nastupnyi",
+			"text": "наступний",
+			"display": "насту́пний",
+			"ipa": "/naˈstupnɪj/",
+			"cognates": {
+				"pl": {
+					"form": "następny"
+				}
+			},
+			"concepts": ["time-genitive"]
+		},
+		{
+			"id": "mynulyi",
+			"item": "word:mynulyi",
+			"text": "минулий",
+			"display": "мину́лий",
+			"ipa": "/mɪˈnulɪj/",
+			"cognates": {
+				"pl": {
+					"form": "miniony"
+				}
+			},
+			"concepts": ["time-genitive"]
+		},
+		{
+			"id": "vdoma",
+			"item": "word:vdoma",
+			"text": "вдома",
+			"display": "вдо́ма",
+			"ipa": "/ˈʋdɔma/",
+			"alsoAccepted": ["удома"],
+			"cognates": {
+				"ru": {
+					"form": "до́ма"
+				}
+			}
+		},
+		{
+			"id": "dykhaty",
+			"item": "word:dykhaty",
+			"text": "дихати",
+			"display": "ди́хати",
+			"ipa": "/ˈdɪxatɪ/",
+			"cognates": {
+				"ru": {
+					"form": "дыша́ть"
+				}
+			}
+		},
+		{
+			"id": "dyvytysya",
+			"item": "word:dyvytysya",
+			"text": "дивитися",
+			"display": "диви́тися",
+			"ipa": "/dɪˈʋɪtɪsʲa/",
+			"alsoAccepted": ["дивитись"]
+		},
+		{
+			"id": "slukhaty",
+			"item": "word:slukhaty",
+			"text": "слухати",
+			"display": "слу́хати",
+			"ipa": "/ˈsluxatɪ/",
+			"cognates": {
+				"ru": {
+					"form": "слу́шать"
+				},
+				"pl": {
+					"form": "słuchać"
+				}
+			}
+		},
+		{
+			"id": "vidchuvaty",
+			"item": "word:vidchuvaty",
+			"text": "відчувати",
+			"display": "відчува́ти",
+			"ipa": "/ʋidt͡ʃuˈʋatɪ/",
+			"cognates": {
+				"pl": {
+					"form": "odczuwać"
+				}
+			}
+		},
+		{
+			"id": "kokhaty",
+			"item": "word:kokhaty",
+			"text": "кохати",
+			"display": "коха́ти",
+			"ipa": "/kɔˈxatɪ/",
+			"alsoAccepted": ["любити"],
+			"cognates": {
+				"pl": {
+					"form": "kochać"
+				}
+			}
+		},
+		{
+			"id": "pratsyuvaty",
+			"item": "word:pratsyuvaty",
+			"text": "працювати",
+			"display": "працюва́ти",
+			"ipa": "/prat͡sʲuˈʋatɪ/",
+			"cognates": {
+				"pl": {
+					"form": "pracować"
+				}
+			}
+		},
+		{
+			"id": "stvoryuvaty",
+			"item": "word:stvoryuvaty",
+			"text": "створювати",
+			"display": "ство́рювати",
+			"ipa": "/ˈstʋɔrʲuʋatɪ/",
+			"cognates": {
+				"pl": {
+					"form": "stwarzać"
+				}
+			},
+			"alsoAccepted": ["творити"]
+		},
+		{
+			"id": "keruvaty",
+			"item": "word:keruvaty",
+			"text": "керувати",
+			"display": "керува́ти",
+			"ipa": "/kɛruˈʋatɪ/",
+			"cognates": {
+				"pl": {
+					"form": "kierować"
+				}
+			},
+			"alsoAccepted": ["управляти"]
+		},
+		{
+			"id": "prodavaty",
+			"item": "word:prodavaty",
+			"text": "продавати",
+			"display": "продава́ти",
+			"ipa": "/prɔdaˈʋatɪ/",
+			"cognates": {
+				"ru": {
+					"form": "продава́ть"
+				}
+			}
+		},
+		{
+			"id": "plavaty",
+			"item": "word:plavaty",
+			"text": "плавати",
+			"display": "пла́вати",
+			"ipa": "/ˈplaʋatɪ/",
+			"cognates": {
+				"ru": {
+					"form": "пла́вать"
+				},
+				"pl": {
+					"form": "pływać"
+				}
+			}
+		},
+		{
+			"id": "podorozhuvaty",
+			"item": "word:podorozhuvaty",
+			"text": "подорожувати",
+			"display": "подорожува́ти",
+			"ipa": "/pɔdɔrɔʒuˈʋatɪ/",
+			"alsoAccepted": ["мандрувати"],
+			"cognates": {
+				"pl": {
+					"form": "podróżować"
+				}
+			}
+		},
+		{
+			"id": "vidviduvaty",
+			"item": "word:vidviduvaty",
+			"text": "відвідувати",
+			"display": "відві́дувати",
+			"ipa": "/ʋidˈʋiduʋatɪ/",
+			"cognates": {
+				"pl": {
+					"form": "odwiedzać"
+				}
+			}
+		},
+		{
+			"id": "telefonuvaty",
+			"item": "word:telefonuvaty",
+			"text": "телефонувати",
+			"display": "телефонува́ти",
+			"ipa": "/tɛlɛfɔnuˈʋatɪ/",
+			"alsoAccepted": ["дзвонити"],
+			"cognates": {
+				"pl": {
+					"form": "telefonować"
+				}
+			}
+		},
+		{
+			"id": "otrymuvaty",
+			"item": "word:otrymuvaty",
+			"text": "отримувати",
+			"display": "отри́мувати",
+			"ipa": "/ɔˈtrɪmuʋatɪ/",
+			"alsoAccepted": ["одержувати"],
+			"cognates": {
+				"pl": {
+					"form": "otrzymywać"
+				}
+			}
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "погода (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/погода"
+		}
+	]
+}

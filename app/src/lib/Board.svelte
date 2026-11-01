@@ -49,10 +49,12 @@
 				.reduce((length, cell) => length + cell.text.length, 0)
 		)
 	)}
+	{@const longestAnswer = Math.max(...unit.cells.map((cell) => cell.text.length))}
 	<!-- Many columns or long answers have to fit a phone. Short row labels, such as pronouns, leave them more room. -->
 	<table
 		class="board-table"
-		class:dense={columns.length >= 5 || longestRow >= 28}
+		class:dense={columns.length >= 5 || longestRow >= 24}
+		class:tight={columns.length * longestAnswer >= 36}
 		class:short-rows={rows.every((row) => row.label.length <= 6)}
 	>
 		<thead>
@@ -106,6 +108,15 @@
 		--ipa-size: clamp(0.56rem, 2.45vw, 0.75rem);
 		--cell-padding: clamp(0.1rem, 0.6vw, 0.35rem);
 		border-spacing: clamp(0.12rem, 0.6vw, 0.35rem);
+	}
+
+	.board-table.tight {
+		--answer-size: clamp(0.68rem, 2.9vw, 1.15rem);
+		--ipa-size: clamp(0.5rem, 2.1vw, 0.75rem);
+	}
+
+	.board-table.tight thead td {
+		width: 18%;
 	}
 
 	th {

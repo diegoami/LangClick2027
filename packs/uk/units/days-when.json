@@ -1,0 +1,166 @@
+{
+	"id": "days-when",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"],
+		"columns": ["on", "from"]
+	},
+	"cells": [
+		{
+			"id": "mon.on",
+			"item": "day-when:mon:on",
+			"text": "понеділок",
+			"display": "понеді́лок",
+			"ipa": "/pɔnɛˈdʲilɔk/",
+			"concepts": ["day-when"],
+			"row": "mon",
+			"col": "on"
+		},
+		{
+			"id": "mon.from",
+			"item": "day-when:mon:from",
+			"text": "понеділка",
+			"display": "понеді́лка",
+			"ipa": "/pɔnɛˈdʲilka/",
+			"concepts": ["day-when"],
+			"row": "mon",
+			"col": "from"
+		},
+		{
+			"id": "tue.on",
+			"item": "day-when:tue:on",
+			"text": "вівторок",
+			"display": "вівто́рок",
+			"ipa": "/ʋiʋˈtɔrɔk/",
+			"concepts": ["day-when"],
+			"row": "tue",
+			"col": "on"
+		},
+		{
+			"id": "tue.from",
+			"item": "day-when:tue:from",
+			"text": "вівторка",
+			"display": "вівто́рка",
+			"ipa": "/ʋiʋˈtɔrka/",
+			"concepts": ["day-when"],
+			"row": "tue",
+			"col": "from"
+		},
+		{
+			"id": "wed.on",
+			"item": "day-when:wed:on",
+			"text": "середу",
+			"display": "се́реду",
+			"ipa": "/ˈsɛrɛdu/",
+			"concepts": ["day-when"],
+			"row": "wed",
+			"col": "on"
+		},
+		{
+			"id": "wed.from",
+			"item": "day-when:wed:from",
+			"text": "середи",
+			"display": "середи́",
+			"ipa": "/sɛrɛˈdɪ/",
+			"concepts": ["day-when"],
+			"row": "wed",
+			"col": "from"
+		},
+		{
+			"id": "thu.on",
+			"item": "day-when:thu:on",
+			"text": "четвер",
+			"display": "четве́р",
+			"ipa": "/t͡ʃɛtˈʋɛr/",
+			"concepts": ["day-when"],
+			"row": "thu",
+			"col": "on"
+		},
+		{
+			"id": "thu.from",
+			"item": "day-when:thu:from",
+			"text": "четверга",
+			"display": "четверга́",
+			"ipa": "/t͡ʃɛtʋɛrˈɦa/",
+			"concepts": ["day-when"],
+			"row": "thu",
+			"col": "from"
+		},
+		{
+			"id": "fri.on",
+			"item": "day-when:fri:on",
+			"text": "п'ятницю",
+			"display": "п'я́тницю",
+			"ipa": "/ˈpjatnɪt͡sʲu/",
+			"concepts": ["day-when"],
+			"row": "fri",
+			"col": "on"
+		},
+		{
+			"id": "fri.from",
+			"item": "day-when:fri:from",
+			"text": "п'ятниці",
+			"display": "п'я́тниці",
+			"ipa": "/ˈpjatnɪt͡sʲi/",
+			"concepts": ["day-when"],
+			"row": "fri",
+			"col": "from"
+		},
+		{
+			"id": "sat.on",
+			"item": "day-when:sat:on",
+			"text": "суботу",
+			"display": "субо́ту",
+			"ipa": "/suˈbɔtu/",
+			"concepts": ["day-when"],
+			"row": "sat",
+			"col": "on"
+		},
+		{
+			"id": "sat.from",
+			"item": "day-when:sat:from",
+			"text": "суботи",
+			"display": "субо́ти",
+			"ipa": "/suˈbɔtɪ/",
+			"concepts": ["day-when"],
+			"row": "sat",
+			"col": "from"
+		},
+		{
+			"id": "sun.on",
+			"item": "day-when:sun:on",
+			"text": "неділю",
+			"display": "неді́лю",
+			"ipa": "/nɛˈdʲilʲu/",
+			"concepts": ["day-when"],
+			"row": "sun",
+			"col": "on"
+		},
+		{
+			"id": "sun.from",
+			"item": "day-when:sun:from",
+			"text": "неділі",
+			"display": "неді́лі",
+			"ipa": "/nɛˈdʲilʲi/",
+			"concepts": ["day-when"],
+			"row": "sun",
+			"col": "from"
+		}
+	],
+	"sources": [
+		{
+			"title": "Є-мова, урок 7: Будні та вихідні",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "Ukrainian grammar (Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+		}
+	]
+}

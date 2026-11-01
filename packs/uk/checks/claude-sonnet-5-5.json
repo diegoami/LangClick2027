@@ -302,6 +302,146 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/colours/red.m",
+			"seen": "{\"item\":\"colour:red:m\",\"text\":\"червоний\",\"display\":\"черво́ний\",\"ipa\":\"/t͡ʃɛrˈʋɔnɪj/\",\"cognates\":{\"pl\":{\"form\":\"czerwony\"}},\"concepts\":[\"adj-endings\"],\"row\":\"red\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/red.f",
+			"seen": "{\"item\":\"colour:red:f\",\"text\":\"червона\",\"display\":\"черво́на\",\"ipa\":\"/t͡ʃɛrˈʋɔna/\",\"concepts\":[\"adj-endings\"],\"row\":\"red\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/red.n",
+			"seen": "{\"item\":\"colour:red:n\",\"text\":\"червоне\",\"display\":\"черво́не\",\"ipa\":\"/t͡ʃɛrˈʋɔnɛ/\",\"concepts\":[\"adj-endings\"],\"row\":\"red\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/red.pl",
+			"seen": "{\"item\":\"colour:red:pl\",\"text\":\"червоні\",\"display\":\"черво́ні\",\"ipa\":\"/t͡ʃɛrˈʋɔnʲi/\",\"concepts\":[\"adj-endings\"],\"row\":\"red\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/orange.m",
+			"seen": "{\"item\":\"colour:orange:m\",\"text\":\"оранжевий\",\"display\":\"ора́нжевий\",\"ipa\":\"/ɔˈranʒɛʋɪj/\",\"alsoAccepted\":[\"помаранчевий\",\"жовтогарячий\"],\"cognates\":{\"ru\":{\"form\":\"ора́нжевый\"}},\"concepts\":[\"adj-endings\"],\"row\":\"orange\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/orange.f",
+			"seen": "{\"item\":\"colour:orange:f\",\"text\":\"оранжева\",\"display\":\"ора́нжева\",\"ipa\":\"/ɔˈranʒɛʋa/\",\"alsoAccepted\":[\"помаранчева\",\"жовтогаряча\"],\"concepts\":[\"adj-endings\"],\"row\":\"orange\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/orange.n",
+			"seen": "{\"item\":\"colour:orange:n\",\"text\":\"оранжеве\",\"display\":\"ора́нжеве\",\"ipa\":\"/ɔˈranʒɛʋɛ/\",\"alsoAccepted\":[\"помаранчеве\",\"жовтогаряче\"],\"concepts\":[\"adj-endings\"],\"row\":\"orange\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/orange.pl",
+			"seen": "{\"item\":\"colour:orange:pl\",\"text\":\"оранжеві\",\"display\":\"ора́нжеві\",\"ipa\":\"/ɔˈranʒɛʋi/\",\"alsoAccepted\":[\"помаранчеві\",\"жовтогарячі\"],\"concepts\":[\"adj-endings\"],\"row\":\"orange\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/yellow.m",
+			"seen": "{\"item\":\"colour:yellow:m\",\"text\":\"жовтий\",\"display\":\"жо́втий\",\"ipa\":\"/ˈʒɔʋtɪj/\",\"cognates\":{\"ru\":{\"form\":\"жёлтый\"},\"pl\":{\"form\":\"żółty\"}},\"concepts\":[\"adj-endings\"],\"row\":\"yellow\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/yellow.f",
+			"seen": "{\"item\":\"colour:yellow:f\",\"text\":\"жовта\",\"display\":\"жо́вта\",\"ipa\":\"/ˈʒɔʋta/\",\"concepts\":[\"adj-endings\"],\"row\":\"yellow\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/yellow.n",
+			"seen": "{\"item\":\"colour:yellow:n\",\"text\":\"жовте\",\"display\":\"жо́вте\",\"ipa\":\"/ˈʒɔʋtɛ/\",\"concepts\":[\"adj-endings\"],\"row\":\"yellow\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/yellow.pl",
+			"seen": "{\"item\":\"colour:yellow:pl\",\"text\":\"жовті\",\"display\":\"жо́вті\",\"ipa\":\"/ˈʒɔʋtʲi/\",\"concepts\":[\"adj-endings\"],\"row\":\"yellow\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/green.m",
+			"seen": "{\"item\":\"colour:green:m\",\"text\":\"зелений\",\"display\":\"зеле́ний\",\"ipa\":\"/zɛˈlɛnɪj/\",\"cognates\":{\"ru\":{\"form\":\"зелёный\"},\"pl\":{\"form\":\"zielony\"}},\"concepts\":[\"adj-endings\"],\"row\":\"green\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/green.f",
+			"seen": "{\"item\":\"colour:green:f\",\"text\":\"зелена\",\"display\":\"зеле́на\",\"ipa\":\"/zɛˈlɛna/\",\"concepts\":[\"adj-endings\"],\"row\":\"green\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/green.n",
+			"seen": "{\"item\":\"colour:green:n\",\"text\":\"зелене\",\"display\":\"зеле́не\",\"ipa\":\"/zɛˈlɛnɛ/\",\"concepts\":[\"adj-endings\"],\"row\":\"green\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/green.pl",
+			"seen": "{\"item\":\"colour:green:pl\",\"text\":\"зелені\",\"display\":\"зеле́ні\",\"ipa\":\"/zɛˈlɛnʲi/\",\"concepts\":[\"adj-endings\"],\"row\":\"green\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/sky.m",
+			"seen": "{\"item\":\"colour:sky:m\",\"text\":\"блакитний\",\"display\":\"блаки́тний\",\"ipa\":\"/blaˈkɪtnɪj/\",\"alsoAccepted\":[\"голубий\"],\"cognates\":{\"pl\":{\"form\":\"błękitny\"}},\"concepts\":[\"adj-endings\"],\"row\":\"sky\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/sky.f",
+			"seen": "{\"item\":\"colour:sky:f\",\"text\":\"блакитна\",\"display\":\"блаки́тна\",\"ipa\":\"/blaˈkɪtna/\",\"alsoAccepted\":[\"голуба\"],\"concepts\":[\"adj-endings\"],\"row\":\"sky\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/sky.n",
+			"seen": "{\"item\":\"colour:sky:n\",\"text\":\"блакитне\",\"display\":\"блаки́тне\",\"ipa\":\"/blaˈkɪtnɛ/\",\"alsoAccepted\":[\"голубе\"],\"concepts\":[\"adj-endings\"],\"row\":\"sky\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/sky.pl",
+			"seen": "{\"item\":\"colour:sky:pl\",\"text\":\"блакитні\",\"display\":\"блаки́тні\",\"ipa\":\"/blaˈkɪtʲnʲi/\",\"alsoAccepted\":[\"голубі\"],\"concepts\":[\"adj-endings\"],\"row\":\"sky\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/blue.m",
+			"seen": "{\"item\":\"colour:blue:m\",\"text\":\"синій\",\"display\":\"си́ній\",\"ipa\":\"/ˈsɪnʲij/\",\"cognates\":{\"ru\":{\"form\":\"си́ний\"}},\"concepts\":[\"adj-endings\"],\"row\":\"blue\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/blue.f",
+			"seen": "{\"item\":\"colour:blue:f\",\"text\":\"синя\",\"display\":\"си́ня\",\"ipa\":\"/ˈsɪnʲa/\",\"concepts\":[\"adj-endings\"],\"row\":\"blue\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/blue.n",
+			"seen": "{\"item\":\"colour:blue:n\",\"text\":\"синє\",\"display\":\"си́нє\",\"ipa\":\"/ˈsɪnʲɛ/\",\"concepts\":[\"adj-endings\"],\"row\":\"blue\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/blue.pl",
+			"seen": "{\"item\":\"colour:blue:pl\",\"text\":\"сині\",\"display\":\"си́ні\",\"ipa\":\"/ˈsɪnʲi/\",\"concepts\":[\"adj-endings\"],\"row\":\"blue\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/violet.m",
+			"seen": "{\"item\":\"colour:violet:m\",\"text\":\"фіолетовий\",\"display\":\"фіоле́товий\",\"ipa\":\"/fiɔˈlɛtɔʋɪj/\",\"cognates\":{\"ru\":{\"form\":\"фиоле́товый\"},\"pl\":{\"form\":\"fioletowy\"}},\"concepts\":[\"adj-endings\"],\"row\":\"violet\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/violet.f",
+			"seen": "{\"item\":\"colour:violet:f\",\"text\":\"фіолетова\",\"display\":\"фіоле́това\",\"ipa\":\"/fiɔˈlɛtɔʋa/\",\"concepts\":[\"adj-endings\"],\"row\":\"violet\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/violet.n",
+			"seen": "{\"item\":\"colour:violet:n\",\"text\":\"фіолетове\",\"display\":\"фіоле́тове\",\"ipa\":\"/fiɔˈlɛtɔʋɛ/\",\"concepts\":[\"adj-endings\"],\"row\":\"violet\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/colours/violet.pl",
+			"seen": "{\"item\":\"colour:violet:pl\",\"text\":\"фіолетові\",\"display\":\"фіоле́тові\",\"ipa\":\"/fiɔˈlɛtɔʋi/\",\"concepts\":[\"adj-endings\"],\"row\":\"violet\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/consonant-chart/p",
 			"seen": "{\"item\":\"consonant:p\",\"text\":\"п\",\"clue\":\"/p/\",\"row\":\"plosive-vl\",\"col\":\"labial\"}",
 			"verdict": "ok"
@@ -504,6 +644,76 @@
 		{
 			"key": "core/countries/france.in",
 			"seen": "{\"item\":\"country:france:in\",\"text\":\"Франції\",\"display\":\"Фра́нції\",\"ipa\":\"/ˈfrant͡sʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"france\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/mon.on",
+			"seen": "{\"item\":\"day-when:mon:on\",\"text\":\"понеділок\",\"display\":\"понеді́лок\",\"ipa\":\"/pɔnɛˈdʲilɔk/\",\"concepts\":[\"day-when\"],\"row\":\"mon\",\"col\":\"on\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/mon.from",
+			"seen": "{\"item\":\"day-when:mon:from\",\"text\":\"понеділка\",\"display\":\"понеді́лка\",\"ipa\":\"/pɔnɛˈdʲilka/\",\"concepts\":[\"day-when\"],\"row\":\"mon\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/tue.on",
+			"seen": "{\"item\":\"day-when:tue:on\",\"text\":\"вівторок\",\"display\":\"вівто́рок\",\"ipa\":\"/ʋiʋˈtɔrɔk/\",\"concepts\":[\"day-when\"],\"row\":\"tue\",\"col\":\"on\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/tue.from",
+			"seen": "{\"item\":\"day-when:tue:from\",\"text\":\"вівторка\",\"display\":\"вівто́рка\",\"ipa\":\"/ʋiʋˈtɔrka/\",\"concepts\":[\"day-when\"],\"row\":\"tue\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/wed.on",
+			"seen": "{\"item\":\"day-when:wed:on\",\"text\":\"середу\",\"display\":\"се́реду\",\"ipa\":\"/ˈsɛrɛdu/\",\"concepts\":[\"day-when\"],\"row\":\"wed\",\"col\":\"on\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/wed.from",
+			"seen": "{\"item\":\"day-when:wed:from\",\"text\":\"середи\",\"display\":\"середи́\",\"ipa\":\"/sɛrɛˈdɪ/\",\"concepts\":[\"day-when\"],\"row\":\"wed\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/thu.on",
+			"seen": "{\"item\":\"day-when:thu:on\",\"text\":\"четвер\",\"display\":\"четве́р\",\"ipa\":\"/t͡ʃɛtˈʋɛr/\",\"concepts\":[\"day-when\"],\"row\":\"thu\",\"col\":\"on\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/thu.from",
+			"seen": "{\"item\":\"day-when:thu:from\",\"text\":\"четверга\",\"display\":\"четверга́\",\"ipa\":\"/t͡ʃɛtʋɛrˈɦa/\",\"concepts\":[\"day-when\"],\"row\":\"thu\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/fri.on",
+			"seen": "{\"item\":\"day-when:fri:on\",\"text\":\"п'ятницю\",\"display\":\"п'я́тницю\",\"ipa\":\"/ˈpjatnɪt͡sʲu/\",\"concepts\":[\"day-when\"],\"row\":\"fri\",\"col\":\"on\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/fri.from",
+			"seen": "{\"item\":\"day-when:fri:from\",\"text\":\"п'ятниці\",\"display\":\"п'я́тниці\",\"ipa\":\"/ˈpjatnɪt͡sʲi/\",\"concepts\":[\"day-when\"],\"row\":\"fri\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/sat.on",
+			"seen": "{\"item\":\"day-when:sat:on\",\"text\":\"суботу\",\"display\":\"субо́ту\",\"ipa\":\"/suˈbɔtu/\",\"concepts\":[\"day-when\"],\"row\":\"sat\",\"col\":\"on\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/sat.from",
+			"seen": "{\"item\":\"day-when:sat:from\",\"text\":\"суботи\",\"display\":\"субо́ти\",\"ipa\":\"/suˈbɔtɪ/\",\"concepts\":[\"day-when\"],\"row\":\"sat\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/sun.on",
+			"seen": "{\"item\":\"day-when:sun:on\",\"text\":\"неділю\",\"display\":\"неді́лю\",\"ipa\":\"/nɛˈdʲilʲu/\",\"concepts\":[\"day-when\"],\"row\":\"sun\",\"col\":\"on\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days-when/sun.from",
+			"seen": "{\"item\":\"day-when:sun:from\",\"text\":\"неділі\",\"display\":\"неді́лі\",\"ipa\":\"/nɛˈdʲilʲi/\",\"concepts\":[\"day-when\"],\"row\":\"sun\",\"col\":\"from\"}",
 			"verdict": "ok"
 		},
 		{
@@ -2031,6 +2241,521 @@
 		{
 			"key": "core/l06-words/ulyublenyi",
 			"seen": "{\"item\":\"word:ulyublenyi\",\"text\":\"улюблений\",\"display\":\"улю́блений\",\"ipa\":\"/uˈlʲublɛnɪj/\",\"alsoAccepted\":[\"любимий\"],\"cognates\":{\"pl\":{\"form\":\"ulubiony\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/ye",
+			"seen": "{\"item\":\"sentence:l07:ye\",\"text\":\"є\",\"sentence\":\"За́раз у ме́не ___ пес.\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/bula",
+			"seen": "{\"item\":\"sentence:l07:bula\",\"text\":\"була\",\"display\":\"була́\",\"sentence\":\"Учо́ра Марі́я ___ в о́фісі.\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/buv",
+			"seen": "{\"item\":\"sentence:l07:buv\",\"text\":\"був\",\"sentence\":\"Мину́лого ро́ку Петро́ ___ у Льво́ві.\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/buly",
+			"seen": "{\"item\":\"sentence:l07:buly\",\"text\":\"були\",\"display\":\"були́\",\"sentence\":\"Мину́лого ти́жня ми ___ на мо́рі.\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/bulo",
+			"seen": "{\"item\":\"sentence:l07:bulo\",\"text\":\"було\",\"display\":\"було́\",\"sentence\":\"Учо́ра в мі́сті ___ ду́же ціка́во.\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/budu",
+			"seen": "{\"item\":\"sentence:l07:budu\",\"text\":\"буду\",\"display\":\"бу́ду\",\"sentence\":\"За́втра я ___ в о́фісі о во́сьмій.\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/budesh",
+			"seen": "{\"item\":\"sentence:l07:budesh\",\"text\":\"будеш\",\"display\":\"бу́деш\",\"sentence\":\"Коли́ ти за́втра ___ удо́ма?\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/bude",
+			"seen": "{\"item\":\"sentence:l07:bude\",\"text\":\"буде\",\"display\":\"бу́де\",\"sentence\":\"За́втра зу́стріч ___ о тре́тій.\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/budemo",
+			"seen": "{\"item\":\"sentence:l07:budemo\",\"text\":\"будемо\",\"display\":\"бу́демо\",\"sentence\":\"Насту́пного ти́жня ми ___ в Оде́сі.\",\"alsoAccepted\":[\"будем\"],\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/budete",
+			"seen": "{\"item\":\"sentence:l07:budete\",\"text\":\"будете\",\"display\":\"бу́дете\",\"sentence\":\"Ви ___ в Украї́ні насту́пного ро́ку?\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/budut",
+			"seen": "{\"item\":\"sentence:l07:budut\",\"text\":\"будуть\",\"display\":\"бу́дуть\",\"sentence\":\"За́втра вони́ ___ на робо́ті.\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/kym",
+			"seen": "{\"item\":\"sentence:l07:kym\",\"text\":\"ким\",\"sentence\":\"___ ти бу́деш, коли́ ви́ростеш?\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/veterynarom",
+			"seen": "{\"item\":\"sentence:l07:veterynarom\",\"text\":\"ветеринаром\",\"display\":\"ветерина́ром\",\"sentence\":\"Сестра́ бу́де ___ (ветерина́р).\",\"concepts\":[\"buty-forms\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/mynuloho",
+			"seen": "{\"item\":\"sentence:l07:mynuloho\",\"text\":\"минулого\",\"display\":\"мину́лого\",\"sentence\":\"Я була́ в Ки́єві ___ ро́ку (мину́лий).\",\"concepts\":[\"time-genitive\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/nastupnoho",
+			"seen": "{\"item\":\"sentence:l07:nastupnoho\",\"text\":\"наступного\",\"display\":\"насту́пного\",\"sentence\":\"Ми бу́демо вдо́ма ___ ти́жня (насту́пний).\",\"concepts\":[\"time-genitive\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/tsoho",
+			"seen": "{\"item\":\"sentence:l07:tsoho\",\"text\":\"цього\",\"display\":\"цього́\",\"sentence\":\"Де ти бу́деш відпочива́ти ___ ро́ку (цей)?\",\"concepts\":[\"time-genitive\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/subotu",
+			"seen": "{\"item\":\"sentence:l07:subotu\",\"text\":\"суботу\",\"display\":\"субо́ту\",\"sentence\":\"У ___ (субо́та) я відпочива́ю.\",\"concepts\":[\"day-when\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/seredu",
+			"seen": "{\"item\":\"sentence:l07:seredu\",\"text\":\"середу\",\"display\":\"се́реду\",\"sentence\":\"У ___ (середа́) в ме́не уро́к.\",\"concepts\":[\"day-when\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/ponedilka",
+			"seen": "{\"item\":\"sentence:l07:ponedilka\",\"text\":\"понеділка\",\"display\":\"понеді́лка\",\"sentence\":\"Я працю́ю тут з ___ (понеді́лок).\",\"concepts\":[\"day-when\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/pratsyuyu",
+			"seen": "{\"item\":\"sentence:l07:pratsyuyu\",\"text\":\"працюю\",\"display\":\"працю́ю\",\"sentence\":\"Я ___ в о́фісі (працюва́ти).\",\"concepts\":[\"conjugations\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/slukhayemo",
+			"seen": "{\"item\":\"sentence:l07:slukhayemo\",\"text\":\"слухаємо\",\"display\":\"слу́хаємо\",\"sentence\":\"Ми ___ му́зику (слу́хати).\",\"alsoAccepted\":[\"слухаєм\"],\"concepts\":[\"conjugations\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/dyvytsya",
+			"seen": "{\"item\":\"sentence:l07:dyvytsya\",\"text\":\"дивиться\",\"display\":\"ди́виться\",\"sentence\":\"Він ___ фільм (диви́тися).\",\"concepts\":[\"conjugations\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-sentences/vidpochyvayut",
+			"seen": "{\"item\":\"sentence:l07:vidpochyvayut\",\"text\":\"відпочивають\",\"display\":\"відпочива́ють\",\"sentence\":\"Вони́ ___ удо́ма (відпочива́ти).\",\"concepts\":[\"conjugations\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/ya.pratsyuvaty",
+			"seen": "{\"item\":\"verb-present:pratsyuvaty:ya\",\"text\":\"працюю\",\"display\":\"працю́ю\",\"ipa\":\"/praˈt͡sʲuju/\",\"concepts\":[\"conjugations\"],\"row\":\"ya\",\"col\":\"pratsyuvaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/ya.slukhaty",
+			"seen": "{\"item\":\"verb-present:slukhaty:ya\",\"text\":\"слухаю\",\"display\":\"слу́хаю\",\"ipa\":\"/ˈsluxaju/\",\"concepts\":[\"conjugations\"],\"row\":\"ya\",\"col\":\"slukhaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/ya.dyvytysya",
+			"seen": "{\"item\":\"verb-present:dyvytysya:ya\",\"text\":\"дивлюся\",\"display\":\"дивлю́ся\",\"ipa\":\"/dɪʋˈlʲusʲa/\",\"alsoAccepted\":[\"дивлюсь\"],\"concepts\":[\"conjugations\"],\"row\":\"ya\",\"col\":\"dyvytysya\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/ty.pratsyuvaty",
+			"seen": "{\"item\":\"verb-present:pratsyuvaty:ty\",\"text\":\"працюєш\",\"display\":\"працю́єш\",\"ipa\":\"/praˈt͡sʲujɛʃ/\",\"concepts\":[\"conjugations\"],\"row\":\"ty\",\"col\":\"pratsyuvaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/ty.slukhaty",
+			"seen": "{\"item\":\"verb-present:slukhaty:ty\",\"text\":\"слухаєш\",\"display\":\"слу́хаєш\",\"ipa\":\"/ˈsluxajɛʃ/\",\"concepts\":[\"conjugations\"],\"row\":\"ty\",\"col\":\"slukhaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/ty.dyvytysya",
+			"seen": "{\"item\":\"verb-present:dyvytysya:ty\",\"text\":\"дивишся\",\"display\":\"ди́вишся\",\"ipa\":\"/ˈdɪʋɪsʲːa/\",\"concepts\":[\"conjugations\"],\"row\":\"ty\",\"col\":\"dyvytysya\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/he.pratsyuvaty",
+			"seen": "{\"item\":\"verb-present:pratsyuvaty:he\",\"text\":\"працює\",\"display\":\"працю́є\",\"ipa\":\"/praˈt͡sʲujɛ/\",\"concepts\":[\"conjugations\"],\"row\":\"he\",\"col\":\"pratsyuvaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/he.slukhaty",
+			"seen": "{\"item\":\"verb-present:slukhaty:he\",\"text\":\"слухає\",\"display\":\"слу́хає\",\"ipa\":\"/ˈsluxajɛ/\",\"concepts\":[\"conjugations\"],\"row\":\"he\",\"col\":\"slukhaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/he.dyvytysya",
+			"seen": "{\"item\":\"verb-present:dyvytysya:he\",\"text\":\"дивиться\",\"display\":\"ди́виться\",\"ipa\":\"/ˈdɪʋɪt͡sʲːa/\",\"concepts\":[\"conjugations\"],\"row\":\"he\",\"col\":\"dyvytysya\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/my.pratsyuvaty",
+			"seen": "{\"item\":\"verb-present:pratsyuvaty:my\",\"text\":\"працюємо\",\"display\":\"працю́ємо\",\"ipa\":\"/praˈt͡sʲujɛmɔ/\",\"alsoAccepted\":[\"працюєм\"],\"concepts\":[\"conjugations\"],\"row\":\"my\",\"col\":\"pratsyuvaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/my.slukhaty",
+			"seen": "{\"item\":\"verb-present:slukhaty:my\",\"text\":\"слухаємо\",\"display\":\"слу́хаємо\",\"ipa\":\"/ˈsluxajɛmɔ/\",\"alsoAccepted\":[\"слухаєм\"],\"concepts\":[\"conjugations\"],\"row\":\"my\",\"col\":\"slukhaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/my.dyvytysya",
+			"seen": "{\"item\":\"verb-present:dyvytysya:my\",\"text\":\"дивимося\",\"display\":\"ди́вимося\",\"ipa\":\"/ˈdɪʋɪmɔsʲa/\",\"alsoAccepted\":[\"дивимось\",\"дивимся\"],\"concepts\":[\"conjugations\"],\"row\":\"my\",\"col\":\"dyvytysya\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/vy.pratsyuvaty",
+			"seen": "{\"item\":\"verb-present:pratsyuvaty:vy\",\"text\":\"працюєте\",\"display\":\"працю́єте\",\"ipa\":\"/praˈt͡sʲujɛtɛ/\",\"concepts\":[\"conjugations\"],\"row\":\"vy\",\"col\":\"pratsyuvaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/vy.slukhaty",
+			"seen": "{\"item\":\"verb-present:slukhaty:vy\",\"text\":\"слухаєте\",\"display\":\"слу́хаєте\",\"ipa\":\"/ˈsluxajɛtɛ/\",\"concepts\":[\"conjugations\"],\"row\":\"vy\",\"col\":\"slukhaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/vy.dyvytysya",
+			"seen": "{\"item\":\"verb-present:dyvytysya:vy\",\"text\":\"дивитеся\",\"display\":\"ди́витеся\",\"ipa\":\"/ˈdɪʋɪtɛsʲa/\",\"alsoAccepted\":[\"дивитесь\"],\"concepts\":[\"conjugations\"],\"row\":\"vy\",\"col\":\"dyvytysya\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/they.pratsyuvaty",
+			"seen": "{\"item\":\"verb-present:pratsyuvaty:they\",\"text\":\"працюють\",\"display\":\"працю́ють\",\"ipa\":\"/praˈt͡sʲujutʲ/\",\"concepts\":[\"conjugations\"],\"row\":\"they\",\"col\":\"pratsyuvaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/they.slukhaty",
+			"seen": "{\"item\":\"verb-present:slukhaty:they\",\"text\":\"слухають\",\"display\":\"слу́хають\",\"ipa\":\"/ˈsluxajutʲ/\",\"concepts\":[\"conjugations\"],\"row\":\"they\",\"col\":\"slukhaty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-verbs/they.dyvytysya",
+			"seen": "{\"item\":\"verb-present:dyvytysya:they\",\"text\":\"дивляться\",\"display\":\"ди́вляться\",\"ipa\":\"/ˈdɪʋlʲat͡sʲːa/\",\"concepts\":[\"conjugations\"],\"row\":\"they\",\"col\":\"dyvytysya\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/budni",
+			"seen": "{\"item\":\"word:budni\",\"text\":\"будні\",\"display\":\"бу́дні\",\"ipa\":\"/ˈbudʲnʲi/\",\"cognates\":{\"ru\":{\"form\":\"бу́дни\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/vykhidni",
+			"seen": "{\"item\":\"word:vykhidni\",\"text\":\"вихідні\",\"display\":\"вихідні́\",\"ipa\":\"/ʋɪxidʲˈnʲi/\",\"alsoAccepted\":[\"вікенд\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/robota",
+			"seen": "{\"item\":\"word:robota\",\"text\":\"робота\",\"display\":\"робо́та\",\"ipa\":\"/rɔˈbɔta/\",\"alsoAccepted\":[\"праця\"],\"cognates\":{\"ru\":{\"form\":\"рабо́та\"},\"pl\":{\"form\":\"robota\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/vidpochynok",
+			"seen": "{\"item\":\"word:vidpochynok\",\"text\":\"відпочинок\",\"display\":\"відпочи́нок\",\"ipa\":\"/ʋidpɔˈt͡ʃɪnɔk/\",\"alsoAccepted\":[\"спочинок\"],\"cognates\":{\"pl\":{\"form\":\"odpoczynek\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/povidomlennya",
+			"seen": "{\"item\":\"word:povidomlennya\",\"text\":\"повідомлення\",\"display\":\"повідо́млення\",\"ipa\":\"/pɔʋiˈdɔmlɛnʲːa/\",\"cognates\":{\"pl\":{\"form\":\"powiadomienie\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/zaproshennya",
+			"seen": "{\"item\":\"word:zaproshennya\",\"text\":\"запрошення\",\"display\":\"запро́шення\",\"ipa\":\"/zaˈprɔʃɛnʲːa/\",\"cognates\":{\"pl\":{\"form\":\"zaproszenie\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/nomer",
+			"seen": "{\"item\":\"word:nomer\",\"text\":\"номер\",\"display\":\"но́мер\",\"ipa\":\"/ˈnɔmɛr/\",\"cognates\":{\"ru\":{\"form\":\"но́мер\"},\"pl\":{\"form\":\"numer\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/do-rechi",
+			"seen": "{\"item\":\"word:do-rechi\",\"text\":\"до речі\",\"display\":\"до ре́чі\",\"ipa\":\"/dɔ ˈrɛt͡ʃi/\",\"alsoAccepted\":[\"між іншим\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/dyvno",
+			"seen": "{\"item\":\"word:dyvno\",\"text\":\"дивно\",\"display\":\"ди́вно\",\"ipa\":\"/ˈdɪʋnɔ/\",\"cognates\":{\"pl\":{\"form\":\"dziwnie\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/davno",
+			"seen": "{\"item\":\"word:davno\",\"text\":\"давно\",\"display\":\"давно́\",\"ipa\":\"/daʋˈnɔ/\",\"cognates\":{\"ru\":{\"form\":\"давно́\"},\"pl\":{\"form\":\"dawno\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/nastupnyi",
+			"seen": "{\"item\":\"word:nastupnyi\",\"text\":\"наступний\",\"display\":\"насту́пний\",\"ipa\":\"/naˈstupnɪj/\",\"cognates\":{\"pl\":{\"form\":\"następny\"}},\"concepts\":[\"time-genitive\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/mynulyi",
+			"seen": "{\"item\":\"word:mynulyi\",\"text\":\"минулий\",\"display\":\"мину́лий\",\"ipa\":\"/mɪˈnulɪj/\",\"cognates\":{\"pl\":{\"form\":\"miniony\"}},\"concepts\":[\"time-genitive\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/vdoma",
+			"seen": "{\"item\":\"word:vdoma\",\"text\":\"вдома\",\"display\":\"вдо́ма\",\"ipa\":\"/ˈʋdɔma/\",\"alsoAccepted\":[\"удома\"],\"cognates\":{\"ru\":{\"form\":\"до́ма\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/dykhaty",
+			"seen": "{\"item\":\"word:dykhaty\",\"text\":\"дихати\",\"display\":\"ди́хати\",\"ipa\":\"/ˈdɪxatɪ/\",\"cognates\":{\"ru\":{\"form\":\"дыша́ть\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/dyvytysya",
+			"seen": "{\"item\":\"word:dyvytysya\",\"text\":\"дивитися\",\"display\":\"диви́тися\",\"ipa\":\"/dɪˈʋɪtɪsʲa/\",\"alsoAccepted\":[\"дивитись\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/slukhaty",
+			"seen": "{\"item\":\"word:slukhaty\",\"text\":\"слухати\",\"display\":\"слу́хати\",\"ipa\":\"/ˈsluxatɪ/\",\"cognates\":{\"ru\":{\"form\":\"слу́шать\"},\"pl\":{\"form\":\"słuchać\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/vidchuvaty",
+			"seen": "{\"item\":\"word:vidchuvaty\",\"text\":\"відчувати\",\"display\":\"відчува́ти\",\"ipa\":\"/ʋidt͡ʃuˈʋatɪ/\",\"cognates\":{\"pl\":{\"form\":\"odczuwać\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/kokhaty",
+			"seen": "{\"item\":\"word:kokhaty\",\"text\":\"кохати\",\"display\":\"коха́ти\",\"ipa\":\"/kɔˈxatɪ/\",\"alsoAccepted\":[\"любити\"],\"cognates\":{\"pl\":{\"form\":\"kochać\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/pratsyuvaty",
+			"seen": "{\"item\":\"word:pratsyuvaty\",\"text\":\"працювати\",\"display\":\"працюва́ти\",\"ipa\":\"/prat͡sʲuˈʋatɪ/\",\"cognates\":{\"pl\":{\"form\":\"pracować\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/stvoryuvaty",
+			"seen": "{\"item\":\"word:stvoryuvaty\",\"text\":\"створювати\",\"display\":\"ство́рювати\",\"ipa\":\"/ˈstʋɔrʲuʋatɪ/\",\"alsoAccepted\":[\"творити\"],\"cognates\":{\"pl\":{\"form\":\"stwarzać\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/keruvaty",
+			"seen": "{\"item\":\"word:keruvaty\",\"text\":\"керувати\",\"display\":\"керува́ти\",\"ipa\":\"/kɛruˈʋatɪ/\",\"alsoAccepted\":[\"управляти\"],\"cognates\":{\"pl\":{\"form\":\"kierować\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/prodavaty",
+			"seen": "{\"item\":\"word:prodavaty\",\"text\":\"продавати\",\"display\":\"продава́ти\",\"ipa\":\"/prɔdaˈʋatɪ/\",\"cognates\":{\"ru\":{\"form\":\"продава́ть\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/plavaty",
+			"seen": "{\"item\":\"word:plavaty\",\"text\":\"плавати\",\"display\":\"пла́вати\",\"ipa\":\"/ˈplaʋatɪ/\",\"cognates\":{\"ru\":{\"form\":\"пла́вать\"},\"pl\":{\"form\":\"pływać\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/podorozhuvaty",
+			"seen": "{\"item\":\"word:podorozhuvaty\",\"text\":\"подорожувати\",\"display\":\"подорожува́ти\",\"ipa\":\"/pɔdɔrɔʒuˈʋatɪ/\",\"alsoAccepted\":[\"мандрувати\"],\"cognates\":{\"pl\":{\"form\":\"podróżować\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/vidviduvaty",
+			"seen": "{\"item\":\"word:vidviduvaty\",\"text\":\"відвідувати\",\"display\":\"відві́дувати\",\"ipa\":\"/ʋidˈʋiduʋatɪ/\",\"cognates\":{\"pl\":{\"form\":\"odwiedzać\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/telefonuvaty",
+			"seen": "{\"item\":\"word:telefonuvaty\",\"text\":\"телефонувати\",\"display\":\"телефонува́ти\",\"ipa\":\"/tɛlɛfɔnuˈʋatɪ/\",\"alsoAccepted\":[\"дзвонити\"],\"cognates\":{\"pl\":{\"form\":\"telefonować\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l07-words/otrymuvaty",
+			"seen": "{\"item\":\"word:otrymuvaty\",\"text\":\"отримувати\",\"display\":\"отри́мувати\",\"ipa\":\"/ɔˈtrɪmuʋatɪ/\",\"alsoAccepted\":[\"одержувати\"],\"cognates\":{\"pl\":{\"form\":\"otrzymywać\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/pohoda",
+			"seen": "{\"item\":\"sentence:l08:pohoda\",\"text\":\"погода\",\"display\":\"пого́да\",\"sentence\":\"Яка́ сього́дні ___?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/kholodno",
+			"seen": "{\"item\":\"sentence:l08:kholodno\",\"text\":\"холодно\",\"display\":\"хо́лодно\",\"sentence\":\"У сі́чні надво́рі ___ (холо́дний).\",\"concepts\":[\"impersonal\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/spekotno",
+			"seen": "{\"item\":\"sentence:l08:spekotno\",\"text\":\"спекотно\",\"display\":\"спеко́тно\",\"sentence\":\"У ли́пні тут ду́же ___ (спеко́тний).\",\"alsoAccepted\":[\"жарко\"],\"concepts\":[\"impersonal\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/bulo",
+			"seen": "{\"item\":\"sentence:l08:bulo\",\"text\":\"було\",\"display\":\"було́\",\"sentence\":\"Учо́ра ___ те́пло.\",\"concepts\":[\"impersonal\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/bude",
+			"seen": "{\"item\":\"sentence:l08:bude\",\"text\":\"буде\",\"display\":\"бу́де\",\"sentence\":\"За́втра ___ хо́лодно.\",\"concepts\":[\"impersonal\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/snih",
+			"seen": "{\"item\":\"sentence:l08:snih\",\"text\":\"сніг\",\"sentence\":\"Узи́мку ча́сто йде ___, і все навко́ло бі́ле.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/doshch",
+			"seen": "{\"item\":\"sentence:l08:doshch\",\"text\":\"дощ\",\"sentence\":\"Візьми́ парасо́лю: надво́рі йде ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/veselku",
+			"seen": "{\"item\":\"sentence:l08:veselku\",\"text\":\"веселку\",\"display\":\"весе́лку\",\"sentence\":\"Пі́сля дощу́ ми ба́чимо в не́бі ___ (весе́лка).\",\"alsoAccepted\":[\"райдугу\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/zhovte",
+			"seen": "{\"item\":\"sentence:l08:zhovte\",\"text\":\"жовте\",\"display\":\"жо́вте\",\"sentence\":\"Со́нце ___ (жо́втий).\",\"concepts\":[\"adj-endings\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/zelena",
+			"seen": "{\"item\":\"sentence:l08:zelena\",\"text\":\"зелена\",\"display\":\"зеле́на\",\"sentence\":\"Трава́ ___ (зеле́ний).\",\"concepts\":[\"adj-endings\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/syne",
+			"seen": "{\"item\":\"sentence:l08:syne\",\"text\":\"синє\",\"display\":\"си́нє\",\"sentence\":\"Мо́ре ___ (си́ній).\",\"concepts\":[\"adj-endings\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/chervoni",
+			"seen": "{\"item\":\"sentence:l08:chervoni\",\"text\":\"червоні\",\"display\":\"черво́ні\",\"sentence\":\"Ці кві́ти ___ (черво́ний).\",\"concepts\":[\"adj-endings\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/blakytne",
+			"seen": "{\"item\":\"sentence:l08:blakytne\",\"text\":\"блакитне\",\"display\":\"блаки́тне\",\"sentence\":\"Сього́дні не́бо ___ (блаки́тний).\",\"concepts\":[\"adj-endings\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-sentences/kholodnyi",
+			"seen": "{\"item\":\"sentence:l08:kholodnyi\",\"text\":\"холодний\",\"display\":\"холо́дний\",\"sentence\":\"Сього́дні дощ ___ (хо́лодно).\",\"concepts\":[\"adj-endings\",\"impersonal\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/pohoda",
+			"seen": "{\"item\":\"word:pohoda\",\"text\":\"погода\",\"display\":\"пого́да\",\"ipa\":\"/pɔˈɦɔda/\",\"cognates\":{\"ru\":{\"form\":\"пого́да\"},\"pl\":{\"form\":\"pogoda\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/nehoda",
+			"seen": "{\"item\":\"word:nehoda\",\"text\":\"негода\",\"display\":\"него́да\",\"ipa\":\"/nɛˈɦɔda/\",\"alsoAccepted\":[\"непогода\"],\"cognates\":{\"ru\":{\"form\":\"непого́да\"},\"pl\":{\"form\":\"niepogoda\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/prohnoz",
+			"seen": "{\"item\":\"word:prohnoz\",\"text\":\"прогноз\",\"display\":\"прогно́з\",\"ipa\":\"/prɔɦˈnɔz/\",\"cognates\":{\"ru\":{\"form\":\"прогно́з\"},\"pl\":{\"form\":\"prognoza\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/sontse",
+			"seen": "{\"item\":\"word:sontse\",\"text\":\"сонце\",\"display\":\"со́нце\",\"ipa\":\"/ˈsɔnt͡sɛ/\",\"cognates\":{\"ru\":{\"form\":\"со́лнце\"},\"pl\":{\"form\":\"słońce\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/doshch",
+			"seen": "{\"item\":\"word:doshch\",\"text\":\"дощ\",\"ipa\":\"/dɔʃt͡ʃ/\",\"cognates\":{\"ru\":{\"form\":\"дождь\"},\"pl\":{\"form\":\"deszcz\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/snih",
+			"seen": "{\"item\":\"word:snih\",\"text\":\"сніг\",\"ipa\":\"/sʲnʲiɦ/\",\"cognates\":{\"ru\":{\"form\":\"снег\"},\"pl\":{\"form\":\"śnieg\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/viter",
+			"seen": "{\"item\":\"word:viter\",\"text\":\"вітер\",\"display\":\"ві́тер\",\"ipa\":\"/ˈʋitɛr/\",\"cognates\":{\"ru\":{\"form\":\"ве́тер\"},\"pl\":{\"form\":\"wiatr\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/moroz",
+			"seen": "{\"item\":\"word:moroz\",\"text\":\"мороз\",\"display\":\"моро́з\",\"ipa\":\"/mɔˈrɔz/\",\"cognates\":{\"ru\":{\"form\":\"моро́з\"},\"pl\":{\"form\":\"mróz\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/lid",
+			"seen": "{\"item\":\"word:lid\",\"text\":\"лід\",\"ipa\":\"/lʲid/\",\"cognates\":{\"ru\":{\"form\":\"лёд\"},\"pl\":{\"form\":\"lód\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/tuman",
+			"seen": "{\"item\":\"word:tuman\",\"text\":\"туман\",\"display\":\"тума́н\",\"ipa\":\"/tuˈman/\",\"cognates\":{\"ru\":{\"form\":\"тума́н\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/khmara",
+			"seen": "{\"item\":\"word:khmara\",\"text\":\"хмара\",\"display\":\"хма́ра\",\"ipa\":\"/ˈxmara/\",\"cognates\":{\"pl\":{\"form\":\"chmura\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/hroza",
+			"seen": "{\"item\":\"word:hroza\",\"text\":\"гроза\",\"display\":\"гроза́\",\"ipa\":\"/ɦrɔˈza/\",\"cognates\":{\"ru\":{\"form\":\"гроза́\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/hrim",
+			"seen": "{\"item\":\"word:hrim\",\"text\":\"грім\",\"ipa\":\"/ɦrʲim/\",\"cognates\":{\"ru\":{\"form\":\"гром\"},\"pl\":{\"form\":\"grom\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/blyskavka",
+			"seen": "{\"item\":\"word:blyskavka\",\"text\":\"блискавка\",\"display\":\"бли́скавка\",\"ipa\":\"/ˈblɪskaʋka/\",\"alsoAccepted\":[\"блискавиця\"],\"cognates\":{\"pl\":{\"form\":\"błyskawica\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/hrad",
+			"seen": "{\"item\":\"word:hrad\",\"text\":\"град\",\"ipa\":\"/ɦrad/\",\"cognates\":{\"ru\":{\"form\":\"град\"},\"pl\":{\"form\":\"grad\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/veselka",
+			"seen": "{\"item\":\"word:veselka\",\"text\":\"веселка\",\"display\":\"весе́лка\",\"ipa\":\"/ʋɛˈsɛlka/\",\"alsoAccepted\":[\"райдуга\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/burulka",
+			"seen": "{\"item\":\"word:burulka\",\"text\":\"бурулька\",\"display\":\"буру́лька\",\"ipa\":\"/buˈrulʲka/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/metelytsya",
+			"seen": "{\"item\":\"word:metelytsya\",\"text\":\"метелиця\",\"display\":\"мете́лиця\",\"ipa\":\"/mɛˈtɛlɪt͡sʲa/\",\"alsoAccepted\":[\"хуртовина\",\"завірюха\",\"заметіль\",\"завія\",\"віхола\",\"хуга\"],\"cognates\":{\"ru\":{\"form\":\"мете́ль\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/volohist",
+			"seen": "{\"item\":\"word:volohist\",\"text\":\"вологість\",\"display\":\"воло́гість\",\"ipa\":\"/ʋɔˈlɔɦisʲtʲ/\",\"cognates\":{\"pl\":{\"form\":\"wilgotność\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/hradus",
+			"seen": "{\"item\":\"word:hradus\",\"text\":\"градус\",\"display\":\"гра́дус\",\"ipa\":\"/ˈɦradus/\",\"cognates\":{\"ru\":{\"form\":\"гра́дус\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l08-words/krasnyi",
+			"seen": "{\"item\":\"word:krasnyi\",\"text\":\"красний\",\"display\":\"кра́сний\",\"ipa\":\"/ˈkrasnɪj/\",\"alsoAccepted\":[\"гарний\",\"красивий\"],\"cognates\":{\"pl\":{\"form\":\"krasny\"}}}",
 			"verdict": "ok"
 		},
 		{
@@ -3600,6 +4325,96 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/weather/cold.adj",
+			"seen": "{\"item\":\"weather:cold:adj\",\"text\":\"холодний\",\"display\":\"холо́дний\",\"ipa\":\"/xɔˈlɔdnɪj/\",\"alsoAccepted\":[\"зимний\"],\"concepts\":[\"impersonal\"],\"row\":\"cold\",\"col\":\"adj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/cold.state",
+			"seen": "{\"item\":\"weather:cold:state\",\"text\":\"холодно\",\"display\":\"хо́лодно\",\"ipa\":\"/ˈxɔlɔdnɔ/\",\"alsoAccepted\":[\"зимно\"],\"concepts\":[\"impersonal\"],\"row\":\"cold\",\"col\":\"state\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/warm.adj",
+			"seen": "{\"item\":\"weather:warm:adj\",\"text\":\"теплий\",\"display\":\"те́плий\",\"ipa\":\"/ˈtɛplɪj/\",\"concepts\":[\"impersonal\"],\"row\":\"warm\",\"col\":\"adj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/warm.state",
+			"seen": "{\"item\":\"weather:warm:state\",\"text\":\"тепло\",\"display\":\"те́пло\",\"ipa\":\"/ˈtɛplɔ/\",\"concepts\":[\"impersonal\"],\"row\":\"warm\",\"col\":\"state\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/hot.adj",
+			"seen": "{\"item\":\"weather:hot:adj\",\"text\":\"спекотний\",\"display\":\"спеко́тний\",\"ipa\":\"/spɛˈkɔtnɪj/\",\"alsoAccepted\":[\"жаркий\"],\"concepts\":[\"impersonal\"],\"row\":\"hot\",\"col\":\"adj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/hot.state",
+			"seen": "{\"item\":\"weather:hot:state\",\"text\":\"спекотно\",\"display\":\"спеко́тно\",\"ipa\":\"/spɛˈkɔtnɔ/\",\"alsoAccepted\":[\"жарко\"],\"concepts\":[\"impersonal\"],\"row\":\"hot\",\"col\":\"state\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/cool.adj",
+			"seen": "{\"item\":\"weather:cool:adj\",\"text\":\"прохолодний\",\"display\":\"прохоло́дний\",\"ipa\":\"/prɔxɔˈlɔdnɪj/\",\"concepts\":[\"impersonal\"],\"row\":\"cool\",\"col\":\"adj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/cool.state",
+			"seen": "{\"item\":\"weather:cool:state\",\"text\":\"прохолодно\",\"display\":\"прохоло́дно\",\"ipa\":\"/prɔxɔˈlɔdnɔ/\",\"concepts\":[\"impersonal\"],\"row\":\"cool\",\"col\":\"state\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/frosty.adj",
+			"seen": "{\"item\":\"weather:frosty:adj\",\"text\":\"морозний\",\"display\":\"моро́зний\",\"ipa\":\"/mɔˈrɔznɪj/\",\"concepts\":[\"impersonal\"],\"row\":\"frosty\",\"col\":\"adj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/frosty.state",
+			"seen": "{\"item\":\"weather:frosty:state\",\"text\":\"морозно\",\"display\":\"моро́зно\",\"ipa\":\"/mɔˈrɔznɔ/\",\"concepts\":[\"impersonal\"],\"row\":\"frosty\",\"col\":\"state\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/sunny.adj",
+			"seen": "{\"item\":\"weather:sunny:adj\",\"text\":\"сонячний\",\"display\":\"со́нячний\",\"ipa\":\"/ˈsɔnʲat͡ʃnɪj/\",\"concepts\":[\"impersonal\"],\"row\":\"sunny\",\"col\":\"adj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/sunny.state",
+			"seen": "{\"item\":\"weather:sunny:state\",\"text\":\"сонячно\",\"display\":\"со́нячно\",\"ipa\":\"/ˈsɔnʲat͡ʃnɔ/\",\"concepts\":[\"impersonal\"],\"row\":\"sunny\",\"col\":\"state\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/windy.adj",
+			"seen": "{\"item\":\"weather:windy:adj\",\"text\":\"вітряний\",\"display\":\"ві́тряний\",\"ipa\":\"/ˈʋitrʲanɪj/\",\"concepts\":[\"impersonal\"],\"row\":\"windy\",\"col\":\"adj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/windy.state",
+			"seen": "{\"item\":\"weather:windy:state\",\"text\":\"вітряно\",\"display\":\"ві́тряно\",\"ipa\":\"/ˈʋitrʲanɔ/\",\"concepts\":[\"impersonal\"],\"row\":\"windy\",\"col\":\"state\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/cloudy.adj",
+			"seen": "{\"item\":\"weather:cloudy:adj\",\"text\":\"хмарний\",\"display\":\"хма́рний\",\"ipa\":\"/ˈxmarnɪj/\",\"concepts\":[\"impersonal\"],\"row\":\"cloudy\",\"col\":\"adj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/cloudy.state",
+			"seen": "{\"item\":\"weather:cloudy:state\",\"text\":\"хмарно\",\"display\":\"хма́рно\",\"ipa\":\"/ˈxmarnɔ/\",\"concepts\":[\"impersonal\"],\"row\":\"cloudy\",\"col\":\"state\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/gloomy.adj",
+			"seen": "{\"item\":\"weather:gloomy:adj\",\"text\":\"похмурий\",\"display\":\"похму́рий\",\"ipa\":\"/pɔxˈmurɪj/\",\"concepts\":[\"impersonal\"],\"row\":\"gloomy\",\"col\":\"adj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/weather/gloomy.state",
+			"seen": "{\"item\":\"weather:gloomy:state\",\"text\":\"похмуро\",\"display\":\"похму́ро\",\"ipa\":\"/pɔxˈmurɔ/\",\"concepts\":[\"impersonal\"],\"row\":\"gloomy\",\"col\":\"state\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/section/sounds",
 			"seen": "\"Sounds\"",
 			"verdict": "ok"
@@ -3672,6 +4487,16 @@
 		{
 			"key": "en/lesson/l06",
 			"seen": "\"Lesson 6: Time, days and months\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l07",
+			"seen": "\"Lesson 7: Weekdays and the weekend\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l08",
+			"seen": "\"Lesson 8: The weather\"",
 			"verdict": "ok"
 		},
 		{
@@ -3834,6 +4659,31 @@
 		{
 			"key": "en/concept/season-when",
 			"seen": "{\"title\":\"In a season\",\"body\":\"In a season is usually a single adverb, with no preposition: взи́мку, навесні́, влі́тку, восени́. The first and third also begin with у: узи́мку, улі́тку. You will also hear зимо́ю, весно́ю, лі́том and о́сінню.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/buty-forms",
+			"seen": "{\"title\":\"The verb бу́ти\",\"body\":\"The present has one form for every person, є, and it mostly says that something exists or that someone has it: У ме́не є пес. The past agrees in gender and number: був, була́, було́, були́. The future has its own endings: бу́ду, бу́деш, бу́де, бу́демо, бу́дете, бу́дуть. What someone will be goes in the instrumental: Ким ти бу́деш? Я бу́ду ветерина́ром.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"бути (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/бути\"},{\"title\":\"Орудний відмінок (Вікіпедія)\",\"url\":\"https://uk.wikipedia.org/wiki/Орудний_відмінок\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/time-genitive",
+			"seen": "{\"title\":\"Last week, next year\",\"body\":\"Last, next and this often take the genitive with no preposition: мину́лого ро́ку, насту́пного ти́жня, цього́ ро́ку.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"Горох, слововживання: наступному\",\"url\":\"https://goroh.pp.ua/Слововживання/наступному\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/day-when",
+			"seen": "{\"title\":\"On a day, from a day\",\"body\":\"On a day is у or в with the accusative: у понеді́лок, у се́реду, у субо́ту. A feminine day changes its ending, and a masculine one keeps its form. From a day is з or із with the genitive: з понеді́лка, із субо́ти.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"Горох, тлумачення: в\",\"url\":\"https://goroh.pp.ua/Тлумачення/в\"},{\"title\":\"Український правопис (2019), § 25: з, із, зі\",\"url\":\"https://2019.pravopys.net/sections/25/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/impersonal",
+			"seen": "{\"title\":\"Sentences with no subject\",\"body\":\"Weather is often a form in -о with no subject and no verb: Хо́лодно. Сього́дні те́пло. The past adds було́, and the future adds бу́де: Учо́ра було́ те́пло. За́втра бу́де хо́лодно. The stress can differ from the adjective: холо́дний, but хо́лодно.\",\"sources\":[{\"title\":\"Є-мова, урок 8: Погода\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c\"},{\"title\":\"Горох, тлумачення: жарко\",\"url\":\"https://goroh.pp.ua/Тлумачення/жарко\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/adj-endings",
+			"seen": "{\"title\":\"Adjective endings\",\"body\":\"An adjective agrees with its noun. Masculine ends in -ий or -ій, feminine in -а or -я, neuter in -е or -є, and the plural in -і for every gender. Hard stems take the first of each pair: зеле́ний, зеле́на, зеле́не, зеле́ні. Soft stems take the second: си́ній, си́ня, си́нє, си́ні.\",\"sources\":[{\"title\":\"Є-мова, урок 8: Погода\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c\"},{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -4077,6 +4927,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/colours",
+			"seen": "{\"title\":\"The colours of the rainbow\",\"summary\":\"A colour is an adjective, so it agrees with its noun. си́ній has the soft endings.\",\"headers\":{\"red\":\"red\",\"orange\":\"orange\",\"yellow\":\"yellow\",\"green\":\"green\",\"sky\":\"sky blue\",\"blue\":\"dark blue\",\"violet\":\"violet\",\"m\":\"masculine: дощ\",\"f\":\"feminine: весе́лка\",\"n\":\"neuter: со́нце\",\"pl\":\"plural: дні\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/consonant-chart",
 			"seen": "{\"title\":\"The consonant chart\",\"summary\":\"The plain consonants by manner and place of articulation, as an IPA chart. Each cell gives the sound; find its letter or letters.\",\"headers\":{\"plosive-vl\":\"Plosive, voiceless\",\"plosive-vd\":\"Plosive, voiced\",\"nasal\":\"Nasal\",\"fricative-vl\":\"Fricative, voiceless\",\"fricative-vd\":\"Fricative, voiced\",\"affricate-vl\":\"Affricate, voiceless\",\"affricate-vd\":\"Affricate, voiced\",\"trill\":\"Trill\",\"approximant\":\"Approximant\",\"lateral\":\"Lateral\",\"labial\":\"Labial\",\"post\":\"Post-al­ve­o­lar\",\"palatal\":\"Palatal\",\"velar\":\"Velar\",\"glottal\":\"Glottal\",\"denti-alveolar\":\"Den­tal/​al­ve­o­lar\"}}",
 			"verdict": "ok",
@@ -4120,6 +4975,11 @@
 		{
 			"key": "en/countries",
 			"seen": "{\"title\":\"Countries: from and in\",\"summary\":\"Where someone is from takes the genitive, and where someone is takes the locative. Some forms fill both cells.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"from: з …\",\"in\":\"in: в / у …\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/days-when",
+			"seen": "{\"title\":\"On a day, from a day\",\"summary\":\"On a day is у or в with the accusative. From a day is з or із with the genitive.\",\"headers\":{\"mon\":\"Monday\",\"tue\":\"Tuesday\",\"wed\":\"Wednesday\",\"thu\":\"Thursday\",\"fri\":\"Friday\",\"sat\":\"Saturday\",\"sun\":\"Sunday\",\"on\":\"on: у, в …\",\"from\":\"from: з, із …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -5277,6 +6137,456 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/l07-sentences",
+			"seen": "{\"title\":\"Sentences\",\"summary\":\"бу́ти in the present, past and future, when things happen, and everyday verbs.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/ye",
+			"seen": "{\"sentenceGloss\":\"I have a dog now.\",\"note\":\"Now: є, in every person.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/bula",
+			"seen": "{\"sentenceGloss\":\"Maria was at the office yesterday.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/buv",
+			"seen": "{\"sentenceGloss\":\"Petro was in Lviv last year.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/buly",
+			"seen": "{\"sentenceGloss\":\"We were at the seaside last week.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/bulo",
+			"seen": "{\"sentenceGloss\":\"It was very interesting in town yesterday.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/budu",
+			"seen": "{\"sentenceGloss\":\"I'll be at the office at eight tomorrow.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/budesh",
+			"seen": "{\"sentenceGloss\":\"When will you be home tomorrow?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/bude",
+			"seen": "{\"sentenceGloss\":\"The meeting will be at three tomorrow.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/budemo",
+			"seen": "{\"sentenceGloss\":\"We will be in Odesa next week.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/budete",
+			"seen": "{\"sentenceGloss\":\"Will you be in Ukraine next year?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/budut",
+			"seen": "{\"sentenceGloss\":\"They will be at work tomorrow.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/kym",
+			"seen": "{\"sentenceGloss\":\"What will you be when you grow up?\",\"note\":\"Instrumental: what someone will be.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/veterynarom",
+			"seen": "{\"sentenceGloss\":\"My sister will be a vet.\",\"note\":\"Instrumental: what someone will be.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/mynuloho",
+			"seen": "{\"sentenceGloss\":\"I was in Kyiv last year.\",\"note\":\"Genitive, with no preposition.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/nastupnoho",
+			"seen": "{\"sentenceGloss\":\"We will be home next week.\",\"note\":\"Genitive, with no preposition.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/tsoho",
+			"seen": "{\"sentenceGloss\":\"Where will you take your holiday this year?\",\"note\":\"Genitive, with no preposition.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/subotu",
+			"seen": "{\"sentenceGloss\":\"I rest on Saturday.\",\"note\":\"Accusative after у or в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/seredu",
+			"seen": "{\"sentenceGloss\":\"I have a lesson on Wednesday.\",\"note\":\"Accusative after у or в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/ponedilka",
+			"seen": "{\"sentenceGloss\":\"I'm working here from Monday.\",\"note\":\"Genitive after з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/pratsyuyu",
+			"seen": "{\"sentenceGloss\":\"I work in an office.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/slukhayemo",
+			"seen": "{\"sentenceGloss\":\"We are listening to music.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/dyvytsya",
+			"seen": "{\"sentenceGloss\":\"He is watching a film.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-sentences/vidpochyvayut",
+			"seen": "{\"sentenceGloss\":\"They are resting at home.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-verbs",
+			"seen": "{\"title\":\"Everyday verbs\",\"summary\":\"Two verbs of the first conjugation, and диви́тися of the second, with its reflexive ending.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"pratsyuvaty\":\"працюва́ти\",\"slukhaty\":\"слу́хати\",\"dyvytysya\":\"диви́тися\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words",
+			"seen": "{\"title\":\"Words\",\"summary\":\"The words of this lesson. Each tile gives the meaning; find the word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/budni",
+			"seen": "{\"clue\":\"weekdays, working days\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/vykhidni",
+			"seen": "{\"clue\":\"the weekend\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/robota",
+			"seen": "{\"clue\":\"work, a job\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/vidpochynok",
+			"seen": "{\"clue\":\"rest, time off\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/povidomlennya",
+			"seen": "{\"clue\":\"a message\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/zaproshennya",
+			"seen": "{\"clue\":\"an invitation\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/nomer",
+			"seen": "{\"clue\":\"a phone number\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/do-rechi",
+			"seen": "{\"clue\":\"by the way\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/dyvno",
+			"seen": "{\"clue\":\"strange, oddly\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/davno",
+			"seen": "{\"clue\":\"long ago, for a long time\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/nastupnyi",
+			"seen": "{\"clue\":\"next\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/mynulyi",
+			"seen": "{\"clue\":\"last, past\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/vdoma",
+			"seen": "{\"clue\":\"at home\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/dykhaty",
+			"seen": "{\"clue\":\"to breathe\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/dyvytysya",
+			"seen": "{\"clue\":\"to watch, to look\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/slukhaty",
+			"seen": "{\"clue\":\"to listen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/vidchuvaty",
+			"seen": "{\"clue\":\"to feel\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/kokhaty",
+			"seen": "{\"clue\":\"to love (a person, romantically)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/pratsyuvaty",
+			"seen": "{\"clue\":\"to work\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/stvoryuvaty",
+			"seen": "{\"clue\":\"to create\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/keruvaty",
+			"seen": "{\"clue\":\"to manage, to run\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/prodavaty",
+			"seen": "{\"clue\":\"to sell\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/plavaty",
+			"seen": "{\"clue\":\"to swim\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/podorozhuvaty",
+			"seen": "{\"clue\":\"to travel\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/vidviduvaty",
+			"seen": "{\"clue\":\"to visit\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/telefonuvaty",
+			"seen": "{\"clue\":\"to phone\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l07-words/otrymuvaty",
+			"seen": "{\"clue\":\"to receive\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences",
+			"seen": "{\"title\":\"Sentences\",\"summary\":\"The weather, then and now, and colours agreeing with their nouns.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/pohoda",
+			"seen": "{\"sentenceGloss\":\"What is the weather like today?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/kholodno",
+			"seen": "{\"sentenceGloss\":\"It's cold outside in January.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/spekotno",
+			"seen": "{\"sentenceGloss\":\"It's very hot here in July.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/bulo",
+			"seen": "{\"sentenceGloss\":\"It was warm yesterday.\",\"note\":\"Past of бу́ти, neuter, as there is no subject.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/bude",
+			"seen": "{\"sentenceGloss\":\"It will be cold tomorrow.\",\"note\":\"Future of бу́ти, with no subject.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/snih",
+			"seen": "{\"sentenceGloss\":\"It often snows in winter, and everything around is white.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/doshch",
+			"seen": "{\"sentenceGloss\":\"Take an umbrella: it's raining outside.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/veselku",
+			"seen": "{\"sentenceGloss\":\"After the rain we see a rainbow in the sky.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/zhovte",
+			"seen": "{\"sentenceGloss\":\"The sun is yellow.\",\"note\":\"It agrees with the noun in gender and number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/zelena",
+			"seen": "{\"sentenceGloss\":\"The grass is green.\",\"note\":\"It agrees with the noun in gender and number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/syne",
+			"seen": "{\"sentenceGloss\":\"The sea is dark blue.\",\"note\":\"It agrees with the noun in gender and number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/chervoni",
+			"seen": "{\"sentenceGloss\":\"These flowers are red.\",\"note\":\"It agrees with the noun in gender and number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/blakytne",
+			"seen": "{\"sentenceGloss\":\"The sky is light blue today.\",\"note\":\"It agrees with the noun in gender and number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-sentences/kholodnyi",
+			"seen": "{\"sentenceGloss\":\"The rain is cold today.\",\"note\":\"It agrees with the noun in gender and number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words",
+			"seen": "{\"title\":\"Words\",\"summary\":\"The words of this lesson. Each tile gives the meaning; find the word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/pohoda",
+			"seen": "{\"clue\":\"the weather\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/nehoda",
+			"seen": "{\"clue\":\"bad weather\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/prohnoz",
+			"seen": "{\"clue\":\"a forecast\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/sontse",
+			"seen": "{\"clue\":\"the sun\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/doshch",
+			"seen": "{\"clue\":\"rain\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/snih",
+			"seen": "{\"clue\":\"snow\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/viter",
+			"seen": "{\"clue\":\"wind\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/moroz",
+			"seen": "{\"clue\":\"frost\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/lid",
+			"seen": "{\"clue\":\"ice\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/tuman",
+			"seen": "{\"clue\":\"fog\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/khmara",
+			"seen": "{\"clue\":\"a cloud\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/hroza",
+			"seen": "{\"clue\":\"a thunderstorm\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/hrim",
+			"seen": "{\"clue\":\"thunder\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/blyskavka",
+			"seen": "{\"clue\":\"lightning\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/hrad",
+			"seen": "{\"clue\":\"hail\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/veselka",
+			"seen": "{\"clue\":\"a rainbow\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/burulka",
+			"seen": "{\"clue\":\"an icicle\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/metelytsya",
+			"seen": "{\"clue\":\"a snowstorm\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/volohist",
+			"seen": "{\"clue\":\"humidity\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/hradus",
+			"seen": "{\"clue\":\"a degree\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l08-words/krasnyi",
+			"seen": "{\"clue\":\"beautiful (folk, poetic)\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/letter-names",
 			"seen": "{\"title\":\"Letter names\",\"summary\":\"What each letter is called when you spell a word aloud. Each tile gives the letter; find its name.\"}",
 			"verdict": "ok"
@@ -5890,6 +7200,11 @@
 			"comment": "Note accurate: Jipa writes /a/; Vakulenko 2025 Table 1 gives ɑ for stressed а (and ɐ unstressed or after palatalized consonants); Ukrainian descriptions class а as a back vowel."
 		},
 		{
+			"key": "en/weather",
+			"seen": "{\"title\":\"Weather: a day, and how it is\",\"summary\":\"An adjective describes the day. A form in -о stands alone, with no subject: хо́лодно means it is cold.\",\"headers\":{\"cold\":\"cold\",\"warm\":\"warm\",\"hot\":\"hot\",\"cool\":\"cool\",\"frosty\":\"frosty\",\"sunny\":\"sunny\",\"windy\":\"windy\",\"cloudy\":\"cloudy\",\"gloomy\":\"gloomy, overcast\",\"adj\":\"a … day: день\",\"state\":\"it's …\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/section/sounds",
 			"seen": "\"Dźwięki\"",
 			"verdict": "ok"
@@ -5963,6 +7278,16 @@
 		{
 			"key": "pl/lesson/l06",
 			"seen": "\"Lekcja 6: Czas, dni i miesiące\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/l07",
+			"seen": "\"Lekcja 7: Dni powszednie i weekend\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/l08",
+			"seen": "\"Lekcja 8: Pogoda\"",
 			"verdict": "ok"
 		},
 		{
@@ -6124,6 +7449,31 @@
 		{
 			"key": "pl/concept/season-when",
 			"seen": "{\"title\":\"W której porze roku\",\"body\":\"Na „kiedy” zwykle odpowiada jeden przysłówek, bez przyimka: взи́мку, навесні́, влі́тку, восени́. Pierwszy i trzeci mają też formę z у: узи́мку, улі́тку. Mówi się także зимо́ю, весно́ю, лі́том i о́сінню.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/buty-forms",
+			"seen": "{\"title\":\"Czasownik бу́ти\",\"body\":\"W czasie teraźniejszym ma jedną formę dla wszystkich osób, є, i zwykle mówi, że coś istnieje albo że ktoś coś ma: У ме́не є пес. W czasie przeszłym zgadza się w rodzaju i liczbie: був, була́, було́, були́. W czasie przyszłym ma własne końcówki: бу́ду, бу́деш, бу́де, бу́демо, бу́дете, бу́дуть. To, kim ktoś będzie, stoi w narzędniku: Ким ти бу́деш? Я бу́ду ветерина́ром.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"бути (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/бути\"},{\"title\":\"Орудний відмінок (Вікіпедія)\",\"url\":\"https://uk.wikipedia.org/wiki/Орудний_відмінок\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/time-genitive",
+			"seen": "{\"title\":\"W zeszłym tygodniu, w przyszłym roku\",\"body\":\"Tutaj jest dopełniacz bez przyimka: мину́лого ро́ку, насту́пного ти́жня, цього́ ро́ку.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"Горох, слововживання: наступному\",\"url\":\"https://goroh.pp.ua/Слововживання/наступному\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/day-when",
+			"seen": "{\"title\":\"W jaki dzień, od jakiego dnia\",\"body\":\"„W ten dzień” to у lub в z biernikiem: у понеді́лок, у се́реду, у субо́ту. Dzień rodzaju żeńskiego zmienia końcówkę, a męskiego zachowuje formę. „Od tego dnia” to з lub із z dopełniaczem: з понеді́лка, із субо́ти.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"Горох, тлумачення: в\",\"url\":\"https://goroh.pp.ua/Тлумачення/в\"},{\"title\":\"Український правопис (2019), § 25: з, із, зі\",\"url\":\"https://2019.pravopys.net/sections/25/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/impersonal",
+			"seen": "{\"title\":\"Zdania bez podmiotu\",\"body\":\"O pogodzie mówi się często formą na -о, bez podmiotu i bez czasownika: Хо́лодно. Сього́дні те́пло. W czasie przeszłym dodaje się було́, a w przyszłym бу́де: Учо́ра було́ те́пло. За́втра бу́де хо́лодно. Akcent może być inny niż w przymiotniku: холо́дний, ale хо́лодно.\",\"sources\":[{\"title\":\"Є-мова, урок 8: Погода\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c\"},{\"title\":\"Горох, тлумачення: жарко\",\"url\":\"https://goroh.pp.ua/Тлумачення/жарко\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/adj-endings",
+			"seen": "{\"title\":\"Końcówki przymiotników\",\"body\":\"Przymiotnik zgadza się z rzeczownikiem. Rodzaj męski kończy się na -ий lub -ій, żeński na -а lub -я, nijaki na -е lub -є, a liczba mnoga na -і we wszystkich rodzajach. Temat twardy bierze pierwszą z pary: зеле́ний, зеле́на, зеле́не, зеле́ні. Miękki bierze drugą: си́ній, си́ня, си́нє, си́ні.\",\"sources\":[{\"title\":\"Є-мова, урок 8: Погода\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c\"},{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -6367,6 +7717,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/colours",
+			"seen": "{\"title\":\"Kolory tęczy\",\"summary\":\"Kolor to przymiotnik, więc zgadza się z rzeczownikiem. си́ній ma końcówki miękkie.\",\"headers\":{\"red\":\"czerwony\",\"orange\":\"pomarańczowy\",\"yellow\":\"żółty\",\"green\":\"zielony\",\"sky\":\"błękitny\",\"blue\":\"granatowy\",\"violet\":\"fioletowy\",\"m\":\"męski: дощ\",\"f\":\"żeński: весе́лка\",\"n\":\"nijaki: со́нце\",\"pl\":\"mnoga: дні\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/consonant-chart",
 			"seen": "{\"title\":\"Tabela spółgłosek\",\"summary\":\"Twarde spółgłoski według sposobu i miejsca artykulacji, jak w tabeli IPA. Pole podaje dźwięk; znajdź jego literę lub litery.\",\"headers\":{\"plosive-vl\":\"Zwarta, bezdźwięczna\",\"plosive-vd\":\"Zwarta, dźwięczna\",\"nasal\":\"Nosowa\",\"fricative-vl\":\"Szczelinowa, bezdźwięczna\",\"fricative-vd\":\"Szczelinowa, dźwięczna\",\"affricate-vl\":\"Zwarto-szczelinowa, bezdźwięczna\",\"affricate-vd\":\"Zwarto-szczelinowa, dźwięczna\",\"trill\":\"Drżąca\",\"approximant\":\"Aproksymant\",\"lateral\":\"Boczna\",\"labial\":\"War­go­wa\",\"post\":\"Za­dzią­sło­wa\",\"palatal\":\"Pod­nie­bien­na\",\"velar\":\"Tyl­no­ję­zy­ko­wa\",\"glottal\":\"Krta­nio­wa\",\"denti-alveolar\":\"Zę­bo­wa/​dzią­sło­wa\"}}",
 			"verdict": "ok",
@@ -6411,6 +7766,11 @@
 		{
 			"key": "pl/countries",
 			"seen": "{\"title\":\"Kraje: skąd i gdzie\",\"summary\":\"Skąd ktoś pochodzi: dopełniacz. Gdzie ktoś jest: miejscownik. Niektóre formy wypełniają oba pola.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"skąd: з …\",\"in\":\"gdzie: в / у …\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/days-when",
+			"seen": "{\"title\":\"W jaki dzień, od jakiego dnia\",\"summary\":\"„W ten dzień” to у lub в z biernikiem. „Od tego dnia” to з lub із z dopełniaczem.\",\"headers\":{\"mon\":\"poniedziałek\",\"tue\":\"wtorek\",\"wed\":\"środa\",\"thu\":\"czwartek\",\"fri\":\"piątek\",\"sat\":\"sobota\",\"sun\":\"niedziela\",\"on\":\"w: у, в …\",\"from\":\"od: з, із …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -7573,6 +8933,456 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/l07-sentences",
+			"seen": "{\"title\":\"Zdania\",\"summary\":\"бу́ти w czasie teraźniejszym, przeszłym i przyszłym, kiedy coś się dzieje, i czasowniki na co dzień.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/ye",
+			"seen": "{\"sentenceGloss\":\"Mam teraz psa.\",\"note\":\"Teraz: є, we wszystkich osobach.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/bula",
+			"seen": "{\"sentenceGloss\":\"Wczoraj Maria była w biurze.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/buv",
+			"seen": "{\"sentenceGloss\":\"W zeszłym roku Petro był we Lwowie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/buly",
+			"seen": "{\"sentenceGloss\":\"W zeszłym tygodniu byliśmy nad morzem.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/bulo",
+			"seen": "{\"sentenceGloss\":\"Wczoraj w mieście było bardzo ciekawie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/budu",
+			"seen": "{\"sentenceGloss\":\"Jutro będę w biurze o ósmej.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/budesh",
+			"seen": "{\"sentenceGloss\":\"Kiedy jutro będziesz w domu?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/bude",
+			"seen": "{\"sentenceGloss\":\"Jutro spotkanie będzie o trzeciej.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/budemo",
+			"seen": "{\"sentenceGloss\":\"W przyszłym tygodniu będziemy w Odessie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/budete",
+			"seen": "{\"sentenceGloss\":\"Czy będziecie na Ukrainie w przyszłym roku?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/budut",
+			"seen": "{\"sentenceGloss\":\"Jutro będą w pracy.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/kym",
+			"seen": "{\"sentenceGloss\":\"Kim będziesz, gdy dorośniesz?\",\"note\":\"Narzędnik: kim ktoś będzie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/veterynarom",
+			"seen": "{\"sentenceGloss\":\"Siostra będzie weterynarzem.\",\"note\":\"Narzędnik: kim ktoś będzie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/mynuloho",
+			"seen": "{\"sentenceGloss\":\"Byłam w Kijowie w zeszłym roku.\",\"note\":\"Dopełniacz, bez przyimka.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/nastupnoho",
+			"seen": "{\"sentenceGloss\":\"Będziemy w domu w przyszłym tygodniu.\",\"note\":\"Dopełniacz, bez przyimka.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/tsoho",
+			"seen": "{\"sentenceGloss\":\"Gdzie będziesz odpoczywać w tym roku?\",\"note\":\"Dopełniacz, bez przyimka.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/subotu",
+			"seen": "{\"sentenceGloss\":\"W sobotę odpoczywam.\",\"note\":\"Biernik po у lub в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/seredu",
+			"seen": "{\"sentenceGloss\":\"W środę mam lekcję.\",\"note\":\"Biernik po у lub в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/ponedilka",
+			"seen": "{\"sentenceGloss\":\"Pracuję tutaj od poniedziałku.\",\"note\":\"Dopełniacz po з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/pratsyuyu",
+			"seen": "{\"sentenceGloss\":\"Pracuję w biurze.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/slukhayemo",
+			"seen": "{\"sentenceGloss\":\"Słuchamy muzyki.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/dyvytsya",
+			"seen": "{\"sentenceGloss\":\"On ogląda film.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-sentences/vidpochyvayut",
+			"seen": "{\"sentenceGloss\":\"Odpoczywają w domu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-verbs",
+			"seen": "{\"title\":\"Czasowniki na co dzień\",\"summary\":\"Dwa czasowniki pierwszej koniugacji i диви́тися drugiej, z końcówką zwrotną.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"pratsyuvaty\":\"працюва́ти\",\"slukhaty\":\"слу́хати\",\"dyvytysya\":\"диви́тися\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words",
+			"seen": "{\"title\":\"Słowa\",\"summary\":\"Słowa tej lekcji. Pole podaje znaczenie; znajdź słowo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/budni",
+			"seen": "{\"clue\":\"dni powszednie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/vykhidni",
+			"seen": "{\"clue\":\"weekend\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/robota",
+			"seen": "{\"clue\":\"praca\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/vidpochynok",
+			"seen": "{\"clue\":\"odpoczynek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/povidomlennya",
+			"seen": "{\"clue\":\"wiadomość\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/zaproshennya",
+			"seen": "{\"clue\":\"zaproszenie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/nomer",
+			"seen": "{\"clue\":\"numer\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/do-rechi",
+			"seen": "{\"clue\":\"przy okazji\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/dyvno",
+			"seen": "{\"clue\":\"dziwnie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/davno",
+			"seen": "{\"clue\":\"dawno\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/nastupnyi",
+			"seen": "{\"clue\":\"następny\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/mynulyi",
+			"seen": "{\"clue\":\"ubiegły, miniony\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/vdoma",
+			"seen": "{\"clue\":\"w domu\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/dykhaty",
+			"seen": "{\"clue\":\"oddychać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/dyvytysya",
+			"seen": "{\"clue\":\"patrzeć, oglądać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/slukhaty",
+			"seen": "{\"clue\":\"słuchać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/vidchuvaty",
+			"seen": "{\"clue\":\"czuć, odczuwać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/kokhaty",
+			"seen": "{\"clue\":\"kochać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/pratsyuvaty",
+			"seen": "{\"clue\":\"pracować\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/stvoryuvaty",
+			"seen": "{\"clue\":\"tworzyć, stwarzać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/keruvaty",
+			"seen": "{\"clue\":\"kierować\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/prodavaty",
+			"seen": "{\"clue\":\"sprzedawać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/plavaty",
+			"seen": "{\"clue\":\"pływać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/podorozhuvaty",
+			"seen": "{\"clue\":\"podróżować\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/vidviduvaty",
+			"seen": "{\"clue\":\"odwiedzać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/telefonuvaty",
+			"seen": "{\"clue\":\"dzwonić, telefonować\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l07-words/otrymuvaty",
+			"seen": "{\"clue\":\"otrzymywać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences",
+			"seen": "{\"title\":\"Zdania\",\"summary\":\"Pogoda, wczoraj i dziś, oraz kolory w zgodzie z rzeczownikami.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/pohoda",
+			"seen": "{\"sentenceGloss\":\"Jaka jest dziś pogoda?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/kholodno",
+			"seen": "{\"sentenceGloss\":\"W styczniu na dworze jest zimno.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/spekotno",
+			"seen": "{\"sentenceGloss\":\"W lipcu jest tu bardzo gorąco.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/bulo",
+			"seen": "{\"sentenceGloss\":\"Wczoraj było ciepło.\",\"note\":\"Czas przeszły бу́ти, rodzaj nijaki: nie ma podmiotu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/bude",
+			"seen": "{\"sentenceGloss\":\"Jutro będzie zimno.\",\"note\":\"Czas przyszły бу́ти, bez podmiotu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/snih",
+			"seen": "{\"sentenceGloss\":\"Zimą często pada śnieg i wszystko dookoła jest białe.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/doshch",
+			"seen": "{\"sentenceGloss\":\"Weź parasol: na dworze pada deszcz.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/veselku",
+			"seen": "{\"sentenceGloss\":\"Po deszczu widzimy na niebie tęczę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/zhovte",
+			"seen": "{\"sentenceGloss\":\"Słońce jest żółte.\",\"note\":\"Zgadza się z rzeczownikiem w rodzaju i liczbie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/zelena",
+			"seen": "{\"sentenceGloss\":\"Trawa jest zielona.\",\"note\":\"Zgadza się z rzeczownikiem w rodzaju i liczbie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/syne",
+			"seen": "{\"sentenceGloss\":\"Morze jest granatowe.\",\"note\":\"Zgadza się z rzeczownikiem w rodzaju i liczbie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/chervoni",
+			"seen": "{\"sentenceGloss\":\"Te kwiaty są czerwone.\",\"note\":\"Zgadza się z rzeczownikiem w rodzaju i liczbie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/blakytne",
+			"seen": "{\"sentenceGloss\":\"Dziś niebo jest błękitne.\",\"note\":\"Zgadza się z rzeczownikiem w rodzaju i liczbie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-sentences/kholodnyi",
+			"seen": "{\"sentenceGloss\":\"Dziś deszcz jest zimny.\",\"note\":\"Zgadza się z rzeczownikiem w rodzaju i liczbie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words",
+			"seen": "{\"title\":\"Słowa\",\"summary\":\"Słowa tej lekcji. Pole podaje znaczenie; znajdź słowo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/pohoda",
+			"seen": "{\"clue\":\"pogoda\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/nehoda",
+			"seen": "{\"clue\":\"niepogoda\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/prohnoz",
+			"seen": "{\"clue\":\"prognoza\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/sontse",
+			"seen": "{\"clue\":\"słońce\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/doshch",
+			"seen": "{\"clue\":\"deszcz\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/snih",
+			"seen": "{\"clue\":\"śnieg\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/viter",
+			"seen": "{\"clue\":\"wiatr\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/moroz",
+			"seen": "{\"clue\":\"mróz\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/lid",
+			"seen": "{\"clue\":\"lód\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/tuman",
+			"seen": "{\"clue\":\"mgła\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/khmara",
+			"seen": "{\"clue\":\"chmura\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/hroza",
+			"seen": "{\"clue\":\"burza\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/hrim",
+			"seen": "{\"clue\":\"grzmot\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/blyskavka",
+			"seen": "{\"clue\":\"błyskawica\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/hrad",
+			"seen": "{\"clue\":\"grad\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/veselka",
+			"seen": "{\"clue\":\"tęcza\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/burulka",
+			"seen": "{\"clue\":\"sopel\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/metelytsya",
+			"seen": "{\"clue\":\"zamieć\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/volohist",
+			"seen": "{\"clue\":\"wilgotność\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/hradus",
+			"seen": "{\"clue\":\"stopień\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l08-words/krasnyi",
+			"seen": "{\"clue\":\"piękny (ludowo-poet.)\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/letter-names",
 			"seen": "{\"title\":\"Nazwy liter\",\"summary\":\"Jak nazywa się każda litera przy literowaniu. Pole podaje literę; znajdź jej nazwę.\"}",
 			"verdict": "ok"
@@ -8188,6 +9998,11 @@
 			"comment": "Note accurate: Jipa writes /a/; Vakulenko 2025 Table 1 gives ɑ for stressed а (and ɐ unstressed or after palatalized consonants); Ukrainian descriptions class а as a back vowel."
 		},
 		{
+			"key": "pl/weather",
+			"seen": "{\"title\":\"Pogoda: dzień i jak jest\",\"summary\":\"Przymiotnik opisuje dzień. Forma na -о stoi sama, bez podmiotu: хо́лодно znaczy „jest zimno”.\",\"headers\":{\"cold\":\"zimno\",\"warm\":\"ciepło\",\"hot\":\"gorąco\",\"cool\":\"chłodno\",\"frosty\":\"mroźno\",\"sunny\":\"słonecznie\",\"windy\":\"wietrznie\",\"cloudy\":\"pochmurno\",\"gloomy\":\"ponuro\",\"adj\":\"jaki dzień: день\",\"state\":\"jest …\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-en/concept/free-stress",
 			"seen": "{\"title\":\"Free, moving stress\",\"body\":\"This is the biggest change from Polish, where stress usually falls on the penultimate syllable. In Ukrainian it can fall on any syllable, tell words apart, as in доро́га and дорога́, and move within one word's forms: роби́ти, роблю́, ро́биш. It can't be guessed, so learn it with each word.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"}]}",
 			"verdict": "ok"
@@ -8294,6 +10109,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-en/colours/blue.m",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"siny\",\"means\":\"bluish-grey, as a bruise. Ukrainian си́ній is dark blue\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-en/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"człowiek\",\"means\":\"means any person, in Ukrainian людина; чоловік means a man or husband\"}}",
 			"verdict": "ok"
@@ -8380,6 +10200,21 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-en/l07-words/robota",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"robota\",\"means\":\"labour, a piece of work. Everyday work in Polish is praca\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l08-words/hroza",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"groza\",\"means\":\"dread. A storm in Polish is burza\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l08-words/krasnyi",
+			"seen": "{\"contrast\":\"Polish krasny is an old, literary word. Ukrainian кра́сний is folk and poetic too: the everyday words are га́рний and краси́вий.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-en/months/m1.in",
 			"seen": "{\"contrast\":\"Polish w styczniu has the same pattern: a preposition and the locative.\"}",
 			"verdict": "ok"
@@ -8408,6 +10243,11 @@
 		{
 			"key": "pl-en/seasons/winter.when",
 			"seen": "{\"contrast\":\"Polish zimą, an instrumental. Ukrainian has the adverb взи́мку, and зимо́ю as well.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/weather/cold.state",
+			"seen": "{\"contrast\":\"Polish chłodno is cool, and zimno is cold.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -8517,6 +10357,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-pl/colours/blue.m",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"siny\",\"means\":\"to sinoszary, jak siniak. Ukraińskie си́ній znaczy „granatowy”\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-pl/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"człowiek\",\"means\":\"znaczy każdą osobę, po ukraińsku людина; чоловік to mężczyzna lub mąż\"}}",
 			"verdict": "ok"
@@ -8603,6 +10448,21 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-pl/l07-words/robota",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"robota\",\"means\":\"to raczej trud, wykonywanie czegoś. Zwykła praca to po ukraińsku робо́та\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l08-words/hroza",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"groza\",\"means\":\"to przerażenie. Ukraińskie гроза́ znaczy „burza”\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l08-words/krasnyi",
+			"seen": "{\"contrast\":\"Polskie krasny to słowo dawne, literackie. Ukraińskie кра́сний też jest ludowe i poetyckie: na co dzień mówi się га́рний i краси́вий.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-pl/months/m1.in",
 			"seen": "{\"contrast\":\"Polskie w styczniu ma ten sam wzór: przyimek i miejscownik.\"}",
 			"verdict": "ok"
@@ -8631,6 +10491,11 @@
 		{
 			"key": "pl-pl/seasons/winter.when",
 			"seen": "{\"contrast\":\"Po polsku zimą, narzędnik. Po ukraińsku przysłówek взи́мку, a także зимо́ю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/weather/cold.state",
+			"seen": "{\"contrast\":\"Polskie chłodno to прохоло́дно, a zimno to хо́лодно.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -8740,6 +10605,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-uk/colours/blue.m",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"siny\",\"means\":\"польською це сизий, як синець, а не кольору глибокого моря\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-uk/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"człowiek\",\"means\":\"означає будь-яку особу, українською людина; чоловік — це особа чоловічої статі або той, хто одружений із жінкою\"}}",
 			"verdict": "ok"
@@ -8828,6 +10698,21 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-uk/l07-words/robota",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"robota\",\"means\":\"польською це радше сама праця, виконання чогось\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l08-words/hroza",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"groza\",\"means\":\"польською це жах, а не злива з громом\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l08-words/krasnyi",
+			"seen": "{\"contrast\":\"Польське krasny давнє, книжне слово. Українське кра́сний теж народно-поетичне: щодня кажуть га́рний і краси́вий.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-uk/months/m1.in",
 			"seen": "{\"contrast\":\"Польське w styczniu має той самий зразок: прийменник і місцевий відмінок.\"}",
 			"verdict": "ok"
@@ -8856,6 +10741,11 @@
 		{
 			"key": "pl-uk/seasons/winter.when",
 			"seen": "{\"contrast\":\"Польською zimą, орудний відмінок. Українською прислівник взи́мку, а також зимо́ю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/weather/cold.state",
+			"seen": "{\"contrast\":\"Польське chłodno — це прохоло́дно, а zimno — це хо́лодно.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -8931,6 +10821,16 @@
 		{
 			"key": "ru/lesson/l06",
 			"seen": "\"Урок 6: Время, дни и месяцы\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l07",
+			"seen": "\"Урок 7: Будни и выходные\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l08",
+			"seen": "\"Урок 8: Погода\"",
 			"verdict": "ok"
 		},
 		{
@@ -9092,6 +10992,31 @@
 		{
 			"key": "ru/concept/season-when",
 			"seen": "{\"title\":\"В какое время года\",\"body\":\"На вопрос «когда» обычно отвечают одним наречием, без предлога: взи́мку, навесні́, влі́тку, восени́. Первое и третье бывают и с у: узи́мку, улі́тку. Говорят также зимо́ю, весно́ю, лі́том и о́сінню.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/buty-forms",
+			"seen": "{\"title\":\"Глагол бу́ти\",\"body\":\"В настоящем времени одна форма для всех лиц, є, и она чаще всего говорит, что что-то есть или у кого-то есть: У ме́не є пес. В прошедшем согласуется в роде и числе: був, була́, було́, були́. В будущем свои окончания: бу́ду, бу́деш, бу́де, бу́демо, бу́дете, бу́дуть. То, кем человек будет, стоит в творительном падеже: Ким ти бу́деш? Я бу́ду ветерина́ром.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"бути (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/бути\"},{\"title\":\"Орудний відмінок (Вікіпедія)\",\"url\":\"https://uk.wikipedia.org/wiki/Орудний_відмінок\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/time-genitive",
+			"seen": "{\"title\":\"На прошлой неделе, в следующем году\",\"body\":\"Здесь родительный падеж без предлога: мину́лого ро́ку, насту́пного ти́жня, цього́ ро́ку.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"Горох, слововживання: наступному\",\"url\":\"https://goroh.pp.ua/Слововживання/наступному\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/day-when",
+			"seen": "{\"title\":\"В какой день, с какого дня\",\"body\":\"«В такой-то день» — это у или в с винительным падежом: у понеді́лок, у се́реду, у субо́ту. День женского рода меняет окончание, а мужского сохраняет форму. «С такого-то дня» — это з или із с родительным падежом: з понеді́лка, із субо́ти.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"Горох, тлумачення: в\",\"url\":\"https://goroh.pp.ua/Тлумачення/в\"},{\"title\":\"Український правопис (2019), § 25: з, із, зі\",\"url\":\"https://2019.pravopys.net/sections/25/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/impersonal",
+			"seen": "{\"title\":\"Предложения без подлежащего\",\"body\":\"О погоде часто говорят формой на -о, без подлежащего и без глагола: Хо́лодно. Сього́дні те́пло. В прошедшем добавляют було́, а в будущем бу́де: Учо́ра було́ те́пло. За́втра бу́де хо́лодно. Ударение может отличаться от прилагательного: холо́дний, но хо́лодно.\",\"sources\":[{\"title\":\"Є-мова, урок 8: Погода\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c\"},{\"title\":\"Горох, тлумачення: жарко\",\"url\":\"https://goroh.pp.ua/Тлумачення/жарко\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/adj-endings",
+			"seen": "{\"title\":\"Окончания прилагательных\",\"body\":\"Прилагательное согласуется с существительным. Мужской род кончается на -ий или -ій, женский на -а или -я, средний на -е или -є, а множественное число на -і для всех родов. Твёрдая основа берёт первое из каждой пары: зеле́ний, зеле́на, зеле́не, зеле́ні. Мягкая берёт второе: си́ній, си́ня, си́нє, си́ні.\",\"sources\":[{\"title\":\"Є-мова, урок 8: Погода\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c\"},{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -9335,6 +11260,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/colours",
+			"seen": "{\"title\":\"Цвета радуги\",\"summary\":\"Цвет — это прилагательное, поэтому он согласуется с существительным. У си́ній мягкие окончания.\",\"headers\":{\"red\":\"красный\",\"orange\":\"оранжевый\",\"yellow\":\"жёлтый\",\"green\":\"зелёный\",\"sky\":\"голубой\",\"blue\":\"синий\",\"violet\":\"фиолетовый\",\"m\":\"мужской род: дощ\",\"f\":\"женский род: весе́лка\",\"n\":\"средний род: со́нце\",\"pl\":\"множественное число: дні\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/consonant-chart",
 			"seen": "{\"title\":\"Таблица согласных\",\"summary\":\"Твёрдые согласные по способу и месту образования, в виде таблицы МФА. В ячейке звук; найдите его букву или буквы.\",\"headers\":{\"plosive-vl\":\"Взрывной, глухой\",\"plosive-vd\":\"Взрывной, звонкий\",\"nasal\":\"Носовой\",\"fricative-vl\":\"Щелевой, глухой\",\"fricative-vd\":\"Щелевой, звонкий\",\"affricate-vl\":\"Аффриката, глухая\",\"affricate-vd\":\"Аффриката, звонкая\",\"trill\":\"Дрожащий\",\"approximant\":\"Аппроксимант\",\"lateral\":\"Боковой\",\"labial\":\"Губ­ной\",\"post\":\"Пост­аль­ве­о­ляр­ный\",\"palatal\":\"Нёб­ный\",\"velar\":\"Зад­не­языч­ный\",\"glottal\":\"Гор­тан­ный\",\"denti-alveolar\":\"Зуб­ной/​аль­ве­о­ляр­ный\"}}",
 			"verdict": "ok",
@@ -9379,6 +11309,11 @@
 		{
 			"key": "ru/countries",
 			"seen": "{\"title\":\"Страны: откуда и где\",\"summary\":\"Откуда кто-то: родительный падеж. Где кто-то: местный. Некоторые формы занимают обе клетки.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"откуда: з …\",\"in\":\"где: в / у …\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/days-when",
+			"seen": "{\"title\":\"В какой день, с какого дня\",\"summary\":\"«В такой-то день» — это у или в с винительным падежом. «С такого-то дня» — это з или із с родительным падежом.\",\"headers\":{\"mon\":\"понедельник\",\"tue\":\"вторник\",\"wed\":\"среда\",\"thu\":\"четверг\",\"fri\":\"пятница\",\"sat\":\"суббота\",\"sun\":\"воскресенье\",\"on\":\"в: у, в …\",\"from\":\"с: з, із …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -10537,6 +12472,456 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/l07-sentences",
+			"seen": "{\"title\":\"Предложения\",\"summary\":\"бу́ти в настоящем, прошедшем и будущем, когда что происходит, и глаголы на каждый день.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/ye",
+			"seen": "{\"sentenceGloss\":\"Сейчас у меня есть собака.\",\"note\":\"Сейчас: є, во всех лицах.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/bula",
+			"seen": "{\"sentenceGloss\":\"Вчера Мария была в офисе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/buv",
+			"seen": "{\"sentenceGloss\":\"В прошлом году Петро был во Львове.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/buly",
+			"seen": "{\"sentenceGloss\":\"На прошлой неделе мы были на море.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/bulo",
+			"seen": "{\"sentenceGloss\":\"Вчера в городе было очень интересно.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/budu",
+			"seen": "{\"sentenceGloss\":\"Завтра я буду в офисе в восемь.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/budesh",
+			"seen": "{\"sentenceGloss\":\"Когда ты завтра будешь дома?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/bude",
+			"seen": "{\"sentenceGloss\":\"Завтра встреча будет в три.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/budemo",
+			"seen": "{\"sentenceGloss\":\"На следующей неделе мы будем в Одессе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/budete",
+			"seen": "{\"sentenceGloss\":\"Вы будете в Украине в следующем году?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/budut",
+			"seen": "{\"sentenceGloss\":\"Завтра они будут на работе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/kym",
+			"seen": "{\"sentenceGloss\":\"Кем ты будешь, когда вырастешь?\",\"note\":\"Творительный падеж: кем человек будет.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/veterynarom",
+			"seen": "{\"sentenceGloss\":\"Сестра будет ветеринаром.\",\"note\":\"Творительный падеж: кем человек будет.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/mynuloho",
+			"seen": "{\"sentenceGloss\":\"Я была в Киеве в прошлом году.\",\"note\":\"Родительный падеж, без предлога.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/nastupnoho",
+			"seen": "{\"sentenceGloss\":\"Мы будем дома на следующей неделе.\",\"note\":\"Родительный падеж, без предлога.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/tsoho",
+			"seen": "{\"sentenceGloss\":\"Где ты будешь отдыхать в этом году?\",\"note\":\"Родительный падеж, без предлога.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/subotu",
+			"seen": "{\"sentenceGloss\":\"В субботу я отдыхаю.\",\"note\":\"Винительный падеж после у или в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/seredu",
+			"seen": "{\"sentenceGloss\":\"В среду у меня урок.\",\"note\":\"Винительный падеж после у или в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/ponedilka",
+			"seen": "{\"sentenceGloss\":\"Я работаю здесь с понедельника.\",\"note\":\"Родительный падеж после з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/pratsyuyu",
+			"seen": "{\"sentenceGloss\":\"Я работаю в офисе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/slukhayemo",
+			"seen": "{\"sentenceGloss\":\"Мы слушаем музыку.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/dyvytsya",
+			"seen": "{\"sentenceGloss\":\"Он смотрит фильм.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-sentences/vidpochyvayut",
+			"seen": "{\"sentenceGloss\":\"Они отдыхают дома.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-verbs",
+			"seen": "{\"title\":\"Глаголы на каждый день\",\"summary\":\"Два глагола первого спряжения и диви́тися второго, с возвратным окончанием.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"pratsyuvaty\":\"працюва́ти\",\"slukhaty\":\"слу́хати\",\"dyvytysya\":\"диви́тися\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words",
+			"seen": "{\"title\":\"Слова\",\"summary\":\"Слова этого урока. На плитке значение; найдите слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/budni",
+			"seen": "{\"clue\":\"будни\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/vykhidni",
+			"seen": "{\"clue\":\"выходные\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/robota",
+			"seen": "{\"clue\":\"работа\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/vidpochynok",
+			"seen": "{\"clue\":\"отдых\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/povidomlennya",
+			"seen": "{\"clue\":\"сообщение\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/zaproshennya",
+			"seen": "{\"clue\":\"приглашение\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/nomer",
+			"seen": "{\"clue\":\"номер\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/do-rechi",
+			"seen": "{\"clue\":\"кстати\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/dyvno",
+			"seen": "{\"clue\":\"странно\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/davno",
+			"seen": "{\"clue\":\"давно\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/nastupnyi",
+			"seen": "{\"clue\":\"следующий\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/mynulyi",
+			"seen": "{\"clue\":\"прошлый\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/vdoma",
+			"seen": "{\"clue\":\"дома\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/dykhaty",
+			"seen": "{\"clue\":\"дышать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/dyvytysya",
+			"seen": "{\"clue\":\"смотреть\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/slukhaty",
+			"seen": "{\"clue\":\"слушать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/vidchuvaty",
+			"seen": "{\"clue\":\"чувствовать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/kokhaty",
+			"seen": "{\"clue\":\"любить (человека)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/pratsyuvaty",
+			"seen": "{\"clue\":\"работать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/stvoryuvaty",
+			"seen": "{\"clue\":\"создавать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/keruvaty",
+			"seen": "{\"clue\":\"управлять, руководить\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/prodavaty",
+			"seen": "{\"clue\":\"продавать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/plavaty",
+			"seen": "{\"clue\":\"плавать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/podorozhuvaty",
+			"seen": "{\"clue\":\"путешествовать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/vidviduvaty",
+			"seen": "{\"clue\":\"посещать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/telefonuvaty",
+			"seen": "{\"clue\":\"звонить\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l07-words/otrymuvaty",
+			"seen": "{\"clue\":\"получать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences",
+			"seen": "{\"title\":\"Предложения\",\"summary\":\"Погода, вчера и сегодня, и цвета в согласии с существительными.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/pohoda",
+			"seen": "{\"sentenceGloss\":\"Какая сегодня погода?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/kholodno",
+			"seen": "{\"sentenceGloss\":\"В январе на улице холодно.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/spekotno",
+			"seen": "{\"sentenceGloss\":\"В июле здесь очень жарко.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/bulo",
+			"seen": "{\"sentenceGloss\":\"Вчера было тепло.\",\"note\":\"Прошедшее время бу́ти, средний род: подлежащего нет.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/bude",
+			"seen": "{\"sentenceGloss\":\"Завтра будет холодно.\",\"note\":\"Будущее время бу́ти, без подлежащего.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/snih",
+			"seen": "{\"sentenceGloss\":\"Зимой часто идёт снег, и всё вокруг белое.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/doshch",
+			"seen": "{\"sentenceGloss\":\"Возьми зонт: на улице идёт дождь.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/veselku",
+			"seen": "{\"sentenceGloss\":\"После дождя мы видим в небе радугу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/zhovte",
+			"seen": "{\"sentenceGloss\":\"Солнце жёлтое.\",\"note\":\"Согласуется с существительным в роде и числе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/zelena",
+			"seen": "{\"sentenceGloss\":\"Трава зелёная.\",\"note\":\"Согласуется с существительным в роде и числе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/syne",
+			"seen": "{\"sentenceGloss\":\"Море синее.\",\"note\":\"Согласуется с существительным в роде и числе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/chervoni",
+			"seen": "{\"sentenceGloss\":\"Эти цветы красные.\",\"note\":\"Согласуется с существительным в роде и числе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/blakytne",
+			"seen": "{\"sentenceGloss\":\"Сегодня небо голубое.\",\"note\":\"Согласуется с существительным в роде и числе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-sentences/kholodnyi",
+			"seen": "{\"sentenceGloss\":\"Сегодня дождь холодный.\",\"note\":\"Согласуется с существительным в роде и числе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words",
+			"seen": "{\"title\":\"Слова\",\"summary\":\"Слова этого урока. На плитке значение; найдите слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/pohoda",
+			"seen": "{\"clue\":\"погода\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/nehoda",
+			"seen": "{\"clue\":\"непогода\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/prohnoz",
+			"seen": "{\"clue\":\"прогноз\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/sontse",
+			"seen": "{\"clue\":\"солнце\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/doshch",
+			"seen": "{\"clue\":\"дождь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/snih",
+			"seen": "{\"clue\":\"снег\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/viter",
+			"seen": "{\"clue\":\"ветер\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/moroz",
+			"seen": "{\"clue\":\"мороз\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/lid",
+			"seen": "{\"clue\":\"лёд\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/tuman",
+			"seen": "{\"clue\":\"туман\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/khmara",
+			"seen": "{\"clue\":\"туча\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/hroza",
+			"seen": "{\"clue\":\"гроза\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/hrim",
+			"seen": "{\"clue\":\"гром\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/blyskavka",
+			"seen": "{\"clue\":\"молния\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/hrad",
+			"seen": "{\"clue\":\"град\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/veselka",
+			"seen": "{\"clue\":\"радуга\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/burulka",
+			"seen": "{\"clue\":\"сосулька\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/metelytsya",
+			"seen": "{\"clue\":\"метель\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/volohist",
+			"seen": "{\"clue\":\"влажность\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/hradus",
+			"seen": "{\"clue\":\"градус\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l08-words/krasnyi",
+			"seen": "{\"clue\":\"красивый (народно-поэт.)\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/letter-names",
 			"seen": "{\"title\":\"Названия букв\",\"summary\":\"Как называется каждая буква, когда слово произносят по буквам. На плитке буква; найдите её название.\"}",
 			"verdict": "ok"
@@ -11152,6 +13537,11 @@
 			"comment": "Note accurate: Jipa writes /a/; Vakulenko 2025 Table 1 gives ɑ for stressed а (and ɐ unstressed or after palatalized consonants); Ukrainian descriptions class а as a back vowel."
 		},
 		{
+			"key": "ru/weather",
+			"seen": "{\"title\":\"Погода: день и как на улице\",\"summary\":\"Прилагательное описывает день. Форма на -о стоит сама, без подлежащего: хо́лодно значит «холодно».\",\"headers\":{\"cold\":\"холодно\",\"warm\":\"тепло\",\"hot\":\"жарко\",\"cool\":\"прохладно\",\"frosty\":\"морозно\",\"sunny\":\"солнечно\",\"windy\":\"ветрено\",\"cloudy\":\"облачно\",\"gloomy\":\"пасмурно\",\"adj\":\"какой день: день\",\"state\":\"сейчас …\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-en/concept/o-unreduced",
 			"seen": "{\"title\":\"о without stress\",\"body\":\"Russian reduces unstressed о towards a: [vɐˈda]. Ukrainian doesn't, and this is the most audible mistake when coming from Russian: say вода́, never вада́. Only before a stressed /u/ does о shift slightly towards [o]. Vakulenko 2025 describes the vowel as close-mid [o] rather than /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
 			"verdict": "ok",
@@ -11218,6 +13608,16 @@
 		{
 			"key": "ru-en/brat/dat.sg",
 			"seen": "{\"contrast\":\"Russian has only -у here: брату.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/colours/sky.m",
+			"seen": "{\"contrast\":\"Russian says голубо́й. Ukrainian has голуби́й too, and блаки́тний is its usual word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/days-when/wed.on",
+			"seen": "{\"contrast\":\"Russian stresses the same way: в сре́ду. The Ukrainian form also moves the stress to the first syllable.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -11328,6 +13728,21 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-en/l07-words/dyvno",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"ди́вно\",\"means\":\"wonderfully. Ukrainian ди́вно is strange\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l07-words/dyvytysya",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"диви́ться\",\"means\":\"to marvel. Ukrainian диви́тися is to watch\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l08-words/krasnyi",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"кра́сный\",\"means\":\"red: Ukrainian черво́ний. Ukrainian кра́сний is beautiful\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-en/months/m2.name",
 			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"лютый\",\"means\":\"fierce, and never a month. As a month Ukrainian лю́тий is February\"}}",
 			"verdict": "ok"
@@ -11400,6 +13815,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-en/weather/cold.state",
+			"seen": "{\"contrast\":\"Russian хо́лодно is the same word, with the same stress.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-ru/concept/o-unreduced",
 			"seen": "{\"title\":\"о без ударения\",\"body\":\"В русском безударное о сводится к а: [vɐˈda]. В украинском этого нет, и это самая заметная ошибка при переходе с русского: говорите вода́, а не вада́. Лишь перед ударным /u/ о немного смещается к [o]. Вакуленко (2025) описывает этот гласный как [o], а не /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
 			"verdict": "ok",
@@ -11466,6 +13886,16 @@
 		{
 			"key": "ru-ru/brat/dat.sg",
 			"seen": "{\"contrast\":\"В русском здесь только -у: брату.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/colours/sky.m",
+			"seen": "{\"contrast\":\"По-русски голубо́й. По-украински есть и голуби́й, а обычное слово блаки́тний.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/days-when/wed.on",
+			"seen": "{\"contrast\":\"По-русски ударение так же: в сре́ду. В украинской форме ударение тоже переходит на первый слог.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -11575,6 +14005,21 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-ru/l07-words/dyvno",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"ди́вно\",\"means\":\"по-русски чудесно. Украинское ди́вно значит «странно»\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l07-words/dyvytysya",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"диви́ться\",\"means\":\"по-русски удивляться. Украинское диви́тися значит «смотреть»\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l08-words/krasnyi",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"кра́сный\",\"means\":\"по-украински черво́ний. Украинское кра́сний значит «красивый»\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-ru/months/m2.name",
 			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"лютый\",\"means\":\"по-русски свирепый, но не месяц. Как месяц украинское лю́тий значит «февраль»\"}}",
 			"verdict": "ok"
@@ -11647,6 +14092,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-ru/weather/cold.state",
+			"seen": "{\"contrast\":\"Русское хо́лодно — то же слово, с тем же ударением.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-uk/concept/o-unreduced",
 			"seen": "{\"title\":\"о без наголосу\",\"body\":\"У російській ненаголошене о наближається до а: [vɐˈda]. В українській цього немає, і це найпомітніша помилка тих, хто переходить із російської: кажіть вода́, а не вада́. Лише перед наголошеним /u/ о трохи зміщується до [o]. Вакуленко (2025) описує цей голосний як напівзакритий [o], а не /ɔ/.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
 			"verdict": "ok",
@@ -11713,6 +14163,16 @@
 		{
 			"key": "ru-uk/brat/dat.sg",
 			"seen": "{\"contrast\":\"У російській тут лише -у: брату.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/colours/sky.m",
+			"seen": "{\"contrast\":\"Російською голубо́й. Українською є також голуби́й, а звичайне слово блаки́тний.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/days-when/wed.on",
+			"seen": "{\"contrast\":\"Російською наголос так само: в сре́ду. В українській формі наголос теж переходить на перший склад.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -11822,6 +14282,21 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-uk/l07-words/dyvno",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"ди́вно\",\"means\":\"російською це чудово, а не незвично\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l07-words/dyvytysya",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"диви́ться\",\"means\":\"російською це дивуватися, а не дивитися\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l08-words/krasnyi",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"кра́сный\",\"means\":\"російською це черво́ний, а не приємний для очей\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-uk/months/m2.name",
 			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"лютый\",\"means\":\"російською це жорстокий, а місяця так не називають\"}}",
 			"verdict": "ok"
@@ -11891,6 +14366,11 @@
 		{
 			"key": "ru-uk/seasons/winter.when",
 			"seen": "{\"contrast\":\"Російською зимо́й, орудний відмінок. Українською прислівник взи́мку, а також зимо́ю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/weather/cold.state",
+			"seen": "{\"contrast\":\"Російське хо́лодно — це те саме слово, із тим самим наголосом.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -11966,6 +14446,16 @@
 		{
 			"key": "uk/lesson/l06",
 			"seen": "\"Урок 6: Час, дні й місяці\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l07",
+			"seen": "\"Урок 7: Будні та вихідні\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l08",
+			"seen": "\"Урок 8: Погода\"",
 			"verdict": "ok"
 		},
 		{
@@ -12128,6 +14618,31 @@
 		{
 			"key": "uk/concept/season-when",
 			"seen": "{\"title\":\"Коли саме\",\"body\":\"На питання «коли» зазвичай відповідають одним прислівником, без прийменника: взи́мку, навесні́, влі́тку, восени́. Перший і третій мають також форму з у: узи́мку, улі́тку. Кажуть також зимо́ю, весно́ю, лі́том і о́сінню.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/buty-forms",
+			"seen": "{\"title\":\"Дієслово бу́ти\",\"body\":\"У теперішньому часі воно має одну форму для всіх осіб, є, і здебільшого каже, що щось існує або в когось є: У ме́не є пес. У минулому узгоджується в роді й числі: був, була́, було́, були́. У майбутньому має свої закінчення: бу́ду, бу́деш, бу́де, бу́демо, бу́дете, бу́дуть. Те, ким людина буде, стоїть в орудному відмінку: Ким ти бу́деш? Я бу́ду ветерина́ром.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"бути (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/бути\"},{\"title\":\"Орудний відмінок (Вікіпедія)\",\"url\":\"https://uk.wikipedia.org/wiki/Орудний_відмінок\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/time-genitive",
+			"seen": "{\"title\":\"Минулого тижня, наступного року\",\"body\":\"Тут родовий відмінок без прийменника: мину́лого ро́ку, насту́пного ти́жня, цього́ ро́ку.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"Горох, слововживання: наступному\",\"url\":\"https://goroh.pp.ua/Слововживання/наступному\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/day-when",
+			"seen": "{\"title\":\"У який день, з якого дня\",\"body\":\"Коли саме: у або в та знахідний відмінок: у понеді́лок, у се́реду, у субо́ту. День жіночого роду змінює закінчення, а чоловічого зберігає форму. Від якого дня: з або із та родовий відмінок: з понеді́лка, із субо́ти.\",\"sources\":[{\"title\":\"Є-мова, урок 7: Будні та вихідні\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001\"},{\"title\":\"Горох, тлумачення: в\",\"url\":\"https://goroh.pp.ua/Тлумачення/в\"},{\"title\":\"Український правопис (2019), § 25: з, із, зі\",\"url\":\"https://2019.pravopys.net/sections/25/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/impersonal",
+			"seen": "{\"title\":\"Речення без підмета\",\"body\":\"Про погоду часто кажуть формою на -о, без підмета й дієслова: Хо́лодно. Сього́дні те́пло. У минулому додають було́, а в майбутньому бу́де: Учо́ра було́ те́пло. За́втра бу́де хо́лодно. Наголос може відрізнятися від прикметника: холо́дний, але хо́лодно.\",\"sources\":[{\"title\":\"Є-мова, урок 8: Погода\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c\"},{\"title\":\"Горох, тлумачення: жарко\",\"url\":\"https://goroh.pp.ua/Тлумачення/жарко\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/adj-endings",
+			"seen": "{\"title\":\"Закінчення прикметників\",\"body\":\"Прикметник узгоджується з іменником. Чоловічий рід закінчується на -ий або -ій, жіночий на -а або -я, середній на -е або -є, а множина на -і в усіх родах. Тверда основа бере перше з кожної пари: зеле́ний, зеле́на, зеле́не, зеле́ні. М'яка бере друге: си́ній, си́ня, си́нє, си́ні.\",\"sources\":[{\"title\":\"Є-мова, урок 8: Погода\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c\"},{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
 			"verdict": "ok"
 		},
 		{
@@ -12371,6 +14886,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/colours",
+			"seen": "{\"title\":\"Кольори веселки\",\"summary\":\"Колір — це прикметник, тому він узгоджується з іменником. си́ній має м'які закінчення.\",\"headers\":{\"red\":\"як кров\",\"orange\":\"як апельсин\",\"yellow\":\"як сонце\",\"green\":\"як трава\",\"sky\":\"як чисте небо\",\"blue\":\"як глибоке море\",\"violet\":\"як бузок\",\"m\":\"чоловічий рід: дощ\",\"f\":\"жіночий рід: весе́лка\",\"n\":\"середній рід: со́нце\",\"pl\":\"множина: дні\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/consonant-chart",
 			"seen": "{\"title\":\"Таблиця приголосних\",\"summary\":\"Тверді приголосні за способом і місцем творення, у вигляді таблиці МФА. У клітинці звук; знайдіть його літеру чи літери.\",\"headers\":{\"plosive-vl\":\"Проривний, глухий\",\"plosive-vd\":\"Проривний, дзвінкий\",\"nasal\":\"Носовий\",\"fricative-vl\":\"Щілинний, глухий\",\"fricative-vd\":\"Щілинний, дзвінкий\",\"affricate-vl\":\"Африката, глуха\",\"affricate-vd\":\"Африката, дзвінка\",\"trill\":\"Дрижачий\",\"approximant\":\"Апроксимант\",\"lateral\":\"Боковий\",\"labial\":\"Губ­ний\",\"post\":\"За­ясен­ний\",\"palatal\":\"Під­не­бін­ний\",\"velar\":\"Зад­ньо­язи­ко­вий\",\"glottal\":\"Гор­тан­ний\",\"denti-alveolar\":\"Зуб­ний/​ясен­ний\"}}",
 			"verdict": "ok",
@@ -12414,6 +14934,11 @@
 		{
 			"key": "uk/countries",
 			"seen": "{\"title\":\"Країни: звідки і де\",\"summary\":\"Звідки хтось: родовий відмінок. Де хтось: місцевий. Деякі форми займають обидві клітинки.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"звідки: з …\",\"in\":\"де: в / у …\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/days-when",
+			"seen": "{\"title\":\"У який день, з якого дня\",\"summary\":\"Коли саме: у або в та знахідний відмінок. Від якого дня: з або із та родовий відмінок.\",\"headers\":{\"mon\":\"день 1\",\"tue\":\"день 2\",\"wed\":\"день 3\",\"thu\":\"день 4\",\"fri\":\"день 5\",\"sat\":\"день 6\",\"sun\":\"день 7\",\"on\":\"коли́: у, в …\",\"from\":\"відко́ли: з, із …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -13402,6 +15927,356 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/l07-sentences",
+			"seen": "{\"title\":\"Речення\",\"summary\":\"бу́ти в теперішньому, минулому й майбутньому часі, коли що відбувається, і дієслова на щодень.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-sentences/ye",
+			"seen": "{\"note\":\"Тепер: є, у всіх особах.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-sentences/kym",
+			"seen": "{\"note\":\"Орудний відмінок: ким людина буде.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-sentences/veterynarom",
+			"seen": "{\"note\":\"Орудний відмінок: ким людина буде.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-sentences/mynuloho",
+			"seen": "{\"note\":\"Родовий відмінок, без прийменника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-sentences/nastupnoho",
+			"seen": "{\"note\":\"Родовий відмінок, без прийменника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-sentences/tsoho",
+			"seen": "{\"note\":\"Родовий відмінок, без прийменника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-sentences/subotu",
+			"seen": "{\"note\":\"Знахідний відмінок після у або в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-sentences/seredu",
+			"seen": "{\"note\":\"Знахідний відмінок після у або в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-sentences/ponedilka",
+			"seen": "{\"note\":\"Родовий відмінок після з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-verbs",
+			"seen": "{\"title\":\"Дієслова на щодень\",\"summary\":\"Два дієслова першої дієвідміни й диви́тися другої, із зворотним закінченням.\",\"headers\":{\"ya\":\"я\",\"ty\":\"ти\",\"he\":\"він, вона\",\"my\":\"ми\",\"vy\":\"ви\",\"they\":\"вони\",\"pratsyuvaty\":\"працюва́ти\",\"slukhaty\":\"слу́хати\",\"dyvytysya\":\"диви́тися\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words",
+			"seen": "{\"title\":\"Слова\",\"summary\":\"Слова цього уроку. На плитці значення; знайдіть слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/budni",
+			"seen": "{\"clue\":\"дні від понеділка до п'ятниці\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/vykhidni",
+			"seen": "{\"clue\":\"субота й неділя\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/robota",
+			"seen": "{\"clue\":\"те, за що платять гроші\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/vidpochynok",
+			"seen": "{\"clue\":\"відновлення сил після втоми\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/povidomlennya",
+			"seen": "{\"clue\":\"те, що надсилають телефоном\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/zaproshennya",
+			"seen": "{\"clue\":\"прохання прийти на свято\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/nomer",
+			"seen": "{\"clue\":\"цифри, за якими дзвонять\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/do-rechi",
+			"seen": "{\"clue\":\"слова, якими переходять до нової думки\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/dyvno",
+			"seen": "{\"clue\":\"не так, як зазвичай\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/davno",
+			"seen": "{\"clue\":\"багато часу тому\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/nastupnyi",
+			"seen": "{\"clue\":\"той, що йде після цього\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/mynulyi",
+			"seen": "{\"clue\":\"той, що вже був\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/vdoma",
+			"seen": "{\"clue\":\"у своїй оселі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/dykhaty",
+			"seen": "{\"clue\":\"втягувати й випускати повітря легенями\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/dyvytysya",
+			"seen": "{\"clue\":\"користуватися очима\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/slukhaty",
+			"seen": "{\"clue\":\"користуватися вухами\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/vidchuvaty",
+			"seen": "{\"clue\":\"сприймати біль чи радість\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/kokhaty",
+			"seen": "{\"clue\":\"мати глибоке почуття до людини\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/pratsyuvaty",
+			"seen": "{\"clue\":\"мати заняття, за яке платять\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/stvoryuvaty",
+			"seen": "{\"clue\":\"робити щось нове\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/keruvaty",
+			"seen": "{\"clue\":\"бути головним над людьми\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/prodavaty",
+			"seen": "{\"clue\":\"віддавати за гроші\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/plavaty",
+			"seen": "{\"clue\":\"рухатися у воді\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/podorozhuvaty",
+			"seen": "{\"clue\":\"їздити до інших країн\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/vidviduvaty",
+			"seen": "{\"clue\":\"приходити до когось\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/telefonuvaty",
+			"seen": "{\"clue\":\"говорити з кимось через слухавку\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l07-words/otrymuvaty",
+			"seen": "{\"clue\":\"брати те, що хтось надіслав\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-sentences",
+			"seen": "{\"title\":\"Речення\",\"summary\":\"Погода, учора й сьогодні, і кольори, узгоджені з іменниками.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-sentences/bulo",
+			"seen": "{\"note\":\"Минулий час бу́ти, середній рід: підмета немає.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-sentences/bude",
+			"seen": "{\"note\":\"Майбутній час бу́ти, без підмета.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-sentences/zhovte",
+			"seen": "{\"note\":\"Узгоджується з іменником у роді й числі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-sentences/zelena",
+			"seen": "{\"note\":\"Узгоджується з іменником у роді й числі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-sentences/syne",
+			"seen": "{\"note\":\"Узгоджується з іменником у роді й числі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-sentences/chervoni",
+			"seen": "{\"note\":\"Узгоджується з іменником у роді й числі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-sentences/blakytne",
+			"seen": "{\"note\":\"Узгоджується з іменником у роді й числі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-sentences/kholodnyi",
+			"seen": "{\"note\":\"Узгоджується з іменником у роді й числі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words",
+			"seen": "{\"title\":\"Слова\",\"summary\":\"Слова цього уроку. На плитці значення; знайдіть слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/pohoda",
+			"seen": "{\"clue\":\"те, що показує прогноз\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/nehoda",
+			"seen": "{\"clue\":\"вітер і дощ, коли краще не виходити\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/prohnoz",
+			"seen": "{\"clue\":\"передбачення того, що буде завтра\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/sontse",
+			"seen": "{\"clue\":\"те, що світить удень\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/doshch",
+			"seen": "{\"clue\":\"вода, що падає з неба\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/snih",
+			"seen": "{\"clue\":\"білі пластівці взимку\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/viter",
+			"seen": "{\"clue\":\"повітря, що рухається\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/moroz",
+			"seen": "{\"clue\":\"сильний холод нижче нуля\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/lid",
+			"seen": "{\"clue\":\"замерзла вода\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/tuman",
+			"seen": "{\"clue\":\"густа волога в повітрі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/khmara",
+			"seen": "{\"clue\":\"те, що закриває сонце\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/hroza",
+			"seen": "{\"clue\":\"злива з громом і блискавкою\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/hrim",
+			"seen": "{\"clue\":\"гучний звук під час зливи\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/blyskavka",
+			"seen": "{\"clue\":\"спалах у небі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/hrad",
+			"seen": "{\"clue\":\"шматочки льоду, що падають з неба\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/veselka",
+			"seen": "{\"clue\":\"кольорова дуга в небі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/burulka",
+			"seen": "{\"clue\":\"шматок льоду, що висить на даху\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/metelytsya",
+			"seen": "{\"clue\":\"вітер зі снігом\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/volohist",
+			"seen": "{\"clue\":\"кількість води в повітрі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/hradus",
+			"seen": "{\"clue\":\"одиниця температури\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l08-words/krasnyi",
+			"seen": "{\"clue\":\"приємний для очей\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/letter-names",
 			"seen": "{\"title\":\"Назви літер\",\"summary\":\"Як називається кожна літера, коли слово читають за літерами. На плитці літера; знайдіть її назву.\"}",
 			"verdict": "ok"
@@ -13995,6 +16870,11 @@
 			"seen": "{\"note\":\"Записується /a/, як в ілюстрації МФА. Українські описи відносять його до заднього ряду, а Вакуленко (2025) записує наголошений голосний як [ɑ].\"}",
 			"verdict": "ok",
 			"comment": "Note accurate: Jipa writes /a/; Vakulenko 2025 Table 1 gives ɑ for stressed а (and ɐ unstressed or after palatalized consonants); Ukrainian descriptions class а as a back vowel."
+		},
+		{
+			"key": "uk/weather",
+			"seen": "{\"title\":\"Погода: день і як надворі\",\"summary\":\"Прикметник описує день. Форма на -о стоїть сама, без підмета: хо́лодно.\",\"headers\":{\"cold\":\"мало тепла\",\"warm\":\"приємно, не зимно\",\"hot\":\"дуже жарко\",\"cool\":\"трохи зимно\",\"frosty\":\"нижче нуля\",\"sunny\":\"світить сонце\",\"windy\":\"дме вітер\",\"cloudy\":\"небо в хмарах\",\"gloomy\":\"темно й сіро\",\"adj\":\"яки́й день\",\"state\":\"як надво́рі\"}}",
+			"verdict": "ok"
 		}
 	]
 }

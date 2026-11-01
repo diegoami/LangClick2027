@@ -1,0 +1,11 @@
+{
+	"cells": {
+		"blue.m": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "siny",
+				"means": "польською це сизий, як синець, а не кольору глибокого моря"
+			}
+		}
+	}
+}

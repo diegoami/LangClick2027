@@ -1,0 +1,14 @@
+{
+	"cells": {
+		"hroza": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "groza",
+				"means": "to przerażenie. Ukraińskie гроза́ znaczy „burza”"
+			}
+		},
+		"krasnyi": {
+			"contrast": "Polskie krasny to słowo dawne, literackie. Ukraińskie кра́сний też jest ludowe i poetyckie: na co dzień mówi się га́рний i краси́вий."
+		}
+	}
+}

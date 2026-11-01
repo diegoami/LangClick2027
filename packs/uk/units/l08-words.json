@@ -1,0 +1,295 @@
+{
+	"id": "l08-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 21
+	},
+	"cells": [
+		{
+			"id": "pohoda",
+			"item": "word:pohoda",
+			"text": "погода",
+			"display": "пого́да",
+			"ipa": "/pɔˈɦɔda/",
+			"cognates": {
+				"ru": {
+					"form": "пого́да"
+				},
+				"pl": {
+					"form": "pogoda"
+				}
+			}
+		},
+		{
+			"id": "nehoda",
+			"item": "word:nehoda",
+			"text": "негода",
+			"display": "него́да",
+			"ipa": "/nɛˈɦɔda/",
+			"alsoAccepted": ["непогода"],
+			"cognates": {
+				"ru": {
+					"form": "непого́да"
+				},
+				"pl": {
+					"form": "niepogoda"
+				}
+			}
+		},
+		{
+			"id": "prohnoz",
+			"item": "word:prohnoz",
+			"text": "прогноз",
+			"display": "прогно́з",
+			"ipa": "/prɔɦˈnɔz/",
+			"cognates": {
+				"ru": {
+					"form": "прогно́з"
+				},
+				"pl": {
+					"form": "prognoza"
+				}
+			}
+		},
+		{
+			"id": "sontse",
+			"item": "word:sontse",
+			"text": "сонце",
+			"display": "со́нце",
+			"ipa": "/ˈsɔnt͡sɛ/",
+			"cognates": {
+				"ru": {
+					"form": "со́лнце"
+				},
+				"pl": {
+					"form": "słońce"
+				}
+			}
+		},
+		{
+			"id": "doshch",
+			"item": "word:doshch",
+			"text": "дощ",
+			"ipa": "/dɔʃt͡ʃ/",
+			"cognates": {
+				"ru": {
+					"form": "дождь"
+				},
+				"pl": {
+					"form": "deszcz"
+				}
+			}
+		},
+		{
+			"id": "snih",
+			"item": "word:snih",
+			"text": "сніг",
+			"ipa": "/sʲnʲiɦ/",
+			"cognates": {
+				"ru": {
+					"form": "снег"
+				},
+				"pl": {
+					"form": "śnieg"
+				}
+			}
+		},
+		{
+			"id": "viter",
+			"item": "word:viter",
+			"text": "вітер",
+			"display": "ві́тер",
+			"ipa": "/ˈʋitɛr/",
+			"cognates": {
+				"ru": {
+					"form": "ве́тер"
+				},
+				"pl": {
+					"form": "wiatr"
+				}
+			}
+		},
+		{
+			"id": "moroz",
+			"item": "word:moroz",
+			"text": "мороз",
+			"display": "моро́з",
+			"ipa": "/mɔˈrɔz/",
+			"cognates": {
+				"ru": {
+					"form": "моро́з"
+				},
+				"pl": {
+					"form": "mróz"
+				}
+			}
+		},
+		{
+			"id": "lid",
+			"item": "word:lid",
+			"text": "лід",
+			"ipa": "/lʲid/",
+			"cognates": {
+				"ru": {
+					"form": "лёд"
+				},
+				"pl": {
+					"form": "lód"
+				}
+			}
+		},
+		{
+			"id": "tuman",
+			"item": "word:tuman",
+			"text": "туман",
+			"display": "тума́н",
+			"ipa": "/tuˈman/",
+			"cognates": {
+				"ru": {
+					"form": "тума́н"
+				}
+			}
+		},
+		{
+			"id": "khmara",
+			"item": "word:khmara",
+			"text": "хмара",
+			"display": "хма́ра",
+			"ipa": "/ˈxmara/",
+			"cognates": {
+				"pl": {
+					"form": "chmura"
+				}
+			}
+		},
+		{
+			"id": "hroza",
+			"item": "word:hroza",
+			"text": "гроза",
+			"display": "гроза́",
+			"ipa": "/ɦrɔˈza/",
+			"cognates": {
+				"ru": {
+					"form": "гроза́"
+				}
+			}
+		},
+		{
+			"id": "hrim",
+			"item": "word:hrim",
+			"text": "грім",
+			"ipa": "/ɦrʲim/",
+			"cognates": {
+				"ru": {
+					"form": "гром"
+				},
+				"pl": {
+					"form": "grom"
+				}
+			}
+		},
+		{
+			"id": "blyskavka",
+			"item": "word:blyskavka",
+			"text": "блискавка",
+			"display": "бли́скавка",
+			"ipa": "/ˈblɪskaʋka/",
+			"cognates": {
+				"pl": {
+					"form": "błyskawica"
+				}
+			},
+			"alsoAccepted": ["блискавиця"]
+		},
+		{
+			"id": "hrad",
+			"item": "word:hrad",
+			"text": "град",
+			"ipa": "/ɦrad/",
+			"cognates": {
+				"ru": {
+					"form": "град"
+				},
+				"pl": {
+					"form": "grad"
+				}
+			}
+		},
+		{
+			"id": "veselka",
+			"item": "word:veselka",
+			"text": "веселка",
+			"display": "весе́лка",
+			"ipa": "/ʋɛˈsɛlka/",
+			"alsoAccepted": ["райдуга"]
+		},
+		{
+			"id": "burulka",
+			"item": "word:burulka",
+			"text": "бурулька",
+			"display": "буру́лька",
+			"ipa": "/buˈrulʲka/"
+		},
+		{
+			"id": "metelytsya",
+			"item": "word:metelytsya",
+			"text": "метелиця",
+			"display": "мете́лиця",
+			"ipa": "/mɛˈtɛlɪt͡sʲa/",
+			"alsoAccepted": ["хуртовина", "завірюха", "заметіль", "завія", "віхола", "хуга"],
+			"cognates": {
+				"ru": {
+					"form": "мете́ль"
+				}
+			}
+		},
+		{
+			"id": "volohist",
+			"item": "word:volohist",
+			"text": "вологість",
+			"display": "воло́гість",
+			"ipa": "/ʋɔˈlɔɦisʲtʲ/",
+			"cognates": {
+				"pl": {
+					"form": "wilgotność"
+				}
+			}
+		},
+		{
+			"id": "hradus",
+			"item": "word:hradus",
+			"text": "градус",
+			"display": "гра́дус",
+			"ipa": "/ˈɦradus/",
+			"cognates": {
+				"ru": {
+					"form": "гра́дус"
+				}
+			}
+		},
+		{
+			"id": "krasnyi",
+			"item": "word:krasnyi",
+			"text": "красний",
+			"display": "кра́сний",
+			"ipa": "/ˈkrasnɪj/",
+			"alsoAccepted": ["гарний", "красивий"],
+			"cognates": {
+				"pl": {
+					"form": "krasny"
+				}
+			}
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "погода (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/погода"
+		}
+	]
+}

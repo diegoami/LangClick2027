@@ -1,0 +1,17 @@
+{
+	"title": "Weather: a day, and how it is",
+	"summary": "An adjective describes the day. A form in -о stands alone, with no subject: хо́лодно means it is cold.",
+	"headers": {
+		"cold": "cold",
+		"warm": "warm",
+		"hot": "hot",
+		"cool": "cool",
+		"frosty": "frosty",
+		"sunny": "sunny",
+		"windy": "windy",
+		"cloudy": "cloudy",
+		"gloomy": "gloomy, overcast",
+		"adj": "a … day: день",
+		"state": "it's …"
+	}
+}

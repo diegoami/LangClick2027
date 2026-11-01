@@ -1,0 +1,129 @@
+{
+	"id": "l08-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 14
+	},
+	"cells": [
+		{
+			"id": "pohoda",
+			"item": "sentence:l08:pohoda",
+			"text": "погода",
+			"display": "пого́да",
+			"sentence": "Яка́ сього́дні ___?"
+		},
+		{
+			"id": "kholodno",
+			"item": "sentence:l08:kholodno",
+			"text": "холодно",
+			"display": "хо́лодно",
+			"sentence": "У сі́чні надво́рі ___ (холо́дний).",
+			"concepts": ["impersonal"]
+		},
+		{
+			"id": "spekotno",
+			"item": "sentence:l08:spekotno",
+			"text": "спекотно",
+			"display": "спеко́тно",
+			"sentence": "У ли́пні тут ду́же ___ (спеко́тний).",
+			"alsoAccepted": ["жарко"],
+			"concepts": ["impersonal"]
+		},
+		{
+			"id": "bulo",
+			"item": "sentence:l08:bulo",
+			"text": "було",
+			"display": "було́",
+			"sentence": "Учо́ра ___ те́пло.",
+			"concepts": ["impersonal"]
+		},
+		{
+			"id": "bude",
+			"item": "sentence:l08:bude",
+			"text": "буде",
+			"display": "бу́де",
+			"sentence": "За́втра ___ хо́лодно.",
+			"concepts": ["impersonal"]
+		},
+		{
+			"id": "snih",
+			"item": "sentence:l08:snih",
+			"text": "сніг",
+			"sentence": "Узи́мку ча́сто йде ___, і все навко́ло бі́ле."
+		},
+		{
+			"id": "doshch",
+			"item": "sentence:l08:doshch",
+			"text": "дощ",
+			"sentence": "Візьми́ парасо́лю: надво́рі йде ___."
+		},
+		{
+			"id": "veselku",
+			"item": "sentence:l08:veselku",
+			"text": "веселку",
+			"display": "весе́лку",
+			"sentence": "Пі́сля дощу́ ми ба́чимо в не́бі ___ (весе́лка).",
+			"alsoAccepted": ["райдугу"]
+		},
+		{
+			"id": "zhovte",
+			"item": "sentence:l08:zhovte",
+			"text": "жовте",
+			"display": "жо́вте",
+			"sentence": "Со́нце ___ (жо́втий).",
+			"concepts": ["adj-endings"]
+		},
+		{
+			"id": "zelena",
+			"item": "sentence:l08:zelena",
+			"text": "зелена",
+			"display": "зеле́на",
+			"sentence": "Трава́ ___ (зеле́ний).",
+			"concepts": ["adj-endings"]
+		},
+		{
+			"id": "syne",
+			"item": "sentence:l08:syne",
+			"text": "синє",
+			"display": "си́нє",
+			"sentence": "Мо́ре ___ (си́ній).",
+			"concepts": ["adj-endings"]
+		},
+		{
+			"id": "chervoni",
+			"item": "sentence:l08:chervoni",
+			"text": "червоні",
+			"display": "черво́ні",
+			"sentence": "Ці кві́ти ___ (черво́ний).",
+			"concepts": ["adj-endings"]
+		},
+		{
+			"id": "blakytne",
+			"item": "sentence:l08:blakytne",
+			"text": "блакитне",
+			"display": "блаки́тне",
+			"sentence": "Сього́дні не́бо ___ (блаки́тний).",
+			"concepts": ["adj-endings"]
+		},
+		{
+			"id": "kholodnyi",
+			"item": "sentence:l08:kholodnyi",
+			"text": "холодний",
+			"display": "холо́дний",
+			"sentence": "Сього́дні дощ ___ (хо́лодно).",
+			"concepts": ["adj-endings", "impersonal"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Є-мова, урок 8: Погода",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

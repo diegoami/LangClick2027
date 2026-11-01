@@ -162,6 +162,11 @@
 			"units": ["past", "past-sentences", "future", "future-sentences"],
 			"study": [
 				{
+					"kind": "video",
+					"title": "Є-мова, урок 7: Будні та вихідні",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001"
+				},
+				{
 					"kind": "reading",
 					"title": "Ukrainian grammar (Wikipedia)",
 					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
@@ -256,6 +261,60 @@
 					"kind": "resources",
 					"title": "Є-мова, урок 6: додаткові ресурси",
 					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@9601ed5a481548a98da5955740d3cfb3"
+				}
+			]
+		},
+		{
+			"id": "l07",
+			"section": "themes",
+			"units": ["l07-words", "l07-verbs", "days-when", "l07-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 7: Будні та вихідні",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 7: завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@71263262d5354b78823c3cdd9710c729"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 7: тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@ace9c251e4e74d6c923ef8e13646d177"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 7: додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@da05ef8e60dd4778910346afa25c4263"
+				}
+			]
+		},
+		{
+			"id": "l08",
+			"section": "themes",
+			"units": ["l08-words", "weather", "colours", "l08-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 8: Погода",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 8: завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@8efd6f0017984883a14b17b415f3214e"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 8: тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@5cb54ac2d0184922954e6ac3d8642765"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 8: додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@f6e31319ff7843ccadd1f25632a6657d"
 				}
 			]
 		},

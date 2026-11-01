@@ -1,0 +1,87 @@
+{
+	"title": "Słowa",
+	"summary": "Słowa tej lekcji. Pole podaje znaczenie; znajdź słowo.",
+	"cells": {
+		"budni": {
+			"clue": "dni powszednie"
+		},
+		"vykhidni": {
+			"clue": "weekend"
+		},
+		"robota": {
+			"clue": "praca"
+		},
+		"vidpochynok": {
+			"clue": "odpoczynek"
+		},
+		"povidomlennya": {
+			"clue": "wiadomość"
+		},
+		"zaproshennya": {
+			"clue": "zaproszenie"
+		},
+		"nomer": {
+			"clue": "numer"
+		},
+		"do-rechi": {
+			"clue": "przy okazji"
+		},
+		"dyvno": {
+			"clue": "dziwnie"
+		},
+		"davno": {
+			"clue": "dawno"
+		},
+		"nastupnyi": {
+			"clue": "następny"
+		},
+		"mynulyi": {
+			"clue": "ubiegły, miniony"
+		},
+		"vdoma": {
+			"clue": "w domu"
+		},
+		"dykhaty": {
+			"clue": "oddychać"
+		},
+		"dyvytysya": {
+			"clue": "patrzeć, oglądać"
+		},
+		"slukhaty": {
+			"clue": "słuchać"
+		},
+		"vidchuvaty": {
+			"clue": "czuć, odczuwać"
+		},
+		"kokhaty": {
+			"clue": "kochać"
+		},
+		"pratsyuvaty": {
+			"clue": "pracować"
+		},
+		"stvoryuvaty": {
+			"clue": "tworzyć, stwarzać"
+		},
+		"keruvaty": {
+			"clue": "kierować"
+		},
+		"prodavaty": {
+			"clue": "sprzedawać"
+		},
+		"plavaty": {
+			"clue": "pływać"
+		},
+		"podorozhuvaty": {
+			"clue": "podróżować"
+		},
+		"vidviduvaty": {
+			"clue": "odwiedzać"
+		},
+		"telefonuvaty": {
+			"clue": "dzwonić, telefonować"
+		},
+		"otrymuvaty": {
+			"clue": "otrzymywać"
+		}
+	}
+}

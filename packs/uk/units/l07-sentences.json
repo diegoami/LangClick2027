@@ -1,0 +1,204 @@
+{
+	"id": "l07-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 23
+	},
+	"cells": [
+		{
+			"id": "ye",
+			"item": "sentence:l07:ye",
+			"text": "є",
+			"sentence": "За́раз у ме́не ___ пес.",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "bula",
+			"item": "sentence:l07:bula",
+			"text": "була",
+			"display": "була́",
+			"sentence": "Учо́ра Марі́я ___ в о́фісі.",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "buv",
+			"item": "sentence:l07:buv",
+			"text": "був",
+			"sentence": "Мину́лого ро́ку Петро́ ___ у Льво́ві.",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "buly",
+			"item": "sentence:l07:buly",
+			"text": "були",
+			"display": "були́",
+			"sentence": "Мину́лого ти́жня ми ___ на мо́рі.",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "bulo",
+			"item": "sentence:l07:bulo",
+			"text": "було",
+			"display": "було́",
+			"sentence": "Учо́ра в мі́сті ___ ду́же ціка́во.",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "budu",
+			"item": "sentence:l07:budu",
+			"text": "буду",
+			"display": "бу́ду",
+			"sentence": "За́втра я ___ в о́фісі о во́сьмій.",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "budesh",
+			"item": "sentence:l07:budesh",
+			"text": "будеш",
+			"display": "бу́деш",
+			"sentence": "Коли́ ти за́втра ___ удо́ма?",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "bude",
+			"item": "sentence:l07:bude",
+			"text": "буде",
+			"display": "бу́де",
+			"sentence": "За́втра зу́стріч ___ о тре́тій.",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "budemo",
+			"item": "sentence:l07:budemo",
+			"text": "будемо",
+			"display": "бу́демо",
+			"sentence": "Насту́пного ти́жня ми ___ в Оде́сі.",
+			"alsoAccepted": ["будем"],
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "budete",
+			"item": "sentence:l07:budete",
+			"text": "будете",
+			"display": "бу́дете",
+			"sentence": "Ви ___ в Украї́ні насту́пного ро́ку?",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "budut",
+			"item": "sentence:l07:budut",
+			"text": "будуть",
+			"display": "бу́дуть",
+			"sentence": "За́втра вони́ ___ на робо́ті.",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "kym",
+			"item": "sentence:l07:kym",
+			"text": "ким",
+			"sentence": "___ ти бу́деш, коли́ ви́ростеш?",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "veterynarom",
+			"item": "sentence:l07:veterynarom",
+			"text": "ветеринаром",
+			"display": "ветерина́ром",
+			"sentence": "Сестра́ бу́де ___ (ветерина́р).",
+			"concepts": ["buty-forms"]
+		},
+		{
+			"id": "mynuloho",
+			"item": "sentence:l07:mynuloho",
+			"text": "минулого",
+			"display": "мину́лого",
+			"sentence": "Я була́ в Ки́єві ___ ро́ку (мину́лий).",
+			"concepts": ["time-genitive"]
+		},
+		{
+			"id": "nastupnoho",
+			"item": "sentence:l07:nastupnoho",
+			"text": "наступного",
+			"display": "насту́пного",
+			"sentence": "Ми бу́демо вдо́ма ___ ти́жня (насту́пний).",
+			"concepts": ["time-genitive"]
+		},
+		{
+			"id": "tsoho",
+			"item": "sentence:l07:tsoho",
+			"text": "цього",
+			"display": "цього́",
+			"sentence": "Де ти бу́деш відпочива́ти ___ ро́ку (цей)?",
+			"concepts": ["time-genitive"]
+		},
+		{
+			"id": "subotu",
+			"item": "sentence:l07:subotu",
+			"text": "суботу",
+			"display": "субо́ту",
+			"sentence": "У ___ (субо́та) я відпочива́ю.",
+			"concepts": ["day-when"]
+		},
+		{
+			"id": "seredu",
+			"item": "sentence:l07:seredu",
+			"text": "середу",
+			"display": "се́реду",
+			"sentence": "У ___ (середа́) в ме́не уро́к.",
+			"concepts": ["day-when"]
+		},
+		{
+			"id": "ponedilka",
+			"item": "sentence:l07:ponedilka",
+			"text": "понеділка",
+			"display": "понеді́лка",
+			"sentence": "Я працю́ю тут з ___ (понеді́лок).",
+			"concepts": ["day-when"]
+		},
+		{
+			"id": "pratsyuyu",
+			"item": "sentence:l07:pratsyuyu",
+			"text": "працюю",
+			"display": "працю́ю",
+			"sentence": "Я ___ в о́фісі (працюва́ти).",
+			"concepts": ["conjugations"]
+		},
+		{
+			"id": "slukhayemo",
+			"item": "sentence:l07:slukhayemo",
+			"text": "слухаємо",
+			"display": "слу́хаємо",
+			"sentence": "Ми ___ му́зику (слу́хати).",
+			"alsoAccepted": ["слухаєм"],
+			"concepts": ["conjugations"]
+		},
+		{
+			"id": "dyvytsya",
+			"item": "sentence:l07:dyvytsya",
+			"text": "дивиться",
+			"display": "ди́виться",
+			"sentence": "Він ___ фільм (диви́тися).",
+			"concepts": ["conjugations"]
+		},
+		{
+			"id": "vidpochyvayut",
+			"item": "sentence:l07:vidpochyvayut",
+			"text": "відпочивають",
+			"display": "відпочива́ють",
+			"sentence": "Вони́ ___ удо́ма (відпочива́ти).",
+			"concepts": ["conjugations"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Є-мова, урок 7: Будні та вихідні",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

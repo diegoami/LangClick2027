@@ -46,6 +46,12 @@
 		},
 		"l06": {
 			"title": "Урок 6: Час, дні й місяці"
+		},
+		"l07": {
+			"title": "Урок 7: Будні та вихідні"
+		},
+		"l08": {
+			"title": "Урок 8: Погода"
 		}
 	},
 	"concepts": {
@@ -464,6 +470,84 @@
 				{
 					"title": "Горох, Ukrainian dictionary",
 					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"buty-forms": {
+			"title": "Дієслово бу́ти",
+			"body": "У теперішньому часі воно має одну форму для всіх осіб, є, і здебільшого каже, що щось існує або в когось є: У ме́не є пес. У минулому узгоджується в роді й числі: був, була́, було́, були́. У майбутньому має свої закінчення: бу́ду, бу́деш, бу́де, бу́демо, бу́дете, бу́дуть. Те, ким людина буде, стоїть в орудному відмінку: Ким ти бу́деш? Я бу́ду ветерина́ром.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 7: Будні та вихідні",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001"
+				},
+				{
+					"title": "бути (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/бути"
+				},
+				{
+					"title": "Орудний відмінок (Вікіпедія)",
+					"url": "https://uk.wikipedia.org/wiki/Орудний_відмінок"
+				}
+			]
+		},
+		"time-genitive": {
+			"title": "Минулого тижня, наступного року",
+			"body": "Тут родовий відмінок без прийменника: мину́лого ро́ку, насту́пного ти́жня, цього́ ро́ку.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 7: Будні та вихідні",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001"
+				},
+				{
+					"title": "Горох, слововживання: наступному",
+					"url": "https://goroh.pp.ua/Слововживання/наступному"
+				}
+			]
+		},
+		"day-when": {
+			"title": "У який день, з якого дня",
+			"body": "Коли саме: у або в та знахідний відмінок: у понеді́лок, у се́реду, у субо́ту. День жіночого роду змінює закінчення, а чоловічого зберігає форму. Від якого дня: з або із та родовий відмінок: з понеді́лка, із субо́ти.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 7: Будні та вихідні",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001"
+				},
+				{
+					"title": "Горох, тлумачення: в",
+					"url": "https://goroh.pp.ua/Тлумачення/в"
+				},
+				{
+					"title": "Український правопис (2019), § 25: з, із, зі",
+					"url": "https://2019.pravopys.net/sections/25/"
+				}
+			]
+		},
+		"impersonal": {
+			"title": "Речення без підмета",
+			"body": "Про погоду часто кажуть формою на -о, без підмета й дієслова: Хо́лодно. Сього́дні те́пло. У минулому додають було́, а в майбутньому бу́де: Учо́ра було́ те́пло. За́втра бу́де хо́лодно. Наголос може відрізнятися від прикметника: холо́дний, але хо́лодно.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 8: Погода",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c"
+				},
+				{
+					"title": "Горох, тлумачення: жарко",
+					"url": "https://goroh.pp.ua/Тлумачення/жарко"
+				}
+			]
+		},
+		"adj-endings": {
+			"title": "Закінчення прикметників",
+			"body": "Прикметник узгоджується з іменником. Чоловічий рід закінчується на -ий або -ій, жіночий на -а або -я, середній на -е або -є, а множина на -і в усіх родах. Тверда основа бере перше з кожної пари: зеле́ний, зеле́на, зеле́не, зеле́ні. М'яка бере друге: си́ній, си́ня, си́нє, си́ні.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 8: Погода",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c"
+				},
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
 				}
 			]
 		}

@@ -1,0 +1,69 @@
+{
+	"title": "Слова",
+	"summary": "Слова этого урока. На плитке значение; найдите слово.",
+	"cells": {
+		"pohoda": {
+			"clue": "погода"
+		},
+		"nehoda": {
+			"clue": "непогода"
+		},
+		"prohnoz": {
+			"clue": "прогноз"
+		},
+		"sontse": {
+			"clue": "солнце"
+		},
+		"doshch": {
+			"clue": "дождь"
+		},
+		"snih": {
+			"clue": "снег"
+		},
+		"viter": {
+			"clue": "ветер"
+		},
+		"moroz": {
+			"clue": "мороз"
+		},
+		"lid": {
+			"clue": "лёд"
+		},
+		"tuman": {
+			"clue": "туман"
+		},
+		"khmara": {
+			"clue": "туча"
+		},
+		"hroza": {
+			"clue": "гроза"
+		},
+		"hrim": {
+			"clue": "гром"
+		},
+		"blyskavka": {
+			"clue": "молния"
+		},
+		"hrad": {
+			"clue": "град"
+		},
+		"veselka": {
+			"clue": "радуга"
+		},
+		"burulka": {
+			"clue": "сосулька"
+		},
+		"metelytsya": {
+			"clue": "метель"
+		},
+		"volohist": {
+			"clue": "влажность"
+		},
+		"hradus": {
+			"clue": "градус"
+		},
+		"krasnyi": {
+			"clue": "красивый (народно-поэт.)"
+		}
+	}
+}
