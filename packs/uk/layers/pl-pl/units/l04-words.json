@@ -1,0 +1,31 @@
+{
+	"cells": {
+		"misto": {
+			"contrast": "Blisko polskiego miasto."
+		},
+		"prizvyshche": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "przezwisko",
+				"means": "to po ukraińsku прі́звисько; прі́звище znaczy „nazwisko”"
+			}
+		},
+		"krayina": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "kraina",
+				"means": "to obszar. Ukraińskie краї́на znaczy „kraj”"
+			}
+		},
+		"mova": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "mowa",
+				"means": "to sposób mówienia. Ukraińskie мо́ва znaczy „język”"
+			}
+		},
+		"student": {
+			"contrast": "Po polsku jest czasownik: jestem studentem. Po ukraińsku się go pomija."
+		}
+	}
+}

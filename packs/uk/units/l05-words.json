@@ -1,0 +1,283 @@
+{
+	"id": "l05-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 22
+	},
+	"cells": [
+		{
+			"id": "pryvit",
+			"item": "word:pryvit",
+			"text": "привіт",
+			"display": "приві́т",
+			"ipa": "/prɪˈʋit/",
+			"alsoAccepted": ["вітаю"]
+		},
+		{
+			"id": "dobryi-den",
+			"item": "word:dobryi-den",
+			"text": "добрий день",
+			"display": "до́брий день",
+			"ipa": "/ˈdɔbrɪj dɛnʲ/",
+			"alsoAccepted": ["добридень", "доброго дня", "день добрий"],
+			"cognates": {
+				"ru": {
+					"form": "до́брый день"
+				},
+				"pl": {
+					"form": "dzień dobry"
+				}
+			}
+		},
+		{
+			"id": "dobryi-ranok",
+			"item": "word:dobryi-ranok",
+			"text": "добрий ранок",
+			"display": "до́брий ра́нок",
+			"ipa": "/ˈdɔbrɪj ˈranɔk/",
+			"alsoAccepted": ["доброго ранку"]
+		},
+		{
+			"id": "dobryi-vechir",
+			"item": "word:dobryi-vechir",
+			"text": "добрий вечір",
+			"display": "до́брий ве́чір",
+			"ipa": "/ˈdɔbrɪj ˈʋɛt͡ʃir/",
+			"alsoAccepted": ["доброго вечора", "добривечір", "вечір добрий"],
+			"cognates": {
+				"ru": {
+					"form": "до́брый ве́чер"
+				},
+				"pl": {
+					"form": "dobry wieczór"
+				}
+			}
+		},
+		{
+			"id": "vitayu",
+			"item": "word:vitayu",
+			"text": "вітаю",
+			"display": "віта́ю",
+			"ipa": "/ʋiˈtaju/",
+			"cognates": {
+				"pl": {
+					"form": "witam"
+				}
+			},
+			"alsoAccepted": ["привіт", "вітання", "вітаємо"]
+		},
+		{
+			"id": "do-pobachennya",
+			"item": "word:do-pobachennya",
+			"text": "до побачення",
+			"display": "до поба́чення",
+			"ipa": "/dɔ pɔˈbat͡ʃɛnʲːa/"
+		},
+		{
+			"id": "do-zustrichi",
+			"item": "word:do-zustrichi",
+			"text": "до зустрічі",
+			"display": "до зу́стрічі",
+			"ipa": "/dɔ ˈzustrʲit͡ʃi/",
+			"cognates": {
+				"ru": {
+					"form": "до встре́чи"
+				}
+			},
+			"alsoAccepted": ["до побачення", "побачимося", "побачимось"]
+		},
+		{
+			"id": "buvay",
+			"item": "word:buvay",
+			"text": "бувай",
+			"display": "бува́й",
+			"ipa": "/buˈʋaj/",
+			"alsoAccepted": ["бувайте"]
+		},
+		{
+			"id": "proshchavay",
+			"item": "word:proshchavay",
+			"text": "прощавай",
+			"display": "прощава́й",
+			"ipa": "/prɔʃt͡ʃaˈʋaj/",
+			"alsoAccepted": ["прощавайте"],
+			"cognates": {
+				"ru": {
+					"form": "проща́й"
+				}
+			}
+		},
+		{
+			"id": "dyakuyu",
+			"item": "word:dyakuyu",
+			"text": "дякую",
+			"display": "дя́кую",
+			"ipa": "/ˈdʲakuju/",
+			"alsoAccepted": ["спасибі"],
+			"cognates": {
+				"pl": {
+					"form": "dziękuję"
+				}
+			}
+		},
+		{
+			"id": "bud-laska",
+			"item": "word:bud-laska",
+			"text": "будь ласка",
+			"display": "будь ла́ска",
+			"ipa": "/budʲ ˈlaska/",
+			"alsoAccepted": ["прошу", "нема за що", "немає за що"]
+		},
+		{
+			"id": "vybachte",
+			"item": "word:vybachte",
+			"text": "вибачте",
+			"display": "ви́бачте",
+			"ipa": "/ˈʋɪbat͡ʃtɛ/",
+			"alsoAccepted": ["вибач", "пробачте", "пробач", "перепрошую", "даруйте"]
+		},
+		{
+			"id": "pereproshuyu",
+			"item": "word:pereproshuyu",
+			"text": "перепрошую",
+			"display": "перепро́шую",
+			"ipa": "/pɛrɛˈprɔʃuju/",
+			"cognates": {
+				"pl": {
+					"form": "przepraszam"
+				}
+			},
+			"alsoAccepted": ["вибачте", "пробачте", "прошу пробачення", "прошу вибачення"]
+		},
+		{
+			"id": "shkoda",
+			"item": "word:shkoda",
+			"text": "шкода",
+			"display": "шкода́",
+			"ipa": "/ʃkɔˈda/",
+			"cognates": {
+				"ru": {
+					"form": "шко́да"
+				},
+				"pl": {
+					"form": "szkoda"
+				}
+			},
+			"alsoAccepted": ["жаль", "прикро", "як шкода"]
+		},
+		{
+			"id": "chudovo",
+			"item": "word:chudovo",
+			"text": "чудово",
+			"display": "чудо́во",
+			"ipa": "/t͡ʃuˈdɔʋɔ/",
+			"alsoAccepted": ["прекрасно", "чудесно", "відмінно"],
+			"cognates": {
+				"ru": {
+					"form": "чу́дно"
+				}
+			}
+		},
+		{
+			"id": "dobre",
+			"item": "word:dobre",
+			"text": "добре",
+			"display": "до́бре",
+			"ipa": "/ˈdɔbrɛ/",
+			"alsoAccepted": ["гаразд", "гарно"],
+			"cognates": {
+				"pl": {
+					"form": "dobrze"
+				},
+				"ru": {
+					"form": "до́бро"
+				}
+			}
+		},
+		{
+			"id": "normalno",
+			"item": "word:normalno",
+			"text": "нормально",
+			"display": "норма́льно",
+			"ipa": "/nɔrˈmalʲnɔ/",
+			"cognates": {
+				"ru": {
+					"form": "норма́льно"
+				},
+				"pl": {
+					"form": "normalnie"
+				}
+			},
+			"alsoAccepted": ["гаразд"]
+		},
+		{
+			"id": "nepohano",
+			"item": "word:nepohano",
+			"text": "непогано",
+			"display": "непога́но",
+			"ipa": "/nɛpɔˈɦanɔ/",
+			"alsoAccepted": ["незле"]
+		},
+		{
+			"id": "tak-sobi",
+			"item": "word:tak-sobi",
+			"text": "так собі",
+			"ipa": "/ˈtak sɔbi/",
+			"cognates": {
+				"ru": {
+					"form": "так себе́"
+				},
+				"pl": {
+					"form": "tak sobie"
+				}
+			}
+		},
+		{
+			"id": "pohano",
+			"item": "word:pohano",
+			"text": "погано",
+			"display": "пога́но",
+			"ipa": "/pɔˈɦanɔ/",
+			"cognates": {
+				"ru": {
+					"form": "пога́но"
+				}
+			},
+			"alsoAccepted": ["зле", "кепсько"]
+		},
+		{
+			"id": "kepsko",
+			"item": "word:kepsko",
+			"text": "кепсько",
+			"display": "ке́псько",
+			"ipa": "/ˈkɛpsʲkɔ/",
+			"alsoAccepted": ["погано", "зле"]
+		},
+		{
+			"id": "kolehy",
+			"item": "word:kolehy",
+			"text": "колеги",
+			"display": "коле́ги",
+			"ipa": "/kɔˈlɛɦɪ/",
+			"cognates": {
+				"ru": {
+					"form": "колле́ги"
+				},
+				"pl": {
+					"form": "koledzy"
+				}
+			}
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example мова)",
+			"url": "https://en.wiktionary.org/wiki/мова"
+		}
+	]
+}

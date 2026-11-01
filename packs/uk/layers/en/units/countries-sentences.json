@@ -1,0 +1,30 @@
+{
+	"title": "Countries in sentences",
+	"summary": "The phrases of this lesson. Choose or type what fits the gap. A word in brackets is the one to change.",
+	"cells": {
+		"ukraine.from": {
+			"sentenceGloss": "I'm from Ukraine.",
+			"note": "Genitive, after з: where someone is from."
+		},
+		"ukraine.in": {
+			"sentenceGloss": "I live in Ukraine.",
+			"note": "Locative, after в or у: where someone is."
+		},
+		"germany.from": {
+			"sentenceGloss": "He's from Germany.",
+			"note": "Genitive, after з: where someone is from."
+		},
+		"germany.in": {
+			"sentenceGloss": "She lives in Germany.",
+			"note": "Locative, after в or у: where someone is."
+		},
+		"poland.from": {
+			"sentenceGloss": "We're from Poland.",
+			"note": "Genitive, after з: where someone is from."
+		},
+		"italy.in": {
+			"sentenceGloss": "We live in Italy.",
+			"note": "Locative, after в or у: where someone is."
+		}
+	}
+}

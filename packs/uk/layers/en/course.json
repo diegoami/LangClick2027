@@ -35,6 +35,12 @@
 		"g05": {
 			"title": "The past and the future"
 		},
+		"l04": {
+			"title": "Lesson 4: Getting to know someone"
+		},
+		"l05": {
+			"title": "Lesson 5: Greetings and addressing people"
+		},
 		"l09": {
 			"title": "Lesson 9: My family"
 		}
@@ -315,6 +321,64 @@
 				{
 					"title": "читати (English Wiktionary)",
 					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"name-formula": {
+			"title": "Asking a name",
+			"body": "Ukrainian asks how someone is called, with зва́ти or звуть and the person in the accusative: Як тебе́ зва́ти? Мене́ зва́ти Окса́на, or Мене́ звуть Окса́на. It can also use ім'я́ with a possessive: Як твоє́ ім'я́? Моє́ ім'я́ — Окса́на.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"ty-vy": {
+			"title": "ти and ви",
+			"body": "ви is polite as well as plural. Use it with adults you don't know well, and at work, until you are invited to change to ти: перейти́ на ти. ти is for friends, family and children.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 4: Знайомство, або Як тебе звати",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				}
+			]
+		},
+		"no-to-be": {
+			"title": "No \"to be\" in the present",
+			"body": "The present tense normally leaves out the verb \"to be\": Я студе́нт. Він з Украї́ни.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				}
+			]
+		},
+		"from-in": {
+			"title": "Where from, and where",
+			"body": "з takes the genitive for where someone comes from: з Украї́ни. в or у takes the locative for where someone is: в Украї́ні, у Німе́ччині. в and у alternate to ease pronunciation, and so can з and із.",
+			"sources": [
+				{
+					"title": "Український правопис (2019)",
+					"url": "https://2019.pravopys.net/"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"patronymic": {
+			"title": "Name and patronymic",
+			"body": "A respectful address uses the name and the patronymic, both in the vocative. A woman's -івна or -ївна becomes -івно or -ївно, and a man's -ович or -йович becomes -овичу or -йовичу.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 5: Привітання. Звертання. Етикетні формули",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
 				}
 			]
 		}

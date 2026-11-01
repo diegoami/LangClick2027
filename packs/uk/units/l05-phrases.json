@@ -1,0 +1,120 @@
+{
+	"id": "l05-phrases",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 13
+	},
+	"cells": [
+		{
+			"id": "spravy",
+			"item": "phrase:l05:spravy",
+			"text": "справи",
+			"display": "спра́ви",
+			"sentence": "Як ___? — До́бре, дя́кую.",
+			"alsoAccepted": ["життя"]
+		},
+		{
+			"id": "laska",
+			"item": "phrase:l05:laska",
+			"text": "ласка",
+			"display": "ла́ска",
+			"sentence": "Дя́кую! — Будь ___."
+		},
+		{
+			"id": "pane",
+			"item": "phrase:l05:pane",
+			"text": "пане",
+			"display": "па́не",
+			"sentence": "До́брий день, ___ Андрі́ю!",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "pani",
+			"item": "phrase:l05:pani",
+			"text": "пані",
+			"display": "па́ні",
+			"sentence": "До́брий ра́нок, ___ Окса́но!",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "ranku",
+			"item": "phrase:l05:ranku",
+			"text": "ранку",
+			"display": "ра́нку",
+			"sentence": "До́брого ___ (ра́нок), па́не Андрі́ю!"
+		},
+		{
+			"id": "tebe",
+			"item": "phrase:l05:tebe",
+			"text": "тебе",
+			"display": "те́бе",
+			"sentence": "До́бре, дя́кую. А в ___ (ти)?",
+			"concepts": ["ty-vy", "pronoun-stress"]
+		},
+		{
+			"id": "vas",
+			"item": "phrase:l05:vas",
+			"text": "вас",
+			"sentence": "До́бре, дя́кую. А у ___ (ви)?",
+			"concepts": ["ty-vy"]
+		},
+		{
+			"id": "treba",
+			"item": "phrase:l05:treba",
+			"text": "треба",
+			"display": "тре́ба",
+			"sentence": "Мені́ вже ___ йти.",
+			"alsoAccepted": ["потрібно", "пора", "час"]
+		},
+		{
+			"id": "zustrichi",
+			"item": "phrase:l05:zustrichi",
+			"text": "зустрічі",
+			"display": "зу́стрічі",
+			"sentence": "До ___ за́втра!",
+			"alsoAccepted": ["побачення"]
+		},
+		{
+			"id": "vybachte",
+			"item": "phrase:l05:vybachte",
+			"text": "вибачте",
+			"display": "ви́бачте",
+			"sentence": "Па́не, ___, де тут ка́ва?",
+			"alsoAccepted": ["перепрошую", "пробачте", "даруйте"]
+		},
+		{
+			"id": "shkoda",
+			"item": "phrase:l05:shkoda",
+			"text": "шкода",
+			"display": "шкода́",
+			"sentence": "Мені́ вже тре́ба йти. — Як ___!",
+			"alsoAccepted": ["жаль", "прикро"]
+		},
+		{
+			"id": "rada",
+			"item": "phrase:l05:rada",
+			"text": "рада",
+			"display": "ра́да",
+			"sentence": "Оле́на ка́же: я ___ тебе́ ба́чити."
+		},
+		{
+			"id": "radyi",
+			"item": "phrase:l05:radyi",
+			"text": "радий",
+			"display": "ра́дий",
+			"sentence": "Андрі́й ка́же: я ___ тебе́ ба́чити."
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example мова)",
+			"url": "https://en.wiktionary.org/wiki/мова"
+		}
+	]
+}

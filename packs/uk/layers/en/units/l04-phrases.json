@@ -1,0 +1,65 @@
+{
+	"title": "Phrases",
+	"summary": "The phrases of this lesson. Choose or type what fits the gap. A word in brackets is the one to change.",
+	"cells": {
+		"ty.acc": {
+			"sentenceGloss": "What's your name?",
+			"note": "Accusative: зва́ти takes the person in the accusative."
+		},
+		"vy.acc": {
+			"sentenceGloss": "Good day! What is your name?",
+			"note": "Accusative: зва́ти takes the person in the accusative."
+		},
+		"he.acc": {
+			"sentenceGloss": "What's his name?",
+			"note": "Accusative: зва́ти takes the person in the accusative."
+		},
+		"she.acc": {
+			"sentenceGloss": "What's her name?",
+			"note": "Accusative: зва́ти takes the person in the accusative."
+		},
+		"zvaty": {
+			"sentenceGloss": "My name is Oksana."
+		},
+		"tvoe": {
+			"sentenceGloss": "What is your name?",
+			"note": "Neuter, to agree with ім'я́."
+		},
+		"vashe": {
+			"sentenceGloss": "What is your name?",
+			"note": "Neuter, to agree with ім'я́."
+		},
+		"imya": {
+			"sentenceGloss": "My name is Vira."
+		},
+		"pryyemno": {
+			"sentenceGloss": "Very nice to meet you!"
+		},
+		"zvidky": {
+			"sentenceGloss": "I'm from Ukraine. And where are you from?"
+		},
+		"z": {
+			"sentenceGloss": "I'm from Ukraine."
+		},
+		"zhyvu": {
+			"sentenceGloss": "I live in Lviv."
+		},
+		"zhyvete": {
+			"sentenceGloss": "Where do you live?"
+		},
+		"rozmovlyayesh": {
+			"sentenceGloss": "You speak Ukrainian well."
+		},
+		"vchu": {
+			"sentenceGloss": "I'm learning Ukrainian."
+		},
+		"toboyu": {
+			"sentenceGloss": "I want to get to know you.",
+			"note": "Instrumental, after з."
+		},
+		"vamy": {
+			"sentenceGloss": "I want to get to know you.",
+			"note": "Instrumental, after з."
+		}
+	}
+}

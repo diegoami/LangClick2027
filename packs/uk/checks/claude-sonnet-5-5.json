@@ -417,6 +417,96 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/countries-sentences/ukraine.from",
+			"seen": "{\"item\":\"sentence:countries:ukraine.from\",\"text\":\"України\",\"display\":\"Украї́ни\",\"sentence\":\"Я з ___ (Украї́на).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries-sentences/ukraine.in",
+			"seen": "{\"item\":\"sentence:countries:ukraine.in\",\"text\":\"Україні\",\"display\":\"Украї́ні\",\"sentence\":\"Я живу́ в ___ (Украї́на).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries-sentences/germany.from",
+			"seen": "{\"item\":\"sentence:countries:germany.from\",\"text\":\"Німеччини\",\"display\":\"Німе́ччини\",\"sentence\":\"Він з ___ (Німе́ччина).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries-sentences/germany.in",
+			"seen": "{\"item\":\"sentence:countries:germany.in\",\"text\":\"Німеччині\",\"display\":\"Німе́ччині\",\"sentence\":\"Вона́ живе́ в ___ (Німе́ччина).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries-sentences/poland.from",
+			"seen": "{\"item\":\"sentence:countries:poland.from\",\"text\":\"Польщі\",\"display\":\"По́льщі\",\"sentence\":\"Ми з ___ (По́льща).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries-sentences/italy.in",
+			"seen": "{\"item\":\"sentence:countries:italy.in\",\"text\":\"Італії\",\"display\":\"Іта́лії\",\"sentence\":\"Ми живемо́ в ___ (Іта́лія).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/ukraine.from",
+			"seen": "{\"item\":\"country:ukraine:from\",\"text\":\"України\",\"display\":\"Украї́ни\",\"ipa\":\"/ukraˈjinɪ/\",\"concepts\":[\"from-in\"],\"row\":\"ukraine\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/ukraine.in",
+			"seen": "{\"item\":\"country:ukraine:in\",\"text\":\"Україні\",\"display\":\"Украї́ні\",\"ipa\":\"/ukraˈjinʲi/\",\"concepts\":[\"from-in\"],\"row\":\"ukraine\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/poland.from",
+			"seen": "{\"item\":\"country:poland:from\",\"text\":\"Польщі\",\"display\":\"По́льщі\",\"ipa\":\"/ˈpɔlʲʃt͡ʃi/\",\"concepts\":[\"from-in\"],\"row\":\"poland\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/poland.in",
+			"seen": "{\"item\":\"country:poland:in\",\"text\":\"Польщі\",\"display\":\"По́льщі\",\"ipa\":\"/ˈpɔlʲʃt͡ʃi/\",\"concepts\":[\"from-in\"],\"row\":\"poland\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/germany.from",
+			"seen": "{\"item\":\"country:germany:from\",\"text\":\"Німеччини\",\"display\":\"Німе́ччини\",\"ipa\":\"/nʲiˈmɛt͡ʃːɪnɪ/\",\"concepts\":[\"from-in\"],\"row\":\"germany\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/germany.in",
+			"seen": "{\"item\":\"country:germany:in\",\"text\":\"Німеччині\",\"display\":\"Німе́ччині\",\"ipa\":\"/nʲiˈmɛt͡ʃːɪnʲi/\",\"concepts\":[\"from-in\"],\"row\":\"germany\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/italy.from",
+			"seen": "{\"item\":\"country:italy:from\",\"text\":\"Італії\",\"display\":\"Іта́лії\",\"ipa\":\"/iˈtalʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"italy\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/italy.in",
+			"seen": "{\"item\":\"country:italy:in\",\"text\":\"Італії\",\"display\":\"Іта́лії\",\"ipa\":\"/iˈtalʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"italy\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/spain.from",
+			"seen": "{\"item\":\"country:spain:from\",\"text\":\"Іспанії\",\"display\":\"Іспа́нії\",\"ipa\":\"/isˈpanʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"spain\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/spain.in",
+			"seen": "{\"item\":\"country:spain:in\",\"text\":\"Іспанії\",\"display\":\"Іспа́нії\",\"ipa\":\"/isˈpanʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"spain\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/france.from",
+			"seen": "{\"item\":\"country:france:from\",\"text\":\"Франції\",\"display\":\"Фра́нції\",\"ipa\":\"/ˈfrant͡sʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"france\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/france.in",
+			"seen": "{\"item\":\"country:france:in\",\"text\":\"Франції\",\"display\":\"Фра́нції\",\"ipa\":\"/ˈfrant͡sʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"france\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/family/lyudyna",
 			"seen": "{\"item\":\"word:lyudyna\",\"text\":\"людина\",\"display\":\"люди́на\",\"ipa\":\"/lʲuˈdɪna/\",\"cognates\":{\"ru\":{\"form\":\"люди\",\"ipa\":\"/ˈlʲudʲɪ/\"},\"pl\":{\"form\":\"ludzie\",\"ipa\":\"/ˈlud͡ʑɛ/\"}}}",
 			"verdict": "ok"
@@ -1029,6 +1119,459 @@
 			"key": "core/kimnata/voc.pl",
 			"seen": "{\"item\":\"noun:kimnata:voc.pl\",\"text\":\"кімнати\",\"display\":\"кімна́ти\",\"ipa\":\"/kimˈnatɪ/\",\"concepts\":[\"shared-forms\"],\"row\":\"voc\",\"col\":\"pl\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/ty.acc",
+			"seen": "{\"item\":\"phrase:l04:ty.acc\",\"text\":\"тебе\",\"display\":\"тебе́\",\"sentence\":\"Як ___ зва́ти (ти)?\",\"concepts\":[\"name-formula\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/vy.acc",
+			"seen": "{\"item\":\"phrase:l04:vy.acc\",\"text\":\"вас\",\"sentence\":\"До́брий день! Як ___ зва́ти (ви)?\",\"concepts\":[\"name-formula\",\"ty-vy\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/he.acc",
+			"seen": "{\"item\":\"phrase:l04:he.acc\",\"text\":\"його\",\"display\":\"його́\",\"sentence\":\"Як ___ зва́ти (він)?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/she.acc",
+			"seen": "{\"item\":\"phrase:l04:she.acc\",\"text\":\"її\",\"display\":\"її́\",\"sentence\":\"Як ___ зва́ти (вона́)?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/zvaty",
+			"seen": "{\"item\":\"phrase:l04:zvaty\",\"text\":\"звати\",\"display\":\"зва́ти\",\"sentence\":\"Мене́ ___ Окса́на.\",\"alsoAccepted\":[\"звуть\",\"зовуть\"],\"concepts\":[\"name-formula\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/tvoe",
+			"seen": "{\"item\":\"phrase:l04:tvoe\",\"text\":\"твоє\",\"display\":\"твоє́\",\"sentence\":\"Як ___ ім'я́ (ти)?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/vashe",
+			"seen": "{\"item\":\"phrase:l04:vashe\",\"text\":\"ваше\",\"display\":\"ва́ше\",\"sentence\":\"Як ___ ім'я́ (ви)?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/imya",
+			"seen": "{\"item\":\"phrase:l04:imya\",\"text\":\"ім'я\",\"display\":\"ім'я́\",\"sentence\":\"Моє́ ___ — Ві́ра.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/pryyemno",
+			"seen": "{\"item\":\"phrase:l04:pryyemno\",\"text\":\"приємно\",\"display\":\"приє́мно\",\"sentence\":\"Ду́же ___!\",\"alsoAccepted\":[\"радий\",\"рада\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/zvidky",
+			"seen": "{\"item\":\"phrase:l04:zvidky\",\"text\":\"звідки\",\"display\":\"зві́дки\",\"sentence\":\"Я з Украї́ни. А ти ___?\",\"alsoAccepted\":[\"звідкіля\"]}",
+			"verdict": "ok",
+			"comment": "Ok. звідкіля is real but Goroh labels it розм. (Те саме, що зві́дки)."
+		},
+		{
+			"key": "core/l04-phrases/z",
+			"seen": "{\"item\":\"phrase:l04:z\",\"text\":\"з\",\"sentence\":\"Я ___ Украї́ни.\",\"concepts\":[\"no-to-be\",\"from-in\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/zhyvu",
+			"seen": "{\"item\":\"phrase:l04:zhyvu\",\"text\":\"живу\",\"display\":\"живу́\",\"sentence\":\"Я ___ у Льво́ві (жи́ти).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/zhyvete",
+			"seen": "{\"item\":\"phrase:l04:zhyvete\",\"text\":\"живете\",\"display\":\"живете́\",\"sentence\":\"Де ви ___ (жи́ти)?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/rozmovlyayesh",
+			"seen": "{\"item\":\"phrase:l04:rozmovlyayesh\",\"text\":\"розмовляєш\",\"display\":\"розмовля́єш\",\"sentence\":\"Ти до́бре ___ украї́нською (розмовля́ти).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/vchu",
+			"seen": "{\"item\":\"phrase:l04:vchu\",\"text\":\"вчу\",\"sentence\":\"Я ___ украї́нську мо́ву (вчи́ти).\",\"alsoAccepted\":[\"учу\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/toboyu",
+			"seen": "{\"item\":\"phrase:l04:toboyu\",\"text\":\"тобою\",\"display\":\"тобо́ю\",\"sentence\":\"Я хо́чу з ___ познайо́митися (ти).\",\"concepts\":[\"ty-vy\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-phrases/vamy",
+			"seen": "{\"item\":\"phrase:l04:vamy\",\"text\":\"вами\",\"display\":\"ва́ми\",\"sentence\":\"Я хо́чу з ___ познайо́митися (ви).\",\"concepts\":[\"ty-vy\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/imya",
+			"seen": "{\"item\":\"word:imya\",\"text\":\"ім'я\",\"display\":\"ім'я́\",\"ipa\":\"/iˈmja/\",\"cognates\":{\"ru\":{\"form\":\"и́мя\"},\"pl\":{\"form\":\"imię\"}},\"concepts\":[\"name-formula\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/prizvyshche",
+			"seen": "{\"item\":\"word:prizvyshche\",\"text\":\"прізвище\",\"display\":\"прі́звище\",\"ipa\":\"/ˈprʲizʋɪʃt͡ʃɛ/\"}",
+			"verdict": "ok",
+			"comment": "Ok. IPA /ˈprʲizʋɪʃt͡ʃɛ/: ʲ on r before i matches зустрічі /zustrʲit͡ʃi/; stress прі́звище matches Goroh."
+		},
+		{
+			"key": "core/l04-words/znayomytysya",
+			"seen": "{\"item\":\"word:znayomytysya\",\"text\":\"знайомитися\",\"display\":\"знайо́митися\",\"ipa\":\"/znaˈjɔmɪtɪsʲa/\",\"alsoAccepted\":[\"знайомитись\",\"познайомитися\",\"познайомитись\"],\"cognates\":{\"ru\":{\"form\":\"знако́миться\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/zvidky",
+			"seen": "{\"item\":\"word:zvidky\",\"text\":\"звідки\",\"display\":\"зві́дки\",\"ipa\":\"/ˈzʋidkɪ/\",\"alsoAccepted\":[\"звідкіля\"]}",
+			"verdict": "ok",
+			"comment": "Ok. звідкіля is real but Goroh labels it розм. (Те саме, що зві́дки)."
+		},
+		{
+			"key": "core/l04-words/zhyty",
+			"seen": "{\"item\":\"word:zhyty\",\"text\":\"жити\",\"display\":\"жи́ти\",\"ipa\":\"/ˈʒɪtɪ/\",\"alsoAccepted\":[\"мешкати\",\"проживати\"],\"cognates\":{\"ru\":{\"form\":\"жить\"},\"pl\":{\"form\":\"żyć\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/rozmovlyaty",
+			"seen": "{\"item\":\"word:rozmovlyaty\",\"text\":\"розмовляти\",\"display\":\"розмовля́ти\",\"ipa\":\"/rɔzmɔʋˈlʲatɪ/\",\"alsoAccepted\":[\"говорити\",\"балакати\"],\"cognates\":{\"pl\":{\"form\":\"rozmawiać\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/vchyty",
+			"seen": "{\"item\":\"word:vchyty\",\"text\":\"вчити\",\"display\":\"вчи́ти\",\"ipa\":\"/ˈʋt͡ʃɪtɪ/\",\"alsoAccepted\":[\"учити\",\"вивчати\",\"навчати\",\"вчитися\",\"вчитись\",\"учитися\",\"учитись\",\"навчатися\",\"навчатись\"],\"cognates\":{\"ru\":{\"form\":\"учи́ть\"},\"pl\":{\"form\":\"uczyć\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/mova",
+			"seen": "{\"item\":\"word:mova\",\"text\":\"мова\",\"display\":\"мо́ва\",\"ipa\":\"/ˈmɔʋa/\",\"cognates\":{\"pl\":{\"form\":\"mowa\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/krayina",
+			"seen": "{\"item\":\"word:krayina\",\"text\":\"країна\",\"display\":\"краї́на\",\"ipa\":\"/kraˈjina/\",\"cognates\":{\"pl\":{\"form\":\"kraina\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/misto",
+			"seen": "{\"item\":\"word:misto\",\"text\":\"місто\",\"display\":\"мі́сто\",\"ipa\":\"/ˈmistɔ/\",\"cognates\":{\"ru\":{\"form\":\"ме́сто\"},\"pl\":{\"form\":\"miasto\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/student",
+			"seen": "{\"item\":\"word:student\",\"text\":\"студент\",\"display\":\"студе́нт\",\"ipa\":\"/stuˈdɛnt/\",\"cognates\":{\"ru\":{\"form\":\"студе́нт\"},\"pl\":{\"form\":\"student\"}},\"concepts\":[\"no-to-be\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/studentka",
+			"seen": "{\"item\":\"word:studentka\",\"text\":\"студентка\",\"display\":\"студе́нтка\",\"ipa\":\"/stuˈdɛntka/\",\"cognates\":{\"ru\":{\"form\":\"студе́нтка\"},\"pl\":{\"form\":\"studentka\"}},\"concepts\":[\"no-to-be\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/ukrayinets",
+			"seen": "{\"item\":\"word:ukrayinets\",\"text\":\"українець\",\"display\":\"украї́нець\",\"ipa\":\"/ukraˈjinɛt͡sʲ/\",\"cognates\":{\"ru\":{\"form\":\"украи́нец\"},\"pl\":{\"form\":\"Ukrainiec\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/ukrayinka",
+			"seen": "{\"item\":\"word:ukrayinka\",\"text\":\"українка\",\"display\":\"украї́нка\",\"ipa\":\"/ukraˈjinka/\",\"cognates\":{\"ru\":{\"form\":\"украи́нка\"},\"pl\":{\"form\":\"Ukrainka\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/ukrayinska",
+			"seen": "{\"item\":\"word:ukrayinska\",\"text\":\"українська\",\"display\":\"украї́нська\",\"ipa\":\"/ukraˈjinsʲka/\",\"alsoAccepted\":[\"українська мова\"],\"cognates\":{\"ru\":{\"form\":\"украи́нский\"},\"pl\":{\"form\":\"ukraiński\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/anhliyska",
+			"seen": "{\"item\":\"word:anhliyska\",\"text\":\"англійська\",\"display\":\"англі́йська\",\"ipa\":\"/anɦˈlʲijsʲka/\",\"alsoAccepted\":[\"англійська мова\"],\"cognates\":{\"ru\":{\"form\":\"англи́йский\"},\"pl\":{\"form\":\"angielski\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/vvichlyvyi",
+			"seen": "{\"item\":\"word:vvichlyvyi\",\"text\":\"ввічливий\",\"display\":\"вві́чливий\",\"ipa\":\"/ˈʋːit͡ʃlɪʋɪj/\",\"alsoAccepted\":[\"чемний\",\"ґречний\",\"увічливий\"],\"concepts\":[\"ty-vy\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/zalyubky",
+			"seen": "{\"item\":\"word:zalyubky\",\"text\":\"залюбки\",\"display\":\"залюбки́\",\"ipa\":\"/zalʲubˈkɪ/\",\"alsoAccepted\":[\"охоче\",\"радо\",\"із задоволенням\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/odnolitok",
+			"seen": "{\"item\":\"word:odnolitok\",\"text\":\"одноліток\",\"display\":\"одно́літок\",\"ipa\":\"/ɔdˈnɔlʲitɔk/\",\"alsoAccepted\":[\"ровесник\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/spivrozmovnyk",
+			"seen": "{\"item\":\"word:spivrozmovnyk\",\"text\":\"співрозмовник\",\"display\":\"співрозмо́вник\",\"ipa\":\"/spiʋrɔzˈmɔʋnɪk/\",\"alsoAccepted\":[\"співбесідник\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/zaimennyk",
+			"seen": "{\"item\":\"word:zaimennyk\",\"text\":\"займенник\",\"display\":\"займе́нник\",\"ipa\":\"/zajˈmɛnːɪk/\",\"cognates\":{\"pl\":{\"form\":\"zaimek\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/pryyemno",
+			"seen": "{\"item\":\"word:pryyemno\",\"text\":\"приємно\",\"display\":\"приє́мно\",\"ipa\":\"/prɪˈjɛmnɔ/\",\"cognates\":{\"ru\":{\"form\":\"прия́тно\"},\"pl\":{\"form\":\"przyjemnie\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/oksana",
+			"seen": "{\"item\":\"vocative:oksana\",\"text\":\"Оксано\",\"display\":\"Окса́но\",\"ipa\":\"/ɔkˈsanɔ/\",\"clue\":\"Окса́на\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/vira",
+			"seen": "{\"item\":\"vocative:vira\",\"text\":\"Віро\",\"display\":\"Ві́ро\",\"ipa\":\"/ˈʋirɔ/\",\"clue\":\"Ві́ра\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/mykola",
+			"seen": "{\"item\":\"vocative:mykola\",\"text\":\"Миколо\",\"display\":\"Мико́ло\",\"ipa\":\"/mɪˈkɔlɔ/\",\"clue\":\"Мико́ла\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/petro",
+			"seen": "{\"item\":\"vocative:petro\",\"text\":\"Петре\",\"display\":\"Пе́тре\",\"ipa\":\"/ˈpɛtrɛ/\",\"clue\":\"Петро́\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/taras",
+			"seen": "{\"item\":\"vocative:taras\",\"text\":\"Тарасе\",\"display\":\"Тара́се\",\"ipa\":\"/taˈrasɛ/\",\"clue\":\"Тара́с\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/sofiya",
+			"seen": "{\"item\":\"vocative:sofiya\",\"text\":\"Софіє\",\"display\":\"Софі́є\",\"ipa\":\"/sɔˈfijɛ/\",\"clue\":\"Софі́я\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok",
+			"comment": "Ok. Goroh Софіє (Софі́є); Со́фія and Софі́я both listed."
+		},
+		{
+			"key": "core/l05-names/nataliya",
+			"seen": "{\"item\":\"vocative:nataliya\",\"text\":\"Наталіє\",\"display\":\"Ната́ліє\",\"ipa\":\"/naˈtalʲijɛ/\",\"clue\":\"Ната́лія\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/yuriy",
+			"seen": "{\"item\":\"vocative:yuriy\",\"text\":\"Юрію\",\"display\":\"Ю́рію\",\"ipa\":\"/ˈjurʲiju/\",\"clue\":\"Ю́рій\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/oleksiy",
+			"seen": "{\"item\":\"vocative:oleksiy\",\"text\":\"Олексію\",\"display\":\"Олексі́ю\",\"ipa\":\"/ɔlɛkˈsʲiju/\",\"clue\":\"Олексі́й\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok",
+			"comment": "Ok. Goroh Словозміна/Олексій: кличний Олексі́ю."
+		},
+		{
+			"key": "core/l05-names/halya",
+			"seen": "{\"item\":\"vocative:halya\",\"text\":\"Галю\",\"display\":\"Га́лю\",\"ipa\":\"/ˈɦalʲu/\",\"clue\":\"Га́ля\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok",
+			"comment": "Ok. Goroh Словозміна/Галя: Галю."
+		},
+		{
+			"key": "core/l05-names/illya",
+			"seen": "{\"item\":\"vocative:illya\",\"text\":\"Ілле\",\"display\":\"І́лле\",\"ipa\":\"/ˈilʲːɛ/\",\"clue\":\"Ілля́\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/lesya",
+			"seen": "{\"item\":\"vocative:lesya\",\"text\":\"Лесю\",\"display\":\"Ле́сю\",\"ipa\":\"/ˈlɛsʲu/\",\"clue\":\"Ле́ся\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/pavlivna",
+			"seen": "{\"item\":\"vocative:pavlivna\",\"text\":\"Павлівно\",\"display\":\"Па́влівно\",\"ipa\":\"/ˈpaʋlʲiʋnɔ/\",\"clue\":\"Па́влівна\",\"concepts\":[\"patronymic\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-names/petrovych",
+			"seen": "{\"item\":\"vocative:petrovych\",\"text\":\"Петровичу\",\"display\":\"Петро́вичу\",\"ipa\":\"/pɛˈtrɔʋɪt͡ʃu/\",\"clue\":\"Петро́вич\",\"concepts\":[\"patronymic\"]}",
+			"verdict": "ok",
+			"comment": "Ok. Goroh Словозміна/Петрович: Петро́вичу listed (another paradigm has Пе́тровичу); pavlivna fails, see there."
+		},
+		{
+			"key": "core/l05-phrases/spravy",
+			"seen": "{\"item\":\"phrase:l05:spravy\",\"text\":\"справи\",\"display\":\"спра́ви\",\"sentence\":\"Як ___? — До́бре, дя́кую.\",\"alsoAccepted\":[\"життя\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-phrases/laska",
+			"seen": "{\"item\":\"phrase:l05:laska\",\"text\":\"ласка\",\"display\":\"ла́ска\",\"sentence\":\"Дя́кую! — Будь ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-phrases/pane",
+			"seen": "{\"item\":\"phrase:l05:pane\",\"text\":\"пане\",\"display\":\"па́не\",\"sentence\":\"До́брий день, ___ Андрі́ю!\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok",
+			"comment": "Ok. Vocative Андрію checked (Goroh Словозміна/Андрій: Андрі́ю)."
+		},
+		{
+			"key": "core/l05-phrases/pani",
+			"seen": "{\"item\":\"phrase:l05:pani\",\"text\":\"пані\",\"display\":\"па́ні\",\"sentence\":\"До́брий ра́нок, ___ Окса́но!\",\"concepts\":[\"vocative\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-phrases/ranku",
+			"seen": "{\"item\":\"phrase:l05:ranku\",\"text\":\"ранку\",\"display\":\"ра́нку\",\"sentence\":\"До́брого ___ (ра́нок), па́не Андрі́ю!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-phrases/tebe",
+			"seen": "{\"item\":\"phrase:l05:tebe\",\"text\":\"тебе\",\"display\":\"те́бе\",\"sentence\":\"До́бре, дя́кую. А в ___ (ти)?\",\"concepts\":[\"ty-vy\",\"pronoun-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-phrases/vas",
+			"seen": "{\"item\":\"phrase:l05:vas\",\"text\":\"вас\",\"sentence\":\"До́бре, дя́кую. А у ___ (ви)?\",\"concepts\":[\"ty-vy\"]}",
+			"verdict": "ok",
+			"comment": "Ok, my earlier problem was wrong: pravopys §23.1(4) gives у before в, ф, льв... whatever the previous word ends in, so \"А у вас\" is right. \"А в те́бе\" follows §23.2.6 (vowel + other consonant). Both fine; genitive те́бе is listed by Goroh Словозміна/ти (те́бе, тебе́)."
+		},
+		{
+			"key": "core/l05-phrases/treba",
+			"seen": "{\"item\":\"phrase:l05:treba\",\"text\":\"треба\",\"display\":\"тре́ба\",\"sentence\":\"Мені́ вже ___ йти.\",\"alsoAccepted\":[\"потрібно\",\"пора\",\"час\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-phrases/zustrichi",
+			"seen": "{\"item\":\"phrase:l05:zustrichi\",\"text\":\"зустрічі\",\"display\":\"зу́стрічі\",\"sentence\":\"До ___ за́втра!\",\"alsoAccepted\":[\"побачення\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-phrases/vybachte",
+			"seen": "{\"item\":\"phrase:l05:vybachte\",\"text\":\"вибачте\",\"display\":\"ви́бачте\",\"sentence\":\"Па́не, ___, де тут ка́ва?\",\"alsoAccepted\":[\"перепрошую\",\"пробачте\",\"даруйте\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-phrases/shkoda",
+			"seen": "{\"item\":\"phrase:l05:shkoda\",\"text\":\"шкода\",\"display\":\"шкода́\",\"sentence\":\"Мені́ вже тре́ба йти. — Як ___!\",\"alsoAccepted\":[\"жаль\",\"прикро\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-phrases/rada",
+			"seen": "{\"item\":\"phrase:l05:rada\",\"text\":\"рада\",\"display\":\"ра́да\",\"sentence\":\"Оле́на ка́же: я ___ тебе́ ба́чити.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-phrases/radyi",
+			"seen": "{\"item\":\"phrase:l05:radyi\",\"text\":\"радий\",\"display\":\"ра́дий\",\"sentence\":\"Андрі́й ка́же: я ___ тебе́ ба́чити.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/pryvit",
+			"seen": "{\"item\":\"word:pryvit\",\"text\":\"привіт\",\"display\":\"приві́т\",\"ipa\":\"/prɪˈʋit/\",\"alsoAccepted\":[\"вітаю\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/dobryi-den",
+			"seen": "{\"item\":\"word:dobryi-den\",\"text\":\"добрий день\",\"display\":\"до́брий день\",\"ipa\":\"/ˈdɔbrɪj dɛnʲ/\",\"alsoAccepted\":[\"добридень\",\"доброго дня\",\"день добрий\"],\"cognates\":{\"ru\":{\"form\":\"до́брый день\"},\"pl\":{\"form\":\"dzień dobry\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/dobryi-ranok",
+			"seen": "{\"item\":\"word:dobryi-ranok\",\"text\":\"добрий ранок\",\"display\":\"до́брий ра́нок\",\"ipa\":\"/ˈdɔbrɪj ˈranɔk/\",\"alsoAccepted\":[\"доброго ранку\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/dobryi-vechir",
+			"seen": "{\"item\":\"word:dobryi-vechir\",\"text\":\"добрий вечір\",\"display\":\"до́брий ве́чір\",\"ipa\":\"/ˈdɔbrɪj ˈʋɛt͡ʃir/\",\"alsoAccepted\":[\"доброго вечора\",\"добривечір\",\"вечір добрий\"],\"cognates\":{\"ru\":{\"form\":\"до́брый ве́чер\"},\"pl\":{\"form\":\"dobry wieczór\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/vitayu",
+			"seen": "{\"item\":\"word:vitayu\",\"text\":\"вітаю\",\"display\":\"віта́ю\",\"ipa\":\"/ʋiˈtaju/\",\"alsoAccepted\":[\"привіт\",\"вітання\",\"вітаємо\"],\"cognates\":{\"pl\":{\"form\":\"witam\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/do-pobachennya",
+			"seen": "{\"item\":\"word:do-pobachennya\",\"text\":\"до побачення\",\"display\":\"до поба́чення\",\"ipa\":\"/dɔ pɔˈbat͡ʃɛnʲːa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/do-zustrichi",
+			"seen": "{\"item\":\"word:do-zustrichi\",\"text\":\"до зустрічі\",\"display\":\"до зу́стрічі\",\"ipa\":\"/dɔ ˈzustrʲit͡ʃi/\",\"alsoAccepted\":[\"до побачення\",\"побачимося\",\"побачимось\"],\"cognates\":{\"ru\":{\"form\":\"до встре́чи\"}}}",
+			"verdict": "ok",
+			"comment": "Ok. Optional still missing: до скорого (own knowledge)."
+		},
+		{
+			"key": "core/l05-words/buvay",
+			"seen": "{\"item\":\"word:buvay\",\"text\":\"бувай\",\"display\":\"бува́й\",\"ipa\":\"/buˈʋaj/\",\"alsoAccepted\":[\"бувайте\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/proshchavay",
+			"seen": "{\"item\":\"word:proshchavay\",\"text\":\"прощавай\",\"display\":\"прощава́й\",\"ipa\":\"/prɔʃt͡ʃaˈʋaj/\",\"alsoAccepted\":[\"прощавайте\"],\"cognates\":{\"ru\":{\"form\":\"проща́й\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/dyakuyu",
+			"seen": "{\"item\":\"word:dyakuyu\",\"text\":\"дякую\",\"display\":\"дя́кую\",\"ipa\":\"/ˈdʲakuju/\",\"alsoAccepted\":[\"спасибі\"],\"cognates\":{\"pl\":{\"form\":\"dziękuję\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/bud-laska",
+			"seen": "{\"item\":\"word:bud-laska\",\"text\":\"будь ласка\",\"display\":\"будь ла́ска\",\"ipa\":\"/budʲ ˈlaska/\",\"alsoAccepted\":[\"прошу\",\"нема за що\",\"немає за що\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/vybachte",
+			"seen": "{\"item\":\"word:vybachte\",\"text\":\"вибачте\",\"display\":\"ви́бачте\",\"ipa\":\"/ˈʋɪbat͡ʃtɛ/\",\"alsoAccepted\":[\"вибач\",\"пробачте\",\"пробач\",\"перепрошую\",\"даруйте\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/pereproshuyu",
+			"seen": "{\"item\":\"word:pereproshuyu\",\"text\":\"перепрошую\",\"display\":\"перепро́шую\",\"ipa\":\"/pɛrɛˈprɔʃuju/\",\"alsoAccepted\":[\"вибачте\",\"пробачте\",\"прошу пробачення\",\"прошу вибачення\"],\"cognates\":{\"pl\":{\"form\":\"przepraszam\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/shkoda",
+			"seen": "{\"item\":\"word:shkoda\",\"text\":\"шкода\",\"display\":\"шкода́\",\"ipa\":\"/ʃkɔˈda/\",\"alsoAccepted\":[\"жаль\",\"прикро\",\"як шкода\"],\"cognates\":{\"ru\":{\"form\":\"шко́да\"},\"pl\":{\"form\":\"szkoda\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/chudovo",
+			"seen": "{\"item\":\"word:chudovo\",\"text\":\"чудово\",\"display\":\"чудо́во\",\"ipa\":\"/t͡ʃuˈdɔʋɔ/\",\"alsoAccepted\":[\"прекрасно\",\"чудесно\",\"відмінно\"],\"cognates\":{\"ru\":{\"form\":\"чу́дно\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/dobre",
+			"seen": "{\"item\":\"word:dobre\",\"text\":\"добре\",\"display\":\"до́бре\",\"ipa\":\"/ˈdɔbrɛ/\",\"alsoAccepted\":[\"гаразд\",\"гарно\"],\"cognates\":{\"pl\":{\"form\":\"dobrze\"},\"ru\":{\"form\":\"до́бро\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/normalno",
+			"seen": "{\"item\":\"word:normalno\",\"text\":\"нормально\",\"display\":\"норма́льно\",\"ipa\":\"/nɔrˈmalʲnɔ/\",\"alsoAccepted\":[\"гаразд\"],\"cognates\":{\"ru\":{\"form\":\"норма́льно\"},\"pl\":{\"form\":\"normalnie\"}}}",
+			"verdict": "ok",
+			"comment": "Ok. Cross-tile: en clue \"okay\" also fits добре; accepted design choice, not added."
+		},
+		{
+			"key": "core/l05-words/nepohano",
+			"seen": "{\"item\":\"word:nepohano\",\"text\":\"непогано\",\"display\":\"непога́но\",\"ipa\":\"/nɛpɔˈɦanɔ/\",\"alsoAccepted\":[\"незле\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/tak-sobi",
+			"seen": "{\"item\":\"word:tak-sobi\",\"text\":\"так собі\",\"ipa\":\"/ˈtak sɔbi/\",\"cognates\":{\"ru\":{\"form\":\"так себе́\"},\"pl\":{\"form\":\"tak sobie\"}}}",
+			"verdict": "ok",
+			"comment": "Ok. Goroh Тлумачення/так собі prints та́к собі, so IPA /ˈtak sɔbi/ is right. Consider display та́к собі: with no mark a learner will stress собі́ (Goroh lists собі́ alone)."
+		},
+		{
+			"key": "core/l05-words/pohano",
+			"seen": "{\"item\":\"word:pohano\",\"text\":\"погано\",\"display\":\"пога́но\",\"ipa\":\"/pɔˈɦanɔ/\",\"alsoAccepted\":[\"зле\",\"кепсько\"],\"cognates\":{\"ru\":{\"form\":\"пога́но\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/kepsko",
+			"seen": "{\"item\":\"word:kepsko\",\"text\":\"кепсько\",\"display\":\"ке́псько\",\"ipa\":\"/ˈkɛpsʲkɔ/\",\"alsoAccepted\":[\"погано\",\"зле\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l05-words/kolehy",
+			"seen": "{\"item\":\"word:kolehy\",\"text\":\"колеги\",\"display\":\"коле́ги\",\"ipa\":\"/kɔˈlɛɦɪ/\",\"cognates\":{\"ru\":{\"form\":\"колле́ги\"},\"pl\":{\"form\":\"koledzy\"}}}",
+			"verdict": "ok",
+			"comment": "Ok now: the uk clue follows Goroh колега (\"Товариш за фахом, місцем роботи\"); the objection was to the old clue."
 		},
 		{
 			"key": "core/letter-names/a",
@@ -2332,6 +2875,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/lesson/l04",
+			"seen": "\"Lesson 4: Getting to know someone\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l05",
+			"seen": "\"Lesson 5: Greetings and addressing people\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/lesson/l09",
 			"seen": "\"Lesson 9: My family\"",
 			"verdict": "ok"
@@ -2447,6 +3000,33 @@
 			"key": "en/concept/future-two",
 			"seen": "{\"title\":\"Two forms of the future\",\"body\":\"The imperfective future has two forms that mean the same: бу́ду чита́ти and чита́тиму. The second adds -му, -меш, -ме, -мемо, -мете, -муть to the infinitive.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/name-formula",
+			"seen": "{\"title\":\"Asking a name\",\"body\":\"Ukrainian asks how someone is called, with зва́ти or звуть and the person in the accusative: Як тебе́ зва́ти? Мене́ зва́ти Окса́на, or Мене́ звуть Окса́на. It can also use ім'я́ with a possessive: Як твоє́ ім'я́? Моє́ ім'я́ — Окса́на.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/ty-vy",
+			"seen": "{\"title\":\"ти and ви\",\"body\":\"ви is polite as well as plural. Use it with adults you don't know well, and at work, until you are invited to change to ти: перейти́ на ти. ти is for friends, family and children.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok",
+			"comment": "Ok text; source is the eMova course page, which is a JS app: I could not read lesson 4 from it."
+		},
+		{
+			"key": "en/concept/no-to-be",
+			"seen": "{\"title\":\"No \\\"to be\\\" in the present\",\"body\":\"The present tense normally leaves out the verb \\\"to be\\\": Я студе́нт. Він з Украї́ни.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/from-in",
+			"seen": "{\"title\":\"Where from, and where\",\"body\":\"з takes the genitive for where someone comes from: з Украї́ни. в or у takes the locative for where someone is: в Украї́ні, у Німе́ччині. в and у alternate to ease pronunciation, and so can з and із.\",\"sources\":[{\"title\":\"Український правопис (2019)\",\"url\":\"https://2019.pravopys.net/\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/patronymic",
+			"seen": "{\"title\":\"Name and patronymic\",\"body\":\"A respectful address uses the name and the patronymic, both in the vocative. A woman's -івна or -ївна becomes -івно or -ївно, and a man's -ович or -йович becomes -овичу or -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok",
+			"comment": "Ok text; eMova source not readable (JS app). Rules match Goroh Павлівно."
 		},
 		{
 			"key": "en/alphabet",
@@ -2693,6 +3273,46 @@
 			"seen": "{\"title\":\"The consonant chart\",\"summary\":\"The plain consonants by manner and place of articulation, as an IPA chart. Each cell gives the sound; find its letter or letters.\",\"headers\":{\"plosive-vl\":\"Plosive, voiceless\",\"plosive-vd\":\"Plosive, voiced\",\"nasal\":\"Nasal\",\"fricative-vl\":\"Fricative, voiceless\",\"fricative-vd\":\"Fricative, voiced\",\"affricate-vl\":\"Affricate, voiceless\",\"affricate-vd\":\"Affricate, voiced\",\"trill\":\"Trill\",\"approximant\":\"Approximant\",\"lateral\":\"Lateral\",\"labial\":\"Labial\",\"post\":\"Post-al­ve­o­lar\",\"palatal\":\"Palatal\",\"velar\":\"Velar\",\"glottal\":\"Glottal\",\"denti-alveolar\":\"Den­tal/​al­ve­o­lar\"}}",
 			"verdict": "ok",
 			"comment": "Soft hyphens checked: Post-al-ve-o-lar, Den-tal/ZWSP al-ve-o-lar, all on syllable boundaries."
+		},
+		{
+			"key": "en/countries-sentences",
+			"seen": "{\"title\":\"Countries in sentences\",\"summary\":\"The phrases of this lesson. Choose or type what fits the gap. A word in brackets is the one to change.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/countries-sentences/ukraine.from",
+			"seen": "{\"sentenceGloss\":\"I'm from Ukraine.\",\"note\":\"Genitive, after з: where someone is from.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/countries-sentences/ukraine.in",
+			"seen": "{\"sentenceGloss\":\"I live in Ukraine.\",\"note\":\"Locative, after в or у: where someone is.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/countries-sentences/germany.from",
+			"seen": "{\"sentenceGloss\":\"He's from Germany.\",\"note\":\"Genitive, after з: where someone is from.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/countries-sentences/germany.in",
+			"seen": "{\"sentenceGloss\":\"She lives in Germany.\",\"note\":\"Locative, after в or у: where someone is.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/countries-sentences/poland.from",
+			"seen": "{\"sentenceGloss\":\"We're from Poland.\",\"note\":\"Genitive, after з: where someone is from.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/countries-sentences/italy.in",
+			"seen": "{\"sentenceGloss\":\"We live in Italy.\",\"note\":\"Locative, after в or у: where someone is.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/countries",
+			"seen": "{\"title\":\"Countries: from and in\",\"summary\":\"Where someone is from takes the genitive, and where someone is takes the locative. Some forms fill both cells.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"from: з …\",\"in\":\"in: в / у …\"}}",
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family",
@@ -3146,6 +3766,401 @@
 		{
 			"key": "en/kimnata",
 			"seen": "{\"title\":\"Noun cases: кімната (room)\",\"summary\":\"One regular noun through all 7 cases, singular and plural. Some forms fill more than one cell.\",\"headers\":{\"nom\":\"Nominative\",\"gen\":\"Genitive\",\"dat\":\"Dative\",\"acc\":\"Accusative\",\"ins\":\"Instrumental\",\"loc\":\"Locative\",\"voc\":\"Vocative\",\"sg\":\"Singular\",\"pl\":\"Plural\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases",
+			"seen": "{\"title\":\"Phrases\",\"summary\":\"The phrases of this lesson. Choose or type what fits the gap. A word in brackets is the one to change.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/ty.acc",
+			"seen": "{\"sentenceGloss\":\"What's your name?\",\"note\":\"Accusative: зва́ти takes the person in the accusative.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/vy.acc",
+			"seen": "{\"sentenceGloss\":\"Good day! What is your name?\",\"note\":\"Accusative: зва́ти takes the person in the accusative.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/he.acc",
+			"seen": "{\"sentenceGloss\":\"What's his name?\",\"note\":\"Accusative: зва́ти takes the person in the accusative.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/she.acc",
+			"seen": "{\"sentenceGloss\":\"What's her name?\",\"note\":\"Accusative: зва́ти takes the person in the accusative.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/zvaty",
+			"seen": "{\"sentenceGloss\":\"My name is Oksana.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/tvoe",
+			"seen": "{\"sentenceGloss\":\"What is your name?\",\"note\":\"Neuter, to agree with ім'я́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/vashe",
+			"seen": "{\"sentenceGloss\":\"What is your name?\",\"note\":\"Neuter, to agree with ім'я́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/imya",
+			"seen": "{\"sentenceGloss\":\"My name is Vira.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/pryyemno",
+			"seen": "{\"sentenceGloss\":\"Very nice to meet you!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/zvidky",
+			"seen": "{\"sentenceGloss\":\"I'm from Ukraine. And where are you from?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/z",
+			"seen": "{\"sentenceGloss\":\"I'm from Ukraine.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/zhyvu",
+			"seen": "{\"sentenceGloss\":\"I live in Lviv.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/zhyvete",
+			"seen": "{\"sentenceGloss\":\"Where do you live?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/rozmovlyayesh",
+			"seen": "{\"sentenceGloss\":\"You speak Ukrainian well.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/vchu",
+			"seen": "{\"sentenceGloss\":\"I'm learning Ukrainian.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/toboyu",
+			"seen": "{\"sentenceGloss\":\"I want to get to know you.\",\"note\":\"Instrumental, after з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-phrases/vamy",
+			"seen": "{\"sentenceGloss\":\"I want to get to know you.\",\"note\":\"Instrumental, after з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words",
+			"seen": "{\"title\":\"Words\",\"summary\":\"The words of this lesson. Each tile gives the meaning; find the word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/imya",
+			"seen": "{\"clue\":\"first name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/prizvyshche",
+			"seen": "{\"clue\":\"surname\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/znayomytysya",
+			"seen": "{\"clue\":\"to get to know someone\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/zvidky",
+			"seen": "{\"clue\":\"where from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/zhyty",
+			"seen": "{\"clue\":\"to live\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/rozmovlyaty",
+			"seen": "{\"clue\":\"to speak, to talk\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/vchyty",
+			"seen": "{\"clue\":\"to learn, to teach\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/mova",
+			"seen": "{\"clue\":\"language\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/krayina",
+			"seen": "{\"clue\":\"country\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/misto",
+			"seen": "{\"clue\":\"city, town\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/student",
+			"seen": "{\"clue\":\"student (man)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/studentka",
+			"seen": "{\"clue\":\"student (woman)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/ukrayinets",
+			"seen": "{\"clue\":\"Ukrainian (man)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/ukrayinka",
+			"seen": "{\"clue\":\"Ukrainian (woman)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/ukrayinska",
+			"seen": "{\"clue\":\"Ukrainian (the language)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/anhliyska",
+			"seen": "{\"clue\":\"English (the language)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/vvichlyvyi",
+			"seen": "{\"clue\":\"polite\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/zalyubky",
+			"seen": "{\"clue\":\"gladly\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/odnolitok",
+			"seen": "{\"clue\":\"person of the same age\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/spivrozmovnyk",
+			"seen": "{\"clue\":\"person you are talking to\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/zaimennyk",
+			"seen": "{\"clue\":\"pronoun\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l04-words/pryyemno",
+			"seen": "{\"clue\":\"it's nice, pleasantly\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-names",
+			"seen": "{\"title\":\"Addressing people by name\",\"summary\":\"Each tile gives a name as it stands in the nominative. Find the form you use to address that person. A patronymic changes too.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases",
+			"seen": "{\"title\":\"Phrases\",\"summary\":\"The phrases of this lesson. Choose or type what fits the gap. A word in brackets is the one to change.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/spravy",
+			"seen": "{\"sentenceGloss\":\"How are you? — Fine, thank you.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/laska",
+			"seen": "{\"sentenceGloss\":\"Thank you! — You're welcome.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/pane",
+			"seen": "{\"sentenceGloss\":\"Good day, Mr Andriy!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/pani",
+			"seen": "{\"sentenceGloss\":\"Good morning, Ms Oksana!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/ranku",
+			"seen": "{\"sentenceGloss\":\"Good morning, Mr Andriy!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/tebe",
+			"seen": "{\"sentenceGloss\":\"Fine, thank you. And you?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/vas",
+			"seen": "{\"sentenceGloss\":\"Fine, thank you. And you?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/treba",
+			"seen": "{\"sentenceGloss\":\"I have to go now.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/zustrichi",
+			"seen": "{\"sentenceGloss\":\"See you tomorrow!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/vybachte",
+			"seen": "{\"sentenceGloss\":\"Excuse me, sir, where is the coffee?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/shkoda",
+			"seen": "{\"sentenceGloss\":\"I have to go now. — What a pity!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/rada",
+			"seen": "{\"sentenceGloss\":\"Olena says: I am glad to see you.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-phrases/radyi",
+			"seen": "{\"sentenceGloss\":\"Andriy says: I am glad to see you.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words",
+			"seen": "{\"title\":\"Words\",\"summary\":\"The words of this lesson. Each tile gives the meaning; find the word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/pryvit",
+			"seen": "{\"clue\":\"hi\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/dobryi-den",
+			"seen": "{\"clue\":\"good day\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/dobryi-ranok",
+			"seen": "{\"clue\":\"good morning\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/dobryi-vechir",
+			"seen": "{\"clue\":\"good evening\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/vitayu",
+			"seen": "{\"clue\":\"greetings\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/do-pobachennya",
+			"seen": "{\"clue\":\"goodbye\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/do-zustrichi",
+			"seen": "{\"clue\":\"see you\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/buvay",
+			"seen": "{\"clue\":\"bye (to a friend)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/proshchavay",
+			"seen": "{\"clue\":\"farewell\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/dyakuyu",
+			"seen": "{\"clue\":\"thank you\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/bud-laska",
+			"seen": "{\"clue\":\"please, you're welcome\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/vybachte",
+			"seen": "{\"clue\":\"excuse me\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/pereproshuyu",
+			"seen": "{\"clue\":\"I beg your pardon\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/shkoda",
+			"seen": "{\"clue\":\"what a pity\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/chudovo",
+			"seen": "{\"clue\":\"it's wonderful\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/dobre",
+			"seen": "{\"clue\":\"fine, well\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/normalno",
+			"seen": "{\"clue\":\"okay\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/nepohano",
+			"seen": "{\"clue\":\"not bad\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"so-so\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/pohano",
+			"seen": "{\"clue\":\"badly\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/kepsko",
+			"seen": "{\"clue\":\"poorly\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/kolehy",
+			"seen": "{\"clue\":\"colleagues\"}",
 			"verdict": "ok"
 		},
 		{
@@ -3717,6 +4732,17 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/lesson/l04",
+			"seen": "\"Lekcja 4: Zapoznanie się\"",
+			"verdict": "ok",
+			"comment": "Ok; 'Zapoznanie się' is understandable but stiff Polish."
+		},
+		{
+			"key": "pl/lesson/l05",
+			"seen": "\"Lekcja 5: Powitania i zwroty do ludzi\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/lesson/l09",
 			"seen": "\"Lekcja 9: Moja rodzina\"",
 			"verdict": "ok"
@@ -3831,6 +4857,33 @@
 			"key": "pl/concept/future-two",
 			"seen": "{\"title\":\"Dwie formy przyszłe\",\"body\":\"Czasowniki niedokonane mają dwie formy przyszłe o tym samym znaczeniu: бу́ду чита́ти i чита́тиму. Druga dodaje do bezokolicznika -му, -меш, -ме, -мемо, -мете, -муть.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
 			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/name-formula",
+			"seen": "{\"title\":\"Pytanie o imię\",\"body\":\"Po ukraińsku pyta się, jak kogoś nazywać, za pomocą зва́ти lub звуть z osobą w bierniku: Як тебе́ зва́ти? Мене́ зва́ти Окса́на albo Мене́ звуть Окса́на. Można też użyć ім'я́ z zaimkiem dzierżawczym: Як твоє́ ім'я́? Моє́ ім'я́ — Окса́на.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/ty-vy",
+			"seen": "{\"title\":\"ти i ви\",\"body\":\"ви to forma grzecznościowa i zarazem liczba mnoga. Używa się jej wobec nieznanych dorosłych i w pracy, dopóki ktoś nie zaproponuje przejścia na ти: перейти́ на ти. ти jest dla przyjaciół, rodziny i dzieci.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok",
+			"comment": "Ok text; eMova source not readable (JS app)."
+		},
+		{
+			"key": "pl/concept/no-to-be",
+			"seen": "{\"title\":\"Bez „być” w czasie teraźniejszym\",\"body\":\"W czasie teraźniejszym czasownik „być” zwykle się pomija: Я студе́нт. Він з Украї́ни.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/from-in",
+			"seen": "{\"title\":\"Skąd i gdzie\",\"body\":\"з łączy się z dopełniaczem, gdy mowa o tym, skąd ktoś jest: з Украї́ни. в lub у łączy się z miejscownikiem, gdy mowa o tym, gdzie ktoś jest: в Украї́ні, у Німе́ччині. в i у wymieniają się dla łatwiejszej wymowy, podobnie з i із.\",\"sources\":[{\"title\":\"Український правопис (2019)\",\"url\":\"https://2019.pravopys.net/\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/patronymic",
+			"seen": "{\"title\":\"Imię i imię odojcowskie\",\"body\":\"Pełne szacunku zwracanie się składa się z imienia i imienia odojcowskiego, oba w wołaczu. Żeńskie -івна lub -ївна przechodzi w -івно lub -ївно, a męskie -ович lub -йович w -овичу lub -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok",
+			"comment": "Ok text; eMova source not readable (JS app)."
 		},
 		{
 			"key": "pl/alphabet",
@@ -4077,6 +5130,47 @@
 			"seen": "{\"title\":\"Tabela spółgłosek\",\"summary\":\"Twarde spółgłoski według sposobu i miejsca artykulacji, jak w tabeli IPA. Pole podaje dźwięk; znajdź jego literę lub litery.\",\"headers\":{\"plosive-vl\":\"Zwarta, bezdźwięczna\",\"plosive-vd\":\"Zwarta, dźwięczna\",\"nasal\":\"Nosowa\",\"fricative-vl\":\"Szczelinowa, bezdźwięczna\",\"fricative-vd\":\"Szczelinowa, dźwięczna\",\"affricate-vl\":\"Zwarto-szczelinowa, bezdźwięczna\",\"affricate-vd\":\"Zwarto-szczelinowa, dźwięczna\",\"trill\":\"Drżąca\",\"approximant\":\"Aproksymant\",\"lateral\":\"Boczna\",\"labial\":\"War­go­wa\",\"post\":\"Za­dzią­sło­wa\",\"palatal\":\"Pod­nie­bien­na\",\"velar\":\"Tyl­no­ję­zy­ko­wa\",\"glottal\":\"Krta­nio­wa\",\"denti-alveolar\":\"Zę­bo­wa/​dzią­sło­wa\"}}",
 			"verdict": "ok",
 			"comment": "Soft hyphens checked: War-go-wa, Za-dzią-sło-wa, Pod-nie-bien-na, Tyl-no-ję-zy-ko-wa, Krta-nio-wa, Zę-bo-wa/dzią-sło-wa, all on syllable boundaries."
+		},
+		{
+			"key": "pl/countries-sentences",
+			"seen": "{\"title\":\"Kraje w zdaniach\",\"summary\":\"Zwroty tej lekcji. Wybierz lub wpisz to, co pasuje do luki. Słowo w nawiasie trzeba odmienić.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/countries-sentences/ukraine.from",
+			"seen": "{\"sentenceGloss\":\"Jestem z Ukrainy.\",\"note\":\"Dopełniacz, po з: skąd ktoś pochodzi.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/countries-sentences/ukraine.in",
+			"seen": "{\"sentenceGloss\":\"Mieszkam w Ukrainie.\",\"note\":\"Miejscownik, po в lub у: gdzie ktoś jest.\"}",
+			"verdict": "ok",
+			"comment": "Ok; 'w Ukrainie' is acceptable modern Polish (traditional 'na Ukrainie'; own knowledge)."
+		},
+		{
+			"key": "pl/countries-sentences/germany.from",
+			"seen": "{\"sentenceGloss\":\"On jest z Niemiec.\",\"note\":\"Dopełniacz, po з: skąd ktoś pochodzi.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/countries-sentences/germany.in",
+			"seen": "{\"sentenceGloss\":\"Ona mieszka w Niemczech.\",\"note\":\"Miejscownik, po в lub у: gdzie ktoś jest.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/countries-sentences/poland.from",
+			"seen": "{\"sentenceGloss\":\"Jesteśmy z Polski.\",\"note\":\"Dopełniacz, po з: skąd ktoś pochodzi.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/countries-sentences/italy.in",
+			"seen": "{\"sentenceGloss\":\"Mieszkamy we Włoszech.\",\"note\":\"Miejscownik, po в lub у: gdzie ktoś jest.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/countries",
+			"seen": "{\"title\":\"Kraje: skąd i gdzie\",\"summary\":\"Skąd ktoś pochodzi: dopełniacz. Gdzie ktoś jest: miejscownik. Niektóre formy wypełniają oba pola.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"skąd: з …\",\"in\":\"gdzie: в / у …\"}}",
+			"verdict": "ok"
 		},
 		{
 			"key": "pl/family",
@@ -4531,6 +5625,405 @@
 		{
 			"key": "pl/kimnata",
 			"seen": "{\"title\":\"Przypadki: кімната (pokój)\",\"summary\":\"Jeden regularny rzeczownik we wszystkich 7 przypadkach, w liczbie pojedynczej i mnogiej. Niektóre formy wypełniają kilka pól.\",\"headers\":{\"nom\":\"Mianownik\",\"gen\":\"Dopełniacz\",\"dat\":\"Celownik\",\"acc\":\"Biernik\",\"ins\":\"Narzędnik\",\"loc\":\"Miejscownik\",\"voc\":\"Wołacz\",\"sg\":\"Pojedyncza\",\"pl\":\"Mnoga\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases",
+			"seen": "{\"title\":\"Zwroty\",\"summary\":\"Zwroty tej lekcji. Wybierz lub wpisz to, co pasuje do luki. Słowo w nawiasie trzeba odmienić.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/ty.acc",
+			"seen": "{\"sentenceGloss\":\"Jak masz na imię?\",\"note\":\"Biernik: зва́ти łączy się z osobą w bierniku.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/vy.acc",
+			"seen": "{\"sentenceGloss\":\"Dzień dobry! Jak ma pan na imię?\",\"note\":\"Biernik: зва́ти łączy się z osobą w bierniku.\"}",
+			"verdict": "ok",
+			"comment": "Ok; assumes 'pan' (male) for ви, which is gender-neutral. Not wrong."
+		},
+		{
+			"key": "pl/l04-phrases/he.acc",
+			"seen": "{\"sentenceGloss\":\"Jak on ma na imię?\",\"note\":\"Biernik: зва́ти łączy się z osobą w bierniku.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/she.acc",
+			"seen": "{\"sentenceGloss\":\"Jak ona ma na imię?\",\"note\":\"Biernik: зва́ти łączy się z osobą w bierniku.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/zvaty",
+			"seen": "{\"sentenceGloss\":\"Mam na imię Oksana.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/tvoe",
+			"seen": "{\"sentenceGloss\":\"Jak masz na imię?\",\"note\":\"Rodzaj nijaki, w zgodzie z ім'я́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/vashe",
+			"seen": "{\"sentenceGloss\":\"Jak ma pan na imię?\",\"note\":\"Rodzaj nijaki, w zgodzie z ім'я́.\"}",
+			"verdict": "ok",
+			"comment": "Ok; assumes 'pan' (male) for ви, which is gender-neutral. Not wrong."
+		},
+		{
+			"key": "pl/l04-phrases/imya",
+			"seen": "{\"sentenceGloss\":\"Mam na imię Wira.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/pryyemno",
+			"seen": "{\"sentenceGloss\":\"Bardzo mi miło!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/zvidky",
+			"seen": "{\"sentenceGloss\":\"Jestem z Ukrainy. A ty skąd jesteś?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/z",
+			"seen": "{\"sentenceGloss\":\"Jestem z Ukrainy.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/zhyvu",
+			"seen": "{\"sentenceGloss\":\"Mieszkam we Lwowie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/zhyvete",
+			"seen": "{\"sentenceGloss\":\"Gdzie pan mieszka?\"}",
+			"verdict": "ok",
+			"comment": "Ok; assumes 'pan' (male) for ви, which is gender-neutral. Not wrong."
+		},
+		{
+			"key": "pl/l04-phrases/rozmovlyayesh",
+			"seen": "{\"sentenceGloss\":\"Dobrze mówisz po ukraińsku.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/vchu",
+			"seen": "{\"sentenceGloss\":\"Uczę się ukraińskiego.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/toboyu",
+			"seen": "{\"sentenceGloss\":\"Chcę cię poznać.\",\"note\":\"Narzędnik, po з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-phrases/vamy",
+			"seen": "{\"sentenceGloss\":\"Chcę pana poznać.\",\"note\":\"Narzędnik, po з.\"}",
+			"verdict": "ok",
+			"comment": "Ok; assumes 'pan' (male) for ви, which is gender-neutral. Not wrong."
+		},
+		{
+			"key": "pl/l04-words",
+			"seen": "{\"title\":\"Słowa\",\"summary\":\"Słowa tej lekcji. Pole podaje znaczenie; znajdź słowo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/imya",
+			"seen": "{\"clue\":\"imię\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/prizvyshche",
+			"seen": "{\"clue\":\"nazwisko\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/znayomytysya",
+			"seen": "{\"clue\":\"zapoznawać się\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/zvidky",
+			"seen": "{\"clue\":\"skąd\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/zhyty",
+			"seen": "{\"clue\":\"żyć, mieszkać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/rozmovlyaty",
+			"seen": "{\"clue\":\"rozmawiać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/vchyty",
+			"seen": "{\"clue\":\"uczyć (się)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/mova",
+			"seen": "{\"clue\":\"język\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/krayina",
+			"seen": "{\"clue\":\"kraj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/misto",
+			"seen": "{\"clue\":\"miasto\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/student",
+			"seen": "{\"clue\":\"student\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/studentka",
+			"seen": "{\"clue\":\"studentka\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/ukrayinets",
+			"seen": "{\"clue\":\"Ukrainiec\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/ukrayinka",
+			"seen": "{\"clue\":\"Ukrainka\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/ukrayinska",
+			"seen": "{\"clue\":\"ukraiński (język)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/anhliyska",
+			"seen": "{\"clue\":\"angielski (język)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/vvichlyvyi",
+			"seen": "{\"clue\":\"uprzejmy\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/zalyubky",
+			"seen": "{\"clue\":\"chętnie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/odnolitok",
+			"seen": "{\"clue\":\"rówieśnik\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/spivrozmovnyk",
+			"seen": "{\"clue\":\"rozmówca\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/zaimennyk",
+			"seen": "{\"clue\":\"zaimek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l04-words/pryyemno",
+			"seen": "{\"clue\":\"przyjemnie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-names",
+			"seen": "{\"title\":\"Zwracanie się po imieniu\",\"summary\":\"Pole podaje imię w mianowniku. Znajdź formę, której używa się, zwracając się do tej osoby. Imię odojcowskie też się zmienia.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases",
+			"seen": "{\"title\":\"Zwroty\",\"summary\":\"Zwroty tej lekcji. Wybierz lub wpisz to, co pasuje do luki. Słowo w nawiasie trzeba odmienić.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/spravy",
+			"seen": "{\"sentenceGloss\":\"Co słychać? — Dobrze, dziękuję.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/laska",
+			"seen": "{\"sentenceGloss\":\"Dziękuję! — Proszę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/pane",
+			"seen": "{\"sentenceGloss\":\"Dzień dobry, panie Andriju!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/pani",
+			"seen": "{\"sentenceGloss\":\"Dzień dobry, pani Oksano!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/ranku",
+			"seen": "{\"sentenceGloss\":\"Dzień dobry, panie Andriju!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/tebe",
+			"seen": "{\"sentenceGloss\":\"Dobrze, dziękuję. A u ciebie?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/vas",
+			"seen": "{\"sentenceGloss\":\"Dobrze, dziękuję. A u pana?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/treba",
+			"seen": "{\"sentenceGloss\":\"Muszę już iść.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/zustrichi",
+			"seen": "{\"sentenceGloss\":\"Do zobaczenia jutro!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/vybachte",
+			"seen": "{\"sentenceGloss\":\"Przepraszam pana, gdzie tu jest kawa?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/shkoda",
+			"seen": "{\"sentenceGloss\":\"Muszę już iść. — Jaka szkoda!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/rada",
+			"seen": "{\"sentenceGloss\":\"Olena mówi: cieszę się, że cię widzę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-phrases/radyi",
+			"seen": "{\"sentenceGloss\":\"Andrij mówi: cieszę się, że cię widzę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words",
+			"seen": "{\"title\":\"Słowa\",\"summary\":\"Słowa tej lekcji. Pole podaje znaczenie; znajdź słowo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/pryvit",
+			"seen": "{\"clue\":\"cześć\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/dobryi-den",
+			"seen": "{\"clue\":\"dzień dobry\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/dobryi-ranok",
+			"seen": "{\"clue\":\"dzień dobry (rano)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/dobryi-vechir",
+			"seen": "{\"clue\":\"dobry wieczór\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/vitayu",
+			"seen": "{\"clue\":\"witam\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/do-pobachennya",
+			"seen": "{\"clue\":\"do widzenia\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/do-zustrichi",
+			"seen": "{\"clue\":\"do zobaczenia\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/buvay",
+			"seen": "{\"clue\":\"pa, na razie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/proshchavay",
+			"seen": "{\"clue\":\"żegnaj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/dyakuyu",
+			"seen": "{\"clue\":\"dziękuję\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/bud-laska",
+			"seen": "{\"clue\":\"proszę\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/vybachte",
+			"seen": "{\"clue\":\"przepraszam\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/pereproshuyu",
+			"seen": "{\"clue\":\"przepraszam (uprzejmie)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/shkoda",
+			"seen": "{\"clue\":\"szkoda\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/chudovo",
+			"seen": "{\"clue\":\"wspaniale\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/dobre",
+			"seen": "{\"clue\":\"dobrze\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/normalno",
+			"seen": "{\"clue\":\"normalnie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/nepohano",
+			"seen": "{\"clue\":\"nieźle\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"tak sobie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/pohano",
+			"seen": "{\"clue\":\"źle\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/kepsko",
+			"seen": "{\"clue\":\"kiepsko\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l05-words/kolehy",
+			"seen": "{\"clue\":\"koledzy\"}",
 			"verdict": "ok"
 		},
 		{
@@ -5191,6 +6684,41 @@
 			"comment": "sjp.pwn.pl: komnata = \"pokój mieszkalny lub sala reprezentacyjna w dawnych rezydencjach, pałacach i zamkach\" (no usage label). The wording is consistent with it; it names the palace/castle sense and omits \"dawnych\" (historical)."
 		},
 		{
+			"key": "pl-en/l04-phrases/ty.acc",
+			"seen": "{\"contrast\":\"Polish says jak masz na imię or jak się nazywasz. Ukrainian has зва́ти with the accusative.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l04-words/misto",
+			"seen": "{\"contrast\":\"Close to Polish miasto.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l04-words/prizvyshche",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"przezwisko\",\"means\":\"a nickname. Ukrainian прі́звище is a surname\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l04-words/krayina",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"kraina\",\"means\":\"a land or region. Ukrainian краї́на is a country\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l04-words/mova",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"mowa\",\"means\":\"speech. Ukrainian мо́ва is a language\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l04-words/student",
+			"seen": "{\"contrast\":\"Polish has the verb here: jestem studentem. Ukrainian leaves it out.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l05-words/kepsko",
+			"seen": "{\"contrast\":\"Close to Polish kiepsko.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-en/past/he.chytaty",
 			"seen": "{\"contrast\":\"Polish adds a person ending: czytałem, czytałeś. Ukrainian says я чита́в and ти чита́в, with no ending for the person.\"}",
 			"verdict": "ok"
@@ -5352,6 +6880,41 @@
 			"seen": "{\"contrast\":\"Wołacz jak w polskim: żywy przypadek. Polskie komnata to sala w pałacu lub zamku; zwykłe pomieszczenie to pokój.\"}",
 			"verdict": "ok",
 			"comment": "sjp.pwn.pl: komnata = \"pokój mieszkalny lub sala reprezentacyjna w dawnych rezydencjach, pałacach i zamkach\" (no usage label). The wording is consistent with it; it names the palace/castle sense and omits \"dawnych\" (historical)."
+		},
+		{
+			"key": "pl-pl/l04-phrases/ty.acc",
+			"seen": "{\"contrast\":\"Po polsku jak masz na imię albo jak się nazywasz. Po ukraińsku зва́ти z biernikiem.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l04-words/misto",
+			"seen": "{\"contrast\":\"Blisko polskiego miasto.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l04-words/prizvyshche",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"przezwisko\",\"means\":\"to po ukraińsku прі́звисько; прі́звище znaczy „nazwisko”\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l04-words/krayina",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"kraina\",\"means\":\"to obszar. Ukraińskie краї́на znaczy „kraj”\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l04-words/mova",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"mowa\",\"means\":\"to sposób mówienia. Ukraińskie мо́ва znaczy „język”\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l04-words/student",
+			"seen": "{\"contrast\":\"Po polsku jest czasownik: jestem studentem. Po ukraińsku się go pomija.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l05-words/kepsko",
+			"seen": "{\"contrast\":\"Blisko polskiego kiepsko.\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "pl-pl/past/he.chytaty",
@@ -5518,6 +7081,42 @@
 			"comment": "sjp.pwn.pl: komnata = \"pokój mieszkalny lub sala reprezentacyjna w dawnych rezydencjach, pałacach i zamkach\" (no usage label). The wording is consistent with it; it names the palace/castle sense and omits \"dawnych\" (historical)."
 		},
 		{
+			"key": "pl-uk/l04-phrases/ty.acc",
+			"seen": "{\"contrast\":\"Польською jak masz na imię або jak się nazywasz. Українською зва́ти зі знахідним.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l04-words/misto",
+			"seen": "{\"contrast\":\"Близьке до польського miasto.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l04-words/prizvyshche",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"przezwisko\",\"means\":\"польською це прі́звисько, а не прі́звище\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l04-words/krayina",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"kraina\",\"means\":\"польською це край, місцевість. Українське краї́на означає державу\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l04-words/mova",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"mowa\",\"means\":\"польською це мовлення. Українське мо́ва це вся система: українська, польська\"}}",
+			"verdict": "ok",
+			"comment": "Ok but still a little clumsy: \"це вся система: українська, польська\"; a dash after мо́ва would help."
+		},
+		{
+			"key": "pl-uk/l04-words/student",
+			"seen": "{\"contrast\":\"Польською тут є дієслово: jestem studentem. Українською його опускають.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l05-words/kepsko",
+			"seen": "{\"contrast\":\"Близьке до польського kiepsko.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-uk/past/he.chytaty",
 			"seen": "{\"contrast\":\"Польська додає особове закінчення: czytałem, czytałeś. Українською я чита́в і ти чита́в, без особового закінчення.\"}",
 			"verdict": "ok"
@@ -5591,6 +7190,16 @@
 		{
 			"key": "ru/lesson/g05",
 			"seen": "\"Прошедшее и будущее время\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l04",
+			"seen": "\"Урок 4: Знакомство\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l05",
+			"seen": "\"Урок 5: Приветствия и обращения\"",
 			"verdict": "ok"
 		},
 		{
@@ -5708,6 +7317,33 @@
 			"key": "ru/concept/future-two",
 			"seen": "{\"title\":\"Две формы будущего\",\"body\":\"У несовершенного вида две формы будущего с одним значением: бу́ду чита́ти и чита́тиму. Вторая прибавляет к инфинитиву -му, -меш, -ме, -мемо, -мете, -муть.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
 			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/name-formula",
+			"seen": "{\"title\":\"Как спросить имя\",\"body\":\"По-украински спрашивают, как человека называть, со зва́ти или звуть и лицом в винительном падеже: Як тебе́ зва́ти? Мене́ зва́ти Окса́на или Мене́ звуть Окса́на. Можно также сказать ім'я́ с притяжательным местоимением: Як твоє́ ім'я́? Моє́ ім'я́ — Окса́на.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/ty-vy",
+			"seen": "{\"title\":\"ти и ви\",\"body\":\"ви это и вежливая форма, и множественное число. Его употребляют с незнакомыми взрослыми и на работе, пока вам не предложат перейти́ на ти. ти для друзей, семьи и детей.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok",
+			"comment": "Ok text; eMova source not readable (JS app)."
+		},
+		{
+			"key": "ru/concept/no-to-be",
+			"seen": "{\"title\":\"Без «быть» в настоящем\",\"body\":\"В настоящем времени глагол «быть» обычно опускается: Я студе́нт. Він з Украї́ни.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/from-in",
+			"seen": "{\"title\":\"Откуда и где\",\"body\":\"з требует родительного, когда говорят, откуда кто-то: з Украї́ни. в или у требует местного, когда говорят, где кто-то: в Украї́ні, у Німе́ччині. в и у чередуются для удобства произношения, как и з и із.\",\"sources\":[{\"title\":\"Український правопис (2019)\",\"url\":\"https://2019.pravopys.net/\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/patronymic",
+			"seen": "{\"title\":\"Имя и отчество\",\"body\":\"Уважительное обращение состоит из имени и отчества, оба в звательном падеже. Женское -івна или -ївна становится -івно или -ївно, а мужское -ович или -йович становится -овичу или -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok",
+			"comment": "Ok text; eMova source not readable (JS app)."
 		},
 		{
 			"key": "ru/alphabet",
@@ -5954,6 +7590,47 @@
 			"seen": "{\"title\":\"Таблица согласных\",\"summary\":\"Твёрдые согласные по способу и месту образования, в виде таблицы МФА. В ячейке звук; найдите его букву или буквы.\",\"headers\":{\"plosive-vl\":\"Взрывной, глухой\",\"plosive-vd\":\"Взрывной, звонкий\",\"nasal\":\"Носовой\",\"fricative-vl\":\"Щелевой, глухой\",\"fricative-vd\":\"Щелевой, звонкий\",\"affricate-vl\":\"Аффриката, глухая\",\"affricate-vd\":\"Аффриката, звонкая\",\"trill\":\"Дрожащий\",\"approximant\":\"Аппроксимант\",\"lateral\":\"Боковой\",\"labial\":\"Губ­ной\",\"post\":\"Пост­аль­ве­о­ляр­ный\",\"palatal\":\"Нёб­ный\",\"velar\":\"Зад­не­языч­ный\",\"glottal\":\"Гор­тан­ный\",\"denti-alveolar\":\"Зуб­ной/​аль­ве­о­ляр­ный\"}}",
 			"verdict": "ok",
 			"comment": "'Постальвеолярный' matches ru.wikipedia (Согласный звук). Soft hyphens checked: all fall on syllable or morpheme boundaries."
+		},
+		{
+			"key": "ru/countries-sentences",
+			"seen": "{\"title\":\"Страны в предложениях\",\"summary\":\"Фразы этого урока. Выберите или введите то, что подходит к пропуску. Слово в скобках нужно изменить.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/countries-sentences/ukraine.from",
+			"seen": "{\"sentenceGloss\":\"Я из Украины.\",\"note\":\"Родительный, после з: откуда кто-то.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/countries-sentences/ukraine.in",
+			"seen": "{\"sentenceGloss\":\"Я живу в Украине.\",\"note\":\"Местный, после в или у: где кто-то находится.\"}",
+			"verdict": "ok",
+			"comment": "Ok; 'в Украине' accepted modern usage (traditional Russian norm 'на Украине'; own knowledge)."
+		},
+		{
+			"key": "ru/countries-sentences/germany.from",
+			"seen": "{\"sentenceGloss\":\"Он из Германии.\",\"note\":\"Родительный, после з: откуда кто-то.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/countries-sentences/germany.in",
+			"seen": "{\"sentenceGloss\":\"Она живёт в Германии.\",\"note\":\"Местный, после в или у: где кто-то находится.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/countries-sentences/poland.from",
+			"seen": "{\"sentenceGloss\":\"Мы из Польши.\",\"note\":\"Родительный, после з: откуда кто-то.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/countries-sentences/italy.in",
+			"seen": "{\"sentenceGloss\":\"Мы живём в Италии.\",\"note\":\"Местный, после в или у: где кто-то находится.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/countries",
+			"seen": "{\"title\":\"Страны: откуда и где\",\"summary\":\"Откуда кто-то: родительный падеж. Где кто-то: местный. Некоторые формы занимают обе клетки.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"откуда: з …\",\"in\":\"где: в / у …\"}}",
+			"verdict": "ok"
 		},
 		{
 			"key": "ru/family",
@@ -6408,6 +8085,401 @@
 		{
 			"key": "ru/kimnata",
 			"seen": "{\"title\":\"Падежи: кімната (комната)\",\"summary\":\"Одно регулярное существительное во всех 7 падежах, в единственном и множественном числе. Некоторые формы стоят в нескольких ячейках.\",\"headers\":{\"nom\":\"Именительный\",\"gen\":\"Родительный\",\"dat\":\"Дательный\",\"acc\":\"Винительный\",\"ins\":\"Творительный\",\"loc\":\"Местный\",\"voc\":\"Звательный\",\"sg\":\"Единственное\",\"pl\":\"Множественное\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases",
+			"seen": "{\"title\":\"Фразы\",\"summary\":\"Фразы этого урока. Выберите или введите то, что подходит к пропуску. Слово в скобках нужно изменить.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/ty.acc",
+			"seen": "{\"sentenceGloss\":\"Как тебя зовут?\",\"note\":\"Винительный: зва́ти требует винительного падежа лица.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/vy.acc",
+			"seen": "{\"sentenceGloss\":\"Добрый день! Как вас зовут?\",\"note\":\"Винительный: зва́ти требует винительного падежа лица.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/he.acc",
+			"seen": "{\"sentenceGloss\":\"Как его зовут?\",\"note\":\"Винительный: зва́ти требует винительного падежа лица.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/she.acc",
+			"seen": "{\"sentenceGloss\":\"Как её зовут?\",\"note\":\"Винительный: зва́ти требует винительного падежа лица.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/zvaty",
+			"seen": "{\"sentenceGloss\":\"Меня зовут Оксана.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/tvoe",
+			"seen": "{\"sentenceGloss\":\"Как твоё имя?\",\"note\":\"Средний род, в согласии с ім'я́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/vashe",
+			"seen": "{\"sentenceGloss\":\"Как ваше имя?\",\"note\":\"Средний род, в согласии с ім'я́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/imya",
+			"seen": "{\"sentenceGloss\":\"Моё имя — Вера.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/pryyemno",
+			"seen": "{\"sentenceGloss\":\"Очень приятно!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/zvidky",
+			"seen": "{\"sentenceGloss\":\"Я из Украины. А ты откуда?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/z",
+			"seen": "{\"sentenceGloss\":\"Я из Украины.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/zhyvu",
+			"seen": "{\"sentenceGloss\":\"Я живу во Львове.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/zhyvete",
+			"seen": "{\"sentenceGloss\":\"Где вы живёте?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/rozmovlyayesh",
+			"seen": "{\"sentenceGloss\":\"Ты хорошо говоришь по-украински.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/vchu",
+			"seen": "{\"sentenceGloss\":\"Я учу украинский язык.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/toboyu",
+			"seen": "{\"sentenceGloss\":\"Я хочу с тобой познакомиться.\",\"note\":\"Творительный, после з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-phrases/vamy",
+			"seen": "{\"sentenceGloss\":\"Я хочу с вами познакомиться.\",\"note\":\"Творительный, после з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words",
+			"seen": "{\"title\":\"Слова\",\"summary\":\"Слова этого урока. На плитке значение; найдите слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/imya",
+			"seen": "{\"clue\":\"имя\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/prizvyshche",
+			"seen": "{\"clue\":\"фамилия\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/znayomytysya",
+			"seen": "{\"clue\":\"знакомиться\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/zvidky",
+			"seen": "{\"clue\":\"откуда\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/zhyty",
+			"seen": "{\"clue\":\"жить\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/rozmovlyaty",
+			"seen": "{\"clue\":\"разговаривать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/vchyty",
+			"seen": "{\"clue\":\"учить\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/mova",
+			"seen": "{\"clue\":\"язык\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/krayina",
+			"seen": "{\"clue\":\"страна\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/misto",
+			"seen": "{\"clue\":\"город\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/student",
+			"seen": "{\"clue\":\"студент\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/studentka",
+			"seen": "{\"clue\":\"студентка\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/ukrayinets",
+			"seen": "{\"clue\":\"украинец\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/ukrayinka",
+			"seen": "{\"clue\":\"украинка\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/ukrayinska",
+			"seen": "{\"clue\":\"украинский (язык)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/anhliyska",
+			"seen": "{\"clue\":\"английский (язык)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/vvichlyvyi",
+			"seen": "{\"clue\":\"вежливый\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/zalyubky",
+			"seen": "{\"clue\":\"с удовольствием\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/odnolitok",
+			"seen": "{\"clue\":\"ровесник\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/spivrozmovnyk",
+			"seen": "{\"clue\":\"собеседник\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/zaimennyk",
+			"seen": "{\"clue\":\"местоимение\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l04-words/pryyemno",
+			"seen": "{\"clue\":\"приятно\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-names",
+			"seen": "{\"title\":\"Обращение по имени\",\"summary\":\"На плитке имя в именительном падеже. Найдите форму, которой обращаются к этому человеку. Отчество тоже меняется.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases",
+			"seen": "{\"title\":\"Фразы\",\"summary\":\"Фразы этого урока. Выберите или введите то, что подходит к пропуску. Слово в скобках нужно изменить.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/spravy",
+			"seen": "{\"sentenceGloss\":\"Как дела? — Хорошо, спасибо.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/laska",
+			"seen": "{\"sentenceGloss\":\"Спасибо! — Пожалуйста.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/pane",
+			"seen": "{\"sentenceGloss\":\"Добрый день, пан Андрей!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/pani",
+			"seen": "{\"sentenceGloss\":\"Доброе утро, пани Оксана!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/ranku",
+			"seen": "{\"sentenceGloss\":\"Доброе утро, пан Андрей!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/tebe",
+			"seen": "{\"sentenceGloss\":\"Хорошо, спасибо. А у тебя?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/vas",
+			"seen": "{\"sentenceGloss\":\"Хорошо, спасибо. А у вас?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/treba",
+			"seen": "{\"sentenceGloss\":\"Мне уже пора идти.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/zustrichi",
+			"seen": "{\"sentenceGloss\":\"До встречи завтра!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/vybachte",
+			"seen": "{\"sentenceGloss\":\"Извините, где тут кофе?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/shkoda",
+			"seen": "{\"sentenceGloss\":\"Мне уже пора идти. — Как жаль!\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/rada",
+			"seen": "{\"sentenceGloss\":\"Олена говорит: я рада тебя видеть.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-phrases/radyi",
+			"seen": "{\"sentenceGloss\":\"Андрей говорит: я рад тебя видеть.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words",
+			"seen": "{\"title\":\"Слова\",\"summary\":\"Слова этого урока. На плитке значение; найдите слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/pryvit",
+			"seen": "{\"clue\":\"привет\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/dobryi-den",
+			"seen": "{\"clue\":\"добрый день\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/dobryi-ranok",
+			"seen": "{\"clue\":\"доброе утро\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/dobryi-vechir",
+			"seen": "{\"clue\":\"добрый вечер\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/vitayu",
+			"seen": "{\"clue\":\"приветствую\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/do-pobachennya",
+			"seen": "{\"clue\":\"до свидания\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/do-zustrichi",
+			"seen": "{\"clue\":\"до встречи\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/buvay",
+			"seen": "{\"clue\":\"пока\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/proshchavay",
+			"seen": "{\"clue\":\"прощай\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/dyakuyu",
+			"seen": "{\"clue\":\"спасибо\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/bud-laska",
+			"seen": "{\"clue\":\"пожалуйста\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/vybachte",
+			"seen": "{\"clue\":\"извините\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/pereproshuyu",
+			"seen": "{\"clue\":\"прошу прощения\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/shkoda",
+			"seen": "{\"clue\":\"жаль\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/chudovo",
+			"seen": "{\"clue\":\"чудесно\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/dobre",
+			"seen": "{\"clue\":\"хорошо\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/normalno",
+			"seen": "{\"clue\":\"нормально\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/nepohano",
+			"seen": "{\"clue\":\"неплохо\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"так себе\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/pohano",
+			"seen": "{\"clue\":\"плохо\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/kepsko",
+			"seen": "{\"clue\":\"скверно\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l05-words/kolehy",
+			"seen": "{\"clue\":\"коллеги\"}",
 			"verdict": "ok"
 		},
 		{
@@ -7042,6 +9114,31 @@
 			"comment": "Standard grammar says Russian has no vocative; fossils (Боже, Господи) and colloquial truncations (мам, Вань) exist. Acceptable."
 		},
 		{
+			"key": "ru-en/l04-phrases/ty.acc",
+			"seen": "{\"contrast\":\"Russian usually has a finite verb here, зовут. Ukrainian has звуть, and the infinitive зва́ти as well.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l04-words/misto",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"место\",\"means\":\"a place: Ukrainian мі́сце\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l04-words/prizvyshche",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"прозвище\",\"means\":\"a nickname: Ukrainian прі́звисько\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l05-words/shkoda",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"шкода\",\"means\":\"a prank. Ukrainian шкода́ is a pity\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l05-words/pohano",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"погано\",\"means\":\"a stronger word: foul, nasty. Ukrainian пога́но is plain badly\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-en/past/he.chytaty",
 			"seen": "{\"contrast\":\"Russian ends in -л here: чита́л. Ukrainian ends in -в.\"}",
 			"verdict": "ok"
@@ -7206,6 +9303,31 @@
 		{
 			"key": "ru-ru/kimnata/voc.sg",
 			"seen": "{\"contrast\":\"В русском звательного падежа нет: обращаясь, используют именительный. В украинском он живой.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l04-phrases/ty.acc",
+			"seen": "{\"contrast\":\"По-русски здесь обычно спрягаемая форма, зовут. По-украински есть звуть и также инфинитив зва́ти.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l04-words/misto",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"место\",\"means\":\"по-украински мі́сце; мі́сто значит «город»\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l04-words/prizvyshche",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"прозвище\",\"means\":\"по-украински прі́звисько; прі́звище значит «фамилия»\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l05-words/shkoda",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"шкода\",\"means\":\"по-русски проделка. Украинское шкода́ значит «жаль»\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l05-words/pohano",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"погано\",\"means\":\"по-русски слово грубее: мерзко, скверно. Украинское пога́но значит просто «плохо»\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -7376,6 +9498,31 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-uk/l04-phrases/ty.acc",
+			"seen": "{\"contrast\":\"Російською тут зазвичай відмінювана форма, зовут. Українською є звуть і також інфінітив зва́ти.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l04-words/misto",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"место\",\"means\":\"російською це мі́сце, а не мі́сто\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l04-words/prizvyshche",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"прозвище\",\"means\":\"російською це прі́звисько, а не прі́звище\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l05-words/shkoda",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"шкода\",\"means\":\"російською це витівка. Українське шкода́ означає жаль\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l05-words/pohano",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"погано\",\"means\":\"російською це грубіше слово: гидко. Українське пога́но означає просто недобре\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-uk/past/he.chytaty",
 			"seen": "{\"contrast\":\"Російською тут -л: чита́л. В українській -в.\"}",
 			"verdict": "ok"
@@ -7480,6 +9627,16 @@
 		{
 			"key": "uk/lesson/g05",
 			"seen": "\"Минулий і майбутній час\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l04",
+			"seen": "\"Урок 4: Знайомство\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l05",
+			"seen": "\"Урок 5: Привітання і звертання\"",
 			"verdict": "ok"
 		},
 		{
@@ -7598,6 +9755,33 @@
 			"key": "uk/concept/future-two",
 			"seen": "{\"title\":\"Дві форми майбутнього\",\"body\":\"Дієслова недоконаного виду мають дві форми майбутнього з одним значенням: бу́ду чита́ти і чита́тиму. Друга додає до інфінітива -му, -меш, -ме, -мемо, -мете, -муть.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"читати (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/читати\"}]}",
 			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/name-formula",
+			"seen": "{\"title\":\"Як запитати ім'я\",\"body\":\"Українською запитують, як людину називати, із зва́ти або звуть та особою в знахідному відмінку: Як тебе́ зва́ти? Мене́ зва́ти Окса́на або Мене́ звуть Окса́на. Можна також сказати ім'я́ з присвійним займенником: Як твоє́ ім'я́? Моє́ ім'я́ — Окса́на.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/ty-vy",
+			"seen": "{\"title\":\"ти і ви\",\"body\":\"ви це і ввічлива форма, і множина. Її вживають із незнайомими дорослими та на роботі, доки вам не запропонують перейти́ на ти. ти для друзів, родини й дітей.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok",
+			"comment": "Ok text; eMova source not readable (JS app)."
+		},
+		{
+			"key": "uk/concept/no-to-be",
+			"seen": "{\"title\":\"Без «бути» в теперішньому часі\",\"body\":\"У теперішньому часі дієслово «бути» зазвичай опускають: Я студе́нт. Він з Украї́ни.\",\"sources\":[{\"title\":\"Ukrainian grammar (Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Ukrainian_grammar\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/from-in",
+			"seen": "{\"title\":\"Звідки і де\",\"body\":\"з вимагає родового, коли йдеться про те, звідки хтось: з Украї́ни. в або у вимагає місцевого, коли йдеться про те, де хтось: в Украї́ні, у Німе́ччині. в і у чергуються для зручності вимови, як і з та із.\",\"sources\":[{\"title\":\"Український правопис (2019)\",\"url\":\"https://2019.pravopys.net/\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/patronymic",
+			"seen": "{\"title\":\"Ім'я і по батькові\",\"body\":\"Шанобливе звертання складається з імені та імені по батькові, обидва в кличному відмінку. Жіноче -івна або -ївна стає -івно або -ївно, а чоловіче -ович або -йович стає -овичу або -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
+			"verdict": "ok",
+			"comment": "Ok text; eMova source not readable (JS app)."
 		},
 		{
 			"key": "uk/alphabet",
@@ -7844,6 +10028,46 @@
 			"seen": "{\"title\":\"Таблиця приголосних\",\"summary\":\"Тверді приголосні за способом і місцем творення, у вигляді таблиці МФА. У клітинці звук; знайдіть його літеру чи літери.\",\"headers\":{\"plosive-vl\":\"Проривний, глухий\",\"plosive-vd\":\"Проривний, дзвінкий\",\"nasal\":\"Носовий\",\"fricative-vl\":\"Щілинний, глухий\",\"fricative-vd\":\"Щілинний, дзвінкий\",\"affricate-vl\":\"Африката, глуха\",\"affricate-vd\":\"Африката, дзвінка\",\"trill\":\"Дрижачий\",\"approximant\":\"Апроксимант\",\"lateral\":\"Боковий\",\"labial\":\"Губ­ний\",\"post\":\"За­ясен­ний\",\"palatal\":\"Під­не­бін­ний\",\"velar\":\"Зад­ньо­язи­ко­вий\",\"glottal\":\"Гор­тан­ний\",\"denti-alveolar\":\"Зуб­ний/​ясен­ний\"}}",
 			"verdict": "ok",
 			"comment": "Soft hyphens checked: Губ-ний, За-ясен-ний, Під-не-бін-ний, Зад-ньо-язи-ко-вий, Гор-тан-ний, Зуб-ний/ясен-ний, all on syllable boundaries."
+		},
+		{
+			"key": "uk/countries-sentences",
+			"seen": "{\"title\":\"Країни в реченнях\",\"summary\":\"Фрази цього уроку. Виберіть або введіть те, що підходить до пропуску. Слово в дужках треба змінити.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/countries-sentences/ukraine.from",
+			"seen": "{\"note\":\"Родовий, після з: звідки хтось.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/countries-sentences/ukraine.in",
+			"seen": "{\"note\":\"Місцевий, після в або у: де хтось є.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/countries-sentences/germany.from",
+			"seen": "{\"note\":\"Родовий, після з: звідки хтось.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/countries-sentences/germany.in",
+			"seen": "{\"note\":\"Місцевий, після в або у: де хтось є.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/countries-sentences/poland.from",
+			"seen": "{\"note\":\"Родовий, після з: звідки хтось.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/countries-sentences/italy.in",
+			"seen": "{\"note\":\"Місцевий, після в або у: де хтось є.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/countries",
+			"seen": "{\"title\":\"Країни: звідки і де\",\"summary\":\"Звідки хтось: родовий відмінок. Де хтось: місцевий. Деякі форми займають обидві клітинки.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"звідки: з …\",\"in\":\"де: в / у …\"}}",
+			"verdict": "ok"
 		},
 		{
 			"key": "uk/family",
@@ -8298,6 +10522,296 @@
 		{
 			"key": "uk/kimnata",
 			"seen": "{\"title\":\"Відмінки: кімната\",\"summary\":\"Один регулярний іменник у всіх 7 відмінках, в однині та множині. Деякі форми стоять у кількох клітинках.\",\"headers\":{\"nom\":\"Називний\",\"gen\":\"Родовий\",\"dat\":\"Давальний\",\"acc\":\"Знахідний\",\"ins\":\"Орудний\",\"loc\":\"Місцевий\",\"voc\":\"Кличний\",\"sg\":\"Однина\",\"pl\":\"Множина\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-phrases",
+			"seen": "{\"title\":\"Фрази\",\"summary\":\"Фрази цього уроку. Виберіть або введіть те, що підходить до пропуску. Слово в дужках треба змінити.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-phrases/ty.acc",
+			"seen": "{\"note\":\"Знахідний: зва́ти вимагає знахідного відмінка особи.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-phrases/vy.acc",
+			"seen": "{\"note\":\"Знахідний: зва́ти вимагає знахідного відмінка особи.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-phrases/he.acc",
+			"seen": "{\"note\":\"Знахідний: зва́ти вимагає знахідного відмінка особи.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-phrases/she.acc",
+			"seen": "{\"note\":\"Знахідний: зва́ти вимагає знахідного відмінка особи.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-phrases/tvoe",
+			"seen": "{\"note\":\"Середній рід, в узгодженні з ім'я́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-phrases/vashe",
+			"seen": "{\"note\":\"Середній рід, в узгодженні з ім'я́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-phrases/toboyu",
+			"seen": "{\"note\":\"Орудний, після з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-phrases/vamy",
+			"seen": "{\"note\":\"Орудний, після з.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words",
+			"seen": "{\"title\":\"Слова\",\"summary\":\"Слова цього уроку. На плитці значення; знайдіть слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/imya",
+			"seen": "{\"clue\":\"те, як людину називають\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/prizvyshche",
+			"seen": "{\"clue\":\"родова назва людини\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/znayomytysya",
+			"seen": "{\"clue\":\"вперше спілкуватися з новою людиною\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/zvidky",
+			"seen": "{\"clue\":\"з якого місця\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/zhyty",
+			"seen": "{\"clue\":\"мати десь свою домівку\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/rozmovlyaty",
+			"seen": "{\"clue\":\"вести бесіду\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/vchyty",
+			"seen": "{\"clue\":\"здобувати або передавати знання\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/mova",
+			"seen": "{\"clue\":\"засіб спілкування людей\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/krayina",
+			"seen": "{\"clue\":\"держава\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/misto",
+			"seen": "{\"clue\":\"великий населений пункт\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/student",
+			"seen": "{\"clue\":\"чоловік, що вчиться в університеті\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/studentka",
+			"seen": "{\"clue\":\"жінка, що вчиться в університеті\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/ukrayinets",
+			"seen": "{\"clue\":\"чоловік, що походить з України\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/ukrayinka",
+			"seen": "{\"clue\":\"жінка, що походить з України\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/ukrayinska",
+			"seen": "{\"clue\":\"мова, якою говорять у Києві\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/anhliyska",
+			"seen": "{\"clue\":\"мова, якою говорять у Лондоні\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/vvichlyvyi",
+			"seen": "{\"clue\":\"той, хто поводиться шанобливо з людьми\"}",
+			"verdict": "ok",
+			"comment": "Ok. Slightly close to шанобливий, which a learner could type; not accepted."
+		},
+		{
+			"key": "uk/l04-words/zalyubky",
+			"seen": "{\"clue\":\"коли хтось робить щось із радістю\"}",
+			"verdict": "ok",
+			"comment": "Ok. Optional: з радістю / із радістю is the clue itself and also right."
+		},
+		{
+			"key": "uk/l04-words/odnolitok",
+			"seen": "{\"clue\":\"людина того ж віку\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/spivrozmovnyk",
+			"seen": "{\"clue\":\"той, з ким ведуть бесіду\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/zaimennyk",
+			"seen": "{\"clue\":\"слово на зразок я, ти, він\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l04-words/pryyemno",
+			"seen": "{\"clue\":\"так, що викликає гарні почуття\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-names",
+			"seen": "{\"title\":\"Звертання на ім'я\",\"summary\":\"На плитці ім'я в називному відмінку. Знайдіть форму, якою звертаються до цієї людини. Ім'я по батькові теж змінюється.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-phrases",
+			"seen": "{\"title\":\"Фрази\",\"summary\":\"Фрази цього уроку. Виберіть або введіть те, що підходить до пропуску. Слово в дужках треба змінити.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words",
+			"seen": "{\"title\":\"Слова\",\"summary\":\"Слова цього уроку. На плитці значення; знайдіть слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/pryvit",
+			"seen": "{\"clue\":\"неформальне слово при зустрічі\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/dobryi-den",
+			"seen": "{\"clue\":\"слова при зустрічі вдень\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/dobryi-ranok",
+			"seen": "{\"clue\":\"слова при зустрічі вранці\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/dobryi-vechir",
+			"seen": "{\"clue\":\"слова при зустрічі ввечері\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/vitayu",
+			"seen": "{\"clue\":\"урочисте чи дружнє слово при зустрічі\"}",
+			"verdict": "ok",
+			"comment": "Ok. Residual overlap: \"дружнє\" is near the привіт tile in tile mode, but привіт is accepted in typing."
+		},
+		{
+			"key": "uk/l05-words/do-pobachennya",
+			"seen": "{\"clue\":\"нейтральні слова при прощанні\"}",
+			"verdict": "ok",
+			"comment": "Ok. \"нейтральні\" still loosely fits до зустрічі, whose own clue differs."
+		},
+		{
+			"key": "uk/l05-words/do-zustrichi",
+			"seen": "{\"clue\":\"слова, коли знов побачитеся\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/buvay",
+			"seen": "{\"clue\":\"прощання з другом\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/proshchavay",
+			"seen": "{\"clue\":\"прощання надовго\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/dyakuyu",
+			"seen": "{\"clue\":\"слово вдячності\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/bud-laska",
+			"seen": "{\"clue\":\"ввічлива відповідь на подяку\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/vybachte",
+			"seen": "{\"clue\":\"ввічливе прохання пробачити\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/pereproshuyu",
+			"seen": "{\"clue\":\"дуже ввічливе звертання перед проханням\"}",
+			"verdict": "ok",
+			"comment": "Ok now: вибачте and пробачте are accepted in typing. Residual: in tile mode the clue still sits near the вибачте tile, but the two clues differ in function."
+		},
+		{
+			"key": "uk/l05-words/shkoda",
+			"seen": "{\"clue\":\"слово жалю\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/chudovo",
+			"seen": "{\"clue\":\"дуже добре\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/dobre",
+			"seen": "{\"clue\":\"відповідь, коли все як слід\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/normalno",
+			"seen": "{\"clue\":\"цілком прийнятно\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/nepohano",
+			"seen": "{\"clue\":\"досить добре\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"не надто добре\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/pohano",
+			"seen": "{\"clue\":\"протилежне до «добре»\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/kepsko",
+			"seen": "{\"clue\":\"недобре, негарно\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/kolehy",
+			"seen": "{\"clue\":\"люди тієї ж професії чи місця роботи\"}",
 			"verdict": "ok"
 		},
 		{

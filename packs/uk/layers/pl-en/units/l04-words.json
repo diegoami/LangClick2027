@@ -1,0 +1,31 @@
+{
+	"cells": {
+		"misto": {
+			"contrast": "Close to Polish miasto."
+		},
+		"prizvyshche": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "przezwisko",
+				"means": "a nickname. Ukrainian прі́звище is a surname"
+			}
+		},
+		"krayina": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "kraina",
+				"means": "a land or region. Ukrainian краї́на is a country"
+			}
+		},
+		"mova": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "mowa",
+				"means": "speech. Ukrainian мо́ва is a language"
+			}
+		},
+		"student": {
+			"contrast": "Polish has the verb here: jestem studentem. Ukrainian leaves it out."
+		}
+	}
+}

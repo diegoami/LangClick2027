@@ -1,0 +1,72 @@
+{
+	"title": "Words",
+	"summary": "The words of this lesson. Each tile gives the meaning; find the word.",
+	"cells": {
+		"imya": {
+			"clue": "first name"
+		},
+		"prizvyshche": {
+			"clue": "surname"
+		},
+		"znayomytysya": {
+			"clue": "to get to know someone"
+		},
+		"zvidky": {
+			"clue": "where from"
+		},
+		"zhyty": {
+			"clue": "to live"
+		},
+		"rozmovlyaty": {
+			"clue": "to speak, to talk"
+		},
+		"vchyty": {
+			"clue": "to learn, to teach"
+		},
+		"mova": {
+			"clue": "language"
+		},
+		"krayina": {
+			"clue": "country"
+		},
+		"misto": {
+			"clue": "city, town"
+		},
+		"student": {
+			"clue": "student (man)"
+		},
+		"studentka": {
+			"clue": "student (woman)"
+		},
+		"ukrayinets": {
+			"clue": "Ukrainian (man)"
+		},
+		"ukrayinka": {
+			"clue": "Ukrainian (woman)"
+		},
+		"ukrayinska": {
+			"clue": "Ukrainian (the language)"
+		},
+		"anhliyska": {
+			"clue": "English (the language)"
+		},
+		"vvichlyvyi": {
+			"clue": "polite"
+		},
+		"zalyubky": {
+			"clue": "gladly"
+		},
+		"odnolitok": {
+			"clue": "person of the same age"
+		},
+		"spivrozmovnyk": {
+			"clue": "person you are talking to"
+		},
+		"zaimennyk": {
+			"clue": "pronoun"
+		},
+		"pryyemno": {
+			"clue": "it's nice, pleasantly"
+		}
+	}
+}

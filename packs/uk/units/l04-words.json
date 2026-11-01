@@ -1,0 +1,312 @@
+{
+	"id": "l04-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 22
+	},
+	"cells": [
+		{
+			"id": "imya",
+			"item": "word:imya",
+			"text": "ім'я",
+			"display": "ім'я́",
+			"ipa": "/iˈmja/",
+			"cognates": {
+				"ru": {
+					"form": "и́мя"
+				},
+				"pl": {
+					"form": "imię"
+				}
+			},
+			"concepts": ["name-formula"]
+		},
+		{
+			"id": "prizvyshche",
+			"item": "word:prizvyshche",
+			"text": "прізвище",
+			"display": "прі́звище",
+			"ipa": "/ˈprʲizʋɪʃt͡ʃɛ/"
+		},
+		{
+			"id": "znayomytysya",
+			"item": "word:znayomytysya",
+			"text": "знайомитися",
+			"display": "знайо́митися",
+			"ipa": "/znaˈjɔmɪtɪsʲa/",
+			"cognates": {
+				"ru": {
+					"form": "знако́миться"
+				}
+			},
+			"alsoAccepted": ["знайомитись", "познайомитися", "познайомитись"]
+		},
+		{
+			"id": "zvidky",
+			"item": "word:zvidky",
+			"text": "звідки",
+			"display": "зві́дки",
+			"ipa": "/ˈzʋidkɪ/",
+			"alsoAccepted": ["звідкіля"]
+		},
+		{
+			"id": "zhyty",
+			"item": "word:zhyty",
+			"text": "жити",
+			"display": "жи́ти",
+			"ipa": "/ˈʒɪtɪ/",
+			"cognates": {
+				"ru": {
+					"form": "жить"
+				},
+				"pl": {
+					"form": "żyć"
+				}
+			},
+			"alsoAccepted": ["мешкати", "проживати"]
+		},
+		{
+			"id": "rozmovlyaty",
+			"item": "word:rozmovlyaty",
+			"text": "розмовляти",
+			"display": "розмовля́ти",
+			"ipa": "/rɔzmɔʋˈlʲatɪ/",
+			"cognates": {
+				"pl": {
+					"form": "rozmawiać"
+				}
+			},
+			"alsoAccepted": ["говорити", "балакати"]
+		},
+		{
+			"id": "vchyty",
+			"item": "word:vchyty",
+			"text": "вчити",
+			"display": "вчи́ти",
+			"ipa": "/ˈʋt͡ʃɪtɪ/",
+			"alsoAccepted": [
+				"учити",
+				"вивчати",
+				"навчати",
+				"вчитися",
+				"вчитись",
+				"учитися",
+				"учитись",
+				"навчатися",
+				"навчатись"
+			],
+			"cognates": {
+				"ru": {
+					"form": "учи́ть"
+				},
+				"pl": {
+					"form": "uczyć"
+				}
+			}
+		},
+		{
+			"id": "mova",
+			"item": "word:mova",
+			"text": "мова",
+			"display": "мо́ва",
+			"ipa": "/ˈmɔʋa/",
+			"cognates": {
+				"pl": {
+					"form": "mowa"
+				}
+			}
+		},
+		{
+			"id": "krayina",
+			"item": "word:krayina",
+			"text": "країна",
+			"display": "краї́на",
+			"ipa": "/kraˈjina/",
+			"cognates": {
+				"pl": {
+					"form": "kraina"
+				}
+			}
+		},
+		{
+			"id": "misto",
+			"item": "word:misto",
+			"text": "місто",
+			"display": "мі́сто",
+			"ipa": "/ˈmistɔ/",
+			"cognates": {
+				"ru": {
+					"form": "ме́сто"
+				},
+				"pl": {
+					"form": "miasto"
+				}
+			}
+		},
+		{
+			"id": "student",
+			"item": "word:student",
+			"text": "студент",
+			"display": "студе́нт",
+			"ipa": "/stuˈdɛnt/",
+			"cognates": {
+				"ru": {
+					"form": "студе́нт"
+				},
+				"pl": {
+					"form": "student"
+				}
+			},
+			"concepts": ["no-to-be"]
+		},
+		{
+			"id": "studentka",
+			"item": "word:studentka",
+			"text": "студентка",
+			"display": "студе́нтка",
+			"ipa": "/stuˈdɛntka/",
+			"cognates": {
+				"ru": {
+					"form": "студе́нтка"
+				},
+				"pl": {
+					"form": "studentka"
+				}
+			},
+			"concepts": ["no-to-be"]
+		},
+		{
+			"id": "ukrayinets",
+			"item": "word:ukrayinets",
+			"text": "українець",
+			"display": "украї́нець",
+			"ipa": "/ukraˈjinɛt͡sʲ/",
+			"cognates": {
+				"ru": {
+					"form": "украи́нец"
+				},
+				"pl": {
+					"form": "Ukrainiec"
+				}
+			}
+		},
+		{
+			"id": "ukrayinka",
+			"item": "word:ukrayinka",
+			"text": "українка",
+			"display": "украї́нка",
+			"ipa": "/ukraˈjinka/",
+			"cognates": {
+				"ru": {
+					"form": "украи́нка"
+				},
+				"pl": {
+					"form": "Ukrainka"
+				}
+			}
+		},
+		{
+			"id": "ukrayinska",
+			"item": "word:ukrayinska",
+			"text": "українська",
+			"display": "украї́нська",
+			"ipa": "/ukraˈjinsʲka/",
+			"cognates": {
+				"ru": {
+					"form": "украи́нский"
+				},
+				"pl": {
+					"form": "ukraiński"
+				}
+			},
+			"alsoAccepted": ["українська мова"]
+		},
+		{
+			"id": "anhliyska",
+			"item": "word:anhliyska",
+			"text": "англійська",
+			"display": "англі́йська",
+			"ipa": "/anɦˈlʲijsʲka/",
+			"cognates": {
+				"ru": {
+					"form": "англи́йский"
+				},
+				"pl": {
+					"form": "angielski"
+				}
+			},
+			"alsoAccepted": ["англійська мова"]
+		},
+		{
+			"id": "vvichlyvyi",
+			"item": "word:vvichlyvyi",
+			"text": "ввічливий",
+			"display": "вві́чливий",
+			"ipa": "/ˈʋːit͡ʃlɪʋɪj/",
+			"alsoAccepted": ["чемний", "ґречний", "увічливий"],
+			"concepts": ["ty-vy"]
+		},
+		{
+			"id": "zalyubky",
+			"item": "word:zalyubky",
+			"text": "залюбки",
+			"display": "залюбки́",
+			"ipa": "/zalʲubˈkɪ/",
+			"alsoAccepted": ["охоче", "радо", "із задоволенням"]
+		},
+		{
+			"id": "odnolitok",
+			"item": "word:odnolitok",
+			"text": "одноліток",
+			"display": "одно́літок",
+			"ipa": "/ɔdˈnɔlʲitɔk/",
+			"alsoAccepted": ["ровесник"]
+		},
+		{
+			"id": "spivrozmovnyk",
+			"item": "word:spivrozmovnyk",
+			"text": "співрозмовник",
+			"display": "співрозмо́вник",
+			"ipa": "/spiʋrɔzˈmɔʋnɪk/",
+			"alsoAccepted": ["співбесідник"]
+		},
+		{
+			"id": "zaimennyk",
+			"item": "word:zaimennyk",
+			"text": "займенник",
+			"display": "займе́нник",
+			"ipa": "/zajˈmɛnːɪk/",
+			"cognates": {
+				"pl": {
+					"form": "zaimek"
+				}
+			}
+		},
+		{
+			"id": "pryyemno",
+			"item": "word:pryyemno",
+			"text": "приємно",
+			"display": "приє́мно",
+			"ipa": "/prɪˈjɛmnɔ/",
+			"cognates": {
+				"ru": {
+					"form": "прия́тно"
+				},
+				"pl": {
+					"form": "przyjemnie"
+				}
+			}
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example мова)",
+			"url": "https://en.wiktionary.org/wiki/мова"
+		}
+	]
+}

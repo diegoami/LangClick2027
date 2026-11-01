@@ -1,0 +1,72 @@
+{
+	"title": "Słowa",
+	"summary": "Słowa tej lekcji. Pole podaje znaczenie; znajdź słowo.",
+	"cells": {
+		"imya": {
+			"clue": "imię"
+		},
+		"prizvyshche": {
+			"clue": "nazwisko"
+		},
+		"znayomytysya": {
+			"clue": "zapoznawać się"
+		},
+		"zvidky": {
+			"clue": "skąd"
+		},
+		"zhyty": {
+			"clue": "żyć, mieszkać"
+		},
+		"rozmovlyaty": {
+			"clue": "rozmawiać"
+		},
+		"vchyty": {
+			"clue": "uczyć (się)"
+		},
+		"mova": {
+			"clue": "język"
+		},
+		"krayina": {
+			"clue": "kraj"
+		},
+		"misto": {
+			"clue": "miasto"
+		},
+		"student": {
+			"clue": "student"
+		},
+		"studentka": {
+			"clue": "studentka"
+		},
+		"ukrayinets": {
+			"clue": "Ukrainiec"
+		},
+		"ukrayinka": {
+			"clue": "Ukrainka"
+		},
+		"ukrayinska": {
+			"clue": "ukraiński (język)"
+		},
+		"anhliyska": {
+			"clue": "angielski (język)"
+		},
+		"vvichlyvyi": {
+			"clue": "uprzejmy"
+		},
+		"zalyubky": {
+			"clue": "chętnie"
+		},
+		"odnolitok": {
+			"clue": "rówieśnik"
+		},
+		"spivrozmovnyk": {
+			"clue": "rozmówca"
+		},
+		"zaimennyk": {
+			"clue": "zaimek"
+		},
+		"pryyemno": {
+			"clue": "przyjemnie"
+		}
+	}
+}

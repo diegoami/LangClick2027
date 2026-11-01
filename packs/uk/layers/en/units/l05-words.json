@@ -1,0 +1,72 @@
+{
+	"title": "Words",
+	"summary": "The words of this lesson. Each tile gives the meaning; find the word.",
+	"cells": {
+		"pryvit": {
+			"clue": "hi"
+		},
+		"dobryi-den": {
+			"clue": "good day"
+		},
+		"dobryi-ranok": {
+			"clue": "good morning"
+		},
+		"dobryi-vechir": {
+			"clue": "good evening"
+		},
+		"vitayu": {
+			"clue": "greetings"
+		},
+		"do-pobachennya": {
+			"clue": "goodbye"
+		},
+		"do-zustrichi": {
+			"clue": "see you"
+		},
+		"buvay": {
+			"clue": "bye (to a friend)"
+		},
+		"proshchavay": {
+			"clue": "farewell"
+		},
+		"dyakuyu": {
+			"clue": "thank you"
+		},
+		"bud-laska": {
+			"clue": "please, you're welcome"
+		},
+		"vybachte": {
+			"clue": "excuse me"
+		},
+		"pereproshuyu": {
+			"clue": "I beg your pardon"
+		},
+		"shkoda": {
+			"clue": "what a pity"
+		},
+		"chudovo": {
+			"clue": "it's wonderful"
+		},
+		"dobre": {
+			"clue": "fine, well"
+		},
+		"normalno": {
+			"clue": "okay"
+		},
+		"nepohano": {
+			"clue": "not bad"
+		},
+		"tak-sobi": {
+			"clue": "so-so"
+		},
+		"pohano": {
+			"clue": "badly"
+		},
+		"kepsko": {
+			"clue": "poorly"
+		},
+		"kolehy": {
+			"clue": "colleagues"
+		}
+	}
+}

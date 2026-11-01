@@ -1,0 +1,72 @@
+{
+	"title": "Słowa",
+	"summary": "Słowa tej lekcji. Pole podaje znaczenie; znajdź słowo.",
+	"cells": {
+		"pryvit": {
+			"clue": "cześć"
+		},
+		"dobryi-den": {
+			"clue": "dzień dobry"
+		},
+		"dobryi-ranok": {
+			"clue": "dzień dobry (rano)"
+		},
+		"dobryi-vechir": {
+			"clue": "dobry wieczór"
+		},
+		"vitayu": {
+			"clue": "witam"
+		},
+		"do-pobachennya": {
+			"clue": "do widzenia"
+		},
+		"do-zustrichi": {
+			"clue": "do zobaczenia"
+		},
+		"buvay": {
+			"clue": "pa, na razie"
+		},
+		"proshchavay": {
+			"clue": "żegnaj"
+		},
+		"dyakuyu": {
+			"clue": "dziękuję"
+		},
+		"bud-laska": {
+			"clue": "proszę"
+		},
+		"vybachte": {
+			"clue": "przepraszam"
+		},
+		"pereproshuyu": {
+			"clue": "przepraszam (uprzejmie)"
+		},
+		"shkoda": {
+			"clue": "szkoda"
+		},
+		"chudovo": {
+			"clue": "wspaniale"
+		},
+		"dobre": {
+			"clue": "dobrze"
+		},
+		"normalno": {
+			"clue": "normalnie"
+		},
+		"nepohano": {
+			"clue": "nieźle"
+		},
+		"tak-sobi": {
+			"clue": "tak sobie"
+		},
+		"pohano": {
+			"clue": "źle"
+		},
+		"kepsko": {
+			"clue": "kiepsko"
+		},
+		"kolehy": {
+			"clue": "koledzy"
+		}
+	}
+}

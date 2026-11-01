@@ -1,0 +1,147 @@
+{
+	"id": "l05-names",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "grid",
+		"size": 14
+	},
+	"cells": [
+		{
+			"id": "oksana",
+			"item": "vocative:oksana",
+			"text": "Оксано",
+			"display": "Окса́но",
+			"ipa": "/ɔkˈsanɔ/",
+			"clue": "Окса́на",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "vira",
+			"item": "vocative:vira",
+			"text": "Віро",
+			"display": "Ві́ро",
+			"ipa": "/ˈʋirɔ/",
+			"clue": "Ві́ра",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "mykola",
+			"item": "vocative:mykola",
+			"text": "Миколо",
+			"display": "Мико́ло",
+			"ipa": "/mɪˈkɔlɔ/",
+			"clue": "Мико́ла",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "petro",
+			"item": "vocative:petro",
+			"text": "Петре",
+			"display": "Пе́тре",
+			"ipa": "/ˈpɛtrɛ/",
+			"clue": "Петро́",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "taras",
+			"item": "vocative:taras",
+			"text": "Тарасе",
+			"display": "Тара́се",
+			"ipa": "/taˈrasɛ/",
+			"clue": "Тара́с",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "sofiya",
+			"item": "vocative:sofiya",
+			"text": "Софіє",
+			"display": "Софі́є",
+			"ipa": "/sɔˈfijɛ/",
+			"clue": "Софі́я",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "nataliya",
+			"item": "vocative:nataliya",
+			"text": "Наталіє",
+			"display": "Ната́ліє",
+			"ipa": "/naˈtalʲijɛ/",
+			"clue": "Ната́лія",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "yuriy",
+			"item": "vocative:yuriy",
+			"text": "Юрію",
+			"display": "Ю́рію",
+			"ipa": "/ˈjurʲiju/",
+			"clue": "Ю́рій",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "oleksiy",
+			"item": "vocative:oleksiy",
+			"text": "Олексію",
+			"display": "Олексі́ю",
+			"ipa": "/ɔlɛkˈsʲiju/",
+			"clue": "Олексі́й",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "halya",
+			"item": "vocative:halya",
+			"text": "Галю",
+			"display": "Га́лю",
+			"ipa": "/ˈɦalʲu/",
+			"clue": "Га́ля",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "illya",
+			"item": "vocative:illya",
+			"text": "Ілле",
+			"display": "І́лле",
+			"ipa": "/ˈilʲːɛ/",
+			"clue": "Ілля́",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "lesya",
+			"item": "vocative:lesya",
+			"text": "Лесю",
+			"display": "Ле́сю",
+			"ipa": "/ˈlɛsʲu/",
+			"clue": "Ле́ся",
+			"concepts": ["vocative"]
+		},
+		{
+			"id": "pavlivna",
+			"item": "vocative:pavlivna",
+			"text": "Павлівно",
+			"display": "Па́влівно",
+			"ipa": "/ˈpaʋlʲiʋnɔ/",
+			"clue": "Па́влівна",
+			"concepts": ["patronymic"]
+		},
+		{
+			"id": "petrovych",
+			"item": "vocative:petrovych",
+			"text": "Петровичу",
+			"display": "Петро́вичу",
+			"ipa": "/pɛˈtrɔʋɪt͡ʃu/",
+			"clue": "Петро́вич",
+			"concepts": ["patronymic"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Ukrainian grammar (Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		}
+	]
+}

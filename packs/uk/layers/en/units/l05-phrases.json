@@ -1,0 +1,45 @@
+{
+	"title": "Phrases",
+	"summary": "The phrases of this lesson. Choose or type what fits the gap. A word in brackets is the one to change.",
+	"cells": {
+		"spravy": {
+			"sentenceGloss": "How are you? — Fine, thank you."
+		},
+		"laska": {
+			"sentenceGloss": "Thank you! — You're welcome."
+		},
+		"pane": {
+			"sentenceGloss": "Good day, Mr Andriy!"
+		},
+		"pani": {
+			"sentenceGloss": "Good morning, Ms Oksana!"
+		},
+		"ranku": {
+			"sentenceGloss": "Good morning, Mr Andriy!"
+		},
+		"tebe": {
+			"sentenceGloss": "Fine, thank you. And you?"
+		},
+		"vas": {
+			"sentenceGloss": "Fine, thank you. And you?"
+		},
+		"treba": {
+			"sentenceGloss": "I have to go now."
+		},
+		"zustrichi": {
+			"sentenceGloss": "See you tomorrow!"
+		},
+		"vybachte": {
+			"sentenceGloss": "Excuse me, sir, where is the coffee?"
+		},
+		"shkoda": {
+			"sentenceGloss": "I have to go now. — What a pity!"
+		},
+		"rada": {
+			"sentenceGloss": "Olena says: I am glad to see you."
+		},
+		"radyi": {
+			"sentenceGloss": "Andriy says: I am glad to see you."
+		}
+	}
+}

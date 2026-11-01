@@ -1,0 +1,14 @@
+{
+	"title": "Countries: from and in",
+	"summary": "Where someone is from takes the genitive, and where someone is takes the locative. Some forms fill both cells.",
+	"headers": {
+		"ukraine": "Украї́на",
+		"poland": "По́льща",
+		"germany": "Німе́ччина",
+		"italy": "Іта́лія",
+		"spain": "Іспа́нія",
+		"france": "Фра́нція",
+		"from": "from: з …",
+		"in": "in: в / у …"
+	}
+}

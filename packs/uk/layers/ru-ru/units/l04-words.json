@@ -1,0 +1,18 @@
+{
+	"cells": {
+		"misto": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "место",
+				"means": "по-украински мі́сце; мі́сто значит «город»"
+			}
+		},
+		"prizvyshche": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "прозвище",
+				"means": "по-украински прі́звисько; прі́звище значит «фамилия»"
+			}
+		}
+	}
+}

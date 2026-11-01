@@ -2,6 +2,12 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
+## Unreleased
+
+For players:
+
+- Lessons 4 and 5 of Є-мова: getting to know someone, countries, greetings and addressing people by name, each with words, phrases and sentences, in the tray or typed. False friends such as прі́звище appear for your comparison.
+
 ## v0.3.0 — 2026-10-31 — Grammar you have to produce
 
 **Langclick gains a grammar section, and a way to show you can produce a form and not only recognise it: pronouns, the vocative, noun cases and three tenses, each as a table and in sentences, in the tray or typed.**

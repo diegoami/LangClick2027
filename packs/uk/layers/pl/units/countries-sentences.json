@@ -1,0 +1,30 @@
+{
+	"title": "Kraje w zdaniach",
+	"summary": "Zwroty tej lekcji. Wybierz lub wpisz to, co pasuje do luki. Słowo w nawiasie trzeba odmienić.",
+	"cells": {
+		"ukraine.from": {
+			"sentenceGloss": "Jestem z Ukrainy.",
+			"note": "Dopełniacz, po з: skąd ktoś pochodzi."
+		},
+		"ukraine.in": {
+			"sentenceGloss": "Mieszkam w Ukrainie.",
+			"note": "Miejscownik, po в lub у: gdzie ktoś jest."
+		},
+		"germany.from": {
+			"sentenceGloss": "On jest z Niemiec.",
+			"note": "Dopełniacz, po з: skąd ktoś pochodzi."
+		},
+		"germany.in": {
+			"sentenceGloss": "Ona mieszka w Niemczech.",
+			"note": "Miejscownik, po в lub у: gdzie ktoś jest."
+		},
+		"poland.from": {
+			"sentenceGloss": "Jesteśmy z Polski.",
+			"note": "Dopełniacz, po з: skąd ktoś pochodzi."
+		},
+		"italy.in": {
+			"sentenceGloss": "Mieszkamy we Włoszech.",
+			"note": "Miejscownik, po в lub у: gdzie ktoś jest."
+		}
+	}
+}

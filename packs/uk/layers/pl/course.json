@@ -35,6 +35,12 @@
 		"g05": {
 			"title": "Czas przeszły i przyszły"
 		},
+		"l04": {
+			"title": "Lekcja 4: Zapoznanie się"
+		},
+		"l05": {
+			"title": "Lekcja 5: Powitania i zwroty do ludzi"
+		},
 		"l09": {
 			"title": "Lekcja 9: Moja rodzina"
 		}
@@ -315,6 +321,64 @@
 				{
 					"title": "читати (English Wiktionary)",
 					"url": "https://en.wiktionary.org/wiki/читати"
+				}
+			]
+		},
+		"name-formula": {
+			"title": "Pytanie o imię",
+			"body": "Po ukraińsku pyta się, jak kogoś nazywać, za pomocą зва́ти lub звуть z osobą w bierniku: Як тебе́ зва́ти? Мене́ зва́ти Окса́на albo Мене́ звуть Окса́на. Można też użyć ім'я́ z zaimkiem dzierżawczym: Як твоє́ ім'я́? Моє́ ім'я́ — Окса́на.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"ty-vy": {
+			"title": "ти i ви",
+			"body": "ви to forma grzecznościowa i zarazem liczba mnoga. Używa się jej wobec nieznanych dorosłych i w pracy, dopóki ktoś nie zaproponuje przejścia na ти: перейти́ на ти. ти jest dla przyjaciół, rodziny i dzieci.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 4: Знайомство, або Як тебе звати",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+				}
+			]
+		},
+		"no-to-be": {
+			"title": "Bez „być” w czasie teraźniejszym",
+			"body": "W czasie teraźniejszym czasownik „być” zwykle się pomija: Я студе́нт. Він з Украї́ни.",
+			"sources": [
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+				}
+			]
+		},
+		"from-in": {
+			"title": "Skąd i gdzie",
+			"body": "з łączy się z dopełniaczem, gdy mowa o tym, skąd ktoś jest: з Украї́ни. в lub у łączy się z miejscownikiem, gdy mowa o tym, gdzie ktoś jest: в Украї́ні, у Німе́ччині. в i у wymieniają się dla łatwiejszej wymowy, podobnie з i із.",
+			"sources": [
+				{
+					"title": "Український правопис (2019)",
+					"url": "https://2019.pravopys.net/"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"patronymic": {
+			"title": "Imię i imię odojcowskie",
+			"body": "Pełne szacunku zwracanie się składa się z imienia i imienia odojcowskiego, oba w wołaczu. Żeńskie -івна lub -ївна przechodzi w -івно lub -ївно, a męskie -ович lub -йович w -овичу lub -йовичу.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 5: Привітання. Звертання. Етикетні формули",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
 				}
 			]
 		}
