@@ -2,18 +2,24 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
-## Unreleased
+## v0.3.0 — 2026-10-31 — Grammar you have to produce
+
+**Langclick gains a grammar section, and a way to show you can produce a form and not only recognise it: pronouns, the vocative, noun cases and three tenses, each as a table and in sentences, in the tray or typed.**
 
 For players:
 
 - Lessons are grouped under Sounds, Grammar and Themes.
-- A new kind of exercise: complete a sentence by choosing the form that fits its gap, starting with кімната.
-- The tray stays at ten slips however well you know a unit, since new material is what moves you forward.
-- Grammar gains the present, past and future tenses, each as a table and in sentences. From Russian, notes point out чита́є without -т and ро́блять with its л; from Polish, the past without person endings.
-- A new Type tab: produce each answer instead of choosing it, with an on-screen keyboard if yours can't type Ukrainian. What you can type is tracked apart from what you recognise, and Review asks each the way you learned it.
-- Grammar gains personal pronouns, including their forms after a preposition, the vocative, and the nouns брат and вікно, each as a table and in sentences. From Russian, тебе́ is marked as a false friend.
+- Grammar covers personal pronouns, including their forms after a preposition, the vocative, the nouns кімната, брат and вікно through all cases, and the present, past and future tenses.
+- A new kind of exercise: complete a sentence by choosing the form that fits its gap.
+- A new Type tab: produce each answer instead of choosing it, with an on-screen keyboard if yours can't type Ukrainian. Stress marks and capitals don't count, and forms that are equally right are accepted. What you can type is tracked apart from what you recognise, and Review asks each the way you learned it.
+- The tray stays at ten slips however well you know a unit, since new material is what moves you forward. A declension, a stress pair or a choice between two letters always shows every option.
+- Explanations differ by comparison. From Russian, тебе́ is marked as a false friend, and notes point out чита́є without -т, ро́блять with its л, and a vocative Russian has lost. From Polish, notes point out the past without person endings, and vocative endings that differ.
 
-Also: a cell's recorded checks now cover its `item` and `concepts`, and the check that keeps engine code language-neutral covers more languages and every non-Latin script.
+Also: a cell's recorded checks now cover its `item` and `concepts`; the check that keeps engine code language-neutral covers more languages and every non-Latin script; tables with many columns fit a phone; the pack format is at version 3.
+
+Not done, on purpose: speech. It needs a test of its own, and whether voice may leave the device is the owner's decision, so nothing here records or sends it (#21). Separate downloads, audio and guided lessons have their own milestones. eMova's themed lessons 4–27 are still not covered as a whole, though Grammar serves the forms they rely on.
+
+Not tried: a real phone or touch drag, only an emulated phone; any browser other than Chromium; typing in Review by hand, which is covered by a test. No native speaker has read the content. Two model checkers passed all of it against sources, most of it from Goroh's raw pages, but naturalness and the glosses rest on their judgement, and Правопис references to verbs and declension are to the 2015 edition, because the 2019 site has no text for those sections. Sources disagree in places, and the pack says so: бра́ті as a locative, вікну́ as a locative, and буде́мо in the 2015 Правопис against бу́демо in the dictionaries. A synonym the checkers didn't think of will be marked wrong when typed. The stress mark on є́ and і́ sits slightly to the side, probably because of the system font on Windows. The owner played the grammar lessons and typing locally, and the vocative is what led to typing.
 
 ## v0.2.0 — 2026-10-31 — Study first, then practise, compared with Russian or Polish
 
