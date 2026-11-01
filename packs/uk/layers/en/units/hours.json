@@ -1,0 +1,21 @@
+{
+	"title": "The clock",
+	"summary": "The hour is a feminine ordinal, as it agrees with годи́на. At an hour takes о and the locative, and half past names the hour ahead.",
+	"headers": {
+		"h1": "1",
+		"h2": "2",
+		"h3": "3",
+		"h4": "4",
+		"h5": "5",
+		"h6": "6",
+		"h7": "7",
+		"h8": "8",
+		"h9": "9",
+		"h10": "10",
+		"h11": "11",
+		"h12": "12",
+		"hour": "it's … o'clock",
+		"at": "at …: о, об",
+		"half": "half an hour before: пів на …"
+	}
+}

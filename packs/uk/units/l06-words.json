@@ -1,0 +1,260 @@
+{
+	"id": "l06-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 19
+	},
+	"cells": [
+		{
+			"id": "sekunda",
+			"item": "word:sekunda",
+			"text": "секунда",
+			"display": "секу́нда",
+			"ipa": "/sɛˈkunda/",
+			"cognates": {
+				"ru": {
+					"form": "секу́нда"
+				},
+				"pl": {
+					"form": "sekunda"
+				}
+			}
+		},
+		{
+			"id": "khvylyna",
+			"item": "word:khvylyna",
+			"text": "хвилина",
+			"display": "хвили́на",
+			"ipa": "/xʋɪˈlɪna/"
+		},
+		{
+			"id": "hodyna",
+			"item": "word:hodyna",
+			"text": "година",
+			"display": "годи́на",
+			"ipa": "/ɦɔˈdɪna/",
+			"cognates": {
+				"pl": {
+					"form": "godzina"
+				}
+			}
+		},
+		{
+			"id": "doba",
+			"item": "word:doba",
+			"text": "доба",
+			"display": "доба́",
+			"ipa": "/dɔˈba/",
+			"cognates": {
+				"pl": {
+					"form": "doba"
+				}
+			}
+		},
+		{
+			"id": "den",
+			"item": "word:den",
+			"text": "день",
+			"ipa": "/dɛnʲ/",
+			"cognates": {
+				"ru": {
+					"form": "день"
+				},
+				"pl": {
+					"form": "dzień"
+				}
+			}
+		},
+		{
+			"id": "tyzhden",
+			"item": "word:tyzhden",
+			"text": "тиждень",
+			"display": "ти́ждень",
+			"ipa": "/ˈtɪʒdɛnʲ/",
+			"cognates": {
+				"pl": {
+					"form": "tydzień"
+				}
+			}
+		},
+		{
+			"id": "misyats",
+			"item": "word:misyats",
+			"text": "місяць",
+			"display": "мі́сяць",
+			"ipa": "/ˈmisʲat͡sʲ/",
+			"cognates": {
+				"ru": {
+					"form": "ме́сяц"
+				},
+				"pl": {
+					"form": "miesiąc"
+				}
+			}
+		},
+		{
+			"id": "rik",
+			"item": "word:rik",
+			"text": "рік",
+			"ipa": "/rʲik/",
+			"cognates": {
+				"pl": {
+					"form": "rok"
+				}
+			}
+		},
+		{
+			"id": "chas",
+			"item": "word:chas",
+			"text": "час",
+			"ipa": "/t͡ʃas/",
+			"cognates": {
+				"pl": {
+					"form": "czas"
+				}
+			}
+		},
+		{
+			"id": "pora-roku",
+			"item": "word:pora-roku",
+			"text": "пора року",
+			"display": "пора́ ро́ку",
+			"ipa": "/pɔˈra ˈrɔku/",
+			"cognates": {
+				"pl": {
+					"form": "pora roku"
+				}
+			}
+		},
+		{
+			"id": "sohodni",
+			"item": "word:sohodni",
+			"text": "сьогодні",
+			"display": "сього́дні",
+			"ipa": "/sʲɔˈɦɔdʲnʲi/",
+			"cognates": {
+				"ru": {
+					"form": "сего́дня"
+				}
+			},
+			"alsoAccepted": ["нині"]
+		},
+		{
+			"id": "vchora",
+			"item": "word:vchora",
+			"text": "вчора",
+			"display": "вчо́ра",
+			"ipa": "/ˈʋt͡ʃɔra/",
+			"alsoAccepted": ["учора"],
+			"cognates": {
+				"ru": {
+					"form": "вчера́"
+				},
+				"pl": {
+					"form": "wczoraj"
+				}
+			}
+		},
+		{
+			"id": "zavtra",
+			"item": "word:zavtra",
+			"text": "завтра",
+			"display": "за́втра",
+			"ipa": "/ˈzaʋtra/",
+			"cognates": {
+				"ru": {
+					"form": "за́втра"
+				}
+			}
+		},
+		{
+			"id": "pislyazavtra",
+			"item": "word:pislyazavtra",
+			"text": "післязавтра",
+			"display": "післяза́втра",
+			"ipa": "/pisʲlʲaˈzaʋtra/",
+			"cognates": {
+				"ru": {
+					"form": "послеза́втра"
+				}
+			}
+		},
+		{
+			"id": "rivno",
+			"item": "word:rivno",
+			"text": "рівно",
+			"display": "рі́вно",
+			"ipa": "/ˈrʲiʋnɔ/",
+			"alsoAccepted": ["точно"],
+			"cognates": {
+				"ru": {
+					"form": "ро́вно"
+				},
+				"pl": {
+					"form": "równo"
+				}
+			}
+		},
+		{
+			"id": "skilky",
+			"item": "word:skilky",
+			"text": "скільки",
+			"display": "скі́льки",
+			"ipa": "/ˈskilʲkɪ/",
+			"cognates": {
+				"ru": {
+					"form": "ско́лько"
+				}
+			}
+		},
+		{
+			"id": "chekaty",
+			"item": "word:chekaty",
+			"text": "чекати",
+			"display": "чека́ти",
+			"ipa": "/t͡ʃɛˈkatɪ/",
+			"alsoAccepted": ["ждати"],
+			"cognates": {
+				"pl": {
+					"form": "czekać"
+				}
+			}
+		},
+		{
+			"id": "vidpochyvaty",
+			"item": "word:vidpochyvaty",
+			"text": "відпочивати",
+			"display": "відпочива́ти",
+			"ipa": "/ʋidpɔt͡ʃɪˈʋatɪ/",
+			"cognates": {
+				"pl": {
+					"form": "odpoczywać"
+				}
+			}
+		},
+		{
+			"id": "ulyublenyi",
+			"item": "word:ulyublenyi",
+			"text": "улюблений",
+			"display": "улю́блений",
+			"ipa": "/uˈlʲublɛnɪj/",
+			"alsoAccepted": ["любимий"],
+			"cognates": {
+				"pl": {
+					"form": "ulubiony"
+				}
+			}
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example година)",
+			"url": "https://en.wiktionary.org/wiki/година"
+		}
+	]
+}

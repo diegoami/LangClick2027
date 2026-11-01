@@ -1,0 +1,63 @@
+{
+	"title": "Słowa",
+	"summary": "Słowa tej lekcji. Pole podaje znaczenie; znajdź słowo.",
+	"cells": {
+		"sekunda": {
+			"clue": "sekunda"
+		},
+		"khvylyna": {
+			"clue": "minuta"
+		},
+		"hodyna": {
+			"clue": "godzina"
+		},
+		"doba": {
+			"clue": "doba"
+		},
+		"den": {
+			"clue": "dzień"
+		},
+		"tyzhden": {
+			"clue": "tydzień"
+		},
+		"misyats": {
+			"clue": "miesiąc"
+		},
+		"rik": {
+			"clue": "rok"
+		},
+		"chas": {
+			"clue": "czas"
+		},
+		"pora-roku": {
+			"clue": "pora roku"
+		},
+		"sohodni": {
+			"clue": "dzisiaj"
+		},
+		"vchora": {
+			"clue": "wczoraj"
+		},
+		"zavtra": {
+			"clue": "jutro"
+		},
+		"pislyazavtra": {
+			"clue": "pojutrze"
+		},
+		"rivno": {
+			"clue": "równo, punktualnie"
+		},
+		"skilky": {
+			"clue": "ile"
+		},
+		"chekaty": {
+			"clue": "czekać"
+		},
+		"vidpochyvaty": {
+			"clue": "odpoczywać"
+		},
+		"ulyublenyi": {
+			"clue": "ulubiony"
+		}
+	}
+}

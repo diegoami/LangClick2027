@@ -1,0 +1,21 @@
+{
+	"title": "Zegar",
+	"summary": "Godzinę podaje się liczebnikiem porządkowym rodzaju żeńskiego, w zgodzie z годи́на. „O której” to о z miejscownikiem, a pół godziny liczy się do następnej godziny.",
+	"headers": {
+		"h1": "1",
+		"h2": "2",
+		"h3": "3",
+		"h4": "4",
+		"h5": "5",
+		"h6": "6",
+		"h7": "7",
+		"h8": "8",
+		"h9": "9",
+		"h10": "10",
+		"h11": "11",
+		"h12": "12",
+		"hour": "jest …",
+		"at": "o …: о, об",
+		"half": "wpół do: пів на …"
+	}
+}

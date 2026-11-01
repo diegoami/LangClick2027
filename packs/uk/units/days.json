@@ -1,0 +1,122 @@
+{
+	"id": "days",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 7
+	},
+	"cells": [
+		{
+			"id": "ponedilok",
+			"item": "day:ponedilok",
+			"text": "понеділок",
+			"display": "понеді́лок",
+			"ipa": "/pɔnɛˈdʲilɔk/",
+			"cognates": {
+				"ru": {
+					"form": "понеде́льник"
+				},
+				"pl": {
+					"form": "poniedziałek"
+				}
+			}
+		},
+		{
+			"id": "vivtorok",
+			"item": "day:vivtorok",
+			"text": "вівторок",
+			"display": "вівто́рок",
+			"ipa": "/ʋiʋˈtɔrɔk/",
+			"cognates": {
+				"ru": {
+					"form": "вто́рник"
+				},
+				"pl": {
+					"form": "wtorek"
+				}
+			}
+		},
+		{
+			"id": "sereda",
+			"item": "day:sereda",
+			"text": "середа",
+			"display": "середа́",
+			"ipa": "/sɛrɛˈda/",
+			"cognates": {
+				"ru": {
+					"form": "среда́"
+				},
+				"pl": {
+					"form": "środa"
+				}
+			}
+		},
+		{
+			"id": "chetver",
+			"item": "day:chetver",
+			"text": "четвер",
+			"display": "четве́р",
+			"ipa": "/t͡ʃɛtˈʋɛr/",
+			"cognates": {
+				"ru": {
+					"form": "четве́рг"
+				},
+				"pl": {
+					"form": "czwartek"
+				}
+			}
+		},
+		{
+			"id": "pyatnytsya",
+			"item": "day:pyatnytsya",
+			"text": "п'ятниця",
+			"display": "п'я́тниця",
+			"ipa": "/ˈpjatnɪt͡sʲa/",
+			"cognates": {
+				"ru": {
+					"form": "пя́тница"
+				},
+				"pl": {
+					"form": "piątek"
+				}
+			}
+		},
+		{
+			"id": "subota",
+			"item": "day:subota",
+			"text": "субота",
+			"display": "субо́та",
+			"ipa": "/suˈbɔta/",
+			"cognates": {
+				"ru": {
+					"form": "суббо́та"
+				},
+				"pl": {
+					"form": "sobota"
+				}
+			}
+		},
+		{
+			"id": "nedilya",
+			"item": "day:nedilya",
+			"text": "неділя",
+			"display": "неді́ля",
+			"ipa": "/nɛˈdʲilʲa/",
+			"cognates": {
+				"pl": {
+					"form": "niedziela"
+				}
+			}
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example година)",
+			"url": "https://en.wiktionary.org/wiki/година"
+		}
+	]
+}

@@ -109,7 +109,7 @@
 				{
 					"kind": "video",
 					"title": "Є-мова, урок 4: Знайомство, або Як тебе звати",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@982bf157e9df447abfef1418fae0c800"
 				}
 			]
 		},
@@ -121,7 +121,7 @@
 				{
 					"kind": "video",
 					"title": "Є-мова, урок 4: Знайомство, або Як тебе звати",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@982bf157e9df447abfef1418fae0c800"
 				}
 			]
 		},
@@ -140,7 +140,7 @@
 				{
 					"kind": "video",
 					"title": "Є-мова, урок 14: Мій дім",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@bfb6bb26607f4d9cae7bbbed172a2a43"
 				}
 			]
 		},
@@ -176,7 +176,22 @@
 				{
 					"kind": "video",
 					"title": "Є-мова, урок 4: Знайомство, або Як тебе звати",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@982bf157e9df447abfef1418fae0c800"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 4: завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@ac02dcdfc5794d9eb4594d81fa668d78"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 4: тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@d1a43a5a425848868058aaa5f5f87897"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 4: додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@2c5b18737d99429b8756eaab575b021a"
 				}
 			]
 		},
@@ -188,7 +203,59 @@
 				{
 					"kind": "video",
 					"title": "Є-мова, урок 5: Привітання. Звертання. Етикетні формули",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@8d4b7f7f5f5442da9f32b50eb01e23da"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 5: завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@e28458c57f55451f8fcd2bb1cbd7fc35"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 5: тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@85ea1083bd1e4761b559f7cfbb8ee0b5"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 5: додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@f0e62c5eb7e04a25841b04315240d36a"
+				}
+			]
+		},
+		{
+			"id": "l06",
+			"section": "themes",
+			"units": [
+				"l06-words",
+				"days",
+				"months",
+				"seasons",
+				"hours",
+				"time-sentences",
+				"l06-numbers",
+				"time-count",
+				"l06-phrases"
+			],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 6: завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@c36ed2f40c5a41e2a0db19a20f1b9a42"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 6: тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@47cb4a3751f347cd86ff5da695dcbb29"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 6: додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@9601ed5a481548a98da5955740d3cfb3"
 				}
 			]
 		},
@@ -200,7 +267,22 @@
 				{
 					"kind": "video",
 					"title": "Є-мова, урок 9: Моя сім'я",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@4e1f51d7048743ee929a98e32df0d535"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 9: завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@99f5ff75268b4efe8510ddbe1a32d1e8"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 9: тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@2fb878f02cd4428d8bdafce30503db41"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 9: додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@87c7dfd9f0444a2eb8887255f7109af7"
 				}
 			]
 		}

@@ -1,0 +1,21 @@
+{
+	"cells": {
+		"m2.name": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "лютый",
+				"means": "fierce, and never a month. As a month Ukrainian лю́тий is February"
+			}
+		},
+		"m11.name": {
+			"falseFriend": {
+				"kind": "homograph",
+				"form": "листопад",
+				"means": "falling leaves, and in modern Russian not a month. Ukrainian листопа́д is November"
+			}
+		},
+		"m1.in": {
+			"contrast": "Russian в январе, with the Latin month names. The locative works the same way."
+		}
+	}
+}

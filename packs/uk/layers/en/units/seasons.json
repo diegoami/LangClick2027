@@ -1,0 +1,12 @@
+{
+	"title": "Seasons",
+	"summary": "The four seasons, and the word for when: in winter, in spring.",
+	"headers": {
+		"winter": "winter",
+		"spring": "spring",
+		"summer": "summer",
+		"autumn": "autumn",
+		"name": "the season",
+		"when": "in that season"
+	}
+}

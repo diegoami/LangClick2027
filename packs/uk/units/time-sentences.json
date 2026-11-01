@@ -1,0 +1,153 @@
+{
+	"id": "time-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 16
+	},
+	"cells": [
+		{
+			"id": "hodyna",
+			"item": "sentence:time:hodyna",
+			"text": "година",
+			"display": "годи́на",
+			"sentence": "Перепро́шую, котра́ ___?",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "kotra",
+			"item": "sentence:time:kotra",
+			"text": "котра",
+			"display": "котра́",
+			"sentence": "Скажі́ть, будь ла́ска, ___ годи́на? — Сьо́ма.",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "persha",
+			"item": "sentence:time:persha",
+			"text": "перша",
+			"display": "пе́рша",
+			"sentence": "За́раз ___ годи́на (1).",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "syoma",
+			"item": "sentence:time:syoma",
+			"text": "сьома",
+			"display": "сьо́ма",
+			"sentence": "За́раз ___ годи́на (7).",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "tretii",
+			"item": "sentence:time:tretii",
+			"text": "третій",
+			"display": "тре́тій",
+			"sentence": "Уро́к о ___ (3).",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "vosmii",
+			"item": "sentence:time:vosmii",
+			"text": "восьмій",
+			"display": "во́сьмій",
+			"sentence": "Я встаю́ о ___ (8).",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "ob",
+			"item": "sentence:time:ob",
+			"text": "об",
+			"sentence": "Уро́к ___ одина́дцятій.",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "odynadtsiatii",
+			"item": "sentence:time:odynadtsiatii",
+			"text": "одинадцятій",
+			"display": "одина́дцятій",
+			"sentence": "Конце́рт об ___ (11).",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "kotrii",
+			"item": "sentence:time:kotrii",
+			"text": "котрій",
+			"display": "котрі́й",
+			"sentence": "Скажі́ть, о ___ годи́ні почина́ється конце́рт? — О сьо́мій.",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "rivno",
+			"item": "sentence:time:rivno",
+			"text": "рівно",
+			"display": "рі́вно",
+			"sentence": "Конце́рт о чотирна́дцятій годи́ні ___.",
+			"alsoAccepted": ["точно"],
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "tretyu",
+			"item": "sentence:time:tretyu",
+			"text": "третю",
+			"display": "тре́тю",
+			"sentence": "За́раз пів на ___ (2:30).",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "pershu",
+			"item": "sentence:time:pershu",
+			"text": "першу",
+			"display": "пе́ршу",
+			"sentence": "За́раз пів на ___ (12:30).",
+			"concepts": ["clock-time"]
+		},
+		{
+			"id": "hodyn",
+			"item": "sentence:time:hodyn",
+			"text": "годин",
+			"display": "годи́н",
+			"sentence": "По́їзд ї́де трина́дцять ___ (годи́на).",
+			"concepts": ["count-time"]
+		},
+		{
+			"id": "khvylyn",
+			"item": "sentence:time:khvylyn",
+			"text": "хвилин",
+			"display": "хвили́н",
+			"sentence": "По́їзд прибу́де за п'ять ___ (хвили́на).",
+			"concepts": ["count-time"]
+		},
+		{
+			"id": "khvylyny",
+			"item": "sentence:time:khvylyny",
+			"text": "хвилини",
+			"display": "хвили́ни",
+			"sentence": "Чека́й дві ___ (хвили́на).",
+			"concepts": ["count-time"]
+		},
+		{
+			"id": "odynadtsiat",
+			"item": "sentence:time:odynadtsiat",
+			"text": "одинадцять",
+			"display": "одина́дцять",
+			"sentence": "По́їзд ї́де ___ годи́н (11).",
+			"concepts": ["teens-stress"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Є-мова, урок 6: Час і період. Місяці",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+		},
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "Український правопис (2019)",
+			"url": "https://2019.pravopys.net/"
+		}
+	]
+}

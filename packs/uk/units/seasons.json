@@ -1,0 +1,138 @@
+{
+	"id": "seasons",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["winter", "spring", "summer", "autumn"],
+		"columns": ["name", "when"]
+	},
+	"cells": [
+		{
+			"id": "winter.name",
+			"item": "season:winter:name",
+			"text": "зима",
+			"display": "зима́",
+			"ipa": "/zɪˈma/",
+			"cognates": {
+				"ru": {
+					"form": "зима́"
+				},
+				"pl": {
+					"form": "zima"
+				}
+			},
+			"concepts": ["season-when"],
+			"row": "winter",
+			"col": "name"
+		},
+		{
+			"id": "winter.when",
+			"item": "season:winter:when",
+			"text": "взимку",
+			"display": "взи́мку",
+			"ipa": "/ˈʋzɪmku/",
+			"alsoAccepted": ["узимку", "зимою"],
+			"concepts": ["season-when"],
+			"row": "winter",
+			"col": "when"
+		},
+		{
+			"id": "spring.name",
+			"item": "season:spring:name",
+			"text": "весна",
+			"display": "весна́",
+			"ipa": "/ʋɛsˈna/",
+			"cognates": {
+				"ru": {
+					"form": "весна́"
+				},
+				"pl": {
+					"form": "wiosna"
+				}
+			},
+			"concepts": ["season-when"],
+			"row": "spring",
+			"col": "name"
+		},
+		{
+			"id": "spring.when",
+			"item": "season:spring:when",
+			"text": "навесні",
+			"display": "навесні́",
+			"ipa": "/naʋɛsʲˈnʲi/",
+			"alsoAccepted": ["весною"],
+			"concepts": ["season-when"],
+			"row": "spring",
+			"col": "when"
+		},
+		{
+			"id": "summer.name",
+			"item": "season:summer:name",
+			"text": "літо",
+			"display": "лі́то",
+			"ipa": "/ˈlʲitɔ/",
+			"cognates": {
+				"ru": {
+					"form": "ле́то"
+				},
+				"pl": {
+					"form": "lato"
+				}
+			},
+			"concepts": ["season-when"],
+			"row": "summer",
+			"col": "name"
+		},
+		{
+			"id": "summer.when",
+			"item": "season:summer:when",
+			"text": "влітку",
+			"display": "влі́тку",
+			"ipa": "/ˈʋlʲitku/",
+			"alsoAccepted": ["улітку", "літом"],
+			"concepts": ["season-when"],
+			"row": "summer",
+			"col": "when"
+		},
+		{
+			"id": "autumn.name",
+			"item": "season:autumn:name",
+			"text": "осінь",
+			"display": "о́сінь",
+			"ipa": "/ˈɔsʲinʲ/",
+			"cognates": {
+				"ru": {
+					"form": "о́сень"
+				},
+				"pl": {
+					"form": "jesień"
+				}
+			},
+			"concepts": ["season-when"],
+			"row": "autumn",
+			"col": "name"
+		},
+		{
+			"id": "autumn.when",
+			"item": "season:autumn:when",
+			"text": "восени",
+			"display": "восени́",
+			"ipa": "/ʋɔsɛˈnɪ/",
+			"alsoAccepted": ["осінню"],
+			"concepts": ["season-when"],
+			"row": "autumn",
+			"col": "when"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example година)",
+			"url": "https://en.wiktionary.org/wiki/година"
+		}
+	]
+}

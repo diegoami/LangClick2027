@@ -1,0 +1,45 @@
+{
+	"title": "Liczby do zegara",
+	"summary": "Tyle, ile trzeba do minut i dłuższych okresów. Od 11 do 19 akcent pada na -на́дцять.",
+	"cells": {
+		"n11": {
+			"clue": "11"
+		},
+		"n12": {
+			"clue": "12"
+		},
+		"n13": {
+			"clue": "13"
+		},
+		"n14": {
+			"clue": "14"
+		},
+		"n15": {
+			"clue": "15"
+		},
+		"n16": {
+			"clue": "16"
+		},
+		"n17": {
+			"clue": "17"
+		},
+		"n18": {
+			"clue": "18"
+		},
+		"n19": {
+			"clue": "19"
+		},
+		"n20": {
+			"clue": "20"
+		},
+		"n30": {
+			"clue": "30"
+		},
+		"n40": {
+			"clue": "40"
+		},
+		"n50": {
+			"clue": "50"
+		}
+	}
+}

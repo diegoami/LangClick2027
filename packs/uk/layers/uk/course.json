@@ -43,6 +43,9 @@
 		},
 		"l09": {
 			"title": "Урок 9: Моя сім'я"
+		},
+		"l06": {
+			"title": "Урок 6: Час, дні й місяці"
 		}
 	},
 	"concepts": {
@@ -344,7 +347,7 @@
 			"sources": [
 				{
 					"title": "Є-мова, урок 4: Знайомство, або Як тебе звати",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@982bf157e9df447abfef1418fae0c800"
 				}
 			]
 		},
@@ -378,7 +381,89 @@
 			"sources": [
 				{
 					"title": "Є-мова, урок 5: Привітання. Звертання. Етикетні формули",
-					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/"
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@8d4b7f7f5f5442da9f32b50eb01e23da"
+				}
+			]
+		},
+		"clock-time": {
+			"title": "Котра година",
+			"body": "Годину називають порядковим числівником жіночого роду, бо він узгоджується зі словом годи́на, навіть коли його пропускають: Котра́ годи́на? — Тре́тя. На питання «о котрій» відповідають із о та місцевим відмінком: о тре́тій. Перед голосним о стає об: об одина́дцятій. Пів години рахують до наступної, із на та знахідним відмінком, тож 2:30 це пів на тре́тю.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Позначення часу: нюанси мовлення (Профспілкова преса)",
+					"url": "https://profpressa.com/articles/poznachennia-chasu-niuansi-movlennia/print"
+				},
+				{
+					"title": "об (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/об"
+				},
+				{
+					"title": "Telling the Time (Elon.io, Ukrainian grammar)",
+					"url": "https://elon.io/grammar/ukrainian/numbers/telling-time"
+				}
+			]
+		},
+		"count-time": {
+			"title": "Лічба часу",
+			"body": "Іменник після числа змінюється разом із числом. Один: називний відмінок однини, одна́ годи́на. Два, три й чотири: називний відмінок множини, часто з наголосом родового однини: дві годи́ни, дві доби́, два мі́сяці. Від п'яти: родовий відмінок множини, п'ять годи́н. Понад двадцять вирішує остання цифра, а числа від 11 до 14 ідуть як від п'яти: одина́дцять годи́н.",
+			"sources": [
+				{
+					"title": "Узгодження числівника й іменника (Профспілкова преса)",
+					"url": "https://profpressa.com/articles/uzgodzhennia-chislivnika-i-imennika-sekreti-pravopisu/print"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				},
+				{
+					"title": "дванадцять (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/дванадцять"
+				}
+			]
+		},
+		"teens-stress": {
+			"title": "Наголос від 11 до 19",
+			"body": "Від 11 до 19 наголос падає на -на́дцять: одина́дцять, чотирна́дцять, дев'ятна́дцять.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"month-in": {
+			"title": "У якому місяці",
+			"body": "Коли саме: у або в із місцевим відмінком. Майже всі назви місяців закінчуються на м'який приголосний і втрачають голосний перед ним: сі́чень, у сі́чні. лю́тий за формою прикметник, тому у лю́тому. листопа́д закінчується твердо: у листопа́ді. Назва місяця починається з приголосного, тому в стоїть після голосного, а у після приголосного або на початку речення. Перед в завжди у: у ве́ресні.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Український правопис (2019), § 23: у та в",
+					"url": "https://2019.pravopys.net/sections/23/"
+				}
+			]
+		},
+		"season-when": {
+			"title": "Коли саме",
+			"body": "На питання «коли» зазвичай відповідають одним прислівником, без прийменника: взи́мку, навесні́, влі́тку, восени́. Перший і третій мають також форму з у: узи́мку, улі́тку. Кажуть також зимо́ю, весно́ю, лі́том і о́сінню.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 6: Час і період. Місяці",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea"
+				},
+				{
+					"title": "Горох, Ukrainian dictionary",
+					"url": "https://goroh.pp.ua/"
 				}
 			]
 		}

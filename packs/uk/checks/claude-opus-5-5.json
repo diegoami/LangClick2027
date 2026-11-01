@@ -510,6 +510,41 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/days/ponedilok",
+			"seen": "{\"item\":\"day:ponedilok\",\"text\":\"понеділок\",\"display\":\"понеді́лок\",\"ipa\":\"/pɔnɛˈdʲilɔk/\",\"cognates\":{\"ru\":{\"form\":\"понеде́льник\"},\"pl\":{\"form\":\"poniedziałek\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days/vivtorok",
+			"seen": "{\"item\":\"day:vivtorok\",\"text\":\"вівторок\",\"display\":\"вівто́рок\",\"ipa\":\"/ʋiʋˈtɔrɔk/\",\"cognates\":{\"ru\":{\"form\":\"вто́рник\"},\"pl\":{\"form\":\"wtorek\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days/sereda",
+			"seen": "{\"item\":\"day:sereda\",\"text\":\"середа\",\"display\":\"середа́\",\"ipa\":\"/sɛrɛˈda/\",\"cognates\":{\"ru\":{\"form\":\"среда́\"},\"pl\":{\"form\":\"środa\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days/chetver",
+			"seen": "{\"item\":\"day:chetver\",\"text\":\"четвер\",\"display\":\"четве́р\",\"ipa\":\"/t͡ʃɛtˈʋɛr/\",\"cognates\":{\"ru\":{\"form\":\"четве́рг\"},\"pl\":{\"form\":\"czwartek\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days/pyatnytsya",
+			"seen": "{\"item\":\"day:pyatnytsya\",\"text\":\"п'ятниця\",\"display\":\"п'я́тниця\",\"ipa\":\"/ˈpjatnɪt͡sʲa/\",\"cognates\":{\"ru\":{\"form\":\"пя́тница\"},\"pl\":{\"form\":\"piątek\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days/subota",
+			"seen": "{\"item\":\"day:subota\",\"text\":\"субота\",\"display\":\"субо́та\",\"ipa\":\"/suˈbɔta/\",\"cognates\":{\"ru\":{\"form\":\"суббо́та\"},\"pl\":{\"form\":\"sobota\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/days/nedilya",
+			"seen": "{\"item\":\"day:nedilya\",\"text\":\"неділя\",\"display\":\"неді́ля\",\"ipa\":\"/nɛˈdʲilʲa/\",\"cognates\":{\"pl\":{\"form\":\"niedziela\"}}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/family/lyudyna",
 			"seen": "{\"item\":\"word:lyudyna\",\"text\":\"людина\",\"display\":\"люди́на\",\"ipa\":\"/lʲuˈdɪna/\",\"cognates\":{\"ru\":{\"form\":\"люди\",\"ipa\":\"/ˈlʲudʲɪ/\"},\"pl\":{\"form\":\"ludzie\",\"ipa\":\"/ˈlud͡ʑɛ/\"}}}",
 			"verdict": "ok"
@@ -980,6 +1015,186 @@
 		{
 			"key": "core/hard-labials/sim",
 			"seen": "{\"item\":\"labial:sim\",\"text\":\"сім\",\"ipa\":\"/sʲim/\",\"clue\":\"семь\",\"concepts\":[\"soft-hard\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h1.hour",
+			"seen": "{\"item\":\"hour:h1:hour\",\"text\":\"перша\",\"display\":\"пе́рша\",\"ipa\":\"/ˈpɛrʃa/\",\"concepts\":[\"clock-time\"],\"row\":\"h1\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h1.at",
+			"seen": "{\"item\":\"hour:h1:at\",\"text\":\"першій\",\"display\":\"пе́ршій\",\"ipa\":\"/ˈpɛrʃij/\",\"concepts\":[\"clock-time\"],\"row\":\"h1\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h1.half",
+			"seen": "{\"item\":\"hour:h1:half\",\"text\":\"першу\",\"display\":\"пе́ршу\",\"ipa\":\"/ˈpɛrʃu/\",\"concepts\":[\"clock-time\"],\"row\":\"h1\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h2.hour",
+			"seen": "{\"item\":\"hour:h2:hour\",\"text\":\"друга\",\"display\":\"дру́га\",\"ipa\":\"/ˈdruɦa/\",\"concepts\":[\"clock-time\"],\"row\":\"h2\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h2.at",
+			"seen": "{\"item\":\"hour:h2:at\",\"text\":\"другій\",\"display\":\"дру́гій\",\"ipa\":\"/ˈdruɦij/\",\"concepts\":[\"clock-time\"],\"row\":\"h2\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h2.half",
+			"seen": "{\"item\":\"hour:h2:half\",\"text\":\"другу\",\"display\":\"дру́гу\",\"ipa\":\"/ˈdruɦu/\",\"concepts\":[\"clock-time\"],\"row\":\"h2\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h3.hour",
+			"seen": "{\"item\":\"hour:h3:hour\",\"text\":\"третя\",\"display\":\"тре́тя\",\"ipa\":\"/ˈtrɛtʲa/\",\"concepts\":[\"clock-time\"],\"row\":\"h3\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h3.at",
+			"seen": "{\"item\":\"hour:h3:at\",\"text\":\"третій\",\"display\":\"тре́тій\",\"ipa\":\"/ˈtrɛtʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h3\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h3.half",
+			"seen": "{\"item\":\"hour:h3:half\",\"text\":\"третю\",\"display\":\"тре́тю\",\"ipa\":\"/ˈtrɛtʲu/\",\"concepts\":[\"clock-time\"],\"row\":\"h3\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h4.hour",
+			"seen": "{\"item\":\"hour:h4:hour\",\"text\":\"четверта\",\"display\":\"четве́рта\",\"ipa\":\"/t͡ʃɛtˈʋɛrta/\",\"concepts\":[\"clock-time\"],\"row\":\"h4\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h4.at",
+			"seen": "{\"item\":\"hour:h4:at\",\"text\":\"четвертій\",\"display\":\"четве́ртій\",\"ipa\":\"/t͡ʃɛtˈʋɛrtʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h4\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h4.half",
+			"seen": "{\"item\":\"hour:h4:half\",\"text\":\"четверту\",\"display\":\"четве́рту\",\"ipa\":\"/t͡ʃɛtˈʋɛrtu/\",\"concepts\":[\"clock-time\"],\"row\":\"h4\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h5.hour",
+			"seen": "{\"item\":\"hour:h5:hour\",\"text\":\"п'ята\",\"display\":\"п'я́та\",\"ipa\":\"/ˈpjata/\",\"concepts\":[\"clock-time\"],\"row\":\"h5\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h5.at",
+			"seen": "{\"item\":\"hour:h5:at\",\"text\":\"п'ятій\",\"display\":\"п'я́тій\",\"ipa\":\"/ˈpjatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h5\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h5.half",
+			"seen": "{\"item\":\"hour:h5:half\",\"text\":\"п'яту\",\"display\":\"п'я́ту\",\"ipa\":\"/ˈpjatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h5\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h6.hour",
+			"seen": "{\"item\":\"hour:h6:hour\",\"text\":\"шоста\",\"display\":\"шо́ста\",\"ipa\":\"/ˈʃɔsta/\",\"concepts\":[\"clock-time\"],\"row\":\"h6\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h6.at",
+			"seen": "{\"item\":\"hour:h6:at\",\"text\":\"шостій\",\"display\":\"шо́стій\",\"ipa\":\"/ˈʃɔsʲtʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h6\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h6.half",
+			"seen": "{\"item\":\"hour:h6:half\",\"text\":\"шосту\",\"display\":\"шо́сту\",\"ipa\":\"/ˈʃɔstu/\",\"concepts\":[\"clock-time\"],\"row\":\"h6\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h7.hour",
+			"seen": "{\"item\":\"hour:h7:hour\",\"text\":\"сьома\",\"display\":\"сьо́ма\",\"ipa\":\"/ˈsʲɔma/\",\"concepts\":[\"clock-time\"],\"row\":\"h7\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h7.at",
+			"seen": "{\"item\":\"hour:h7:at\",\"text\":\"сьомій\",\"display\":\"сьо́мій\",\"ipa\":\"/ˈsʲɔmij/\",\"concepts\":[\"clock-time\"],\"row\":\"h7\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h7.half",
+			"seen": "{\"item\":\"hour:h7:half\",\"text\":\"сьому\",\"display\":\"сьо́му\",\"ipa\":\"/ˈsʲɔmu/\",\"concepts\":[\"clock-time\"],\"row\":\"h7\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h8.hour",
+			"seen": "{\"item\":\"hour:h8:hour\",\"text\":\"восьма\",\"display\":\"во́сьма\",\"ipa\":\"/ˈʋɔsʲma/\",\"concepts\":[\"clock-time\"],\"row\":\"h8\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h8.at",
+			"seen": "{\"item\":\"hour:h8:at\",\"text\":\"восьмій\",\"display\":\"во́сьмій\",\"ipa\":\"/ˈʋɔsʲmij/\",\"concepts\":[\"clock-time\"],\"row\":\"h8\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h8.half",
+			"seen": "{\"item\":\"hour:h8:half\",\"text\":\"восьму\",\"display\":\"во́сьму\",\"ipa\":\"/ˈʋɔsʲmu/\",\"concepts\":[\"clock-time\"],\"row\":\"h8\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h9.hour",
+			"seen": "{\"item\":\"hour:h9:hour\",\"text\":\"дев'ята\",\"display\":\"дев'я́та\",\"ipa\":\"/dɛˈʋjata/\",\"concepts\":[\"clock-time\"],\"row\":\"h9\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h9.at",
+			"seen": "{\"item\":\"hour:h9:at\",\"text\":\"дев'ятій\",\"display\":\"дев'я́тій\",\"ipa\":\"/dɛˈʋjatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h9\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h9.half",
+			"seen": "{\"item\":\"hour:h9:half\",\"text\":\"дев'яту\",\"display\":\"дев'я́ту\",\"ipa\":\"/dɛˈʋjatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h9\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h10.hour",
+			"seen": "{\"item\":\"hour:h10:hour\",\"text\":\"десята\",\"display\":\"деся́та\",\"ipa\":\"/dɛˈsʲata/\",\"concepts\":[\"clock-time\"],\"row\":\"h10\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h10.at",
+			"seen": "{\"item\":\"hour:h10:at\",\"text\":\"десятій\",\"display\":\"деся́тій\",\"ipa\":\"/dɛˈsʲatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h10\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h10.half",
+			"seen": "{\"item\":\"hour:h10:half\",\"text\":\"десяту\",\"display\":\"деся́ту\",\"ipa\":\"/dɛˈsʲatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h10\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h11.hour",
+			"seen": "{\"item\":\"hour:h11:hour\",\"text\":\"одинадцята\",\"display\":\"одина́дцята\",\"ipa\":\"/ɔdɪˈnad͡zʲt͡sʲata/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h11.at",
+			"seen": "{\"item\":\"hour:h11:at\",\"text\":\"одинадцятій\",\"display\":\"одина́дцятій\",\"ipa\":\"/ɔdɪˈnad͡zʲt͡sʲatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h11.half",
+			"seen": "{\"item\":\"hour:h11:half\",\"text\":\"одинадцяту\",\"display\":\"одина́дцяту\",\"ipa\":\"/ɔdɪˈnad͡zʲt͡sʲatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h12.hour",
+			"seen": "{\"item\":\"hour:h12:hour\",\"text\":\"дванадцята\",\"display\":\"двана́дцята\",\"ipa\":\"/dʋaˈnad͡zʲt͡sʲata/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h12.at",
+			"seen": "{\"item\":\"hour:h12:at\",\"text\":\"дванадцятій\",\"display\":\"двана́дцятій\",\"ipa\":\"/dʋaˈnad͡zʲt͡sʲatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h12.half",
+			"seen": "{\"item\":\"hour:h12:half\",\"text\":\"дванадцяту\",\"display\":\"двана́дцяту\",\"ipa\":\"/dʋaˈnad͡zʲt͡sʲatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"half\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1636,6 +1851,251 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l06-numbers/n11",
+			"seen": "{\"item\":\"number:n11\",\"text\":\"одинадцять\",\"display\":\"одина́дцять\",\"ipa\":\"/ɔdɪˈnad͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"оди́ннадцать\"},\"pl\":{\"form\":\"jedenaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n12",
+			"seen": "{\"item\":\"number:n12\",\"text\":\"дванадцять\",\"display\":\"двана́дцять\",\"ipa\":\"/dʋaˈnad͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"двена́дцать\"},\"pl\":{\"form\":\"dwanaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n13",
+			"seen": "{\"item\":\"number:n13\",\"text\":\"тринадцять\",\"display\":\"трина́дцять\",\"ipa\":\"/trɪˈnad͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"трина́дцать\"},\"pl\":{\"form\":\"trzynaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n14",
+			"seen": "{\"item\":\"number:n14\",\"text\":\"чотирнадцять\",\"display\":\"чотирна́дцять\",\"ipa\":\"/t͡ʃɔtɪrˈnad͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"четы́рнадцать\"},\"pl\":{\"form\":\"czternaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n15",
+			"seen": "{\"item\":\"number:n15\",\"text\":\"п'ятнадцять\",\"display\":\"п'ятна́дцять\",\"ipa\":\"/pjatˈnad͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"пятна́дцать\"},\"pl\":{\"form\":\"piętnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n16",
+			"seen": "{\"item\":\"number:n16\",\"text\":\"шістнадцять\",\"display\":\"шістна́дцять\",\"ipa\":\"/ʃisˈnad͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"шестна́дцать\"},\"pl\":{\"form\":\"szesnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n17",
+			"seen": "{\"item\":\"number:n17\",\"text\":\"сімнадцять\",\"display\":\"сімна́дцять\",\"ipa\":\"/sʲimˈnad͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"семна́дцать\"},\"pl\":{\"form\":\"siedemnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n18",
+			"seen": "{\"item\":\"number:n18\",\"text\":\"вісімнадцять\",\"display\":\"вісімна́дцять\",\"ipa\":\"/ʋisʲimˈnad͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"восемна́дцать\"},\"pl\":{\"form\":\"osiemnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n19",
+			"seen": "{\"item\":\"number:n19\",\"text\":\"дев'ятнадцять\",\"display\":\"дев'ятна́дцять\",\"ipa\":\"/dɛʋjatˈnad͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"девятна́дцать\"},\"pl\":{\"form\":\"dziewiętnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n20",
+			"seen": "{\"item\":\"number:n20\",\"text\":\"двадцять\",\"display\":\"два́дцять\",\"ipa\":\"/ˈdʋad͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"два́дцать\"},\"pl\":{\"form\":\"dwadzieścia\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n30",
+			"seen": "{\"item\":\"number:n30\",\"text\":\"тридцять\",\"display\":\"три́дцять\",\"ipa\":\"/ˈtrɪd͡zʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"три́дцать\"},\"pl\":{\"form\":\"trzydzieści\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n40",
+			"seen": "{\"item\":\"number:n40\",\"text\":\"сорок\",\"display\":\"со́рок\",\"ipa\":\"/ˈsɔrɔk/\",\"cognates\":{\"ru\":{\"form\":\"со́рок\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n50",
+			"seen": "{\"item\":\"number:n50\",\"text\":\"п'ятдесят\",\"display\":\"п'ятдеся́т\",\"ipa\":\"/pjadːɛˈsʲat/\",\"cognates\":{\"ru\":{\"form\":\"пятьдеся́т\"},\"pl\":{\"form\":\"pięćdziesiąt\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/sohodni",
+			"seen": "{\"item\":\"phrase:l06:sohodni\",\"text\":\"сьогодні\",\"display\":\"сього́дні\",\"sentence\":\"Яки́й ___ день?\",\"alsoAccepted\":[\"нині\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/den",
+			"seen": "{\"item\":\"phrase:l06:den\",\"text\":\"день\",\"sentence\":\"Понеді́лок — пе́рший ___ ти́жня.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/ponedilok",
+			"seen": "{\"item\":\"phrase:l06:ponedilok\",\"text\":\"понеділок\",\"display\":\"понеді́лок\",\"sentence\":\"Сього́дні вівто́рок, а вчо́ра був ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/chetver",
+			"seen": "{\"item\":\"phrase:l06:chetver\",\"text\":\"четвер\",\"display\":\"четве́р\",\"sentence\":\"Сього́дні середа́, а за́втра бу́де ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/nedilya",
+			"seen": "{\"item\":\"phrase:l06:nedilya\",\"text\":\"неділя\",\"display\":\"неді́ля\",\"sentence\":\"Сього́дні субо́та, а за́втра бу́де ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/tyzhden",
+			"seen": "{\"item\":\"phrase:l06:tyzhden\",\"text\":\"тиждень\",\"display\":\"ти́ждень\",\"sentence\":\"Сім днів — це оди́н ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/rik",
+			"seen": "{\"item\":\"phrase:l06:rik\",\"text\":\"рік\",\"sentence\":\"Двана́дцять місяці́в — це оди́н ___.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/travni",
+			"seen": "{\"item\":\"phrase:l06:travni\",\"text\":\"травні\",\"display\":\"тра́вні\",\"sentence\":\"Мій день наро́дження в ___ (тра́вень).\",\"concepts\":[\"month-in\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/sichni",
+			"seen": "{\"item\":\"phrase:l06:sichni\",\"text\":\"січні\",\"display\":\"сі́чні\",\"sentence\":\"У ___ (сі́чень) хо́лодно.\",\"concepts\":[\"month-in\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/lyutomu",
+			"seen": "{\"item\":\"phrase:l06:lyutomu\",\"text\":\"лютому\",\"display\":\"лю́тому\",\"sentence\":\"Конце́рт у ___ (лю́тий).\",\"alsoAccepted\":[\"лютім\"],\"concepts\":[\"month-in\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/serpni",
+			"seen": "{\"item\":\"phrase:l06:serpni\",\"text\":\"серпні\",\"display\":\"се́рпні\",\"sentence\":\"Ми відпочива́ємо в ___ (се́рпень).\",\"concepts\":[\"month-in\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/roku",
+			"seen": "{\"item\":\"phrase:l06:roku\",\"text\":\"року\",\"display\":\"ро́ку\",\"sentence\":\"Яка́ твоя́ улю́блена пора́ ___?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/ulyublena",
+			"seen": "{\"item\":\"phrase:l06:ulyublena\",\"text\":\"улюблена\",\"display\":\"улю́блена\",\"sentence\":\"Яка́ твоя́ ___ пора́ ро́ку?\",\"alsoAccepted\":[\"любима\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/vzymku",
+			"seen": "{\"item\":\"phrase:l06:vzymku\",\"text\":\"взимку\",\"display\":\"взи́мку\",\"sentence\":\"У Ки́єві ___ (зима́) хо́лодно.\",\"alsoAccepted\":[\"узимку\",\"зимою\"],\"concepts\":[\"season-when\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/navesni",
+			"seen": "{\"item\":\"phrase:l06:navesni\",\"text\":\"навесні\",\"display\":\"навесні́\",\"sentence\":\"Я люблю́ гуля́ти ___ (весна́).\",\"alsoAccepted\":[\"весною\"],\"concepts\":[\"season-when\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/vlitku",
+			"seen": "{\"item\":\"phrase:l06:vlitku\",\"text\":\"влітку\",\"display\":\"влі́тку\",\"sentence\":\"Ми відпочива́ємо ___ (лі́то).\",\"alsoAccepted\":[\"улітку\",\"літом\"],\"concepts\":[\"season-when\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-phrases/voseny",
+			"seen": "{\"item\":\"phrase:l06:voseny\",\"text\":\"восени\",\"display\":\"восени́\",\"sentence\":\"Мені́ су́мно ___ (о́сінь).\",\"alsoAccepted\":[\"осінню\"],\"concepts\":[\"season-when\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/sekunda",
+			"seen": "{\"item\":\"word:sekunda\",\"text\":\"секунда\",\"display\":\"секу́нда\",\"ipa\":\"/sɛˈkunda/\",\"cognates\":{\"ru\":{\"form\":\"секу́нда\"},\"pl\":{\"form\":\"sekunda\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/khvylyna",
+			"seen": "{\"item\":\"word:khvylyna\",\"text\":\"хвилина\",\"display\":\"хвили́на\",\"ipa\":\"/xʋɪˈlɪna/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/hodyna",
+			"seen": "{\"item\":\"word:hodyna\",\"text\":\"година\",\"display\":\"годи́на\",\"ipa\":\"/ɦɔˈdɪna/\",\"cognates\":{\"pl\":{\"form\":\"godzina\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/doba",
+			"seen": "{\"item\":\"word:doba\",\"text\":\"доба\",\"display\":\"доба́\",\"ipa\":\"/dɔˈba/\",\"cognates\":{\"pl\":{\"form\":\"doba\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/den",
+			"seen": "{\"item\":\"word:den\",\"text\":\"день\",\"ipa\":\"/dɛnʲ/\",\"cognates\":{\"ru\":{\"form\":\"день\"},\"pl\":{\"form\":\"dzień\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/tyzhden",
+			"seen": "{\"item\":\"word:tyzhden\",\"text\":\"тиждень\",\"display\":\"ти́ждень\",\"ipa\":\"/ˈtɪʒdɛnʲ/\",\"cognates\":{\"pl\":{\"form\":\"tydzień\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/misyats",
+			"seen": "{\"item\":\"word:misyats\",\"text\":\"місяць\",\"display\":\"мі́сяць\",\"ipa\":\"/ˈmisʲat͡sʲ/\",\"cognates\":{\"ru\":{\"form\":\"ме́сяц\"},\"pl\":{\"form\":\"miesiąc\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/rik",
+			"seen": "{\"item\":\"word:rik\",\"text\":\"рік\",\"ipa\":\"/rʲik/\",\"cognates\":{\"pl\":{\"form\":\"rok\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/chas",
+			"seen": "{\"item\":\"word:chas\",\"text\":\"час\",\"ipa\":\"/t͡ʃas/\",\"cognates\":{\"pl\":{\"form\":\"czas\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/pora-roku",
+			"seen": "{\"item\":\"word:pora-roku\",\"text\":\"пора року\",\"display\":\"пора́ ро́ку\",\"ipa\":\"/pɔˈra ˈrɔku/\",\"cognates\":{\"pl\":{\"form\":\"pora roku\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/sohodni",
+			"seen": "{\"item\":\"word:sohodni\",\"text\":\"сьогодні\",\"display\":\"сього́дні\",\"ipa\":\"/sʲɔˈɦɔdʲnʲi/\",\"alsoAccepted\":[\"нині\"],\"cognates\":{\"ru\":{\"form\":\"сего́дня\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/vchora",
+			"seen": "{\"item\":\"word:vchora\",\"text\":\"вчора\",\"display\":\"вчо́ра\",\"ipa\":\"/ˈʋt͡ʃɔra/\",\"alsoAccepted\":[\"учора\"],\"cognates\":{\"ru\":{\"form\":\"вчера́\"},\"pl\":{\"form\":\"wczoraj\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/zavtra",
+			"seen": "{\"item\":\"word:zavtra\",\"text\":\"завтра\",\"display\":\"за́втра\",\"ipa\":\"/ˈzaʋtra/\",\"cognates\":{\"ru\":{\"form\":\"за́втра\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/pislyazavtra",
+			"seen": "{\"item\":\"word:pislyazavtra\",\"text\":\"післязавтра\",\"display\":\"післяза́втра\",\"ipa\":\"/pisʲlʲaˈzaʋtra/\",\"cognates\":{\"ru\":{\"form\":\"послеза́втра\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/rivno",
+			"seen": "{\"item\":\"word:rivno\",\"text\":\"рівно\",\"display\":\"рі́вно\",\"ipa\":\"/ˈrʲiʋnɔ/\",\"alsoAccepted\":[\"точно\"],\"cognates\":{\"ru\":{\"form\":\"ро́вно\"},\"pl\":{\"form\":\"równo\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/skilky",
+			"seen": "{\"item\":\"word:skilky\",\"text\":\"скільки\",\"display\":\"скі́льки\",\"ipa\":\"/ˈskilʲkɪ/\",\"cognates\":{\"ru\":{\"form\":\"ско́лько\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/chekaty",
+			"seen": "{\"item\":\"word:chekaty\",\"text\":\"чекати\",\"display\":\"чека́ти\",\"ipa\":\"/t͡ʃɛˈkatɪ/\",\"alsoAccepted\":[\"ждати\"],\"cognates\":{\"pl\":{\"form\":\"czekać\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/vidpochyvaty",
+			"seen": "{\"item\":\"word:vidpochyvaty\",\"text\":\"відпочивати\",\"display\":\"відпочива́ти\",\"ipa\":\"/ʋidpɔt͡ʃɪˈʋatɪ/\",\"cognates\":{\"pl\":{\"form\":\"odpoczywać\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-words/ulyublenyi",
+			"seen": "{\"item\":\"word:ulyublenyi\",\"text\":\"улюблений\",\"display\":\"улю́блений\",\"ipa\":\"/uˈlʲublɛnɪj/\",\"alsoAccepted\":[\"любимий\"],\"cognates\":{\"pl\":{\"form\":\"ulubiony\"}}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/letter-names/a",
 			"seen": "{\"item\":\"letter-name:a\",\"text\":\"а\",\"clue\":\"А а\"}",
 			"verdict": "ok"
@@ -1798,6 +2258,126 @@
 		{
 			"key": "core/letter-names/ya",
 			"seen": "{\"item\":\"letter-name:ya\",\"text\":\"я\",\"clue\":\"Я я\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m1.name",
+			"seen": "{\"item\":\"month:m1:name\",\"text\":\"січень\",\"display\":\"сі́чень\",\"ipa\":\"/ˈsʲit͡ʃɛnʲ/\",\"concepts\":[\"month-in\"],\"row\":\"m1\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m1.in",
+			"seen": "{\"item\":\"month:m1:in\",\"text\":\"січні\",\"display\":\"сі́чні\",\"ipa\":\"/ˈsʲit͡ʃnʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m1\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m2.name",
+			"seen": "{\"item\":\"month:m2:name\",\"text\":\"лютий\",\"display\":\"лю́тий\",\"ipa\":\"/ˈlʲutɪj/\",\"cognates\":{\"pl\":{\"form\":\"luty\"}},\"concepts\":[\"month-in\"],\"row\":\"m2\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m2.in",
+			"seen": "{\"item\":\"month:m2:in\",\"text\":\"лютому\",\"display\":\"лю́тому\",\"ipa\":\"/ˈlʲutɔmu/\",\"alsoAccepted\":[\"лютім\"],\"concepts\":[\"month-in\"],\"row\":\"m2\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m3.name",
+			"seen": "{\"item\":\"month:m3:name\",\"text\":\"березень\",\"display\":\"бе́резень\",\"ipa\":\"/ˈbɛrɛzɛnʲ/\",\"concepts\":[\"month-in\"],\"row\":\"m3\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m3.in",
+			"seen": "{\"item\":\"month:m3:in\",\"text\":\"березні\",\"display\":\"бе́резні\",\"ipa\":\"/ˈbɛrɛzʲnʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m3\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m4.name",
+			"seen": "{\"item\":\"month:m4:name\",\"text\":\"квітень\",\"display\":\"кві́тень\",\"ipa\":\"/ˈkʋitɛnʲ/\",\"cognates\":{\"pl\":{\"form\":\"kwiecień\"}},\"concepts\":[\"month-in\"],\"row\":\"m4\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m4.in",
+			"seen": "{\"item\":\"month:m4:in\",\"text\":\"квітні\",\"display\":\"кві́тні\",\"ipa\":\"/ˈkʋitʲnʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m4\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m5.name",
+			"seen": "{\"item\":\"month:m5:name\",\"text\":\"травень\",\"display\":\"тра́вень\",\"ipa\":\"/ˈtraʋɛnʲ/\",\"concepts\":[\"month-in\"],\"row\":\"m5\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m5.in",
+			"seen": "{\"item\":\"month:m5:in\",\"text\":\"травні\",\"display\":\"тра́вні\",\"ipa\":\"/ˈtraʋnʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m5\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m6.name",
+			"seen": "{\"item\":\"month:m6:name\",\"text\":\"червень\",\"display\":\"че́рвень\",\"ipa\":\"/ˈt͡ʃɛrʋɛnʲ/\",\"cognates\":{\"pl\":{\"form\":\"czerwiec\"}},\"concepts\":[\"month-in\"],\"row\":\"m6\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m6.in",
+			"seen": "{\"item\":\"month:m6:in\",\"text\":\"червні\",\"display\":\"че́рвні\",\"ipa\":\"/ˈt͡ʃɛrʋnʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m6\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m7.name",
+			"seen": "{\"item\":\"month:m7:name\",\"text\":\"липень\",\"display\":\"ли́пень\",\"ipa\":\"/ˈlɪpɛnʲ/\",\"cognates\":{\"pl\":{\"form\":\"lipiec\"}},\"concepts\":[\"month-in\"],\"row\":\"m7\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m7.in",
+			"seen": "{\"item\":\"month:m7:in\",\"text\":\"липні\",\"display\":\"ли́пні\",\"ipa\":\"/ˈlɪpnʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m7\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m8.name",
+			"seen": "{\"item\":\"month:m8:name\",\"text\":\"серпень\",\"display\":\"се́рпень\",\"ipa\":\"/ˈsɛrpɛnʲ/\",\"cognates\":{\"pl\":{\"form\":\"sierpień\"}},\"concepts\":[\"month-in\"],\"row\":\"m8\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m8.in",
+			"seen": "{\"item\":\"month:m8:in\",\"text\":\"серпні\",\"display\":\"се́рпні\",\"ipa\":\"/ˈsɛrpnʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m8\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m9.name",
+			"seen": "{\"item\":\"month:m9:name\",\"text\":\"вересень\",\"display\":\"ве́ресень\",\"ipa\":\"/ˈʋɛrɛsɛnʲ/\",\"cognates\":{\"pl\":{\"form\":\"wrzesień\"}},\"concepts\":[\"month-in\"],\"row\":\"m9\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m9.in",
+			"seen": "{\"item\":\"month:m9:in\",\"text\":\"вересні\",\"display\":\"ве́ресні\",\"ipa\":\"/ˈʋɛrɛsʲnʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m9\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m10.name",
+			"seen": "{\"item\":\"month:m10:name\",\"text\":\"жовтень\",\"display\":\"жо́втень\",\"ipa\":\"/ˈʒɔʋtɛnʲ/\",\"concepts\":[\"month-in\"],\"row\":\"m10\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m10.in",
+			"seen": "{\"item\":\"month:m10:in\",\"text\":\"жовтні\",\"display\":\"жо́втні\",\"ipa\":\"/ˈʒɔʋtʲnʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m10\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m11.name",
+			"seen": "{\"item\":\"month:m11:name\",\"text\":\"листопад\",\"display\":\"листопа́д\",\"ipa\":\"/lɪstɔˈpad/\",\"cognates\":{\"pl\":{\"form\":\"listopad\"}},\"concepts\":[\"month-in\"],\"row\":\"m11\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m11.in",
+			"seen": "{\"item\":\"month:m11:in\",\"text\":\"листопаді\",\"display\":\"листопа́ді\",\"ipa\":\"/lɪstɔˈpadʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m11\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m12.name",
+			"seen": "{\"item\":\"month:m12:name\",\"text\":\"грудень\",\"display\":\"гру́день\",\"ipa\":\"/ˈɦrudɛnʲ/\",\"cognates\":{\"pl\":{\"form\":\"grudzień\"}},\"concepts\":[\"month-in\"],\"row\":\"m12\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/months/m12.in",
+			"seen": "{\"item\":\"month:m12:in\",\"text\":\"грудні\",\"display\":\"гру́дні\",\"ipa\":\"/ˈɦrudʲnʲi/\",\"concepts\":[\"month-in\"],\"row\":\"m12\",\"col\":\"in\"}",
 			"verdict": "ok"
 		},
 		{
@@ -2571,6 +3151,46 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/seasons/winter.name",
+			"seen": "{\"item\":\"season:winter:name\",\"text\":\"зима\",\"display\":\"зима́\",\"ipa\":\"/zɪˈma/\",\"cognates\":{\"ru\":{\"form\":\"зима́\"},\"pl\":{\"form\":\"zima\"}},\"concepts\":[\"season-when\"],\"row\":\"winter\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/seasons/winter.when",
+			"seen": "{\"item\":\"season:winter:when\",\"text\":\"взимку\",\"display\":\"взи́мку\",\"ipa\":\"/ˈʋzɪmku/\",\"alsoAccepted\":[\"узимку\",\"зимою\"],\"concepts\":[\"season-when\"],\"row\":\"winter\",\"col\":\"when\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/seasons/spring.name",
+			"seen": "{\"item\":\"season:spring:name\",\"text\":\"весна\",\"display\":\"весна́\",\"ipa\":\"/ʋɛsˈna/\",\"cognates\":{\"ru\":{\"form\":\"весна́\"},\"pl\":{\"form\":\"wiosna\"}},\"concepts\":[\"season-when\"],\"row\":\"spring\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/seasons/spring.when",
+			"seen": "{\"item\":\"season:spring:when\",\"text\":\"навесні\",\"display\":\"навесні́\",\"ipa\":\"/naʋɛsʲˈnʲi/\",\"alsoAccepted\":[\"весною\"],\"concepts\":[\"season-when\"],\"row\":\"spring\",\"col\":\"when\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/seasons/summer.name",
+			"seen": "{\"item\":\"season:summer:name\",\"text\":\"літо\",\"display\":\"лі́то\",\"ipa\":\"/ˈlʲitɔ/\",\"cognates\":{\"ru\":{\"form\":\"ле́то\"},\"pl\":{\"form\":\"lato\"}},\"concepts\":[\"season-when\"],\"row\":\"summer\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/seasons/summer.when",
+			"seen": "{\"item\":\"season:summer:when\",\"text\":\"влітку\",\"display\":\"влі́тку\",\"ipa\":\"/ˈʋlʲitku/\",\"alsoAccepted\":[\"улітку\",\"літом\"],\"concepts\":[\"season-when\"],\"row\":\"summer\",\"col\":\"when\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/seasons/autumn.name",
+			"seen": "{\"item\":\"season:autumn:name\",\"text\":\"осінь\",\"display\":\"о́сінь\",\"ipa\":\"/ˈɔsʲinʲ/\",\"cognates\":{\"ru\":{\"form\":\"о́сень\"},\"pl\":{\"form\":\"jesień\"}},\"concepts\":[\"season-when\"],\"row\":\"autumn\",\"col\":\"name\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/seasons/autumn.when",
+			"seen": "{\"item\":\"season:autumn:when\",\"text\":\"восени\",\"display\":\"восени́\",\"ipa\":\"/ʋɔsɛˈnɪ/\",\"alsoAccepted\":[\"осінню\"],\"concepts\":[\"season-when\"],\"row\":\"autumn\",\"col\":\"when\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/stress-pairs/castle",
 			"seen": "{\"item\":\"stress:castle\",\"text\":\"замок\",\"display\":\"за́мок\",\"ipa\":\"/ˈzamɔk/\",\"concepts\":[\"free-stress\"]}",
 			"verdict": "ok"
@@ -2608,6 +3228,166 @@
 		{
 			"key": "core/stress-pairs/smoke",
 			"seen": "{\"item\":\"stress:smoke\",\"text\":\"кури\",\"display\":\"кури́\",\"ipa\":\"/kuˈrɪ/\",\"concepts\":[\"free-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/sekunda.few",
+			"seen": "{\"item\":\"count:sekunda:few\",\"text\":\"секунди\",\"display\":\"секу́нди\",\"ipa\":\"/sɛˈkundɪ/\",\"concepts\":[\"count-time\"],\"row\":\"sekunda\",\"col\":\"few\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/sekunda.many",
+			"seen": "{\"item\":\"count:sekunda:many\",\"text\":\"секунд\",\"display\":\"секу́нд\",\"ipa\":\"/sɛˈkund/\",\"concepts\":[\"count-time\"],\"row\":\"sekunda\",\"col\":\"many\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/khvylyna.few",
+			"seen": "{\"item\":\"count:khvylyna:few\",\"text\":\"хвилини\",\"display\":\"хвили́ни\",\"ipa\":\"/xʋɪˈlɪnɪ/\",\"concepts\":[\"count-time\"],\"row\":\"khvylyna\",\"col\":\"few\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/khvylyna.many",
+			"seen": "{\"item\":\"count:khvylyna:many\",\"text\":\"хвилин\",\"display\":\"хвили́н\",\"ipa\":\"/xʋɪˈlɪn/\",\"concepts\":[\"count-time\"],\"row\":\"khvylyna\",\"col\":\"many\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/hodyna.few",
+			"seen": "{\"item\":\"count:hodyna:few\",\"text\":\"години\",\"display\":\"годи́ни\",\"ipa\":\"/ɦɔˈdɪnɪ/\",\"concepts\":[\"count-time\"],\"row\":\"hodyna\",\"col\":\"few\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/hodyna.many",
+			"seen": "{\"item\":\"count:hodyna:many\",\"text\":\"годин\",\"display\":\"годи́н\",\"ipa\":\"/ɦɔˈdɪn/\",\"concepts\":[\"count-time\"],\"row\":\"hodyna\",\"col\":\"many\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/doba.few",
+			"seen": "{\"item\":\"count:doba:few\",\"text\":\"доби\",\"display\":\"доби́\",\"ipa\":\"/dɔˈbɪ/\",\"concepts\":[\"count-time\"],\"row\":\"doba\",\"col\":\"few\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/doba.many",
+			"seen": "{\"item\":\"count:doba:many\",\"text\":\"діб\",\"ipa\":\"/dʲib/\",\"concepts\":[\"count-time\"],\"row\":\"doba\",\"col\":\"many\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/den.few",
+			"seen": "{\"item\":\"count:den:few\",\"text\":\"дні\",\"ipa\":\"/dʲnʲi/\",\"concepts\":[\"count-time\"],\"row\":\"den\",\"col\":\"few\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/den.many",
+			"seen": "{\"item\":\"count:den:many\",\"text\":\"днів\",\"ipa\":\"/dʲnʲiʋ/\",\"concepts\":[\"count-time\"],\"row\":\"den\",\"col\":\"many\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/tyzhden.few",
+			"seen": "{\"item\":\"count:tyzhden:few\",\"text\":\"тижні\",\"display\":\"ти́жні\",\"ipa\":\"/ˈtɪʒnʲi/\",\"concepts\":[\"count-time\"],\"row\":\"tyzhden\",\"col\":\"few\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/tyzhden.many",
+			"seen": "{\"item\":\"count:tyzhden:many\",\"text\":\"тижнів\",\"display\":\"ти́жнів\",\"ipa\":\"/ˈtɪʒnʲiʋ/\",\"concepts\":[\"count-time\"],\"row\":\"tyzhden\",\"col\":\"many\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/misyats.few",
+			"seen": "{\"item\":\"count:misyats:few\",\"text\":\"місяці\",\"display\":\"мі́сяці\",\"ipa\":\"/ˈmisʲat͡sʲi/\",\"concepts\":[\"count-time\"],\"row\":\"misyats\",\"col\":\"few\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/misyats.many",
+			"seen": "{\"item\":\"count:misyats:many\",\"text\":\"місяців\",\"display\":\"місяці́в\",\"ipa\":\"/misʲaˈt͡sʲiʋ/\",\"concepts\":[\"count-time\"],\"row\":\"misyats\",\"col\":\"many\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/rik.few",
+			"seen": "{\"item\":\"count:rik:few\",\"text\":\"роки\",\"display\":\"ро́ки\",\"ipa\":\"/ˈrɔkɪ/\",\"concepts\":[\"count-time\"],\"row\":\"rik\",\"col\":\"few\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-count/rik.many",
+			"seen": "{\"item\":\"count:rik:many\",\"text\":\"років\",\"display\":\"ро́ків\",\"ipa\":\"/ˈrɔkiʋ/\",\"concepts\":[\"count-time\"],\"row\":\"rik\",\"col\":\"many\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/hodyna",
+			"seen": "{\"item\":\"sentence:time:hodyna\",\"text\":\"година\",\"display\":\"годи́на\",\"sentence\":\"Перепро́шую, котра́ ___?\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/kotra",
+			"seen": "{\"item\":\"sentence:time:kotra\",\"text\":\"котра\",\"display\":\"котра́\",\"sentence\":\"Скажі́ть, будь ла́ска, ___ годи́на? — Сьо́ма.\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/persha",
+			"seen": "{\"item\":\"sentence:time:persha\",\"text\":\"перша\",\"display\":\"пе́рша\",\"sentence\":\"За́раз ___ годи́на (1).\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/syoma",
+			"seen": "{\"item\":\"sentence:time:syoma\",\"text\":\"сьома\",\"display\":\"сьо́ма\",\"sentence\":\"За́раз ___ годи́на (7).\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/tretii",
+			"seen": "{\"item\":\"sentence:time:tretii\",\"text\":\"третій\",\"display\":\"тре́тій\",\"sentence\":\"Уро́к о ___ (3).\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/vosmii",
+			"seen": "{\"item\":\"sentence:time:vosmii\",\"text\":\"восьмій\",\"display\":\"во́сьмій\",\"sentence\":\"Я встаю́ о ___ (8).\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/ob",
+			"seen": "{\"item\":\"sentence:time:ob\",\"text\":\"об\",\"sentence\":\"Уро́к ___ одина́дцятій.\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/odynadtsiatii",
+			"seen": "{\"item\":\"sentence:time:odynadtsiatii\",\"text\":\"одинадцятій\",\"display\":\"одина́дцятій\",\"sentence\":\"Конце́рт об ___ (11).\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/kotrii",
+			"seen": "{\"item\":\"sentence:time:kotrii\",\"text\":\"котрій\",\"display\":\"котрі́й\",\"sentence\":\"Скажі́ть, о ___ годи́ні почина́ється конце́рт? — О сьо́мій.\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/rivno",
+			"seen": "{\"item\":\"sentence:time:rivno\",\"text\":\"рівно\",\"display\":\"рі́вно\",\"sentence\":\"Конце́рт о чотирна́дцятій годи́ні ___.\",\"alsoAccepted\":[\"точно\"],\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/tretyu",
+			"seen": "{\"item\":\"sentence:time:tretyu\",\"text\":\"третю\",\"display\":\"тре́тю\",\"sentence\":\"За́раз пів на ___ (2:30).\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/pershu",
+			"seen": "{\"item\":\"sentence:time:pershu\",\"text\":\"першу\",\"display\":\"пе́ршу\",\"sentence\":\"За́раз пів на ___ (12:30).\",\"concepts\":[\"clock-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/hodyn",
+			"seen": "{\"item\":\"sentence:time:hodyn\",\"text\":\"годин\",\"display\":\"годи́н\",\"sentence\":\"По́їзд ї́де трина́дцять ___ (годи́на).\",\"concepts\":[\"count-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/khvylyn",
+			"seen": "{\"item\":\"sentence:time:khvylyn\",\"text\":\"хвилин\",\"display\":\"хвили́н\",\"sentence\":\"По́їзд прибу́де за п'ять ___ (хвили́на).\",\"concepts\":[\"count-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/khvylyny",
+			"seen": "{\"item\":\"sentence:time:khvylyny\",\"text\":\"хвилини\",\"display\":\"хвили́ни\",\"sentence\":\"Чека́й дві ___ (хвили́на).\",\"concepts\":[\"count-time\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/time-sentences/odynadtsiat",
+			"seen": "{\"item\":\"sentence:time:odynadtsiat\",\"text\":\"одинадцять\",\"display\":\"одина́дцять\",\"sentence\":\"По́їзд ї́де ___ годи́н (11).\",\"concepts\":[\"teens-stress\"]}",
 			"verdict": "ok"
 		},
 		{
@@ -3001,6 +3781,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/lesson/l06",
+			"seen": "\"Lesson 6: Time, days and months\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/concept/h-sound",
 			"seen": "{\"title\":\"The sound of г\",\"body\":\"A voiced fricative, the voiced partner of х. Phoneticians describe it differently: /ɦ/, glottal, in the published IPA illustration (Pompino-Marschall et al. 2017); [ʕ] before а, о, у, и, е, [ɣʲ] when softened, and [ɣ] before voiced consonants and at the end of a word in Vakulenko 2025, who finds no convincing evidence for glottal [ɦ]. Both agree that it is voiced, which English h is not: Vakulenko finds English h closer to х. The plosive /ɡ/ has its own letter, ґ.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
 			"verdict": "ok"
@@ -3118,9 +3903,8 @@
 		},
 		{
 			"key": "en/concept/ty-vy",
-			"seen": "{\"title\":\"ти and ви\",\"body\":\"ви is polite as well as plural. Use it with adults you don't know well, and at work, until you are invited to change to ти: перейти́ на ти. ти is for friends, family and children.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
-			"verdict": "ok",
-			"comment": "Text is true (own knowledge). The new source could not be confirmed: the link opens EMOVA102 at a sign-in page (\"Ви повинні записатися на курс\"), with no lesson content, and it is the course home rather than this lesson."
+			"seen": "{\"title\":\"ти and ви\",\"body\":\"ви is polite as well as plural. Use it with adults you don't know well, and at work, until you are invited to change to ти: перейти́ на ти. ти is for friends, family and children.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@982bf157e9df447abfef1418fae0c800\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/no-to-be",
@@ -3134,9 +3918,33 @@
 		},
 		{
 			"key": "en/concept/patronymic",
-			"seen": "{\"title\":\"Name and patronymic\",\"body\":\"A respectful address uses the name and the patronymic, both in the vocative. A woman's -івна or -ївна becomes -івно or -ївно, and a man's -ович or -йович becomes -овичу or -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
-			"verdict": "ok",
-			"comment": "Endings right (Горох Павлівна, Петрович). The new source could not be confirmed: the link opens EMOVA102 at a sign-in page (\"Ви повинні записатися на курс\"), with no lesson content, and it is the course home rather than this lesson."
+			"seen": "{\"title\":\"Name and patronymic\",\"body\":\"A respectful address uses the name and the patronymic, both in the vocative. A woman's -івна or -ївна becomes -івно or -ївно, and a man's -ович or -йович becomes -овичу or -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@8d4b7f7f5f5442da9f32b50eb01e23da\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/clock-time",
+			"seen": "{\"title\":\"Telling the time\",\"body\":\"The hour is a feminine ordinal, agreeing with годи́на, even when годи́на itself is left out: Котра́ годи́на? — Тре́тя. At an hour is о with the locative: о тре́тій. Before a vowel о becomes об: об одина́дцятій. Half past names the hour ahead with на and the accusative, so 2:30 is пів на тре́тю.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Позначення часу: нюанси мовлення (Профспілкова преса)\",\"url\":\"https://profpressa.com/articles/poznachennia-chasu-niuansi-movlennia/print\"},{\"title\":\"об (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/об\"},{\"title\":\"Telling the Time (Elon.io, Ukrainian grammar)\",\"url\":\"https://elon.io/grammar/ukrainian/numbers/telling-time\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/count-time",
+			"seen": "{\"title\":\"Counting time\",\"body\":\"A noun after a number changes with the number. One takes the nominative singular: одна́ годи́на. Two, three and four take the nominative plural, often with the stress of the genitive singular: дві годи́ни, дві доби́, два мі́сяці. Five and up take the genitive plural: п'ять годи́н. The last digit decides above twenty, and 11 to 14 count as many: одина́дцять годи́н.\",\"sources\":[{\"title\":\"Узгодження числівника й іменника (Профспілкова преса)\",\"url\":\"https://profpressa.com/articles/uzgodzhennia-chislivnika-i-imennika-sekreti-pravopisu/print\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"},{\"title\":\"дванадцять (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/дванадцять\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/teens-stress",
+			"seen": "{\"title\":\"Stress from 11 to 19\",\"body\":\"From 11 to 19 the stress falls on -на́дцять: одина́дцять, чотирна́дцять, дев'ятна́дцять.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/month-in",
+			"seen": "{\"title\":\"In a month\",\"body\":\"In a month is у or в with the locative. Most month names end in a soft consonant and lose the vowel before it: сі́чень, у сі́чні. лю́тий is an adjective in form, so it goes у лю́тому. листопа́д ends hard and goes у листопа́ді. A month name starts with a consonant, so в follows a vowel, and у follows a consonant or opens a sentence. Before в it is always у: у ве́ресні.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Український правопис (2019), § 23: у та в\",\"url\":\"https://2019.pravopys.net/sections/23/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/season-when",
+			"seen": "{\"title\":\"In a season\",\"body\":\"In a season is usually a single adverb, with no preposition: взи́мку, навесні́, влі́тку, восени́. The first and third also begin with у: узи́мку, улі́тку. You will also hear зимо́ю, весно́ю, лі́том and о́сінню.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "en/alphabet",
@@ -3425,6 +4233,46 @@
 			"seen": "{\"title\":\"Countries: from and in\",\"summary\":\"Where someone is from takes the genitive, and where someone is takes the locative. Some forms fill both cells.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"from: з …\",\"in\":\"in: в / у …\"}}",
 			"verdict": "ok",
 			"comment": "All six header marks match Горох Словозміна letter by letter."
+		},
+		{
+			"key": "en/days",
+			"seen": "{\"title\":\"Days of the week\",\"summary\":\"The seven days, Monday first. Each tile gives the day; find its name.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/days/ponedilok",
+			"seen": "{\"clue\":\"Monday\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/days/vivtorok",
+			"seen": "{\"clue\":\"Tuesday\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/days/sereda",
+			"seen": "{\"clue\":\"Wednesday\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/days/chetver",
+			"seen": "{\"clue\":\"Thursday\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/days/pyatnytsya",
+			"seen": "{\"clue\":\"Friday\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/days/subota",
+			"seen": "{\"clue\":\"Saturday\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/days/nedilya",
+			"seen": "{\"clue\":\"Sunday\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family",
@@ -3772,6 +4620,11 @@
 		{
 			"key": "en/hard-labials/sim",
 			"seen": "{\"note\":\"seven\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/hours",
+			"seen": "{\"title\":\"The clock\",\"summary\":\"The hour is a feminine ordinal, as it agrees with годи́на. At an hour takes о and the locative, and half past names the hour ahead.\",\"headers\":{\"h1\":\"1\",\"h2\":\"2\",\"h3\":\"3\",\"h4\":\"4\",\"h5\":\"5\",\"h6\":\"6\",\"h7\":\"7\",\"h8\":\"8\",\"h9\":\"9\",\"h10\":\"10\",\"h11\":\"11\",\"h12\":\"12\",\"hour\":\"it's … o'clock\",\"at\":\"at …: о, об\",\"half\":\"half an hour before: пів на …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -4287,8 +5140,273 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/l06-numbers",
+			"seen": "{\"title\":\"Numbers for the clock\",\"summary\":\"What you need to read minutes and long durations. From 11 to 19 the stress falls on -на́дцять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n11",
+			"seen": "{\"clue\":\"11\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n12",
+			"seen": "{\"clue\":\"12\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n13",
+			"seen": "{\"clue\":\"13\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n14",
+			"seen": "{\"clue\":\"14\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n15",
+			"seen": "{\"clue\":\"15\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n16",
+			"seen": "{\"clue\":\"16\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n17",
+			"seen": "{\"clue\":\"17\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n18",
+			"seen": "{\"clue\":\"18\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n19",
+			"seen": "{\"clue\":\"19\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n20",
+			"seen": "{\"clue\":\"20\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n30",
+			"seen": "{\"clue\":\"30\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n40",
+			"seen": "{\"clue\":\"40\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-numbers/n50",
+			"seen": "{\"clue\":\"50\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases",
+			"seen": "{\"title\":\"Phrases\",\"summary\":\"Days, months and seasons, used in sentences.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/sohodni",
+			"seen": "{\"sentenceGloss\":\"What day is it today?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/den",
+			"seen": "{\"sentenceGloss\":\"Monday is the first day of the week.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/ponedilok",
+			"seen": "{\"sentenceGloss\":\"Today is Tuesday, and yesterday was Monday.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/chetver",
+			"seen": "{\"sentenceGloss\":\"Today is Wednesday, and tomorrow will be Thursday.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/nedilya",
+			"seen": "{\"sentenceGloss\":\"Today is Saturday, and tomorrow will be Sunday.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/tyzhden",
+			"seen": "{\"sentenceGloss\":\"Seven days make one week.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/rik",
+			"seen": "{\"sentenceGloss\":\"Twelve months make one year.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/travni",
+			"seen": "{\"sentenceGloss\":\"My birthday is in May.\",\"note\":\"Locative after у or в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/sichni",
+			"seen": "{\"sentenceGloss\":\"It's cold in January.\",\"note\":\"Locative after у or в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/lyutomu",
+			"seen": "{\"sentenceGloss\":\"The concert is in February.\",\"note\":\"Locative after у or в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/serpni",
+			"seen": "{\"sentenceGloss\":\"We take our holiday in August.\",\"note\":\"Locative after у or в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/roku",
+			"seen": "{\"sentenceGloss\":\"What is your favourite season?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/ulyublena",
+			"seen": "{\"sentenceGloss\":\"What is your favourite season?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/vzymku",
+			"seen": "{\"sentenceGloss\":\"It's cold in Kyiv in winter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/navesni",
+			"seen": "{\"sentenceGloss\":\"I like going for walks in spring.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/vlitku",
+			"seen": "{\"sentenceGloss\":\"We take our holiday in summer.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-phrases/voseny",
+			"seen": "{\"sentenceGloss\":\"I feel sad in autumn.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words",
+			"seen": "{\"title\":\"Words\",\"summary\":\"The words of this lesson. Each tile gives the meaning; find the word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/sekunda",
+			"seen": "{\"clue\":\"a second\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/khvylyna",
+			"seen": "{\"clue\":\"a minute\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/hodyna",
+			"seen": "{\"clue\":\"an hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/doba",
+			"seen": "{\"clue\":\"a day and a night, 24 hours\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/den",
+			"seen": "{\"clue\":\"a day\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/tyzhden",
+			"seen": "{\"clue\":\"a week\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/misyats",
+			"seen": "{\"clue\":\"a month\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/rik",
+			"seen": "{\"clue\":\"a year\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/chas",
+			"seen": "{\"clue\":\"time\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/pora-roku",
+			"seen": "{\"clue\":\"a season\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/sohodni",
+			"seen": "{\"clue\":\"today\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/vchora",
+			"seen": "{\"clue\":\"yesterday\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/zavtra",
+			"seen": "{\"clue\":\"tomorrow\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/pislyazavtra",
+			"seen": "{\"clue\":\"the day after tomorrow\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/rivno",
+			"seen": "{\"clue\":\"exactly, on the dot\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/skilky",
+			"seen": "{\"clue\":\"how many, how much\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/chekaty",
+			"seen": "{\"clue\":\"to wait\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/vidpochyvaty",
+			"seen": "{\"clue\":\"to rest\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l06-words/ulyublenyi",
+			"seen": "{\"clue\":\"favourite\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/letter-names",
 			"seen": "{\"title\":\"Letter names\",\"summary\":\"What each letter is called when you spell a word aloud. Each tile gives the letter; find its name.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/months",
+			"seen": "{\"title\":\"Months\",\"summary\":\"The twelve months, and how to say in a month: у or в with the locative.\",\"headers\":{\"m1\":\"January\",\"m2\":\"February\",\"m3\":\"March\",\"m4\":\"April\",\"m5\":\"May\",\"m6\":\"June\",\"m7\":\"July\",\"m8\":\"August\",\"m9\":\"September\",\"m10\":\"October\",\"m11\":\"November\",\"m12\":\"December\",\"name\":\"the month\",\"in\":\"in: у, в …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -4558,6 +5676,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/seasons",
+			"seen": "{\"title\":\"Seasons\",\"summary\":\"The four seasons, and the word for when: in winter, in spring.\",\"headers\":{\"winter\":\"winter\",\"spring\":\"spring\",\"summer\":\"summer\",\"autumn\":\"autumn\",\"name\":\"the season\",\"when\":\"in that season\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/stress-pairs",
 			"seen": "{\"title\":\"Where the stress falls\",\"summary\":\"The same letters, different words: stress is written here, and it is the answer. Each tile gives the meaning; find the word.\"}",
 			"verdict": "ok"
@@ -4601,6 +5724,96 @@
 		{
 			"key": "en/stress-pairs/satin",
 			"seen": "{\"clue\":\"satin\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-count",
+			"seen": "{\"title\":\"Counting time\",\"summary\":\"After 2, 3 and 4 a noun takes one form, and after 5 and up it takes another.\",\"headers\":{\"sekunda\":\"секу́нда\",\"khvylyna\":\"хвили́на\",\"hodyna\":\"годи́на\",\"doba\":\"доба́\",\"den\":\"день\",\"tyzhden\":\"ти́ждень\",\"misyats\":\"мі́сяць\",\"rik\":\"рік\",\"few\":\"2, 3, 4\",\"many\":\"5 and up\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences",
+			"seen": "{\"title\":\"Telling the time\",\"summary\":\"The time, at a time, half past, and how long something takes.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/hodyna",
+			"seen": "{\"sentenceGloss\":\"Excuse me, what time is it?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/kotra",
+			"seen": "{\"sentenceGloss\":\"Tell me, please, what time is it? — Seven.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/persha",
+			"seen": "{\"sentenceGloss\":\"It's one o'clock now.\",\"note\":\"Nominative, a feminine ordinal: it agrees with годи́на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/syoma",
+			"seen": "{\"sentenceGloss\":\"It's seven o'clock now.\",\"note\":\"Nominative, a feminine ordinal: it agrees with годи́на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/tretii",
+			"seen": "{\"sentenceGloss\":\"The lesson is at three.\",\"note\":\"Locative after о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/vosmii",
+			"seen": "{\"sentenceGloss\":\"I get up at eight.\",\"note\":\"Locative after о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/ob",
+			"seen": "{\"sentenceGloss\":\"The lesson is at eleven.\",\"note\":\"Before a vowel, о becomes об.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/odynadtsiatii",
+			"seen": "{\"sentenceGloss\":\"The concert is at eleven.\",\"note\":\"Locative after о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/kotrii",
+			"seen": "{\"sentenceGloss\":\"Tell me, at what time does the concert start? — At seven.\",\"note\":\"Locative after о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/rivno",
+			"seen": "{\"sentenceGloss\":\"The concert is at two p.m. sharp.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/tretyu",
+			"seen": "{\"sentenceGloss\":\"It's half past two now.\",\"note\":\"Accusative after на, and the hour ahead: 2:30 is пів на тре́тю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/pershu",
+			"seen": "{\"sentenceGloss\":\"It's half past twelve now.\",\"note\":\"Accusative after на, and the hour ahead: 2:30 is пів на тре́тю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/hodyn",
+			"seen": "{\"sentenceGloss\":\"The train takes thirteen hours.\",\"note\":\"From 5 up, the genitive plural.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/khvylyn",
+			"seen": "{\"sentenceGloss\":\"The train arrives in five minutes.\",\"note\":\"From 5 up, the genitive plural.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/khvylyny",
+			"seen": "{\"sentenceGloss\":\"Wait two minutes.\",\"note\":\"After 2, 3 and 4.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/time-sentences/odynadtsiat",
+			"seen": "{\"sentenceGloss\":\"The train takes eleven hours.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -4871,6 +6084,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/lesson/l06",
+			"seen": "\"Lekcja 6: Czas, dni i miesiące\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/concept/h-sound",
 			"seen": "{\"title\":\"Dźwięk г\",\"body\":\"Dźwięczna spółgłoska szczelinowa, para bezdźwięcznego х. Fonetycy opisują ją różnie: /ɦ/, krtaniowa, w opublikowanej ilustracji IPA (Pompino-Marschall et al. 2017); [ʕ] przed а, о, у, и, е, [ɣʲ] w pozycji miękkiej oraz [ɣ] przed spółgłoskami dźwięcznymi i na końcu wyrazu u Wakulenki (2025), który nie znajduje przekonujących dowodów na krtaniowe [ɦ]. Zwartą /ɡ/ oznacza osobna litera ґ.\",\"sources\":[{\"title\":\"Pompino-Marschall, Steriopolo & Żygis (2017), Ukrainian, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100316000372\"},{\"title\":\"Vakulenko (2025), Balcania et Slavia 5(1)\",\"url\":\"https://edizionicafoscari.unive.it/en/edizioni4/riviste/balcania-et-slavia/2025/1/movoznavchi-ta-didaktichni-aspekti-vikhodu-z-ukray/\"}]}",
 			"verdict": "ok",
@@ -4986,9 +6204,8 @@
 		},
 		{
 			"key": "pl/concept/ty-vy",
-			"seen": "{\"title\":\"ти i ви\",\"body\":\"ви to forma grzecznościowa i zarazem liczba mnoga. Używa się jej wobec nieznanych dorosłych i w pracy, dopóki ktoś nie zaproponuje przejścia na ти: перейти́ на ти. ти jest dla przyjaciół, rodziny i dzieci.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
-			"verdict": "ok",
-			"comment": "Text is true (own knowledge). The new source could not be confirmed: the link opens EMOVA102 at a sign-in page (\"Ви повинні записатися на курс\"), with no lesson content, and it is the course home rather than this lesson."
+			"seen": "{\"title\":\"ти i ви\",\"body\":\"ви to forma grzecznościowa i zarazem liczba mnoga. Używa się jej wobec nieznanych dorosłych i w pracy, dopóki ktoś nie zaproponuje przejścia na ти: перейти́ на ти. ти jest dla przyjaciół, rodziny i dzieci.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@982bf157e9df447abfef1418fae0c800\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "pl/concept/no-to-be",
@@ -5002,9 +6219,33 @@
 		},
 		{
 			"key": "pl/concept/patronymic",
-			"seen": "{\"title\":\"Imię i imię odojcowskie\",\"body\":\"Pełne szacunku zwracanie się składa się z imienia i imienia odojcowskiego, oba w wołaczu. Żeńskie -івна lub -ївна przechodzi w -івно lub -ївно, a męskie -ович lub -йович w -овичу lub -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
-			"verdict": "ok",
-			"comment": "Endings right (Горох Павлівна, Петрович). The new source could not be confirmed: the link opens EMOVA102 at a sign-in page (\"Ви повинні записатися на курс\"), with no lesson content, and it is the course home rather than this lesson."
+			"seen": "{\"title\":\"Imię i imię odojcowskie\",\"body\":\"Pełne szacunku zwracanie się składa się z imienia i imienia odojcowskiego, oba w wołaczu. Żeńskie -івна lub -ївна przechodzi w -івно lub -ївно, a męskie -ович lub -йович w -овичу lub -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@8d4b7f7f5f5442da9f32b50eb01e23da\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/clock-time",
+			"seen": "{\"title\":\"Która godzina\",\"body\":\"Godzinę podaje się liczebnikiem porządkowym rodzaju żeńskiego, w zgodzie z годи́на, nawet gdy samo годи́на się pomija: Котра́ годи́на? — Тре́тя. „O której” to о z miejscownikiem: о тре́тій. Przed samogłoską о przechodzi w об: об одина́дцятій. „Wpół do” liczy się do następnej godziny, z на i biernikiem, więc 2:30 to пів на тре́тю.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Позначення часу: нюанси мовлення (Профспілкова преса)\",\"url\":\"https://profpressa.com/articles/poznachennia-chasu-niuansi-movlennia/print\"},{\"title\":\"об (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/об\"},{\"title\":\"Telling the Time (Elon.io, Ukrainian grammar)\",\"url\":\"https://elon.io/grammar/ukrainian/numbers/telling-time\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/count-time",
+			"seen": "{\"title\":\"Liczenie czasu\",\"body\":\"Rzeczownik po liczebniku zmienia się wraz z liczbą. Jeden: mianownik liczby pojedynczej, одна́ годи́на. Dwa, trzy i cztery: mianownik liczby mnogiej, często z akcentem dopełniacza liczby pojedynczej: дві годи́ни, дві доби́, два мі́сяці. Od pięciu: dopełniacz liczby mnogiej, п'ять годи́н. Powyżej dwudziestu decyduje ostatnia cyfra, a liczby od 11 do 14 idą jak od pięciu: одина́дцять годи́н.\",\"sources\":[{\"title\":\"Узгодження числівника й іменника (Профспілкова преса)\",\"url\":\"https://profpressa.com/articles/uzgodzhennia-chislivnika-i-imennika-sekreti-pravopisu/print\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"},{\"title\":\"дванадцять (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/дванадцять\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/teens-stress",
+			"seen": "{\"title\":\"Akcent od 11 do 19\",\"body\":\"Od 11 do 19 akcent pada na -на́дцять: одина́дцять, чотирна́дцять, дев'ятна́дцять.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/month-in",
+			"seen": "{\"title\":\"W którym miesiącu\",\"body\":\"„W tym miesiącu” to у lub в z miejscownikiem. Prawie wszystkie nazwy miesięcy kończą się miękką spółgłoską i tracą samogłoskę przed nią: сі́чень, у сі́чні. лю́тий ma formę przymiotnika, więc у лю́тому. листопа́д kończy się twardo: у листопа́ді. Nazwa miesiąca zaczyna się od spółgłoski, więc в stoi po samogłosce, a у po spółgłosce albo na początku zdania. Przed в zawsze у: у ве́ресні.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Український правопис (2019), § 23: у та в\",\"url\":\"https://2019.pravopys.net/sections/23/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/concept/season-when",
+			"seen": "{\"title\":\"W której porze roku\",\"body\":\"Na „kiedy” zwykle odpowiada jeden przysłówek, bez przyimka: взи́мку, навесні́, влі́тку, восени́. Pierwszy i trzeci mają też formę z у: узи́мку, улі́тку. Mówi się także зимо́ю, весно́ю, лі́том i о́сінню.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "pl/alphabet",
@@ -5292,6 +6533,46 @@
 			"seen": "{\"title\":\"Kraje: skąd i gdzie\",\"summary\":\"Skąd ktoś pochodzi: dopełniacz. Gdzie ktoś jest: miejscownik. Niektóre formy wypełniają oba pola.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"skąd: з …\",\"in\":\"gdzie: в / у …\"}}",
 			"verdict": "ok",
 			"comment": "All six header marks match Горох Словозміна letter by letter."
+		},
+		{
+			"key": "pl/days",
+			"seen": "{\"title\":\"Dni tygodnia\",\"summary\":\"Siedem dni, pierwszy poniedziałek. Pole podaje dzień; znajdź nazwę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/days/ponedilok",
+			"seen": "{\"clue\":\"poniedziałek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/days/vivtorok",
+			"seen": "{\"clue\":\"wtorek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/days/sereda",
+			"seen": "{\"clue\":\"środa\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/days/chetver",
+			"seen": "{\"clue\":\"czwartek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/days/pyatnytsya",
+			"seen": "{\"clue\":\"piątek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/days/subota",
+			"seen": "{\"clue\":\"sobota\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/days/nedilya",
+			"seen": "{\"clue\":\"niedziela\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "pl/family",
@@ -5639,6 +6920,11 @@
 		{
 			"key": "pl/hard-labials/sim",
 			"seen": "{\"note\":\"siedem\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/hours",
+			"seen": "{\"title\":\"Zegar\",\"summary\":\"Godzinę podaje się liczebnikiem porządkowym rodzaju żeńskiego, w zgodzie z годи́на. „O której” to о z miejscownikiem, a pół godziny liczy się do następnej godziny.\",\"headers\":{\"h1\":\"1\",\"h2\":\"2\",\"h3\":\"3\",\"h4\":\"4\",\"h5\":\"5\",\"h6\":\"6\",\"h7\":\"7\",\"h8\":\"8\",\"h9\":\"9\",\"h10\":\"10\",\"h11\":\"11\",\"h12\":\"12\",\"hour\":\"jest …\",\"at\":\"o …: о, об\",\"half\":\"wpół do: пів на …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -6154,8 +7440,273 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/l06-numbers",
+			"seen": "{\"title\":\"Liczby do zegara\",\"summary\":\"Tyle, ile trzeba do minut i dłuższych okresów. Od 11 do 19 akcent pada na -на́дцять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n11",
+			"seen": "{\"clue\":\"11\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n12",
+			"seen": "{\"clue\":\"12\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n13",
+			"seen": "{\"clue\":\"13\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n14",
+			"seen": "{\"clue\":\"14\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n15",
+			"seen": "{\"clue\":\"15\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n16",
+			"seen": "{\"clue\":\"16\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n17",
+			"seen": "{\"clue\":\"17\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n18",
+			"seen": "{\"clue\":\"18\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n19",
+			"seen": "{\"clue\":\"19\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n20",
+			"seen": "{\"clue\":\"20\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n30",
+			"seen": "{\"clue\":\"30\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n40",
+			"seen": "{\"clue\":\"40\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-numbers/n50",
+			"seen": "{\"clue\":\"50\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases",
+			"seen": "{\"title\":\"Zwroty\",\"summary\":\"Dni, miesiące i pory roku w zdaniach.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/sohodni",
+			"seen": "{\"sentenceGloss\":\"Jaki dziś dzień?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/den",
+			"seen": "{\"sentenceGloss\":\"Poniedziałek to pierwszy dzień tygodnia.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/ponedilok",
+			"seen": "{\"sentenceGloss\":\"Dziś jest wtorek, a wczoraj był poniedziałek.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/chetver",
+			"seen": "{\"sentenceGloss\":\"Dziś jest środa, a jutro będzie czwartek.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/nedilya",
+			"seen": "{\"sentenceGloss\":\"Dziś jest sobota, a jutro będzie niedziela.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/tyzhden",
+			"seen": "{\"sentenceGloss\":\"Siedem dni to jeden tydzień.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/rik",
+			"seen": "{\"sentenceGloss\":\"Dwanaście miesięcy to jeden rok.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/travni",
+			"seen": "{\"sentenceGloss\":\"Moje urodziny są w maju.\",\"note\":\"Miejscownik po у lub в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/sichni",
+			"seen": "{\"sentenceGloss\":\"W styczniu jest zimno.\",\"note\":\"Miejscownik po у lub в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/lyutomu",
+			"seen": "{\"sentenceGloss\":\"Koncert jest w lutym.\",\"note\":\"Miejscownik po у lub в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/serpni",
+			"seen": "{\"sentenceGloss\":\"Odpoczywamy w sierpniu.\",\"note\":\"Miejscownik po у lub в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/roku",
+			"seen": "{\"sentenceGloss\":\"Jaka jest twoja ulubiona pora roku?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/ulyublena",
+			"seen": "{\"sentenceGloss\":\"Jaka jest twoja ulubiona pora roku?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/vzymku",
+			"seen": "{\"sentenceGloss\":\"W Kijowie zimą jest zimno.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/navesni",
+			"seen": "{\"sentenceGloss\":\"Lubię spacerować wiosną.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/vlitku",
+			"seen": "{\"sentenceGloss\":\"Odpoczywamy latem.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-phrases/voseny",
+			"seen": "{\"sentenceGloss\":\"Jest mi smutno jesienią.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words",
+			"seen": "{\"title\":\"Słowa\",\"summary\":\"Słowa tej lekcji. Pole podaje znaczenie; znajdź słowo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/sekunda",
+			"seen": "{\"clue\":\"sekunda\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/khvylyna",
+			"seen": "{\"clue\":\"minuta\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/hodyna",
+			"seen": "{\"clue\":\"godzina\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/doba",
+			"seen": "{\"clue\":\"doba\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/den",
+			"seen": "{\"clue\":\"dzień\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/tyzhden",
+			"seen": "{\"clue\":\"tydzień\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/misyats",
+			"seen": "{\"clue\":\"miesiąc\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/rik",
+			"seen": "{\"clue\":\"rok\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/chas",
+			"seen": "{\"clue\":\"czas\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/pora-roku",
+			"seen": "{\"clue\":\"pora roku\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/sohodni",
+			"seen": "{\"clue\":\"dzisiaj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/vchora",
+			"seen": "{\"clue\":\"wczoraj\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/zavtra",
+			"seen": "{\"clue\":\"jutro\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/pislyazavtra",
+			"seen": "{\"clue\":\"pojutrze\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/rivno",
+			"seen": "{\"clue\":\"równo, punktualnie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/skilky",
+			"seen": "{\"clue\":\"ile\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/chekaty",
+			"seen": "{\"clue\":\"czekać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/vidpochyvaty",
+			"seen": "{\"clue\":\"odpoczywać\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l06-words/ulyublenyi",
+			"seen": "{\"clue\":\"ulubiony\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/letter-names",
 			"seen": "{\"title\":\"Nazwy liter\",\"summary\":\"Jak nazywa się każda litera przy literowaniu. Pole podaje literę; znajdź jej nazwę.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/months",
+			"seen": "{\"title\":\"Miesiące\",\"summary\":\"Dwanaście miesięcy i jak powiedzieć „w tym miesiącu”: у albo в z miejscownikiem.\",\"headers\":{\"m1\":\"styczeń\",\"m2\":\"luty\",\"m3\":\"marzec\",\"m4\":\"kwiecień\",\"m5\":\"maj\",\"m6\":\"czerwiec\",\"m7\":\"lipiec\",\"m8\":\"sierpień\",\"m9\":\"wrzesień\",\"m10\":\"październik\",\"m11\":\"listopad\",\"m12\":\"grudzień\",\"name\":\"miesiąc\",\"in\":\"w: у, в …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -6437,6 +7988,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/seasons",
+			"seen": "{\"title\":\"Pory roku\",\"summary\":\"Cztery pory roku i słowo na „kiedy”: zimą, wiosną.\",\"headers\":{\"winter\":\"grudzień – luty\",\"spring\":\"marzec – maj\",\"summer\":\"czerwiec – sierpień\",\"autumn\":\"wrzesień – listopad\",\"name\":\"pora roku\",\"when\":\"kiedy\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/stress-pairs",
 			"seen": "{\"title\":\"Gdzie pada akcent\",\"summary\":\"Te same litery, różne słowa: akcent jest tu zapisany i to on jest odpowiedzią. Pole podaje znaczenie; znajdź słowo.\"}",
 			"verdict": "ok"
@@ -6481,6 +8037,96 @@
 			"seen": "{\"clue\":\"atłas\"}",
 			"verdict": "ok",
 			"comment": "atłas is the Polish cognate; it tells which word, not where the stress falls, so it gives nothing away."
+		},
+		{
+			"key": "pl/time-count",
+			"seen": "{\"title\":\"Liczenie czasu\",\"summary\":\"Po 2, 3 i 4 rzeczownik ma jedną formę, a od 5 wzwyż inną.\",\"headers\":{\"sekunda\":\"секу́нда\",\"khvylyna\":\"хвили́на\",\"hodyna\":\"годи́на\",\"doba\":\"доба́\",\"den\":\"день\",\"tyzhden\":\"ти́ждень\",\"misyats\":\"мі́сяць\",\"rik\":\"рік\",\"few\":\"2, 3, 4\",\"many\":\"od 5\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences",
+			"seen": "{\"title\":\"Która godzina\",\"summary\":\"Godzina, „o której”, wpół do i jak długo coś trwa.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/hodyna",
+			"seen": "{\"sentenceGloss\":\"Przepraszam, która godzina?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/kotra",
+			"seen": "{\"sentenceGloss\":\"Proszę powiedzieć, która godzina? — Siódma.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/persha",
+			"seen": "{\"sentenceGloss\":\"Jest teraz pierwsza.\",\"note\":\"Mianownik, rodzaj żeński: w zgodzie z годи́на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/syoma",
+			"seen": "{\"sentenceGloss\":\"Jest teraz siódma.\",\"note\":\"Mianownik, rodzaj żeński: w zgodzie z годи́на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/tretii",
+			"seen": "{\"sentenceGloss\":\"Lekcja jest o trzeciej.\",\"note\":\"Miejscownik po о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/vosmii",
+			"seen": "{\"sentenceGloss\":\"Wstaję o ósmej.\",\"note\":\"Miejscownik po о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/ob",
+			"seen": "{\"sentenceGloss\":\"Lekcja jest o jedenastej.\",\"note\":\"Przed samogłoską о przechodzi w об.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/odynadtsiatii",
+			"seen": "{\"sentenceGloss\":\"Koncert jest o jedenastej.\",\"note\":\"Miejscownik po о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/kotrii",
+			"seen": "{\"sentenceGloss\":\"Proszę powiedzieć, o której zaczyna się koncert? — O siódmej.\",\"note\":\"Miejscownik po о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/rivno",
+			"seen": "{\"sentenceGloss\":\"Koncert jest punktualnie o czternastej.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/tretyu",
+			"seen": "{\"sentenceGloss\":\"Jest teraz wpół do trzeciej.\",\"note\":\"Biernik po на i następna godzina: 2:30 to пів на тре́тю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/pershu",
+			"seen": "{\"sentenceGloss\":\"Jest teraz wpół do pierwszej.\",\"note\":\"Biernik po на i następna godzina: 2:30 to пів на тре́тю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/hodyn",
+			"seen": "{\"sentenceGloss\":\"Pociąg jedzie trzynaście godzin.\",\"note\":\"Od 5 wzwyż, dopełniacz liczby mnogiej.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/khvylyn",
+			"seen": "{\"sentenceGloss\":\"Pociąg przyjedzie za pięć minut.\",\"note\":\"Od 5 wzwyż, dopełniacz liczby mnogiej.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/khvylyny",
+			"seen": "{\"sentenceGloss\":\"Poczekaj dwie minuty.\",\"note\":\"Po 2, 3 i 4.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/time-sentences/odynadtsiat",
+			"seen": "{\"sentenceGloss\":\"Pociąg jedzie jedenaście godzin.\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "pl/unstressed-o",
@@ -6820,6 +8466,16 @@
 			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
 		},
 		{
+			"key": "pl-en/hours/h3.at",
+			"seen": "{\"contrast\":\"Polish o trzeciej has the same pattern: о, an ordinal and the locative.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/hours/h3.half",
+			"seen": "{\"contrast\":\"Polish wpół do trzeciej also names the hour ahead, but with do and the genitive.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-en/i-or-y/lis",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"lis\",\"means\":\"is the animal, in Ukrainian лис; ліс means forest\"}}",
 			"verdict": "ok"
@@ -6865,6 +8521,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-en/l06-words/khvylyna",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"chwila\",\"means\":\"a moment. Ukrainian хвили́на is a minute\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/months/m1.in",
+			"seen": "{\"contrast\":\"Polish w styczniu has the same pattern: a preposition and the locative.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-en/past/he.chytaty",
 			"seen": "{\"contrast\":\"Polish adds a person ending: czytałem, czytałeś. Ukrainian says я чита́в and ти чита́в, with no ending for the person.\"}",
 			"verdict": "ok",
@@ -6885,6 +8551,11 @@
 		{
 			"key": "pl-en/pronouns-personal/ya.dat",
 			"seen": "{\"contrast\":\"Polish mnie serves here, and in the genitive and accusative too. Ukrainian tells мене́ from мені́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/seasons/winter.when",
+			"seen": "{\"contrast\":\"Polish zimą, an instrumental. Ukrainian has the adverb взи́мку, and зимо́ю as well.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -7026,6 +8697,16 @@
 			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
 		},
 		{
+			"key": "pl-pl/hours/h3.at",
+			"seen": "{\"contrast\":\"Polskie o trzeciej ma ten sam wzór: о, liczebnik porządkowy i miejscownik.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/hours/h3.half",
+			"seen": "{\"contrast\":\"Polskie wpół do trzeciej też wskazuje następną godzinę, ale z do i dopełniaczem.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-pl/i-or-y/lis",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"lis\",\"means\":\"to zwierzę, po ukraińsku лис; ліс znaczy las\"}}",
 			"verdict": "ok"
@@ -7071,6 +8752,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-pl/l06-words/khvylyna",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"chwila\",\"means\":\"to krótki moment. Ukraińskie хвили́на znaczy „minuta”\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/months/m1.in",
+			"seen": "{\"contrast\":\"Polskie w styczniu ma ten sam wzór: przyimek i miejscownik.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-pl/past/he.chytaty",
 			"seen": "{\"contrast\":\"Polski dodaje końcówkę osobową: czytałem, czytałeś. Po ukraińsku я чита́в i ти чита́в, bez końcówki osobowej.\"}",
 			"verdict": "ok",
@@ -7091,6 +8782,11 @@
 		{
 			"key": "pl-pl/pronouns-personal/ya.dat",
 			"seen": "{\"contrast\":\"Polskie mnie służy tu, a także w dopełniaczu i bierniku. Ukraiński rozróżnia мене́ i мені́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/seasons/winter.when",
+			"seen": "{\"contrast\":\"Po polsku zimą, narzędnik. Po ukraińsku przysłówek взи́мку, a także зимо́ю.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -7231,6 +8927,16 @@
 			"comment": "Claim checked: Russian on en.wiktionary читать, писать, любить; Polish on czytać, robić; Ukrainian on Goroh."
 		},
 		{
+			"key": "pl-uk/hours/h3.at",
+			"seen": "{\"contrast\":\"Польське o trzeciej має той самий зразок: о, порядковий числівник і місцевий відмінок.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/hours/h3.half",
+			"seen": "{\"contrast\":\"Польське wpół do trzeciej теж указує наступну годину, але із do та родовим відмінком.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-uk/i-or-y/lis",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"lis\",\"means\":\"означає тварину, українською лис; ліс — це багато дерев\"}}",
 			"verdict": "ok"
@@ -7276,6 +8982,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-uk/l06-words/khvylyna",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"chwila\",\"means\":\"польською це коротка мить, а не шістдесят секунд\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/months/m1.in",
+			"seen": "{\"contrast\":\"Польське w styczniu має той самий зразок: прийменник і місцевий відмінок.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-uk/past/he.chytaty",
 			"seen": "{\"contrast\":\"Польська додає особове закінчення: czytałem, czytałeś. Українською я чита́в і ти чита́в, без особового закінчення.\"}",
 			"verdict": "ok",
@@ -7296,6 +9012,11 @@
 		{
 			"key": "pl-uk/pronouns-personal/ya.dat",
 			"seen": "{\"contrast\":\"Польське mnie вживається тут, а також у родовому і знахідному. Українська розрізняє мене́ і мені́.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/seasons/winter.when",
+			"seen": "{\"contrast\":\"Польською zimą, орудний відмінок. Українською прислівник взи́мку, а також зимо́ю.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -7366,6 +9087,11 @@
 		{
 			"key": "ru/lesson/l09",
 			"seen": "\"Урок 9: Моя семья\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l06",
+			"seen": "\"Урок 6: Время, дни и месяцы\"",
 			"verdict": "ok"
 		},
 		{
@@ -7485,9 +9211,8 @@
 		},
 		{
 			"key": "ru/concept/ty-vy",
-			"seen": "{\"title\":\"ти и ви\",\"body\":\"ви это и вежливая форма, и множественное число. Его употребляют с незнакомыми взрослыми и на работе, пока вам не предложат перейти́ на ти. ти для друзей, семьи и детей.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
-			"verdict": "ok",
-			"comment": "Text is true (own knowledge). The new source could not be confirmed: the link opens EMOVA102 at a sign-in page (\"Ви повинні записатися на курс\"), with no lesson content, and it is the course home rather than this lesson."
+			"seen": "{\"title\":\"ти и ви\",\"body\":\"ви это и вежливая форма, и множественное число. Его употребляют с незнакомыми взрослыми и на работе, пока вам не предложат перейти́ на ти. ти для друзей, семьи и детей.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@982bf157e9df447abfef1418fae0c800\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "ru/concept/no-to-be",
@@ -7501,9 +9226,33 @@
 		},
 		{
 			"key": "ru/concept/patronymic",
-			"seen": "{\"title\":\"Имя и отчество\",\"body\":\"Уважительное обращение состоит из имени и отчества, оба в звательном падеже. Женское -івна или -ївна становится -івно или -ївно, а мужское -ович или -йович становится -овичу или -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
-			"verdict": "ok",
-			"comment": "Endings right (Горох Павлівна, Петрович). The new source could not be confirmed: the link opens EMOVA102 at a sign-in page (\"Ви повинні записатися на курс\"), with no lesson content, and it is the course home rather than this lesson."
+			"seen": "{\"title\":\"Имя и отчество\",\"body\":\"Уважительное обращение состоит из имени и отчества, оба в звательном падеже. Женское -івна или -ївна становится -івно или -ївно, а мужское -ович или -йович становится -овичу или -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@8d4b7f7f5f5442da9f32b50eb01e23da\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/clock-time",
+			"seen": "{\"title\":\"Который час\",\"body\":\"Час называют порядковым числительным женского рода, в согласии с годи́на, даже если само годи́на опущено: Котра́ годи́на? — Тре́тя. На вопрос «во сколько» отвечают с о и местным падежом: о тре́тій. Перед гласным о становится об: об одина́дцятій. Половину часа считают к следующему часу с на и винительным падежом, так что 2:30 это пів на тре́тю.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Позначення часу: нюанси мовлення (Профспілкова преса)\",\"url\":\"https://profpressa.com/articles/poznachennia-chasu-niuansi-movlennia/print\"},{\"title\":\"об (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/об\"},{\"title\":\"Telling the Time (Elon.io, Ukrainian grammar)\",\"url\":\"https://elon.io/grammar/ukrainian/numbers/telling-time\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/count-time",
+			"seen": "{\"title\":\"Счёт времени\",\"body\":\"Существительное после числа меняется вместе с числом. Один: именительный падеж единственного числа, одна́ годи́на. Два, три и четыре: именительный падеж множественного числа, часто с ударением родительного падежа единственного числа: дві годи́ни, дві доби́, два мі́сяці. От пяти: родительный падеж множественного числа, п'ять годи́н. Выше двадцати решает последняя цифра, а числа от 11 до 14 идут как от пяти: одина́дцять годи́н.\",\"sources\":[{\"title\":\"Узгодження числівника й іменника (Профспілкова преса)\",\"url\":\"https://profpressa.com/articles/uzgodzhennia-chislivnika-i-imennika-sekreti-pravopisu/print\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"},{\"title\":\"дванадцять (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/дванадцять\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/teens-stress",
+			"seen": "{\"title\":\"Ударение от 11 до 19\",\"body\":\"От 11 до 19 ударение падает на -на́дцять: одина́дцять, чотирна́дцять, дев'ятна́дцять.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/month-in",
+			"seen": "{\"title\":\"В каком месяце\",\"body\":\"«В таком-то месяце» это у или в с местным падежом. Почти все названия месяцев кончаются на мягкий согласный и теряют гласный перед ним: сі́чень, у сі́чні. лю́тий по форме прилагательное, поэтому у лю́тому. листопа́д кончается твёрдо: у листопа́ді. Название месяца начинается с согласного, поэтому в идёт после гласного, а у после согласного или в начале предложения. Перед в всегда у: у ве́ресні.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Український правопис (2019), § 23: у та в\",\"url\":\"https://2019.pravopys.net/sections/23/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/concept/season-when",
+			"seen": "{\"title\":\"В какое время года\",\"body\":\"На вопрос «когда» обычно отвечают одним наречием, без предлога: взи́мку, навесні́, влі́тку, восени́. Первое и третье бывают и с у: узи́мку, улі́тку. Говорят также зимо́ю, весно́ю, лі́том и о́сінню.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "ru/alphabet",
@@ -7791,6 +9540,46 @@
 			"seen": "{\"title\":\"Страны: откуда и где\",\"summary\":\"Откуда кто-то: родительный падеж. Где кто-то: местный. Некоторые формы занимают обе клетки.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"откуда: з …\",\"in\":\"где: в / у …\"}}",
 			"verdict": "ok",
 			"comment": "All six header marks match Горох Словозміна letter by letter."
+		},
+		{
+			"key": "ru/days",
+			"seen": "{\"title\":\"Дни недели\",\"summary\":\"Семь дней, первый понедельник. На плитке день; найдите название.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/days/ponedilok",
+			"seen": "{\"clue\":\"понедельник\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/days/vivtorok",
+			"seen": "{\"clue\":\"вторник\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/days/sereda",
+			"seen": "{\"clue\":\"среда\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/days/chetver",
+			"seen": "{\"clue\":\"четверг\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/days/pyatnytsya",
+			"seen": "{\"clue\":\"пятница\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/days/subota",
+			"seen": "{\"clue\":\"суббота\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/days/nedilya",
+			"seen": "{\"clue\":\"воскресенье\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "ru/family",
@@ -8139,6 +9928,11 @@
 		{
 			"key": "ru/hard-labials/sim",
 			"seen": "{\"note\":\"семь\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/hours",
+			"seen": "{\"title\":\"Часы\",\"summary\":\"Час называют порядковым числительным женского рода, в согласии с годи́на. На вопрос «когда» отвечают с о и местным падежом, а полчаса считают к следующему часу.\",\"headers\":{\"h1\":\"1\",\"h2\":\"2\",\"h3\":\"3\",\"h4\":\"4\",\"h5\":\"5\",\"h6\":\"6\",\"h7\":\"7\",\"h8\":\"8\",\"h9\":\"9\",\"h10\":\"10\",\"h11\":\"11\",\"h12\":\"12\",\"hour\":\"сейчас …\",\"at\":\"в …: о, об\",\"half\":\"за полчаса до: пів на …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -8652,8 +10446,273 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/l06-numbers",
+			"seen": "{\"title\":\"Числа для часов\",\"summary\":\"Всё, что нужно для минут и длинных сроков. От 11 до 19 ударение падает на -на́дцять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n11",
+			"seen": "{\"clue\":\"11\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n12",
+			"seen": "{\"clue\":\"12\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n13",
+			"seen": "{\"clue\":\"13\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n14",
+			"seen": "{\"clue\":\"14\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n15",
+			"seen": "{\"clue\":\"15\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n16",
+			"seen": "{\"clue\":\"16\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n17",
+			"seen": "{\"clue\":\"17\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n18",
+			"seen": "{\"clue\":\"18\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n19",
+			"seen": "{\"clue\":\"19\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n20",
+			"seen": "{\"clue\":\"20\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n30",
+			"seen": "{\"clue\":\"30\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n40",
+			"seen": "{\"clue\":\"40\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-numbers/n50",
+			"seen": "{\"clue\":\"50\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases",
+			"seen": "{\"title\":\"Фразы\",\"summary\":\"Дни, месяцы и времена года в предложениях.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/sohodni",
+			"seen": "{\"sentenceGloss\":\"Какой сегодня день?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/den",
+			"seen": "{\"sentenceGloss\":\"Понедельник — первый день недели.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/ponedilok",
+			"seen": "{\"sentenceGloss\":\"Сегодня вторник, а вчера был понедельник.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/chetver",
+			"seen": "{\"sentenceGloss\":\"Сегодня среда, а завтра будет четверг.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/nedilya",
+			"seen": "{\"sentenceGloss\":\"Сегодня суббота, а завтра будет воскресенье.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/tyzhden",
+			"seen": "{\"sentenceGloss\":\"Семь дней — это одна неделя.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/rik",
+			"seen": "{\"sentenceGloss\":\"Двенадцать месяцев — это один год.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/travni",
+			"seen": "{\"sentenceGloss\":\"Мой день рождения в мае.\",\"note\":\"Местный падеж после у или в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/sichni",
+			"seen": "{\"sentenceGloss\":\"В январе холодно.\",\"note\":\"Местный падеж после у или в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/lyutomu",
+			"seen": "{\"sentenceGloss\":\"Концерт в феврале.\",\"note\":\"Местный падеж после у или в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/serpni",
+			"seen": "{\"sentenceGloss\":\"Мы отдыхаем в августе.\",\"note\":\"Местный падеж после у или в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/roku",
+			"seen": "{\"sentenceGloss\":\"Какое твоё любимое время года?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/ulyublena",
+			"seen": "{\"sentenceGloss\":\"Какое твоё любимое время года?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/vzymku",
+			"seen": "{\"sentenceGloss\":\"В Киеве зимой холодно.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/navesni",
+			"seen": "{\"sentenceGloss\":\"Я люблю гулять весной.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/vlitku",
+			"seen": "{\"sentenceGloss\":\"Мы отдыхаем летом.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-phrases/voseny",
+			"seen": "{\"sentenceGloss\":\"Мне грустно осенью.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words",
+			"seen": "{\"title\":\"Слова\",\"summary\":\"Слова этого урока. На плитке значение; найдите слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/sekunda",
+			"seen": "{\"clue\":\"секунда\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/khvylyna",
+			"seen": "{\"clue\":\"минута\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/hodyna",
+			"seen": "{\"clue\":\"час (60 минут)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/doba",
+			"seen": "{\"clue\":\"сутки\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/den",
+			"seen": "{\"clue\":\"день\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/tyzhden",
+			"seen": "{\"clue\":\"неделя\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/misyats",
+			"seen": "{\"clue\":\"месяц\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/rik",
+			"seen": "{\"clue\":\"год\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/chas",
+			"seen": "{\"clue\":\"время\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/pora-roku",
+			"seen": "{\"clue\":\"время года\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/sohodni",
+			"seen": "{\"clue\":\"сегодня\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/vchora",
+			"seen": "{\"clue\":\"вчера\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/zavtra",
+			"seen": "{\"clue\":\"завтра\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/pislyazavtra",
+			"seen": "{\"clue\":\"послезавтра\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/rivno",
+			"seen": "{\"clue\":\"ровно\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/skilky",
+			"seen": "{\"clue\":\"сколько\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/chekaty",
+			"seen": "{\"clue\":\"ждать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/vidpochyvaty",
+			"seen": "{\"clue\":\"отдыхать\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l06-words/ulyublenyi",
+			"seen": "{\"clue\":\"любимый\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/letter-names",
 			"seen": "{\"title\":\"Названия букв\",\"summary\":\"Как называется каждая буква, когда слово произносят по буквам. На плитке буква; найдите её название.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/months",
+			"seen": "{\"title\":\"Месяцы\",\"summary\":\"Двенадцать месяцев и как сказать «в таком-то месяце»: у или в с местным падежом.\",\"headers\":{\"m1\":\"январь\",\"m2\":\"февраль\",\"m3\":\"март\",\"m4\":\"апрель\",\"m5\":\"май\",\"m6\":\"июнь\",\"m7\":\"июль\",\"m8\":\"август\",\"m9\":\"сентябрь\",\"m10\":\"октябрь\",\"m11\":\"ноябрь\",\"m12\":\"декабрь\",\"name\":\"месяц\",\"in\":\"в: у, в …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -8936,6 +10995,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/seasons",
+			"seen": "{\"title\":\"Времена года\",\"summary\":\"Четыре времени года и слово для «когда»: зимой, весной.\",\"headers\":{\"winter\":\"декабрь – февраль\",\"spring\":\"март – май\",\"summer\":\"июнь – август\",\"autumn\":\"сентябрь – ноябрь\",\"name\":\"время года\",\"when\":\"когда\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/stress-pairs",
 			"seen": "{\"title\":\"Куда падает ударение\",\"summary\":\"Одни и те же буквы, разные слова: ударение здесь показано, и оно и есть ответ. На плитке значение; найдите слово.\"}",
 			"verdict": "ok"
@@ -8980,6 +11044,96 @@
 		{
 			"key": "ru/stress-pairs/satin",
 			"seen": "{\"clue\":\"блестящая ткань\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-count",
+			"seen": "{\"title\":\"Сколько времени\",\"summary\":\"После 2, 3 и 4 у существительного одна форма, а от 5 и выше другая.\",\"headers\":{\"sekunda\":\"секу́нда\",\"khvylyna\":\"хвили́на\",\"hodyna\":\"годи́на\",\"doba\":\"доба́\",\"den\":\"день\",\"tyzhden\":\"ти́ждень\",\"misyats\":\"мі́сяць\",\"rik\":\"рік\",\"few\":\"2, 3, 4\",\"many\":\"от 5\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences",
+			"seen": "{\"title\":\"Который час\",\"summary\":\"Время, «во столько-то», половина часа и сколько что-то длится.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/hodyna",
+			"seen": "{\"sentenceGloss\":\"Простите, который час?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/kotra",
+			"seen": "{\"sentenceGloss\":\"Скажите, пожалуйста, который час? — Семь.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/persha",
+			"seen": "{\"sentenceGloss\":\"Сейчас час.\",\"note\":\"Именительный падеж, женский род: в согласии с годи́на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/syoma",
+			"seen": "{\"sentenceGloss\":\"Сейчас семь часов.\",\"note\":\"Именительный падеж, женский род: в согласии с годи́на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/tretii",
+			"seen": "{\"sentenceGloss\":\"Урок в три часа.\",\"note\":\"Местный падеж после о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/vosmii",
+			"seen": "{\"sentenceGloss\":\"Я встаю в восемь часов.\",\"note\":\"Местный падеж после о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/ob",
+			"seen": "{\"sentenceGloss\":\"Урок в одиннадцать часов.\",\"note\":\"Перед гласным о становится об.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/odynadtsiatii",
+			"seen": "{\"sentenceGloss\":\"Концерт в одиннадцать часов.\",\"note\":\"Местный падеж после о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/kotrii",
+			"seen": "{\"sentenceGloss\":\"Скажите, в котором часу начинается концерт? — В семь.\",\"note\":\"Местный падеж после о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/rivno",
+			"seen": "{\"sentenceGloss\":\"Концерт ровно в четырнадцать часов.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/tretyu",
+			"seen": "{\"sentenceGloss\":\"Сейчас половина третьего.\",\"note\":\"Винительный падеж после на, и следующий час: 2:30 это пів на тре́тю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/pershu",
+			"seen": "{\"sentenceGloss\":\"Сейчас половина первого.\",\"note\":\"Винительный падеж после на, и следующий час: 2:30 это пів на тре́тю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/hodyn",
+			"seen": "{\"sentenceGloss\":\"Поезд идёт тринадцать часов.\",\"note\":\"От 5 и выше, родительный падеж множественного числа.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/khvylyn",
+			"seen": "{\"sentenceGloss\":\"Поезд прибудет через пять минут.\",\"note\":\"От 5 и выше, родительный падеж множественного числа.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/khvylyny",
+			"seen": "{\"sentenceGloss\":\"Подожди две минуты.\",\"note\":\"После 2, 3 и 4.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/time-sentences/odynadtsiat",
+			"seen": "{\"sentenceGloss\":\"Поезд идёт одиннадцать часов.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -9248,6 +11402,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-en/days/nedilya",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"неделя\",\"means\":\"a week: Ukrainian ти́ждень. Ukrainian неді́ля is Sunday\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-en/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"человек\",\"means\":\"means any person, in Ukrainian людина; чоловік means a man or husband\"}}",
 			"verdict": "ok",
@@ -9285,6 +11444,21 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-en/hours/h3.hour",
+			"seen": "{\"contrast\":\"Russian три часа́, a cardinal and the noun. Ukrainian тре́тя, an ordinal.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/hours/h3.at",
+			"seen": "{\"contrast\":\"Russian в три часа́. Ukrainian о тре́тій, with о and the locative.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/hours/h3.half",
+			"seen": "{\"contrast\":\"Russian полови́на тре́тьего, in the genitive. Ukrainian пів на тре́тю, with на and the accusative.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-en/i-or-y/kit",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"кит\",\"means\":\"means whale in both languages; кіт means cat\"}}",
 			"verdict": "ok"
@@ -9319,6 +11493,36 @@
 		{
 			"key": "ru-en/l05-words/pohano",
 			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"погано\",\"means\":\"a stronger word: foul, nasty. Ukrainian пога́но is plain badly\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l06-numbers/n11",
+			"seen": "{\"contrast\":\"Russian stresses оди́ннадцать. Ukrainian stresses -на́дцять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l06-numbers/n14",
+			"seen": "{\"contrast\":\"Russian stresses четы́рнадцать. Ukrainian stresses -на́дцять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l06-words/chas",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"час\",\"means\":\"an hour. Ukrainian час is time, and an hour is годи́на\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/months/m2.name",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"лютый\",\"means\":\"fierce, and never a month. As a month Ukrainian лю́тий is February\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/months/m11.name",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"листопад\",\"means\":\"falling leaves, and in modern Russian not a month. Ukrainian листопа́д is November\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/months/m1.in",
+			"seen": "{\"contrast\":\"Russian в январе, with the Latin month names. The locative works the same way.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -9376,6 +11580,11 @@
 			"seen": "{\"contrast\":\"Not every ё becomes йо: after a soft consonant it is ьо (льон, for лён), after ж and ч it is о (жовтий, чорний), and many words have another vowel (мед).\"}",
 			"verdict": "ok",
 			"comment": "Facts hold: льон [lʲɔn], жовтий, чорний (Wiktionary); ьо after soft consonants (teletype.in/@avramenko_conspects/rk1x1F-pS). Exceptions after ж, ч such as учений for учёный fall under \"another vowel\". Minor: (мед) gives no Russian form, and a Russian reader may write мед for мёд, so the point is easy to miss; optional. Natural English."
+		},
+		{
+			"key": "ru-en/seasons/winter.when",
+			"seen": "{\"contrast\":\"Russian зимо́й, an instrumental. Ukrainian has the adverb взи́мку, and зимо́ю as well.\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "ru-ru/concept/o-unreduced",
@@ -9444,6 +11653,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-ru/days/nedilya",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"неделя\",\"means\":\"по-украински ти́ждень. Украинское неді́ля значит «воскресенье»\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-ru/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"человек\",\"means\":\"значит «любой человек», по-украински людина; чоловік значит «мужчина, муж»\"}}",
 			"verdict": "ok",
@@ -9481,6 +11695,21 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-ru/hours/h3.hour",
+			"seen": "{\"contrast\":\"По-русски три часа́, количественное числительное и существительное. По-украински тре́тя, порядковое.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/hours/h3.at",
+			"seen": "{\"contrast\":\"По-русски в три часа́. По-украински о тре́тій, с о и местным падежом.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/hours/h3.half",
+			"seen": "{\"contrast\":\"По-русски полови́на тре́тьего, родительный падеж. По-украински пів на тре́тю, с на и винительным падежом.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-ru/i-or-y/kit",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"кит\",\"means\":\"значит «кит» в обоих языках; кіт значит «кот»\"}}",
 			"verdict": "ok"
@@ -9515,6 +11744,36 @@
 		{
 			"key": "ru-ru/l05-words/pohano",
 			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"погано\",\"means\":\"по-русски слово грубее: мерзко, скверно. Украинское пога́но значит просто «плохо»\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l06-numbers/n11",
+			"seen": "{\"contrast\":\"По-русски ударение оди́ннадцать. По-украински на -на́дцять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l06-numbers/n14",
+			"seen": "{\"contrast\":\"По-русски ударение четы́рнадцать. По-украински на -на́дцять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l06-words/chas",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"час\",\"means\":\"по-русски 60 минут. Украинское час значит «время», а 60 минут это годи́на\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/months/m2.name",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"лютый\",\"means\":\"по-русски свирепый, но не месяц. Как месяц украинское лю́тий значит «февраль»\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/months/m11.name",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"листопад\",\"means\":\"в современном русском опадание листьев, но не месяц. Украинское листопа́д значит «ноябрь»\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/months/m1.in",
+			"seen": "{\"contrast\":\"По-русски в январе, с латинским названием месяца. Местный падеж работает так же.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -9572,6 +11831,11 @@
 			"seen": "{\"contrast\":\"Не каждое ё становится йо: после мягкого согласного пишется ьо (льон, по-русски лён), после ж и ч — о (жовтий, чорний), а во многих словах стоит другой гласный (мед).\"}",
 			"verdict": "ok",
 			"comment": "Facts hold: льон [lʲɔn], жовтий, чорний (Wiktionary); ьо after soft consonants (teletype.in/@avramenko_conspects/rk1x1F-pS). Exceptions after ж, ч such as учений for учёный fall under \"another vowel\". Minor: (мед) gives no Russian form, and a Russian reader may write мед for мёд, so the point is easy to miss; optional. Natural Russian."
+		},
+		{
+			"key": "ru-ru/seasons/winter.when",
+			"seen": "{\"contrast\":\"По-русски зимо́й, творительный падеж. По-украински наречие взи́мку, а также зимо́ю.\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "ru-uk/concept/o-unreduced",
@@ -9641,6 +11905,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru-uk/days/nedilya",
+			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"неделя\",\"means\":\"російською це ти́ждень, а не сьомий його день\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru-uk/family/cholovik",
 			"seen": "{\"falseFriend\":{\"kind\":\"lookalike\",\"form\":\"человек\",\"means\":\"означає будь-яку особу, українською людина; чоловік — це особа чоловічої статі або той, хто одружений із жінкою\"}}",
 			"verdict": "ok"
@@ -9674,6 +11943,21 @@
 		{
 			"key": "ru-uk/h-or-g/hora",
 			"seen": "{\"contrast\":\"Найчастіша відповідність: російському г зазвичай відповідає українське г, а не ґ.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/hours/h3.hour",
+			"seen": "{\"contrast\":\"Російською три часа́, кількісний числівник з іменником. Українською тре́тя, порядковий.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/hours/h3.at",
+			"seen": "{\"contrast\":\"Російською в три часа́. Українською о тре́тій, із о та місцевим відмінком.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/hours/h3.half",
+			"seen": "{\"contrast\":\"Російською полови́на тре́тьего, родовий відмінок. Українською пів на тре́тю, із на та знахідним відмінком.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -9711,6 +11995,36 @@
 		{
 			"key": "ru-uk/l05-words/pohano",
 			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"погано\",\"means\":\"російською це грубіше слово: гидко. Українське пога́но означає просто недобре\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l06-numbers/n11",
+			"seen": "{\"contrast\":\"Російською наголос оди́ннадцать. Українською на -на́дцять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l06-numbers/n14",
+			"seen": "{\"contrast\":\"Російською наголос четы́рнадцать. Українською на -на́дцять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l06-words/chas",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"час\",\"means\":\"російською це годи́на. Українське час означає плин часу загалом\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/months/m2.name",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"лютый\",\"means\":\"російською це жорстокий, а місяця так не називають\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/months/m11.name",
+			"seen": "{\"falseFriend\":{\"kind\":\"homograph\",\"form\":\"листопад\",\"means\":\"у сучасній російській це лише опадання листя, а місяця так не називають\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/months/m1.in",
+			"seen": "{\"contrast\":\"Російською в январе, із латинською назвою місяця. Місцевий відмінок працює так само.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -9768,6 +12082,11 @@
 			"seen": "{\"contrast\":\"Не кожне ё стає йо: після м'якого приголосного пишеться ьо (льон, російською лён), після ж і ч — о (жовтий, чорний), а в багатьох словах стоїть інший голосний (мед).\"}",
 			"verdict": "ok",
 			"comment": "Facts hold: льон [lʲɔn], жовтий, чорний (Wiktionary); ьо after soft consonants (teletype.in/@avramenko_conspects/rk1x1F-pS). Exceptions after ж, ч such as учений for учёный fall under \"another vowel\". Minor: (мед) gives no Russian form, and a Russian reader may write мед for мёд, so the point is easy to miss; optional. Natural Ukrainian."
+		},
+		{
+			"key": "ru-uk/seasons/winter.when",
+			"seen": "{\"contrast\":\"Російською зимо́й, орудний відмінок. Українською прислівник взи́мку, а також зимо́ю.\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "uk/section/sounds",
@@ -9837,6 +12156,11 @@
 		{
 			"key": "uk/lesson/l09",
 			"seen": "\"Урок 9: Моя сім'я\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l06",
+			"seen": "\"Урок 6: Час, дні й місяці\"",
 			"verdict": "ok"
 		},
 		{
@@ -9955,9 +12279,8 @@
 		},
 		{
 			"key": "uk/concept/ty-vy",
-			"seen": "{\"title\":\"ти і ви\",\"body\":\"ви це і ввічлива форма, і множина. Її вживають із незнайомими дорослими та на роботі, доки вам не запропонують перейти́ на ти. ти для друзів, родини й дітей.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
-			"verdict": "ok",
-			"comment": "Text is true (own knowledge). The new source could not be confirmed: the link opens EMOVA102 at a sign-in page (\"Ви повинні записатися на курс\"), with no lesson content, and it is the course home rather than this lesson."
+			"seen": "{\"title\":\"ти і ви\",\"body\":\"ви це і ввічлива форма, і множина. Її вживають із незнайомими дорослими та на роботі, доки вам не запропонують перейти́ на ти. ти для друзів, родини й дітей.\",\"sources\":[{\"title\":\"Є-мова, урок 4: Знайомство, або Як тебе звати\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@982bf157e9df447abfef1418fae0c800\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "uk/concept/no-to-be",
@@ -9971,9 +12294,33 @@
 		},
 		{
 			"key": "uk/concept/patronymic",
-			"seen": "{\"title\":\"Ім'я і по батькові\",\"body\":\"Шанобливе звертання складається з імені та імені по батькові, обидва в кличному відмінку. Жіноче -івна або -ївна стає -івно або -ївно, а чоловіче -ович або -йович стає -овичу або -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/course/\"}]}",
-			"verdict": "ok",
-			"comment": "Endings right (Горох Павлівна, Петрович). The new source could not be confirmed: the link opens EMOVA102 at a sign-in page (\"Ви повинні записатися на курс\"), with no lesson content, and it is the course home rather than this lesson."
+			"seen": "{\"title\":\"Ім'я і по батькові\",\"body\":\"Шанобливе звертання складається з імені та імені по батькові, обидва в кличному відмінку. Жіноче -івна або -ївна стає -івно або -ївно, а чоловіче -ович або -йович стає -овичу або -йовичу.\",\"sources\":[{\"title\":\"Є-мова, урок 5: Привітання. Звертання. Етикетні формули\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@8d4b7f7f5f5442da9f32b50eb01e23da\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/clock-time",
+			"seen": "{\"title\":\"Котра година\",\"body\":\"Годину називають порядковим числівником жіночого роду, бо він узгоджується зі словом годи́на, навіть коли його пропускають: Котра́ годи́на? — Тре́тя. На питання «о котрій» відповідають із о та місцевим відмінком: о тре́тій. Перед голосним о стає об: об одина́дцятій. Пів години рахують до наступної, із на та знахідним відмінком, тож 2:30 це пів на тре́тю.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Позначення часу: нюанси мовлення (Профспілкова преса)\",\"url\":\"https://profpressa.com/articles/poznachennia-chasu-niuansi-movlennia/print\"},{\"title\":\"об (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/об\"},{\"title\":\"Telling the Time (Elon.io, Ukrainian grammar)\",\"url\":\"https://elon.io/grammar/ukrainian/numbers/telling-time\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/count-time",
+			"seen": "{\"title\":\"Лічба часу\",\"body\":\"Іменник після числа змінюється разом із числом. Один: називний відмінок однини, одна́ годи́на. Два, три й чотири: називний відмінок множини, часто з наголосом родового однини: дві годи́ни, дві доби́, два мі́сяці. Від п'яти: родовий відмінок множини, п'ять годи́н. Понад двадцять вирішує остання цифра, а числа від 11 до 14 ідуть як від п'яти: одина́дцять годи́н.\",\"sources\":[{\"title\":\"Узгодження числівника й іменника (Профспілкова преса)\",\"url\":\"https://profpressa.com/articles/uzgodzhennia-chislivnika-i-imennika-sekreti-pravopisu/print\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"},{\"title\":\"дванадцять (English Wiktionary)\",\"url\":\"https://en.wiktionary.org/wiki/дванадцять\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/teens-stress",
+			"seen": "{\"title\":\"Наголос від 11 до 19\",\"body\":\"Від 11 до 19 наголос падає на -на́дцять: одина́дцять, чотирна́дцять, дев'ятна́дцять.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/month-in",
+			"seen": "{\"title\":\"У якому місяці\",\"body\":\"Коли саме: у або в із місцевим відмінком. Майже всі назви місяців закінчуються на м'який приголосний і втрачають голосний перед ним: сі́чень, у сі́чні. лю́тий за формою прикметник, тому у лю́тому. листопа́д закінчується твердо: у листопа́ді. Назва місяця починається з приголосного, тому в стоїть після голосного, а у після приголосного або на початку речення. Перед в завжди у: у ве́ресні.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Український правопис (2019), § 23: у та в\",\"url\":\"https://2019.pravopys.net/sections/23/\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/concept/season-when",
+			"seen": "{\"title\":\"Коли саме\",\"body\":\"На питання «коли» зазвичай відповідають одним прислівником, без прийменника: взи́мку, навесні́, влі́тку, восени́. Перший і третій мають також форму з у: узи́мку, улі́тку. Кажуть також зимо́ю, весно́ю, лі́том і о́сінню.\",\"sources\":[{\"title\":\"Є-мова, урок 6: Час і період. Місяці\",\"url\":\"https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3da4bd125f684893913224a5ba6414ea\"},{\"title\":\"Горох, Ukrainian dictionary\",\"url\":\"https://goroh.pp.ua/\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "uk/alphabet",
@@ -10260,6 +12607,46 @@
 			"seen": "{\"title\":\"Країни: звідки і де\",\"summary\":\"Звідки хтось: родовий відмінок. Де хтось: місцевий. Деякі форми займають обидві клітинки.\",\"headers\":{\"ukraine\":\"Украї́на\",\"poland\":\"По́льща\",\"germany\":\"Німе́ччина\",\"italy\":\"Іта́лія\",\"spain\":\"Іспа́нія\",\"france\":\"Фра́нція\",\"from\":\"звідки: з …\",\"in\":\"де: в / у …\"}}",
 			"verdict": "ok",
 			"comment": "All six header marks match Горох Словозміна letter by letter."
+		},
+		{
+			"key": "uk/days",
+			"seen": "{\"title\":\"Дні тижня\",\"summary\":\"Сім днів, перший понеділок. На плитці номер дня; знайдіть назву.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/days/ponedilok",
+			"seen": "{\"clue\":\"перший день тижня\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/days/vivtorok",
+			"seen": "{\"clue\":\"другий день тижня\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/days/sereda",
+			"seen": "{\"clue\":\"третій день тижня\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/days/chetver",
+			"seen": "{\"clue\":\"день після середи\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/days/pyatnytsya",
+			"seen": "{\"clue\":\"п'ятий день тижня\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/days/subota",
+			"seen": "{\"clue\":\"шостий день тижня\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/days/nedilya",
+			"seen": "{\"clue\":\"сьомий день тижня\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "uk/family",
@@ -10595,6 +12982,11 @@
 		{
 			"key": "uk/hard-labials/sim",
 			"seen": "{\"note\":\"число після шести\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/hours",
+			"seen": "{\"title\":\"Годинник\",\"summary\":\"Годину називають порядковим числівником жіночого роду, бо він узгоджується зі словом годи́на. На питання «коли» відповідають із о та місцевим відмінком, а пів години рахують до наступної.\",\"headers\":{\"h1\":\"1\",\"h2\":\"2\",\"h3\":\"3\",\"h4\":\"4\",\"h5\":\"5\",\"h6\":\"6\",\"h7\":\"7\",\"h8\":\"8\",\"h9\":\"9\",\"h10\":\"10\",\"h11\":\"11\",\"h12\":\"12\",\"hour\":\"котра́ годи́на: …\",\"at\":\"о котрі́й: о, об\",\"half\":\"за пів години до: пів на …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -11003,8 +13395,208 @@
 			"comment": "Fair: Горох колега, \"Товариш за фахом, місцем роботи\". Doesn't contain the answer."
 		},
 		{
+			"key": "uk/l06-numbers",
+			"seen": "{\"title\":\"Числа для годинника\",\"summary\":\"Усе, що потрібно для хвилин і довгих проміжків. Від 11 до 19 наголос падає на -на́дцять.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n11",
+			"seen": "{\"clue\":\"11\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n12",
+			"seen": "{\"clue\":\"12\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n13",
+			"seen": "{\"clue\":\"13\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n14",
+			"seen": "{\"clue\":\"14\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n15",
+			"seen": "{\"clue\":\"15\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n16",
+			"seen": "{\"clue\":\"16\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n17",
+			"seen": "{\"clue\":\"17\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n18",
+			"seen": "{\"clue\":\"18\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n19",
+			"seen": "{\"clue\":\"19\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n20",
+			"seen": "{\"clue\":\"20\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n30",
+			"seen": "{\"clue\":\"30\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n40",
+			"seen": "{\"clue\":\"40\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-numbers/n50",
+			"seen": "{\"clue\":\"50\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-phrases",
+			"seen": "{\"title\":\"Фрази\",\"summary\":\"Дні, місяці та пори року в реченнях.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-phrases/travni",
+			"seen": "{\"note\":\"Місцевий відмінок після у або в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-phrases/sichni",
+			"seen": "{\"note\":\"Місцевий відмінок після у або в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-phrases/lyutomu",
+			"seen": "{\"note\":\"Місцевий відмінок після у або в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-phrases/serpni",
+			"seen": "{\"note\":\"Місцевий відмінок після у або в.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words",
+			"seen": "{\"title\":\"Слова\",\"summary\":\"Слова цього уроку. На плитці значення; знайдіть слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/sekunda",
+			"seen": "{\"clue\":\"дуже коротка частина хвилини\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/khvylyna",
+			"seen": "{\"clue\":\"шістдесят секунд\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/hodyna",
+			"seen": "{\"clue\":\"шістдесят хвилин\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/doba",
+			"seen": "{\"clue\":\"двадцять чотири години\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/den",
+			"seen": "{\"clue\":\"понеділок або вівторок\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/tyzhden",
+			"seen": "{\"clue\":\"сім днів\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/misyats",
+			"seen": "{\"clue\":\"січень або лютий\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/rik",
+			"seen": "{\"clue\":\"дванадцять місяців\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/chas",
+			"seen": "{\"clue\":\"те, що вимірюють годинником\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/pora-roku",
+			"seen": "{\"clue\":\"зима або весна\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/sohodni",
+			"seen": "{\"clue\":\"цей самий день\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/vchora",
+			"seen": "{\"clue\":\"попередній день\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/zavtra",
+			"seen": "{\"clue\":\"наступний день\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/pislyazavtra",
+			"seen": "{\"clue\":\"через два дні\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/rivno",
+			"seen": "{\"clue\":\"ні раніше, ні пізніше\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/skilky",
+			"seen": "{\"clue\":\"питання про кількість\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/chekaty",
+			"seen": "{\"clue\":\"бути десь, доки хтось прийде\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/vidpochyvaty",
+			"seen": "{\"clue\":\"не працювати, набиратися сил\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l06-words/ulyublenyi",
+			"seen": "{\"clue\":\"той, що подобається найбільше\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/letter-names",
 			"seen": "{\"title\":\"Назви літер\",\"summary\":\"Як називається кожна літера, коли слово читають за літерами. На плитці літера; знайдіть її назву.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/months",
+			"seen": "{\"title\":\"Місяці\",\"summary\":\"Дванадцять місяців і як сказати, коли саме: у або в із місцевим відмінком.\",\"headers\":{\"m1\":\"1\",\"m2\":\"2\",\"m3\":\"3\",\"m4\":\"4\",\"m5\":\"5\",\"m6\":\"6\",\"m7\":\"7\",\"m8\":\"8\",\"m9\":\"9\",\"m10\":\"10\",\"m11\":\"11\",\"m12\":\"12\",\"name\":\"місяць\",\"in\":\"коли: у, в …\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -11273,6 +13865,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/seasons",
+			"seen": "{\"title\":\"Пори року\",\"summary\":\"Чотири пори року і слово для відповіді на питання «коли».\",\"headers\":{\"winter\":\"гру́день – лю́тий\",\"spring\":\"бе́резень – тра́вень\",\"summer\":\"че́рвень – се́рпень\",\"autumn\":\"ве́ресень – листопа́д\",\"name\":\"пора́ ро́ку\",\"when\":\"коли́\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/stress-pairs",
 			"seen": "{\"title\":\"Куди падає наголос\",\"summary\":\"Ті самі літери, різні слова: наголос тут позначено, і саме він є відповіддю. На плитці значення; знайдіть слово.\"}",
 			"verdict": "ok"
@@ -11315,6 +13912,76 @@
 		{
 			"key": "uk/stress-pairs/satin",
 			"seen": "{\"clue\":\"блискуча тканина\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-count",
+			"seen": "{\"title\":\"Лічба часу\",\"summary\":\"Після 2, 3 і 4 іменник має одну форму, а від 5 і далі іншу.\",\"headers\":{\"sekunda\":\"секу́нда\",\"khvylyna\":\"хвили́на\",\"hodyna\":\"годи́на\",\"doba\":\"доба́\",\"den\":\"день\",\"tyzhden\":\"ти́ждень\",\"misyats\":\"мі́сяць\",\"rik\":\"рік\",\"few\":\"2, 3, 4\",\"many\":\"від 5\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences",
+			"seen": "{\"title\":\"Котра година\",\"summary\":\"Котра година, о котрій, пів на і скільки щось триває.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/persha",
+			"seen": "{\"note\":\"Називний відмінок, жіночий рід: узгоджується зі словом годи́на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/syoma",
+			"seen": "{\"note\":\"Називний відмінок, жіночий рід: узгоджується зі словом годи́на.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/tretii",
+			"seen": "{\"note\":\"Місцевий відмінок після о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/vosmii",
+			"seen": "{\"note\":\"Місцевий відмінок після о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/ob",
+			"seen": "{\"note\":\"Перед голосним о стає об.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/odynadtsiatii",
+			"seen": "{\"note\":\"Місцевий відмінок після о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/kotrii",
+			"seen": "{\"note\":\"Місцевий відмінок після о: о тре́тій.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/tretyu",
+			"seen": "{\"note\":\"Знахідний відмінок після на і наступна година: 2:30 це пів на тре́тю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/pershu",
+			"seen": "{\"note\":\"Знахідний відмінок після на і наступна година: 2:30 це пів на тре́тю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/hodyn",
+			"seen": "{\"note\":\"Від 5 і далі, родовий відмінок множини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/khvylyn",
+			"seen": "{\"note\":\"Від 5 і далі, родовий відмінок множини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/time-sentences/khvylyny",
+			"seen": "{\"note\":\"Після 2, 3 і 4.\"}",
 			"verdict": "ok"
 		},
 		{

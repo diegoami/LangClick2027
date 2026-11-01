@@ -1,0 +1,27 @@
+{
+	"title": "Days of the week",
+	"summary": "The seven days, Monday first. Each tile gives the day; find its name.",
+	"cells": {
+		"ponedilok": {
+			"clue": "Monday"
+		},
+		"vivtorok": {
+			"clue": "Tuesday"
+		},
+		"sereda": {
+			"clue": "Wednesday"
+		},
+		"chetver": {
+			"clue": "Thursday"
+		},
+		"pyatnytsya": {
+			"clue": "Friday"
+		},
+		"subota": {
+			"clue": "Saturday"
+		},
+		"nedilya": {
+			"clue": "Sunday"
+		}
+	}
+}

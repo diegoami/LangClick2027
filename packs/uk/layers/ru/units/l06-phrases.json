@@ -1,0 +1,61 @@
+{
+	"title": "Фразы",
+	"summary": "Дни, месяцы и времена года в предложениях.",
+	"cells": {
+		"sohodni": {
+			"sentenceGloss": "Какой сегодня день?"
+		},
+		"den": {
+			"sentenceGloss": "Понедельник — первый день недели."
+		},
+		"ponedilok": {
+			"sentenceGloss": "Сегодня вторник, а вчера был понедельник."
+		},
+		"chetver": {
+			"sentenceGloss": "Сегодня среда, а завтра будет четверг."
+		},
+		"nedilya": {
+			"sentenceGloss": "Сегодня суббота, а завтра будет воскресенье."
+		},
+		"tyzhden": {
+			"sentenceGloss": "Семь дней — это одна неделя."
+		},
+		"rik": {
+			"sentenceGloss": "Двенадцать месяцев — это один год."
+		},
+		"travni": {
+			"sentenceGloss": "Мой день рождения в мае.",
+			"note": "Местный падеж после у или в."
+		},
+		"sichni": {
+			"sentenceGloss": "В январе холодно.",
+			"note": "Местный падеж после у или в."
+		},
+		"lyutomu": {
+			"sentenceGloss": "Концерт в феврале.",
+			"note": "Местный падеж после у или в."
+		},
+		"serpni": {
+			"sentenceGloss": "Мы отдыхаем в августе.",
+			"note": "Местный падеж после у или в."
+		},
+		"roku": {
+			"sentenceGloss": "Какое твоё любимое время года?"
+		},
+		"ulyublena": {
+			"sentenceGloss": "Какое твоё любимое время года?"
+		},
+		"vzymku": {
+			"sentenceGloss": "В Киеве зимой холодно."
+		},
+		"navesni": {
+			"sentenceGloss": "Я люблю гулять весной."
+		},
+		"vlitku": {
+			"sentenceGloss": "Мы отдыхаем летом."
+		},
+		"voseny": {
+			"sentenceGloss": "Мне грустно осенью."
+		}
+	}
+}

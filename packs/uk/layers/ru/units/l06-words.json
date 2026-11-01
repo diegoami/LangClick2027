@@ -1,0 +1,63 @@
+{
+	"title": "Слова",
+	"summary": "Слова этого урока. На плитке значение; найдите слово.",
+	"cells": {
+		"sekunda": {
+			"clue": "секунда"
+		},
+		"khvylyna": {
+			"clue": "минута"
+		},
+		"hodyna": {
+			"clue": "час (60 минут)"
+		},
+		"doba": {
+			"clue": "сутки"
+		},
+		"den": {
+			"clue": "день"
+		},
+		"tyzhden": {
+			"clue": "неделя"
+		},
+		"misyats": {
+			"clue": "месяц"
+		},
+		"rik": {
+			"clue": "год"
+		},
+		"chas": {
+			"clue": "время"
+		},
+		"pora-roku": {
+			"clue": "время года"
+		},
+		"sohodni": {
+			"clue": "сегодня"
+		},
+		"vchora": {
+			"clue": "вчера"
+		},
+		"zavtra": {
+			"clue": "завтра"
+		},
+		"pislyazavtra": {
+			"clue": "послезавтра"
+		},
+		"rivno": {
+			"clue": "ровно"
+		},
+		"skilky": {
+			"clue": "сколько"
+		},
+		"chekaty": {
+			"clue": "ждать"
+		},
+		"vidpochyvaty": {
+			"clue": "отдыхать"
+		},
+		"ulyublenyi": {
+			"clue": "любимый"
+		}
+	}
+}

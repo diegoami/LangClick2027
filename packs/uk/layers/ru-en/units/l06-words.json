@@ -1,0 +1,11 @@
+{
+	"cells": {
+		"chas": {
+			"falseFriend": {
+				"kind": "homograph",
+				"form": "час",
+				"means": "an hour. Ukrainian час is time, and an hour is годи́на"
+			}
+		}
+	}
+}

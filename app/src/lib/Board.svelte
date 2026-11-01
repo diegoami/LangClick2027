@@ -42,10 +42,17 @@
 
 {#if unit.layout.type === 'table'}
 	{@const { rows, columns } = unit.layout}
-	<!-- Many columns have to fit a phone. Short row labels, such as pronouns, leave them more room. -->
+	{@const longestRow = Math.max(
+		...rows.map((row) =>
+			unit.cells
+				.filter((cell) => cell.row === row.id)
+				.reduce((length, cell) => length + cell.text.length, 0)
+		)
+	)}
+	<!-- Many columns or long answers have to fit a phone. Short row labels, such as pronouns, leave them more room. -->
 	<table
 		class="board-table"
-		class:dense={columns.length >= 5}
+		class:dense={columns.length >= 5 || longestRow >= 28}
 		class:short-rows={rows.every((row) => row.label.length <= 6)}
 	>
 		<thead>

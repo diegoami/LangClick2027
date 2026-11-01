@@ -1,0 +1,12 @@
+{
+	"title": "Pory roku",
+	"summary": "Cztery pory roku i słowo na „kiedy”: zimą, wiosną.",
+	"headers": {
+		"winter": "grudzień – luty",
+		"spring": "marzec – maj",
+		"summer": "czerwiec – sierpień",
+		"autumn": "wrzesień – listopad",
+		"name": "pora roku",
+		"when": "kiedy"
+	}
+}
