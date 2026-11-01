@@ -1,0 +1,147 @@
+{
+	"id": "l04-phrases",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 17
+	},
+	"cells": [
+		{
+			"id": "ty.acc",
+			"item": "phrase:l04:ty.acc",
+			"text": "тебе",
+			"display": "тебе́",
+			"sentence": "Як ___ зва́ти (ти)?",
+			"concepts": ["name-formula"]
+		},
+		{
+			"id": "vy.acc",
+			"item": "phrase:l04:vy.acc",
+			"text": "вас",
+			"sentence": "До́брий день! Як ___ зва́ти (ви)?",
+			"concepts": ["name-formula", "ty-vy"]
+		},
+		{
+			"id": "he.acc",
+			"item": "phrase:l04:he.acc",
+			"text": "його",
+			"display": "його́",
+			"sentence": "Як ___ зва́ти (він)?"
+		},
+		{
+			"id": "she.acc",
+			"item": "phrase:l04:she.acc",
+			"text": "її",
+			"display": "її́",
+			"sentence": "Як ___ зва́ти (вона́)?"
+		},
+		{
+			"id": "zvaty",
+			"item": "phrase:l04:zvaty",
+			"text": "звати",
+			"display": "зва́ти",
+			"sentence": "Мене́ ___ Окса́на.",
+			"concepts": ["name-formula"],
+			"alsoAccepted": ["звуть", "зовуть"]
+		},
+		{
+			"id": "tvoe",
+			"item": "phrase:l04:tvoe",
+			"text": "твоє",
+			"display": "твоє́",
+			"sentence": "Як ___ ім'я́ (ти)?"
+		},
+		{
+			"id": "vashe",
+			"item": "phrase:l04:vashe",
+			"text": "ваше",
+			"display": "ва́ше",
+			"sentence": "Як ___ ім'я́ (ви)?"
+		},
+		{
+			"id": "imya",
+			"item": "phrase:l04:imya",
+			"text": "ім'я",
+			"display": "ім'я́",
+			"sentence": "Моє́ ___ — Ві́ра."
+		},
+		{
+			"id": "pryyemno",
+			"item": "phrase:l04:pryyemno",
+			"text": "приємно",
+			"display": "приє́мно",
+			"sentence": "Ду́же ___!",
+			"alsoAccepted": ["радий", "рада"]
+		},
+		{
+			"id": "zvidky",
+			"item": "phrase:l04:zvidky",
+			"text": "звідки",
+			"display": "зві́дки",
+			"sentence": "Я з Украї́ни. А ти ___?",
+			"alsoAccepted": ["звідкіля"]
+		},
+		{
+			"id": "z",
+			"item": "phrase:l04:z",
+			"text": "з",
+			"sentence": "Я ___ Украї́ни.",
+			"concepts": ["no-to-be", "from-in"]
+		},
+		{
+			"id": "zhyvu",
+			"item": "phrase:l04:zhyvu",
+			"text": "живу",
+			"display": "живу́",
+			"sentence": "Я ___ у Льво́ві (жи́ти)."
+		},
+		{
+			"id": "zhyvete",
+			"item": "phrase:l04:zhyvete",
+			"text": "живете",
+			"display": "живете́",
+			"sentence": "Де ви ___ (жи́ти)?"
+		},
+		{
+			"id": "rozmovlyayesh",
+			"item": "phrase:l04:rozmovlyayesh",
+			"text": "розмовляєш",
+			"display": "розмовля́єш",
+			"sentence": "Ти до́бре ___ украї́нською (розмовля́ти)."
+		},
+		{
+			"id": "vchu",
+			"item": "phrase:l04:vchu",
+			"text": "вчу",
+			"sentence": "Я ___ украї́нську мо́ву (вчи́ти).",
+			"alsoAccepted": ["учу"]
+		},
+		{
+			"id": "toboyu",
+			"item": "phrase:l04:toboyu",
+			"text": "тобою",
+			"display": "тобо́ю",
+			"sentence": "Я хо́чу з ___ познайо́митися (ти).",
+			"concepts": ["ty-vy"]
+		},
+		{
+			"id": "vamy",
+			"item": "phrase:l04:vamy",
+			"text": "вами",
+			"display": "ва́ми",
+			"sentence": "Я хо́чу з ___ познайо́митися (ви).",
+			"concepts": ["ty-vy"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "English Wiktionary, Ukrainian entries (for example мова)",
+			"url": "https://en.wiktionary.org/wiki/мова"
+		}
+	]
+}

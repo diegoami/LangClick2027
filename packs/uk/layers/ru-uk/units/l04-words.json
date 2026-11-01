@@ -1,0 +1,18 @@
+{
+	"cells": {
+		"misto": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "место",
+				"means": "російською це мі́сце, а не мі́сто"
+			}
+		},
+		"prizvyshche": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "прозвище",
+				"means": "російською це прі́звисько, а не прі́звище"
+			}
+		}
+	}
+}

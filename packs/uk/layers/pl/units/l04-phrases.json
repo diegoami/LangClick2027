@@ -1,0 +1,65 @@
+{
+	"title": "Zwroty",
+	"summary": "Zwroty tej lekcji. Wybierz lub wpisz to, co pasuje do luki. Słowo w nawiasie trzeba odmienić.",
+	"cells": {
+		"ty.acc": {
+			"sentenceGloss": "Jak masz na imię?",
+			"note": "Biernik: зва́ти łączy się z osobą w bierniku."
+		},
+		"vy.acc": {
+			"sentenceGloss": "Dzień dobry! Jak ma pan na imię?",
+			"note": "Biernik: зва́ти łączy się z osobą w bierniku."
+		},
+		"he.acc": {
+			"sentenceGloss": "Jak on ma na imię?",
+			"note": "Biernik: зва́ти łączy się z osobą w bierniku."
+		},
+		"she.acc": {
+			"sentenceGloss": "Jak ona ma na imię?",
+			"note": "Biernik: зва́ти łączy się z osobą w bierniku."
+		},
+		"zvaty": {
+			"sentenceGloss": "Mam na imię Oksana."
+		},
+		"tvoe": {
+			"sentenceGloss": "Jak masz na imię?",
+			"note": "Rodzaj nijaki, w zgodzie z ім'я́."
+		},
+		"vashe": {
+			"sentenceGloss": "Jak ma pan na imię?",
+			"note": "Rodzaj nijaki, w zgodzie z ім'я́."
+		},
+		"imya": {
+			"sentenceGloss": "Mam na imię Wira."
+		},
+		"pryyemno": {
+			"sentenceGloss": "Bardzo mi miło!"
+		},
+		"zvidky": {
+			"sentenceGloss": "Jestem z Ukrainy. A ty skąd jesteś?"
+		},
+		"z": {
+			"sentenceGloss": "Jestem z Ukrainy."
+		},
+		"zhyvu": {
+			"sentenceGloss": "Mieszkam we Lwowie."
+		},
+		"zhyvete": {
+			"sentenceGloss": "Gdzie pan mieszka?"
+		},
+		"rozmovlyayesh": {
+			"sentenceGloss": "Dobrze mówisz po ukraińsku."
+		},
+		"vchu": {
+			"sentenceGloss": "Uczę się ukraińskiego."
+		},
+		"toboyu": {
+			"sentenceGloss": "Chcę cię poznać.",
+			"note": "Narzędnik, po з."
+		},
+		"vamy": {
+			"sentenceGloss": "Chcę pana poznać.",
+			"note": "Narzędnik, po з."
+		}
+	}
+}

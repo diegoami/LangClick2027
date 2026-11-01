@@ -22,6 +22,10 @@
 			"number": 4,
 			"title": "Знайомство, або Як тебе звати",
 			"units": [
+				"l04-words",
+				"l04-phrases",
+				"countries",
+				"countries-sentences",
 				"pronouns-personal",
 				"pronouns-third",
 				"pronouns-sentences",
@@ -32,7 +36,7 @@
 		{
 			"number": 5,
 			"title": "Привітання. Звертання. Етикетні формули",
-			"units": []
+			"units": ["l05-words", "l05-phrases", "l05-names", "vocative", "vocative-sentences"]
 		},
 		{
 			"number": 6,

@@ -76,6 +76,14 @@ is data, and the explanation of it comes from the interface.
 worse one. Such a tile is easy for that reader, which is true of the language: cognates
 are easy. Only a clue in the pack's own language gives the answer away by containing it.
 
+## Lessons before downloads (2026-11-01, #27)
+
+The owner studies eMova and comes here to practise, so an uncovered lesson is one with nothing
+to practise, and downloads serve no one else yet. All lesson batches now come before downloads and
+audio, and this can change at any milestone. A themed lesson has words, phrases and the grammar
+only that theme needs, and what is general goes to Grammar. The lesson's scope comes from reading
+eMova's, for reference, with none of its text reaching a pack.
+
 ## Typing is a separate skill, and speech waits (2026-10-31, #21)
 
 A tray tests recognition: мамо can be picked because it looks right next to ма́ма. Typing

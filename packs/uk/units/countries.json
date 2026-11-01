@@ -1,0 +1,142 @@
+{
+	"id": "countries",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["ukraine", "poland", "germany", "italy", "spain", "france"],
+		"columns": ["from", "in"]
+	},
+	"cells": [
+		{
+			"id": "ukraine.from",
+			"item": "country:ukraine:from",
+			"text": "України",
+			"display": "Украї́ни",
+			"ipa": "/ukraˈjinɪ/",
+			"concepts": ["from-in"],
+			"row": "ukraine",
+			"col": "from"
+		},
+		{
+			"id": "ukraine.in",
+			"item": "country:ukraine:in",
+			"text": "Україні",
+			"display": "Украї́ні",
+			"ipa": "/ukraˈjinʲi/",
+			"concepts": ["from-in"],
+			"row": "ukraine",
+			"col": "in"
+		},
+		{
+			"id": "poland.from",
+			"item": "country:poland:from",
+			"text": "Польщі",
+			"display": "По́льщі",
+			"ipa": "/ˈpɔlʲʃt͡ʃi/",
+			"concepts": ["from-in"],
+			"row": "poland",
+			"col": "from"
+		},
+		{
+			"id": "poland.in",
+			"item": "country:poland:in",
+			"text": "Польщі",
+			"display": "По́льщі",
+			"ipa": "/ˈpɔlʲʃt͡ʃi/",
+			"concepts": ["from-in"],
+			"row": "poland",
+			"col": "in"
+		},
+		{
+			"id": "germany.from",
+			"item": "country:germany:from",
+			"text": "Німеччини",
+			"display": "Німе́ччини",
+			"ipa": "/nʲiˈmɛt͡ʃːɪnɪ/",
+			"concepts": ["from-in"],
+			"row": "germany",
+			"col": "from"
+		},
+		{
+			"id": "germany.in",
+			"item": "country:germany:in",
+			"text": "Німеччині",
+			"display": "Німе́ччині",
+			"ipa": "/nʲiˈmɛt͡ʃːɪnʲi/",
+			"concepts": ["from-in"],
+			"row": "germany",
+			"col": "in"
+		},
+		{
+			"id": "italy.from",
+			"item": "country:italy:from",
+			"text": "Італії",
+			"display": "Іта́лії",
+			"ipa": "/iˈtalʲiji/",
+			"concepts": ["from-in"],
+			"row": "italy",
+			"col": "from"
+		},
+		{
+			"id": "italy.in",
+			"item": "country:italy:in",
+			"text": "Італії",
+			"display": "Іта́лії",
+			"ipa": "/iˈtalʲiji/",
+			"concepts": ["from-in"],
+			"row": "italy",
+			"col": "in"
+		},
+		{
+			"id": "spain.from",
+			"item": "country:spain:from",
+			"text": "Іспанії",
+			"display": "Іспа́нії",
+			"ipa": "/isˈpanʲiji/",
+			"concepts": ["from-in"],
+			"row": "spain",
+			"col": "from"
+		},
+		{
+			"id": "spain.in",
+			"item": "country:spain:in",
+			"text": "Іспанії",
+			"display": "Іспа́нії",
+			"ipa": "/isˈpanʲiji/",
+			"concepts": ["from-in"],
+			"row": "spain",
+			"col": "in"
+		},
+		{
+			"id": "france.from",
+			"item": "country:france:from",
+			"text": "Франції",
+			"display": "Фра́нції",
+			"ipa": "/ˈfrant͡sʲiji/",
+			"concepts": ["from-in"],
+			"row": "france",
+			"col": "from"
+		},
+		{
+			"id": "france.in",
+			"item": "country:france:in",
+			"text": "Франції",
+			"display": "Фра́нції",
+			"ipa": "/ˈfrant͡sʲiji/",
+			"concepts": ["from-in"],
+			"row": "france",
+			"col": "in"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "Ukrainian grammar (Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+		}
+	]
+}

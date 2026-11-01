@@ -1,0 +1,45 @@
+{
+	"title": "Zwroty",
+	"summary": "Zwroty tej lekcji. Wybierz lub wpisz to, co pasuje do luki. Słowo w nawiasie trzeba odmienić.",
+	"cells": {
+		"spravy": {
+			"sentenceGloss": "Co słychać? — Dobrze, dziękuję."
+		},
+		"laska": {
+			"sentenceGloss": "Dziękuję! — Proszę."
+		},
+		"pane": {
+			"sentenceGloss": "Dzień dobry, panie Andriju!"
+		},
+		"pani": {
+			"sentenceGloss": "Dzień dobry, pani Oksano!"
+		},
+		"ranku": {
+			"sentenceGloss": "Dzień dobry, panie Andriju!"
+		},
+		"tebe": {
+			"sentenceGloss": "Dobrze, dziękuję. A u ciebie?"
+		},
+		"vas": {
+			"sentenceGloss": "Dobrze, dziękuję. A u pana?"
+		},
+		"treba": {
+			"sentenceGloss": "Muszę już iść."
+		},
+		"zustrichi": {
+			"sentenceGloss": "Do zobaczenia jutro!"
+		},
+		"vybachte": {
+			"sentenceGloss": "Przepraszam pana, gdzie tu jest kawa?"
+		},
+		"shkoda": {
+			"sentenceGloss": "Muszę już iść. — Jaka szkoda!"
+		},
+		"rada": {
+			"sentenceGloss": "Olena mówi: cieszę się, że cię widzę."
+		},
+		"radyi": {
+			"sentenceGloss": "Andrij mówi: cieszę się, że cię widzę."
+		}
+	}
+}

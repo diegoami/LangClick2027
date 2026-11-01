@@ -1,0 +1,63 @@
+{
+	"id": "countries-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 6
+	},
+	"cells": [
+		{
+			"id": "ukraine.from",
+			"item": "sentence:countries:ukraine.from",
+			"text": "України",
+			"display": "Украї́ни",
+			"sentence": "Я з ___ (Украї́на)."
+		},
+		{
+			"id": "ukraine.in",
+			"item": "sentence:countries:ukraine.in",
+			"text": "Україні",
+			"display": "Украї́ні",
+			"sentence": "Я живу́ в ___ (Украї́на)."
+		},
+		{
+			"id": "germany.from",
+			"item": "sentence:countries:germany.from",
+			"text": "Німеччини",
+			"display": "Німе́ччини",
+			"sentence": "Він з ___ (Німе́ччина)."
+		},
+		{
+			"id": "germany.in",
+			"item": "sentence:countries:germany.in",
+			"text": "Німеччині",
+			"display": "Німе́ччині",
+			"sentence": "Вона́ живе́ в ___ (Німе́ччина)."
+		},
+		{
+			"id": "poland.from",
+			"item": "sentence:countries:poland.from",
+			"text": "Польщі",
+			"display": "По́льщі",
+			"sentence": "Ми з ___ (По́льща)."
+		},
+		{
+			"id": "italy.in",
+			"item": "sentence:countries:italy.in",
+			"text": "Італії",
+			"display": "Іта́лії",
+			"sentence": "Ми живемо́ в ___ (Іта́лія)."
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "Ukrainian grammar (Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
+		}
+	]
+}

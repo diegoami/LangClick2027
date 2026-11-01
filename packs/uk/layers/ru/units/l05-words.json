@@ -1,0 +1,72 @@
+{
+	"title": "Слова",
+	"summary": "Слова этого урока. На плитке значение; найдите слово.",
+	"cells": {
+		"pryvit": {
+			"clue": "привет"
+		},
+		"dobryi-den": {
+			"clue": "добрый день"
+		},
+		"dobryi-ranok": {
+			"clue": "доброе утро"
+		},
+		"dobryi-vechir": {
+			"clue": "добрый вечер"
+		},
+		"vitayu": {
+			"clue": "приветствую"
+		},
+		"do-pobachennya": {
+			"clue": "до свидания"
+		},
+		"do-zustrichi": {
+			"clue": "до встречи"
+		},
+		"buvay": {
+			"clue": "пока"
+		},
+		"proshchavay": {
+			"clue": "прощай"
+		},
+		"dyakuyu": {
+			"clue": "спасибо"
+		},
+		"bud-laska": {
+			"clue": "пожалуйста"
+		},
+		"vybachte": {
+			"clue": "извините"
+		},
+		"pereproshuyu": {
+			"clue": "прошу прощения"
+		},
+		"shkoda": {
+			"clue": "жаль"
+		},
+		"chudovo": {
+			"clue": "чудесно"
+		},
+		"dobre": {
+			"clue": "хорошо"
+		},
+		"normalno": {
+			"clue": "нормально"
+		},
+		"nepohano": {
+			"clue": "неплохо"
+		},
+		"tak-sobi": {
+			"clue": "так себе"
+		},
+		"pohano": {
+			"clue": "плохо"
+		},
+		"kepsko": {
+			"clue": "скверно"
+		},
+		"kolehy": {
+			"clue": "коллеги"
+		}
+	}
+}

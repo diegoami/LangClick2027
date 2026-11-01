@@ -70,14 +70,14 @@ lead sentence saying what the release is, then bullets in player-facing terms
 first, then what was deliberately not done and what was not tried. They name the
 tagged commit.
 
-**Until installers exist (v0.6.0)** a release has no build artefacts:
+**Until installers exist (v0.10.0)** a release has no build artefacts:
 
 ```bash
 gh release create vX.Y.Z --verify-tag --title "vX.Y.Z — <theme>" --notes-file <entry>
 ```
 
 Add `--prerelease` for an alpha or beta. Web deployment stays the owner's call
-and is separate from a release. When v0.6.0 adds Windows and Android builds, this
+and is separate from a release. When v0.10.0 adds Windows and Android builds, this
 section takes Geoclick's packaging steps, with a signing key of this project's
 own from its first APK.
 

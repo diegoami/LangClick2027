@@ -1,0 +1,31 @@
+{
+	"cells": {
+		"misto": {
+			"contrast": "Близьке до польського miasto."
+		},
+		"prizvyshche": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "przezwisko",
+				"means": "польською це прі́звисько, а не прі́звище"
+			}
+		},
+		"krayina": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "kraina",
+				"means": "польською це край, місцевість. Українське краї́на означає державу"
+			}
+		},
+		"mova": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "mowa",
+				"means": "польською це мовлення. Українське мо́ва це вся система: українська, польська"
+			}
+		},
+		"student": {
+			"contrast": "Польською тут є дієслово: jestem studentem. Українською його опускають."
+		}
+	}
+}

@@ -2,7 +2,7 @@
 
 A client-only web app, in the shape of
 [Geoclick2027](https://github.com/diegoami/Geoclick2027): one web core, with
-Tauri and Capacitor shells to come in v0.6.0. No backend and no accounts; progress
+Tauri and Capacitor shells to come in v0.10.0. No backend and no accounts; progress
 stays on the device.
 
 ## Layout
@@ -35,7 +35,7 @@ explain in. Interface text comes from `locales/`. Pack text comes in layers:
 
 `localizeUnit` merges the three into the `LocalUnit` every screen draws, so no screen
 knows about layers. Everything is read through `PackSource` in `packs.ts`. Today that
-is the local `packs/` folder; v0.4.0 puts downloads behind the same interface (#6).
+is the local `packs/` folder; v0.8.0 puts downloads behind the same interface (#6).
 
 ## How a unit plays
 

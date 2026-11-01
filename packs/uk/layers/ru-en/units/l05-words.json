@@ -1,0 +1,18 @@
+{
+	"cells": {
+		"shkoda": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "шкода",
+				"means": "a prank. Ukrainian шкода́ is a pity"
+			}
+		},
+		"pohano": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "погано",
+				"means": "a stronger word: foul, nasty. Ukrainian пога́но is plain badly"
+			}
+		}
+	}
+}

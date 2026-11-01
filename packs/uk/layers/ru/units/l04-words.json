@@ -1,0 +1,72 @@
+{
+	"title": "Слова",
+	"summary": "Слова этого урока. На плитке значение; найдите слово.",
+	"cells": {
+		"imya": {
+			"clue": "имя"
+		},
+		"prizvyshche": {
+			"clue": "фамилия"
+		},
+		"znayomytysya": {
+			"clue": "знакомиться"
+		},
+		"zvidky": {
+			"clue": "откуда"
+		},
+		"zhyty": {
+			"clue": "жить"
+		},
+		"rozmovlyaty": {
+			"clue": "разговаривать"
+		},
+		"vchyty": {
+			"clue": "учить"
+		},
+		"mova": {
+			"clue": "язык"
+		},
+		"krayina": {
+			"clue": "страна"
+		},
+		"misto": {
+			"clue": "город"
+		},
+		"student": {
+			"clue": "студент"
+		},
+		"studentka": {
+			"clue": "студентка"
+		},
+		"ukrayinets": {
+			"clue": "украинец"
+		},
+		"ukrayinka": {
+			"clue": "украинка"
+		},
+		"ukrayinska": {
+			"clue": "украинский (язык)"
+		},
+		"anhliyska": {
+			"clue": "английский (язык)"
+		},
+		"vvichlyvyi": {
+			"clue": "вежливый"
+		},
+		"zalyubky": {
+			"clue": "с удовольствием"
+		},
+		"odnolitok": {
+			"clue": "ровесник"
+		},
+		"spivrozmovnyk": {
+			"clue": "собеседник"
+		},
+		"zaimennyk": {
+			"clue": "местоимение"
+		},
+		"pryyemno": {
+			"clue": "приятно"
+		}
+	}
+}
