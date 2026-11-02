@@ -1,0 +1,122 @@
+{
+	"id": "l25-calendar",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 9
+	},
+	"cells": [
+		{
+			"id": "new-year",
+			"item": "holiday-date:uk:new-year",
+			"text": "перше січня",
+			"display": "пе́рше сі́чня"
+		},
+		{
+			"id": "women",
+			"item": "holiday-date:uk:women",
+			"text": "восьме березня",
+			"display": "во́сьме бе́резня"
+		},
+		{
+			"id": "labour",
+			"item": "holiday-date:uk:labour",
+			"text": "перше травня",
+			"display": "пе́рше тра́вня"
+		},
+		{
+			"id": "remembrance",
+			"item": "holiday-date:uk:remembrance",
+			"text": "восьме травня",
+			"display": "во́сьме тра́вня"
+		},
+		{
+			"id": "constitution",
+			"item": "holiday-date:uk:constitution",
+			"text": "двадцять восьме червня",
+			"display": "два́дцять во́сьме че́рвня"
+		},
+		{
+			"id": "statehood",
+			"item": "holiday-date:uk:statehood",
+			"text": "п'ятнадцяте липня",
+			"display": "п'ятна́дцяте ли́пня"
+		},
+		{
+			"id": "independence",
+			"item": "holiday-date:uk:independence",
+			"text": "двадцять четверте серпня",
+			"display": "два́дцять четве́рте се́рпня"
+		},
+		{
+			"id": "defenders",
+			"item": "holiday-date:uk:defenders",
+			"text": "перше жовтня",
+			"display": "пе́рше жо́втня"
+		},
+		{
+			"id": "christmas",
+			"item": "holiday-date:uk:christmas",
+			"text": "двадцять п'яте грудня",
+			"display": "два́дцять п'я́те гру́дня"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урядовий контактний центр: святкові дні, стаття73",
+			"url": "https://ukc.gov.ua/knowdledge/svyatkovi-ta-nerobochi-dni/"
+		},
+		{
+			"title": "Горох: перший",
+			"url": "https://goroh.pp.ua/Словозміна/перший"
+		},
+		{
+			"title": "Горох: восьмий",
+			"url": "https://goroh.pp.ua/Словозміна/восьмий"
+		},
+		{
+			"title": "Горох: п'ятнадцятий",
+			"url": "https://goroh.pp.ua/Словозміна/п'ятнадцятий"
+		},
+		{
+			"title": "Горох: двадцять",
+			"url": "https://goroh.pp.ua/Словозміна/двадцять"
+		},
+		{
+			"title": "Горох: місяць",
+			"url": "https://goroh.pp.ua/Словозміна/місяць"
+		},
+		{
+			"title": "Горох: січень",
+			"url": "https://goroh.pp.ua/Словозміна/січень"
+		},
+		{
+			"title": "Горох: березень",
+			"url": "https://goroh.pp.ua/Словозміна/березень"
+		},
+		{
+			"title": "Горох: травень",
+			"url": "https://goroh.pp.ua/Словозміна/травень"
+		},
+		{
+			"title": "Горох: червень",
+			"url": "https://goroh.pp.ua/Словозміна/червень"
+		},
+		{
+			"title": "Горох: липень",
+			"url": "https://goroh.pp.ua/Словозміна/липень"
+		},
+		{
+			"title": "Горох: серпень",
+			"url": "https://goroh.pp.ua/Словозміна/серпень"
+		},
+		{
+			"title": "Горох: жовтень",
+			"url": "https://goroh.pp.ua/Словозміна/жовтень"
+		},
+		{
+			"title": "Горох: грудень",
+			"url": "https://goroh.pp.ua/Словозміна/грудень"
+		}
+	]
+}

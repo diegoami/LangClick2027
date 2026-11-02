@@ -1,0 +1,124 @@
+{
+	"id": "l18-motion",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["ya", "ty", "he", "my", "vy", "they"],
+		"columns": ["yikhaty", "yizdyty"]
+	},
+	"cells": [
+		{
+			"id": "ya.yikhaty",
+			"item": "verb-present:yikhaty:ya",
+			"text": "їду",
+			"display": "ї́ду",
+			"row": "ya",
+			"col": "yikhaty"
+		},
+		{
+			"id": "ya.yizdyty",
+			"item": "verb-present:yizdyty:ya",
+			"text": "їжджу",
+			"display": "ї́жджу",
+			"row": "ya",
+			"col": "yizdyty"
+		},
+		{
+			"id": "ty.yikhaty",
+			"item": "verb-present:yikhaty:ty",
+			"text": "їдеш",
+			"display": "ї́деш",
+			"row": "ty",
+			"col": "yikhaty"
+		},
+		{
+			"id": "ty.yizdyty",
+			"item": "verb-present:yizdyty:ty",
+			"text": "їздиш",
+			"display": "ї́здиш",
+			"row": "ty",
+			"col": "yizdyty"
+		},
+		{
+			"id": "he.yikhaty",
+			"item": "verb-present:yikhaty:he",
+			"text": "їде",
+			"display": "ї́де",
+			"row": "he",
+			"col": "yikhaty"
+		},
+		{
+			"id": "he.yizdyty",
+			"item": "verb-present:yizdyty:he",
+			"text": "їздить",
+			"display": "ї́здить",
+			"row": "he",
+			"col": "yizdyty"
+		},
+		{
+			"id": "my.yikhaty",
+			"item": "verb-present:yikhaty:my",
+			"text": "їдемо",
+			"display": "ї́демо",
+			"row": "my",
+			"col": "yikhaty",
+			"alsoAccepted": ["їдем"]
+		},
+		{
+			"id": "my.yizdyty",
+			"item": "verb-present:yizdyty:my",
+			"text": "їздимо",
+			"display": "ї́здимо",
+			"row": "my",
+			"col": "yizdyty",
+			"alsoAccepted": ["їздим"]
+		},
+		{
+			"id": "vy.yikhaty",
+			"item": "verb-present:yikhaty:vy",
+			"text": "їдете",
+			"display": "ї́дете",
+			"row": "vy",
+			"col": "yikhaty"
+		},
+		{
+			"id": "vy.yizdyty",
+			"item": "verb-present:yizdyty:vy",
+			"text": "їздите",
+			"display": "ї́здите",
+			"row": "vy",
+			"col": "yizdyty"
+		},
+		{
+			"id": "they.yikhaty",
+			"item": "verb-present:yikhaty:they",
+			"text": "їдуть",
+			"display": "ї́дуть",
+			"row": "they",
+			"col": "yikhaty"
+		},
+		{
+			"id": "they.yizdyty",
+			"item": "verb-present:yizdyty:they",
+			"text": "їздять",
+			"display": "ї́здять",
+			"row": "they",
+			"col": "yizdyty"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 18 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@379d8038f88d4d88bd9c003752fb58b8"
+		},
+		{
+			"title": "Горох: їхати",
+			"url": "https://goroh.pp.ua/Словозміна/їхати"
+		},
+		{
+			"title": "Горох: їздити",
+			"url": "https://goroh.pp.ua/Словозміна/їздити"
+		}
+	]
+}

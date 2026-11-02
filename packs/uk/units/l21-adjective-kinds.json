@@ -1,0 +1,46 @@
+{
+	"id": "l21-adjective-kinds",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 3
+	},
+	"cells": [
+		{
+			"id": "yakisnyy",
+			"item": "word:yakisnyy",
+			"text": "якісний",
+			"display": "я́кісний"
+		},
+		{
+			"id": "vidnosnyy",
+			"item": "word:vidnosnyy",
+			"text": "відносний",
+			"display": "відно́сний"
+		},
+		{
+			"id": "prysviynyy",
+			"item": "word:prysviynyy",
+			"text": "присвійний",
+			"display": "присві́йний"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 21 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@e343f13d37aa4bbab446b98139cfdda6"
+		},
+		{
+			"title": "Горох: якісний",
+			"url": "https://goroh.pp.ua/Словозміна/якісний"
+		},
+		{
+			"title": "Горох: відносний",
+			"url": "https://goroh.pp.ua/Словозміна/відносний"
+		},
+		{
+			"title": "Горох: присвійний",
+			"url": "https://goroh.pp.ua/Словозміна/присвійний"
+		}
+	]
+}

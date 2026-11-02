@@ -1,0 +1,48 @@
+{
+	"title": "Mówienie o czasie wolnym",
+	"summary": "Po люблю / обожнюю bezokolicznik; po цікавитися / займатися narzędnik; хобі nieodmienne.",
+	"cells": {
+		"timeacc": {
+			"sentenceGloss": "Planuję swój czas wolny."
+		},
+		"timeins": {
+			"sentenceGloss": "Umiej korzystać z wolnego czasu."
+		},
+		"enjoy": {
+			"sentenceGloss": "Przyjaciele rozkoszują się muzyką."
+		},
+		"interest": {
+			"sentenceGloss": "Mój brat interesuje się turystyką."
+		},
+		"activity": {
+			"sentenceGloss": "Po pracy uprawia sport."
+		},
+		"collect": {
+			"sentenceGloss": "Olena pasjonuje się kolekcjonowaniem pocztówek."
+		},
+		"read": {
+			"sentenceGloss": "W weekendy lubię czytać książki."
+		},
+		"draw": {
+			"sentenceGloss": "Marko uwielbia rysować portrety."
+		},
+		"sphere": {
+			"sentenceGloss": "Jego sfera zainteresowań to projektowanie."
+		},
+		"hobby": {
+			"sentenceGloss": "Koleżanka nie ma nowego hobby."
+		},
+		"new": {
+			"sentenceGloss": "Wybieram nowe hobby."
+		},
+		"plural": {
+			"sentenceGloss": "Pojawiły się u nich nowe hobby."
+		},
+		"leisure": {
+			"sentenceGloss": "W czasie wolnym czytamy."
+		},
+		"devote": {
+			"sentenceGloss": "Siostra poświęca wieczory muzyce."
+		}
+	}
+}

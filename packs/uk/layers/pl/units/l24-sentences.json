@@ -1,0 +1,42 @@
+{
+	"title": "Objawy i wizyta u lekarza",
+	"summary": "Odmień wyraz w nawiasie. Część ciała jest podmiotem: голова болить, зуби болять. Nie przenoś polskiego boli mnie dosłownie.",
+	"cells": {
+		"ache-sing": {
+			"sentenceGloss": "Dzisiaj boli mnie głowa."
+		},
+		"ache-plur": {
+			"sentenceGloss": "Pacjenta bolą zęby."
+		},
+		"cough-gen": {
+			"sentenceGloss": "Po leczeniu nie ma już kaszlu."
+		},
+		"nose-gen": {
+			"sentenceGloss": "Ten opis nie wspomina o objawach kataru."
+		},
+		"pressure-gen": {
+			"sentenceGloss": "Pielęgniarka zapisała wynik pomiaru ciśnienia."
+		},
+		"pharmacy-loc": {
+			"sentenceGloss": "Siostra pracuje w aptece."
+		},
+		"prescription-gen": {
+			"sentenceGloss": "W tekście jest numer recepty."
+		},
+		"cardiologist-inst": {
+			"sentenceGloss": "Olena porozmawiała z kardiologiem."
+		},
+		"dermatologist-gen": {
+			"sentenceGloss": "Taras zapisał się do dermatologa."
+		},
+		"ointment-gen": {
+			"sentenceGloss": "Na opakowaniu jest napisana nazwa maści."
+		},
+		"weakness-inst": {
+			"sentenceGloss": "Pacjent opisuje swój stan słowami „ze znacznym osłabieniem”."
+		},
+		"medicine-gen": {
+			"sentenceGloss": "Na liście nie ma tych leków."
+		}
+	}
+}

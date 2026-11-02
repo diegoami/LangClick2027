@@ -1,0 +1,60 @@
+{
+	"title": "Flowers and other woodland names",
+	"summary": "Common names of flowers and herbs; гриб is included as a separate organism, not a green plant. Names specify the genus when common names could overlap.",
+	"cells": {
+		"pidsnizhnyk": {
+			"clue": "snowdrop"
+		},
+		"proliska": {
+			"clue": "squill; Scilla"
+		},
+		"ryast": {
+			"clue": "corydalis"
+		},
+		"konvaliya": {
+			"clue": "lily of the valley"
+		},
+		"fialka": {
+			"clue": "violet (plant)"
+		},
+		"zvirobiy": {
+			"clue": "St John's wort"
+		},
+		"dereviy": {
+			"clue": "yarrow"
+		},
+		"romashka": {
+			"clue": "chamomile"
+		},
+		"ivan-chay": {
+			"clue": "fireweed; rosebay willowherb"
+		},
+		"hryb": {
+			"clue": "mushroom"
+		},
+		"hiatsynt": {
+			"clue": "hyacinth"
+		},
+		"krokus": {
+			"clue": "crocus"
+		},
+		"horytsvit": {
+			"clue": "adonis (plant)"
+		},
+		"tyulpan": {
+			"clue": "tulip"
+		},
+		"pivoniya": {
+			"clue": "peony"
+		},
+		"barvinok": {
+			"clue": "periwinkle"
+		},
+		"chornobryvtsi": {
+			"clue": "marigolds; Tagetes (plural)"
+		},
+		"pivnyky": {
+			"clue": "irises (plural plant name)"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"title": "Дієслова навчання та керування",
+	"summary": "Слово в дужках визначає лексему. Вчити/вивчати що? — знахідний; навчати кого? — знахідний, чого? — родовий. Керувати/завідувати чим? — орудний, але директор/завідувач чого? — родовий.",
+	"cells": {
+		"study-math": {},
+		"learn-topic": {},
+		"teach-math": {},
+		"teach-student": {},
+		"teach-physics": {},
+		"manage-school": {},
+		"head-college": {},
+		"director-school": {},
+		"head-department": {},
+		"acquire-education": {},
+		"knowledge-dat": {},
+		"paint-inst": {},
+		"hues-inst": {},
+		"scissors-gen": {},
+		"notebook-loc": {},
+		"ruler-inst": {}
+	}
+}

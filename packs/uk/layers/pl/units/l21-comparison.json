@@ -1,0 +1,21 @@
+{
+	"title": "Stopień wyższy",
+	"summary": "Rodzaj męski, liczba pojedyncza: formy proste. Najwyższy dodaje най- do wyższego.",
+	"headers": {
+		"slabkyy": "слабкий",
+		"hrubyy": "грубий",
+		"nizhnyy": "ніжний",
+		"lehkyy": "легкий",
+		"hlybokyy": "глибокий",
+		"blyzkyy": "близький",
+		"nyzkyy": "низький",
+		"tyazhkyy": "тяжкий",
+		"vazhkyy": "важкий",
+		"vysokyy": "високий",
+		"khoroshyy": "хороший",
+		"pohanyy": "поганий",
+		"velykyy": "великий",
+		"higher": "wyższy"
+	},
+	"cells": {}
+}

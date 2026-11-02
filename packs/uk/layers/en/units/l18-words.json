@@ -1,0 +1,69 @@
+{
+	"title": "Transport",
+	"summary": "Vehicles, passenger travel, city and place.",
+	"cells": {
+		"avtomobil": {
+			"clue": "car; automobile (masculine)"
+		},
+		"prychip": {
+			"clue": "trailer attached to a vehicle"
+		},
+		"avtobus": {
+			"clue": "bus"
+		},
+		"marshrutka": {
+			"clue": "fixed-route minibus (colloquial)"
+		},
+		"vantazhivka": {
+			"clue": "truck; lorry (feminine)"
+		},
+		"tramvay": {
+			"clue": "tram"
+		},
+		"troleybus": {
+			"clue": "trolleybus"
+		},
+		"poyizd": {
+			"clue": "train"
+		},
+		"metro": {
+			"clue": "metro; underground railway"
+		},
+		"taksi": {
+			"clue": "taxi"
+		},
+		"elektrychka": {
+			"clue": "commuter electric train (colloquial)"
+		},
+		"litak": {
+			"clue": "airplane"
+		},
+		"aeroport": {
+			"clue": "airport"
+		},
+		"vokzal": {
+			"clue": "railway station building"
+		},
+		"kvytok": {
+			"clue": "ticket for a journey"
+		},
+		"pasazhyr": {
+			"clue": "passenger (masculine)"
+		},
+		"turyst": {
+			"clue": "tourist (masculine)"
+		},
+		"zupynka": {
+			"clue": "bus stop (noun)"
+		},
+		"zator": {
+			"clue": "traffic jam"
+		},
+		"misto": {
+			"clue": "city; town"
+		},
+		"mistse": {
+			"clue": "place; spot"
+		}
+	}
+}

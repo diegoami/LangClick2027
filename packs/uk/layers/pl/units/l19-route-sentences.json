@@ -1,0 +1,30 @@
+{
+	"title": "Podążanie za wskazówkami",
+	"summary": "Uzupełnij wskazówki zgodnie ze znaczeniem lub lematem.",
+	"cells": {
+		"hotel": {
+			"sentenceGloss": "Od przystanku do hotelu jest tylko sto metrów."
+		},
+		"museum": {
+			"sentenceGloss": "Obok muzeum stoi autobus."
+		},
+		"corner": {
+			"sentenceGloss": "Apteka jest za rogiem."
+		},
+		"oncorner": {
+			"sentenceGloss": "Kiosk jest na rogu dwóch ulic."
+		},
+		"left": {
+			"sentenceGloss": "Skręć w lewo."
+		},
+		"right": {
+			"sentenceGloss": "Następnie skręć w prawo."
+		},
+		"straight": {
+			"sentenceGloss": "Idź prosto do parku."
+		},
+		"street": {
+			"sentenceGloss": "Przechodź przez ulicę na zielonym świetle."
+		}
+	}
+}

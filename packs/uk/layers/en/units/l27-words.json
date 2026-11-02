@@ -1,0 +1,76 @@
+{
+	"title": "Learning and stationery",
+	"summary": "Common study objects. The блокнот clue fixes its spelling; фломастер also accepts the equivalent маркер. Фарба is paint; барва commonly names a colour or hue, although dictionary meanings overlap. Рисувати can also mean малювати: it is not restricted to technical drawing. The наліпка note explains its dictionary stress variants.",
+	"cells": {
+		"navchannya": {
+			"clue": "learning; study as a process"
+		},
+		"pidruchnyk": {
+			"clue": "textbook"
+		},
+		"zoshyt": {
+			"clue": "exercise book for written schoolwork (word beginning зош-)"
+		},
+		"olivets": {
+			"clue": "pencil"
+		},
+		"ruchka": {
+			"clue": "pen for writing"
+		},
+		"osvita": {
+			"clue": "education as a system or attainment"
+		},
+		"znannya": {
+			"clue": "knowledge"
+		},
+		"bloknot": {
+			"clue": "notepad (word beginning блок-)"
+		},
+		"shchodennyk": {
+			"clue": "diary; school diary"
+		},
+		"orhanayzer": {
+			"clue": "paper organiser; planner"
+		},
+		"flomaster": {
+			"clue": "felt-tip pen"
+		},
+		"zakladka": {
+			"clue": "bookmark"
+		},
+		"penal": {
+			"clue": "pencil case"
+		},
+		"liniyka": {
+			"clue": "ruler as a measuring tool"
+		},
+		"humka": {
+			"clue": "eraser (one common word)"
+		},
+		"nozhytsi": {
+			"clue": "scissors (plural noun)"
+		},
+		"albom": {
+			"clue": "drawing album"
+		},
+		"farba": {
+			"clue": "paint as a colouring substance"
+		},
+		"posibnyk": {
+			"clue": "study aid; learning manual"
+		},
+		"rozdrukivka": {
+			"clue": "printout"
+		},
+		"liniya": {
+			"clue": "line as a geometric figure"
+		},
+		"kafedra": {
+			"clue": "university department"
+		},
+		"nalipka": {
+			"clue": "sticky note; adhesive label",
+			"note": "The native equivalent of the course’s borrowed sticker term. The inflection dictionary marks налі́пка; SUM20 prints на́ліпка. This board follows the inflection dictionary and accepts the equivalent label noun наклейка."
+		}
+	}
+}

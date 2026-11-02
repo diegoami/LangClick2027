@@ -1,0 +1,195 @@
+{
+	"title": "Dom i wyposażenie",
+	"cells": {
+		"zhytlo": {
+			"clue": "lokum, miejsce zamieszkania"
+		},
+		"kvartyra": {
+			"clue": "mieszkanie"
+		},
+		"budynok": {
+			"clue": "dom, budynek"
+		},
+		"podvir-ya": {
+			"clue": "podwórze"
+		},
+		"sad": {
+			"clue": "sad"
+		},
+		"klumba": {
+			"clue": "klomb"
+		},
+		"harazh": {
+			"clue": "garaż"
+		},
+		"baseyn": {
+			"clue": "basen"
+		},
+		"villa": {
+			"clue": "willa"
+		},
+		"poverkh": {
+			"clue": "piętro, kondygnacja"
+		},
+		"dveri": {
+			"clue": "drzwi"
+		},
+		"peredpokiy": {
+			"clue": "przedpokój"
+		},
+		"korydor": {
+			"clue": "korytarz"
+		},
+		"skhody": {
+			"clue": "schody"
+		},
+		"kukhnya": {
+			"clue": "kuchnia"
+		},
+		"vitalnya": {
+			"clue": "salon"
+		},
+		"spalnya": {
+			"clue": "sypialnia"
+		},
+		"vanna": {
+			"clue": "łazienka"
+		},
+		"dytyacha-kimnata": {
+			"clue": "pokój dziecięcy"
+		},
+		"hostova-kimnata": {
+			"clue": "pokój gościnny"
+		},
+		"dakh": {
+			"clue": "dach"
+		},
+		"horyshche": {
+			"clue": "strych"
+		},
+		"pidval": {
+			"clue": "piwnica"
+		},
+		"mebli": {
+			"clue": "meble"
+		},
+		"lizhko": {
+			"clue": "łóżko"
+		},
+		"podushka": {
+			"clue": "poduszka"
+		},
+		"kovdra": {
+			"clue": "kołdra"
+		},
+		"tumba": {
+			"clue": "szafka"
+		},
+		"nastilna-lampa": {
+			"clue": "lampka biurkowa"
+		},
+		"shafa": {
+			"clue": "szafa"
+		},
+		"dzerkalo": {
+			"clue": "lustro"
+		},
+		"pidloha": {
+			"clue": "podłoga"
+		},
+		"kylym": {
+			"clue": "dywan"
+		},
+		"shtora": {
+			"clue": "zasłona"
+		},
+		"tyul": {
+			"clue": "tiul"
+		},
+		"dyvan": {
+			"clue": "kanapa"
+		},
+		"krislo": {
+			"clue": "fotel"
+		},
+		"televizor": {
+			"clue": "telewizor"
+		},
+		"zhurnalnyy-stolyk": {
+			"clue": "stolik kawowy"
+		},
+		"knyzhkova-shafa": {
+			"clue": "szafa na książki"
+		},
+		"pysmovyy-stil": {
+			"clue": "biurko"
+		},
+		"stilets": {
+			"clue": "krzesło"
+		},
+		"pidvikonnya": {
+			"clue": "parapet"
+		},
+		"horshchyk": {
+			"clue": "doniczka"
+		},
+		"yidalnya": {
+			"clue": "jadalnia"
+		},
+		"plyta": {
+			"clue": "kuchenka"
+		},
+		"dukhova-shafa": {
+			"clue": "piekarnik"
+		},
+		"posudomyyna-mashyna": {
+			"clue": "zmywarka"
+		},
+		"kholodylnyk": {
+			"clue": "lodówka"
+		},
+		"vytyazhka": {
+			"clue": "okap"
+		},
+		"myynytsya": {
+			"clue": "zlewozmywak"
+		},
+		"zmishuvach": {
+			"clue": "bateria wodna"
+		},
+		"stilnytsya": {
+			"clue": "blat"
+		},
+		"stelya": {
+			"clue": "sufit"
+		},
+		"lyustra": {
+			"clue": "żyrandol"
+		},
+		"dush": {
+			"clue": "prysznic"
+		},
+		"tualet": {
+			"clue": "toaleta"
+		},
+		"umyvalnyk": {
+			"clue": "umywalka"
+		},
+		"pralna-mashyna": {
+			"clue": "pralka"
+		},
+		"polytsya": {
+			"clue": "półka"
+		},
+		"rushnyk": {
+			"clue": "ręcznik"
+		},
+		"vishak": {
+			"clue": "wieszak"
+		},
+		"komod": {
+			"clue": "komoda"
+		}
+	},
+	"summary": "Powtórz pomieszczenia, części domu, meble i urządzenia. Podaj formy słownikowe."
+}

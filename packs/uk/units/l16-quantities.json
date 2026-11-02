@@ -1,0 +1,109 @@
+{
+	"id": "l16-quantities",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["grams", "kilos", "mandarins", "tomatoes"],
+		"columns": ["c0", "c1"]
+	},
+	"cells": [
+		{
+			"id": "grams.c0",
+			"item": "l16:quantities:grams:c0",
+			"text": "грам",
+			"row": "grams",
+			"col": "c0"
+		},
+		{
+			"id": "grams.c1",
+			"item": "l16:quantities:grams:c1",
+			"text": "грамів",
+			"row": "grams",
+			"col": "c1",
+			"display": "гра́мів"
+		},
+		{
+			"id": "kilos.c0",
+			"item": "l16:quantities:kilos:c0",
+			"text": "кілограм",
+			"row": "kilos",
+			"col": "c0",
+			"display": "кілогра́м"
+		},
+		{
+			"id": "kilos.c1",
+			"item": "l16:quantities:kilos:c1",
+			"text": "кілограмів",
+			"row": "kilos",
+			"col": "c1",
+			"display": "кілогра́мів"
+		},
+		{
+			"id": "mandarins.c0",
+			"item": "l16:quantities:mandarins:c0",
+			"text": "мандарин",
+			"row": "mandarins",
+			"col": "c0",
+			"display": "мандари́н"
+		},
+		{
+			"id": "mandarins.c1",
+			"item": "l16:quantities:mandarins:c1",
+			"text": "мандаринів",
+			"row": "mandarins",
+			"col": "c1",
+			"display": "мандари́нів"
+		},
+		{
+			"id": "tomatoes.c0",
+			"item": "l16:quantities:tomatoes:c0",
+			"text": "помідор",
+			"row": "tomatoes",
+			"col": "c0",
+			"display": "помідо́р"
+		},
+		{
+			"id": "tomatoes.c1",
+			"item": "l16:quantities:tomatoes:c1",
+			"text": "помідорів",
+			"row": "tomatoes",
+			"col": "c1",
+			"display": "помідо́рів"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 16. Страви і кухня",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@ecbc12f9c6634d849568884d85735fc8"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: грам",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D1%80%D0%B0%D0%BC"
+		},
+		{
+			"title": "Горох: кілограм",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%96%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%BC"
+		},
+		{
+			"title": "Горох: мандарин",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%B8%D0%BD"
+		},
+		{
+			"title": "Горох: помідор",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%BC%D1%96%D0%B4%D0%BE%D1%80"
+		},
+		{
+			"title": "Горох: смажити",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BC%D0%B0%D0%B6%D0%B8%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: готувати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D1%82%D1%83%D0%B2%D0%B0%D1%82%D0%B8"
+		}
+	]
+}

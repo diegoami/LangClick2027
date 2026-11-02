@@ -1,0 +1,30 @@
+{
+	"title": "Rozmawiamy o świętach",
+	"summary": "Odmień wyraz w nawiasie. Po з/із/зі w życzeniach użyj narzędnika, po до — dopełniacza.",
+	"cells": {
+		"holiday-inst": {
+			"sentenceGloss": "Przyjaciele złożyli nam życzenia z okazji święta."
+		},
+		"christmas-gen": {
+			"sentenceGloss": "Do Bożego Narodzenia został tydzień."
+		},
+		"easter-gen": {
+			"sentenceGloss": "Na Wielkanoc przygotowuje się tradycyjne pieczywo."
+		},
+		"tradition-inst": {
+			"sentenceGloss": "Ten zwyczaj stał się rodzinną tradycją."
+		},
+		"present-inst": {
+			"sentenceGloss": "Dziecko cieszy się nowym robotem: był niespodziewanym prezentem."
+		},
+		"pysanka-inst": {
+			"sentenceGloss": "Podziwialiśmy pisankę z geometrycznym ornamentem."
+		},
+		"carol-inst": {
+			"sentenceGloss": "Występ rozpoczął się kolędą."
+		},
+		"uzvar-inst": {
+			"sentenceGloss": "Na stole stał dzban z uzwarem."
+		}
+	}
+}

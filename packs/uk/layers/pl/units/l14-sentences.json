@@ -1,0 +1,30 @@
+{
+	"title": "Zdania",
+	"cells": {
+		"near": {
+			"sentenceGloss": "Fotel stoi przy szafie."
+		},
+		"under": {
+			"sentenceGloss": "Kot siedzi pod stołem."
+		},
+		"over": {
+			"sentenceGloss": "Obraz wisi nad kanapą."
+		},
+		"behind": {
+			"sentenceGloss": "Wieszak stoi za drzwiami."
+		},
+		"before": {
+			"sentenceGloss": "Drzewo rośnie przed domem."
+		},
+		"kitchen": {
+			"sentenceGloss": "Przygotowujemy jedzenie w kuchni."
+		},
+		"attic": {
+			"sentenceGloss": "Na strychu przechowuje się stare walizki."
+		},
+		"floor": {
+			"sentenceGloss": "Moje mieszkanie jest na drugim piętrze."
+		}
+	},
+	"summary": "Położenie: біля + dopełniacz; під, над, за, перед + narzędnik; у/в, на + miejscownik."
+}

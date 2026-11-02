@@ -1,0 +1,43 @@
+{
+	"title": "Повелительное наклонение в инструкциях",
+	"summary": "Дайте простую форму повелительного наклонения от указанного глагола, без частиц. Сравните -и/-імо/-іть с нулевым окончанием/-мо/-те. Не переносите русское -ите: перевірте, сядьте. У ви́пиши и підкре́сли сохраняется словарное ударение.",
+	"cells": {
+		"ty.pysaty": {},
+		"my.pysaty": {},
+		"vy.pysaty": {},
+		"ty.vypysaty": {},
+		"my.vypysaty": {},
+		"vy.vypysaty": {},
+		"ty.pidkreslyty": {},
+		"my.pidkreslyty": {},
+		"vy.pidkreslyty": {},
+		"ty.vykonuvaty": {},
+		"my.vykonuvaty": {},
+		"vy.vykonuvaty": {},
+		"ty.pereviryty": {},
+		"my.pereviryty": {},
+		"vy.pereviryty": {},
+		"ty.sisty": {},
+		"my.sisty": {},
+		"vy.sisty": {},
+		"ty.kynuty": {},
+		"my.kynuty": {},
+		"vy.kynuty": {},
+		"ty.zapovnyty": {},
+		"my.zapovnyty": {},
+		"vy.zapovnyty": {}
+	},
+	"headers": {
+		"ty": "ты: просьба",
+		"my": "мы: побуждение",
+		"vy": "вы: просьба",
+		"pysaty": "писа́ти",
+		"vypysaty": "ви́писати",
+		"pidkreslyty": "підкре́слити",
+		"vykonuvaty": "вико́нувати",
+		"pereviryty": "переві́рити",
+		"sisty": "сі́сти",
+		"kynuty": "ки́нути",
+		"zapovnyty": "запо́внити"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"title": "Sentences",
+	"cells": {
+		"near": {
+			"sentenceGloss": "The armchair stands near the wardrobe."
+		},
+		"under": {
+			"sentenceGloss": "The cat sits under the table."
+		},
+		"over": {
+			"sentenceGloss": "The picture hangs above the sofa."
+		},
+		"behind": {
+			"sentenceGloss": "The coat rack stands behind the door."
+		},
+		"before": {
+			"sentenceGloss": "A tree grows in front of the house."
+		},
+		"kitchen": {
+			"sentenceGloss": "We prepare food in the kitchen."
+		},
+		"attic": {
+			"sentenceGloss": "Old suitcases are stored in the attic."
+		},
+		"floor": {
+			"sentenceGloss": "My flat is on the second floor."
+		}
+	},
+	"summary": "Location: біля + genitive; під, над, за, перед + instrumental; у/в, на + locative. These frames describe position."
+}

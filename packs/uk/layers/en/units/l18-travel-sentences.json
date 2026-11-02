@@ -1,0 +1,36 @@
+{
+	"title": "Journeys, cities and places",
+	"summary": "Use the lemma and context to select the form.",
+	"cells": {
+		"now": {
+			"sentenceGloss": "I am travelling to the theatre now."
+		},
+		"often": {
+			"sentenceGloss": "Every Monday I travel to the office."
+		},
+		"we": {
+			"sentenceGloss": "At this moment we are travelling across the bridge."
+		},
+		"they": {
+			"sentenceGloss": "Our neighbours travel to the lake every summer."
+		},
+		"town": {
+			"sentenceGloss": "This city has trams."
+		},
+		"place": {
+			"sentenceGloss": "There will be a stop at this place."
+		},
+		"towns": {
+			"sentenceGloss": "The tourists visited three cities."
+		},
+		"places": {
+			"sentenceGloss": "Parking is prohibited in these places."
+		},
+		"plane": {
+			"sentenceGloss": "They are travelling abroad by plane."
+		},
+		"train": {
+			"sentenceGloss": "This time we are travelling by train."
+		}
+	}
+}

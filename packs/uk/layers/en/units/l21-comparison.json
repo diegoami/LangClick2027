@@ -1,0 +1,21 @@
+{
+	"title": "Comparatives",
+	"summary": "Masculine singular: supply simple forms. Add най- to the comparative for the superlative.",
+	"headers": {
+		"slabkyy": "слабкий",
+		"hrubyy": "грубий",
+		"nizhnyy": "ніжний",
+		"lehkyy": "легкий",
+		"hlybokyy": "глибокий",
+		"blyzkyy": "близький",
+		"nyzkyy": "низький",
+		"tyazhkyy": "тяжкий",
+		"vazhkyy": "важкий",
+		"vysokyy": "високий",
+		"khoroshyy": "хороший",
+		"pohanyy": "поганий",
+		"velykyy": "великий",
+		"higher": "comparative"
+	},
+	"cells": {}
+}

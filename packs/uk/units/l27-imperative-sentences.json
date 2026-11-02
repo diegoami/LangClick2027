@@ -1,0 +1,103 @@
+{
+	"id": "l27-imperative-sentences",
+	"typing": true,
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"cells": [
+		{
+			"id": "write-you",
+			"item": "sentence:l27-imperative:write-you",
+			"text": "пиши",
+			"display": "пиши́",
+			"sentence": "Оле́но, ___ но́мер телефо́ну тут. (писа́ти; ти)"
+		},
+		{
+			"id": "copy-we",
+			"item": "sentence:l27-imperative:copy-we",
+			"text": "випишімо",
+			"display": "ви́пишімо",
+			"sentence": "___ незнайо́мі слова́ в окре́мий спи́сок. (ви́писати; ми)",
+			"alsoAccepted": ["випишім"]
+		},
+		{
+			"id": "underline-you",
+			"item": "sentence:l27-imperative:underline-you",
+			"text": "підкресли",
+			"display": "підкре́сли",
+			"sentence": "Андрі́ю, ___ заголо́вок. (підкре́слити; ти)",
+			"alsoAccepted": ["підкресль"]
+		},
+		{
+			"id": "complete-plural",
+			"item": "sentence:l27-imperative:complete-plural",
+			"text": "виконуйте",
+			"display": "вико́нуйте",
+			"sentence": "Дру́зі, ___ завда́ння самості́йно. (вико́нувати; ви)"
+		},
+		{
+			"id": "check-plural",
+			"item": "sentence:l27-imperative:check-plural",
+			"text": "перевірте",
+			"display": "переві́рте",
+			"sentence": "Шано́вні читачі́, ___ но́мер сторі́нки. (переві́рити; ви)"
+		},
+		{
+			"id": "sit-plural",
+			"item": "sentence:l27-imperative:sit-plural",
+			"text": "сядьте",
+			"display": "ся́дьте",
+			"sentence": "Шано́вні го́сті, ___ бі́ля вікна́. (сі́сти; ви)"
+		},
+		{
+			"id": "throw-you",
+			"item": "sentence:l27-imperative:throw-you",
+			"text": "кинь",
+			"display": "кинь",
+			"sentence": "Тара́се, ___ м'яч у ко́шик. (ки́нути; ти)"
+		},
+		{
+			"id": "fill-plural",
+			"item": "sentence:l27-imperative:fill-plural",
+			"text": "заповніть",
+			"display": "запо́вніть",
+			"sentence": "Шано́вні уча́сники, ___ анке́ту до поча́тку зу́стрічі. (запо́внити; ви)"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: писати",
+			"url": "https://goroh.pp.ua/Словозміна/писати"
+		},
+		{
+			"title": "Горох: виписати",
+			"url": "https://goroh.pp.ua/Словозміна/виписати"
+		},
+		{
+			"title": "Горох: підкреслити",
+			"url": "https://goroh.pp.ua/Словозміна/підкреслити"
+		},
+		{
+			"title": "Горох: виконувати",
+			"url": "https://goroh.pp.ua/Словозміна/виконувати"
+		},
+		{
+			"title": "Горох: перевірити",
+			"url": "https://goroh.pp.ua/Словозміна/перевірити"
+		},
+		{
+			"title": "Горох: сісти",
+			"url": "https://goroh.pp.ua/Словозміна/сісти"
+		},
+		{
+			"title": "Горох: кинути",
+			"url": "https://goroh.pp.ua/Словозміна/кинути"
+		},
+		{
+			"title": "Горох: заповнити",
+			"url": "https://goroh.pp.ua/Словозміна/заповнити"
+		}
+	],
+	"dealAll": true
+}

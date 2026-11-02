@@ -1,0 +1,71 @@
+{
+	"id": "l20-perfective-future",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["ya", "ty", "he", "my", "vy", "they"],
+		"columns": ["pity"]
+	},
+	"cells": [
+		{
+			"id": "ya.pity",
+			"item": "verb-future:pity:ya",
+			"text": "піду",
+			"display": "піду́",
+			"row": "ya",
+			"col": "pity"
+		},
+		{
+			"id": "ty.pity",
+			"item": "verb-future:pity:ty",
+			"text": "підеш",
+			"display": "пі́деш",
+			"row": "ty",
+			"col": "pity"
+		},
+		{
+			"id": "he.pity",
+			"item": "verb-future:pity:he",
+			"text": "піде",
+			"display": "пі́де",
+			"row": "he",
+			"col": "pity"
+		},
+		{
+			"id": "my.pity",
+			"item": "verb-future:pity:my",
+			"text": "підемо",
+			"display": "пі́демо",
+			"row": "my",
+			"col": "pity",
+			"alsoAccepted": ["підем"]
+		},
+		{
+			"id": "vy.pity",
+			"item": "verb-future:pity:vy",
+			"text": "підете",
+			"display": "пі́дете",
+			"row": "vy",
+			"col": "pity"
+		},
+		{
+			"id": "they.pity",
+			"item": "verb-future:pity:they",
+			"text": "підуть",
+			"display": "пі́дуть",
+			"row": "they",
+			"col": "pity"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 20 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@acee712c1883487f97c0ff31046ae49a"
+		},
+		{
+			"title": "Горох: піти",
+			"url": "https://goroh.pp.ua/Словозміна/піти"
+		}
+	]
+}

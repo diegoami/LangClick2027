@@ -1,0 +1,99 @@
+{
+	"title": "Kitchen and cooking",
+	"cells": {
+		"posud": {
+			"clue": "dishes; kitchenware (collectively)"
+		},
+		"kastrulya": {
+			"clue": "cooking pot"
+		},
+		"skovoridka": {
+			"clue": "frying pan"
+		},
+		"nizh": {
+			"clue": "knife"
+		},
+		"lozhka": {
+			"clue": "spoon"
+		},
+		"vydelka": {
+			"clue": "fork"
+		},
+		"sklyanka": {
+			"clue": "drinking glass"
+		},
+		"chashka": {
+			"clue": "tea or coffee cup"
+		},
+		"opolonyk": {
+			"clue": "ladle"
+		},
+		"tsukornytsya": {
+			"clue": "sugar bowl"
+		},
+		"silnytsya": {
+			"clue": "salt cellar; salt shaker"
+		},
+		"perechnytsya": {
+			"clue": "pepper pot; pepper shaker"
+		},
+		"tertushka": {
+			"clue": "grater"
+		},
+		"tatsya": {
+			"clue": "serving tray"
+		},
+		"drushlyak": {
+			"clue": "colander"
+		},
+		"stil": {
+			"clue": "table"
+		},
+		"stilets": {
+			"clue": "chair"
+		},
+		"strava": {
+			"clue": "dish (prepared food)"
+		},
+		"blyudo": {
+			"clue": "large serving platter"
+		},
+		"hram": {
+			"clue": "gram"
+		},
+		"kilohram": {
+			"clue": "kilogram"
+		},
+		"mandaryn": {
+			"clue": "mandarin orange"
+		},
+		"pomidor": {
+			"clue": "tomato"
+		},
+		"syr": {
+			"clue": "curd cheese (in syrnyky)"
+		},
+		"yaytse": {
+			"clue": "egg"
+		},
+		"manna-krupa": {
+			"clue": "semolina"
+		},
+		"rodzynky": {
+			"clue": "raisins"
+		},
+		"hotuvaty": {
+			"clue": "to cook; prepare (imperfective)"
+		},
+		"smazhyty": {
+			"clue": "to fry (imperfective)"
+		},
+		"kukhlyk": {
+			"clue": "small cylindrical mug"
+		},
+		"hornyatko": {
+			"clue": "small cooking pot"
+		}
+	},
+	"summary": "Recall kitchenware, ingredients and cooking verbs. Distinguish prepared food from a serving platter. Give dictionary forms."
+}

@@ -1,0 +1,60 @@
+{
+	"title": "Kwiaty i inne nazwy leśne",
+	"summary": "Nazwy kwiatów i ziół. Підсніжник to przebiśnieg, проліска — cebulica. Гриб jest tu osobną nazwą organizmu, nie zielonej rośliny.",
+	"cells": {
+		"pidsnizhnyk": {
+			"clue": "przebiśnieg"
+		},
+		"proliska": {
+			"clue": "cebulica"
+		},
+		"ryast": {
+			"clue": "kokorycz"
+		},
+		"konvaliya": {
+			"clue": "konwalia"
+		},
+		"fialka": {
+			"clue": "fiołek"
+		},
+		"zvirobiy": {
+			"clue": "dziurawiec"
+		},
+		"dereviy": {
+			"clue": "krwawnik"
+		},
+		"romashka": {
+			"clue": "rumianek"
+		},
+		"ivan-chay": {
+			"clue": "wierzbówka kiprzyca"
+		},
+		"hryb": {
+			"clue": "grzyb"
+		},
+		"hiatsynt": {
+			"clue": "hiacynt"
+		},
+		"krokus": {
+			"clue": "krokus"
+		},
+		"horytsvit": {
+			"clue": "miłek"
+		},
+		"tyulpan": {
+			"clue": "tulipan"
+		},
+		"pivoniya": {
+			"clue": "piwonia"
+		},
+		"barvinok": {
+			"clue": "barwinek"
+		},
+		"chornobryvtsi": {
+			"clue": "aksamitki (liczba mnoga)"
+		},
+		"pivnyky": {
+			"clue": "kosaćce (nazwa roślin, liczba mnoga)"
+		}
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"title": "Poczta, bank i biblioteka",
+	"summary": "Słownictwo poczty, banku i biblioteki. Ucz się akcentu wraz ze słowem, także w wyrazach podobnych do polskich.",
+	"cells": {
+		"poshta": {
+			"clue": "poczta"
+		},
+		"bank": {
+			"clue": "bank jako instytucja finansowa"
+		},
+		"biblioteka": {
+			"clue": "biblioteka"
+		},
+		"lyst": {
+			"clue": "list w kopercie"
+		},
+		"marka": {
+			"clue": "znaczek pocztowy (jedno słowo)"
+		},
+		"konvert": {
+			"clue": "koperta"
+		},
+		"posylka": {
+			"clue": "paczka pocztowa"
+		},
+		"perekaz": {
+			"clue": "przekaz pieniężny (jedno słowo)"
+		},
+		"rakhunok": {
+			"clue": "rachunek bankowy (jedno słowo)"
+		},
+		"kartka": {
+			"clue": "karta bankowa (jedno słowo)"
+		},
+		"pasport": {
+			"clue": "paszport"
+		},
+		"posluha": {
+			"clue": "usługa dla klienta"
+		},
+		"kasa": {
+			"clue": "kasa"
+		},
+		"viddilennya": {
+			"clue": "oddział banku lub poczty"
+		},
+		"adresa": {
+			"clue": "adres pocztowy"
+		},
+		"lystivka": {
+			"clue": "pocztówka"
+		},
+		"vidpravnyk": {
+			"clue": "nadawca (rodzaj męski)"
+		},
+		"oderzhuvach": {
+			"clue": "odbiorca (rodzaj męski)"
+		},
+		"povidomlennya": {
+			"clue": "wiadomość jako komunikat"
+		},
+		"fayl": {
+			"clue": "plik komputerowy"
+		},
+		"vaha": {
+			"clue": "waga przedmiotu"
+		},
+		"vartist": {
+			"clue": "koszt, wartość pieniężna"
+		},
+		"kredyt": {
+			"clue": "kredyt bankowy"
+		},
+		"formulyar": {
+			"clue": "formularz czytelnika"
+		},
+		"knyharnya": {
+			"clue": "księgarnia (jedno słowo)"
+		},
+		"bibliotekar": {
+			"clue": "bibliotekarz (rodzaj męski)"
+		},
+		"bezghotivkovyy": {
+			"clue": "bezgotówkowy (rodzaj męski)"
+		},
+		"nadislaty": {
+			"clue": "wysłać (aspekt dokonany)"
+		},
+		"otrymaty": {
+			"clue": "otrzymać (aspekt dokonany)"
+		},
+		"splatyty": {
+			"clue": "opłacić rachunek (aspekt dokonany)"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"title": "Following directions",
+	"summary": "Complete original route instructions using the stated meaning or lemma.",
+	"cells": {
+		"hotel": {
+			"sentenceGloss": "It is only a hundred metres from the stop to the hotel."
+		},
+		"museum": {
+			"sentenceGloss": "There is a bus near the museum."
+		},
+		"corner": {
+			"sentenceGloss": "The pharmacy is around the corner."
+		},
+		"oncorner": {
+			"sentenceGloss": "The kiosk is on the corner of two streets."
+		},
+		"left": {
+			"sentenceGloss": "Turn left."
+		},
+		"right": {
+			"sentenceGloss": "Then turn right."
+		},
+		"straight": {
+			"sentenceGloss": "Walk straight ahead to the park."
+		},
+		"street": {
+			"sentenceGloss": "Cross the street at the green light."
+		}
+	}
+}

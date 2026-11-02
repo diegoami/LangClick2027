@@ -1,0 +1,164 @@
+{
+	"id": "l22-leisure-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 14
+	},
+	"cells": [
+		{
+			"id": "timeacc",
+			"item": "sentence:l22-leisure-sentences:timeacc",
+			"text": "час",
+			"sentence": "Я планую вільний ___. (те, що вимірюють годинами, знахідний)",
+			"display": "ча́с"
+		},
+		{
+			"id": "timeins",
+			"item": "sentence:l22-leisure-sentences:timeins",
+			"text": "часом",
+			"sentence": "Умій користуватися вільним ___. (час)",
+			"display": "ча́сом"
+		},
+		{
+			"id": "enjoy",
+			"item": "sentence:l22-leisure-sentences:enjoy",
+			"text": "музикою",
+			"sentence": "Друзі насолоджуються ___. (музика)",
+			"display": "му́зикою"
+		},
+		{
+			"id": "interest",
+			"item": "sentence:l22-leisure-sentences:interest",
+			"text": "туризмом",
+			"sentence": "Мій брат цікавиться ___. (туризм)",
+			"display": "тури́змом"
+		},
+		{
+			"id": "activity",
+			"item": "sentence:l22-leisure-sentences:activity",
+			"text": "спортом",
+			"sentence": "Після роботи вона займається ___. (спорт)",
+			"display": "спо́ртом"
+		},
+		{
+			"id": "collect",
+			"item": "sentence:l22-leisure-sentences:collect",
+			"text": "колекціонуванням",
+			"sentence": "Олена захоплюється ___ листівок. (колекціонування)",
+			"display": "колекціонува́нням"
+		},
+		{
+			"id": "read",
+			"item": "sentence:l22-leisure-sentences:read",
+			"text": "читати",
+			"sentence": "У вихідні я люблю ___ книжки. (читання → інфінітив)",
+			"display": "чита́ти"
+		},
+		{
+			"id": "draw",
+			"item": "sentence:l22-leisure-sentences:draw",
+			"text": "малювати",
+			"sentence": "Марко обожнює ___ портрети. (малювання → інфінітив)",
+			"display": "малюва́ти"
+		},
+		{
+			"id": "sphere",
+			"item": "sentence:l22-leisure-sentences:sphere",
+			"text": "сфера",
+			"sentence": "Його ___ інтересів — дизайн. (одне слово, початок сф-)",
+			"display": "сфе́ра"
+		},
+		{
+			"id": "hobby",
+			"item": "sentence:l22-leisure-sentences:hobby",
+			"text": "хобі",
+			"sentence": "У подруги немає нового ___. (запозичена назва захоплення)",
+			"display": "хо́бі"
+		},
+		{
+			"id": "new",
+			"item": "sentence:l22-leisure-sentences:new",
+			"text": "нове",
+			"sentence": "Я обираю ___ хобі. (новий, знахідний)",
+			"display": "нове́"
+		},
+		{
+			"id": "plural",
+			"item": "sentence:l22-leisure-sentences:plural",
+			"text": "нові",
+			"sentence": "У них з’явилися ___ хобі. (новий, називний множини)",
+			"display": "нові́"
+		},
+		{
+			"id": "leisure",
+			"item": "sentence:l22-leisure-sentences:leisure",
+			"text": "дозвіллі",
+			"sentence": "На ___ ми читаємо. (дозвілля)",
+			"display": "дозві́ллі",
+			"alsoAccepted": ["дозвіллю"]
+		},
+		{
+			"id": "devote",
+			"item": "sentence:l22-leisure-sentences:devote",
+			"text": "музиці",
+			"sentence": "Сестра присвячує вечори ___. (музика)",
+			"display": "му́зиці"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 22 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@81b8b78358d04089b97ec1c30bb4b1fb"
+		},
+		{
+			"title": "Горох: час",
+			"url": "https://goroh.pp.ua/Словозміна/час"
+		},
+		{
+			"title": "Горох: музика",
+			"url": "https://goroh.pp.ua/Словозміна/музика"
+		},
+		{
+			"title": "Горох: туризм",
+			"url": "https://goroh.pp.ua/Словозміна/туризм"
+		},
+		{
+			"title": "Горох: спорт",
+			"url": "https://goroh.pp.ua/Словозміна/спорт"
+		},
+		{
+			"title": "Горох: колекціонування",
+			"url": "https://goroh.pp.ua/Словозміна/колекціонування"
+		},
+		{
+			"title": "Горох: читати",
+			"url": "https://goroh.pp.ua/Словозміна/читати"
+		},
+		{
+			"title": "Горох: малювати",
+			"url": "https://goroh.pp.ua/Словозміна/малювати"
+		},
+		{
+			"title": "Горох: сфера",
+			"url": "https://goroh.pp.ua/Словозміна/сфера"
+		},
+		{
+			"title": "Горох: хобі",
+			"url": "https://goroh.pp.ua/Словозміна/хобі"
+		},
+		{
+			"title": "Горох: новий",
+			"url": "https://goroh.pp.ua/Словозміна/новий"
+		},
+		{
+			"title": "Горох: дозвілля",
+			"url": "https://goroh.pp.ua/Словозміна/дозвілля"
+		},
+		{
+			"title": "Dobra Forma: instrumental with interests",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/10-2/"
+		}
+	]
+}

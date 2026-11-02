@@ -1,0 +1,90 @@
+{
+	"title": "Holidays and customs",
+	"summary": "Names of holidays, greetings and traditional objects. Religious communities can use different calendars.",
+	"cells": {
+		"svyato": {
+			"clue": "holiday; festival (singular noun)"
+		},
+		"rizdvo": {
+			"clue": "Christmas"
+		},
+		"velykden": {
+			"clue": "Easter (holiday name beginning Вел-)"
+		},
+		"nezalezhnist": {
+			"clue": "independence"
+		},
+		"tradytsiya": {
+			"clue": "tradition (word beginning тради-)"
+		},
+		"podarunok": {
+			"clue": "gift; present (noun)"
+		},
+		"pryvitannya": {
+			"clue": "congratulation; greeting (noun)"
+		},
+		"svyatkuvaty": {
+			"clue": "to celebrate a holiday"
+		},
+		"vitaty": {
+			"clue": "to congratulate (infinitive)"
+		},
+		"daruvaty": {
+			"clue": "to give as a present"
+		},
+		"novyy-rik": {
+			"clue": "New Year (holiday name)"
+		},
+		"svyatvechir": {
+			"clue": "Christmas Eve (one word)"
+		},
+		"kutya": {
+			"clue": "kutia; ceremonial grain dish"
+		},
+		"kolyadka": {
+			"clue": "Christmas carol"
+		},
+		"pysanka": {
+			"clue": "ornamented Easter egg made with wax resist"
+		},
+		"krashanka": {
+			"clue": "Easter egg dyed one colour"
+		},
+		"paska": {
+			"clue": "traditional Easter bread"
+		},
+		"zvychay": {
+			"clue": "custom; established practice (word beginning звич-)"
+		},
+		"derzhavnyy": {
+			"clue": "state; national (masculine adjective)"
+		},
+		"relihiynyy": {
+			"clue": "religious (masculine adjective)"
+		},
+		"triytsya": {
+			"clue": "Pentecost (Eastern Christian feast)"
+		},
+		"pokrova": {
+			"clue": "Intercession of the Mother of God (holiday, one word)"
+		},
+		"vodokhreshche": {
+			"clue": "Epiphany; Theophany (holiday)"
+		},
+		"blahovishchennya": {
+			"clue": "Annunciation (holiday)"
+		},
+		"obryad": {
+			"clue": "rite; ritual"
+		},
+		"uzvar": {
+			"clue": "uzvar; dried-fruit drink"
+		},
+		"didukh": {
+			"clue": "didukh; ceremonial Christmas sheaf"
+		},
+		"konstytutsiya": {
+			"clue": "constitution of a state"
+		}
+	}
+}

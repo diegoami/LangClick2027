@@ -1,0 +1,120 @@
+{
+	"id": "l17-order-pay",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 11
+	},
+	"cells": [
+		{
+			"id": "water",
+			"item": "sentence:l17-order-pay:water",
+			"text": "воду",
+			"sentence": "Принесіть нам ___ без газу. (вода)",
+			"display": "во́ду"
+		},
+		{
+			"id": "card",
+			"item": "sentence:l17-order-pay:card",
+			"text": "карткою",
+			"sentence": "За вечерю заплатимо ___. (картка)",
+			"display": "ка́рткою"
+		},
+		{
+			"id": "cash",
+			"item": "sentence:l17-order-pay:cash",
+			"text": "готівкою",
+			"sentence": "Сьогодні платимо ___. (готівка)",
+			"display": "готі́вкою"
+		},
+		{
+			"id": "coffee",
+			"item": "sentence:l17-order-pay:coffee",
+			"text": "каву",
+			"sentence": "Я замовлю ___ без молока. (кава)",
+			"display": "ка́ву"
+		},
+		{
+			"id": "one",
+			"item": "sentence:l17-order-pay:one",
+			"text": "гривня",
+			"sentence": "На столі одна ___. (грошова одиниця України)",
+			"display": "гри́вня"
+		},
+		{
+			"id": "two",
+			"item": "sentence:l17-order-pay:two",
+			"text": "гривні",
+			"sentence": "Ціна пакетика — дві ___. (гривня)",
+			"display": "гри́вні"
+		},
+		{
+			"id": "five",
+			"item": "sentence:l17-order-pay:five",
+			"text": "гривень",
+			"sentence": "За серветки взяли п’ять ___. (гривня)",
+			"display": "гри́вень",
+			"alsoAccepted": ["гривнів"]
+		},
+		{
+			"id": "twentyone",
+			"item": "sentence:l17-order-pay:twentyone",
+			"text": "гривня",
+			"sentence": "У чеку двадцять одна ___. (грошова одиниця України)",
+			"display": "гри́вня"
+		},
+		{
+			"id": "twentytwo",
+			"item": "sentence:l17-order-pay:twentytwo",
+			"text": "гривні",
+			"sentence": "За чай — двадцять дві ___. (гривня)",
+			"display": "гри́вні"
+		},
+		{
+			"id": "twentyfive",
+			"item": "sentence:l17-order-pay:twentyfive",
+			"text": "гривень",
+			"sentence": "За каву — двадцять п’ять ___. (гривня)",
+			"display": "гри́вень",
+			"alsoAccepted": ["гривнів"]
+		},
+		{
+			"id": "bill-request",
+			"item": "sentence:l17-order-pay:bill-request",
+			"text": "рахунок",
+			"display": "раху́нок",
+			"sentence": "Дайте, будь ласка, ___ за вечерю. (документ із сумою до сплати)"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 17 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@093965737a05495f84343b6afe6a57b6"
+		},
+		{
+			"title": "Горох: вода",
+			"url": "https://goroh.pp.ua/Словозміна/вода"
+		},
+		{
+			"title": "Горох: картка",
+			"url": "https://goroh.pp.ua/Словозміна/картка"
+		},
+		{
+			"title": "Горох: готівка",
+			"url": "https://goroh.pp.ua/Словозміна/готівка"
+		},
+		{
+			"title": "Горох: кава",
+			"url": "https://goroh.pp.ua/Словозміна/кава"
+		},
+		{
+			"title": "Горох: гривня",
+			"url": "https://goroh.pp.ua/Словозміна/гривня"
+		},
+		{
+			"title": "Горох: рахунок",
+			"url": "https://goroh.pp.ua/Словозміна/рахунок"
+		}
+	]
+}

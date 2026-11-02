@@ -1,0 +1,18 @@
+{
+	"title": "Природа в реченнях",
+	"summary": "Змініть слово в дужках. Прикметники та прийменники визначають відмінок і число.",
+	"cells": {
+		"forest-gen": {},
+		"river-gen": {},
+		"lake-gen": {},
+		"mountains-loc": {},
+		"pines-inst": {},
+		"willow-inst": {},
+		"oak-gen": {},
+		"lily-genpl": {},
+		"flower-acc": {},
+		"meadow-loc": {},
+		"reserve-gen": {},
+		"nature-inst": {}
+	}
+}

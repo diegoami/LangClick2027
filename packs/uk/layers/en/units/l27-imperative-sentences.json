@@ -1,0 +1,30 @@
+{
+	"title": "Requests and instructions",
+	"summary": "Use the imperative of the exact lemma for the indicated person. Do not add particles.",
+	"cells": {
+		"write-you": {
+			"sentenceGloss": "Olena, write the telephone number here."
+		},
+		"copy-we": {
+			"sentenceGloss": "Let us copy the unfamiliar words into a separate list."
+		},
+		"underline-you": {
+			"sentenceGloss": "Andrii, underline the heading."
+		},
+		"complete-plural": {
+			"sentenceGloss": "Friends, do the assignments independently."
+		},
+		"check-plural": {
+			"sentenceGloss": "Dear readers, check the page number."
+		},
+		"sit-plural": {
+			"sentenceGloss": "Dear guests, sit down by the window."
+		},
+		"throw-you": {
+			"sentenceGloss": "Taras, throw the ball into the basket."
+		},
+		"fill-plural": {
+			"sentenceGloss": "Dear participants, fill in the questionnaire before the meeting."
+		}
+	}
+}

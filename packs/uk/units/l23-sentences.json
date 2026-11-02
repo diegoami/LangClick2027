@@ -1,0 +1,147 @@
+{
+	"id": "l23-sentences",
+	"typing": true,
+	"layout": {
+		"type": "sentences",
+		"size": 12
+	},
+	"cells": [
+		{
+			"id": "post-loc",
+			"item": "sentence:l23:post-loc",
+			"text": "пошті",
+			"display": "по́шті",
+			"sentence": "На ___ продаю́ть конве́рти. (по́шта)"
+		},
+		{
+			"id": "bank-loc",
+			"item": "sentence:l23:bank-loc",
+			"text": "банку",
+			"display": "ба́нку",
+			"sentence": "Моя́ сестра́ відкри́ла раху́нок у ___. (банк)",
+			"alsoAccepted": ["банкові"]
+		},
+		{
+			"id": "library-loc",
+			"item": "sentence:l23:library-loc",
+			"text": "бібліотеці",
+			"display": "бібліоте́ці",
+			"sentence": "У ___ є чита́льна за́ла. (бібліоте́ка)"
+		},
+		{
+			"id": "stamp-acc",
+			"item": "sentence:l23:stamp-acc",
+			"text": "марку",
+			"display": "ма́рку",
+			"sentence": "Оле́г накле́їв на конве́рт ___. (ма́рка)"
+		},
+		{
+			"id": "card-acc",
+			"item": "sentence:l23:card-acc",
+			"text": "картку",
+			"display": "ка́ртку",
+			"sentence": "У ба́нку Іри́на замо́вила ___. (ка́ртка)"
+		},
+		{
+			"id": "address-acc",
+			"item": "sentence:l23:address-acc",
+			"text": "адресу",
+			"display": "адре́су",
+			"sentence": "Напиші́ть тут по́вну ___. (адре́са)"
+		},
+		{
+			"id": "bookshop-loc",
+			"item": "sentence:l23:bookshop-loc",
+			"text": "книгарні",
+			"display": "книга́рні",
+			"sentence": "Цей підру́чник продаю́ть у ___. (книга́рня)"
+		},
+		{
+			"id": "sender-gen",
+			"item": "sentence:l23:sender-gen",
+			"text": "відправника",
+			"display": "відпра́вника",
+			"sentence": "На конве́рті нема́є і́мені ___. (відпра́вник)"
+		},
+		{
+			"id": "recipient-dat",
+			"item": "sentence:l23:recipient-dat",
+			"text": "одержувачеві",
+			"display": "оде́ржувачеві",
+			"sentence": "Гро́ші передали́ ___. (оде́ржувач)",
+			"alsoAccepted": ["одержувачу"]
+		},
+		{
+			"id": "librarian-inst",
+			"item": "sentence:l23:librarian-inst",
+			"text": "бібліотекарем",
+			"display": "бібліоте́карем",
+			"sentence": "Ми поговори́ли з ___. (бібліоте́кар)"
+		},
+		{
+			"id": "transfer-gen",
+			"item": "sentence:l23:transfer-gen",
+			"text": "переказу",
+			"display": "пере́казу",
+			"sentence": "Для отри́мання ___ потрі́бен докуме́нт. (пере́каз)"
+		},
+		{
+			"id": "form-gen",
+			"item": "sentence:l23:form-gen",
+			"text": "формуляра",
+			"display": "формуля́ра",
+			"sentence": "Но́мер чита́цького ___ зміни́вся. (формуля́р)"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: пошта",
+			"url": "https://goroh.pp.ua/Словозміна/пошта"
+		},
+		{
+			"title": "Горох: банк",
+			"url": "https://goroh.pp.ua/Словозміна/банк"
+		},
+		{
+			"title": "Горох: бібліотека",
+			"url": "https://goroh.pp.ua/Словозміна/бібліотека"
+		},
+		{
+			"title": "Горох: марка",
+			"url": "https://goroh.pp.ua/Словозміна/марка"
+		},
+		{
+			"title": "Горох: картка",
+			"url": "https://goroh.pp.ua/Словозміна/картка"
+		},
+		{
+			"title": "Горох: адреса",
+			"url": "https://goroh.pp.ua/Словозміна/адреса"
+		},
+		{
+			"title": "Горох: книгарня",
+			"url": "https://goroh.pp.ua/Словозміна/книгарня"
+		},
+		{
+			"title": "Горох: відправник",
+			"url": "https://goroh.pp.ua/Словозміна/відправник"
+		},
+		{
+			"title": "Горох: одержувач",
+			"url": "https://goroh.pp.ua/Словозміна/одержувач"
+		},
+		{
+			"title": "Горох: бібліотекар",
+			"url": "https://goroh.pp.ua/Словозміна/бібліотекар"
+		},
+		{
+			"title": "Горох: переказ",
+			"url": "https://goroh.pp.ua/Словозміна/переказ"
+		},
+		{
+			"title": "Горох: формуляр",
+			"url": "https://goroh.pp.ua/Словозміна/формуляр"
+		}
+	],
+	"dealAll": true
+}

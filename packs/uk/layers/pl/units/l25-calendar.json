@@ -1,0 +1,33 @@
+{
+	"title": "Daty w obecnym kalendarzu państwowym",
+	"summary": "Podaj datę: liczebnik porządkowy w rodzaju nijakim i miesiąc w dopełniaczu. To aktualne daty państwowe po zmianach z 2023 r., które zastępują starsze daty w lekcji. Wielkanoc i Zesłanie Ducha Świętego są ruchome; daty obchodów religijnych mogą się różnić. Tablica nie ustala dni wolnych od pracy.",
+	"cells": {
+		"new-year": {
+			"clue": "Nowy Rok"
+		},
+		"women": {
+			"clue": "Międzynarodowy Dzień Kobiet"
+		},
+		"labour": {
+			"clue": "Święto Pracy"
+		},
+		"remembrance": {
+			"clue": "Dzień Pamięci i Zwycięstwa nad Nazizmem w II Wojnie Światowej"
+		},
+		"constitution": {
+			"clue": "Dzień Konstytucji Ukrainy"
+		},
+		"statehood": {
+			"clue": "Dzień Państwowości Ukraińskiej"
+		},
+		"independence": {
+			"clue": "Dzień Niepodległości Ukrainy"
+		},
+		"defenders": {
+			"clue": "Dzień Obrońców i Obrończyń Ukrainy"
+		},
+		"christmas": {
+			"clue": "Boże Narodzenie: obecna data w kalendarzu państwowym"
+		}
+	}
+}

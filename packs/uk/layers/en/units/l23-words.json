@@ -1,0 +1,96 @@
+{
+	"title": "Post, bank and library",
+	"summary": "Words for sending messages, banking and borrowing books. Masculine personal nouns are marked in clues.",
+	"cells": {
+		"poshta": {
+			"clue": "postal service; post office"
+		},
+		"bank": {
+			"clue": "bank (financial institution)"
+		},
+		"biblioteka": {
+			"clue": "library"
+		},
+		"lyst": {
+			"clue": "letter sent by post"
+		},
+		"marka": {
+			"clue": "postage stamp (one word)"
+		},
+		"konvert": {
+			"clue": "envelope"
+		},
+		"posylka": {
+			"clue": "postal parcel"
+		},
+		"perekaz": {
+			"clue": "money transfer (one word)"
+		},
+		"rakhunok": {
+			"clue": "bank account (one word)"
+		},
+		"kartka": {
+			"clue": "bank card (one word)"
+		},
+		"pasport": {
+			"clue": "passport"
+		},
+		"posluha": {
+			"clue": "service provided to a customer"
+		},
+		"kasa": {
+			"clue": "cash desk"
+		},
+		"viddilennya": {
+			"clue": "branch of a bank or post office"
+		},
+		"adresa": {
+			"clue": "postal address"
+		},
+		"lystivka": {
+			"clue": "postcard"
+		},
+		"vidpravnyk": {
+			"clue": "sender (masculine noun)"
+		},
+		"oderzhuvach": {
+			"clue": "recipient (masculine noun)"
+		},
+		"povidomlennya": {
+			"clue": "message (noun)"
+		},
+		"fayl": {
+			"clue": "computer file"
+		},
+		"vaha": {
+			"clue": "weight of an object"
+		},
+		"vartist": {
+			"clue": "cost; monetary value"
+		},
+		"kredyt": {
+			"clue": "bank loan"
+		},
+		"formulyar": {
+			"clue": "library registration form"
+		},
+		"knyharnya": {
+			"clue": "bookshop (one word)"
+		},
+		"bibliotekar": {
+			"clue": "librarian (masculine noun)"
+		},
+		"bezghotivkovyy": {
+			"clue": "cashless (masculine adjective)"
+		},
+		"nadislaty": {
+			"clue": "to send (perfective)"
+		},
+		"otrymaty": {
+			"clue": "to receive (perfective)"
+		},
+		"splatyty": {
+			"clue": "to pay a bill or charge in full (perfective)"
+		}
+	}
+}

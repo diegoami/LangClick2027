@@ -1,0 +1,99 @@
+{
+	"title": "Kuchnia i gotowanie",
+	"cells": {
+		"posud": {
+			"clue": "naczynia"
+		},
+		"kastrulya": {
+			"clue": "garnek"
+		},
+		"skovoridka": {
+			"clue": "patelnia"
+		},
+		"nizh": {
+			"clue": "nóż"
+		},
+		"lozhka": {
+			"clue": "łyżka"
+		},
+		"vydelka": {
+			"clue": "widelec"
+		},
+		"sklyanka": {
+			"clue": "szklanka"
+		},
+		"chashka": {
+			"clue": "filiżanka do herbaty lub kawy"
+		},
+		"opolonyk": {
+			"clue": "chochla"
+		},
+		"tsukornytsya": {
+			"clue": "cukiernica"
+		},
+		"silnytsya": {
+			"clue": "solniczka"
+		},
+		"perechnytsya": {
+			"clue": "pieprzniczka"
+		},
+		"tertushka": {
+			"clue": "tarka"
+		},
+		"tatsya": {
+			"clue": "taca"
+		},
+		"drushlyak": {
+			"clue": "durszlak"
+		},
+		"stil": {
+			"clue": "stół"
+		},
+		"stilets": {
+			"clue": "krzesło"
+		},
+		"strava": {
+			"clue": "potrawa"
+		},
+		"blyudo": {
+			"clue": "półmisek"
+		},
+		"hram": {
+			"clue": "gram"
+		},
+		"kilohram": {
+			"clue": "kilogram"
+		},
+		"mandaryn": {
+			"clue": "mandarynka"
+		},
+		"pomidor": {
+			"clue": "pomidor"
+		},
+		"syr": {
+			"clue": "twaróg na syrnyky"
+		},
+		"yaytse": {
+			"clue": "jajko"
+		},
+		"manna-krupa": {
+			"clue": "kasza manna"
+		},
+		"rodzynky": {
+			"clue": "rodzynki"
+		},
+		"hotuvaty": {
+			"clue": "gotować, przygotowywać"
+		},
+		"smazhyty": {
+			"clue": "smażyć"
+		},
+		"kukhlyk": {
+			"clue": "mały kubek"
+		},
+		"hornyatko": {
+			"clue": "mały garnuszek"
+		}
+	},
+	"summary": "Powtórz naczynia, składniki i czasowniki gotowania. Rozróżniaj potrawę i półmisek. Podaj formy słownikowe."
+}

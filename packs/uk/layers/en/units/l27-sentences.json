@@ -1,0 +1,54 @@
+{
+	"title": "Study verbs and their cases",
+	"summary": "Use the lemma given. Вчити/вивчати a subject takes the accusative; навчати someone takes the accusative and the subject taught takes the genitive. Керувати/завідувати take the instrumental; директор/завідувач take the genitive. A lemma cue fixes the word even where meanings overlap.",
+	"cells": {
+		"study-math": {
+			"sentenceGloss": "I am learning mathematics."
+		},
+		"learn-topic": {
+			"sentenceGloss": "We are studying a new topic."
+		},
+		"teach-math": {
+			"sentenceGloss": "She teaches the children mathematics."
+		},
+		"teach-student": {
+			"sentenceGloss": "The lecturer teaches the new student."
+		},
+		"teach-physics": {
+			"sentenceGloss": "My friend teaches me physics."
+		},
+		"manage-school": {
+			"sentenceGloss": "The headteacher runs the school."
+		},
+		"head-college": {
+			"sentenceGloss": "He is in charge of the technical college."
+		},
+		"director-school": {
+			"sentenceGloss": "This is the school headteacher's office."
+		},
+		"head-department": {
+			"sentenceGloss": "The head of department came to the meeting."
+		},
+		"acquire-education": {
+			"sentenceGloss": "Olena is pursuing higher education."
+		},
+		"knowledge-dat": {
+			"sentenceGloss": "Thanks to his broad knowledge he explained the difficult topic."
+		},
+		"paint-inst": {
+			"sentenceGloss": "The child paints with bright paints."
+		},
+		"hues-inst": {
+			"sentenceGloss": "We admire the autumn colours."
+		},
+		"scissors-gen": {
+			"sentenceGloss": "There are no scissors in the pencil case."
+		},
+		"notebook-loc": {
+			"sentenceGloss": "Oleh wrote the rule in his exercise book."
+		},
+		"ruler-inst": {
+			"sentenceGloss": "It is convenient to draw a straight line with a ruler."
+		}
+	}
+}

@@ -1,0 +1,189 @@
+{
+	"id": "l24-specialists-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 17
+	},
+	"cells": [
+		{
+			"id": "alerholoh",
+			"item": "word:alerholoh",
+			"text": "алерголог",
+			"display": "алерго́лог"
+		},
+		{
+			"id": "hinekoloh",
+			"item": "word:hinekoloh",
+			"text": "гінеколог",
+			"display": "гінеко́лог"
+		},
+		{
+			"id": "mamoloh",
+			"item": "word:mamoloh",
+			"text": "мамолог",
+			"display": "мамолог"
+		},
+		{
+			"id": "uroloh",
+			"item": "word:uroloh",
+			"text": "уролог",
+			"display": "уро́лог"
+		},
+		{
+			"id": "kardioloh",
+			"item": "word:kardioloh",
+			"text": "кардіолог",
+			"display": "кардіо́лог"
+		},
+		{
+			"id": "hastroenteroloh",
+			"item": "word:hastroenteroloh",
+			"text": "гастроентеролог",
+			"display": "гастроентеро́лог"
+		},
+		{
+			"id": "nevropatoloh",
+			"item": "word:nevropatoloh",
+			"text": "невропатолог",
+			"display": "невропато́лог",
+			"alsoAccepted": ["невролог"]
+		},
+		{
+			"id": "endokrynoloh",
+			"item": "word:endokrynoloh",
+			"text": "ендокринолог",
+			"display": "ендокрино́лог"
+		},
+		{
+			"id": "khirurh",
+			"item": "word:khirurh",
+			"text": "хірург",
+			"display": "хіру́рг"
+		},
+		{
+			"id": "travmatoloh",
+			"item": "word:travmatoloh",
+			"text": "травматолог",
+			"display": "травмато́лог"
+		},
+		{
+			"id": "dermatoloh",
+			"item": "word:dermatoloh",
+			"text": "дерматолог",
+			"display": "дермато́лог"
+		},
+		{
+			"id": "stomatoloh",
+			"item": "word:stomatoloh",
+			"text": "стоматолог",
+			"display": "стомато́лог",
+			"alsoAccepted": ["дантист", "зубний лікар"]
+		},
+		{
+			"id": "onkoloh",
+			"item": "word:onkoloh",
+			"text": "онколог",
+			"display": "онко́лог"
+		},
+		{
+			"id": "oftalmoloh",
+			"item": "word:oftalmoloh",
+			"text": "офтальмолог",
+			"display": "офтальмо́лог",
+			"alsoAccepted": ["окуліст"]
+		},
+		{
+			"id": "ftyziatr",
+			"item": "word:ftyziatr",
+			"text": "фтизіатр",
+			"display": "фтизіа́тр"
+		},
+		{
+			"id": "psykhiatr",
+			"item": "word:psykhiatr",
+			"text": "психіатр",
+			"display": "психіа́тр"
+		},
+		{
+			"id": "narkoloh",
+			"item": "word:narkoloh",
+			"text": "нарколог",
+			"display": "нарко́лог"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: алерголог",
+			"url": "https://goroh.pp.ua/Словозміна/алерголог"
+		},
+		{
+			"title": "Горох: гінеколог",
+			"url": "https://goroh.pp.ua/Словозміна/гінеколог"
+		},
+		{
+			"title": "Горох: мамолог",
+			"url": "https://goroh.pp.ua/Словозміна/мамолог"
+		},
+		{
+			"title": "Горох: уролог",
+			"url": "https://goroh.pp.ua/Словозміна/уролог"
+		},
+		{
+			"title": "Горох: кардіолог",
+			"url": "https://goroh.pp.ua/Словозміна/кардіолог"
+		},
+		{
+			"title": "Горох: гастроентеролог",
+			"url": "https://goroh.pp.ua/Словозміна/гастроентеролог"
+		},
+		{
+			"title": "Горох: невропатолог",
+			"url": "https://goroh.pp.ua/Словозміна/невропатолог"
+		},
+		{
+			"title": "Горох: ендокринолог",
+			"url": "https://goroh.pp.ua/Словозміна/ендокринолог"
+		},
+		{
+			"title": "Горох: хірург",
+			"url": "https://goroh.pp.ua/Словозміна/хірург"
+		},
+		{
+			"title": "Горох: травматолог",
+			"url": "https://goroh.pp.ua/Словозміна/травматолог"
+		},
+		{
+			"title": "Горох: дерматолог",
+			"url": "https://goroh.pp.ua/Словозміна/дерматолог"
+		},
+		{
+			"title": "Горох: стоматолог",
+			"url": "https://goroh.pp.ua/Словозміна/стоматолог"
+		},
+		{
+			"title": "Горох: онколог",
+			"url": "https://goroh.pp.ua/Словозміна/онколог"
+		},
+		{
+			"title": "Горох: офтальмолог",
+			"url": "https://goroh.pp.ua/Словозміна/офтальмолог"
+		},
+		{
+			"title": "Горох: фтизіатр",
+			"url": "https://goroh.pp.ua/Словозміна/фтизіатр"
+		},
+		{
+			"title": "Горох: психіатр",
+			"url": "https://goroh.pp.ua/Словозміна/психіатр"
+		},
+		{
+			"title": "Горох: нарколог",
+			"url": "https://goroh.pp.ua/Словозміна/нарколог"
+		},
+		{
+			"title": "Горох: академічні словникові значення — стоматолог",
+			"url": "https://goroh.pp.ua/Тлумачення/стоматолог"
+		}
+	]
+}

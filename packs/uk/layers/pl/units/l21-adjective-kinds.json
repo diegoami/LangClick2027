@@ -1,0 +1,15 @@
+{
+	"title": "Rodzaje przymiotników",
+	"summary": "Trzy klasy; stopniowanie dotyczy głównie przymiotników jakościowych.",
+	"cells": {
+		"yakisnyy": {
+			"clue": "jakościowy (typ przymiotnika, rodzaj męski)"
+		},
+		"vidnosnyy": {
+			"clue": "relacyjny (typ przymiotnika, rodzaj męski)"
+		},
+		"prysviynyy": {
+			"clue": "dzierżawczy (typ przymiotnika, rodzaj męski)"
+		}
+	}
+}

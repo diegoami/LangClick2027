@@ -1,0 +1,127 @@
+{
+	"id": "l27-present-teach",
+	"typing": true,
+	"layout": {
+		"type": "table",
+		"rows": ["ya", "ty", "he", "my", "vy", "they"],
+		"columns": ["navchaty", "navchatysya"]
+	},
+	"cells": [
+		{
+			"id": "ya.navchaty",
+			"item": "verb-present:navchaty:ya",
+			"text": "навчаю",
+			"display": "навча́ю",
+			"row": "ya",
+			"col": "navchaty"
+		},
+		{
+			"id": "ty.navchaty",
+			"item": "verb-present:navchaty:ty",
+			"text": "навчаєш",
+			"display": "навча́єш",
+			"row": "ty",
+			"col": "navchaty"
+		},
+		{
+			"id": "he.navchaty",
+			"item": "verb-present:navchaty:he",
+			"text": "навчає",
+			"display": "навча́є",
+			"row": "he",
+			"col": "navchaty",
+			"alsoAccepted": ["навча"]
+		},
+		{
+			"id": "my.navchaty",
+			"item": "verb-present:navchaty:my",
+			"text": "навчаємо",
+			"display": "навча́ємо",
+			"row": "my",
+			"col": "navchaty",
+			"alsoAccepted": ["навчаєм"]
+		},
+		{
+			"id": "vy.navchaty",
+			"item": "verb-present:navchaty:vy",
+			"text": "навчаєте",
+			"display": "навча́єте",
+			"row": "vy",
+			"col": "navchaty"
+		},
+		{
+			"id": "they.navchaty",
+			"item": "verb-present:navchaty:they",
+			"text": "навчають",
+			"display": "навча́ють",
+			"row": "they",
+			"col": "navchaty"
+		},
+		{
+			"id": "ya.navchatysya",
+			"item": "verb-present:navchatysya:ya",
+			"text": "навчаюся",
+			"display": "навча́юся",
+			"row": "ya",
+			"col": "navchatysya",
+			"alsoAccepted": ["навчаюсь"]
+		},
+		{
+			"id": "ty.navchatysya",
+			"item": "verb-present:navchatysya:ty",
+			"text": "навчаєшся",
+			"display": "навча́єшся",
+			"row": "ty",
+			"col": "navchatysya"
+		},
+		{
+			"id": "he.navchatysya",
+			"item": "verb-present:navchatysya:he",
+			"text": "навчається",
+			"display": "навча́ється",
+			"row": "he",
+			"col": "navchatysya"
+		},
+		{
+			"id": "my.navchatysya",
+			"item": "verb-present:navchatysya:my",
+			"text": "навчаємося",
+			"display": "навча́ємося",
+			"row": "my",
+			"col": "navchatysya",
+			"alsoAccepted": ["навчаємось", "навчаємся"]
+		},
+		{
+			"id": "vy.navchatysya",
+			"item": "verb-present:navchatysya:vy",
+			"text": "навчаєтеся",
+			"display": "навча́єтеся",
+			"row": "vy",
+			"col": "navchatysya",
+			"alsoAccepted": ["навчаєтесь"]
+		},
+		{
+			"id": "they.navchatysya",
+			"item": "verb-present:navchatysya:they",
+			"text": "навчаються",
+			"display": "навча́ються",
+			"row": "they",
+			"col": "navchatysya"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: навчати",
+			"url": "https://goroh.pp.ua/Словозміна/навчати"
+		},
+		{
+			"title": "Горох: навчатися",
+			"url": "https://goroh.pp.ua/Словозміна/навчатися"
+		},
+		{
+			"title": "Шевчук, Клименко: Українська мова за професійним спрямуванням, с.24",
+			"url": "https://repo.ocsnau.net/id/eprint/267/1/Укр%20мова%20за%20пр%20спрям%20Шевчук,%20Клименко.pdf#page=24"
+		}
+	],
+	"dealAll": true
+}

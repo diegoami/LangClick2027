@@ -1,0 +1,66 @@
+{
+	"title": "Travel and Ukrainian cities",
+	"summary": "Travel and city sights.",
+	"cells": {
+		"podorozh": {
+			"clue": "journey; travel (feminine noun)"
+		},
+		"vidpustka": {
+			"clue": "leave from work; vacation"
+		},
+		"stolytsya": {
+			"clue": "capital city"
+		},
+		"pam-yatka": {
+			"clue": "historic or cultural site (feminine)"
+		},
+		"lehenda": {
+			"clue": "legend; traditional story"
+		},
+		"khmarochos": {
+			"clue": "skyscraper"
+		},
+		"naberezhna": {
+			"clue": "embankment promenade (noun)"
+		},
+		"bulvar": {
+			"clue": "boulevard"
+		},
+		"skhody": {
+			"clue": "stairs (plural)"
+		},
+		"sporuda": {
+			"clue": "structure; construction (feminine noun beginning спор-)"
+		},
+		"budivlya": {
+			"clue": "building (feminine noun beginning будів-)"
+		},
+		"ploshcha": {
+			"clue": "city square"
+		},
+		"vulytsya": {
+			"clue": "street"
+		},
+		"prospekt": {
+			"clue": "broad avenue"
+		},
+		"teatr": {
+			"clue": "theatre"
+		},
+		"tserkva": {
+			"clue": "church building (feminine)"
+		},
+		"more": {
+			"clue": "sea"
+		},
+		"krayina": {
+			"clue": "country (feminine)"
+		},
+		"muzey": {
+			"clue": "museum"
+		},
+		"palats": {
+			"clue": "palace"
+		}
+	}
+}

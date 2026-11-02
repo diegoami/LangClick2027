@@ -1,0 +1,180 @@
+{
+	"title": "Appearance",
+	"cells": {
+		"serednoyi-statury": {
+			"clue": "of medium build"
+		},
+		"mitsnoyi-budovy": {
+			"clue": "of strong build"
+		},
+		"khudyy": {
+			"clue": "thin; lean"
+		},
+		"khudorlyavyy": {
+			"clue": "slender; somewhat thin"
+		},
+		"strunkyy": {
+			"clue": "slim and well proportioned"
+		},
+		"tenditnyy": {
+			"clue": "delicate; slight in build"
+		},
+		"shyrokoplechyy": {
+			"clue": "broad shouldered"
+		},
+		"tovstyy": {
+			"clue": "fat (body shape)"
+		},
+		"povnyy": {
+			"clue": "plump (person)"
+		},
+		"vysokyy": {
+			"clue": "tall (person)"
+		},
+		"nyzkyy": {
+			"clue": "short (stature)"
+		},
+		"nevysokyy": {
+			"clue": "not tall: a negative adjective formed with не- from високий"
+		},
+		"serednoho-zrostu": {
+			"clue": "of medium height"
+		},
+		"kruhlyy": {
+			"clue": "round"
+		},
+		"kvadratnyy": {
+			"clue": "square"
+		},
+		"vydovzhenyy": {
+			"clue": "elongated"
+		},
+		"rum-yanyy": {
+			"clue": "rosy cheeked"
+		},
+		"blidyy": {
+			"clue": "pale"
+		},
+		"smahlyavyy": {
+			"clue": "naturally dark complexioned"
+		},
+		"zasmahlyy": {
+			"clue": "tanned"
+		},
+		"harnyy": {
+			"clue": "beautiful; good looking"
+		},
+		"neharnyy": {
+			"clue": "not good looking"
+		},
+		"sympatychnyy": {
+			"clue": "pleasant looking; attractive"
+		},
+		"potvornyy": {
+			"clue": "ugly; hideous"
+		},
+		"nizhnyy": {
+			"clue": "delicate; soft (features)"
+		},
+		"hrubyy": {
+			"clue": "coarse (features)"
+		},
+		"veselyy": {
+			"clue": "cheerful"
+		},
+		"sturbovanyy": {
+			"clue": "worried"
+		},
+		"seryoznyy": {
+			"clue": "serious"
+		},
+		"pryvitnyy": {
+			"clue": "welcoming; friendly"
+		},
+		"khytryy": {
+			"clue": "sly"
+		},
+		"zadovolenyy": {
+			"clue": "pleased; satisfied"
+		},
+		"khvylyastyy": {
+			"clue": "wavy (hair)"
+		},
+		"kucheryavyy": {
+			"clue": "curly"
+		},
+		"pidstryzhenyy": {
+			"clue": "trimmed (hair)"
+		},
+		"zachesanyy": {
+			"clue": "combed"
+		},
+		"skuyovdzhenyy": {
+			"clue": "tousled"
+		},
+		"kashtanovyy": {
+			"clue": "chestnut brown (hair)"
+		},
+		"rudyy": {
+			"clue": "red haired"
+		},
+		"rusyavyy": {
+			"clue": "dark blond; light brown (hair)"
+		},
+		"syvyy": {
+			"clue": "grey haired"
+		},
+		"farbovanyy": {
+			"clue": "dyed (hair)"
+		},
+		"karyy": {
+			"clue": "brown (eyes)"
+		},
+		"hustyy": {
+			"clue": "thick; dense (hair)"
+		},
+		"pukhkyy": {
+			"clue": "plump; full (lips)"
+		},
+		"dovhyy": {
+			"clue": "long"
+		},
+		"korotkyy": {
+			"clue": "short in length"
+		},
+		"pryamyy": {
+			"clue": "straight"
+		},
+		"tonkyy": {
+			"clue": "thin; narrow in thickness"
+		},
+		"shyrokyy": {
+			"clue": "wide"
+		},
+		"z-horbynkoyu": {
+			"clue": "with a bump (nose)"
+		},
+		"zdorovyy": {
+			"clue": "healthy"
+		},
+		"svitlyy": {
+			"clue": "light in colour (hair)"
+		},
+		"temnyy": {
+			"clue": "dark in colour (hair)"
+		},
+		"bilyy": {
+			"clue": "white"
+		},
+		"chornyy": {
+			"clue": "black"
+		},
+		"siryy": {
+			"clue": "grey (a colour)"
+		},
+		"velykyy": {
+			"clue": "big; large"
+		}
+	},
+	"summary": "Describe build, height, hair and facial features. Adjectives here use masculine nominative; phrases retain their shown grammatical frame."
+}

@@ -1,0 +1,30 @@
+{
+	"title": "Plany przyszłych podróży",
+	"summary": "Przyszłość dokonana, dwa warianty niedokonane i teraźniejszość dla planu.",
+	"cells": {
+		"i": {
+			"sentenceGloss": "Jutro pójdę do galerii."
+		},
+		"we": {
+			"sentenceGloss": "Po wycieczce pójdziemy do kawiarni."
+		},
+		"you": {
+			"sentenceGloss": "W sobotę pójdziesz na wystawę."
+		},
+		"they": {
+			"sentenceGloss": "W przyszłym tygodniu pójdą do muzeum."
+		},
+		"walk": {
+			"sentenceGloss": "Wieczorem będę iść wzdłuż rzeki."
+		},
+		"walkwe": {
+			"sentenceGloss": "Jutro będziemy iść powoli."
+		},
+		"read": {
+			"sentenceGloss": "W pociągu będę czytać przewodnik."
+		},
+		"planned": {
+			"sentenceGloss": "Jutro rano jadę do Lwowa."
+		}
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"title": "Что мы делаем со свободным временем",
+	"summary": "Инфинитивы несовершенного вида о времени и досуге.",
+	"cells": {
+		"provodyty": {
+			"clue": "проводить время (инфинитив)"
+		},
+		"vkladaty": {
+			"clue": "вкладывать время или усилия"
+		},
+		"planuvaty": {
+			"clue": "планировать"
+		},
+		"znakhodyty": {
+			"clue": "находить время"
+		},
+		"prysvyachuvaty": {
+			"clue": "посвящать время чему-либо"
+		},
+		"haynuvaty": {
+			"clue": "тратить время впустую (г-)"
+		},
+		"korystuvatysya": {
+			"clue": "пользоваться"
+		},
+		"volodity": {
+			"clue": "владеть"
+		},
+		"nasolodzhuvatysya": {
+			"clue": "наслаждаться"
+		},
+		"zhertvuvaty": {
+			"clue": "жертвовать"
+		},
+		"rozslablyatysya": {
+			"clue": "расслабляться"
+		},
+		"tsikavytysya": {
+			"clue": "интересоваться"
+		},
+		"zaymatysya": {
+			"clue": "заниматься делом"
+		},
+		"vidpochyvaty": {
+			"clue": "отдыхать"
+		}
+	}
+}

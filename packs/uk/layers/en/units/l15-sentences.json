@@ -1,0 +1,21 @@
+{
+	"title": "Sentences",
+	"cells": {
+		"oil": {
+			"sentenceGloss": "I buy sunflower oil for the salad."
+		},
+		"butter": {
+			"sentenceGloss": "I spread butter on the bread."
+		},
+		"expiry": {
+			"sentenceGloss": "Before buying I check the shelf life."
+		},
+		"cost": {
+			"sentenceGloss": "How much does this loaf cost?"
+		},
+		"carrots": {
+			"sentenceGloss": "I cut carrots for soup."
+		}
+	},
+	"summary": "Use the lemma or the meaning fixed by the sentence to supply the missing form."
+}

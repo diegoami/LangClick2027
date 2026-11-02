@@ -1,0 +1,106 @@
+{
+	"title": "Zakupy i produkty",
+	"cells": {
+		"zakupy": {
+			"clue": "zakupy"
+		},
+		"khlibyna": {
+			"clue": "bochenek chleba"
+		},
+		"plyashka": {
+			"clue": "butelka"
+		},
+		"yakist": {
+			"clue": "jakość"
+		},
+		"termin-prydatnosti": {
+			"clue": "termin przydatności"
+		},
+		"koshtuvaty": {
+			"clue": "kosztować"
+		},
+		"svizhyy": {
+			"clue": "świeży"
+		},
+		"oliya": {
+			"clue": "olej roślinny"
+		},
+		"maslo": {
+			"clue": "masło"
+		},
+		"krip": {
+			"clue": "koper"
+		},
+		"petrushka": {
+			"clue": "pietruszka"
+		},
+		"bazylik": {
+			"clue": "bazylia"
+		},
+		"kartoplya": {
+			"clue": "ziemniaki jako produkt"
+		},
+		"buryak": {
+			"clue": "burak"
+		},
+		"tsybulya": {
+			"clue": "cebula"
+		},
+		"chasnyk": {
+			"clue": "czosnek"
+		},
+		"morkva": {
+			"clue": "marchew"
+		},
+		"kvasolya": {
+			"clue": "fasola"
+		},
+		"kavun": {
+			"clue": "arbuz"
+		},
+		"dynya": {
+			"clue": "melon"
+		},
+		"polunytsya": {
+			"clue": "truskawka"
+		},
+		"vyshnya": {
+			"clue": "wiśnia"
+		},
+		"agrus": {
+			"clue": "agrest"
+		},
+		"vershky": {
+			"clue": "śmietanka"
+		},
+		"morozyvo": {
+			"clue": "lody"
+		},
+		"boroshno": {
+			"clue": "mąka"
+		},
+		"tsukor": {
+			"clue": "cukier"
+		},
+		"sil": {
+			"clue": "sól"
+		},
+		"zhushchene-moloko": {
+			"clue": "mleko skondensowane"
+		},
+		"makarony": {
+			"clue": "makaron"
+		},
+		"solodoshchi": {
+			"clue": "słodycze"
+		},
+		"tsukornytsya": {
+			"clue": "cukiernica (wyraz z цукор-)"
+		},
+		"tsukernytsya": {
+			"clue": "cukiernica: słownikowy synonim z цукер-",
+			"note": "Słowniki akademickie podają także цукерниця w znaczeniu cukiernicy. Rozróżniamy tu pisownię, a nie wyłączne przeznaczenie naczynia na cukier lub cukierki."
+		}
+	},
+	"summary": "Powtórz produkty i zakupy. Rozróżniaj olej i masło oraz cukier i cukierki. Podaj formy słownikowe."
+}

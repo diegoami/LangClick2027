@@ -1,0 +1,17 @@
+{
+	"title": "Замовлення та оплата",
+	"summary": "Прохання, форми оплати й суми: 1, 2–4 та 5+.",
+	"cells": {
+		"water": {},
+		"card": {},
+		"cash": {},
+		"coffee": {},
+		"one": {},
+		"two": {},
+		"five": {},
+		"twentyone": {},
+		"twentytwo": {},
+		"twentyfive": {},
+		"bill-request": {}
+	}
+}

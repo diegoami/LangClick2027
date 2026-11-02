@@ -73,8 +73,14 @@ because new material is what moves a learner forward. A `dealAll` unit offers th
 
 - `packs.test.ts` runs the validator and the recorded content checks over every
   pack in `packs/`, so a new pack is covered by being there. It also checks that every
-  choice of languages leaves no tile without a clue.
+  choice of languages leaves no tile without a clue. The eMova coverage ledger must
+  offer practice for all 27 lessons and map each lesson to its own registered boards;
+  factual scope and source-only activities are recorded beside the mapping.
 - `locales.test.ts` keeps the interface languages in step: same keys, same placeholders.
 - `engineNeutral.test.ts` fails if engine code names a language or contains another
   script's text.
 - `QuizView.svelte.test.ts` plays rounds in real Chromium against real pack data.
+
+- `OverviewView.svelte.test.ts` checks the long verb tables at phone width in every
+  explanation language. It measures answer text against its own cell, since a page
+  can fit the viewport while answers overlap neighbouring cells.

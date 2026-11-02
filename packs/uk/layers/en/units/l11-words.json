@@ -1,0 +1,150 @@
+{
+	"title": "Body and face",
+	"cells": {
+		"tilo": {
+			"clue": "body"
+		},
+		"shkira": {
+			"clue": "skin"
+		},
+		"holova": {
+			"clue": "head"
+		},
+		"makivka": {
+			"clue": "crown of the head"
+		},
+		"vukho": {
+			"clue": "ear"
+		},
+		"skronya": {
+			"clue": "temple (head)"
+		},
+		"vylytsya": {
+			"clue": "cheekbone"
+		},
+		"potylytsya": {
+			"clue": "back of the head"
+		},
+		"volossya": {
+			"clue": "hair (collectively)"
+		},
+		"volosyna": {
+			"clue": "a single hair"
+		},
+		"pasmo": {
+			"clue": "lock of hair"
+		},
+		"zachiska": {
+			"clue": "hairstyle"
+		},
+		"shyya": {
+			"clue": "neck"
+		},
+		"horlo": {
+			"clue": "throat"
+		},
+		"pidboriddya": {
+			"clue": "chin"
+		},
+		"shchelepa": {
+			"clue": "jaw"
+		},
+		"zub": {
+			"clue": "tooth"
+		},
+		"yasna": {
+			"clue": "gums (plural noun)"
+		},
+		"oblychchya": {
+			"clue": "face"
+		},
+		"lob": {
+			"clue": "forehead"
+		},
+		"brova": {
+			"clue": "eyebrow"
+		},
+		"oko": {
+			"clue": "eye"
+		},
+		"viya": {
+			"clue": "eyelash"
+		},
+		"pohlyad": {
+			"clue": "look; gaze"
+		},
+		"nis": {
+			"clue": "nose"
+		},
+		"shchoka": {
+			"clue": "cheek"
+		},
+		"huba": {
+			"clue": "lip"
+		},
+		"rot": {
+			"clue": "mouth"
+		},
+		"yazyk": {
+			"clue": "tongue (organ)"
+		},
+		"tulub": {
+			"clue": "torso"
+		},
+		"pleche": {
+			"clue": "shoulder"
+		},
+		"hrudna-klityna": {
+			"clue": "rib cage"
+		},
+		"hrudy": {
+			"clue": "chest (plural noun)"
+		},
+		"rebro": {
+			"clue": "rib"
+		},
+		"zhyvit": {
+			"clue": "abdomen; belly"
+		},
+		"taliya": {
+			"clue": "waist"
+		},
+		"spyna": {
+			"clue": "back"
+		},
+		"khrebet": {
+			"clue": "spine"
+		},
+		"poperek": {
+			"clue": "lower back; lumbar region"
+		},
+		"kryzhi": {
+			"clue": "sacral region (plural noun)"
+		},
+		"stehno": {
+			"clue": "thigh"
+		},
+		"ruka": {
+			"clue": "arm; upper limb"
+		},
+		"dolonya": {
+			"clue": "palm of the hand"
+		},
+		"likot": {
+			"clue": "elbow"
+		},
+		"noha": {
+			"clue": "leg; lower limb"
+		},
+		"kolino": {
+			"clue": "knee"
+		},
+		"stopa": {
+			"clue": "foot (anatomy)"
+		},
+		"palets": {
+			"clue": "finger or toe"
+		}
+	},
+	"summary": "Recall body and face terms. Give the dictionary form; plural-only nouns stay plural."
+}

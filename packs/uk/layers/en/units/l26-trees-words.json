@@ -1,0 +1,105 @@
+{
+	"title": "Trees, shrubs and berries",
+	"summary": "Names from the nature lesson. Явір is sycamore maple, not ash; the dictionary corrects the older lesson's Russian gloss.",
+	"cells": {
+		"dub": {
+			"clue": "oak"
+		},
+		"sosna": {
+			"clue": "pine"
+		},
+		"yavir": {
+			"clue": "sycamore maple; Acer pseudoplatanus"
+		},
+		"bereza": {
+			"clue": "birch"
+		},
+		"lypa": {
+			"clue": "linden; lime tree"
+		},
+		"osyka": {
+			"clue": "aspen"
+		},
+		"vilkha": {
+			"clue": "alder"
+		},
+		"ozhyna": {
+			"clue": "blackberry (plant or fruit)"
+		},
+		"shypshyna": {
+			"clue": "wild rose; rosehip plant"
+		},
+		"barbarys": {
+			"clue": "barberry"
+		},
+		"lishchyna": {
+			"clue": "hazel (shrub)"
+		},
+		"malyna": {
+			"clue": "raspberry (plant or fruit)"
+		},
+		"buzok": {
+			"clue": "lilac (shrub)"
+		},
+		"brusnytsya": {
+			"clue": "lingonberry"
+		},
+		"chornytsya": {
+			"clue": "bilberry; European blueberry"
+		},
+		"zhuravlyna": {
+			"clue": "cranberry"
+		},
+		"hlid": {
+			"clue": "hawthorn"
+		},
+		"myhdal": {
+			"clue": "almond (plant or nut)"
+		},
+		"teren": {
+			"clue": "blackthorn; sloe"
+		},
+		"buk": {
+			"clue": "beech"
+		},
+		"yalytsya": {
+			"clue": "fir (Abies)"
+		},
+		"smereka": {
+			"clue": "spruce; regional name for Picea abies"
+		},
+		"modryna": {
+			"clue": "larch"
+		},
+		"yalivets": {
+			"clue": "juniper"
+		},
+		"kyparys": {
+			"clue": "cypress"
+		},
+		"palma": {
+			"clue": "palm tree"
+		},
+		"mahnoliya": {
+			"clue": "magnolia"
+		},
+		"kedr": {
+			"clue": "cedar (Cedrus)"
+		},
+		"lavr": {
+			"clue": "laurel; bay tree"
+		},
+		"kalyna": {
+			"clue": "guelder rose; Viburnum opulus"
+		},
+		"verba": {
+			"clue": "willow"
+		},
+		"sunychne-derevo": {
+			"clue": "strawberry tree; Arbutus (two words)"
+		},
+		"fistashka": {
+			"clue": "pistachio tree or nut"
+		}
+	}
+}

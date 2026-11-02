@@ -1,0 +1,57 @@
+{
+	"title": "Medical specialists",
+	"summary": "Speciality names in the masculine grammatical form. The clues identify the speciality, not who may practise it.",
+	"cells": {
+		"alerholoh": {
+			"clue": "allergist (masculine noun)"
+		},
+		"hinekoloh": {
+			"clue": "gynaecologist (masculine noun)"
+		},
+		"mamoloh": {
+			"clue": "breast specialist (masculine noun)"
+		},
+		"uroloh": {
+			"clue": "urologist (masculine noun)"
+		},
+		"kardioloh": {
+			"clue": "cardiologist (masculine noun)"
+		},
+		"hastroenteroloh": {
+			"clue": "gastroenterologist (masculine noun)"
+		},
+		"nevropatoloh": {
+			"clue": "neurologist (masculine noun)"
+		},
+		"endokrynoloh": {
+			"clue": "endocrinologist (masculine noun)"
+		},
+		"khirurh": {
+			"clue": "surgeon (masculine noun)"
+		},
+		"travmatoloh": {
+			"clue": "traumatologist (masculine noun)"
+		},
+		"dermatoloh": {
+			"clue": "dermatologist (masculine noun)"
+		},
+		"stomatoloh": {
+			"clue": "dentist (masculine noun)"
+		},
+		"onkoloh": {
+			"clue": "oncologist (masculine noun)"
+		},
+		"oftalmoloh": {
+			"clue": "ophthalmologist (masculine noun)"
+		},
+		"ftyziatr": {
+			"clue": "tuberculosis specialist (masculine noun)"
+		},
+		"psykhiatr": {
+			"clue": "psychiatrist (masculine noun)"
+		},
+		"narkoloh": {
+			"clue": "addiction specialist (masculine noun)"
+		}
+	}
+}

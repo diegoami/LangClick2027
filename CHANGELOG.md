@@ -4,6 +4,9 @@ Each release's entry is its release notes (`docs/RELEASES.md`).
 
 ## Unreleased
 
+- Original practice for the remaining eMova lessons 11–27: body and appearance, clothing, home, food, restaurants, travel, character, leisure, services, health, holidays, nature and studying. Every lesson links to its source, with core objectives and source-only activities mapped in the coverage ledger.
+- Grammar in context: body locatives, adjective agreement and comparison, clothing sizes, recipe quantities, motion and future forms, directions, payment and hobby phrases, study/teach verb government and imperatives. The existing general grammar boards keep their permanent item IDs and ownership.
+- Source claims are checked against dictionaries and current official references. Limited word senses and updated civil holiday dates are explained rather than repeating overly broad or outdated course rules.
 - Lesson 9 of Є-мова: kinship, marriage and generations; possessive forms, family genitives and original sentence gaps, alongside the existing family board. The course's scope is mapped without copying its notes or exercises.
 - Lesson 10: profession names and their word families, feminine forms, workplace locations and original sentences for professions and work. Tray and typing, with explanations in English, Russian, Polish and Ukrainian.
 - Dictionary-supported alternatives are accepted when typed. The great-grandfather board follows the academic dictionary's пра́дідусь and explains where the course notes differ. The course's preferred лікар remains the shown answer, while colloquial доктор is accepted and labelled.

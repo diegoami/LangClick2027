@@ -1,0 +1,39 @@
+{
+	"title": "Zamawianie i płacenie",
+	"summary": "Prośby, formy płatności i kwoty: 1, 2–4 i 5+.",
+	"cells": {
+		"water": {
+			"sentenceGloss": "Proszę przynieść nam wodę niegazowaną."
+		},
+		"card": {
+			"sentenceGloss": "Za kolację zapłacimy kartą."
+		},
+		"cash": {
+			"sentenceGloss": "Dzisiaj płacimy gotówką."
+		},
+		"coffee": {
+			"sentenceGloss": "Zamówię kawę bez mleka."
+		},
+		"one": {
+			"sentenceGloss": "Na stole jest jedna hrywna."
+		},
+		"two": {
+			"sentenceGloss": "Torebka kosztuje dwie hrywny."
+		},
+		"five": {
+			"sentenceGloss": "Za serwetki policzono pięć hrywien."
+		},
+		"twentyone": {
+			"sentenceGloss": "Na paragonie jest dwadzieścia jeden hrywien."
+		},
+		"twentytwo": {
+			"sentenceGloss": "Herbata kosztuje dwadzieścia dwie hrywny."
+		},
+		"twentyfive": {
+			"sentenceGloss": "Kawa kosztuje dwadzieścia pięć hrywien."
+		},
+		"bill-request": {
+			"sentenceGloss": "Proszę dać nam rachunek za kolację."
+		}
+	}
+}

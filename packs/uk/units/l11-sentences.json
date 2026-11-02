@@ -1,0 +1,97 @@
+{
+	"id": "l11-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 4
+	},
+	"cells": [
+		{
+			"id": "palm",
+			"item": "sentence:l11:palm",
+			"text": "долоні",
+			"sentence": "На ___ лежить маленький камінець. (долоня)",
+			"display": "доло́ні"
+		},
+		{
+			"id": "cheek",
+			"item": "sentence:l11:cheek",
+			"text": "щоці",
+			"sentence": "На ___ залишилася крапля води. (щока)",
+			"display": "щоці́"
+		},
+		{
+			"id": "back",
+			"item": "sentence:l11:back",
+			"text": "спині",
+			"sentence": "У мене рюкзак на ___. (спина)",
+			"display": "спи́ні"
+		},
+		{
+			"id": "teeth",
+			"item": "sentence:l11:teeth",
+			"text": "зубах",
+			"sentence": "На ___ немає плям. (зуб, множина)",
+			"display": "зуба́х"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 11. Назви частин тіла",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@9302e3723f2345f28e69f6429efa7a39"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: рука",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D1%83%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: нога",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D0%BE%D0%B3%D0%B0"
+		},
+		{
+			"title": "Горох: голова",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0"
+		},
+		{
+			"title": "Горох: око",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%BA%D0%BE"
+		},
+		{
+			"title": "Горох: вухо",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D1%83%D1%85%D0%BE"
+		},
+		{
+			"title": "Горох: плече",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BB%D0%B5%D1%87%D0%B5"
+		},
+		{
+			"title": "Горох: коліно",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BE%D0%BB%D1%96%D0%BD%D0%BE"
+		},
+		{
+			"title": "Горох: палець",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%B0%D0%BB%D0%B5%D1%86%D1%8C"
+		},
+		{
+			"title": "Горох: долоня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%BE%D0%BB%D0%BE%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: щока",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%89%D0%BE%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: спина",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BF%D0%B8%D0%BD%D0%B0"
+		},
+		{
+			"title": "Горох: зуб",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D1%83%D0%B1"
+		}
+	]
+}

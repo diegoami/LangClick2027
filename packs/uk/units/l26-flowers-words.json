@@ -1,0 +1,209 @@
+{
+	"id": "l26-flowers-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 18
+	},
+	"cells": [
+		{
+			"id": "pidsnizhnyk",
+			"item": "word:pidsnizhnyk",
+			"text": "підсніжник",
+			"display": "підсні́жник"
+		},
+		{
+			"id": "proliska",
+			"item": "word:proliska",
+			"text": "проліска",
+			"display": "про́ліска",
+			"alsoAccepted": ["пролісок"]
+		},
+		{
+			"id": "ryast",
+			"item": "word:ryast",
+			"text": "ряст",
+			"display": "ряст"
+		},
+		{
+			"id": "konvaliya",
+			"item": "word:konvaliya",
+			"text": "конвалія",
+			"display": "конва́лія"
+		},
+		{
+			"id": "fialka",
+			"item": "word:fialka",
+			"text": "фіалка",
+			"display": "фіа́лка"
+		},
+		{
+			"id": "zvirobiy",
+			"item": "word:zvirobiy",
+			"text": "звіробій",
+			"display": "звіробі́й"
+		},
+		{
+			"id": "dereviy",
+			"item": "word:dereviy",
+			"text": "деревій",
+			"display": "дереві́й"
+		},
+		{
+			"id": "romashka",
+			"item": "word:romashka",
+			"text": "ромашка",
+			"display": "рома́шка"
+		},
+		{
+			"id": "ivan-chay",
+			"item": "word:ivan-chay",
+			"text": "іван-чай",
+			"display": "іва́н-ча́й",
+			"alsoAccepted": ["кипрій"]
+		},
+		{
+			"id": "hryb",
+			"item": "word:hryb",
+			"text": "гриб",
+			"display": "гриб"
+		},
+		{
+			"id": "hiatsynt",
+			"item": "word:hiatsynt",
+			"text": "гіацинт",
+			"display": "гіаци́нт"
+		},
+		{
+			"id": "krokus",
+			"item": "word:krokus",
+			"text": "крокус",
+			"display": "кро́кус",
+			"alsoAccepted": ["шафран"]
+		},
+		{
+			"id": "horytsvit",
+			"item": "word:horytsvit",
+			"text": "горицвіт",
+			"display": "гори́цвіт",
+			"alsoAccepted": ["адоніс"]
+		},
+		{
+			"id": "tyulpan",
+			"item": "word:tyulpan",
+			"text": "тюльпан",
+			"display": "тюльпа́н"
+		},
+		{
+			"id": "pivoniya",
+			"item": "word:pivoniya",
+			"text": "півонія",
+			"display": "піво́нія"
+		},
+		{
+			"id": "barvinok",
+			"item": "word:barvinok",
+			"text": "барвінок",
+			"display": "барві́нок"
+		},
+		{
+			"id": "chornobryvtsi",
+			"item": "word:chornobryvtsi",
+			"text": "чорнобривці",
+			"display": "чорнобри́вці"
+		},
+		{
+			"id": "pivnyky",
+			"item": "word:pivnyky",
+			"text": "півники",
+			"display": "пі́вники",
+			"alsoAccepted": ["іриси"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: підсніжник",
+			"url": "https://goroh.pp.ua/Словозміна/підсніжник"
+		},
+		{
+			"title": "Горох: проліска",
+			"url": "https://goroh.pp.ua/Словозміна/проліска"
+		},
+		{
+			"title": "Горох: ряст",
+			"url": "https://goroh.pp.ua/Словозміна/ряст"
+		},
+		{
+			"title": "Горох: конвалія",
+			"url": "https://goroh.pp.ua/Словозміна/конвалія"
+		},
+		{
+			"title": "Горох: фіалка",
+			"url": "https://goroh.pp.ua/Словозміна/фіалка"
+		},
+		{
+			"title": "Горох: звіробій",
+			"url": "https://goroh.pp.ua/Словозміна/звіробій"
+		},
+		{
+			"title": "Горох: деревій",
+			"url": "https://goroh.pp.ua/Словозміна/деревій"
+		},
+		{
+			"title": "Горох: ромашка",
+			"url": "https://goroh.pp.ua/Словозміна/ромашка"
+		},
+		{
+			"title": "Горох: іван-чай",
+			"url": "https://goroh.pp.ua/Словозміна/іван-чай"
+		},
+		{
+			"title": "Горох: гриб",
+			"url": "https://goroh.pp.ua/Словозміна/гриб"
+		},
+		{
+			"title": "Горох: гіацинт",
+			"url": "https://goroh.pp.ua/Словозміна/гіацинт"
+		},
+		{
+			"title": "Горох: крокус",
+			"url": "https://goroh.pp.ua/Словозміна/крокус"
+		},
+		{
+			"title": "Горох: горицвіт",
+			"url": "https://goroh.pp.ua/Словозміна/горицвіт"
+		},
+		{
+			"title": "Горох: тюльпан",
+			"url": "https://goroh.pp.ua/Словозміна/тюльпан"
+		},
+		{
+			"title": "Горох: півонія",
+			"url": "https://goroh.pp.ua/Словозміна/півонія"
+		},
+		{
+			"title": "Горох: барвінок",
+			"url": "https://goroh.pp.ua/Словозміна/барвінок"
+		},
+		{
+			"title": "Горох: чорнобривці",
+			"url": "https://goroh.pp.ua/Словозміна/чорнобривці"
+		},
+		{
+			"title": "Горох: півники",
+			"url": "https://goroh.pp.ua/Словозміна/півники"
+		},
+		{
+			"title": "Горох: півник",
+			"url": "https://goroh.pp.ua/Словозміна/півник"
+		},
+		{
+			"title": "Горох: півники",
+			"url": "https://goroh.pp.ua/Тлумачення/півники"
+		},
+		{
+			"title": "Горох: академічні словникові значення — адоніс",
+			"url": "https://goroh.pp.ua/Тлумачення/горицвіт"
+		}
+	]
+}

@@ -1,0 +1,180 @@
+{
+	"title": "Wygląd",
+	"cells": {
+		"serednoyi-statury": {
+			"clue": "średniej budowy ciała"
+		},
+		"mitsnoyi-budovy": {
+			"clue": "mocnej budowy"
+		},
+		"khudyy": {
+			"clue": "chudy"
+		},
+		"khudorlyavyy": {
+			"clue": "szczupławy"
+		},
+		"strunkyy": {
+			"clue": "smukły"
+		},
+		"tenditnyy": {
+			"clue": "delikatnej budowy"
+		},
+		"shyrokoplechyy": {
+			"clue": "barczysty"
+		},
+		"tovstyy": {
+			"clue": "gruby"
+		},
+		"povnyy": {
+			"clue": "tęgi"
+		},
+		"vysokyy": {
+			"clue": "wysoki"
+		},
+		"nyzkyy": {
+			"clue": "niski"
+		},
+		"nevysokyy": {
+			"clue": "niezbyt wysoki: przymiotnik utworzony od високий za pomocą не-"
+		},
+		"serednoho-zrostu": {
+			"clue": "średniego wzrostu"
+		},
+		"kruhlyy": {
+			"clue": "okrągły"
+		},
+		"kvadratnyy": {
+			"clue": "kwadratowy"
+		},
+		"vydovzhenyy": {
+			"clue": "wydłużony"
+		},
+		"rum-yanyy": {
+			"clue": "rumiany"
+		},
+		"blidyy": {
+			"clue": "blady"
+		},
+		"smahlyavyy": {
+			"clue": "śniady"
+		},
+		"zasmahlyy": {
+			"clue": "opalony"
+		},
+		"harnyy": {
+			"clue": "ładny"
+		},
+		"neharnyy": {
+			"clue": "nieładny"
+		},
+		"sympatychnyy": {
+			"clue": "sympatyczny z wyglądu"
+		},
+		"potvornyy": {
+			"clue": "szpetny"
+		},
+		"nizhnyy": {
+			"clue": "delikatny (rysy)"
+		},
+		"hrubyy": {
+			"clue": "gruby, toporny (rysy)"
+		},
+		"veselyy": {
+			"clue": "wesoły"
+		},
+		"sturbovanyy": {
+			"clue": "zmartwiony"
+		},
+		"seryoznyy": {
+			"clue": "poważny"
+		},
+		"pryvitnyy": {
+			"clue": "życzliwy"
+		},
+		"khytryy": {
+			"clue": "chytry"
+		},
+		"zadovolenyy": {
+			"clue": "zadowolony"
+		},
+		"khvylyastyy": {
+			"clue": "falisty"
+		},
+		"kucheryavyy": {
+			"clue": "kędzierzawy"
+		},
+		"pidstryzhenyy": {
+			"clue": "przystrzyżony"
+		},
+		"zachesanyy": {
+			"clue": "uczesany"
+		},
+		"skuyovdzhenyy": {
+			"clue": "rozczochrany"
+		},
+		"kashtanovyy": {
+			"clue": "kasztanowy"
+		},
+		"rudyy": {
+			"clue": "rudy"
+		},
+		"rusyavyy": {
+			"clue": "ciemny blond"
+		},
+		"syvyy": {
+			"clue": "siwy"
+		},
+		"farbovanyy": {
+			"clue": "farbowany"
+		},
+		"karyy": {
+			"clue": "piwny (oczy)"
+		},
+		"hustyy": {
+			"clue": "gęsty"
+		},
+		"pukhkyy": {
+			"clue": "wydatny (usta)"
+		},
+		"dovhyy": {
+			"clue": "długi"
+		},
+		"korotkyy": {
+			"clue": "krótki"
+		},
+		"pryamyy": {
+			"clue": "prosty"
+		},
+		"tonkyy": {
+			"clue": "cienki"
+		},
+		"shyrokyy": {
+			"clue": "szeroki"
+		},
+		"z-horbynkoyu": {
+			"clue": "z garbkiem (nos)"
+		},
+		"zdorovyy": {
+			"clue": "zdrowy"
+		},
+		"svitlyy": {
+			"clue": "jasny (włosy)"
+		},
+		"temnyy": {
+			"clue": "ciemny (włosy)"
+		},
+		"bilyy": {
+			"clue": "biały"
+		},
+		"chornyy": {
+			"clue": "czarny"
+		},
+		"siryy": {
+			"clue": "szary"
+		},
+		"velykyy": {
+			"clue": "duży"
+		}
+	},
+	"summary": "Opisz budowę ciała, wzrost, włosy i rysy twarzy. Przymiotniki są tu w mianowniku rodzaju męskiego; zwroty zachowują swoją formę."
+}

@@ -1,0 +1,30 @@
+{
+	"title": "Zdania",
+	"cells": {
+		"hair": {
+			"sentenceGloss": "Ona ma faliste włosy."
+		},
+		"eyes": {
+			"sentenceGloss": "Chłopiec ma piwne oczy."
+		},
+		"face": {
+			"sentenceGloss": "Dziecko ma okrągłą twarz."
+		},
+		"brows": {
+			"sentenceGloss": "On ma gęste brwi."
+		},
+		"lips": {
+			"sentenceGloss": "Niemowlę ma pełne usta."
+		},
+		"woman": {
+			"sentenceGloss": "Ta kobieta jest bardzo wysoka."
+		},
+		"height": {
+			"sentenceGloss": "Moja siostra jest średniego wzrostu."
+		},
+		"build": {
+			"sentenceGloss": "Mój brat jest średniej budowy ciała."
+		}
+	},
+	"summary": "Wpisz brakującą formę według podanego hasła lub znaczenia zdania."
+}

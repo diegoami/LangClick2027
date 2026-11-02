@@ -1,0 +1,28 @@
+{
+	"title": "Навчати й навчатися: теперішній час",
+	"summary": "Утворіть особові форми дієслова з кожного стовпчика. Навчати — навчати когось; навчатися — самому здобувати знання. У рядках подано особові займенники; форма для він також стосується вона й воно. Ви — множина або ввічливе звертання.",
+	"cells": {
+		"ya.navchaty": {},
+		"ty.navchaty": {},
+		"he.navchaty": {},
+		"my.navchaty": {},
+		"vy.navchaty": {},
+		"they.navchaty": {},
+		"ya.navchatysya": {},
+		"ty.navchatysya": {},
+		"he.navchatysya": {},
+		"my.navchatysya": {},
+		"vy.navchatysya": {},
+		"they.navchatysya": {}
+	},
+	"headers": {
+		"ya": "я",
+		"ty": "ти",
+		"he": "він",
+		"my": "ми",
+		"vy": "ви",
+		"they": "вони",
+		"navchaty": "навча́ти",
+		"navchatysya": "навча́тися"
+	}
+}

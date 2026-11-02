@@ -1,0 +1,110 @@
+{
+	"id": "l14-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"cells": [
+		{
+			"id": "near",
+			"item": "sentence:l14:near",
+			"text": "шафи",
+			"sentence": "Крісло стоїть біля ___. (шафа)",
+			"display": "ша́фи"
+		},
+		{
+			"id": "under",
+			"item": "sentence:l14:under",
+			"text": "столом",
+			"sentence": "Кіт сидить під ___. (стіл)",
+			"display": "столо́м"
+		},
+		{
+			"id": "over",
+			"item": "sentence:l14:over",
+			"text": "диваном",
+			"sentence": "Картина висить над ___. (диван)",
+			"display": "дива́ном"
+		},
+		{
+			"id": "behind",
+			"item": "sentence:l14:behind",
+			"text": "дверима",
+			"sentence": "Вішак стоїть за ___. (двері)",
+			"display": "двери́ма",
+			"alsoAccepted": ["дверми"]
+		},
+		{
+			"id": "before",
+			"item": "sentence:l14:before",
+			"text": "будинком",
+			"sentence": "Дерево росте перед ___. (будинок)",
+			"display": "буди́нком"
+		},
+		{
+			"id": "kitchen",
+			"item": "sentence:l14:kitchen",
+			"text": "кухні",
+			"sentence": "Ми готуємо їжу на ___. (кухня)",
+			"display": "ку́хні"
+		},
+		{
+			"id": "attic",
+			"item": "sentence:l14:attic",
+			"text": "горищі",
+			"sentence": "На ___ зберігають старі валізи. (горище)",
+			"display": "гори́щі"
+		},
+		{
+			"id": "floor",
+			"item": "sentence:l14:floor",
+			"text": "поверсі",
+			"sentence": "Моя квартира на другому ___. (поверх)",
+			"display": "по́версі"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 14. Мій дім",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@bfb6bb26607f4d9cae7bbbed172a2a43"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: шафа",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D0%B0%D1%84%D0%B0"
+		},
+		{
+			"title": "Горох: стіл",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D1%96%D0%BB"
+		},
+		{
+			"title": "Горох: диван",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD"
+		},
+		{
+			"title": "Горох: двері",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B2%D0%B5%D1%80%D1%96"
+		},
+		{
+			"title": "Горох: будинок",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA"
+		},
+		{
+			"title": "Горох: кухня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%83%D1%85%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: горище",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D1%80%D0%B8%D1%89%D0%B5"
+		},
+		{
+			"title": "Горох: поверх",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85"
+		}
+	]
+}

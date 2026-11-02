@@ -1,0 +1,72 @@
+{
+	"title": "Restaurant and money",
+	"summary": "Names used when ordering and paying.",
+	"cells": {
+		"restoran": {
+			"clue": "restaurant (masculine)"
+		},
+		"kav-yarnya": {
+			"clue": "coffee shop (feminine)"
+		},
+		"ofitsiant": {
+			"clue": "waiter (masculine)"
+		},
+		"menyu": {
+			"clue": "list of dishes and prices"
+		},
+		"strava": {
+			"clue": "prepared dish of food"
+		},
+		"rakhunok": {
+			"clue": "bill for a restaurant meal"
+		},
+		"zamovlennya": {
+			"clue": "order placed with a waiter (noun)"
+		},
+		"chayovi": {
+			"clue": "money given to a waiter as a tip"
+		},
+		"napiy": {
+			"clue": "beverage (noun)"
+		},
+		"desert": {
+			"clue": "sweet course after the main meal"
+		},
+		"bulyon": {
+			"clue": "clear stock or broth"
+		},
+		"espreso": {
+			"clue": "espresso"
+		},
+		"kapuchyno": {
+			"clue": "cappuccino"
+		},
+		"shokolad": {
+			"clue": "chocolate (noun)"
+		},
+		"vartist": {
+			"clue": "monetary value; cost (feminine)"
+		},
+		"hotivka": {
+			"clue": "cash"
+		},
+		"kartka": {
+			"clue": "bank card (one word)"
+		},
+		"reshta": {
+			"clue": "change returned after paying"
+		},
+		"hroshi": {
+			"clue": "money (plural noun)"
+		},
+		"hryvnya": {
+			"clue": "Ukrainian currency unit (singular)"
+		},
+		"kupyura": {
+			"clue": "banknote (noun)"
+		},
+		"moneta": {
+			"clue": "coin (singular)"
+		}
+	}
+}

@@ -1,0 +1,271 @@
+{
+	"id": "l22-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 24
+	},
+	"cells": [
+		{
+			"id": "dozvillya",
+			"item": "word:dozvillya",
+			"text": "дозвілля",
+			"display": "дозві́лля"
+		},
+		{
+			"id": "khobi",
+			"item": "word:khobi",
+			"text": "хобі",
+			"display": "хо́бі"
+		},
+		{
+			"id": "zakhoplennya",
+			"item": "word:zakhoplennya",
+			"text": "захоплення",
+			"display": "захо́плення"
+		},
+		{
+			"id": "sfera",
+			"item": "word:sfera",
+			"text": "сфера",
+			"display": "сфе́ра"
+		},
+		{
+			"id": "haluz",
+			"item": "word:haluz",
+			"text": "галузь",
+			"display": "га́лузь"
+		},
+		{
+			"id": "kolektsionuvannya",
+			"item": "word:kolektsionuvannya",
+			"text": "колекціонування",
+			"display": "колекціонува́ння"
+		},
+		{
+			"id": "rukodillya",
+			"item": "word:rukodillya",
+			"text": "рукоділля",
+			"display": "рукоді́лля"
+		},
+		{
+			"id": "vyshyvannya",
+			"item": "word:vyshyvannya",
+			"text": "вишивання",
+			"display": "вишива́ння",
+			"alsoAccepted": ["вишивка"]
+		},
+		{
+			"id": "shyttya",
+			"item": "word:shyttya",
+			"text": "шиття",
+			"display": "шиття́"
+		},
+		{
+			"id": "kvitnykarstvo",
+			"item": "word:kvitnykarstvo",
+			"text": "квітникарство",
+			"display": "квітника́рство"
+		},
+		{
+			"id": "malyuvannya",
+			"item": "word:malyuvannya",
+			"text": "малювання",
+			"display": "малюва́ння"
+		},
+		{
+			"id": "spiv",
+			"item": "word:spiv",
+			"text": "спів",
+			"alsoAccepted": ["співання"]
+		},
+		{
+			"id": "tantsi",
+			"item": "word:tantsi",
+			"text": "танці",
+			"display": "та́нці"
+		},
+		{
+			"id": "muzyka",
+			"item": "word:muzyka",
+			"text": "музика",
+			"display": "му́зика"
+		},
+		{
+			"id": "futbol",
+			"item": "word:futbol",
+			"text": "футбол",
+			"display": "футбо́л"
+		},
+		{
+			"id": "khokey",
+			"item": "word:khokey",
+			"text": "хокей",
+			"display": "хоке́й"
+		},
+		{
+			"id": "tenis",
+			"item": "word:tenis",
+			"text": "теніс",
+			"display": "те́ніс"
+		},
+		{
+			"id": "fitnes",
+			"item": "word:fitnes",
+			"text": "фітнес",
+			"display": "фі́тнес"
+		},
+		{
+			"id": "alpinizm",
+			"item": "word:alpinizm",
+			"text": "альпінізм",
+			"display": "альпіні́зм"
+		},
+		{
+			"id": "turyzm",
+			"item": "word:turyzm",
+			"text": "туризм",
+			"display": "тури́зм"
+		},
+		{
+			"id": "rybolovlya",
+			"item": "word:rybolovlya",
+			"text": "риболовля",
+			"display": "риболо́вля",
+			"alsoAccepted": ["риболовство", "рибальство"]
+		},
+		{
+			"id": "bdzhilnytstvo",
+			"item": "word:bdzhilnytstvo",
+			"text": "бджільництво",
+			"display": "бджільни́цтво"
+		},
+		{
+			"id": "prohramuvannya",
+			"item": "word:prohramuvannya",
+			"text": "програмування",
+			"display": "програмува́ння"
+		},
+		{
+			"id": "animatsiya",
+			"item": "word:animatsiya",
+			"text": "анімація",
+			"display": "аніма́ція",
+			"alsoAccepted": ["мультиплікація"]
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 22 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@81b8b78358d04089b97ec1c30bb4b1fb"
+		},
+		{
+			"title": "Горох: дозвілля",
+			"url": "https://goroh.pp.ua/Словозміна/дозвілля"
+		},
+		{
+			"title": "Горох: хобі",
+			"url": "https://goroh.pp.ua/Словозміна/хобі"
+		},
+		{
+			"title": "Горох: захоплення",
+			"url": "https://goroh.pp.ua/Словозміна/захоплення"
+		},
+		{
+			"title": "Горох: сфера",
+			"url": "https://goroh.pp.ua/Словозміна/сфера"
+		},
+		{
+			"title": "Горох: галузь",
+			"url": "https://goroh.pp.ua/Словозміна/галузь"
+		},
+		{
+			"title": "Горох: колекціонування",
+			"url": "https://goroh.pp.ua/Словозміна/колекціонування"
+		},
+		{
+			"title": "Горох: рукоділля",
+			"url": "https://goroh.pp.ua/Словозміна/рукоділля"
+		},
+		{
+			"title": "Горох: вишивання",
+			"url": "https://goroh.pp.ua/Словозміна/вишивання"
+		},
+		{
+			"title": "Горох: шиття",
+			"url": "https://goroh.pp.ua/Словозміна/шиття"
+		},
+		{
+			"title": "Горох: квітникарство",
+			"url": "https://goroh.pp.ua/Словозміна/квітникарство"
+		},
+		{
+			"title": "Горох: малювання",
+			"url": "https://goroh.pp.ua/Словозміна/малювання"
+		},
+		{
+			"title": "Горох: спів",
+			"url": "https://goroh.pp.ua/Словозміна/спів"
+		},
+		{
+			"title": "Горох: танці",
+			"url": "https://goroh.pp.ua/Словозміна/танці"
+		},
+		{
+			"title": "Горох: музика",
+			"url": "https://goroh.pp.ua/Словозміна/музика"
+		},
+		{
+			"title": "Горох: футбол",
+			"url": "https://goroh.pp.ua/Словозміна/футбол"
+		},
+		{
+			"title": "Горох: хокей",
+			"url": "https://goroh.pp.ua/Словозміна/хокей"
+		},
+		{
+			"title": "Горох: теніс",
+			"url": "https://goroh.pp.ua/Словозміна/теніс"
+		},
+		{
+			"title": "Горох: фітнес",
+			"url": "https://goroh.pp.ua/Словозміна/фітнес"
+		},
+		{
+			"title": "Горох: альпінізм",
+			"url": "https://goroh.pp.ua/Словозміна/альпінізм"
+		},
+		{
+			"title": "Горох: туризм",
+			"url": "https://goroh.pp.ua/Словозміна/туризм"
+		},
+		{
+			"title": "Горох: риболовля",
+			"url": "https://goroh.pp.ua/Словозміна/риболовля"
+		},
+		{
+			"title": "Горох: бджільництво",
+			"url": "https://goroh.pp.ua/Словозміна/бджільництво"
+		},
+		{
+			"title": "Горох: програмування",
+			"url": "https://goroh.pp.ua/Словозміна/програмування"
+		},
+		{
+			"title": "Горох: анімація",
+			"url": "https://goroh.pp.ua/Словозміна/анімація"
+		},
+		{
+			"title": "Горох: академічні словникові значення — риболовля",
+			"url": "https://goroh.pp.ua/Тлумачення/риболовля"
+		},
+		{
+			"title": "Горох: академічні словникові значення — анімація",
+			"url": "https://goroh.pp.ua/Тлумачення/анімація"
+		},
+		{
+			"title": "Горох: академічні словникові значення — вишивка",
+			"url": "https://goroh.pp.ua/Тлумачення/вишивка"
+		}
+	]
+}

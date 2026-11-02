@@ -1,0 +1,54 @@
+{
+	"title": "Глаголы учёбы и управление",
+	"summary": "Слово в скобках задаёт лексему. Вчити/вивчати что? — винительный; навчати кого? — винительный, чего? — родительный, в отличие от русского обучать чему?. Керувати/завідувати чем? — творительный, но директор/завідувач чего? — родительный.",
+	"cells": {
+		"study-math": {
+			"sentenceGloss": "Я учу математику."
+		},
+		"learn-topic": {
+			"sentenceGloss": "Мы изучаем новую тему."
+		},
+		"teach-math": {
+			"sentenceGloss": "Она обучает детей математике."
+		},
+		"teach-student": {
+			"sentenceGloss": "Преподаватель обучает нового студента."
+		},
+		"teach-physics": {
+			"sentenceGloss": "Подруга учит меня физике."
+		},
+		"manage-school": {
+			"sentenceGloss": "Директор руководит школой."
+		},
+		"head-college": {
+			"sentenceGloss": "Он заведует техникумом."
+		},
+		"director-school": {
+			"sentenceGloss": "Это кабинет директора школы."
+		},
+		"head-department": {
+			"sentenceGloss": "На совещание пришёл заведующий кафедрой."
+		},
+		"acquire-education": {
+			"sentenceGloss": "Елена получает высшее образование."
+		},
+		"knowledge-dat": {
+			"sentenceGloss": "Благодаря широким знаниям он объяснил сложную тему."
+		},
+		"paint-inst": {
+			"sentenceGloss": "Ребёнок рисует яркими красками."
+		},
+		"hues-inst": {
+			"sentenceGloss": "Мы любуемся осенними красками."
+		},
+		"scissors-gen": {
+			"sentenceGloss": "В пенале нет ножниц."
+		},
+		"notebook-loc": {
+			"sentenceGloss": "Олег записал правило в тетради."
+		},
+		"ruler-inst": {
+			"sentenceGloss": "Прямую линию удобно проводить линейкой."
+		}
+	}
+}

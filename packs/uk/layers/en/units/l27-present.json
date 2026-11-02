@@ -1,0 +1,39 @@
+{
+	"title": "Learn and study: present tense",
+	"summary": "Conjugate the exact infinitive in each column. Вчити can mean learning something or teaching someone; вчитися and навчатися make the learner the subject. The fuller forms are shown; standard contracted and у-/в- variants are accepted. Rows use Ukrainian subject pronouns; the він form also serves вона and воно. Ви is plural or polite.",
+	"cells": {
+		"ya.vchyty": {},
+		"ty.vchyty": {},
+		"he.vchyty": {},
+		"my.vchyty": {},
+		"vy.vchyty": {},
+		"they.vchyty": {},
+		"ya.vchytysya": {},
+		"ty.vchytysya": {
+			"note": "In -шся, pronounce a long soft s: [sʲːa]. Keep the spelling шся; a phonetic respelling is not a typed answer."
+		},
+		"he.vchytysya": {},
+		"my.vchytysya": {},
+		"vy.vchytysya": {},
+		"they.vchytysya": {
+			"note": "In -ться, pronounce a long soft ts affricate: [t͡sʲːa]. Keep ться in spelling."
+		},
+		"ya.vyvchaty": {},
+		"ty.vyvchaty": {},
+		"he.vyvchaty": {},
+		"my.vyvchaty": {},
+		"vy.vyvchaty": {},
+		"they.vyvchaty": {}
+	},
+	"headers": {
+		"ya": "я",
+		"ty": "ти",
+		"he": "він",
+		"my": "ми",
+		"vy": "ви",
+		"they": "вони",
+		"vchyty": "вчи́ти",
+		"vchytysya": "вчи́тися",
+		"vyvchaty": "вивча́ти"
+	}
+}

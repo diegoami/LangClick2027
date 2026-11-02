@@ -1,0 +1,42 @@
+{
+	"title": "Przyroda w zdaniach",
+	"summary": "Odmień wyraz w nawiasie. Przymiotniki i przyimki określają przypadek oraz liczbę.",
+	"cells": {
+		"forest-gen": {
+			"sentenceGloss": "Koło lasu stoi mały dom."
+		},
+		"river-gen": {
+			"sentenceGloss": "Od rzeki do wsi idzie się pięć minut."
+		},
+		"lake-gen": {
+			"sentenceGloss": "Na brzegu jeziora rosną drzewa."
+		},
+		"mountains-loc": {
+			"sentenceGloss": "Nasi przyjaciele wypoczywają w wysokich górach."
+		},
+		"pines-inst": {
+			"sentenceGloss": "Ścieżka biegnie między wysokimi sosnami."
+		},
+		"willow-inst": {
+			"sentenceGloss": "Pod starą wierzbą stoi ławka."
+		},
+		"oak-gen": {
+			"sentenceGloss": "Turyści zatrzymali się obok starego dębu."
+		},
+		"lily-genpl": {
+			"sentenceGloss": "Na rysunku jest bukiet konwalii."
+		},
+		"flower-acc": {
+			"sentenceGloss": "Dziewczynka narysowała jaskrawy kwiat."
+		},
+		"meadow-loc": {
+			"sentenceGloss": "Latem bydło wypasa się na hali."
+		},
+		"reserve-gen": {
+			"sentenceGloss": "Przyjechaliśmy do rezerwatu."
+		},
+		"nature-inst": {
+			"sentenceGloss": "Artysta zachwyca się miejscową przyrodą."
+		}
+	}
+}

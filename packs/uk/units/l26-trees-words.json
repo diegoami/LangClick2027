@@ -1,0 +1,353 @@
+{
+	"id": "l26-trees-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 33
+	},
+	"cells": [
+		{
+			"id": "dub",
+			"item": "word:dub",
+			"text": "дуб",
+			"display": "дуб"
+		},
+		{
+			"id": "sosna",
+			"item": "word:sosna",
+			"text": "сосна",
+			"display": "сосна́"
+		},
+		{
+			"id": "yavir",
+			"item": "word:yavir",
+			"text": "явір",
+			"display": "я́вір",
+			"alsoAccepted": ["клен-явір"]
+		},
+		{
+			"id": "bereza",
+			"item": "word:bereza",
+			"text": "береза",
+			"display": "бере́за"
+		},
+		{
+			"id": "lypa",
+			"item": "word:lypa",
+			"text": "липа",
+			"display": "ли́па"
+		},
+		{
+			"id": "osyka",
+			"item": "word:osyka",
+			"text": "осика",
+			"display": "оси́ка"
+		},
+		{
+			"id": "vilkha",
+			"item": "word:vilkha",
+			"text": "вільха",
+			"display": "ві́льха"
+		},
+		{
+			"id": "ozhyna",
+			"item": "word:ozhyna",
+			"text": "ожина",
+			"display": "ожи́на"
+		},
+		{
+			"id": "shypshyna",
+			"item": "word:shypshyna",
+			"text": "шипшина",
+			"display": "шипши́на"
+		},
+		{
+			"id": "barbarys",
+			"item": "word:barbarys",
+			"text": "барбарис",
+			"display": "барбари́с"
+		},
+		{
+			"id": "lishchyna",
+			"item": "word:lishchyna",
+			"text": "ліщина",
+			"display": "ліщи́на",
+			"alsoAccepted": ["ліщина звичайна"]
+		},
+		{
+			"id": "malyna",
+			"item": "word:malyna",
+			"text": "малина",
+			"display": "мали́на"
+		},
+		{
+			"id": "buzok",
+			"item": "word:buzok",
+			"text": "бузок",
+			"display": "бузо́к"
+		},
+		{
+			"id": "brusnytsya",
+			"item": "word:brusnytsya",
+			"text": "брусниця",
+			"display": "брусни́ця"
+		},
+		{
+			"id": "chornytsya",
+			"item": "word:chornytsya",
+			"text": "чорниця",
+			"display": "чорни́ця"
+		},
+		{
+			"id": "zhuravlyna",
+			"item": "word:zhuravlyna",
+			"text": "журавлина",
+			"display": "журавли́на"
+		},
+		{
+			"id": "hlid",
+			"item": "word:hlid",
+			"text": "глід",
+			"display": "глід"
+		},
+		{
+			"id": "myhdal",
+			"item": "word:myhdal",
+			"text": "мигдаль",
+			"display": "мигда́ль"
+		},
+		{
+			"id": "teren",
+			"item": "word:teren",
+			"text": "терен",
+			"display": "те́рен"
+		},
+		{
+			"id": "buk",
+			"item": "word:buk",
+			"text": "бук",
+			"display": "бук"
+		},
+		{
+			"id": "yalytsya",
+			"item": "word:yalytsya",
+			"text": "ялиця",
+			"display": "яли́ця"
+		},
+		{
+			"id": "smereka",
+			"item": "word:smereka",
+			"text": "смерека",
+			"display": "смере́ка",
+			"alsoAccepted": ["ялина"]
+		},
+		{
+			"id": "modryna",
+			"item": "word:modryna",
+			"text": "модрина",
+			"display": "модри́на"
+		},
+		{
+			"id": "yalivets",
+			"item": "word:yalivets",
+			"text": "ялівець",
+			"display": "яліве́ць"
+		},
+		{
+			"id": "kyparys",
+			"item": "word:kyparys",
+			"text": "кипарис",
+			"display": "кипари́с"
+		},
+		{
+			"id": "palma",
+			"item": "word:palma",
+			"text": "пальма",
+			"display": "па́льма"
+		},
+		{
+			"id": "mahnoliya",
+			"item": "word:mahnoliya",
+			"text": "магнолія",
+			"display": "магно́лія"
+		},
+		{
+			"id": "kedr",
+			"item": "word:kedr",
+			"text": "кедр",
+			"display": "кедр"
+		},
+		{
+			"id": "lavr",
+			"item": "word:lavr",
+			"text": "лавр",
+			"display": "лавр"
+		},
+		{
+			"id": "kalyna",
+			"item": "word:kalyna",
+			"text": "калина",
+			"display": "кали́на"
+		},
+		{
+			"id": "verba",
+			"item": "word:verba",
+			"text": "верба",
+			"display": "верба́"
+		},
+		{
+			"id": "sunychne-derevo",
+			"item": "word:sunychne-derevo",
+			"text": "суничне дерево",
+			"display": "суни́чне де́рево"
+		},
+		{
+			"id": "fistashka",
+			"item": "word:fistashka",
+			"text": "фісташка",
+			"display": "фіста́шка"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: дуб",
+			"url": "https://goroh.pp.ua/Словозміна/дуб"
+		},
+		{
+			"title": "Горох: сосна",
+			"url": "https://goroh.pp.ua/Словозміна/сосна"
+		},
+		{
+			"title": "Горох: явір",
+			"url": "https://goroh.pp.ua/Словозміна/явір"
+		},
+		{
+			"title": "Горох: береза",
+			"url": "https://goroh.pp.ua/Словозміна/береза"
+		},
+		{
+			"title": "Горох: липа",
+			"url": "https://goroh.pp.ua/Словозміна/липа"
+		},
+		{
+			"title": "Горох: осика",
+			"url": "https://goroh.pp.ua/Словозміна/осика"
+		},
+		{
+			"title": "Горох: вільха",
+			"url": "https://goroh.pp.ua/Словозміна/вільха"
+		},
+		{
+			"title": "Горох: ожина",
+			"url": "https://goroh.pp.ua/Словозміна/ожина"
+		},
+		{
+			"title": "Горох: шипшина",
+			"url": "https://goroh.pp.ua/Словозміна/шипшина"
+		},
+		{
+			"title": "Горох: барбарис",
+			"url": "https://goroh.pp.ua/Словозміна/барбарис"
+		},
+		{
+			"title": "Горох: ліщина",
+			"url": "https://goroh.pp.ua/Словозміна/ліщина"
+		},
+		{
+			"title": "Горох: малина",
+			"url": "https://goroh.pp.ua/Словозміна/малина"
+		},
+		{
+			"title": "Горох: бузок",
+			"url": "https://goroh.pp.ua/Словозміна/бузок"
+		},
+		{
+			"title": "Горох: брусниця",
+			"url": "https://goroh.pp.ua/Словозміна/брусниця"
+		},
+		{
+			"title": "Горох: чорниця",
+			"url": "https://goroh.pp.ua/Словозміна/чорниця"
+		},
+		{
+			"title": "Горох: журавлина",
+			"url": "https://goroh.pp.ua/Словозміна/журавлина"
+		},
+		{
+			"title": "Горох: глід",
+			"url": "https://goroh.pp.ua/Словозміна/глід"
+		},
+		{
+			"title": "Горох: мигдаль",
+			"url": "https://goroh.pp.ua/Словозміна/мигдаль"
+		},
+		{
+			"title": "Горох: терен",
+			"url": "https://goroh.pp.ua/Словозміна/терен"
+		},
+		{
+			"title": "Горох: бук",
+			"url": "https://goroh.pp.ua/Словозміна/бук"
+		},
+		{
+			"title": "Горох: ялиця",
+			"url": "https://goroh.pp.ua/Словозміна/ялиця"
+		},
+		{
+			"title": "Горох: смерека",
+			"url": "https://goroh.pp.ua/Словозміна/смерека"
+		},
+		{
+			"title": "Горох: модрина",
+			"url": "https://goroh.pp.ua/Словозміна/модрина"
+		},
+		{
+			"title": "Горох: ялівець",
+			"url": "https://goroh.pp.ua/Словозміна/ялівець"
+		},
+		{
+			"title": "Горох: кипарис",
+			"url": "https://goroh.pp.ua/Словозміна/кипарис"
+		},
+		{
+			"title": "Горох: пальма",
+			"url": "https://goroh.pp.ua/Словозміна/пальма"
+		},
+		{
+			"title": "Горох: магнолія",
+			"url": "https://goroh.pp.ua/Словозміна/магнолія"
+		},
+		{
+			"title": "Горох: кедр",
+			"url": "https://goroh.pp.ua/Словозміна/кедр"
+		},
+		{
+			"title": "Горох: лавр",
+			"url": "https://goroh.pp.ua/Словозміна/лавр"
+		},
+		{
+			"title": "Горох: калина",
+			"url": "https://goroh.pp.ua/Словозміна/калина"
+		},
+		{
+			"title": "Горох: верба",
+			"url": "https://goroh.pp.ua/Словозміна/верба"
+		},
+		{
+			"title": "Горох: фісташка",
+			"url": "https://goroh.pp.ua/Словозміна/фісташка"
+		},
+		{
+			"title": "Горох: явір",
+			"url": "https://goroh.pp.ua/Тлумачення/явір"
+		},
+		{
+			"title": "Горох: смерека",
+			"url": "https://goroh.pp.ua/Тлумачення/смерека"
+		},
+		{
+			"title": "Горох: суничний",
+			"url": "https://goroh.pp.ua/Словозміна/суничний"
+		}
+	]
+}

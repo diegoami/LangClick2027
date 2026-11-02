@@ -1,0 +1,72 @@
+{
+	"title": "Character and adjectives",
+	"summary": "Masculine dictionary forms; suffixes express intensity, partial quality or affection.",
+	"cells": {
+		"kharakter": {
+			"clue": "character; personality (noun)"
+		},
+		"nadiynyy": {
+			"clue": "reliable (masculine)"
+		},
+		"tvorchyy": {
+			"clue": "creative (masculine)"
+		},
+		"dobrozychlyvyy": {
+			"clue": "well-disposed toward others (beginning доброз-)"
+		},
+		"vdyachnyy": {
+			"clue": "grateful (masculine)"
+		},
+		"zapalnyy": {
+			"clue": "hot-tempered (masculine)"
+		},
+		"pomyslyvyy": {
+			"clue": "suspicious; apprehensive (masculine)"
+		},
+		"shchedryy": {
+			"clue": "generous (masculine)"
+		},
+		"urivnovazhenyy": {
+			"clue": "even-tempered (masculine)"
+		},
+		"rishuchyy": {
+			"clue": "decisive (masculine)"
+		},
+		"upertyy": {
+			"clue": "stubborn (masculine)"
+		},
+		"postuplyvyy": {
+			"clue": "compliant; accommodating (masculine)"
+		},
+		"zukhvalyy": {
+			"clue": "audacious; insolent (masculine)"
+		},
+		"dobryy": {
+			"clue": "kind; good-hearted (6 letters, beginning д-)"
+		},
+		"veselyy": {
+			"clue": "cheerful (masculine)"
+		},
+		"rozlyuchenyy": {
+			"clue": "enraged (masculine)"
+		},
+		"zasmuchenyy": {
+			"clue": "saddened; upset (masculine)"
+		},
+		"napolehlyvyy": {
+			"clue": "persistent (masculine)"
+		},
+		"velycheznyy": {
+			"clue": "enormous (masculine, suffix -езн-)"
+		},
+		"zlyushchyy": {
+			"clue": "extremely angry (masculine, suffix -ющ-)"
+		},
+		"dyvakuvatyy": {
+			"clue": "somewhat eccentric (masculine, suffix -уват-)"
+		},
+		"chepurnenkyy": {
+			"clue": "neat, affectionately (masculine, -еньк-)"
+		}
+	}
+}

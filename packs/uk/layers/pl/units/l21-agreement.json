@@ -1,0 +1,30 @@
+{
+	"title": "Zgodność przymiotnika z rzeczownikiem",
+	"summary": "Rodzaj, liczba i przypadek odpowiadają rzeczownikowi. Tutaj „ступінь 3” oznacza stopień najwyższy.",
+	"cells": {
+		"fem": {
+			"sentenceGloss": "Moja siostra jest niezawodna."
+		},
+		"neuter": {
+			"sentenceGloss": "To jest dobre serce."
+		},
+		"plural": {
+			"sentenceGloss": "Nasze sąsiadki są twórcze."
+		},
+		"instrumental": {
+			"sentenceGloss": "Olena stała się hojną osobą."
+		},
+		"genitive": {
+			"sentenceGloss": "To rada zdecydowanego przyjaciela."
+		},
+		"accusative": {
+			"sentenceGloss": "Spotkaliśmy wesołą dziewczynę."
+		},
+		"superf": {
+			"sentenceGloss": "Ona jest najlepszą przyjaciółką."
+		},
+		"superm": {
+			"sentenceGloss": "To najwyższy budynek na ulicy."
+		}
+	}
+}

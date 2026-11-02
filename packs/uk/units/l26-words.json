@@ -1,0 +1,279 @@
+{
+	"id": "l26-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 24
+	},
+	"cells": [
+		{
+			"id": "pryroda",
+			"item": "word:pryroda",
+			"text": "природа",
+			"display": "приро́да",
+			"ipa": "/prɪˈrɔda/"
+		},
+		{
+			"id": "lis",
+			"item": "word:lis",
+			"text": "ліс",
+			"display": "ліс",
+			"ipa": "/lʲis/"
+		},
+		{
+			"id": "richka",
+			"item": "word:richka",
+			"text": "річка",
+			"display": "рі́чка",
+			"ipa": "/ˈrʲit͡ʃka/",
+			"alsoAccepted": ["ріка"]
+		},
+		{
+			"id": "ozero",
+			"item": "word:ozero",
+			"text": "озеро",
+			"display": "о́зеро",
+			"ipa": "/ˈɔzɛrɔ/"
+		},
+		{
+			"id": "hora",
+			"item": "word:hora",
+			"text": "гора",
+			"display": "гора́",
+			"ipa": "/ɦɔˈra/"
+		},
+		{
+			"id": "pole",
+			"item": "word:pole",
+			"text": "поле",
+			"display": "по́ле",
+			"ipa": "/ˈpɔlɛ/"
+		},
+		{
+			"id": "step",
+			"item": "word:step",
+			"text": "степ",
+			"display": "степ",
+			"ipa": "/stɛp/"
+		},
+		{
+			"id": "roslyna",
+			"item": "word:roslyna",
+			"text": "рослина",
+			"display": "росли́на",
+			"ipa": "/rɔsˈlɪna/"
+		},
+		{
+			"id": "kvitka",
+			"item": "word:kvitka",
+			"text": "квітка",
+			"display": "кві́тка",
+			"ipa": "/ˈkʋʲitka/"
+		},
+		{
+			"id": "derevo",
+			"item": "word:derevo",
+			"text": "дерево",
+			"display": "де́рево",
+			"ipa": "/ˈdɛrɛʋɔ/"
+		},
+		{
+			"id": "more",
+			"item": "word:more",
+			"text": "море",
+			"display": "мо́ре",
+			"ipa": "/ˈmɔrɛ/"
+		},
+		{
+			"id": "bereh",
+			"item": "word:bereh",
+			"text": "берег",
+			"display": "бе́рег",
+			"ipa": "/ˈbɛrɛɦ/"
+		},
+		{
+			"id": "zapovidnyk",
+			"item": "word:zapovidnyk",
+			"text": "заповідник",
+			"display": "запові́дник",
+			"ipa": "/zapɔˈʋʲidnɪk/"
+		},
+		{
+			"id": "dovkillya",
+			"item": "word:dovkillya",
+			"text": "довкілля",
+			"display": "довкі́лля",
+			"ipa": "/dɔʋˈkʲilʲːa/",
+			"alsoAccepted": ["середовище"]
+		},
+		{
+			"id": "berehty",
+			"item": "word:berehty",
+			"text": "берегти",
+			"display": "берегти́",
+			"ipa": "/bɛrɛɦˈtɪ/",
+			"alsoAccepted": ["оберігати"]
+		},
+		{
+			"id": "pivnich",
+			"item": "word:pivnich",
+			"text": "північ",
+			"display": "пі́вніч"
+		},
+		{
+			"id": "pivden",
+			"item": "word:pivden",
+			"text": "південь",
+			"display": "пі́вдень"
+		},
+		{
+			"id": "skhid",
+			"item": "word:skhid",
+			"text": "схід",
+			"display": "схід"
+		},
+		{
+			"id": "zakhid",
+			"item": "word:zakhid",
+			"text": "захід",
+			"display": "за́хід"
+		},
+		{
+			"id": "lisostep",
+			"item": "word:lisostep",
+			"text": "лісостеп",
+			"display": "лісосте́п"
+		},
+		{
+			"id": "boloto",
+			"item": "word:boloto",
+			"text": "болото",
+			"display": "боло́то"
+		},
+		{
+			"id": "vodoyma",
+			"item": "word:vodoyma",
+			"text": "водойма",
+			"display": "водо́йма",
+			"alsoAccepted": ["водоймище"]
+		},
+		{
+			"id": "vodoskhovyshche",
+			"item": "word:vodoskhovyshche",
+			"text": "водосховище",
+			"display": "водосхо́вище"
+		},
+		{
+			"id": "polonyna",
+			"item": "word:polonyna",
+			"text": "полонина",
+			"display": "полони́на"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: природа",
+			"url": "https://goroh.pp.ua/Словозміна/природа"
+		},
+		{
+			"title": "Горох: ліс",
+			"url": "https://goroh.pp.ua/Словозміна/ліс"
+		},
+		{
+			"title": "Горох: річка",
+			"url": "https://goroh.pp.ua/Словозміна/річка"
+		},
+		{
+			"title": "Горох: озеро",
+			"url": "https://goroh.pp.ua/Словозміна/озеро"
+		},
+		{
+			"title": "Горох: гора",
+			"url": "https://goroh.pp.ua/Словозміна/гора"
+		},
+		{
+			"title": "Горох: поле",
+			"url": "https://goroh.pp.ua/Словозміна/поле"
+		},
+		{
+			"title": "Горох: степ",
+			"url": "https://goroh.pp.ua/Словозміна/степ"
+		},
+		{
+			"title": "Горох: рослина",
+			"url": "https://goroh.pp.ua/Словозміна/рослина"
+		},
+		{
+			"title": "Горох: квітка",
+			"url": "https://goroh.pp.ua/Словозміна/квітка"
+		},
+		{
+			"title": "Горох: дерево",
+			"url": "https://goroh.pp.ua/Словозміна/дерево"
+		},
+		{
+			"title": "Горох: море",
+			"url": "https://goroh.pp.ua/Словозміна/море"
+		},
+		{
+			"title": "Горох: берег",
+			"url": "https://goroh.pp.ua/Словозміна/берег"
+		},
+		{
+			"title": "Горох: заповідник",
+			"url": "https://goroh.pp.ua/Словозміна/заповідник"
+		},
+		{
+			"title": "Горох: довкілля",
+			"url": "https://goroh.pp.ua/Словозміна/довкілля"
+		},
+		{
+			"title": "Горох: берегти",
+			"url": "https://goroh.pp.ua/Словозміна/берегти"
+		},
+		{
+			"title": "Горох: північ",
+			"url": "https://goroh.pp.ua/Словозміна/північ"
+		},
+		{
+			"title": "Горох: південь",
+			"url": "https://goroh.pp.ua/Словозміна/південь"
+		},
+		{
+			"title": "Горох: схід",
+			"url": "https://goroh.pp.ua/Словозміна/схід"
+		},
+		{
+			"title": "Горох: захід",
+			"url": "https://goroh.pp.ua/Словозміна/захід"
+		},
+		{
+			"title": "Горох: лісостеп",
+			"url": "https://goroh.pp.ua/Словозміна/лісостеп"
+		},
+		{
+			"title": "Горох: болото",
+			"url": "https://goroh.pp.ua/Словозміна/болото"
+		},
+		{
+			"title": "Горох: водойма",
+			"url": "https://goroh.pp.ua/Словозміна/водойма"
+		},
+		{
+			"title": "Горох: водосховище",
+			"url": "https://goroh.pp.ua/Словозміна/водосховище"
+		},
+		{
+			"title": "Горох: полонина",
+			"url": "https://goroh.pp.ua/Словозміна/полонина"
+		},
+		{
+			"title": "Горох: академічні словникові значення — водойма",
+			"url": "https://goroh.pp.ua/Тлумачення/водойма"
+		},
+		{
+			"title": "Горох: академічні словникові значення — довкілля",
+			"url": "https://goroh.pp.ua/Тлумачення/довкілля"
+		}
+	]
+}

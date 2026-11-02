@@ -1,0 +1,236 @@
+{
+	"id": "l18-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 21
+	},
+	"cells": [
+		{
+			"id": "avtomobil",
+			"item": "word:avtomobil",
+			"text": "автомобіль",
+			"display": "автомобі́ль",
+			"alsoAccepted": ["автівка", "машина", "авто"]
+		},
+		{
+			"id": "prychip",
+			"item": "word:prychip",
+			"text": "причіп",
+			"display": "при́чіп"
+		},
+		{
+			"id": "avtobus",
+			"item": "word:avtobus",
+			"text": "автобус",
+			"display": "авто́бус"
+		},
+		{
+			"id": "marshrutka",
+			"item": "word:marshrutka",
+			"text": "маршрутка",
+			"display": "маршру́тка"
+		},
+		{
+			"id": "vantazhivka",
+			"item": "word:vantazhivka",
+			"text": "вантажівка",
+			"display": "вантажі́вка",
+			"alsoAccepted": ["вантажний автомобіль"]
+		},
+		{
+			"id": "tramvay",
+			"item": "word:tramvay",
+			"text": "трамвай",
+			"display": "трамва́й"
+		},
+		{
+			"id": "troleybus",
+			"item": "word:troleybus",
+			"text": "тролейбус",
+			"display": "троле́йбус"
+		},
+		{
+			"id": "poyizd",
+			"item": "word:poyizd",
+			"text": "поїзд",
+			"display": "по́їзд",
+			"alsoAccepted": ["потяг"]
+		},
+		{
+			"id": "metro",
+			"item": "word:metro",
+			"text": "метро",
+			"display": "метро́",
+			"alsoAccepted": ["метрополітен"]
+		},
+		{
+			"id": "taksi",
+			"item": "word:taksi",
+			"text": "таксі",
+			"display": "таксі́"
+		},
+		{
+			"id": "elektrychka",
+			"item": "word:elektrychka",
+			"text": "електричка",
+			"display": "електри́чка",
+			"alsoAccepted": ["електропоїзд"]
+		},
+		{
+			"id": "litak",
+			"item": "word:litak",
+			"text": "літак",
+			"display": "літа́к"
+		},
+		{
+			"id": "aeroport",
+			"item": "word:aeroport",
+			"text": "аеропорт",
+			"display": "аеропо́рт",
+			"alsoAccepted": ["летовище"]
+		},
+		{
+			"id": "vokzal",
+			"item": "word:vokzal",
+			"text": "вокзал",
+			"display": "вокза́л"
+		},
+		{
+			"id": "kvytok",
+			"item": "word:kvytok",
+			"text": "квиток",
+			"display": "квито́к"
+		},
+		{
+			"id": "pasazhyr",
+			"item": "word:pasazhyr",
+			"text": "пасажир",
+			"display": "пасажи́р"
+		},
+		{
+			"id": "turyst",
+			"item": "word:turyst",
+			"text": "турист",
+			"display": "тури́ст"
+		},
+		{
+			"id": "zupynka",
+			"item": "word:zupynka",
+			"text": "зупинка",
+			"display": "зупи́нка"
+		},
+		{
+			"id": "zator",
+			"item": "word:zator",
+			"text": "затор",
+			"display": "зато́р"
+		},
+		{
+			"id": "misto",
+			"item": "word:misto",
+			"text": "місто",
+			"display": "мі́сто"
+		},
+		{
+			"id": "mistse",
+			"item": "word:mistse",
+			"text": "місце",
+			"display": "мі́сце"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 18 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@379d8038f88d4d88bd9c003752fb58b8"
+		},
+		{
+			"title": "Горох: автомобіль",
+			"url": "https://goroh.pp.ua/Словозміна/автомобіль"
+		},
+		{
+			"title": "Горох: причіп",
+			"url": "https://goroh.pp.ua/Словозміна/причіп"
+		},
+		{
+			"title": "Горох: автобус",
+			"url": "https://goroh.pp.ua/Словозміна/автобус"
+		},
+		{
+			"title": "Горох: маршрутка",
+			"url": "https://goroh.pp.ua/Словозміна/маршрутка"
+		},
+		{
+			"title": "Горох: вантажівка",
+			"url": "https://goroh.pp.ua/Словозміна/вантажівка"
+		},
+		{
+			"title": "Горох: трамвай",
+			"url": "https://goroh.pp.ua/Словозміна/трамвай"
+		},
+		{
+			"title": "Горох: тролейбус",
+			"url": "https://goroh.pp.ua/Словозміна/тролейбус"
+		},
+		{
+			"title": "Горох: поїзд",
+			"url": "https://goroh.pp.ua/Словозміна/поїзд"
+		},
+		{
+			"title": "Горох: метро",
+			"url": "https://goroh.pp.ua/Словозміна/метро"
+		},
+		{
+			"title": "Горох: таксі",
+			"url": "https://goroh.pp.ua/Словозміна/таксі"
+		},
+		{
+			"title": "Горох: електричка",
+			"url": "https://goroh.pp.ua/Словозміна/електричка"
+		},
+		{
+			"title": "Горох: літак",
+			"url": "https://goroh.pp.ua/Словозміна/літак"
+		},
+		{
+			"title": "Горох: аеропорт",
+			"url": "https://goroh.pp.ua/Словозміна/аеропорт"
+		},
+		{
+			"title": "Горох: вокзал",
+			"url": "https://goroh.pp.ua/Словозміна/вокзал"
+		},
+		{
+			"title": "Горох: квиток",
+			"url": "https://goroh.pp.ua/Словозміна/квиток"
+		},
+		{
+			"title": "Горох: пасажир",
+			"url": "https://goroh.pp.ua/Словозміна/пасажир"
+		},
+		{
+			"title": "Горох: турист",
+			"url": "https://goroh.pp.ua/Словозміна/турист"
+		},
+		{
+			"title": "Горох: зупинка",
+			"url": "https://goroh.pp.ua/Словозміна/зупинка"
+		},
+		{
+			"title": "Горох: затор",
+			"url": "https://goroh.pp.ua/Словозміна/затор"
+		},
+		{
+			"title": "Горох: місто",
+			"url": "https://goroh.pp.ua/Словозміна/місто"
+		},
+		{
+			"title": "Горох: місце",
+			"url": "https://goroh.pp.ua/Словозміна/місце"
+		},
+		{
+			"title": "Горох: академічні словникові значення — метро",
+			"url": "https://goroh.pp.ua/Тлумачення/метро"
+		}
+	]
+}

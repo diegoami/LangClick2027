@@ -1,0 +1,17 @@
+{
+	"title": "Liczba rzeczowników",
+	"headers": {
+		"beet": "burak",
+		"borshch": "barszcz",
+		"drink": "napój",
+		"juice": "sok",
+		"sausage": "kiełbasa",
+		"bowl": "cukiernica",
+		"pot": "garnek",
+		"tray": "blacha do pieczenia",
+		"egg": "jajko",
+		"c0": "pojedyncza (mianownik)",
+		"c1": "mnoga (mianownik)"
+	},
+	"summary": "Ćwicz końcówki liczby mnogiej i wymiany w temacie. W znaczeniu substancji молоко, борошно, цукор zwykle nie oznaczają osobnych przedmiotów. Вершки, макарони, солодощі mają formy mnogie."
+}

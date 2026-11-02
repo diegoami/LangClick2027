@@ -1,0 +1,30 @@
+{
+	"title": "Talking about celebrations",
+	"summary": "Use the lemma in brackets. Greetings use з/із/зі plus the instrumental; до takes the genitive.",
+	"cells": {
+		"holiday-inst": {
+			"sentenceGloss": "Our friends congratulated us on the holiday."
+		},
+		"christmas-gen": {
+			"sentenceGloss": "There is one week left until Christmas."
+		},
+		"easter-gen": {
+			"sentenceGloss": "Traditional bread is prepared for Easter."
+		},
+		"tradition-inst": {
+			"sentenceGloss": "This custom became a family tradition."
+		},
+		"present-inst": {
+			"sentenceGloss": "The child is happy about the new robot: it was an unexpected present."
+		},
+		"pysanka-inst": {
+			"sentenceGloss": "We admired the decorated Easter egg with a geometric design."
+		},
+		"carol-inst": {
+			"sentenceGloss": "The performance began with a Christmas carol."
+		},
+		"uzvar-inst": {
+			"sentenceGloss": "A jug of dried-fruit drink stood on the table."
+		}
+	}
+}

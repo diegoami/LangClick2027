@@ -1,0 +1,42 @@
+{
+	"title": "Природа в предложениях",
+	"summary": "Измените слово в скобках. Прилагательные и предлоги задают падеж и число.",
+	"cells": {
+		"forest-gen": {
+			"sentenceGloss": "Возле леса стоит маленький дом."
+		},
+		"river-gen": {
+			"sentenceGloss": "От реки до села идти пять минут."
+		},
+		"lake-gen": {
+			"sentenceGloss": "На берегу озера растут деревья."
+		},
+		"mountains-loc": {
+			"sentenceGloss": "Наши друзья отдыхают в высоких горах."
+		},
+		"pines-inst": {
+			"sentenceGloss": "Тропинка проходит между высокими соснами."
+		},
+		"willow-inst": {
+			"sentenceGloss": "Под старой ивой стоит скамья."
+		},
+		"oak-gen": {
+			"sentenceGloss": "Возле старого дуба остановились туристы."
+		},
+		"lily-genpl": {
+			"sentenceGloss": "На рисунке есть букет ландышей."
+		},
+		"flower-acc": {
+			"sentenceGloss": "Девочка нарисовала яркий цветок."
+		},
+		"meadow-loc": {
+			"sentenceGloss": "Летом скот пасут на горном лугу."
+		},
+		"reserve-gen": {
+			"sentenceGloss": "Мы приехали в заповедник."
+		},
+		"nature-inst": {
+			"sentenceGloss": "Художник восхищается местной природой."
+		}
+	}
+}

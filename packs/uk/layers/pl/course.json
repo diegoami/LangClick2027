@@ -55,6 +55,57 @@
 		},
 		"l10": {
 			"title": "Lekcja 10: Mój zawód"
+		},
+		"l11": {
+			"title": "Lekcja 11: Ciało"
+		},
+		"l12": {
+			"title": "Lekcja 12: Wygląd"
+		},
+		"l13": {
+			"title": "Lekcja 13: Odzież i rozmiary"
+		},
+		"l14": {
+			"title": "Lekcja 14: W domu"
+		},
+		"l15": {
+			"title": "Lekcja 15: Zakupy spożywcze"
+		},
+		"l16": {
+			"title": "Lekcja 16: Gotowanie i naczynia"
+		},
+		"l17": {
+			"title": "Lekcja 17: Restauracja i pieniądze"
+		},
+		"l18": {
+			"title": "Lekcja 18: Transport"
+		},
+		"l19": {
+			"title": "Lekcja 19: Orientacja w mieście"
+		},
+		"l20": {
+			"title": "Lekcja 20: Podróże i miasta Ukrainy"
+		},
+		"l21": {
+			"title": "Lekcja 21: Charakter i przymiotniki"
+		},
+		"l22": {
+			"title": "Lekcja 22: Hobby i czas wolny"
+		},
+		"l23": {
+			"title": "Lekcja 23: Usługi: poczta, bank i biblioteka"
+		},
+		"l24": {
+			"title": "Lekcja 24: Samopoczucie"
+		},
+		"l25": {
+			"title": "Lekcja 25: Święta państwowe i religijne"
+		},
+		"l26": {
+			"title": "Lekcja 26: Przyroda Ukrainy"
+		},
+		"l27": {
+			"title": "Lekcja 27: Wszystko o nauce"
 		}
 	},
 	"concepts": {

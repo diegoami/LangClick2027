@@ -1,0 +1,78 @@
+{
+	"title": "Krajobrazy i kierunki",
+	"summary": "Krajobrazy i kierunki. Північ i південь, podobnie jak północ i południe, mogą też określać porę doby.",
+	"cells": {
+		"pryroda": {
+			"clue": "przyroda"
+		},
+		"lis": {
+			"clue": "las"
+		},
+		"richka": {
+			"clue": "rzeka (zwykła forma zdrobniała)"
+		},
+		"ozero": {
+			"clue": "jezioro"
+		},
+		"hora": {
+			"clue": "góra"
+		},
+		"pole": {
+			"clue": "pole uprawne"
+		},
+		"step": {
+			"clue": "step"
+		},
+		"roslyna": {
+			"clue": "roślina"
+		},
+		"kvitka": {
+			"clue": "kwiat"
+		},
+		"derevo": {
+			"clue": "drzewo"
+		},
+		"more": {
+			"clue": "morze"
+		},
+		"bereh": {
+			"clue": "brzeg"
+		},
+		"zapovidnyk": {
+			"clue": "rezerwat przyrody"
+		},
+		"dovkillya": {
+			"clue": "środowisko naturalne (jedno słowo)"
+		},
+		"berehty": {
+			"clue": "chronić, dbać o zachowanie"
+		},
+		"pivnich": {
+			"clue": "północ jako kierunek"
+		},
+		"pivden": {
+			"clue": "południe jako kierunek"
+		},
+		"skhid": {
+			"clue": "wschód jako kierunek"
+		},
+		"zakhid": {
+			"clue": "zachód jako kierunek"
+		},
+		"lisostep": {
+			"clue": "lasostep"
+		},
+		"boloto": {
+			"clue": "bagno"
+		},
+		"vodoyma": {
+			"clue": "naturalny lub sztuczny zbiornik wodny (wyraz zaczyna się od водой-)"
+		},
+		"vodoskhovyshche": {
+			"clue": "sztuczny zbiornik do gromadzenia wody (wyraz zaczyna się od водос-)"
+		},
+		"polonyna": {
+			"clue": "hala karpacka"
+		}
+	}
+}

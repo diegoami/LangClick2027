@@ -1,0 +1,195 @@
+{
+	"title": "Жильё и обстановка",
+	"cells": {
+		"zhytlo": {
+			"clue": "жильё"
+		},
+		"kvartyra": {
+			"clue": "квартира"
+		},
+		"budynok": {
+			"clue": "дом, здание"
+		},
+		"podvir-ya": {
+			"clue": "двор"
+		},
+		"sad": {
+			"clue": "сад"
+		},
+		"klumba": {
+			"clue": "клумба"
+		},
+		"harazh": {
+			"clue": "гараж"
+		},
+		"baseyn": {
+			"clue": "бассейн"
+		},
+		"villa": {
+			"clue": "вилла"
+		},
+		"poverkh": {
+			"clue": "этаж"
+		},
+		"dveri": {
+			"clue": "дверь (укр. мн. ч.)"
+		},
+		"peredpokiy": {
+			"clue": "прихожая"
+		},
+		"korydor": {
+			"clue": "коридор"
+		},
+		"skhody": {
+			"clue": "лестница"
+		},
+		"kukhnya": {
+			"clue": "кухня"
+		},
+		"vitalnya": {
+			"clue": "гостиная"
+		},
+		"spalnya": {
+			"clue": "спальня"
+		},
+		"vanna": {
+			"clue": "ванная комната"
+		},
+		"dytyacha-kimnata": {
+			"clue": "детская комната"
+		},
+		"hostova-kimnata": {
+			"clue": "гостевая комната"
+		},
+		"dakh": {
+			"clue": "крыша"
+		},
+		"horyshche": {
+			"clue": "чердак"
+		},
+		"pidval": {
+			"clue": "подвал"
+		},
+		"mebli": {
+			"clue": "мебель (укр. мн. ч.)"
+		},
+		"lizhko": {
+			"clue": "кровать"
+		},
+		"podushka": {
+			"clue": "подушка"
+		},
+		"kovdra": {
+			"clue": "одеяло"
+		},
+		"tumba": {
+			"clue": "тумба"
+		},
+		"nastilna-lampa": {
+			"clue": "настольная лампа"
+		},
+		"shafa": {
+			"clue": "шкаф"
+		},
+		"dzerkalo": {
+			"clue": "зеркало"
+		},
+		"pidloha": {
+			"clue": "пол"
+		},
+		"kylym": {
+			"clue": "ковёр"
+		},
+		"shtora": {
+			"clue": "штора"
+		},
+		"tyul": {
+			"clue": "тюль"
+		},
+		"dyvan": {
+			"clue": "диван"
+		},
+		"krislo": {
+			"clue": "кресло"
+		},
+		"televizor": {
+			"clue": "телевизор"
+		},
+		"zhurnalnyy-stolyk": {
+			"clue": "журнальный столик"
+		},
+		"knyzhkova-shafa": {
+			"clue": "книжный шкаф"
+		},
+		"pysmovyy-stil": {
+			"clue": "письменный стол"
+		},
+		"stilets": {
+			"clue": "стул"
+		},
+		"pidvikonnya": {
+			"clue": "подоконник"
+		},
+		"horshchyk": {
+			"clue": "цветочный горшок"
+		},
+		"yidalnya": {
+			"clue": "столовая комната"
+		},
+		"plyta": {
+			"clue": "плита для готовки"
+		},
+		"dukhova-shafa": {
+			"clue": "духовой шкаф"
+		},
+		"posudomyyna-mashyna": {
+			"clue": "посудомоечная машина"
+		},
+		"kholodylnyk": {
+			"clue": "холодильник"
+		},
+		"vytyazhka": {
+			"clue": "вытяжка над плитой"
+		},
+		"myynytsya": {
+			"clue": "кухонная мойка"
+		},
+		"zmishuvach": {
+			"clue": "смеситель воды"
+		},
+		"stilnytsya": {
+			"clue": "столешница"
+		},
+		"stelya": {
+			"clue": "потолок"
+		},
+		"lyustra": {
+			"clue": "люстра"
+		},
+		"dush": {
+			"clue": "душ"
+		},
+		"tualet": {
+			"clue": "туалет"
+		},
+		"umyvalnyk": {
+			"clue": "умывальник"
+		},
+		"pralna-mashyna": {
+			"clue": "стиральная машина"
+		},
+		"polytsya": {
+			"clue": "полка"
+		},
+		"rushnyk": {
+			"clue": "полотенце"
+		},
+		"vishak": {
+			"clue": "вешалка"
+		},
+		"komod": {
+			"clue": "комод"
+		}
+	},
+	"summary": "Вспомните комнаты, части дома, мебель и бытовую технику. Нужны начальные формы."
+}

@@ -1,0 +1,12 @@
+{
+	"title": "Końcówki zwrotne: od wymowy do pisowni",
+	"summary": "Wybierz litery końcówki na podstawie wymowy w nawiasach kwadratowych. Długie miękkie spółgłoski nie zmieniają pisowni: шся, ться.",
+	"cells": {
+		"shsya": {
+			"exampleGloss": "uczysz się"
+		},
+		"tsya": {
+			"exampleGloss": "uczą się"
+		}
+	}
+}

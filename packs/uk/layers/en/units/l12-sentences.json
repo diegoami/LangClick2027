@@ -1,0 +1,30 @@
+{
+	"title": "Sentences",
+	"cells": {
+		"hair": {
+			"sentenceGloss": "She has wavy hair."
+		},
+		"eyes": {
+			"sentenceGloss": "The boy has brown eyes."
+		},
+		"face": {
+			"sentenceGloss": "The child has a round face."
+		},
+		"brows": {
+			"sentenceGloss": "He has thick eyebrows."
+		},
+		"lips": {
+			"sentenceGloss": "The baby has plump lips."
+		},
+		"woman": {
+			"sentenceGloss": "This woman is very tall."
+		},
+		"height": {
+			"sentenceGloss": "My sister is of medium height."
+		},
+		"build": {
+			"sentenceGloss": "My brother is of medium build."
+		}
+	},
+	"summary": "Use the lemma or the meaning fixed by the sentence to supply the missing form."
+}

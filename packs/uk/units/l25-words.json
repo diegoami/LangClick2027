@@ -1,0 +1,322 @@
+{
+	"id": "l25-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 28
+	},
+	"cells": [
+		{
+			"id": "svyato",
+			"item": "word:svyato",
+			"text": "свято",
+			"display": "свя́то",
+			"ipa": "/ˈsʲʋʲatɔ/"
+		},
+		{
+			"id": "rizdvo",
+			"item": "word:rizdvo",
+			"text": "Різдво",
+			"display": "Різдво́",
+			"ipa": "/rʲizˈdʋɔ/"
+		},
+		{
+			"id": "velykden",
+			"item": "word:velykden",
+			"text": "Великдень",
+			"display": "Вели́кдень",
+			"ipa": "/ʋɛˈlɪɡdɛnʲ/"
+		},
+		{
+			"id": "nezalezhnist",
+			"item": "word:nezalezhnist",
+			"text": "незалежність",
+			"display": "незале́жність",
+			"ipa": "/nɛzaˈlɛʒnʲistʲ/"
+		},
+		{
+			"id": "tradytsiya",
+			"item": "word:tradytsiya",
+			"text": "традиція",
+			"display": "тради́ція",
+			"ipa": "/traˈdɪt͡sʲija/"
+		},
+		{
+			"id": "podarunok",
+			"item": "word:podarunok",
+			"text": "подарунок",
+			"display": "подару́нок",
+			"ipa": "/pɔdaˈrunɔk/",
+			"alsoAccepted": ["дарунок"]
+		},
+		{
+			"id": "pryvitannya",
+			"item": "word:pryvitannya",
+			"text": "привітання",
+			"display": "привіта́ння",
+			"ipa": "/prɪʋʲiˈtanʲːa/",
+			"alsoAccepted": ["вітання"]
+		},
+		{
+			"id": "svyatkuvaty",
+			"item": "word:svyatkuvaty",
+			"text": "святкувати",
+			"display": "святкува́ти",
+			"ipa": "/sʲʋʲatkuˈʋatɪ/"
+		},
+		{
+			"id": "vitaty",
+			"item": "word:vitaty",
+			"text": "вітати",
+			"display": "віта́ти",
+			"ipa": "/ʋʲiˈtatɪ/"
+		},
+		{
+			"id": "daruvaty",
+			"item": "word:daruvaty",
+			"text": "дарувати",
+			"display": "дарува́ти",
+			"ipa": "/daruˈʋatɪ/"
+		},
+		{
+			"id": "novyy-rik",
+			"item": "word:novyy-rik",
+			"text": "Новий рік",
+			"display": "Нови́й рік",
+			"ipa": "/nɔˈʋɪj rʲik/"
+		},
+		{
+			"id": "svyatvechir",
+			"item": "word:svyatvechir",
+			"text": "Святвечір",
+			"display": "Святве́чір",
+			"ipa": "/sʲʋʲatˈʋɛt͡ʃir/",
+			"alsoAccepted": ["Святий вечір"]
+		},
+		{
+			"id": "kutya",
+			"item": "word:kutya",
+			"text": "кутя",
+			"display": "кутя́",
+			"ipa": "/kuˈtʲa/"
+		},
+		{
+			"id": "kolyadka",
+			"item": "word:kolyadka",
+			"text": "колядка",
+			"display": "коля́дка",
+			"ipa": "/kɔˈlʲadka/"
+		},
+		{
+			"id": "pysanka",
+			"item": "word:pysanka",
+			"text": "писанка",
+			"display": "пи́санка",
+			"ipa": "/ˈpɪsanka/"
+		},
+		{
+			"id": "krashanka",
+			"item": "word:krashanka",
+			"text": "крашанка",
+			"display": "кра́шанка",
+			"ipa": "/ˈkraʃanka/"
+		},
+		{
+			"id": "paska",
+			"item": "word:paska",
+			"text": "паска",
+			"display": "па́ска",
+			"ipa": "/ˈpaska/"
+		},
+		{
+			"id": "zvychay",
+			"item": "word:zvychay",
+			"text": "звичай",
+			"display": "зви́чай",
+			"ipa": "/ˈzʋɪt͡ʃaj/"
+		},
+		{
+			"id": "derzhavnyy",
+			"item": "word:derzhavnyy",
+			"text": "державний",
+			"display": "держа́вний",
+			"ipa": "/dɛrˈʒaʋnɪj/"
+		},
+		{
+			"id": "relihiynyy",
+			"item": "word:relihiynyy",
+			"text": "релігійний",
+			"display": "релігі́йний",
+			"ipa": "/rɛlʲiˈɦʲijnɪj/"
+		},
+		{
+			"id": "triytsya",
+			"item": "word:triytsya",
+			"text": "Трійця",
+			"display": "Трі́йця",
+			"alsoAccepted": ["Зелені свята"]
+		},
+		{
+			"id": "pokrova",
+			"item": "word:pokrova",
+			"text": "Покрова",
+			"display": "Покро́ва"
+		},
+		{
+			"id": "vodokhreshche",
+			"item": "word:vodokhreshche",
+			"text": "Водохреще",
+			"display": "Водо́хреще",
+			"alsoAccepted": ["Водохреща", "Йордан", "Богоявлення"]
+		},
+		{
+			"id": "blahovishchennya",
+			"item": "word:blahovishchennya",
+			"text": "Благовіщення",
+			"display": "Благові́щення"
+		},
+		{
+			"id": "obryad",
+			"item": "word:obryad",
+			"text": "обряд",
+			"display": "обря́д",
+			"alsoAccepted": ["ритуал"]
+		},
+		{
+			"id": "uzvar",
+			"item": "word:uzvar",
+			"text": "узвар",
+			"display": "узва́р"
+		},
+		{
+			"id": "didukh",
+			"item": "word:didukh",
+			"text": "дідух",
+			"display": "діду́х"
+		},
+		{
+			"id": "konstytutsiya",
+			"item": "word:konstytutsiya",
+			"text": "конституція",
+			"display": "конститу́ція"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: свято",
+			"url": "https://goroh.pp.ua/Словозміна/свято"
+		},
+		{
+			"title": "Горох: Різдво",
+			"url": "https://goroh.pp.ua/Словозміна/Різдво"
+		},
+		{
+			"title": "Горох: Великдень",
+			"url": "https://goroh.pp.ua/Словозміна/Великдень"
+		},
+		{
+			"title": "Горох: незалежність",
+			"url": "https://goroh.pp.ua/Словозміна/незалежність"
+		},
+		{
+			"title": "Горох: традиція",
+			"url": "https://goroh.pp.ua/Словозміна/традиція"
+		},
+		{
+			"title": "Горох: подарунок",
+			"url": "https://goroh.pp.ua/Словозміна/подарунок"
+		},
+		{
+			"title": "Горох: привітання",
+			"url": "https://goroh.pp.ua/Словозміна/привітання"
+		},
+		{
+			"title": "Горох: святкувати",
+			"url": "https://goroh.pp.ua/Словозміна/святкувати"
+		},
+		{
+			"title": "Горох: вітати",
+			"url": "https://goroh.pp.ua/Словозміна/вітати"
+		},
+		{
+			"title": "Горох: дарувати",
+			"url": "https://goroh.pp.ua/Словозміна/дарувати"
+		},
+		{
+			"title": "Горох: Святвечір",
+			"url": "https://goroh.pp.ua/Словозміна/Святвечір"
+		},
+		{
+			"title": "Горох: кутя",
+			"url": "https://goroh.pp.ua/Словозміна/кутя"
+		},
+		{
+			"title": "Горох: колядка",
+			"url": "https://goroh.pp.ua/Словозміна/колядка"
+		},
+		{
+			"title": "Горох: писанка",
+			"url": "https://goroh.pp.ua/Словозміна/писанка"
+		},
+		{
+			"title": "Горох: крашанка",
+			"url": "https://goroh.pp.ua/Словозміна/крашанка"
+		},
+		{
+			"title": "Горох: паска",
+			"url": "https://goroh.pp.ua/Словозміна/паска"
+		},
+		{
+			"title": "Горох: звичай",
+			"url": "https://goroh.pp.ua/Словозміна/звичай"
+		},
+		{
+			"title": "Горох: державний",
+			"url": "https://goroh.pp.ua/Словозміна/державний"
+		},
+		{
+			"title": "Горох: релігійний",
+			"url": "https://goroh.pp.ua/Словозміна/релігійний"
+		},
+		{
+			"title": "Горох: Трійця",
+			"url": "https://goroh.pp.ua/Словозміна/Трійця"
+		},
+		{
+			"title": "Горох: Покрова",
+			"url": "https://goroh.pp.ua/Словозміна/Покрова"
+		},
+		{
+			"title": "Горох: Водохреще",
+			"url": "https://goroh.pp.ua/Словозміна/Водохреще"
+		},
+		{
+			"title": "Горох: Благовіщення",
+			"url": "https://goroh.pp.ua/Словозміна/Благовіщення"
+		},
+		{
+			"title": "Горох: обряд",
+			"url": "https://goroh.pp.ua/Словозміна/обряд"
+		},
+		{
+			"title": "Горох: узвар",
+			"url": "https://goroh.pp.ua/Словозміна/узвар"
+		},
+		{
+			"title": "Горох: дідух",
+			"url": "https://goroh.pp.ua/Словозміна/дідух"
+		},
+		{
+			"title": "Горох: конституція",
+			"url": "https://goroh.pp.ua/Словозміна/конституція"
+		},
+		{
+			"title": "Горох: новий",
+			"url": "https://goroh.pp.ua/Словозміна/новий"
+		},
+		{
+			"title": "Горох: рік",
+			"url": "https://goroh.pp.ua/Словозміна/рік"
+		}
+	]
+}

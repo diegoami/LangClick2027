@@ -1,0 +1,96 @@
+{
+	"title": "Samopoczucie i objawy",
+	"summary": "Nazwy stanów i objawów. Не́жить oznacza katar; ucz się akcentu не́жить i хворі́ти.",
+	"cells": {
+		"samopochuttya": {
+			"clue": "samopoczucie"
+		},
+		"zdorovya": {
+			"clue": "zdrowie"
+		},
+		"bil": {
+			"clue": "ból (rodzaj męski)"
+		},
+		"temperatura": {
+			"clue": "temperatura ciała (jedno słowo)"
+		},
+		"kashel": {
+			"clue": "kaszel"
+		},
+		"nezhyt": {
+			"clue": "katar"
+		},
+		"zastuda": {
+			"clue": "przeziębienie"
+		},
+		"liky": {
+			"clue": "leki (liczba mnoga)"
+		},
+		"apteka": {
+			"clue": "apteka"
+		},
+		"retsept": {
+			"clue": "recepta lekarska"
+		},
+		"likuvannya": {
+			"clue": "leczenie"
+		},
+		"bolity": {
+			"clue": "boleć"
+		},
+		"khvority": {
+			"clue": "chorować"
+		},
+		"oduzhuvaty": {
+			"clue": "zdrowieć (aspekt niedokonany)"
+		},
+		"sonlyvist": {
+			"clue": "senność"
+		},
+		"badyoryy": {
+			"clue": "rześki (rodzaj męski)"
+		},
+		"nudota": {
+			"clue": "nudności"
+		},
+		"slabkist": {
+			"clue": "osłabienie"
+		},
+		"tysk": {
+			"clue": "ciśnienie krwi (jedno słowo)"
+		},
+		"lykhomanka": {
+			"clue": "gorączka z dreszczami"
+		},
+		"hryp": {
+			"clue": "grypa"
+		},
+		"anhina": {
+			"clue": "angina gardła"
+		},
+		"hastryt": {
+			"clue": "zapalenie błony śluzowej żołądka"
+		},
+		"pnevmoniya": {
+			"clue": "pneumonia (jedno słowo)"
+		},
+		"diahnoz": {
+			"clue": "diagnoza"
+		},
+		"symptom": {
+			"clue": "objaw choroby"
+		},
+		"skarha": {
+			"clue": "dolegliwość zgłaszana przez pacjenta"
+		},
+		"obstezhennya": {
+			"clue": "badanie lekarskie"
+		},
+		"analiz": {
+			"clue": "badanie laboratoryjne"
+		},
+		"neduzhyy": {
+			"clue": "chory, niedomagający (rodzaj męski)"
+		}
+	}
+}
