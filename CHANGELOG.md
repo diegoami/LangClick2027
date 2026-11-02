@@ -16,9 +16,9 @@ For players:
 
 The coverage ledger maps each lesson to its boards; the exercises are authored for Langclick and link to eMova rather than copying its text. Lessons come before separate downloads, now planned for v0.8.0 (#27). The pre-push hook is executable on Linux and WSL as well as Windows (#31).
 
-Not included: lessons 9–27 as a whole, separate downloads, native audio, guided lessons or speech. No native speaker has reviewed the content. Recorded content checks and the pack validator are verified by the local gates; this release preparation adds no language content.
+Not included: lessons 9–27 as a whole, separate downloads, native audio, guided lessons or speech. No native speaker has reviewed the content. Recorded content checks and the pack validator are verified by the local gates; the version-bump PR added no language content; the milestone adds lessons 4–8.
 
-Not tried during release preparation: manual play, a real phone, touch drag or browsers other than those exercised by the automated gates. Signed-in eMova study links were not manually followed. Release publication must name the exact reviewed, tagged commit.
+Not tried during release preparation: manual play, a real phone, touch drag or browsers other than those exercised by the automated gates. Signed-in eMova study links were not manually followed. Reviewed and tagged commit: `e73638f945c48c829aafea37ffdef3c26eaec0c1`.
 
 ## v0.3.0 — 2026-10-31 — Grammar you have to produce
 
