@@ -1,0 +1,69 @@
+{
+	"title": "Słowa",
+	"summary": "Słowa tej lekcji. Pole podaje znaczenie; znajdź słowo.",
+	"cells": {
+		"pohoda": {
+			"clue": "pogoda"
+		},
+		"nehoda": {
+			"clue": "niepogoda"
+		},
+		"prohnoz": {
+			"clue": "prognoza"
+		},
+		"sontse": {
+			"clue": "słońce"
+		},
+		"doshch": {
+			"clue": "deszcz"
+		},
+		"snih": {
+			"clue": "śnieg"
+		},
+		"viter": {
+			"clue": "wiatr"
+		},
+		"moroz": {
+			"clue": "mróz"
+		},
+		"lid": {
+			"clue": "lód"
+		},
+		"tuman": {
+			"clue": "mgła"
+		},
+		"khmara": {
+			"clue": "chmura"
+		},
+		"hroza": {
+			"clue": "burza"
+		},
+		"hrim": {
+			"clue": "grzmot"
+		},
+		"blyskavka": {
+			"clue": "błyskawica"
+		},
+		"hrad": {
+			"clue": "grad"
+		},
+		"veselka": {
+			"clue": "tęcza"
+		},
+		"burulka": {
+			"clue": "sopel"
+		},
+		"metelytsya": {
+			"clue": "zamieć"
+		},
+		"volohist": {
+			"clue": "wilgotność"
+		},
+		"hradus": {
+			"clue": "stopień"
+		},
+		"krasnyi": {
+			"clue": "piękny (ludowo-poet.)"
+		}
+	}
+}

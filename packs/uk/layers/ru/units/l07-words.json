@@ -1,0 +1,87 @@
+{
+	"title": "Слова",
+	"summary": "Слова этого урока. На плитке значение; найдите слово.",
+	"cells": {
+		"budni": {
+			"clue": "будни"
+		},
+		"vykhidni": {
+			"clue": "выходные"
+		},
+		"robota": {
+			"clue": "работа"
+		},
+		"vidpochynok": {
+			"clue": "отдых"
+		},
+		"povidomlennya": {
+			"clue": "сообщение"
+		},
+		"zaproshennya": {
+			"clue": "приглашение"
+		},
+		"nomer": {
+			"clue": "номер"
+		},
+		"do-rechi": {
+			"clue": "кстати"
+		},
+		"dyvno": {
+			"clue": "странно"
+		},
+		"davno": {
+			"clue": "давно"
+		},
+		"nastupnyi": {
+			"clue": "следующий"
+		},
+		"mynulyi": {
+			"clue": "прошлый"
+		},
+		"vdoma": {
+			"clue": "дома"
+		},
+		"dykhaty": {
+			"clue": "дышать"
+		},
+		"dyvytysya": {
+			"clue": "смотреть"
+		},
+		"slukhaty": {
+			"clue": "слушать"
+		},
+		"vidchuvaty": {
+			"clue": "чувствовать"
+		},
+		"kokhaty": {
+			"clue": "любить (человека)"
+		},
+		"pratsyuvaty": {
+			"clue": "работать"
+		},
+		"stvoryuvaty": {
+			"clue": "создавать"
+		},
+		"keruvaty": {
+			"clue": "управлять, руководить"
+		},
+		"prodavaty": {
+			"clue": "продавать"
+		},
+		"plavaty": {
+			"clue": "плавать"
+		},
+		"podorozhuvaty": {
+			"clue": "путешествовать"
+		},
+		"vidviduvaty": {
+			"clue": "посещать"
+		},
+		"telefonuvaty": {
+			"clue": "звонить"
+		},
+		"otrymuvaty": {
+			"clue": "получать"
+		}
+	}
+}

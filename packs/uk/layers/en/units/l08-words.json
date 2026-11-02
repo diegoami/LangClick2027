@@ -1,0 +1,69 @@
+{
+	"title": "Words",
+	"summary": "The words of this lesson. Each tile gives the meaning; find the word.",
+	"cells": {
+		"pohoda": {
+			"clue": "the weather"
+		},
+		"nehoda": {
+			"clue": "bad weather"
+		},
+		"prohnoz": {
+			"clue": "a forecast"
+		},
+		"sontse": {
+			"clue": "the sun"
+		},
+		"doshch": {
+			"clue": "rain"
+		},
+		"snih": {
+			"clue": "snow"
+		},
+		"viter": {
+			"clue": "wind"
+		},
+		"moroz": {
+			"clue": "frost"
+		},
+		"lid": {
+			"clue": "ice"
+		},
+		"tuman": {
+			"clue": "fog"
+		},
+		"khmara": {
+			"clue": "a cloud"
+		},
+		"hroza": {
+			"clue": "a thunderstorm"
+		},
+		"hrim": {
+			"clue": "thunder"
+		},
+		"blyskavka": {
+			"clue": "lightning"
+		},
+		"hrad": {
+			"clue": "hail"
+		},
+		"veselka": {
+			"clue": "a rainbow"
+		},
+		"burulka": {
+			"clue": "an icicle"
+		},
+		"metelytsya": {
+			"clue": "a snowstorm"
+		},
+		"volohist": {
+			"clue": "humidity"
+		},
+		"hradus": {
+			"clue": "a degree"
+		},
+		"krasnyi": {
+			"clue": "beautiful (folk, poetic)"
+		}
+	}
+}

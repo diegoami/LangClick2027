@@ -1,0 +1,56 @@
+{
+	"title": "Zdania",
+	"summary": "Pogoda, wczoraj i dziś, oraz kolory w zgodzie z rzeczownikami.",
+	"cells": {
+		"pohoda": {
+			"sentenceGloss": "Jaka jest dziś pogoda?"
+		},
+		"kholodno": {
+			"sentenceGloss": "W styczniu na dworze jest zimno."
+		},
+		"spekotno": {
+			"sentenceGloss": "W lipcu jest tu bardzo gorąco."
+		},
+		"bulo": {
+			"sentenceGloss": "Wczoraj było ciepło.",
+			"note": "Czas przeszły бу́ти, rodzaj nijaki: nie ma podmiotu."
+		},
+		"bude": {
+			"sentenceGloss": "Jutro będzie zimno.",
+			"note": "Czas przyszły бу́ти, bez podmiotu."
+		},
+		"snih": {
+			"sentenceGloss": "Zimą często pada śnieg i wszystko dookoła jest białe."
+		},
+		"doshch": {
+			"sentenceGloss": "Weź parasol: na dworze pada deszcz."
+		},
+		"veselku": {
+			"sentenceGloss": "Po deszczu widzimy na niebie tęczę."
+		},
+		"zhovte": {
+			"sentenceGloss": "Słońce jest żółte.",
+			"note": "Zgadza się z rzeczownikiem w rodzaju i liczbie."
+		},
+		"zelena": {
+			"sentenceGloss": "Trawa jest zielona.",
+			"note": "Zgadza się z rzeczownikiem w rodzaju i liczbie."
+		},
+		"syne": {
+			"sentenceGloss": "Morze jest granatowe.",
+			"note": "Zgadza się z rzeczownikiem w rodzaju i liczbie."
+		},
+		"chervoni": {
+			"sentenceGloss": "Te kwiaty są czerwone.",
+			"note": "Zgadza się z rzeczownikiem w rodzaju i liczbie."
+		},
+		"blakytne": {
+			"sentenceGloss": "Dziś niebo jest błękitne.",
+			"note": "Zgadza się z rzeczownikiem w rodzaju i liczbie."
+		},
+		"kholodnyi": {
+			"sentenceGloss": "Dziś deszcz jest zimny.",
+			"note": "Zgadza się z rzeczownikiem w rodzaju i liczbie."
+		}
+	}
+}

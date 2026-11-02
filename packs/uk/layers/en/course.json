@@ -46,6 +46,12 @@
 		},
 		"l06": {
 			"title": "Lesson 6: Time, days and months"
+		},
+		"l07": {
+			"title": "Lesson 7: Weekdays and the weekend"
+		},
+		"l08": {
+			"title": "Lesson 8: The weather"
 		}
 	},
 	"concepts": {
@@ -464,6 +470,84 @@
 				{
 					"title": "Горох, Ukrainian dictionary",
 					"url": "https://goroh.pp.ua/"
+				}
+			]
+		},
+		"buty-forms": {
+			"title": "The verb бу́ти",
+			"body": "The present has one form for every person, є, and it mostly says that something exists or that someone has it: У ме́не є пес. The past agrees in gender and number: був, була́, було́, були́. The future has its own endings: бу́ду, бу́деш, бу́де, бу́демо, бу́дете, бу́дуть. What someone will be goes in the instrumental: Ким ти бу́деш? Я бу́ду ветерина́ром.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 7: Будні та вихідні",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001"
+				},
+				{
+					"title": "бути (English Wiktionary)",
+					"url": "https://en.wiktionary.org/wiki/бути"
+				},
+				{
+					"title": "Орудний відмінок (Вікіпедія)",
+					"url": "https://uk.wikipedia.org/wiki/Орудний_відмінок"
+				}
+			]
+		},
+		"time-genitive": {
+			"title": "Last week, next year",
+			"body": "Last, next and this often take the genitive with no preposition: мину́лого ро́ку, насту́пного ти́жня, цього́ ро́ку.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 7: Будні та вихідні",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001"
+				},
+				{
+					"title": "Горох, слововживання: наступному",
+					"url": "https://goroh.pp.ua/Слововживання/наступному"
+				}
+			]
+		},
+		"day-when": {
+			"title": "On a day, from a day",
+			"body": "On a day is у or в with the accusative: у понеді́лок, у се́реду, у субо́ту. A feminine day changes its ending, and a masculine one keeps its form. From a day is з or із with the genitive: з понеді́лка, із субо́ти.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 7: Будні та вихідні",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6bb4aa3541b3499c994c16b2942b6001"
+				},
+				{
+					"title": "Горох, тлумачення: в",
+					"url": "https://goroh.pp.ua/Тлумачення/в"
+				},
+				{
+					"title": "Український правопис (2019), § 25: з, із, зі",
+					"url": "https://2019.pravopys.net/sections/25/"
+				}
+			]
+		},
+		"impersonal": {
+			"title": "Sentences with no subject",
+			"body": "Weather is often a form in -о with no subject and no verb: Хо́лодно. Сього́дні те́пло. The past adds було́, and the future adds бу́де: Учо́ра було́ те́пло. За́втра бу́де хо́лодно. The stress can differ from the adjective: холо́дний, but хо́лодно.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 8: Погода",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c"
+				},
+				{
+					"title": "Горох, тлумачення: жарко",
+					"url": "https://goroh.pp.ua/Тлумачення/жарко"
+				}
+			]
+		},
+		"adj-endings": {
+			"title": "Adjective endings",
+			"body": "An adjective agrees with its noun. Masculine ends in -ий or -ій, feminine in -а or -я, neuter in -е or -є, and the plural in -і for every gender. Hard stems take the first of each pair: зеле́ний, зеле́на, зеле́не, зеле́ні. Soft stems take the second: си́ній, си́ня, си́нє, си́ні.",
+			"sources": [
+				{
+					"title": "Є-мова, урок 8: Погода",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cd202d8ade8c4af381eec5449e0b7d5c"
+				},
+				{
+					"title": "Ukrainian grammar (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar"
 				}
 			]
 		}

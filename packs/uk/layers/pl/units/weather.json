@@ -1,0 +1,17 @@
+{
+	"title": "Pogoda: dzień i jak jest",
+	"summary": "Przymiotnik opisuje dzień. Forma na -о stoi sama, bez podmiotu: хо́лодно znaczy „jest zimno”.",
+	"headers": {
+		"cold": "zimno",
+		"warm": "ciepło",
+		"hot": "gorąco",
+		"cool": "chłodno",
+		"frosty": "mroźno",
+		"sunny": "słonecznie",
+		"windy": "wietrznie",
+		"cloudy": "pochmurno",
+		"gloomy": "ponuro",
+		"adj": "jaki dzień: день",
+		"state": "jest …"
+	}
+}

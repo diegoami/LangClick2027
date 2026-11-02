@@ -1,0 +1,87 @@
+{
+	"title": "Words",
+	"summary": "The words of this lesson. Each tile gives the meaning; find the word.",
+	"cells": {
+		"budni": {
+			"clue": "weekdays, working days"
+		},
+		"vykhidni": {
+			"clue": "the weekend"
+		},
+		"robota": {
+			"clue": "work, a job"
+		},
+		"vidpochynok": {
+			"clue": "rest, time off"
+		},
+		"povidomlennya": {
+			"clue": "a message"
+		},
+		"zaproshennya": {
+			"clue": "an invitation"
+		},
+		"nomer": {
+			"clue": "a phone number"
+		},
+		"do-rechi": {
+			"clue": "by the way"
+		},
+		"dyvno": {
+			"clue": "strange, oddly"
+		},
+		"davno": {
+			"clue": "long ago, for a long time"
+		},
+		"nastupnyi": {
+			"clue": "next"
+		},
+		"mynulyi": {
+			"clue": "last, past"
+		},
+		"vdoma": {
+			"clue": "at home"
+		},
+		"dykhaty": {
+			"clue": "to breathe"
+		},
+		"dyvytysya": {
+			"clue": "to watch, to look"
+		},
+		"slukhaty": {
+			"clue": "to listen"
+		},
+		"vidchuvaty": {
+			"clue": "to feel"
+		},
+		"kokhaty": {
+			"clue": "to love (a person, romantically)"
+		},
+		"pratsyuvaty": {
+			"clue": "to work"
+		},
+		"stvoryuvaty": {
+			"clue": "to create"
+		},
+		"keruvaty": {
+			"clue": "to manage, to run"
+		},
+		"prodavaty": {
+			"clue": "to sell"
+		},
+		"plavaty": {
+			"clue": "to swim"
+		},
+		"podorozhuvaty": {
+			"clue": "to travel"
+		},
+		"vidviduvaty": {
+			"clue": "to visit"
+		},
+		"telefonuvaty": {
+			"clue": "to phone"
+		},
+		"otrymuvaty": {
+			"clue": "to receive"
+		}
+	}
+}

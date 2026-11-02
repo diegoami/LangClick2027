@@ -1,0 +1,18 @@
+{
+	"cells": {
+		"dyvno": {
+			"falseFriend": {
+				"kind": "homograph",
+				"form": "ди́вно",
+				"means": "wonderfully. Ukrainian ди́вно is strange"
+			}
+		},
+		"dyvytysya": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "диви́ться",
+				"means": "to marvel. Ukrainian диви́тися is to watch"
+			}
+		}
+	}
+}

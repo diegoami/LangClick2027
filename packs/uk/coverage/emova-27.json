@@ -56,12 +56,21 @@
 		{
 			"number": 7,
 			"title": "Будні та вихідні",
-			"units": []
+			"units": [
+				"l07-words",
+				"l07-verbs",
+				"days-when",
+				"l07-sentences",
+				"past",
+				"past-sentences",
+				"future",
+				"future-sentences"
+			]
 		},
 		{
 			"number": 8,
 			"title": "Погода",
-			"units": []
+			"units": ["l08-words", "weather", "colours", "l08-sentences"]
 		},
 		{
 			"number": 9,

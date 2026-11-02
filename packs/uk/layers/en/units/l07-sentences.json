@@ -1,0 +1,84 @@
+{
+	"title": "Sentences",
+	"summary": "бу́ти in the present, past and future, when things happen, and everyday verbs.",
+	"cells": {
+		"ye": {
+			"sentenceGloss": "I have a dog now.",
+			"note": "Now: є, in every person."
+		},
+		"bula": {
+			"sentenceGloss": "Maria was at the office yesterday."
+		},
+		"buv": {
+			"sentenceGloss": "Petro was in Lviv last year."
+		},
+		"buly": {
+			"sentenceGloss": "We were at the seaside last week."
+		},
+		"bulo": {
+			"sentenceGloss": "It was very interesting in town yesterday."
+		},
+		"budu": {
+			"sentenceGloss": "I'll be at the office at eight tomorrow."
+		},
+		"budesh": {
+			"sentenceGloss": "When will you be home tomorrow?"
+		},
+		"bude": {
+			"sentenceGloss": "The meeting will be at three tomorrow."
+		},
+		"budemo": {
+			"sentenceGloss": "We will be in Odesa next week."
+		},
+		"budete": {
+			"sentenceGloss": "Will you be in Ukraine next year?"
+		},
+		"budut": {
+			"sentenceGloss": "They will be at work tomorrow."
+		},
+		"kym": {
+			"sentenceGloss": "What will you be when you grow up?",
+			"note": "Instrumental: what someone will be."
+		},
+		"veterynarom": {
+			"sentenceGloss": "My sister will be a vet.",
+			"note": "Instrumental: what someone will be."
+		},
+		"mynuloho": {
+			"sentenceGloss": "I was in Kyiv last year.",
+			"note": "Genitive, with no preposition."
+		},
+		"nastupnoho": {
+			"sentenceGloss": "We will be home next week.",
+			"note": "Genitive, with no preposition."
+		},
+		"tsoho": {
+			"sentenceGloss": "Where will you take your holiday this year?",
+			"note": "Genitive, with no preposition."
+		},
+		"subotu": {
+			"sentenceGloss": "I rest on Saturday.",
+			"note": "Accusative after у or в."
+		},
+		"seredu": {
+			"sentenceGloss": "I have a lesson on Wednesday.",
+			"note": "Accusative after у or в."
+		},
+		"ponedilka": {
+			"sentenceGloss": "I'm working here from Monday.",
+			"note": "Genitive after з."
+		},
+		"pratsyuyu": {
+			"sentenceGloss": "I work in an office."
+		},
+		"slukhayemo": {
+			"sentenceGloss": "We are listening to music."
+		},
+		"dyvytsya": {
+			"sentenceGloss": "He is watching a film."
+		},
+		"vidpochyvayut": {
+			"sentenceGloss": "They are resting at home."
+		}
+	}
+}

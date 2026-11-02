@@ -1,0 +1,354 @@
+{
+	"id": "colours",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["red", "orange", "yellow", "green", "sky", "blue", "violet"],
+		"columns": ["m", "f", "n", "pl"]
+	},
+	"cells": [
+		{
+			"id": "red.m",
+			"item": "colour:red:m",
+			"text": "червоний",
+			"display": "черво́ний",
+			"ipa": "/t͡ʃɛrˈʋɔnɪj/",
+			"cognates": {
+				"pl": {
+					"form": "czerwony"
+				}
+			},
+			"concepts": ["adj-endings"],
+			"row": "red",
+			"col": "m"
+		},
+		{
+			"id": "red.f",
+			"item": "colour:red:f",
+			"text": "червона",
+			"display": "черво́на",
+			"ipa": "/t͡ʃɛrˈʋɔna/",
+			"concepts": ["adj-endings"],
+			"row": "red",
+			"col": "f"
+		},
+		{
+			"id": "red.n",
+			"item": "colour:red:n",
+			"text": "червоне",
+			"display": "черво́не",
+			"ipa": "/t͡ʃɛrˈʋɔnɛ/",
+			"concepts": ["adj-endings"],
+			"row": "red",
+			"col": "n"
+		},
+		{
+			"id": "red.pl",
+			"item": "colour:red:pl",
+			"text": "червоні",
+			"display": "черво́ні",
+			"ipa": "/t͡ʃɛrˈʋɔnʲi/",
+			"concepts": ["adj-endings"],
+			"row": "red",
+			"col": "pl"
+		},
+		{
+			"id": "orange.m",
+			"item": "colour:orange:m",
+			"text": "оранжевий",
+			"display": "ора́нжевий",
+			"ipa": "/ɔˈranʒɛʋɪj/",
+			"cognates": {
+				"ru": {
+					"form": "ора́нжевый"
+				}
+			},
+			"concepts": ["adj-endings"],
+			"row": "orange",
+			"col": "m",
+			"alsoAccepted": ["помаранчевий", "жовтогарячий"]
+		},
+		{
+			"id": "orange.f",
+			"item": "colour:orange:f",
+			"text": "оранжева",
+			"display": "ора́нжева",
+			"ipa": "/ɔˈranʒɛʋa/",
+			"concepts": ["adj-endings"],
+			"row": "orange",
+			"col": "f",
+			"alsoAccepted": ["помаранчева", "жовтогаряча"]
+		},
+		{
+			"id": "orange.n",
+			"item": "colour:orange:n",
+			"text": "оранжеве",
+			"display": "ора́нжеве",
+			"ipa": "/ɔˈranʒɛʋɛ/",
+			"concepts": ["adj-endings"],
+			"row": "orange",
+			"col": "n",
+			"alsoAccepted": ["помаранчеве", "жовтогаряче"]
+		},
+		{
+			"id": "orange.pl",
+			"item": "colour:orange:pl",
+			"text": "оранжеві",
+			"display": "ора́нжеві",
+			"ipa": "/ɔˈranʒɛʋi/",
+			"concepts": ["adj-endings"],
+			"row": "orange",
+			"col": "pl",
+			"alsoAccepted": ["помаранчеві", "жовтогарячі"]
+		},
+		{
+			"id": "yellow.m",
+			"item": "colour:yellow:m",
+			"text": "жовтий",
+			"display": "жо́втий",
+			"ipa": "/ˈʒɔʋtɪj/",
+			"cognates": {
+				"ru": {
+					"form": "жёлтый"
+				},
+				"pl": {
+					"form": "żółty"
+				}
+			},
+			"concepts": ["adj-endings"],
+			"row": "yellow",
+			"col": "m"
+		},
+		{
+			"id": "yellow.f",
+			"item": "colour:yellow:f",
+			"text": "жовта",
+			"display": "жо́вта",
+			"ipa": "/ˈʒɔʋta/",
+			"concepts": ["adj-endings"],
+			"row": "yellow",
+			"col": "f"
+		},
+		{
+			"id": "yellow.n",
+			"item": "colour:yellow:n",
+			"text": "жовте",
+			"display": "жо́вте",
+			"ipa": "/ˈʒɔʋtɛ/",
+			"concepts": ["adj-endings"],
+			"row": "yellow",
+			"col": "n"
+		},
+		{
+			"id": "yellow.pl",
+			"item": "colour:yellow:pl",
+			"text": "жовті",
+			"display": "жо́вті",
+			"ipa": "/ˈʒɔʋtʲi/",
+			"concepts": ["adj-endings"],
+			"row": "yellow",
+			"col": "pl"
+		},
+		{
+			"id": "green.m",
+			"item": "colour:green:m",
+			"text": "зелений",
+			"display": "зеле́ний",
+			"ipa": "/zɛˈlɛnɪj/",
+			"cognates": {
+				"ru": {
+					"form": "зелёный"
+				},
+				"pl": {
+					"form": "zielony"
+				}
+			},
+			"concepts": ["adj-endings"],
+			"row": "green",
+			"col": "m"
+		},
+		{
+			"id": "green.f",
+			"item": "colour:green:f",
+			"text": "зелена",
+			"display": "зеле́на",
+			"ipa": "/zɛˈlɛna/",
+			"concepts": ["adj-endings"],
+			"row": "green",
+			"col": "f"
+		},
+		{
+			"id": "green.n",
+			"item": "colour:green:n",
+			"text": "зелене",
+			"display": "зеле́не",
+			"ipa": "/zɛˈlɛnɛ/",
+			"concepts": ["adj-endings"],
+			"row": "green",
+			"col": "n"
+		},
+		{
+			"id": "green.pl",
+			"item": "colour:green:pl",
+			"text": "зелені",
+			"display": "зеле́ні",
+			"ipa": "/zɛˈlɛnʲi/",
+			"concepts": ["adj-endings"],
+			"row": "green",
+			"col": "pl"
+		},
+		{
+			"id": "sky.m",
+			"item": "colour:sky:m",
+			"text": "блакитний",
+			"display": "блаки́тний",
+			"ipa": "/blaˈkɪtnɪj/",
+			"cognates": {
+				"pl": {
+					"form": "błękitny"
+				}
+			},
+			"concepts": ["adj-endings"],
+			"row": "sky",
+			"col": "m",
+			"alsoAccepted": ["голубий"]
+		},
+		{
+			"id": "sky.f",
+			"item": "colour:sky:f",
+			"text": "блакитна",
+			"display": "блаки́тна",
+			"ipa": "/blaˈkɪtna/",
+			"concepts": ["adj-endings"],
+			"row": "sky",
+			"col": "f",
+			"alsoAccepted": ["голуба"]
+		},
+		{
+			"id": "sky.n",
+			"item": "colour:sky:n",
+			"text": "блакитне",
+			"display": "блаки́тне",
+			"ipa": "/blaˈkɪtnɛ/",
+			"concepts": ["adj-endings"],
+			"row": "sky",
+			"col": "n",
+			"alsoAccepted": ["голубе"]
+		},
+		{
+			"id": "sky.pl",
+			"item": "colour:sky:pl",
+			"text": "блакитні",
+			"display": "блаки́тні",
+			"ipa": "/blaˈkɪtʲnʲi/",
+			"concepts": ["adj-endings"],
+			"row": "sky",
+			"col": "pl",
+			"alsoAccepted": ["голубі"]
+		},
+		{
+			"id": "blue.m",
+			"item": "colour:blue:m",
+			"text": "синій",
+			"display": "си́ній",
+			"ipa": "/ˈsɪnʲij/",
+			"cognates": {
+				"ru": {
+					"form": "си́ний"
+				}
+			},
+			"concepts": ["adj-endings"],
+			"row": "blue",
+			"col": "m"
+		},
+		{
+			"id": "blue.f",
+			"item": "colour:blue:f",
+			"text": "синя",
+			"display": "си́ня",
+			"ipa": "/ˈsɪnʲa/",
+			"concepts": ["adj-endings"],
+			"row": "blue",
+			"col": "f"
+		},
+		{
+			"id": "blue.n",
+			"item": "colour:blue:n",
+			"text": "синє",
+			"display": "си́нє",
+			"ipa": "/ˈsɪnʲɛ/",
+			"concepts": ["adj-endings"],
+			"row": "blue",
+			"col": "n"
+		},
+		{
+			"id": "blue.pl",
+			"item": "colour:blue:pl",
+			"text": "сині",
+			"display": "си́ні",
+			"ipa": "/ˈsɪnʲi/",
+			"concepts": ["adj-endings"],
+			"row": "blue",
+			"col": "pl"
+		},
+		{
+			"id": "violet.m",
+			"item": "colour:violet:m",
+			"text": "фіолетовий",
+			"display": "фіоле́товий",
+			"ipa": "/fiɔˈlɛtɔʋɪj/",
+			"cognates": {
+				"ru": {
+					"form": "фиоле́товый"
+				},
+				"pl": {
+					"form": "fioletowy"
+				}
+			},
+			"concepts": ["adj-endings"],
+			"row": "violet",
+			"col": "m"
+		},
+		{
+			"id": "violet.f",
+			"item": "colour:violet:f",
+			"text": "фіолетова",
+			"display": "фіоле́това",
+			"ipa": "/fiɔˈlɛtɔʋa/",
+			"concepts": ["adj-endings"],
+			"row": "violet",
+			"col": "f"
+		},
+		{
+			"id": "violet.n",
+			"item": "colour:violet:n",
+			"text": "фіолетове",
+			"display": "фіоле́тове",
+			"ipa": "/fiɔˈlɛtɔʋɛ/",
+			"concepts": ["adj-endings"],
+			"row": "violet",
+			"col": "n"
+		},
+		{
+			"id": "violet.pl",
+			"item": "colour:violet:pl",
+			"text": "фіолетові",
+			"display": "фіоле́тові",
+			"ipa": "/fiɔˈlɛtɔʋi/",
+			"concepts": ["adj-endings"],
+			"row": "violet",
+			"col": "pl"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "погода (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/погода"
+		}
+	]
+}

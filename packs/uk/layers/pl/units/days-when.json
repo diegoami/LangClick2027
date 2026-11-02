@@ -1,0 +1,15 @@
+{
+	"title": "W jaki dzień, od jakiego dnia",
+	"summary": "„W ten dzień” to у lub в z biernikiem. „Od tego dnia” to з lub із z dopełniaczem.",
+	"headers": {
+		"mon": "poniedziałek",
+		"tue": "wtorek",
+		"wed": "środa",
+		"thu": "czwartek",
+		"fri": "piątek",
+		"sat": "sobota",
+		"sun": "niedziela",
+		"on": "w: у, в …",
+		"from": "od: з, із …"
+	}
+}

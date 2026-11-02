@@ -1,0 +1,18 @@
+{
+	"cells": {
+		"dyvno": {
+			"falseFriend": {
+				"kind": "homograph",
+				"form": "ди́вно",
+				"means": "російською це чудово, а не незвично"
+			}
+		},
+		"dyvytysya": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "диви́ться",
+				"means": "російською це дивуватися, а не дивитися"
+			}
+		}
+	}
+}

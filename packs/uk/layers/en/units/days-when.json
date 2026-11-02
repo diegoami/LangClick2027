@@ -1,0 +1,15 @@
+{
+	"title": "On a day, from a day",
+	"summary": "On a day is у or в with the accusative. From a day is з or із with the genitive.",
+	"headers": {
+		"mon": "Monday",
+		"tue": "Tuesday",
+		"wed": "Wednesday",
+		"thu": "Thursday",
+		"fri": "Friday",
+		"sat": "Saturday",
+		"sun": "Sunday",
+		"on": "on: у, в …",
+		"from": "from: з, із …"
+	}
+}

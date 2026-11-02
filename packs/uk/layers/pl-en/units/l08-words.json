@@ -1,0 +1,14 @@
+{
+	"cells": {
+		"hroza": {
+			"falseFriend": {
+				"kind": "lookalike",
+				"form": "groza",
+				"means": "dread. A storm in Polish is burza"
+			}
+		},
+		"krasnyi": {
+			"contrast": "Polish krasny is an old, literary word. Ukrainian кра́сний is folk and poetic too: the everyday words are га́рний and краси́вий."
+		}
+	}
+}

@@ -1,0 +1,206 @@
+{
+	"id": "weather",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["cold", "warm", "hot", "cool", "frosty", "sunny", "windy", "cloudy", "gloomy"],
+		"columns": ["adj", "state"]
+	},
+	"cells": [
+		{
+			"id": "cold.adj",
+			"item": "weather:cold:adj",
+			"text": "холодний",
+			"display": "холо́дний",
+			"ipa": "/xɔˈlɔdnɪj/",
+			"concepts": ["impersonal"],
+			"row": "cold",
+			"col": "adj",
+			"alsoAccepted": ["зимний"]
+		},
+		{
+			"id": "cold.state",
+			"item": "weather:cold:state",
+			"text": "холодно",
+			"display": "хо́лодно",
+			"ipa": "/ˈxɔlɔdnɔ/",
+			"concepts": ["impersonal"],
+			"row": "cold",
+			"col": "state",
+			"alsoAccepted": ["зимно"]
+		},
+		{
+			"id": "warm.adj",
+			"item": "weather:warm:adj",
+			"text": "теплий",
+			"display": "те́плий",
+			"ipa": "/ˈtɛplɪj/",
+			"concepts": ["impersonal"],
+			"row": "warm",
+			"col": "adj"
+		},
+		{
+			"id": "warm.state",
+			"item": "weather:warm:state",
+			"text": "тепло",
+			"display": "те́пло",
+			"ipa": "/ˈtɛplɔ/",
+			"concepts": ["impersonal"],
+			"row": "warm",
+			"col": "state"
+		},
+		{
+			"id": "hot.adj",
+			"item": "weather:hot:adj",
+			"text": "спекотний",
+			"display": "спеко́тний",
+			"ipa": "/spɛˈkɔtnɪj/",
+			"concepts": ["impersonal"],
+			"row": "hot",
+			"col": "adj",
+			"alsoAccepted": ["жаркий"]
+		},
+		{
+			"id": "hot.state",
+			"item": "weather:hot:state",
+			"text": "спекотно",
+			"display": "спеко́тно",
+			"ipa": "/spɛˈkɔtnɔ/",
+			"concepts": ["impersonal"],
+			"row": "hot",
+			"col": "state",
+			"alsoAccepted": ["жарко"]
+		},
+		{
+			"id": "cool.adj",
+			"item": "weather:cool:adj",
+			"text": "прохолодний",
+			"display": "прохоло́дний",
+			"ipa": "/prɔxɔˈlɔdnɪj/",
+			"concepts": ["impersonal"],
+			"row": "cool",
+			"col": "adj"
+		},
+		{
+			"id": "cool.state",
+			"item": "weather:cool:state",
+			"text": "прохолодно",
+			"display": "прохоло́дно",
+			"ipa": "/prɔxɔˈlɔdnɔ/",
+			"concepts": ["impersonal"],
+			"row": "cool",
+			"col": "state"
+		},
+		{
+			"id": "frosty.adj",
+			"item": "weather:frosty:adj",
+			"text": "морозний",
+			"display": "моро́зний",
+			"ipa": "/mɔˈrɔznɪj/",
+			"concepts": ["impersonal"],
+			"row": "frosty",
+			"col": "adj"
+		},
+		{
+			"id": "frosty.state",
+			"item": "weather:frosty:state",
+			"text": "морозно",
+			"display": "моро́зно",
+			"ipa": "/mɔˈrɔznɔ/",
+			"concepts": ["impersonal"],
+			"row": "frosty",
+			"col": "state"
+		},
+		{
+			"id": "sunny.adj",
+			"item": "weather:sunny:adj",
+			"text": "сонячний",
+			"display": "со́нячний",
+			"ipa": "/ˈsɔnʲat͡ʃnɪj/",
+			"concepts": ["impersonal"],
+			"row": "sunny",
+			"col": "adj"
+		},
+		{
+			"id": "sunny.state",
+			"item": "weather:sunny:state",
+			"text": "сонячно",
+			"display": "со́нячно",
+			"ipa": "/ˈsɔnʲat͡ʃnɔ/",
+			"concepts": ["impersonal"],
+			"row": "sunny",
+			"col": "state"
+		},
+		{
+			"id": "windy.adj",
+			"item": "weather:windy:adj",
+			"text": "вітряний",
+			"display": "ві́тряний",
+			"ipa": "/ˈʋitrʲanɪj/",
+			"concepts": ["impersonal"],
+			"row": "windy",
+			"col": "adj"
+		},
+		{
+			"id": "windy.state",
+			"item": "weather:windy:state",
+			"text": "вітряно",
+			"display": "ві́тряно",
+			"ipa": "/ˈʋitrʲanɔ/",
+			"concepts": ["impersonal"],
+			"row": "windy",
+			"col": "state"
+		},
+		{
+			"id": "cloudy.adj",
+			"item": "weather:cloudy:adj",
+			"text": "хмарний",
+			"display": "хма́рний",
+			"ipa": "/ˈxmarnɪj/",
+			"concepts": ["impersonal"],
+			"row": "cloudy",
+			"col": "adj"
+		},
+		{
+			"id": "cloudy.state",
+			"item": "weather:cloudy:state",
+			"text": "хмарно",
+			"display": "хма́рно",
+			"ipa": "/ˈxmarnɔ/",
+			"concepts": ["impersonal"],
+			"row": "cloudy",
+			"col": "state"
+		},
+		{
+			"id": "gloomy.adj",
+			"item": "weather:gloomy:adj",
+			"text": "похмурий",
+			"display": "похму́рий",
+			"ipa": "/pɔxˈmurɪj/",
+			"concepts": ["impersonal"],
+			"row": "gloomy",
+			"col": "adj"
+		},
+		{
+			"id": "gloomy.state",
+			"item": "weather:gloomy:state",
+			"text": "похмуро",
+			"display": "похму́ро",
+			"ipa": "/pɔxˈmurɔ/",
+			"concepts": ["impersonal"],
+			"row": "gloomy",
+			"col": "state"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох, Ukrainian dictionary",
+			"url": "https://goroh.pp.ua/"
+		},
+		{
+			"title": "погода (English Wiktionary)",
+			"url": "https://en.wiktionary.org/wiki/погода"
+		}
+	]
+}

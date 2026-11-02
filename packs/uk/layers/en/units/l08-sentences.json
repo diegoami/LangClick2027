@@ -1,0 +1,56 @@
+{
+	"title": "Sentences",
+	"summary": "The weather, then and now, and colours agreeing with their nouns.",
+	"cells": {
+		"pohoda": {
+			"sentenceGloss": "What is the weather like today?"
+		},
+		"kholodno": {
+			"sentenceGloss": "It's cold outside in January."
+		},
+		"spekotno": {
+			"sentenceGloss": "It's very hot here in July."
+		},
+		"bulo": {
+			"sentenceGloss": "It was warm yesterday.",
+			"note": "Past of бу́ти, neuter, as there is no subject."
+		},
+		"bude": {
+			"sentenceGloss": "It will be cold tomorrow.",
+			"note": "Future of бу́ти, with no subject."
+		},
+		"snih": {
+			"sentenceGloss": "It often snows in winter, and everything around is white."
+		},
+		"doshch": {
+			"sentenceGloss": "Take an umbrella: it's raining outside."
+		},
+		"veselku": {
+			"sentenceGloss": "After the rain we see a rainbow in the sky."
+		},
+		"zhovte": {
+			"sentenceGloss": "The sun is yellow.",
+			"note": "It agrees with the noun in gender and number."
+		},
+		"zelena": {
+			"sentenceGloss": "The grass is green.",
+			"note": "It agrees with the noun in gender and number."
+		},
+		"syne": {
+			"sentenceGloss": "The sea is dark blue.",
+			"note": "It agrees with the noun in gender and number."
+		},
+		"chervoni": {
+			"sentenceGloss": "These flowers are red.",
+			"note": "It agrees with the noun in gender and number."
+		},
+		"blakytne": {
+			"sentenceGloss": "The sky is light blue today.",
+			"note": "It agrees with the noun in gender and number."
+		},
+		"kholodnyi": {
+			"sentenceGloss": "The rain is cold today.",
+			"note": "It agrees with the noun in gender and number."
+		}
+	}
+}

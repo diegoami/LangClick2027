@@ -8,7 +8,9 @@ For players:
 
 - Lessons 4 and 5 of Є-мова: getting to know someone, countries, greetings and addressing people by name, each with words, phrases and sentences, in the tray or typed. False friends such as прі́звище appear for your comparison
 - Lesson 6 of Є-мова: the units of time, days, months, seasons, the clock with о and пів на, numbers for minutes and durations, and counting forms such as п'ять годи́н. False friends include неді́ля and час from Russian, and хвили́на from Polish
-- Study links for lessons 4, 5, 6, 9 and 14 open the lesson itself, not the course outline.
+- Lesson 7 of Є-мова: бу́ти in every tense, everyday verbs, on a day and from a day, and last week or next year. ди́вно and диви́тися are marked as false friends from Russian
+- Lesson 8 of Є-мова: weather words, how the day is and how it feels outside, the colours of the rainbow in every gender, and sentences with no subject. кра́сний is a false friend from Russian, and гроза́ and си́ній from Polish
+- Study links for lessons 4 to 9 and 14 open the lesson itself, not the course outline.
 
 ## v0.3.0 — 2026-10-31 — Grammar you have to produce
 
