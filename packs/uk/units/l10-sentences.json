@@ -1,0 +1,177 @@
+{
+	"id": "l10-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 20
+	},
+	"cells": [
+		{
+			"id": "likarem",
+			"item": "sentence:l10:likarem",
+			"text": "лікарем",
+			"display": "лі́карем",
+			"sentence": "Тара́с працю́є ___. (лі́кар)"
+		},
+		{
+			"id": "likarkoyu",
+			"item": "sentence:l10:likarkoyu",
+			"text": "лікаркою",
+			"display": "лі́каркою",
+			"sentence": "Іри́на працю́є ___. (лі́карка)"
+		},
+		{
+			"id": "vchytelkoyu",
+			"item": "sentence:l10:vchytelkoyu",
+			"text": "вчителькою",
+			"display": "вчи́телькою",
+			"sentence": "Оле́на працю́є ___ у шко́лі. (вчи́телька)",
+			"alsoAccepted": ["учителькою"]
+		},
+		{
+			"id": "vykladachem",
+			"item": "sentence:l10:vykladachem",
+			"text": "викладачем",
+			"display": "викладаче́м",
+			"sentence": "Андрі́й працю́є ___. (виклада́ч)"
+		},
+		{
+			"id": "inzhenerom",
+			"item": "sentence:l10:inzhenerom",
+			"text": "інженером",
+			"display": "інжене́ром",
+			"sentence": "Наш сусі́д працю́є ___. (інжене́р)"
+		},
+		{
+			"id": "vodiyem",
+			"item": "sentence:l10:vodiyem",
+			"text": "водієм",
+			"display": "водіє́м",
+			"sentence": "Дмитро́ працю́є ___. (воді́й)",
+			"alsoAccepted": ["шофером"]
+		},
+		{
+			"id": "perukarkoyu",
+			"item": "sentence:l10:perukarkoyu",
+			"text": "перукаркою",
+			"display": "перука́ркою",
+			"sentence": "Гали́на працю́є ___. (перука́рка)"
+		},
+		{
+			"id": "kukharem",
+			"item": "sentence:l10:kukharem",
+			"text": "кухарем",
+			"display": "ку́харем",
+			"sentence": "Петро́ працю́є ___. (ку́хар)"
+		},
+		{
+			"id": "kukharkoyu",
+			"item": "sentence:l10:kukharkoyu",
+			"text": "кухаркою",
+			"display": "куха́ркою",
+			"sentence": "Ната́лка працю́є ___. (куха́рка)"
+		},
+		{
+			"id": "likarni",
+			"item": "sentence:l10:likarni",
+			"text": "лікарні",
+			"display": "ліка́рні",
+			"sentence": "Оле́г працю́є в ___. (ліка́рня)"
+		},
+		{
+			"id": "zavodi",
+			"item": "sentence:l10:zavodi",
+			"text": "заводі",
+			"display": "заво́ді",
+			"sentence": "Іва́н працю́є на ___. (заво́д)"
+		},
+		{
+			"id": "universyteti",
+			"item": "sentence:l10:universyteti",
+			"text": "університеті",
+			"display": "університе́ті",
+			"sentence": "Я працю́ю в ___. (університе́т)"
+		},
+		{
+			"id": "yuryst",
+			"item": "sentence:l10:yuryst",
+			"text": "юрист",
+			"display": "юри́ст",
+			"sentence": "Оста́п консульту́є люде́й із пра́ва. За фа́хом він ___.",
+			"alsoAccepted": ["правник"]
+		},
+		{
+			"id": "likarka",
+			"item": "sentence:l10:likarka",
+			"text": "лікарка",
+			"display": "лі́карка",
+			"sentence": "Окса́на ліку́є люде́й. За фа́хом вона́ ___.",
+			"alsoAccepted": ["лікар", "доктор"]
+		},
+		{
+			"id": "budivelnykom",
+			"item": "sentence:l10:budivelnykom",
+			"text": "будівельником",
+			"display": "будіве́льником",
+			"sentence": "Рома́н працю́є ___. (будіве́льник)"
+		},
+		{
+			"id": "prodavchyneyu",
+			"item": "sentence:l10:prodavchyneyu",
+			"text": "продавчинею",
+			"display": "продавчи́нею",
+			"sentence": "Гали́на працю́є ___. (продавчи́ня)"
+		},
+		{
+			"id": "pratsyuyesh",
+			"item": "sentence:l10:pratsyuyesh",
+			"text": "працюєш",
+			"display": "працю́єш",
+			"sentence": "У які́й ліка́рні ти ___? (працюва́ти)"
+		},
+		{
+			"id": "pratsyuyut",
+			"item": "sentence:l10:pratsyuyut",
+			"text": "працюють",
+			"display": "працю́ють",
+			"sentence": "Мої́ батьки́ ___ в о́фісі. (працюва́ти)"
+		},
+		{
+			"id": "robysh",
+			"item": "sentence:l10:robysh",
+			"text": "робиш",
+			"display": "ро́биш",
+			"sentence": "Що ти ___ з папе́ру? (роби́ти)"
+		},
+		{
+			"id": "robyte",
+			"item": "sentence:l10:robyte",
+			"text": "робите",
+			"display": "ро́бите",
+			"sentence": "Що ви ___ за́раз? (роби́ти)"
+		}
+	],
+	"sources": [
+		{
+			"title": "Dobra Forma: instrumental after працювати",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/10-3/"
+		},
+		{
+			"title": "PodorozhiUA: workplace locations",
+			"url": "https://podorozhiua.com/4-0/4-5m/"
+		},
+		{
+			"title": "Горох: лікар",
+			"url": "https://goroh.pp.ua/Словозміна/лікар"
+		},
+		{
+			"title": "Горох: викладач",
+			"url": "https://goroh.pp.ua/Словозміна/викладач"
+		},
+		{
+			"title": "Горох: водій",
+			"url": "https://goroh.pp.ua/Словозміна/водій"
+		}
+	]
+}

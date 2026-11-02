@@ -1,0 +1,55 @@
+{
+	"title": "Czyja rodzina?",
+	"summary": "Zaimki dzierżawcze w mianowniku zgadzają się z określanym rzeczownikiem. Wiersz wskazuje właściciela, kolumna — rodzaj lub liczbę.",
+	"headers": {
+		"my": "mój: я",
+		"your": "twój: ти",
+		"his": "jego: він",
+		"her": "jej: вона",
+		"our": "nasz: ми",
+		"your-pl": "wasz: ви",
+		"their": "ich: вони",
+		"m": "męski: брат",
+		"f": "żeński: сестра",
+		"n": "nijaki: дитя",
+		"pl": "mnoga: батьки"
+	},
+	"cells": {
+		"his.m": {
+			"note": "Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela."
+		},
+		"his.f": {
+			"note": "Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela."
+		},
+		"his.n": {
+			"note": "Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela."
+		},
+		"his.pl": {
+			"note": "Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela."
+		},
+		"her.m": {
+			"note": "Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela."
+		},
+		"her.f": {
+			"note": "Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela."
+		},
+		"her.n": {
+			"note": "Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela."
+		},
+		"her.pl": {
+			"note": "Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela."
+		},
+		"their.m": {
+			"note": "Zamiast їхній można we wszystkich czterech kolumnach użyć nieodmiennego їх."
+		},
+		"their.f": {
+			"note": "Zamiast їхній można we wszystkich czterech kolumnach użyć nieodmiennego їх."
+		},
+		"their.n": {
+			"note": "Zamiast їхній można we wszystkich czterech kolumnach użyć nieodmiennego їх."
+		},
+		"their.pl": {
+			"note": "Zamiast їхній można we wszystkich czterech kolumnach użyć nieodmiennego їх."
+		}
+	}
+}

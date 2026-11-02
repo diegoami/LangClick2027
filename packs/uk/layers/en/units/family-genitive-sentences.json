@@ -1,0 +1,30 @@
+{
+	"title": "Family relationships in sentences",
+	"summary": "Put the family noun in brackets into the genitive.",
+	"cells": {
+		"brata": {
+			"sentenceGloss": "The brother has a dog."
+		},
+		"sestry": {
+			"sentenceGloss": "The sister has a cat."
+		},
+		"titky": {
+			"sentenceGloss": "The aunt has no car."
+		},
+		"didusya": {
+			"sentenceGloss": "This is a new photo of grandfather."
+		},
+		"batusya": {
+			"sentenceGloss": "This is a letter for grandmother."
+		},
+		"materi": {
+			"sentenceGloss": "This is mother's room."
+		},
+		"svekra": {
+			"sentenceGloss": "This is my husband's father's car."
+		},
+		"testya": {
+			"sentenceGloss": "This is the key to my wife's father's house."
+		}
+	}
+}

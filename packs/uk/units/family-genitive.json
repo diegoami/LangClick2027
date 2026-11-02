@@ -1,0 +1,157 @@
+{
+	"id": "family-genitive",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": [
+			"mama",
+			"tato",
+			"batko",
+			"maty",
+			"brat",
+			"sestra",
+			"titka",
+			"dyadko",
+			"didus",
+			"babusya",
+			"svekor",
+			"test",
+			"svekrukha",
+			"teshcha"
+		],
+		"columns": ["gen"]
+	},
+	"cells": [
+		{
+			"id": "mama",
+			"item": "noun:mama:gen.sg",
+			"text": "мами",
+			"display": "ма́ми",
+			"row": "mama",
+			"col": "gen"
+		},
+		{
+			"id": "tato",
+			"item": "noun:tato:gen.sg",
+			"text": "тата",
+			"display": "та́та",
+			"row": "tato",
+			"col": "gen"
+		},
+		{
+			"id": "batko",
+			"item": "noun:batko:gen.sg",
+			"text": "батька",
+			"display": "ба́тька",
+			"row": "batko",
+			"col": "gen"
+		},
+		{
+			"id": "maty",
+			"item": "noun:maty:gen.sg",
+			"text": "матері",
+			"display": "ма́тері",
+			"row": "maty",
+			"col": "gen"
+		},
+		{
+			"id": "brat",
+			"item": "noun:brat:gen.sg",
+			"text": "брата",
+			"display": "бра́та",
+			"row": "brat",
+			"col": "gen"
+		},
+		{
+			"id": "sestra",
+			"item": "noun:sestra:gen.sg",
+			"text": "сестри",
+			"display": "сестри́",
+			"row": "sestra",
+			"col": "gen"
+		},
+		{
+			"id": "titka",
+			"item": "noun:titka:gen.sg",
+			"text": "тітки",
+			"display": "ті́тки",
+			"row": "titka",
+			"col": "gen"
+		},
+		{
+			"id": "dyadko",
+			"item": "noun:dyadko:gen.sg",
+			"text": "дядька",
+			"display": "дя́дька",
+			"row": "dyadko",
+			"col": "gen"
+		},
+		{
+			"id": "didus",
+			"item": "noun:didus:gen.sg",
+			"text": "дідуся",
+			"display": "дідуся́",
+			"row": "didus",
+			"col": "gen"
+		},
+		{
+			"id": "babusya",
+			"item": "noun:babusya:gen.sg",
+			"text": "бабусі",
+			"display": "бабу́сі",
+			"row": "babusya",
+			"col": "gen"
+		},
+		{
+			"id": "svekor",
+			"item": "noun:svekor:gen.sg",
+			"text": "свекра",
+			"display": "све́кра",
+			"row": "svekor",
+			"col": "gen"
+		},
+		{
+			"id": "test",
+			"item": "noun:test:gen.sg",
+			"text": "тестя",
+			"display": "те́стя",
+			"row": "test",
+			"col": "gen"
+		},
+		{
+			"id": "svekrukha",
+			"item": "noun:svekrukha:gen.sg",
+			"text": "свекрухи",
+			"display": "свекру́хи",
+			"row": "svekrukha",
+			"col": "gen"
+		},
+		{
+			"id": "teshcha",
+			"item": "noun:teshcha:gen.sg",
+			"text": "тещі",
+			"display": "те́щі",
+			"row": "teshcha",
+			"col": "gen"
+		}
+	],
+	"sources": [
+		{
+			"title": "Dobra Forma: genitive for relationships",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/7-3/"
+		},
+		{
+			"title": "Горох: словозміна свекор",
+			"url": "https://goroh.pp.ua/Словозміна/свекор"
+		},
+		{
+			"title": "Горох: словозміна мати",
+			"url": "https://goroh.pp.ua/Словозміна/мати"
+		},
+		{
+			"title": "Горох: словозміна сестра",
+			"url": "https://goroh.pp.ua/Словозміна/сестра"
+		}
+	]
+}

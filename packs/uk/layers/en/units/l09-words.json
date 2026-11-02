@@ -1,0 +1,58 @@
+{
+	"title": "Family, marriage and generations",
+	"summary": "More family words: relatives, marriage, generations and the two sides of the family by marriage.",
+	"cells": {
+		"simya": {
+			"clue": "family household; immediate family"
+		},
+		"rid": {
+			"clue": "lineage; family line"
+		},
+		"ridnya": {
+			"clue": "extended relatives; kin, including distant relations"
+		},
+		"rodych": {
+			"clue": "a relative (masculine noun)"
+		},
+		"vesillya": {
+			"clue": "wedding celebration"
+		},
+		"shlyub": {
+			"clue": "marriage; marital union"
+		},
+		"druzhyna": {
+			"clue": "wife"
+		},
+		"pradidus": {
+			"clue": "great-grandfather",
+			"note": "The Krymskyi/Yefremov dictionary stresses the first syllable: пра́дідусь. This board follows that dictionary; the course notes place the stress differently."
+		},
+		"prababusya": {
+			"clue": "great-grandmother"
+		},
+		"pleminnyk": {
+			"clue": "nephew"
+		},
+		"pleminnytsya": {
+			"clue": "niece"
+		},
+		"svekor": {
+			"clue": "husband's father"
+		},
+		"svekrukha": {
+			"clue": "husband's mother"
+		},
+		"test": {
+			"clue": "wife's father"
+		},
+		"teshcha": {
+			"clue": "wife's mother"
+		},
+		"pokolinnya": {
+			"clue": "generation"
+		},
+		"dity": {
+			"clue": "children"
+		}
+	}
+}

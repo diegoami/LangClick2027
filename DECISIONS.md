@@ -83,10 +83,15 @@ to practise, and downloads serve no one else yet. All lesson batches now come be
 audio. On 2026-11-02 the owner put Swedish immediately after completing the Ukrainian
 course, ahead of voices, downloads and other extras; the old version slots and the wait until
 v1.0.0 for another language no longer determine that order. Source research and the next
-release design are in #34; the priority is agreed, its detailed implementation scope is not yet.
+release design are in #34. The owner agreed the lessons 9–14 design on 2026-11-02.
+Coverage stays partial until the actual source lesson has been inspected; a topic match alone
+does not establish that the whole lesson is covered.
 A themed lesson has words, phrases and the grammar
 only that theme needs, and what is general goes to Grammar. The lesson's scope comes from reading
-eMova's, for reference, with none of its text reaching a pack.
+eMova's, for reference, with none of its text reaching a pack. The notes establish scope,
+not an unquestionable answer key: dictionary checks determine forms and stress, with
+disagreements explained on the affected cells. In lessons 9–10 this matters for прадідусь,
+for све́кор → све́кра, and for accepting colloquial доктор while showing the course's лікар.
 
 ## Typing is a separate skill, and speech waits (2026-10-31, #21)
 

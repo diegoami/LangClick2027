@@ -1,0 +1,80 @@
+{
+	"title": "Zawody i praca",
+	"summary": "Męskie i żeńskie nazwy zajęć oraz cztery słowa o pracy. Wskazany rodzaj dotyczy formy rzeczownika, nie tego, kto może wykonywać zawód.",
+	"cells": {
+		"likar": {
+			"clue": "lekarz (rodzaj męski)",
+			"note": "Forma zalecana w kursie to лікар. Słowniki notują też potoczne доктор w znaczeniu lekarza, więc ta odpowiedź jest przyjmowana; wyraz oznacza również stopień naukowy."
+		},
+		"likarka": {
+			"clue": "lekarka (rodzaj żeński)"
+		},
+		"vchytel": {
+			"clue": "nauczyciel szkolny (rodzaj męski)"
+		},
+		"vchytelka": {
+			"clue": "nauczycielka szkolna (rodzaj żeński)"
+		},
+		"vykladach": {
+			"clue": "wykładowca uczelni (rodzaj męski)"
+		},
+		"vykladachka": {
+			"clue": "wykładowczyni uczelni (rodzaj żeński)"
+		},
+		"inzhener": {
+			"clue": "inżynier (rodzaj męski)"
+		},
+		"inzhenerka": {
+			"clue": "inżynierka (rodzaj żeński)"
+		},
+		"kukhar": {
+			"clue": "kucharz (rodzaj męski)"
+		},
+		"kukharka": {
+			"clue": "kucharka (rodzaj żeński)",
+			"note": "Akcent się przesuwa: ку́хар, ale куха́рка."
+		},
+		"vodiy": {
+			"clue": "kierowca (rodzaj męski)"
+		},
+		"vodiyka": {
+			"clue": "kierowczyni (rodzaj żeński)"
+		},
+		"zhurnalist": {
+			"clue": "dziennikarz (rodzaj męski)"
+		},
+		"zhurnalistka": {
+			"clue": "dziennikarka (rodzaj żeński)"
+		},
+		"perukar": {
+			"clue": "fryzjer (rodzaj męski)"
+		},
+		"perukarka": {
+			"clue": "fryzjerka (rodzaj żeński)"
+		},
+		"student": {
+			"clue": "student (rodzaj męski)"
+		},
+		"studentka": {
+			"clue": "studentka (rodzaj żeński)"
+		},
+		"pensioner": {
+			"clue": "emeryt (rodzaj męski)"
+		},
+		"pensionerka": {
+			"clue": "emerytka (rodzaj żeński)"
+		},
+		"profesiya": {
+			"clue": "zawód"
+		},
+		"robota": {
+			"clue": "praca; zatrudnienie"
+		},
+		"koleha": {
+			"clue": "kolega z pracy"
+		},
+		"zarplata": {
+			"clue": "pensja; wynagrodzenie"
+		}
+	}
+}

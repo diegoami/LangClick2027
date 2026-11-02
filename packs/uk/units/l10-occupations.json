@@ -1,0 +1,200 @@
+{
+	"id": "l10-occupations",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 23
+	},
+	"cells": [
+		{
+			"id": "shakhtar",
+			"item": "word:shakhtar",
+			"text": "шахтар",
+			"display": "шахта́р",
+			"ipa": "/ʃaxˈtar/",
+			"alsoAccepted": ["гірник"]
+		},
+		{
+			"id": "bibliotekar",
+			"item": "word:bibliotekar",
+			"text": "бібліотекар",
+			"display": "бібліоте́кар",
+			"ipa": "/bʲiblʲiɔˈtɛkar/"
+		},
+		{
+			"id": "bdzholyar",
+			"item": "word:bdzholyar",
+			"text": "бджоляр",
+			"display": "бджоля́р",
+			"ipa": "/bd͡ʒɔˈlʲar/",
+			"alsoAccepted": ["пасічник"]
+		},
+		{
+			"id": "betonyar",
+			"item": "word:betonyar",
+			"text": "бетоняр",
+			"display": "бетоня́р",
+			"ipa": "/bɛtɔˈnʲar/",
+			"alsoAccepted": ["бетонник"]
+		},
+		{
+			"id": "smittyar",
+			"item": "word:smittyar",
+			"text": "сміттяр",
+			"display": "сміття́р",
+			"ipa": "/sʲmʲiˈtʲːar/"
+		},
+		{
+			"id": "budivelnyk",
+			"item": "word:budivelnyk",
+			"text": "будівельник",
+			"display": "будіве́льник",
+			"ipa": "/budʲiˈʋɛlʲnɪk/",
+			"alsoAccepted": ["будівник"]
+		},
+		{
+			"id": "robitnyk",
+			"item": "word:robitnyk",
+			"text": "робітник",
+			"display": "робітни́к",
+			"ipa": "/rɔbʲitˈnɪk/"
+		},
+		{
+			"id": "sadivnyk",
+			"item": "word:sadivnyk",
+			"text": "садівник",
+			"display": "садівни́к",
+			"ipa": "/sadʲiʋˈnɪk/",
+			"alsoAccepted": ["садівничий"]
+		},
+		{
+			"id": "siyach",
+			"item": "word:siyach",
+			"text": "сіяч",
+			"display": "сія́ч",
+			"ipa": "/sʲiˈjat͡ʃ/",
+			"alsoAccepted": ["сівач"]
+		},
+		{
+			"id": "prohramist",
+			"item": "word:prohramist",
+			"text": "програміст",
+			"display": "програмі́ст",
+			"ipa": "/prɔɦraˈmʲist/"
+		},
+		{
+			"id": "zhyvopysets",
+			"item": "word:zhyvopysets",
+			"text": "живописець",
+			"display": "живопи́сець",
+			"ipa": "/ʒɪʋɔˈpɪsɛt͡sʲ/",
+			"alsoAccepted": ["художник", "маляр"]
+		},
+		{
+			"id": "naukovets",
+			"item": "word:naukovets",
+			"text": "науковець",
+			"display": "науко́вець",
+			"ipa": "/nauˈkɔʋɛt͡sʲ/",
+			"alsoAccepted": ["учений", "вчений", "дослідник"]
+		},
+		{
+			"id": "sluzhbovets",
+			"item": "word:sluzhbovets",
+			"text": "службовець",
+			"display": "службо́вець",
+			"ipa": "/sluʒˈbɔʋɛt͡sʲ/",
+			"alsoAccepted": ["співробітник", "клерк"]
+		},
+		{
+			"id": "prodavets",
+			"item": "word:prodavets",
+			"text": "продавець",
+			"display": "продаве́ць",
+			"ipa": "/prɔdaˈʋɛt͡sʲ/",
+			"alsoAccepted": ["торговець"]
+		},
+		{
+			"id": "prodavchynya",
+			"item": "word:prodavchynya",
+			"text": "продавчиня",
+			"display": "продавчи́ня",
+			"ipa": "/prɔdaʋˈt͡ʃɪnʲa/",
+			"alsoAccepted": ["продавщиця", "торговка"]
+		},
+		{
+			"id": "kravets",
+			"item": "word:kravets",
+			"text": "кравець",
+			"display": "краве́ць",
+			"ipa": "/kraˈʋɛt͡sʲ/"
+		},
+		{
+			"id": "kravchynya",
+			"item": "word:kravchynya",
+			"text": "кравчиня",
+			"display": "кравчи́ня",
+			"ipa": "/kraʋˈt͡ʃɪnʲa/",
+			"alsoAccepted": ["швачка", "кравчиха"]
+		},
+		{
+			"id": "robitnytsya",
+			"item": "word:robitnytsya",
+			"text": "робітниця",
+			"display": "робітни́ця",
+			"ipa": "/rɔbʲitˈnɪt͡sʲa/"
+		},
+		{
+			"id": "prybyralnyk",
+			"item": "word:prybyralnyk",
+			"text": "прибиральник",
+			"display": "прибира́льник",
+			"ipa": "/prɪbɪˈralʲnɪk/"
+		},
+		{
+			"id": "prybyralnytsya",
+			"item": "word:prybyralnytsya",
+			"text": "прибиральниця",
+			"display": "прибира́льниця",
+			"ipa": "/prɪbɪˈralʲnɪt͡sʲa/"
+		},
+		{
+			"id": "yuryst",
+			"item": "word:yuryst",
+			"text": "юрист",
+			"display": "юри́ст",
+			"ipa": "/juˈrɪst/",
+			"alsoAccepted": ["правник"]
+		},
+		{
+			"id": "pratsivnyk",
+			"item": "word:pratsivnyk",
+			"text": "працівник",
+			"display": "працівни́к",
+			"ipa": "/prat͡sʲiʋˈnɪk/",
+			"alsoAccepted": ["співробітник"]
+		},
+		{
+			"id": "fakhivets",
+			"item": "word:fakhivets",
+			"text": "фахівець",
+			"display": "фахіве́ць",
+			"ipa": "/faxʲiˈʋɛt͡sʲ/",
+			"alsoAccepted": ["спеціаліст", "професіонал", "знавець", "спец", "експерт"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: шахтар",
+			"url": "https://goroh.pp.ua/Словозміна/шахтар"
+		},
+		{
+			"title": "Горох: науковець",
+			"url": "https://goroh.pp.ua/Словозміна/науковець"
+		},
+		{
+			"title": "Горох: кравчиня",
+			"url": "https://goroh.pp.ua/Словозміна/кравчиня"
+		}
+	]
+}

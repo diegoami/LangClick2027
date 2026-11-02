@@ -1,0 +1,85 @@
+{
+	"id": "family-genitive-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"cells": [
+		{
+			"id": "brata",
+			"item": "sentence:l09:family-genitive:brata",
+			"text": "брата",
+			"display": "бра́та",
+			"sentence": "У ___ є пес. (брат)"
+		},
+		{
+			"id": "sestry",
+			"item": "sentence:l09:family-genitive:sestry",
+			"text": "сестри",
+			"display": "сестри́",
+			"sentence": "У ___ є кіт. (сестра)"
+		},
+		{
+			"id": "titky",
+			"item": "sentence:l09:family-genitive:titky",
+			"text": "тітки",
+			"display": "ті́тки",
+			"sentence": "У ___ нема́є маши́ни. (ті́тка)"
+		},
+		{
+			"id": "didusya",
+			"item": "sentence:l09:family-genitive:didusya",
+			"text": "дідуся",
+			"display": "дідуся́",
+			"sentence": "Це нове́ фо́то ___. (діду́сь)"
+		},
+		{
+			"id": "batusya",
+			"item": "sentence:l09:family-genitive:batusya",
+			"text": "бабусі",
+			"display": "бабу́сі",
+			"sentence": "Це лист для ___. (бабу́ся)"
+		},
+		{
+			"id": "materi",
+			"item": "sentence:l09:family-genitive:materi",
+			"text": "матері",
+			"display": "ма́тері",
+			"sentence": "Це кімна́та ___. (ма́ти)"
+		},
+		{
+			"id": "svekra",
+			"item": "sentence:l09:family-genitive:svekra",
+			"text": "свекра",
+			"display": "све́кра",
+			"sentence": "Це маши́на ___. (све́кор)"
+		},
+		{
+			"id": "testya",
+			"item": "sentence:l09:family-genitive:testya",
+			"text": "тестя",
+			"display": "те́стя",
+			"sentence": "Це ключ від до́му ___. (тесть)"
+		}
+	],
+	"sources": [
+		{
+			"title": "Dobra Forma: genitive for relationships",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/7-3/"
+		},
+		{
+			"title": "Горох: словозміна свекор",
+			"url": "https://goroh.pp.ua/Словозміна/свекор"
+		},
+		{
+			"title": "Горох: словозміна мати",
+			"url": "https://goroh.pp.ua/Словозміна/мати"
+		},
+		{
+			"title": "Горох: словозміна сестра",
+			"url": "https://goroh.pp.ua/Словозміна/сестра"
+		}
+	]
+}

@@ -1,0 +1,362 @@
+{
+	"id": "l10-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 24
+	},
+	"cells": [
+		{
+			"id": "likar",
+			"item": "word:likar",
+			"text": "лікар",
+			"display": "лі́кар",
+			"ipa": "/ˈlʲikar/",
+			"cognates": {
+				"pl": {
+					"form": "lekarz"
+				}
+			},
+			"alsoAccepted": ["доктор"]
+		},
+		{
+			"id": "likarka",
+			"item": "word:likarka",
+			"text": "лікарка",
+			"display": "лі́карка",
+			"ipa": "/ˈlʲikarka/",
+			"cognates": {
+				"pl": {
+					"form": "lekarka"
+				}
+			}
+		},
+		{
+			"id": "vchytel",
+			"item": "word:vchytel",
+			"text": "вчитель",
+			"display": "вчи́тель",
+			"ipa": "/ˈʋt͡ʃɪtɛlʲ/",
+			"cognates": {
+				"ru": {
+					"form": "учи́тель"
+				},
+				"pl": {
+					"form": "nauczyciel"
+				}
+			},
+			"alsoAccepted": ["учитель"]
+		},
+		{
+			"id": "vchytelka",
+			"item": "word:vchytelka",
+			"text": "вчителька",
+			"display": "вчи́телька",
+			"ipa": "/ˈʋt͡ʃɪtɛlʲka/",
+			"cognates": {
+				"ru": {
+					"form": "учи́тельница"
+				},
+				"pl": {
+					"form": "nauczycielka"
+				}
+			},
+			"alsoAccepted": ["учителька"]
+		},
+		{
+			"id": "vykladach",
+			"item": "word:vykladach",
+			"text": "викладач",
+			"display": "виклада́ч",
+			"ipa": "/ʋɪklaˈdat͡ʃ/",
+			"cognates": {
+				"pl": {
+					"form": "wykładowca"
+				}
+			},
+			"alsoAccepted": ["лектор"]
+		},
+		{
+			"id": "vykladachka",
+			"item": "word:vykladachka",
+			"text": "викладачка",
+			"display": "виклада́чка",
+			"ipa": "/ʋɪklaˈdat͡ʃka/",
+			"cognates": {
+				"pl": {
+					"form": "wykładowczyni"
+				}
+			},
+			"alsoAccepted": ["лекторка"]
+		},
+		{
+			"id": "inzhener",
+			"item": "word:inzhener",
+			"text": "інженер",
+			"display": "інжене́р",
+			"ipa": "/inʒɛˈnɛr/",
+			"cognates": {
+				"ru": {
+					"form": "инжене́р"
+				},
+				"pl": {
+					"form": "inżynier"
+				}
+			}
+		},
+		{
+			"id": "inzhenerka",
+			"item": "word:inzhenerka",
+			"text": "інженерка",
+			"display": "інжене́рка",
+			"ipa": "/inʒɛˈnɛrka/",
+			"cognates": {
+				"ru": {
+					"form": "инжене́р"
+				},
+				"pl": {
+					"form": "inżynierka"
+				}
+			}
+		},
+		{
+			"id": "kukhar",
+			"item": "word:kukhar",
+			"text": "кухар",
+			"display": "ку́хар",
+			"ipa": "/ˈkuxar/",
+			"cognates": {
+				"pl": {
+					"form": "kucharz"
+				}
+			},
+			"alsoAccepted": ["куховар", "повар", "кулінар"]
+		},
+		{
+			"id": "kukharka",
+			"item": "word:kukharka",
+			"text": "кухарка",
+			"display": "куха́рка",
+			"ipa": "/kuˈxarka/",
+			"cognates": {
+				"ru": {
+					"form": "куха́рка"
+				},
+				"pl": {
+					"form": "kucharka"
+				}
+			},
+			"alsoAccepted": ["куховарка", "кулінарка"]
+		},
+		{
+			"id": "vodiy",
+			"item": "word:vodiy",
+			"text": "водій",
+			"display": "воді́й",
+			"ipa": "/ʋɔˈdʲij/",
+			"cognates": {
+				"ru": {
+					"form": "води́тель"
+				}
+			},
+			"alsoAccepted": ["шофер"]
+		},
+		{
+			"id": "vodiyka",
+			"item": "word:vodiyka",
+			"text": "водійка",
+			"display": "воді́йка",
+			"ipa": "/ʋɔˈdʲijka/",
+			"cognates": {
+				"ru": {
+					"form": "води́тель"
+				}
+			},
+			"alsoAccepted": ["шоферка"]
+		},
+		{
+			"id": "zhurnalist",
+			"item": "word:zhurnalist",
+			"text": "журналіст",
+			"display": "журналі́ст",
+			"ipa": "/ʒurnaˈlʲist/",
+			"cognates": {
+				"ru": {
+					"form": "журнали́ст"
+				}
+			}
+		},
+		{
+			"id": "zhurnalistka",
+			"item": "word:zhurnalistka",
+			"text": "журналістка",
+			"display": "журналі́стка",
+			"ipa": "/ʒurnaˈlʲistka/",
+			"cognates": {
+				"ru": {
+					"form": "журнали́стка"
+				}
+			}
+		},
+		{
+			"id": "perukar",
+			"item": "word:perukar",
+			"text": "перукар",
+			"display": "перука́р",
+			"ipa": "/pɛruˈkar/",
+			"cognates": {
+				"ru": {
+					"form": "парикма́хер"
+				}
+			}
+		},
+		{
+			"id": "perukarka",
+			"item": "word:perukarka",
+			"text": "перукарка",
+			"display": "перука́рка",
+			"ipa": "/pɛruˈkarka/",
+			"cognates": {
+				"ru": {
+					"form": "парикма́хер"
+				}
+			}
+		},
+		{
+			"id": "student",
+			"item": "word:student",
+			"text": "студент",
+			"display": "студе́нт",
+			"ipa": "/stuˈdɛnt/",
+			"cognates": {
+				"ru": {
+					"form": "студе́нт"
+				},
+				"pl": {
+					"form": "student"
+				}
+			}
+		},
+		{
+			"id": "studentka",
+			"item": "word:studentka",
+			"text": "студентка",
+			"display": "студе́нтка",
+			"ipa": "/stuˈdɛntka/",
+			"cognates": {
+				"ru": {
+					"form": "студе́нтка"
+				},
+				"pl": {
+					"form": "studentka"
+				}
+			}
+		},
+		{
+			"id": "pensioner",
+			"item": "word:pensioner",
+			"text": "пенсіонер",
+			"display": "пенсіоне́р",
+			"ipa": "/pɛnʲsʲiɔˈnɛr/",
+			"cognates": {
+				"ru": {
+					"form": "пенсионе́р"
+				}
+			}
+		},
+		{
+			"id": "pensionerka",
+			"item": "word:pensionerka",
+			"text": "пенсіонерка",
+			"display": "пенсіоне́рка",
+			"ipa": "/pɛnʲsʲiɔˈnɛrka/",
+			"cognates": {
+				"ru": {
+					"form": "пенсионе́рка"
+				}
+			}
+		},
+		{
+			"id": "profesiya",
+			"item": "word:profesiya",
+			"text": "професія",
+			"display": "профе́сія",
+			"ipa": "/prɔˈfɛsʲija/",
+			"cognates": {
+				"ru": {
+					"form": "профе́ссия"
+				},
+				"pl": {
+					"form": "profesja"
+				}
+			},
+			"alsoAccepted": ["фах", "спеціальність"]
+		},
+		{
+			"id": "robota",
+			"item": "word:robota",
+			"text": "робота",
+			"display": "робо́та",
+			"ipa": "/rɔˈbɔta/",
+			"cognates": {
+				"ru": {
+					"form": "рабо́та"
+				},
+				"pl": {
+					"form": "robota"
+				}
+			},
+			"alsoAccepted": ["праця"]
+		},
+		{
+			"id": "koleha",
+			"item": "word:koleha",
+			"text": "колега",
+			"display": "коле́га",
+			"ipa": "/kɔˈlɛɦa/",
+			"cognates": {
+				"ru": {
+					"form": "колле́га"
+				},
+				"pl": {
+					"form": "kolega"
+				}
+			},
+			"alsoAccepted": ["співробітник", "співробітниця", "співпрацівник", "співпрацівниця"]
+		},
+		{
+			"id": "zarplata",
+			"item": "word:zarplata",
+			"text": "зарплата",
+			"display": "зарпла́та",
+			"ipa": "/zarˈplata/",
+			"cognates": {
+				"ru": {
+					"form": "зарпла́та"
+				},
+				"pl": {
+					"form": "zapłata"
+				}
+			},
+			"alsoAccepted": ["заробітна плата", "платня", "заробіток", "оплата праці"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: словозміна професій",
+			"url": "https://goroh.pp.ua/Словозміна/лікар"
+		},
+		{
+			"title": "Горох: вчитель та його форми",
+			"url": "https://goroh.pp.ua/Словозміна/вчитель"
+		},
+		{
+			"title": "Горох: кухарка",
+			"url": "https://goroh.pp.ua/Словозміна/кухарка"
+		},
+		{
+			"title": "PodorozhiUA: professions and places of work",
+			"url": "https://podorozhiua.com/4-0/4-5m/"
+		}
+	]
+}

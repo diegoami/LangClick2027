@@ -1,0 +1,42 @@
+{
+	"title": "Zdania o rodzinie",
+	"summary": "Zaimek w nawiasie wskazuje właściciela; brakująca forma zgadza się z nazwą członka rodziny.",
+	"cells": {
+		"my-brother": {
+			"sentenceGloss": "To jest mój brat."
+		},
+		"my-sister": {
+			"sentenceGloss": "To jest moja siostra."
+		},
+		"my-child": {
+			"sentenceGloss": "To jest moje dziecko."
+		},
+		"my-parents": {
+			"sentenceGloss": "To są moi rodzice."
+		},
+		"your-father": {
+			"sentenceGloss": "To jest twój ojciec."
+		},
+		"your-mother": {
+			"sentenceGloss": "To jest twoja matka."
+		},
+		"our-grandfather": {
+			"sentenceGloss": "To jest nasz dziadek."
+		},
+		"our-grandmother": {
+			"sentenceGloss": "To jest nasza babcia."
+		},
+		"his-daughter": {
+			"sentenceGloss": "To jest jego córka."
+		},
+		"her-son": {
+			"sentenceGloss": "To jest jej syn."
+		},
+		"their-sister": {
+			"sentenceGloss": "To jest ich siostra."
+		},
+		"their-children": {
+			"sentenceGloss": "To są ich dzieci."
+		}
+	}
+}

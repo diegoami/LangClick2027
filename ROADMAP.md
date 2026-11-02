@@ -11,10 +11,17 @@ It adds eMova lessons 4–8 to the phonetics and grammar already available, in t
 compared with Russian or Polish. [Milestone #33](https://github.com/diegoami/LangClick2027/issues/33)
 received AGREE on the exact tagged commit, `e73638f945c48c829aafea37ffdef3c26eaec0c1`.
 
-**Ukrainian is not complete.** Lessons 9 and 14 each have one older board; lessons 10–13 and
-15–27 have none. [Proposal #34](https://github.com/diegoami/LangClick2027/issues/34) records
-verified source candidates and the proposed next batch, lessons 9–14; its detailed design
-still awaits owner agreement.
+**v0.5.0, lessons 9–14, is in progress** under approved
+[proposal #34](https://github.com/diegoami/LangClick2027/issues/34). The first batch, lessons
+9–10, is prepared for owner testing: family and in-law vocabulary, possessives and genitive
+forms; professions and word families, workplace locations and original sentence gaps. Canonical
+answers and permanent IDs on the older family board stay intact; verified equivalent forms
+are accepted when typed. The source's full lesson notes and tasks have been inspected, and
+the coverage ledger maps their core vocabulary and grammar while leaving free-form writing,
+listening and cultural resources in the source.
+
+**Ukrainian is not complete.** Lessons 11–13 and 15–27 still have no boards; lesson 14 has
+only the older room declension. Lessons 11–14 are the remaining content work for v0.5.0.
 
 On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
 extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided

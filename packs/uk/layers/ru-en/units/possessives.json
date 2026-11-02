@@ -1,0 +1,10 @@
+{
+	"cells": {
+		"my.m": {
+			"contrast": "Russian мой corresponds to мій; use the Ukrainian form rather than copying the Russian vowel."
+		},
+		"his.m": {
+			"contrast": "Russian его corresponds to його: keep the initial й in Ukrainian. The possessive stays unchanged for every gender and number."
+		}
+	}
+}

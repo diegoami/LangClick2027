@@ -1,0 +1,42 @@
+{
+	"title": "Семья в предложениях",
+	"summary": "Местоимение в скобках указывает владельца; форма пропуска согласуется с названием родственника.",
+	"cells": {
+		"my-brother": {
+			"sentenceGloss": "Это мой брат."
+		},
+		"my-sister": {
+			"sentenceGloss": "Это моя сестра."
+		},
+		"my-child": {
+			"sentenceGloss": "Это моё дитя."
+		},
+		"my-parents": {
+			"sentenceGloss": "Это мои родители."
+		},
+		"your-father": {
+			"sentenceGloss": "Это твой отец."
+		},
+		"your-mother": {
+			"sentenceGloss": "Это твоя мать."
+		},
+		"our-grandfather": {
+			"sentenceGloss": "Это наш дедушка."
+		},
+		"our-grandmother": {
+			"sentenceGloss": "Это наша бабушка."
+		},
+		"his-daughter": {
+			"sentenceGloss": "Это его дочь."
+		},
+		"her-son": {
+			"sentenceGloss": "Это её сын."
+		},
+		"their-sister": {
+			"sentenceGloss": "Это их сестра."
+		},
+		"their-children": {
+			"sentenceGloss": "Это их дети."
+		}
+	}
+}

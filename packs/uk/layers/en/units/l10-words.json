@@ -1,0 +1,80 @@
+{
+	"title": "Professions and work",
+	"summary": "Occupation nouns in masculine and feminine forms, then four words about working life. The clue specifies grammatical gender, not who may hold the job.",
+	"cells": {
+		"likar": {
+			"clue": "doctor (masculine noun)",
+			"note": "Use лікар as the course form. Dictionaries also record доктор for a physician as colloquial, so typing it is accepted here; it can also name an academic degree."
+		},
+		"likarka": {
+			"clue": "doctor (feminine noun)"
+		},
+		"vchytel": {
+			"clue": "schoolteacher (masculine noun)"
+		},
+		"vchytelka": {
+			"clue": "schoolteacher (feminine noun)"
+		},
+		"vykladach": {
+			"clue": "university lecturer (masculine noun)"
+		},
+		"vykladachka": {
+			"clue": "university lecturer (feminine noun)"
+		},
+		"inzhener": {
+			"clue": "engineer (masculine noun)"
+		},
+		"inzhenerka": {
+			"clue": "engineer (feminine noun)"
+		},
+		"kukhar": {
+			"clue": "cook (masculine noun)"
+		},
+		"kukharka": {
+			"clue": "cook (feminine noun)",
+			"note": "The stress moves: ку́хар, but куха́рка."
+		},
+		"vodiy": {
+			"clue": "driver (masculine noun)"
+		},
+		"vodiyka": {
+			"clue": "driver (feminine noun)"
+		},
+		"zhurnalist": {
+			"clue": "journalist (masculine noun)"
+		},
+		"zhurnalistka": {
+			"clue": "journalist (feminine noun)"
+		},
+		"perukar": {
+			"clue": "hairdresser (masculine noun)"
+		},
+		"perukarka": {
+			"clue": "hairdresser (feminine noun)"
+		},
+		"student": {
+			"clue": "university or college student (masculine noun)"
+		},
+		"studentka": {
+			"clue": "university or college student (feminine noun)"
+		},
+		"pensioner": {
+			"clue": "pensioner (masculine noun)"
+		},
+		"pensionerka": {
+			"clue": "pensioner (feminine noun)"
+		},
+		"profesiya": {
+			"clue": "profession"
+		},
+		"robota": {
+			"clue": "work; employment"
+		},
+		"koleha": {
+			"clue": "colleague"
+		},
+		"zarplata": {
+			"clue": "salary; wages"
+		}
+	}
+}

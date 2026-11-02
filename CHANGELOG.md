@@ -2,6 +2,12 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
+## Unreleased
+
+- Lesson 9 of Є-мова: kinship, marriage and generations; possessive forms, family genitives and original sentence gaps, alongside the existing family board. The course's scope is mapped without copying its notes or exercises.
+- Lesson 10: profession names and their word families, feminine forms, workplace locations and original sentences for professions and work. Tray and typing, with explanations in English, Russian, Polish and Ukrainian.
+- Dictionary-supported alternatives are accepted when typed. The great-grandfather board follows the academic dictionary's пра́дідусь and explains where the course notes differ. The course's preferred лікар remains the shown answer, while colloquial доктор is accepted and labelled.
+
 ## v0.4.0 — 2026-11-02 — eMova lessons 4–8
 
 **Practise eMova lessons 4–8 after studying the source: introductions, greetings, time, everyday routines and weather, compared with Russian or Polish.**

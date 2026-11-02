@@ -1,0 +1,55 @@
+{
+	"title": "Whose family?",
+	"summary": "Nominative possessives agree with the thing or person possessed. The owner in the row fixes whose it is; the column fixes gender or number.",
+	"headers": {
+		"my": "my: я",
+		"your": "your: ти",
+		"his": "his: він",
+		"her": "her: вона",
+		"our": "our: ми",
+		"your-pl": "your: ви",
+		"their": "their: вони",
+		"m": "masculine: брат",
+		"f": "feminine: сестра",
+		"n": "neuter: дитя",
+		"pl": "plural: батьки"
+	},
+	"cells": {
+		"his.m": {
+			"note": "His and her stay unchanged. The gender in the column belongs to the relative, not to the owner."
+		},
+		"his.f": {
+			"note": "His and her stay unchanged. The gender in the column belongs to the relative, not to the owner."
+		},
+		"his.n": {
+			"note": "His and her stay unchanged. The gender in the column belongs to the relative, not to the owner."
+		},
+		"his.pl": {
+			"note": "His and her stay unchanged. The gender in the column belongs to the relative, not to the owner."
+		},
+		"her.m": {
+			"note": "His and her stay unchanged. The gender in the column belongs to the relative, not to the owner."
+		},
+		"her.f": {
+			"note": "His and her stay unchanged. The gender in the column belongs to the relative, not to the owner."
+		},
+		"her.n": {
+			"note": "His and her stay unchanged. The gender in the column belongs to the relative, not to the owner."
+		},
+		"her.pl": {
+			"note": "His and her stay unchanged. The gender in the column belongs to the relative, not to the owner."
+		},
+		"their.m": {
+			"note": "Their can also be the invariant їх in all four columns."
+		},
+		"their.f": {
+			"note": "Their can also be the invariant їх in all four columns."
+		},
+		"their.n": {
+			"note": "Their can also be the invariant їх in all four columns."
+		},
+		"their.pl": {
+			"note": "Their can also be the invariant їх in all four columns."
+		}
+	}
+}

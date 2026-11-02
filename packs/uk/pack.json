@@ -321,7 +321,14 @@
 		{
 			"id": "l09",
 			"section": "themes",
-			"units": ["family"],
+			"units": [
+				"family",
+				"l09-words",
+				"possessives",
+				"l09-sentences",
+				"family-genitive",
+				"family-genitive-sentences"
+			],
 			"study": [
 				{
 					"kind": "video",
@@ -342,6 +349,48 @@
 					"kind": "resources",
 					"title": "Є-мова, урок 9: додаткові ресурси",
 					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@87c7dfd9f0444a2eb8887255f7109af7"
+				},
+				{
+					"kind": "reading",
+					"title": "Dobra Forma: possessive pronouns",
+					"url": "https://opentext.ku.edu/dobraforma/chapter/12-1/"
+				}
+			]
+		},
+		{
+			"id": "l10",
+			"section": "themes",
+			"units": ["l10-words", "l10-occupations", "workplaces", "l10-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 10: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@87eea003de444ca3947a6141357a248d"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 10: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@f8ca73a5d5b84b538b4a8d0781b78dfd"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 10: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@b1a38398db164da4b6afdca1e25b9abf"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 10: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@5ecb437cc7b94d0e8cbecd61f1ace35a"
+				},
+				{
+					"kind": "reading",
+					"title": "PodorozhiUA: professions and places of work",
+					"url": "https://podorozhiua.com/4-0/4-5m/"
+				},
+				{
+					"kind": "reading",
+					"title": "Dobra Forma: profession after працювати",
+					"url": "https://opentext.ku.edu/dobraforma/chapter/10-3/"
 				}
 			]
 		}

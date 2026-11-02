@@ -1,0 +1,112 @@
+{
+	"id": "l09-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 12
+	},
+	"cells": [
+		{
+			"id": "my-brother",
+			"item": "sentence:l09:my-brother",
+			"text": "мій",
+			"sentence": "Це ___ брат. (я)"
+		},
+		{
+			"id": "my-sister",
+			"item": "sentence:l09:my-sister",
+			"text": "моя",
+			"sentence": "Це ___ сестра́. (я)",
+			"display": "моя́"
+		},
+		{
+			"id": "my-child",
+			"item": "sentence:l09:my-child",
+			"text": "моє",
+			"sentence": "Це ___ дитя́. (я)",
+			"display": "моє́"
+		},
+		{
+			"id": "my-parents",
+			"item": "sentence:l09:my-parents",
+			"text": "мої",
+			"sentence": "Це ___ батьки́. (я)",
+			"display": "мої́"
+		},
+		{
+			"id": "your-father",
+			"item": "sentence:l09:your-father",
+			"text": "твій",
+			"sentence": "Це ___ ба́тько. (ти)"
+		},
+		{
+			"id": "your-mother",
+			"item": "sentence:l09:your-mother",
+			"text": "твоя",
+			"sentence": "Це ___ ма́ти. (ти)",
+			"display": "твоя́"
+		},
+		{
+			"id": "our-grandfather",
+			"item": "sentence:l09:our-grandfather",
+			"text": "наш",
+			"sentence": "Це ___ діду́сь. (ми)"
+		},
+		{
+			"id": "our-grandmother",
+			"item": "sentence:l09:our-grandmother",
+			"text": "наша",
+			"sentence": "Це ___ бабу́ся. (ми)",
+			"display": "на́ша"
+		},
+		{
+			"id": "his-daughter",
+			"item": "sentence:l09:his-daughter",
+			"text": "його",
+			"sentence": "Це ___ до́нька. (він)",
+			"display": "його́"
+		},
+		{
+			"id": "her-son",
+			"item": "sentence:l09:her-son",
+			"text": "її",
+			"sentence": "Це ___ син. (вона)",
+			"display": "її́"
+		},
+		{
+			"id": "their-sister",
+			"item": "sentence:l09:their-sister",
+			"text": "їхня",
+			"sentence": "Це ___ сестра́. (вони)",
+			"display": "ї́хня",
+			"alsoAccepted": ["їх", "їхняя"]
+		},
+		{
+			"id": "their-children",
+			"item": "sentence:l09:their-children",
+			"text": "їхні",
+			"sentence": "Це ___ ді́ти. (вони)",
+			"display": "ї́хні",
+			"alsoAccepted": ["їх", "їхнії"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Dobra Forma: possessive pronouns",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/12-1/"
+		},
+		{
+			"title": "Dobra Forma: наш and ваш",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/12-2/"
+		},
+		{
+			"title": "Dobra Forma: його, її and їхній",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/12-3/"
+		},
+		{
+			"title": "Горох: словозміна мій",
+			"url": "https://goroh.pp.ua/Словозміна/мій"
+		}
+	]
+}

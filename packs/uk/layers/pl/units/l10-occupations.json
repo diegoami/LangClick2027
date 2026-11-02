@@ -1,0 +1,93 @@
+{
+	"title": "Więcej zawodów",
+	"summary": "Nazwy zajęć z lekcji źródłowej, w tym formy żeńskie. Rodzaj gramatyczny jest częścią wskazówki.",
+	"cells": {
+		"shakhtar": {
+			"clue": "górnik (rodzaj męski)",
+			"note": "Wyrazy pokrewne: шахта → шахта́р."
+		},
+		"bibliotekar": {
+			"clue": "bibliotekarz (rodzaj męski)",
+			"note": "Wyrazy pokrewne: бібліотека → бібліоте́кар."
+		},
+		"bdzholyar": {
+			"clue": "pszczelarz (rodzaj męski)",
+			"note": "Wyrazy pokrewne: бджола → бджоля́р."
+		},
+		"betonyar": {
+			"clue": "betoniarz (rodzaj męski)",
+			"note": "Wyrazy pokrewne: бетон → бетоня́р."
+		},
+		"smittyar": {
+			"clue": "śmieciarz (rodzaj męski)",
+			"note": "Wyrazy pokrewne: сміття → сміття́р."
+		},
+		"budivelnyk": {
+			"clue": "budowniczy (rodzaj męski)",
+			"note": "Wyrazy pokrewne: будівля → будіве́льник."
+		},
+		"robitnyk": {
+			"clue": "robotnik (rodzaj męski)",
+			"note": "Wyrazy pokrewne: робити → робітни́к."
+		},
+		"sadivnyk": {
+			"clue": "ogrodnik (rodzaj męski)",
+			"note": "Wyrazy pokrewne: сад → садівни́к."
+		},
+		"siyach": {
+			"clue": "siewca (rodzaj męski)",
+			"note": "Wyrazy pokrewne: сіяти → сія́ч."
+		},
+		"prohramist": {
+			"clue": "programista (rodzaj męski)",
+			"note": "Wyrazy pokrewne: програма → програмі́ст."
+		},
+		"zhyvopysets": {
+			"clue": "malarz obrazów (rodzaj męski)",
+			"note": "Wyrazy pokrewne: живопис → живопи́сець."
+		},
+		"naukovets": {
+			"clue": "naukowiec (rodzaj męski)",
+			"note": "Wyrazy pokrewne: наука → науко́вець."
+		},
+		"sluzhbovets": {
+			"clue": "pracownik biurowy (rodzaj męski)",
+			"note": "Wyrazy pokrewne: служба → службо́вець."
+		},
+		"prodavets": {
+			"clue": "sprzedawca (rodzaj męski)",
+			"note": "Wyrazy pokrewne: продавати → продаве́ць."
+		},
+		"prodavchynya": {
+			"clue": "sprzedawczyni (rodzaj żeński)",
+			"note": "Wyrazy pokrewne: продавець → продавчи́ня."
+		},
+		"kravets": {
+			"clue": "krawiec (rodzaj męski)"
+		},
+		"kravchynya": {
+			"clue": "krawcowa (rodzaj żeński)",
+			"note": "Wyrazy pokrewne: кравець → кравчи́ня."
+		},
+		"robitnytsya": {
+			"clue": "robotnica (rodzaj żeński)",
+			"note": "Wyrazy pokrewne: робітник → робітни́ця."
+		},
+		"prybyralnyk": {
+			"clue": "sprzątacz (rodzaj męski)"
+		},
+		"prybyralnytsya": {
+			"clue": "sprzątaczka (rodzaj żeński)",
+			"note": "Wyrazy pokrewne: прибиральник → прибира́льниця."
+		},
+		"yuryst": {
+			"clue": "prawnik (rodzaj męski)"
+		},
+		"pratsivnyk": {
+			"clue": "pracownik (ogólna nazwa, rodzaj męski)"
+		},
+		"fakhivets": {
+			"clue": "specjalista (rodzaj męski)"
+		}
+	}
+}

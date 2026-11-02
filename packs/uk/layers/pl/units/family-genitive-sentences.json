@@ -1,0 +1,30 @@
+{
+	"title": "Pokrewieństwo w zdaniach",
+	"summary": "Wstaw nazwę krewnego z nawiasu w dopełniaczu.",
+	"cells": {
+		"brata": {
+			"sentenceGloss": "Brat ma psa."
+		},
+		"sestry": {
+			"sentenceGloss": "Siostra ma kota."
+		},
+		"titky": {
+			"sentenceGloss": "Ciocia nie ma samochodu."
+		},
+		"didusya": {
+			"sentenceGloss": "To nowe zdjęcie dziadka."
+		},
+		"batusya": {
+			"sentenceGloss": "To list dla babci."
+		},
+		"materi": {
+			"sentenceGloss": "To pokój matki."
+		},
+		"svekra": {
+			"sentenceGloss": "To samochód ojca męża."
+		},
+		"testya": {
+			"sentenceGloss": "To klucz do domu ojca żony."
+		}
+	}
+}

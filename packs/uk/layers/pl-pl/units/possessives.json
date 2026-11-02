@@ -1,0 +1,10 @@
+{
+	"cells": {
+		"my.pl": {
+			"contrast": "Polski rozróżnia moi i moje. Ukraińskie мої jest wspólne dla wszystkich rodzajów w liczbie mnogiej: мої брати, мої сестри."
+		},
+		"his.f": {
+			"contrast": "Tak jak polskie jego, ukraińskie його nie zmienia się nawet przed rzeczownikiem żeńskim."
+		}
+	}
+}

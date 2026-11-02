@@ -75,12 +75,50 @@
 		{
 			"number": 9,
 			"title": "Моя сім'я",
-			"units": ["family"]
+			"units": [
+				"family",
+				"l09-words",
+				"possessives",
+				"l09-sentences",
+				"family-genitive",
+				"family-genitive-sentences",
+				"pronouns-personal",
+				"pronouns-third",
+				"l04-phrases",
+				"l06-numbers",
+				"time-count"
+			],
+			"status": "core-mapped",
+			"scope": [
+				"Kinship, marriage and generations",
+				"Nominative possessives",
+				"Family genitive forms and relationships",
+				"Introducing relatives and talking about age"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text read 2026-11-02 after explicit owner authorization; resource topics inspected. Authored vocabulary and original grammar practice map the factual objectives; earlier naming, age and pronoun boards are reused.",
+			"boundary": "The source retains the free-form family narrative, listening and additional cultural resources. This mapping covers practice of its core vocabulary/grammar, not language proficiency or replacement of the source."
 		},
 		{
 			"number": 10,
 			"title": "Моя професія",
-			"units": []
+			"units": [
+				"l10-words",
+				"l10-occupations",
+				"workplaces",
+				"l10-sentences",
+				"present",
+				"present-sentences",
+				"l07-verbs"
+			],
+			"status": "core-mapped",
+			"scope": [
+				"Occupation vocabulary and word families",
+				"Masculine and feminine occupation nouns",
+				"Nominative self-description and instrumental after працювати",
+				"Workplace locative and робити/працювати usage"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text read 2026-11-02 after explicit owner authorization; resource topics inspected. Named occupation vocabulary, related-word patterns and grammar objectives are mapped to original boards, with shared present-tense practice.",
+			"boundary": "Free-form writing and additional source videos remain study links. The course preference for лікар is explained while dictionary-supported colloquial доктор remains an accepted typed form."
 		},
 		{
 			"number": 11,
