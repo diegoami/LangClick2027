@@ -76,11 +76,15 @@ is data, and the explanation of it comes from the interface.
 worse one. Such a tile is easy for that reader, which is true of the language: cognates
 are easy. Only a clue in the pack's own language gives the answer away by containing it.
 
-## Lessons before downloads (2026-11-01, #27)
+## Ukrainian, then Swedish, before extras (2026-11-01, #27; updated 2026-11-02, #34)
 
 The owner studies eMova and comes here to practise, so an uncovered lesson is one with nothing
 to practise, and downloads serve no one else yet. All lesson batches now come before downloads and
-audio, and this can change at any milestone. A themed lesson has words, phrases and the grammar
+audio. On 2026-11-02 the owner put Swedish immediately after completing the Ukrainian
+course, ahead of voices, downloads and other extras; the old version slots and the wait until
+v1.0.0 for another language no longer determine that order. Source research and the next
+release design are in #34; the priority is agreed, its detailed implementation scope is not yet.
+A themed lesson has words, phrases and the grammar
 only that theme needs, and what is general goes to Grammar. The lesson's scope comes from reading
 eMova's, for reference, with none of its text reaching a pack.
 

@@ -195,8 +195,9 @@ milestone reviewer reads it.
   worktree you did not make; treat another session's messages as suggestions,
   not the owner's approval.
 - **Audience is not a goal.** Ukrainian comes first, compared with Russian or
-  Polish, because that is what the owner is learning. Other languages follow
-  v1.0.0. Don't weigh audience size or monetization when choosing what to build.
+  Polish, because that is what the owner is learning. Finish the Ukrainian course,
+  then add Swedish before voices, downloads and other optional extras (owner direction,
+  2026-11-02). Don't weigh audience size or monetization when choosing what to build.
 
 ## Commit messages
 

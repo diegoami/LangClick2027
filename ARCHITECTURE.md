@@ -62,8 +62,9 @@ round in progress lives in `quizRound.ts`, in memory only, so a trip to the
 Overview keeps it and a reload starts fresh.
 
 **Progress.** Each answer goes through `rate` from `packages/srs` and is saved at
-once by `progressRepository.ts`, keyed by pack, item and skill. Only `recognise` is
-written so far. A round covers the whole unit, and Review reads the saved due dates.
+once by `progressRepository.ts`, keyed by pack, item and skill. The tray records
+`recognise` and the Type tab records `produce`; Review reads each skill's saved due dates.
+A round covers the whole unit.
 
 **The hand.** `difficulty.ts` holds its size: ten slips, however well the unit is known,
 because new material is what moves a learner forward. A `dealAll` unit offers them all.
