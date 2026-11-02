@@ -1,0 +1,15 @@
+{
+	"title": "Gdzie pracujesz?",
+	"summary": "Wpisz całe wyrażenie miejsca wraz z в, у lub на. Używamy miejscownika; в i у są akceptowane wymiennie.",
+	"headers": {
+		"where": "miejsce: працюю …",
+		"school": "шко́ла — szkoła",
+		"university": "університе́т — uniwersytet",
+		"hospital": "ліка́рня — szpital",
+		"factory": "заво́д — fabryka",
+		"shop": "магази́н — sklep",
+		"restaurant": "рестора́н — restauracja",
+		"office": "о́фіс — biuro",
+		"theatre": "теа́тр — teatr"
+	}
+}

@@ -1,0 +1,282 @@
+{
+	"id": "possessives",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["my", "your", "his", "her", "our", "your-pl", "their"],
+		"columns": ["m", "f", "n", "pl"]
+	},
+	"cells": [
+		{
+			"id": "my.m",
+			"item": "possessive:my:nom.m",
+			"text": "мій",
+			"ipa": "/mʲij/",
+			"row": "my",
+			"col": "m"
+		},
+		{
+			"id": "my.f",
+			"item": "possessive:my:nom.f",
+			"text": "моя",
+			"ipa": "/mɔˈja/",
+			"row": "my",
+			"col": "f",
+			"display": "моя́"
+		},
+		{
+			"id": "my.n",
+			"item": "possessive:my:nom.n",
+			"text": "моє",
+			"ipa": "/mɔˈjɛ/",
+			"row": "my",
+			"col": "n",
+			"display": "моє́"
+		},
+		{
+			"id": "my.pl",
+			"item": "possessive:my:nom.pl",
+			"text": "мої",
+			"ipa": "/mɔˈji/",
+			"row": "my",
+			"col": "pl",
+			"display": "мої́"
+		},
+		{
+			"id": "your.m",
+			"item": "possessive:your:nom.m",
+			"text": "твій",
+			"ipa": "/tʋʲij/",
+			"row": "your",
+			"col": "m"
+		},
+		{
+			"id": "your.f",
+			"item": "possessive:your:nom.f",
+			"text": "твоя",
+			"ipa": "/tʋɔˈja/",
+			"row": "your",
+			"col": "f",
+			"display": "твоя́"
+		},
+		{
+			"id": "your.n",
+			"item": "possessive:your:nom.n",
+			"text": "твоє",
+			"ipa": "/tʋɔˈjɛ/",
+			"row": "your",
+			"col": "n",
+			"display": "твоє́"
+		},
+		{
+			"id": "your.pl",
+			"item": "possessive:your:nom.pl",
+			"text": "твої",
+			"ipa": "/tʋɔˈji/",
+			"row": "your",
+			"col": "pl",
+			"display": "твої́"
+		},
+		{
+			"id": "his.m",
+			"item": "possessive:his:nom.m",
+			"text": "його",
+			"ipa": "/jɔˈɦɔ/",
+			"row": "his",
+			"col": "m",
+			"display": "його́"
+		},
+		{
+			"id": "his.f",
+			"item": "possessive:his:nom.f",
+			"text": "його",
+			"ipa": "/jɔˈɦɔ/",
+			"row": "his",
+			"col": "f",
+			"display": "його́"
+		},
+		{
+			"id": "his.n",
+			"item": "possessive:his:nom.n",
+			"text": "його",
+			"ipa": "/jɔˈɦɔ/",
+			"row": "his",
+			"col": "n",
+			"display": "його́"
+		},
+		{
+			"id": "his.pl",
+			"item": "possessive:his:nom.pl",
+			"text": "його",
+			"ipa": "/jɔˈɦɔ/",
+			"row": "his",
+			"col": "pl",
+			"display": "його́"
+		},
+		{
+			"id": "her.m",
+			"item": "possessive:her:nom.m",
+			"text": "її",
+			"ipa": "/jiˈji/",
+			"row": "her",
+			"col": "m",
+			"display": "її́"
+		},
+		{
+			"id": "her.f",
+			"item": "possessive:her:nom.f",
+			"text": "її",
+			"ipa": "/jiˈji/",
+			"row": "her",
+			"col": "f",
+			"display": "її́"
+		},
+		{
+			"id": "her.n",
+			"item": "possessive:her:nom.n",
+			"text": "її",
+			"ipa": "/jiˈji/",
+			"row": "her",
+			"col": "n",
+			"display": "її́"
+		},
+		{
+			"id": "her.pl",
+			"item": "possessive:her:nom.pl",
+			"text": "її",
+			"ipa": "/jiˈji/",
+			"row": "her",
+			"col": "pl",
+			"display": "її́"
+		},
+		{
+			"id": "our.m",
+			"item": "possessive:our:nom.m",
+			"text": "наш",
+			"ipa": "/naʃ/",
+			"row": "our",
+			"col": "m"
+		},
+		{
+			"id": "our.f",
+			"item": "possessive:our:nom.f",
+			"text": "наша",
+			"ipa": "/ˈnaʃa/",
+			"row": "our",
+			"col": "f",
+			"display": "на́ша"
+		},
+		{
+			"id": "our.n",
+			"item": "possessive:our:nom.n",
+			"text": "наше",
+			"ipa": "/ˈnaʃɛ/",
+			"row": "our",
+			"col": "n",
+			"display": "на́ше"
+		},
+		{
+			"id": "our.pl",
+			"item": "possessive:our:nom.pl",
+			"text": "наші",
+			"ipa": "/ˈnaʃʲi/",
+			"row": "our",
+			"col": "pl",
+			"display": "на́ші"
+		},
+		{
+			"id": "your-pl.m",
+			"item": "possessive:your-pl:nom.m",
+			"text": "ваш",
+			"ipa": "/ʋaʃ/",
+			"row": "your-pl",
+			"col": "m"
+		},
+		{
+			"id": "your-pl.f",
+			"item": "possessive:your-pl:nom.f",
+			"text": "ваша",
+			"ipa": "/ˈʋaʃa/",
+			"row": "your-pl",
+			"col": "f",
+			"display": "ва́ша"
+		},
+		{
+			"id": "your-pl.n",
+			"item": "possessive:your-pl:nom.n",
+			"text": "ваше",
+			"ipa": "/ˈʋaʃɛ/",
+			"row": "your-pl",
+			"col": "n",
+			"display": "ва́ше"
+		},
+		{
+			"id": "your-pl.pl",
+			"item": "possessive:your-pl:nom.pl",
+			"text": "ваші",
+			"ipa": "/ˈʋaʃʲi/",
+			"row": "your-pl",
+			"col": "pl",
+			"display": "ва́ші"
+		},
+		{
+			"id": "their.m",
+			"item": "possessive:their:nom.m",
+			"text": "їхній",
+			"ipa": "/ˈjixnʲij/",
+			"row": "their",
+			"col": "m",
+			"display": "ї́хній",
+			"alsoAccepted": ["їх"]
+		},
+		{
+			"id": "their.f",
+			"item": "possessive:their:nom.f",
+			"text": "їхня",
+			"ipa": "/ˈjixnʲa/",
+			"row": "their",
+			"col": "f",
+			"display": "ї́хня",
+			"alsoAccepted": ["їх", "їхняя"]
+		},
+		{
+			"id": "their.n",
+			"item": "possessive:their:nom.n",
+			"text": "їхнє",
+			"ipa": "/ˈjixnʲɛ/",
+			"row": "their",
+			"col": "n",
+			"display": "ї́хнє",
+			"alsoAccepted": ["їх", "їхнєє"]
+		},
+		{
+			"id": "their.pl",
+			"item": "possessive:their:nom.pl",
+			"text": "їхні",
+			"ipa": "/ˈjixnʲi/",
+			"row": "their",
+			"col": "pl",
+			"display": "ї́хні",
+			"alsoAccepted": ["їх", "їхнії"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Dobra Forma: possessive pronouns",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/12-1/"
+		},
+		{
+			"title": "Dobra Forma: наш and ваш",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/12-2/"
+		},
+		{
+			"title": "Dobra Forma: його, її and їхній",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/12-3/"
+		},
+		{
+			"title": "Горох: словозміна мій",
+			"url": "https://goroh.pp.ua/Словозміна/мій"
+		}
+	]
+}

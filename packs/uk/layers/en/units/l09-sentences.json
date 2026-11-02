@@ -1,0 +1,42 @@
+{
+	"title": "Family sentences",
+	"summary": "Use the pronoun in brackets to identify the owner, then agree with the family noun.",
+	"cells": {
+		"my-brother": {
+			"sentenceGloss": "This is my brother."
+		},
+		"my-sister": {
+			"sentenceGloss": "This is my sister."
+		},
+		"my-child": {
+			"sentenceGloss": "This is my child."
+		},
+		"my-parents": {
+			"sentenceGloss": "These are my parents."
+		},
+		"your-father": {
+			"sentenceGloss": "This is your father."
+		},
+		"your-mother": {
+			"sentenceGloss": "This is your mother."
+		},
+		"our-grandfather": {
+			"sentenceGloss": "This is our grandfather."
+		},
+		"our-grandmother": {
+			"sentenceGloss": "This is our grandmother."
+		},
+		"his-daughter": {
+			"sentenceGloss": "This is his daughter."
+		},
+		"her-son": {
+			"sentenceGloss": "This is her son."
+		},
+		"their-sister": {
+			"sentenceGloss": "This is their sister."
+		},
+		"their-children": {
+			"sentenceGloss": "These are their children."
+		}
+	}
+}

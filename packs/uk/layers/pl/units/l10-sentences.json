@@ -1,0 +1,42 @@
+{
+	"title": "Pracować jako ktoś, pracować gdzieś",
+	"summary": "Wstaw odpowiednią formę rzeczownika z nawiasu. Po працювати nazwa zawodu występuje w narzędniku; miejsce pracy po в lub на wymaga miejscownika.",
+	"cells": {
+		"likarem": {
+			"sentenceGloss": "Taras pracuje jako lekarz."
+		},
+		"likarkoyu": {
+			"sentenceGloss": "Iryna pracuje jako lekarka."
+		},
+		"vchytelkoyu": {
+			"sentenceGloss": "Ołena pracuje jako nauczycielka w szkole."
+		},
+		"vykladachem": {
+			"sentenceGloss": "Andrij pracuje jako wykładowca."
+		},
+		"inzhenerom": {
+			"sentenceGloss": "Nasz sąsiad pracuje jako inżynier."
+		},
+		"vodiyem": {
+			"sentenceGloss": "Dmytro pracuje jako kierowca."
+		},
+		"perukarkoyu": {
+			"sentenceGloss": "Hałyna pracuje jako fryzjerka."
+		},
+		"kukharem": {
+			"sentenceGloss": "Petro pracuje jako kucharz."
+		},
+		"kukharkoyu": {
+			"sentenceGloss": "Natalka pracuje jako kucharka."
+		},
+		"likarni": {
+			"sentenceGloss": "Ołeh pracuje w szpitalu."
+		},
+		"zavodi": {
+			"sentenceGloss": "Iwan pracuje w fabryce."
+		},
+		"universyteti": {
+			"sentenceGloss": "Pracuję na uniwersytecie."
+		}
+	}
+}

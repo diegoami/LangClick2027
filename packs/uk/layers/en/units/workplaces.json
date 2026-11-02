@@ -1,0 +1,15 @@
+{
+	"title": "Where do you work?",
+	"summary": "Give the whole location, including в, у or на. These workplace phrases use the locative; в and у are accepted as variants.",
+	"headers": {
+		"where": "location: працюю …",
+		"school": "шко́ла — school",
+		"university": "університе́т — university",
+		"hospital": "ліка́рня — hospital",
+		"factory": "заво́д — factory",
+		"shop": "магази́н — shop",
+		"restaurant": "рестора́н — restaurant",
+		"office": "о́фіс — office",
+		"theatre": "теа́тр — theatre"
+	}
+}

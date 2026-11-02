@@ -1,0 +1,42 @@
+{
+	"title": "Кем и где работать",
+	"summary": "Поставьте существительное из скобок в нужную форму. После працювати название профессии стоит в творительном падеже; место работы с в или на — в местном.",
+	"cells": {
+		"likarem": {
+			"sentenceGloss": "Тарас работает врачом."
+		},
+		"likarkoyu": {
+			"sentenceGloss": "Ирина работает врачом."
+		},
+		"vchytelkoyu": {
+			"sentenceGloss": "Олена работает учительницей в школе."
+		},
+		"vykladachem": {
+			"sentenceGloss": "Андрей работает преподавателем."
+		},
+		"inzhenerom": {
+			"sentenceGloss": "Наш сосед работает инженером."
+		},
+		"vodiyem": {
+			"sentenceGloss": "Дмитрий работает водителем."
+		},
+		"perukarkoyu": {
+			"sentenceGloss": "Галина работает парикмахером."
+		},
+		"kukharem": {
+			"sentenceGloss": "Пётр работает поваром."
+		},
+		"kukharkoyu": {
+			"sentenceGloss": "Наталка работает поваром."
+		},
+		"likarni": {
+			"sentenceGloss": "Олег работает в больнице."
+		},
+		"zavodi": {
+			"sentenceGloss": "Иван работает на заводе."
+		},
+		"universyteti": {
+			"sentenceGloss": "Я работаю в университете."
+		}
+	}
+}

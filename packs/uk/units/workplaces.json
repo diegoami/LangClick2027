@@ -1,0 +1,106 @@
+{
+	"id": "workplaces",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": [
+			"school",
+			"university",
+			"hospital",
+			"factory",
+			"shop",
+			"restaurant",
+			"office",
+			"theatre"
+		],
+		"columns": ["where"]
+	},
+	"cells": [
+		{
+			"id": "school",
+			"item": "place:school:work-location",
+			"text": "у школі",
+			"display": "у шко́лі",
+			"row": "school",
+			"col": "where",
+			"alsoAccepted": ["в школі"]
+		},
+		{
+			"id": "university",
+			"item": "place:university:work-location",
+			"text": "в університеті",
+			"display": "в університе́ті",
+			"row": "university",
+			"col": "where",
+			"alsoAccepted": ["у університеті"]
+		},
+		{
+			"id": "hospital",
+			"item": "place:hospital:work-location",
+			"text": "у лікарні",
+			"display": "у ліка́рні",
+			"row": "hospital",
+			"col": "where",
+			"alsoAccepted": ["в лікарні"]
+		},
+		{
+			"id": "factory",
+			"item": "place:factory:work-location",
+			"text": "на заводі",
+			"display": "на заво́ді",
+			"row": "factory",
+			"col": "where"
+		},
+		{
+			"id": "shop",
+			"item": "place:shop:work-location",
+			"text": "у магазині",
+			"display": "у магази́ні",
+			"row": "shop",
+			"col": "where",
+			"alsoAccepted": ["в магазині"]
+		},
+		{
+			"id": "restaurant",
+			"item": "place:restaurant:work-location",
+			"text": "у ресторані",
+			"display": "у рестора́ні",
+			"row": "restaurant",
+			"col": "where",
+			"alsoAccepted": ["в ресторані"]
+		},
+		{
+			"id": "office",
+			"item": "place:office:work-location",
+			"text": "в офісі",
+			"display": "в о́фісі",
+			"row": "office",
+			"col": "where",
+			"alsoAccepted": ["у офісі"]
+		},
+		{
+			"id": "theatre",
+			"item": "place:theatre:work-location",
+			"text": "у театрі",
+			"display": "у теа́трі",
+			"row": "theatre",
+			"col": "where",
+			"alsoAccepted": ["в театрі"]
+		}
+	],
+	"sources": [
+		{
+			"title": "PodorozhiUA: workplace locations",
+			"url": "https://podorozhiua.com/4-0/4-5m/"
+		},
+		{
+			"title": "Dobra Forma: locative prepositions",
+			"url": "https://opentext.ku.edu/dobraforma/chapter/4-2/"
+		},
+		{
+			"title": "Горох: школа",
+			"url": "https://goroh.pp.ua/Словозміна/школа"
+		}
+	]
+}

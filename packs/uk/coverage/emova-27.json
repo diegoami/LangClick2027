@@ -75,12 +75,24 @@
 		{
 			"number": 9,
 			"title": "Моя сім'я",
-			"units": ["family"]
+			"units": ["family", "possessives", "l09-sentences"],
+			"status": "partial",
+			"gap": "Nominative possessive practice is added, but family genitive/possession use and the full lesson vocabulary inventory still need coverage audit; this is not a complete lesson claim.",
+			"scope": ["Family and relationships", "Genitive case", "Possessive pronouns"],
+			"scopeEvidence": "Signed-in lesson video/task headings and resource-link topics inspected 2026-11-02; resource links explicitly name the genitive and possessive pronouns. Full video/task vocabulary inventory remains unverified."
 		},
 		{
 			"number": 10,
 			"title": "Моя професія",
-			"units": []
+			"units": ["l10-words", "workplaces", "l10-sentences"],
+			"status": "partial",
+			"gap": "Profession vocabulary, workplace locations and instrumental sentence practice are added. The робити/працювати usage distinction and full source vocabulary inventory still need coverage audit.",
+			"scope": [
+				"Professions and feminine occupation nouns",
+				"робити and працювати",
+				"праця and робота"
+			],
+			"scopeEvidence": "Signed-in lesson task headings and resource-link topics inspected 2026-11-02; the course links separately to робити, працювати, праця, робота and feminine-name formation. Full video/task vocabulary inventory remains unverified."
 		},
 		{
 			"number": 11,

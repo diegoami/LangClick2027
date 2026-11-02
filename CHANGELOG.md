@@ -2,6 +2,12 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
+## Unreleased
+
+- Lesson 9: possessive forms and original family sentence gaps, alongside the existing family vocabulary board.
+- Lesson 10: profession words, workplace locations and original sentences using the instrumental for a profession and the locative for a workplace. Tray and typing, with explanations in English, Russian, Polish and Ukrainian.
+- These are sourced theme exercises; eMova coverage remains partial, with family genitive use, the do/work distinction and the full source vocabulary inventory still to audit.
+
 ## v0.4.0 — 2026-11-02 — eMova lessons 4–8
 
 **Practise eMova lessons 4–8 after studying the source: introductions, greetings, time, everyday routines and weather, compared with Russian or Polish.**

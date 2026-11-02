@@ -1,0 +1,18 @@
+{
+	"title": "Речення про родину",
+	"summary": "Займенник у дужках указує на власника; форму в пропуску узгодьте з назвою родича.",
+	"cells": {
+		"my-brother": {},
+		"my-sister": {},
+		"my-child": {},
+		"my-parents": {},
+		"your-father": {},
+		"your-mother": {},
+		"our-grandfather": {},
+		"our-grandmother": {},
+		"his-daughter": {},
+		"her-son": {},
+		"their-sister": {},
+		"their-children": {}
+	}
+}

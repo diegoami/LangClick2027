@@ -1,0 +1,1805 @@
+{
+	"checker": "gpt-6-codex-content-b",
+	"entries": [
+		{
+			"key": "core/l09-sentences/my-brother",
+			"seen": "{\"item\":\"sentence:l09:my-brother\",\"text\":\"мій\",\"sentence\":\"Це ___ брат. (я)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/my-sister",
+			"seen": "{\"item\":\"sentence:l09:my-sister\",\"text\":\"моя\",\"display\":\"моя́\",\"sentence\":\"Це ___ сестра́. (я)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/my-child",
+			"seen": "{\"item\":\"sentence:l09:my-child\",\"text\":\"моє\",\"display\":\"моє́\",\"sentence\":\"Це ___ дитя́. (я)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/my-parents",
+			"seen": "{\"item\":\"sentence:l09:my-parents\",\"text\":\"мої\",\"display\":\"мої́\",\"sentence\":\"Це ___ батьки́. (я)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/your-father",
+			"seen": "{\"item\":\"sentence:l09:your-father\",\"text\":\"твій\",\"sentence\":\"Це ___ ба́тько. (ти)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/your-mother",
+			"seen": "{\"item\":\"sentence:l09:your-mother\",\"text\":\"твоя\",\"display\":\"твоя́\",\"sentence\":\"Це ___ ма́ти. (ти)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/our-grandfather",
+			"seen": "{\"item\":\"sentence:l09:our-grandfather\",\"text\":\"наш\",\"sentence\":\"Це ___ діду́сь. (ми)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/our-grandmother",
+			"seen": "{\"item\":\"sentence:l09:our-grandmother\",\"text\":\"наша\",\"display\":\"на́ша\",\"sentence\":\"Це ___ бабу́ся. (ми)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/his-daughter",
+			"seen": "{\"item\":\"sentence:l09:his-daughter\",\"text\":\"його\",\"display\":\"його́\",\"sentence\":\"Це ___ до́нька. (він)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/her-son",
+			"seen": "{\"item\":\"sentence:l09:her-son\",\"text\":\"її\",\"display\":\"її́\",\"sentence\":\"Це ___ син. (вона)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/their-sister",
+			"seen": "{\"item\":\"sentence:l09:their-sister\",\"text\":\"їхня\",\"display\":\"ї́хня\",\"sentence\":\"Це ___ сестра́. (вони)\",\"alsoAccepted\":[\"їх\",\"їхняя\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-sentences/their-children",
+			"seen": "{\"item\":\"sentence:l09:their-children\",\"text\":\"їхні\",\"display\":\"ї́хні\",\"sentence\":\"Це ___ ді́ти. (вони)\",\"alsoAccepted\":[\"їх\",\"їхнії\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/likarem",
+			"seen": "{\"item\":\"sentence:l10:likarem\",\"text\":\"лікарем\",\"display\":\"лі́карем\",\"sentence\":\"Тара́с працю́є ___. (лі́кар)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/likarkoyu",
+			"seen": "{\"item\":\"sentence:l10:likarkoyu\",\"text\":\"лікаркою\",\"display\":\"лі́каркою\",\"sentence\":\"Іри́на працю́є ___. (лі́карка)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/vchytelkoyu",
+			"seen": "{\"item\":\"sentence:l10:vchytelkoyu\",\"text\":\"вчителькою\",\"display\":\"вчи́телькою\",\"sentence\":\"Оле́на працю́є ___ у шко́лі. (вчи́телька)\",\"alsoAccepted\":[\"учителькою\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/vykladachem",
+			"seen": "{\"item\":\"sentence:l10:vykladachem\",\"text\":\"викладачем\",\"display\":\"викладаче́м\",\"sentence\":\"Андрі́й працю́є ___. (виклада́ч)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/inzhenerom",
+			"seen": "{\"item\":\"sentence:l10:inzhenerom\",\"text\":\"інженером\",\"display\":\"інжене́ром\",\"sentence\":\"Наш сусі́д працю́є ___. (інжене́р)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/vodiyem",
+			"seen": "{\"item\":\"sentence:l10:vodiyem\",\"text\":\"водієм\",\"display\":\"водіє́м\",\"sentence\":\"Дмитро́ працю́є ___. (воді́й)\",\"alsoAccepted\":[\"шофером\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/perukarkoyu",
+			"seen": "{\"item\":\"sentence:l10:perukarkoyu\",\"text\":\"перукаркою\",\"display\":\"перука́ркою\",\"sentence\":\"Гали́на працю́є ___. (перука́рка)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/kukharem",
+			"seen": "{\"item\":\"sentence:l10:kukharem\",\"text\":\"кухарем\",\"display\":\"ку́харем\",\"sentence\":\"Петро́ працю́є ___. (ку́хар)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/kukharkoyu",
+			"seen": "{\"item\":\"sentence:l10:kukharkoyu\",\"text\":\"кухаркою\",\"display\":\"куха́ркою\",\"sentence\":\"Ната́лка працю́є ___. (куха́рка)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/likarni",
+			"seen": "{\"item\":\"sentence:l10:likarni\",\"text\":\"лікарні\",\"display\":\"ліка́рні\",\"sentence\":\"Оле́г працю́є в ___. (ліка́рня)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/zavodi",
+			"seen": "{\"item\":\"sentence:l10:zavodi\",\"text\":\"заводі\",\"display\":\"заво́ді\",\"sentence\":\"Іва́н працю́є на ___. (заво́д)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/universyteti",
+			"seen": "{\"item\":\"sentence:l10:universyteti\",\"text\":\"університеті\",\"display\":\"університе́ті\",\"sentence\":\"Я працю́ю в ___. (університе́т)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/likar",
+			"seen": "{\"item\":\"word:likar\",\"text\":\"лікар\",\"display\":\"лі́кар\",\"ipa\":\"/ˈlʲikar/\",\"alsoAccepted\":[\"доктор\"],\"cognates\":{\"pl\":{\"form\":\"lekarz\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/likarka",
+			"seen": "{\"item\":\"word:likarka\",\"text\":\"лікарка\",\"display\":\"лі́карка\",\"ipa\":\"/ˈlʲikarka/\",\"cognates\":{\"pl\":{\"form\":\"lekarka\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/vchytel",
+			"seen": "{\"item\":\"word:vchytel\",\"text\":\"вчитель\",\"display\":\"вчи́тель\",\"ipa\":\"/ˈʋt͡ʃɪtɛlʲ/\",\"alsoAccepted\":[\"учитель\"],\"cognates\":{\"ru\":{\"form\":\"учи́тель\"},\"pl\":{\"form\":\"nauczyciel\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/vchytelka",
+			"seen": "{\"item\":\"word:vchytelka\",\"text\":\"вчителька\",\"display\":\"вчи́телька\",\"ipa\":\"/ˈʋt͡ʃɪtɛlʲka/\",\"alsoAccepted\":[\"учителька\"],\"cognates\":{\"ru\":{\"form\":\"учи́тельница\"},\"pl\":{\"form\":\"nauczycielka\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/vykladach",
+			"seen": "{\"item\":\"word:vykladach\",\"text\":\"викладач\",\"display\":\"виклада́ч\",\"ipa\":\"/ʋɪklaˈdat͡ʃ/\",\"alsoAccepted\":[\"лектор\"],\"cognates\":{\"pl\":{\"form\":\"wykładowca\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/vykladachka",
+			"seen": "{\"item\":\"word:vykladachka\",\"text\":\"викладачка\",\"display\":\"виклада́чка\",\"ipa\":\"/ʋɪklaˈdat͡ʃka/\",\"alsoAccepted\":[\"лекторка\"],\"cognates\":{\"pl\":{\"form\":\"wykładowczyni\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/inzhener",
+			"seen": "{\"item\":\"word:inzhener\",\"text\":\"інженер\",\"display\":\"інжене́р\",\"ipa\":\"/inʒɛˈnɛr/\",\"cognates\":{\"ru\":{\"form\":\"инжене́р\"},\"pl\":{\"form\":\"inżynier\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/inzhenerka",
+			"seen": "{\"item\":\"word:inzhenerka\",\"text\":\"інженерка\",\"display\":\"інжене́рка\",\"ipa\":\"/inʒɛˈnɛrka/\",\"cognates\":{\"ru\":{\"form\":\"инжене́р\"},\"pl\":{\"form\":\"inżynierka\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/kukhar",
+			"seen": "{\"item\":\"word:kukhar\",\"text\":\"кухар\",\"display\":\"ку́хар\",\"ipa\":\"/ˈkuxar/\",\"alsoAccepted\":[\"куховар\",\"повар\",\"кулінар\"],\"cognates\":{\"pl\":{\"form\":\"kucharz\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/kukharka",
+			"seen": "{\"item\":\"word:kukharka\",\"text\":\"кухарка\",\"display\":\"куха́рка\",\"ipa\":\"/kuˈxarka/\",\"alsoAccepted\":[\"куховарка\",\"кулінарка\"],\"cognates\":{\"ru\":{\"form\":\"куха́рка\"},\"pl\":{\"form\":\"kucharka\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/vodiy",
+			"seen": "{\"item\":\"word:vodiy\",\"text\":\"водій\",\"display\":\"воді́й\",\"ipa\":\"/ʋɔˈdʲij/\",\"alsoAccepted\":[\"шофер\"],\"cognates\":{\"ru\":{\"form\":\"води́тель\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/vodiyka",
+			"seen": "{\"item\":\"word:vodiyka\",\"text\":\"водійка\",\"display\":\"воді́йка\",\"ipa\":\"/ʋɔˈdʲijka/\",\"alsoAccepted\":[\"шоферка\"],\"cognates\":{\"ru\":{\"form\":\"води́тель\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/zhurnalist",
+			"seen": "{\"item\":\"word:zhurnalist\",\"text\":\"журналіст\",\"display\":\"журналі́ст\",\"ipa\":\"/ʒurnaˈlʲist/\",\"cognates\":{\"ru\":{\"form\":\"журнали́ст\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/zhurnalistka",
+			"seen": "{\"item\":\"word:zhurnalistka\",\"text\":\"журналістка\",\"display\":\"журналі́стка\",\"ipa\":\"/ʒurnaˈlʲistka/\",\"cognates\":{\"ru\":{\"form\":\"журнали́стка\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/perukar",
+			"seen": "{\"item\":\"word:perukar\",\"text\":\"перукар\",\"display\":\"перука́р\",\"ipa\":\"/pɛruˈkar/\",\"cognates\":{\"ru\":{\"form\":\"парикма́хер\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/perukarka",
+			"seen": "{\"item\":\"word:perukarka\",\"text\":\"перукарка\",\"display\":\"перука́рка\",\"ipa\":\"/pɛruˈkarka/\",\"cognates\":{\"ru\":{\"form\":\"парикма́хер\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/student",
+			"seen": "{\"item\":\"word:student\",\"text\":\"студент\",\"display\":\"студе́нт\",\"ipa\":\"/stuˈdɛnt/\",\"cognates\":{\"ru\":{\"form\":\"студе́нт\"},\"pl\":{\"form\":\"student\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/studentka",
+			"seen": "{\"item\":\"word:studentka\",\"text\":\"студентка\",\"display\":\"студе́нтка\",\"ipa\":\"/stuˈdɛntka/\",\"cognates\":{\"ru\":{\"form\":\"студе́нтка\"},\"pl\":{\"form\":\"studentka\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/pensioner",
+			"seen": "{\"item\":\"word:pensioner\",\"text\":\"пенсіонер\",\"display\":\"пенсіоне́р\",\"ipa\":\"/pɛnʲsʲiɔˈnɛr/\",\"cognates\":{\"ru\":{\"form\":\"пенсионе́р\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/pensionerka",
+			"seen": "{\"item\":\"word:pensionerka\",\"text\":\"пенсіонерка\",\"display\":\"пенсіоне́рка\",\"ipa\":\"/pɛnʲsʲiɔˈnɛrka/\",\"cognates\":{\"ru\":{\"form\":\"пенсионе́рка\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/profesiya",
+			"seen": "{\"item\":\"word:profesiya\",\"text\":\"професія\",\"display\":\"профе́сія\",\"ipa\":\"/prɔˈfɛsʲija/\",\"alsoAccepted\":[\"фах\",\"спеціальність\"],\"cognates\":{\"ru\":{\"form\":\"профе́ссия\"},\"pl\":{\"form\":\"profesja\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/robota",
+			"seen": "{\"item\":\"word:robota\",\"text\":\"робота\",\"display\":\"робо́та\",\"ipa\":\"/rɔˈbɔta/\",\"alsoAccepted\":[\"праця\"],\"cognates\":{\"ru\":{\"form\":\"рабо́та\"},\"pl\":{\"form\":\"robota\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/koleha",
+			"seen": "{\"item\":\"word:koleha\",\"text\":\"колега\",\"display\":\"коле́га\",\"ipa\":\"/kɔˈlɛɦa/\",\"alsoAccepted\":[\"співробітник\",\"співробітниця\",\"співпрацівник\",\"співпрацівниця\"],\"cognates\":{\"ru\":{\"form\":\"колле́га\"},\"pl\":{\"form\":\"kolega\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/zarplata",
+			"seen": "{\"item\":\"word:zarplata\",\"text\":\"зарплата\",\"display\":\"зарпла́та\",\"ipa\":\"/zarˈplata/\",\"alsoAccepted\":[\"заробітна плата\",\"платня\",\"заробіток\",\"оплата праці\"],\"cognates\":{\"ru\":{\"form\":\"зарпла́та\"},\"pl\":{\"form\":\"zapłata\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/my.m",
+			"seen": "{\"item\":\"possessive:my:nom.m\",\"text\":\"мій\",\"ipa\":\"/mʲij/\",\"row\":\"my\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/my.f",
+			"seen": "{\"item\":\"possessive:my:nom.f\",\"text\":\"моя\",\"display\":\"моя́\",\"ipa\":\"/mɔˈja/\",\"row\":\"my\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/my.n",
+			"seen": "{\"item\":\"possessive:my:nom.n\",\"text\":\"моє\",\"display\":\"моє́\",\"ipa\":\"/mɔˈjɛ/\",\"row\":\"my\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/my.pl",
+			"seen": "{\"item\":\"possessive:my:nom.pl\",\"text\":\"мої\",\"display\":\"мої́\",\"ipa\":\"/mɔˈji/\",\"row\":\"my\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/your.m",
+			"seen": "{\"item\":\"possessive:your:nom.m\",\"text\":\"твій\",\"ipa\":\"/tʋʲij/\",\"row\":\"your\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/your.f",
+			"seen": "{\"item\":\"possessive:your:nom.f\",\"text\":\"твоя\",\"display\":\"твоя́\",\"ipa\":\"/tʋɔˈja/\",\"row\":\"your\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/your.n",
+			"seen": "{\"item\":\"possessive:your:nom.n\",\"text\":\"твоє\",\"display\":\"твоє́\",\"ipa\":\"/tʋɔˈjɛ/\",\"row\":\"your\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/your.pl",
+			"seen": "{\"item\":\"possessive:your:nom.pl\",\"text\":\"твої\",\"display\":\"твої́\",\"ipa\":\"/tʋɔˈji/\",\"row\":\"your\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/his.m",
+			"seen": "{\"item\":\"possessive:his:nom.m\",\"text\":\"його\",\"display\":\"його́\",\"ipa\":\"/jɔˈɦɔ/\",\"row\":\"his\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/his.f",
+			"seen": "{\"item\":\"possessive:his:nom.f\",\"text\":\"його\",\"display\":\"його́\",\"ipa\":\"/jɔˈɦɔ/\",\"row\":\"his\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/his.n",
+			"seen": "{\"item\":\"possessive:his:nom.n\",\"text\":\"його\",\"display\":\"його́\",\"ipa\":\"/jɔˈɦɔ/\",\"row\":\"his\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/his.pl",
+			"seen": "{\"item\":\"possessive:his:nom.pl\",\"text\":\"його\",\"display\":\"його́\",\"ipa\":\"/jɔˈɦɔ/\",\"row\":\"his\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/her.m",
+			"seen": "{\"item\":\"possessive:her:nom.m\",\"text\":\"її\",\"display\":\"її́\",\"ipa\":\"/jiˈji/\",\"row\":\"her\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/her.f",
+			"seen": "{\"item\":\"possessive:her:nom.f\",\"text\":\"її\",\"display\":\"її́\",\"ipa\":\"/jiˈji/\",\"row\":\"her\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/her.n",
+			"seen": "{\"item\":\"possessive:her:nom.n\",\"text\":\"її\",\"display\":\"її́\",\"ipa\":\"/jiˈji/\",\"row\":\"her\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/her.pl",
+			"seen": "{\"item\":\"possessive:her:nom.pl\",\"text\":\"її\",\"display\":\"її́\",\"ipa\":\"/jiˈji/\",\"row\":\"her\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/our.m",
+			"seen": "{\"item\":\"possessive:our:nom.m\",\"text\":\"наш\",\"ipa\":\"/naʃ/\",\"row\":\"our\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/our.f",
+			"seen": "{\"item\":\"possessive:our:nom.f\",\"text\":\"наша\",\"display\":\"на́ша\",\"ipa\":\"/ˈnaʃa/\",\"row\":\"our\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/our.n",
+			"seen": "{\"item\":\"possessive:our:nom.n\",\"text\":\"наше\",\"display\":\"на́ше\",\"ipa\":\"/ˈnaʃɛ/\",\"row\":\"our\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/our.pl",
+			"seen": "{\"item\":\"possessive:our:nom.pl\",\"text\":\"наші\",\"display\":\"на́ші\",\"ipa\":\"/ˈnaʃʲi/\",\"row\":\"our\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/your-pl.m",
+			"seen": "{\"item\":\"possessive:your-pl:nom.m\",\"text\":\"ваш\",\"ipa\":\"/ʋaʃ/\",\"row\":\"your-pl\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/your-pl.f",
+			"seen": "{\"item\":\"possessive:your-pl:nom.f\",\"text\":\"ваша\",\"display\":\"ва́ша\",\"ipa\":\"/ˈʋaʃa/\",\"row\":\"your-pl\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/your-pl.n",
+			"seen": "{\"item\":\"possessive:your-pl:nom.n\",\"text\":\"ваше\",\"display\":\"ва́ше\",\"ipa\":\"/ˈʋaʃɛ/\",\"row\":\"your-pl\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/your-pl.pl",
+			"seen": "{\"item\":\"possessive:your-pl:nom.pl\",\"text\":\"ваші\",\"display\":\"ва́ші\",\"ipa\":\"/ˈʋaʃʲi/\",\"row\":\"your-pl\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/their.m",
+			"seen": "{\"item\":\"possessive:their:nom.m\",\"text\":\"їхній\",\"display\":\"ї́хній\",\"ipa\":\"/ˈjixnʲij/\",\"alsoAccepted\":[\"їх\"],\"row\":\"their\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/their.f",
+			"seen": "{\"item\":\"possessive:their:nom.f\",\"text\":\"їхня\",\"display\":\"ї́хня\",\"ipa\":\"/ˈjixnʲa/\",\"alsoAccepted\":[\"їх\",\"їхняя\"],\"row\":\"their\",\"col\":\"f\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/their.n",
+			"seen": "{\"item\":\"possessive:their:nom.n\",\"text\":\"їхнє\",\"display\":\"ї́хнє\",\"ipa\":\"/ˈjixnʲɛ/\",\"alsoAccepted\":[\"їх\",\"їхнєє\"],\"row\":\"their\",\"col\":\"n\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/their.pl",
+			"seen": "{\"item\":\"possessive:their:nom.pl\",\"text\":\"їхні\",\"display\":\"ї́хні\",\"ipa\":\"/ˈjixnʲi/\",\"alsoAccepted\":[\"їх\",\"їхнії\"],\"row\":\"their\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/workplaces/school",
+			"seen": "{\"item\":\"place:school:work-location\",\"text\":\"у школі\",\"display\":\"у шко́лі\",\"alsoAccepted\":[\"в школі\"],\"row\":\"school\",\"col\":\"where\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/workplaces/university",
+			"seen": "{\"item\":\"place:university:work-location\",\"text\":\"в університеті\",\"display\":\"в університе́ті\",\"alsoAccepted\":[\"у університеті\"],\"row\":\"university\",\"col\":\"where\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/workplaces/hospital",
+			"seen": "{\"item\":\"place:hospital:work-location\",\"text\":\"у лікарні\",\"display\":\"у ліка́рні\",\"alsoAccepted\":[\"в лікарні\"],\"row\":\"hospital\",\"col\":\"where\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/workplaces/factory",
+			"seen": "{\"item\":\"place:factory:work-location\",\"text\":\"на заводі\",\"display\":\"на заво́ді\",\"row\":\"factory\",\"col\":\"where\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/workplaces/shop",
+			"seen": "{\"item\":\"place:shop:work-location\",\"text\":\"у магазині\",\"display\":\"у магази́ні\",\"alsoAccepted\":[\"в магазині\"],\"row\":\"shop\",\"col\":\"where\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/workplaces/restaurant",
+			"seen": "{\"item\":\"place:restaurant:work-location\",\"text\":\"у ресторані\",\"display\":\"у рестора́ні\",\"alsoAccepted\":[\"в ресторані\"],\"row\":\"restaurant\",\"col\":\"where\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/workplaces/office",
+			"seen": "{\"item\":\"place:office:work-location\",\"text\":\"в офісі\",\"display\":\"в о́фісі\",\"alsoAccepted\":[\"у офісі\"],\"row\":\"office\",\"col\":\"where\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/workplaces/theatre",
+			"seen": "{\"item\":\"place:theatre:work-location\",\"text\":\"у театрі\",\"display\":\"у теа́трі\",\"alsoAccepted\":[\"в театрі\"],\"row\":\"theatre\",\"col\":\"where\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l10",
+			"seen": "\"Lesson 10: My profession\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences",
+			"seen": "{\"title\":\"Family sentences\",\"summary\":\"Use the pronoun in brackets to identify the owner, then agree with the family noun.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/my-brother",
+			"seen": "{\"sentenceGloss\":\"This is my brother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/my-sister",
+			"seen": "{\"sentenceGloss\":\"This is my sister.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/my-child",
+			"seen": "{\"sentenceGloss\":\"This is my child.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/my-parents",
+			"seen": "{\"sentenceGloss\":\"These are my parents.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/your-father",
+			"seen": "{\"sentenceGloss\":\"This is your father.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/your-mother",
+			"seen": "{\"sentenceGloss\":\"This is your mother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/our-grandfather",
+			"seen": "{\"sentenceGloss\":\"This is our grandfather.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/our-grandmother",
+			"seen": "{\"sentenceGloss\":\"This is our grandmother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/his-daughter",
+			"seen": "{\"sentenceGloss\":\"This is his daughter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/her-son",
+			"seen": "{\"sentenceGloss\":\"This is her son.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/their-sister",
+			"seen": "{\"sentenceGloss\":\"This is their sister.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-sentences/their-children",
+			"seen": "{\"sentenceGloss\":\"These are their children.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences",
+			"seen": "{\"title\":\"Working as someone, working somewhere\",\"summary\":\"Put the bracketed noun into the sentence. Працювати takes the instrumental for a profession; в or на takes the locative for a workplace.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/likarem",
+			"seen": "{\"sentenceGloss\":\"Taras works as a doctor.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/likarkoyu",
+			"seen": "{\"sentenceGloss\":\"Iryna works as a doctor.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/vchytelkoyu",
+			"seen": "{\"sentenceGloss\":\"Olena works as a teacher at a school.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/vykladachem",
+			"seen": "{\"sentenceGloss\":\"Andrii works as a lecturer.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/inzhenerom",
+			"seen": "{\"sentenceGloss\":\"Our neighbour works as an engineer.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/vodiyem",
+			"seen": "{\"sentenceGloss\":\"Dmytro works as a driver.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/perukarkoyu",
+			"seen": "{\"sentenceGloss\":\"Halyna works as a hairdresser.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/kukharem",
+			"seen": "{\"sentenceGloss\":\"Petro works as a cook.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/kukharkoyu",
+			"seen": "{\"sentenceGloss\":\"Natalka works as a cook.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/likarni",
+			"seen": "{\"sentenceGloss\":\"Oleh works in a hospital.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/zavodi",
+			"seen": "{\"sentenceGloss\":\"Ivan works at a factory.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/universyteti",
+			"seen": "{\"sentenceGloss\":\"I work at a university.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words",
+			"seen": "{\"title\":\"Professions and work\",\"summary\":\"Occupation nouns in masculine and feminine forms, then four words about working life. The clue specifies grammatical gender, not who may hold the job.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/likar",
+			"seen": "{\"clue\":\"doctor (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/likarka",
+			"seen": "{\"clue\":\"doctor (feminine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/vchytel",
+			"seen": "{\"clue\":\"schoolteacher (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/vchytelka",
+			"seen": "{\"clue\":\"schoolteacher (feminine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/vykladach",
+			"seen": "{\"clue\":\"university lecturer (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/vykladachka",
+			"seen": "{\"clue\":\"university lecturer (feminine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/inzhener",
+			"seen": "{\"clue\":\"engineer (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/inzhenerka",
+			"seen": "{\"clue\":\"engineer (feminine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/kukhar",
+			"seen": "{\"clue\":\"cook (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/kukharka",
+			"seen": "{\"clue\":\"cook (feminine noun)\",\"note\":\"The stress moves: ку́хар, but куха́рка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/vodiy",
+			"seen": "{\"clue\":\"driver (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/vodiyka",
+			"seen": "{\"clue\":\"driver (feminine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/zhurnalist",
+			"seen": "{\"clue\":\"journalist (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/zhurnalistka",
+			"seen": "{\"clue\":\"journalist (feminine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/perukar",
+			"seen": "{\"clue\":\"hairdresser (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/perukarka",
+			"seen": "{\"clue\":\"hairdresser (feminine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/student",
+			"seen": "{\"clue\":\"university or college student (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/studentka",
+			"seen": "{\"clue\":\"university or college student (feminine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/pensioner",
+			"seen": "{\"clue\":\"pensioner (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/pensionerka",
+			"seen": "{\"clue\":\"pensioner (feminine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/profesiya",
+			"seen": "{\"clue\":\"profession\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/robota",
+			"seen": "{\"clue\":\"work; employment\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/koleha",
+			"seen": "{\"clue\":\"colleague\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-words/zarplata",
+			"seen": "{\"clue\":\"salary; wages\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives",
+			"seen": "{\"title\":\"Whose family?\",\"summary\":\"Nominative possessives agree with the thing or person possessed. The owner in the row fixes whose it is; the column fixes gender or number.\",\"headers\":{\"my\":\"my: я\",\"your\":\"your: ти\",\"his\":\"his: він\",\"her\":\"her: вона\",\"our\":\"our: ми\",\"your-pl\":\"your: ви\",\"their\":\"their: вони\",\"m\":\"masculine: брат\",\"f\":\"feminine: сестра\",\"n\":\"neuter: дитя\",\"pl\":\"plural: батьки\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/his.m",
+			"seen": "{\"note\":\"His and her stay unchanged. The gender in the column belongs to the relative, not to the owner.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/his.f",
+			"seen": "{\"note\":\"His and her stay unchanged. The gender in the column belongs to the relative, not to the owner.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/his.n",
+			"seen": "{\"note\":\"His and her stay unchanged. The gender in the column belongs to the relative, not to the owner.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/his.pl",
+			"seen": "{\"note\":\"His and her stay unchanged. The gender in the column belongs to the relative, not to the owner.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/her.m",
+			"seen": "{\"note\":\"His and her stay unchanged. The gender in the column belongs to the relative, not to the owner.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/her.f",
+			"seen": "{\"note\":\"His and her stay unchanged. The gender in the column belongs to the relative, not to the owner.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/her.n",
+			"seen": "{\"note\":\"His and her stay unchanged. The gender in the column belongs to the relative, not to the owner.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/her.pl",
+			"seen": "{\"note\":\"His and her stay unchanged. The gender in the column belongs to the relative, not to the owner.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/their.m",
+			"seen": "{\"note\":\"Their can also be the invariant їх in all four columns.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/their.f",
+			"seen": "{\"note\":\"Their can also be the invariant їх in all four columns.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/their.n",
+			"seen": "{\"note\":\"Their can also be the invariant їх in all four columns.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/possessives/their.pl",
+			"seen": "{\"note\":\"Their can also be the invariant їх in all four columns.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/workplaces",
+			"seen": "{\"title\":\"Where do you work?\",\"summary\":\"Give the whole location, including в, у or на. These workplace phrases use the locative; в and у are accepted as variants.\",\"headers\":{\"where\":\"location: працюю …\",\"school\":\"шко́ла — school\",\"university\":\"університе́т — university\",\"hospital\":\"ліка́рня — hospital\",\"factory\":\"заво́д — factory\",\"shop\":\"магази́н — shop\",\"restaurant\":\"рестора́н — restaurant\",\"office\":\"о́фіс — office\",\"theatre\":\"теа́тр — theatre\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/lesson/l10",
+			"seen": "\"Lekcja 10: Mój zawód\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences",
+			"seen": "{\"title\":\"Zdania o rodzinie\",\"summary\":\"Zaimek w nawiasie wskazuje właściciela; brakująca forma zgadza się z nazwą członka rodziny.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/my-brother",
+			"seen": "{\"sentenceGloss\":\"To jest mój brat.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/my-sister",
+			"seen": "{\"sentenceGloss\":\"To jest moja siostra.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/my-child",
+			"seen": "{\"sentenceGloss\":\"To jest moje dziecko.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/my-parents",
+			"seen": "{\"sentenceGloss\":\"To są moi rodzice.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/your-father",
+			"seen": "{\"sentenceGloss\":\"To jest twój ojciec.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/your-mother",
+			"seen": "{\"sentenceGloss\":\"To jest twoja matka.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/our-grandfather",
+			"seen": "{\"sentenceGloss\":\"To jest nasz dziadek.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/our-grandmother",
+			"seen": "{\"sentenceGloss\":\"To jest nasza babcia.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/his-daughter",
+			"seen": "{\"sentenceGloss\":\"To jest jego córka.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/her-son",
+			"seen": "{\"sentenceGloss\":\"To jest jej syn.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/their-sister",
+			"seen": "{\"sentenceGloss\":\"To jest ich siostra.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-sentences/their-children",
+			"seen": "{\"sentenceGloss\":\"To są ich dzieci.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences",
+			"seen": "{\"title\":\"Pracować jako ktoś, pracować gdzieś\",\"summary\":\"Wstaw odpowiednią formę rzeczownika z nawiasu. Po працювати nazwa zawodu występuje w narzędniku; miejsce pracy po в lub на wymaga miejscownika.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/likarem",
+			"seen": "{\"sentenceGloss\":\"Taras pracuje jako lekarz.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/likarkoyu",
+			"seen": "{\"sentenceGloss\":\"Iryna pracuje jako lekarka.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/vchytelkoyu",
+			"seen": "{\"sentenceGloss\":\"Ołena pracuje jako nauczycielka w szkole.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/vykladachem",
+			"seen": "{\"sentenceGloss\":\"Andrij pracuje jako wykładowca.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/inzhenerom",
+			"seen": "{\"sentenceGloss\":\"Nasz sąsiad pracuje jako inżynier.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/vodiyem",
+			"seen": "{\"sentenceGloss\":\"Dmytro pracuje jako kierowca.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/perukarkoyu",
+			"seen": "{\"sentenceGloss\":\"Hałyna pracuje jako fryzjerka.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/kukharem",
+			"seen": "{\"sentenceGloss\":\"Petro pracuje jako kucharz.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/kukharkoyu",
+			"seen": "{\"sentenceGloss\":\"Natalka pracuje jako kucharka.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/likarni",
+			"seen": "{\"sentenceGloss\":\"Ołeh pracuje w szpitalu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/zavodi",
+			"seen": "{\"sentenceGloss\":\"Iwan pracuje w fabryce.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/universyteti",
+			"seen": "{\"sentenceGloss\":\"Pracuję na uniwersytecie.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words",
+			"seen": "{\"title\":\"Zawody i praca\",\"summary\":\"Męskie i żeńskie nazwy zajęć oraz cztery słowa o pracy. Wskazany rodzaj dotyczy formy rzeczownika, nie tego, kto może wykonywać zawód.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/likar",
+			"seen": "{\"clue\":\"lekarz (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/likarka",
+			"seen": "{\"clue\":\"lekarka (rodzaj żeński)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/vchytel",
+			"seen": "{\"clue\":\"nauczyciel szkolny (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/vchytelka",
+			"seen": "{\"clue\":\"nauczycielka szkolna (rodzaj żeński)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/vykladach",
+			"seen": "{\"clue\":\"wykładowca uczelni (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/vykladachka",
+			"seen": "{\"clue\":\"wykładowczyni uczelni (rodzaj żeński)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/inzhener",
+			"seen": "{\"clue\":\"inżynier (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/inzhenerka",
+			"seen": "{\"clue\":\"inżynierka (rodzaj żeński)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/kukhar",
+			"seen": "{\"clue\":\"kucharz (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/kukharka",
+			"seen": "{\"clue\":\"kucharka (rodzaj żeński)\",\"note\":\"Akcent się przesuwa: ку́хар, ale куха́рка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/vodiy",
+			"seen": "{\"clue\":\"kierowca (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/vodiyka",
+			"seen": "{\"clue\":\"kierowczyni (rodzaj żeński)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/zhurnalist",
+			"seen": "{\"clue\":\"dziennikarz (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/zhurnalistka",
+			"seen": "{\"clue\":\"dziennikarka (rodzaj żeński)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/perukar",
+			"seen": "{\"clue\":\"fryzjer (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/perukarka",
+			"seen": "{\"clue\":\"fryzjerka (rodzaj żeński)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/student",
+			"seen": "{\"clue\":\"student (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/studentka",
+			"seen": "{\"clue\":\"studentka (rodzaj żeński)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/pensioner",
+			"seen": "{\"clue\":\"emeryt (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/pensionerka",
+			"seen": "{\"clue\":\"emerytka (rodzaj żeński)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/profesiya",
+			"seen": "{\"clue\":\"zawód\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/robota",
+			"seen": "{\"clue\":\"praca; zatrudnienie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/koleha",
+			"seen": "{\"clue\":\"kolega z pracy\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-words/zarplata",
+			"seen": "{\"clue\":\"pensja; wynagrodzenie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives",
+			"seen": "{\"title\":\"Czyja rodzina?\",\"summary\":\"Zaimki dzierżawcze w mianowniku zgadzają się z określanym rzeczownikiem. Wiersz wskazuje właściciela, kolumna — rodzaj lub liczbę.\",\"headers\":{\"my\":\"mój: я\",\"your\":\"twój: ти\",\"his\":\"jego: він\",\"her\":\"jej: вона\",\"our\":\"nasz: ми\",\"your-pl\":\"wasz: ви\",\"their\":\"ich: вони\",\"m\":\"męski: брат\",\"f\":\"żeński: сестра\",\"n\":\"nijaki: дитя\",\"pl\":\"mnoga: батьки\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/his.m",
+			"seen": "{\"note\":\"Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/his.f",
+			"seen": "{\"note\":\"Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/his.n",
+			"seen": "{\"note\":\"Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/his.pl",
+			"seen": "{\"note\":\"Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/her.m",
+			"seen": "{\"note\":\"Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/her.f",
+			"seen": "{\"note\":\"Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/her.n",
+			"seen": "{\"note\":\"Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/her.pl",
+			"seen": "{\"note\":\"Його i її są nieodmienne. Rodzaj w kolumnie dotyczy krewnego, nie właściciela.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/their.m",
+			"seen": "{\"note\":\"Zamiast їхній można we wszystkich czterech kolumnach użyć nieodmiennego їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/their.f",
+			"seen": "{\"note\":\"Zamiast їхній można we wszystkich czterech kolumnach użyć nieodmiennego їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/their.n",
+			"seen": "{\"note\":\"Zamiast їхній można we wszystkich czterech kolumnach użyć nieodmiennego їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/possessives/their.pl",
+			"seen": "{\"note\":\"Zamiast їхній można we wszystkich czterech kolumnach użyć nieodmiennego їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/workplaces",
+			"seen": "{\"title\":\"Gdzie pracujesz?\",\"summary\":\"Wpisz całe wyrażenie miejsca wraz z в, у lub на. Używamy miejscownika; в i у są akceptowane wymiennie.\",\"headers\":{\"where\":\"miejsce: працюю …\",\"school\":\"шко́ла — szkoła\",\"university\":\"університе́т — uniwersytet\",\"hospital\":\"ліка́рня — szpital\",\"factory\":\"заво́д — fabryka\",\"shop\":\"магази́н — sklep\",\"restaurant\":\"рестора́н — restauracja\",\"office\":\"о́фіс — biuro\",\"theatre\":\"теа́тр — teatr\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/possessives/my.pl",
+			"seen": "{\"contrast\":\"Polish distinguishes moi and moje in the plural. Ukrainian uses мої for every gender: мої брати, мої сестри.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/possessives/his.f",
+			"seen": "{\"contrast\":\"Like Polish jego, Ukrainian його stays unchanged even before a feminine noun.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/possessives/my.pl",
+			"seen": "{\"contrast\":\"Polski rozróżnia moi i moje. Ukraińskie мої jest wspólne dla wszystkich rodzajów w liczbie mnogiej: мої брати, мої сестри.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/possessives/his.f",
+			"seen": "{\"contrast\":\"Tak jak polskie jego, ukraińskie його nie zmienia się nawet przed rzeczownikiem żeńskim.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/possessives/my.pl",
+			"seen": "{\"contrast\":\"У польській множині розрізняють moi та moje. Українське мої спільне для всіх родів: мої брати, мої сестри.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/possessives/his.f",
+			"seen": "{\"contrast\":\"Як польське jego, українське його не змінюється навіть перед іменником жіночого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/lesson/l10",
+			"seen": "\"Урок 10: Моя профессия\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences",
+			"seen": "{\"title\":\"Семья в предложениях\",\"summary\":\"Местоимение в скобках указывает владельца; форма пропуска согласуется с названием родственника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/my-brother",
+			"seen": "{\"sentenceGloss\":\"Это мой брат.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/my-sister",
+			"seen": "{\"sentenceGloss\":\"Это моя сестра.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/my-child",
+			"seen": "{\"sentenceGloss\":\"Это моё дитя.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/my-parents",
+			"seen": "{\"sentenceGloss\":\"Это мои родители.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/your-father",
+			"seen": "{\"sentenceGloss\":\"Это твой отец.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/your-mother",
+			"seen": "{\"sentenceGloss\":\"Это твоя мать.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/our-grandfather",
+			"seen": "{\"sentenceGloss\":\"Это наш дедушка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/our-grandmother",
+			"seen": "{\"sentenceGloss\":\"Это наша бабушка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/his-daughter",
+			"seen": "{\"sentenceGloss\":\"Это его дочь.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/her-son",
+			"seen": "{\"sentenceGloss\":\"Это её сын.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/their-sister",
+			"seen": "{\"sentenceGloss\":\"Это их сестра.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-sentences/their-children",
+			"seen": "{\"sentenceGloss\":\"Это их дети.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences",
+			"seen": "{\"title\":\"Кем и где работать\",\"summary\":\"Поставьте существительное из скобок в нужную форму. После працювати название профессии стоит в творительном падеже; место работы с в или на — в местном.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/likarem",
+			"seen": "{\"sentenceGloss\":\"Тарас работает врачом.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/likarkoyu",
+			"seen": "{\"sentenceGloss\":\"Ирина работает врачом.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/vchytelkoyu",
+			"seen": "{\"sentenceGloss\":\"Олена работает учительницей в школе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/vykladachem",
+			"seen": "{\"sentenceGloss\":\"Андрей работает преподавателем.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/inzhenerom",
+			"seen": "{\"sentenceGloss\":\"Наш сосед работает инженером.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/vodiyem",
+			"seen": "{\"sentenceGloss\":\"Дмитрий работает водителем.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/perukarkoyu",
+			"seen": "{\"sentenceGloss\":\"Галина работает парикмахером.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/kukharem",
+			"seen": "{\"sentenceGloss\":\"Пётр работает поваром.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/kukharkoyu",
+			"seen": "{\"sentenceGloss\":\"Наталка работает поваром.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/likarni",
+			"seen": "{\"sentenceGloss\":\"Олег работает в больнице.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/zavodi",
+			"seen": "{\"sentenceGloss\":\"Иван работает на заводе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/universyteti",
+			"seen": "{\"sentenceGloss\":\"Я работаю в университете.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words",
+			"seen": "{\"title\":\"Профессии и работа\",\"summary\":\"Названия занятий в мужском и женском роде и четыре слова о работе. Подсказка задаёт грамматический род, а не пол людей, которым доступна профессия.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/likar",
+			"seen": "{\"clue\":\"врач (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/likarka",
+			"seen": "{\"clue\":\"врач (форма женского рода)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/vchytel",
+			"seen": "{\"clue\":\"школьный учитель (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/vchytelka",
+			"seen": "{\"clue\":\"школьная учительница (женский род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/vykladach",
+			"seen": "{\"clue\":\"преподаватель вуза (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/vykladachka",
+			"seen": "{\"clue\":\"преподавательница вуза (женский род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/inzhener",
+			"seen": "{\"clue\":\"инженер (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/inzhenerka",
+			"seen": "{\"clue\":\"инженер (форма женского рода)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/kukhar",
+			"seen": "{\"clue\":\"повар (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/kukharka",
+			"seen": "{\"clue\":\"повар (форма женского рода)\",\"note\":\"Ударение меняется: ку́хар, но куха́рка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/vodiy",
+			"seen": "{\"clue\":\"водитель (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/vodiyka",
+			"seen": "{\"clue\":\"водитель (форма женского рода)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/zhurnalist",
+			"seen": "{\"clue\":\"журналист (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/zhurnalistka",
+			"seen": "{\"clue\":\"журналистка (женский род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/perukar",
+			"seen": "{\"clue\":\"парикмахер (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/perukarka",
+			"seen": "{\"clue\":\"парикмахер (форма женского рода)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/student",
+			"seen": "{\"clue\":\"студент (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/studentka",
+			"seen": "{\"clue\":\"студентка (женский род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/pensioner",
+			"seen": "{\"clue\":\"пенсионер (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/pensionerka",
+			"seen": "{\"clue\":\"пенсионерка (женский род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/profesiya",
+			"seen": "{\"clue\":\"профессия\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/robota",
+			"seen": "{\"clue\":\"работа; занятость\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/koleha",
+			"seen": "{\"clue\":\"коллега\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-words/zarplata",
+			"seen": "{\"clue\":\"зарплата\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives",
+			"seen": "{\"title\":\"Чья семья?\",\"summary\":\"Притяжательные местоимения в именительном падеже согласуются с тем, что кому-то принадлежит. Строка задаёт владельца, столбец — род или число.\",\"headers\":{\"my\":\"мой: я\",\"your\":\"твой: ти\",\"his\":\"его: він\",\"her\":\"её: вона\",\"our\":\"наш: ми\",\"your-pl\":\"ваш: ви\",\"their\":\"их: вони\",\"m\":\"мужской: брат\",\"f\":\"женский: сестра\",\"n\":\"средний: дитя\",\"pl\":\"множественное: батьки\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/his.m",
+			"seen": "{\"note\":\"Його и її не изменяются. Род столбца относится к родственнику, а не к владельцу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/his.f",
+			"seen": "{\"note\":\"Його и її не изменяются. Род столбца относится к родственнику, а не к владельцу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/his.n",
+			"seen": "{\"note\":\"Його и її не изменяются. Род столбца относится к родственнику, а не к владельцу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/his.pl",
+			"seen": "{\"note\":\"Його и її не изменяются. Род столбца относится к родственнику, а не к владельцу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/her.m",
+			"seen": "{\"note\":\"Його и її не изменяются. Род столбца относится к родственнику, а не к владельцу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/her.f",
+			"seen": "{\"note\":\"Його и її не изменяются. Род столбца относится к родственнику, а не к владельцу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/her.n",
+			"seen": "{\"note\":\"Його и її не изменяются. Род столбца относится к родственнику, а не к владельцу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/her.pl",
+			"seen": "{\"note\":\"Його и її не изменяются. Род столбца относится к родственнику, а не к владельцу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/their.m",
+			"seen": "{\"note\":\"Наряду с їхній во всех четырёх столбцах допустимо неизменяемое їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/their.f",
+			"seen": "{\"note\":\"Наряду с їхній во всех четырёх столбцах допустимо неизменяемое їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/their.n",
+			"seen": "{\"note\":\"Наряду с їхній во всех четырёх столбцах допустимо неизменяемое їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/possessives/their.pl",
+			"seen": "{\"note\":\"Наряду с їхній во всех четырёх столбцах допустимо неизменяемое їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/workplaces",
+			"seen": "{\"title\":\"Где вы работаете?\",\"summary\":\"Введите всё выражение места с в, у или на. Здесь нужен местный падеж; в и у принимаются как варианты.\",\"headers\":{\"where\":\"место: працюю …\",\"school\":\"шко́ла — школа\",\"university\":\"університе́т — университет\",\"hospital\":\"ліка́рня — больница\",\"factory\":\"заво́д — завод\",\"shop\":\"магази́н — магазин\",\"restaurant\":\"рестора́н — ресторан\",\"office\":\"о́фіс — офис\",\"theatre\":\"теа́тр — театр\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/possessives/my.m",
+			"seen": "{\"contrast\":\"Russian мой corresponds to мій; use the Ukrainian form rather than copying the Russian vowel.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/possessives/his.m",
+			"seen": "{\"contrast\":\"Russian его corresponds to його: keep the initial й in Ukrainian. The possessive stays unchanged for every gender and number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/possessives/my.m",
+			"seen": "{\"contrast\":\"Русскому мой соответствует мій; в украинском здесь і.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/possessives/his.m",
+			"seen": "{\"contrast\":\"Русскому его соответствует його: сохраняйте начальную й. Притяжательная форма не меняется по родам и числам.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/possessives/my.m",
+			"seen": "{\"contrast\":\"Російському мой відповідає мій: в українській тут і.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/possessives/his.m",
+			"seen": "{\"contrast\":\"Російському его відповідає його: зберігайте початкову й. Присвійна форма не змінюється за родами й числами.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/lesson/l10",
+			"seen": "\"Урок 10: Моя професія\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences",
+			"seen": "{\"title\":\"Речення про родину\",\"summary\":\"Займенник у дужках указує на власника; форму в пропуску узгодьте з назвою родича.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/my-brother",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/my-sister",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/my-child",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/my-parents",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/your-father",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/your-mother",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/our-grandfather",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/our-grandmother",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/his-daughter",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/her-son",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/their-sister",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-sentences/their-children",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences",
+			"seen": "{\"title\":\"Ким і де працювати\",\"summary\":\"Поставте іменник із дужок у потрібну форму. Після працювати назва фаху стоїть в орудному відмінку; місце роботи з в або на — у місцевому.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/likarem",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/likarkoyu",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/vchytelkoyu",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/vykladachem",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/inzhenerom",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/vodiyem",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/perukarkoyu",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/kukharem",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/kukharkoyu",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/likarni",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/zavodi",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/universyteti",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words",
+			"seen": "{\"title\":\"Професії та робота\",\"summary\":\"Назви занять у чоловічому й жіночому роді та чотири слова про працю. Підказка задає граматичний рід, а не обмежує, хто може працювати за фахом.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/likar",
+			"seen": "{\"clue\":\"Назва фаху медика, іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/likarka",
+			"seen": "{\"clue\":\"Назва фаху медика, іменник жіночого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/vchytel",
+			"seen": "{\"clue\":\"Той, хто навчає учнів у школі; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/vchytelka",
+			"seen": "{\"clue\":\"Та, хто навчає учнів у школі; іменник жіночого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/vykladach",
+			"seen": "{\"clue\":\"Той, хто навчає студентів; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/vykladachka",
+			"seen": "{\"clue\":\"Та, хто навчає студентів; іменник жіночого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/inzhener",
+			"seen": "{\"clue\":\"Фахівець із техніки, іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/inzhenerka",
+			"seen": "{\"clue\":\"Фахівчиня з техніки, іменник жіночого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/kukhar",
+			"seen": "{\"clue\":\"Той, хто готує їжу за фахом; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/kukharka",
+			"seen": "{\"clue\":\"Та, хто готує їжу за фахом; іменник жіночого роду.\",\"note\":\"Наголос змінюється: ку́хар, але куха́рка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/vodiy",
+			"seen": "{\"clue\":\"Той, хто керує автомобілем; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/vodiyka",
+			"seen": "{\"clue\":\"Та, хто керує автомобілем; іменник жіночого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/zhurnalist",
+			"seen": "{\"clue\":\"Той, хто збирає й публікує новини; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/zhurnalistka",
+			"seen": "{\"clue\":\"Та, хто збирає й публікує новини; іменник жіночого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/perukar",
+			"seen": "{\"clue\":\"Той, хто стриже та робить зачіски; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/perukarka",
+			"seen": "{\"clue\":\"Та, хто стриже та робить зачіски; іменник жіночого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/student",
+			"seen": "{\"clue\":\"Той, хто здобуває освіту у виші; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/studentka",
+			"seen": "{\"clue\":\"Та, хто здобуває освіту у виші; іменник жіночого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/pensioner",
+			"seen": "{\"clue\":\"Той, хто отримує пенсію; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/pensionerka",
+			"seen": "{\"clue\":\"Та, хто отримує пенсію; іменник жіночого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/profesiya",
+			"seen": "{\"clue\":\"Рід занять, що потребує певних знань і вмінь.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/robota",
+			"seen": "{\"clue\":\"Діяльність, яку виконують за оплату або для певного результату.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/koleha",
+			"seen": "{\"clue\":\"Той або та, хто працює разом з вами.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-words/zarplata",
+			"seen": "{\"clue\":\"Гроші, які отримують за працю.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives",
+			"seen": "{\"title\":\"Чия родина?\",\"summary\":\"Присвійні займенники в називному відмінку узгоджуються з означуваним іменником. Рядок указує на власника, стовпець — на рід або число.\",\"headers\":{\"my\":\"власник: я\",\"your\":\"власник: ти\",\"his\":\"власник: він\",\"her\":\"власник: вона\",\"our\":\"власник: ми\",\"your-pl\":\"власник: ви\",\"their\":\"власник: вони\",\"m\":\"чоловічий: брат\",\"f\":\"жіночий: сестра\",\"n\":\"середній: дитя\",\"pl\":\"множина: батьки\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/his.m",
+			"seen": "{\"note\":\"Його та її не змінюються. Рід у стовпці стосується родича, а не власника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/his.f",
+			"seen": "{\"note\":\"Його та її не змінюються. Рід у стовпці стосується родича, а не власника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/his.n",
+			"seen": "{\"note\":\"Його та її не змінюються. Рід у стовпці стосується родича, а не власника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/his.pl",
+			"seen": "{\"note\":\"Його та її не змінюються. Рід у стовпці стосується родича, а не власника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/her.m",
+			"seen": "{\"note\":\"Його та її не змінюються. Рід у стовпці стосується родича, а не власника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/her.f",
+			"seen": "{\"note\":\"Його та її не змінюються. Рід у стовпці стосується родича, а не власника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/her.n",
+			"seen": "{\"note\":\"Його та її не змінюються. Рід у стовпці стосується родича, а не власника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/her.pl",
+			"seen": "{\"note\":\"Його та її не змінюються. Рід у стовпці стосується родича, а не власника.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/their.m",
+			"seen": "{\"note\":\"Замість їхній у всіх чотирьох стовпцях можна вжити незмінне їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/their.f",
+			"seen": "{\"note\":\"Замість їхній у всіх чотирьох стовпцях можна вжити незмінне їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/their.n",
+			"seen": "{\"note\":\"Замість їхній у всіх чотирьох стовпцях можна вжити незмінне їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/possessives/their.pl",
+			"seen": "{\"note\":\"Замість їхній у всіх чотирьох стовпцях можна вжити незмінне їх.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/workplaces",
+			"seen": "{\"title\":\"Де ви працюєте?\",\"summary\":\"Уведіть усе словосполучення з в, у або на. Тут потрібен місцевий відмінок; в та у приймаються як варіанти.\",\"headers\":{\"where\":\"місце: працюю …\",\"school\":\"шко́ла\",\"university\":\"університе́т\",\"hospital\":\"ліка́рня\",\"factory\":\"заво́д\",\"shop\":\"магази́н\",\"restaurant\":\"рестора́н\",\"office\":\"о́фіс\",\"theatre\":\"теа́тр\"}}",
+			"verdict": "ok"
+		}
+	]
+}
