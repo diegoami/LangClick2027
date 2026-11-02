@@ -2,7 +2,9 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
-## Unreleased
+## v0.4.0 — 2026-11-02 — eMova lessons 4–8
+
+**Practise eMova lessons 4–8 after studying the source: introductions, greetings, time, everyday routines and weather, compared with Russian or Polish.**
 
 For players:
 
@@ -11,6 +13,12 @@ For players:
 - Lesson 7 of Є-мова: бу́ти in every tense, everyday verbs, on a day and from a day, and last week or next year. ди́вно and диви́тися are marked as false friends from Russian
 - Lesson 8 of Є-мова: weather words, how the day is and how it feels outside, the colours of the rainbow in every gender, and sentences with no subject. кра́сний is a false friend from Russian, and гроза́ and си́ній from Polish
 - Study links for lessons 4 to 9 and 14 open the lesson itself, not the course outline.
+
+The coverage ledger maps each lesson to its boards; the exercises are authored for Langclick and link to eMova rather than copying its text. Lessons come before separate downloads, now planned for v0.8.0 (#27). The pre-push hook is executable on Linux and WSL as well as Windows (#31).
+
+Not included: lessons 9–27 as a whole, separate downloads, native audio, guided lessons or speech. No native speaker has reviewed the content. Recorded content checks and the pack validator are verified by the local gates; this release preparation adds no language content.
+
+Not tried during release preparation: manual play, a real phone, touch drag or browsers other than those exercised by the automated gates. Signed-in eMova study links were not manually followed. Release publication must name the exact reviewed, tagged commit.
 
 ## v0.3.0 — 2026-10-31 — Grammar you have to produce
 
