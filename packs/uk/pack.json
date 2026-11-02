@@ -321,7 +321,14 @@
 		{
 			"id": "l09",
 			"section": "themes",
-			"units": ["family", "possessives", "l09-sentences"],
+			"units": [
+				"family",
+				"l09-words",
+				"possessives",
+				"l09-sentences",
+				"family-genitive",
+				"family-genitive-sentences"
+			],
 			"study": [
 				{
 					"kind": "video",
@@ -353,7 +360,7 @@
 		{
 			"id": "l10",
 			"section": "themes",
-			"units": ["l10-words", "workplaces", "l10-sentences"],
+			"units": ["l10-words", "l10-occupations", "workplaces", "l10-sentences"],
 			"study": [
 				{
 					"kind": "video",

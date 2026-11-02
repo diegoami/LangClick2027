@@ -3,7 +3,8 @@
 	"summary": "Occupation nouns in masculine and feminine forms, then four words about working life. The clue specifies grammatical gender, not who may hold the job.",
 	"cells": {
 		"likar": {
-			"clue": "doctor (masculine noun)"
+			"clue": "doctor (masculine noun)",
+			"note": "Use лікар as the course form. Dictionaries also record доктор for a physician as colloquial, so typing it is accepted here; it can also name an academic degree."
 		},
 		"likarka": {
 			"clue": "doctor (feminine noun)"

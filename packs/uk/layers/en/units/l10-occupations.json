@@ -1,0 +1,93 @@
+{
+	"title": "More occupations",
+	"summary": "Names of occupations and roles found in the source lesson, including feminine forms. Grammatical gender is part of each clue.",
+	"cells": {
+		"shakhtar": {
+			"clue": "miner (masculine noun)",
+			"note": "Related words: шахта → шахта́р."
+		},
+		"bibliotekar": {
+			"clue": "librarian (masculine noun)",
+			"note": "Related words: бібліотека → бібліоте́кар."
+		},
+		"bdzholyar": {
+			"clue": "beekeeper (masculine noun)",
+			"note": "Related words: бджола → бджоля́р."
+		},
+		"betonyar": {
+			"clue": "concrete worker (masculine noun)",
+			"note": "Related words: бетон → бетоня́р."
+		},
+		"smittyar": {
+			"clue": "refuse collector (masculine noun)",
+			"note": "Related words: сміття → сміття́р."
+		},
+		"budivelnyk": {
+			"clue": "construction worker (masculine noun)",
+			"note": "Related words: будівля → будіве́льник."
+		},
+		"robitnyk": {
+			"clue": "manual worker (masculine noun)",
+			"note": "Related words: робити → робітни́к."
+		},
+		"sadivnyk": {
+			"clue": "gardener (masculine noun)",
+			"note": "Related words: сад → садівни́к."
+		},
+		"siyach": {
+			"clue": "sower (masculine noun)",
+			"note": "Related words: сіяти → сія́ч."
+		},
+		"prohramist": {
+			"clue": "programmer (masculine noun)",
+			"note": "Related words: програма → програмі́ст."
+		},
+		"zhyvopysets": {
+			"clue": "painter of pictures (masculine noun)",
+			"note": "Related words: живопис → живопи́сець."
+		},
+		"naukovets": {
+			"clue": "scientist; researcher (masculine noun)",
+			"note": "Related words: наука → науко́вець."
+		},
+		"sluzhbovets": {
+			"clue": "salaried office employee (masculine noun)",
+			"note": "Related words: служба → службо́вець."
+		},
+		"prodavets": {
+			"clue": "seller (masculine noun)",
+			"note": "Related words: продавати → продаве́ць."
+		},
+		"prodavchynya": {
+			"clue": "seller (feminine noun)",
+			"note": "Related words: продавець → продавчи́ня."
+		},
+		"kravets": {
+			"clue": "tailor (masculine noun)"
+		},
+		"kravchynya": {
+			"clue": "tailor (feminine noun)",
+			"note": "Related words: кравець → кравчи́ня."
+		},
+		"robitnytsya": {
+			"clue": "manual worker (feminine noun)",
+			"note": "Related words: робітник → робітни́ця."
+		},
+		"prybyralnyk": {
+			"clue": "cleaner (masculine noun)"
+		},
+		"prybyralnytsya": {
+			"clue": "cleaner (feminine noun)",
+			"note": "Related words: прибиральник → прибира́льниця."
+		},
+		"yuryst": {
+			"clue": "lawyer (masculine noun)"
+		},
+		"pratsivnyk": {
+			"clue": "employee; worker (general masculine noun)"
+		},
+		"fakhivets": {
+			"clue": "specialist (masculine noun)"
+		}
+	}
+}

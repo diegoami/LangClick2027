@@ -1,0 +1,30 @@
+{
+	"title": "Родственные связи в предложениях",
+	"summary": "Поставьте название родственника из скобок в родительный падеж.",
+	"cells": {
+		"brata": {
+			"sentenceGloss": "У брата есть собака."
+		},
+		"sestry": {
+			"sentenceGloss": "У сестры есть кот."
+		},
+		"titky": {
+			"sentenceGloss": "У тёти нет машины."
+		},
+		"didusya": {
+			"sentenceGloss": "Это новое фото дедушки."
+		},
+		"batusya": {
+			"sentenceGloss": "Это письмо для бабушки."
+		},
+		"materi": {
+			"sentenceGloss": "Это комната матери."
+		},
+		"svekra": {
+			"sentenceGloss": "Это машина свёкра."
+		},
+		"testya": {
+			"sentenceGloss": "Это ключ от дома тестя."
+		}
+	}
+}

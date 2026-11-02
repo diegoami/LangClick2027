@@ -3,7 +3,8 @@
 	"summary": "Męskie i żeńskie nazwy zajęć oraz cztery słowa o pracy. Wskazany rodzaj dotyczy formy rzeczownika, nie tego, kto może wykonywać zawód.",
 	"cells": {
 		"likar": {
-			"clue": "lekarz (rodzaj męski)"
+			"clue": "lekarz (rodzaj męski)",
+			"note": "Forma zalecana w kursie to лікар. Słowniki notują też potoczne доктор w znaczeniu lekarza, więc ta odpowiedź jest przyjmowana; wyraz oznacza również stopień naukowy."
 		},
 		"likarka": {
 			"clue": "lekarka (rodzaj żeński)"

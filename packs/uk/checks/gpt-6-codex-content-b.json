@@ -2,6 +2,121 @@
 	"checker": "gpt-6-codex-content-b",
 	"entries": [
 		{
+			"key": "core/family-genitive-sentences/brata",
+			"seen": "{\"item\":\"sentence:l09:family-genitive:brata\",\"text\":\"брата\",\"display\":\"бра́та\",\"sentence\":\"У ___ є пес. (брат)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive-sentences/sestry",
+			"seen": "{\"item\":\"sentence:l09:family-genitive:sestry\",\"text\":\"сестри\",\"display\":\"сестри́\",\"sentence\":\"У ___ є кіт. (сестра)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive-sentences/titky",
+			"seen": "{\"item\":\"sentence:l09:family-genitive:titky\",\"text\":\"тітки\",\"display\":\"ті́тки\",\"sentence\":\"У ___ нема́є маши́ни. (ті́тка)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive-sentences/didusya",
+			"seen": "{\"item\":\"sentence:l09:family-genitive:didusya\",\"text\":\"дідуся\",\"display\":\"дідуся́\",\"sentence\":\"Це нове́ фо́то ___. (діду́сь)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive-sentences/batusya",
+			"seen": "{\"item\":\"sentence:l09:family-genitive:batusya\",\"text\":\"бабусі\",\"display\":\"бабу́сі\",\"sentence\":\"Це лист для ___. (бабу́ся)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive-sentences/materi",
+			"seen": "{\"item\":\"sentence:l09:family-genitive:materi\",\"text\":\"матері\",\"display\":\"ма́тері\",\"sentence\":\"Це кімна́та ___. (ма́ти)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive-sentences/svekra",
+			"seen": "{\"item\":\"sentence:l09:family-genitive:svekra\",\"text\":\"свекра\",\"display\":\"све́кра\",\"sentence\":\"Це маши́на ___. (све́кор)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive-sentences/testya",
+			"seen": "{\"item\":\"sentence:l09:family-genitive:testya\",\"text\":\"тестя\",\"display\":\"те́стя\",\"sentence\":\"Це ключ від до́му ___. (тесть)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/mama",
+			"seen": "{\"item\":\"noun:mama:gen.sg\",\"text\":\"мами\",\"display\":\"ма́ми\",\"row\":\"mama\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/tato",
+			"seen": "{\"item\":\"noun:tato:gen.sg\",\"text\":\"тата\",\"display\":\"та́та\",\"row\":\"tato\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/batko",
+			"seen": "{\"item\":\"noun:batko:gen.sg\",\"text\":\"батька\",\"display\":\"ба́тька\",\"row\":\"batko\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/maty",
+			"seen": "{\"item\":\"noun:maty:gen.sg\",\"text\":\"матері\",\"display\":\"ма́тері\",\"row\":\"maty\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/brat",
+			"seen": "{\"item\":\"noun:brat:gen.sg\",\"text\":\"брата\",\"display\":\"бра́та\",\"row\":\"brat\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/sestra",
+			"seen": "{\"item\":\"noun:sestra:gen.sg\",\"text\":\"сестри\",\"display\":\"сестри́\",\"row\":\"sestra\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/titka",
+			"seen": "{\"item\":\"noun:titka:gen.sg\",\"text\":\"тітки\",\"display\":\"ті́тки\",\"row\":\"titka\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/dyadko",
+			"seen": "{\"item\":\"noun:dyadko:gen.sg\",\"text\":\"дядька\",\"display\":\"дя́дька\",\"row\":\"dyadko\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/didus",
+			"seen": "{\"item\":\"noun:didus:gen.sg\",\"text\":\"дідуся\",\"display\":\"дідуся́\",\"row\":\"didus\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/babusya",
+			"seen": "{\"item\":\"noun:babusya:gen.sg\",\"text\":\"бабусі\",\"display\":\"бабу́сі\",\"row\":\"babusya\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/svekor",
+			"seen": "{\"item\":\"noun:svekor:gen.sg\",\"text\":\"свекра\",\"display\":\"све́кра\",\"row\":\"svekor\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/test",
+			"seen": "{\"item\":\"noun:test:gen.sg\",\"text\":\"тестя\",\"display\":\"те́стя\",\"row\":\"test\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/svekrukha",
+			"seen": "{\"item\":\"noun:svekrukha:gen.sg\",\"text\":\"свекрухи\",\"display\":\"свекру́хи\",\"row\":\"svekrukha\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family-genitive/teshcha",
+			"seen": "{\"item\":\"noun:teshcha:gen.sg\",\"text\":\"тещі\",\"display\":\"те́щі\",\"row\":\"teshcha\",\"col\":\"gen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/family/maty",
+			"seen": "{\"item\":\"word:maty\",\"text\":\"мати\",\"display\":\"ма́ти\",\"ipa\":\"/ˈmatɪ/\",\"alsoAccepted\":[\"матір\"],\"cognates\":{\"ru\":{\"form\":\"мать\",\"ipa\":\"/matʲ/\"},\"pl\":{\"form\":\"matka\",\"ipa\":\"/ˈmatka/\"}}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l09-sentences/my-brother",
 			"seen": "{\"item\":\"sentence:l09:my-brother\",\"text\":\"мій\",\"sentence\":\"Це ___ брат. (я)\"}",
 			"verdict": "ok"
@@ -62,6 +177,206 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l09-words/simya",
+			"seen": "{\"item\":\"word:simya\",\"text\":\"сім'я\",\"display\":\"сім'я́\",\"ipa\":\"/sʲimˈja/\",\"alsoAccepted\":[\"родина\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/rid",
+			"seen": "{\"item\":\"word:rid\",\"text\":\"рід\",\"display\":\"рід\",\"ipa\":\"/rʲid/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/ridnya",
+			"seen": "{\"item\":\"word:ridnya\",\"text\":\"рідня\",\"display\":\"рідня́\",\"ipa\":\"/rʲidˈnʲa/\",\"alsoAccepted\":[\"родина\",\"родичі\",\"рідні\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/rodych",
+			"seen": "{\"item\":\"word:rodych\",\"text\":\"родич\",\"display\":\"ро́дич\",\"ipa\":\"/ˈrɔdɪt͡ʃ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/vesillya",
+			"seen": "{\"item\":\"word:vesillya\",\"text\":\"весілля\",\"display\":\"весі́лля\",\"ipa\":\"/ʋɛˈsʲilʲːa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/shlyub",
+			"seen": "{\"item\":\"word:shlyub\",\"text\":\"шлюб\",\"display\":\"шлюб\",\"ipa\":\"/ʃlʲub/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/druzhyna",
+			"seen": "{\"item\":\"word:druzhyna\",\"text\":\"дружина\",\"display\":\"дружи́на\",\"ipa\":\"/druˈʒɪna/\",\"alsoAccepted\":[\"жінка\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/pradidus",
+			"seen": "{\"item\":\"word:pradidus\",\"text\":\"прадідусь\",\"display\":\"пра́дідусь\",\"ipa\":\"/ˈpradʲidusʲ/\",\"alsoAccepted\":[\"прадід\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/prababusya",
+			"seen": "{\"item\":\"word:prababusya\",\"text\":\"прабабуся\",\"display\":\"прабабу́ся\",\"ipa\":\"/prabaˈbusʲa/\",\"alsoAccepted\":[\"прабаба\",\"прабабця\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/pleminnyk",
+			"seen": "{\"item\":\"word:pleminnyk\",\"text\":\"племінник\",\"display\":\"племі́нник\",\"ipa\":\"/plɛˈmʲinːɪk/\",\"alsoAccepted\":[\"небіж\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/pleminnytsya",
+			"seen": "{\"item\":\"word:pleminnytsya\",\"text\":\"племінниця\",\"display\":\"племі́нниця\",\"ipa\":\"/plɛˈmʲinːɪt͡sʲa/\",\"alsoAccepted\":[\"небога\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/svekor",
+			"seen": "{\"item\":\"word:svekor\",\"text\":\"свекор\",\"display\":\"све́кор\",\"ipa\":\"/ˈsʋɛkɔr/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/svekrukha",
+			"seen": "{\"item\":\"word:svekrukha\",\"text\":\"свекруха\",\"display\":\"свекру́ха\",\"ipa\":\"/sʋɛˈkruxa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/test",
+			"seen": "{\"item\":\"word:test\",\"text\":\"тесть\",\"display\":\"тесть\",\"ipa\":\"/tɛsʲtʲ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/teshcha",
+			"seen": "{\"item\":\"word:teshcha\",\"text\":\"теща\",\"display\":\"те́ща\",\"ipa\":\"/ˈtɛʃt͡ʃa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/pokolinnya",
+			"seen": "{\"item\":\"word:pokolinnya\",\"text\":\"покоління\",\"display\":\"поколі́ння\",\"ipa\":\"/pɔkɔˈlʲinʲːa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/dity",
+			"seen": "{\"item\":\"word:dity\",\"text\":\"діти\",\"display\":\"ді́ти\",\"ipa\":\"/ˈdʲitɪ/\",\"alsoAccepted\":[\"дітлахи\",\"дітки\",\"діточки\",\"малята\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/shakhtar",
+			"seen": "{\"item\":\"word:shakhtar\",\"text\":\"шахтар\",\"display\":\"шахта́р\",\"ipa\":\"/ʃaxˈtar/\",\"alsoAccepted\":[\"гірник\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/bibliotekar",
+			"seen": "{\"item\":\"word:bibliotekar\",\"text\":\"бібліотекар\",\"display\":\"бібліоте́кар\",\"ipa\":\"/bʲiblʲiɔˈtɛkar/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/bdzholyar",
+			"seen": "{\"item\":\"word:bdzholyar\",\"text\":\"бджоляр\",\"display\":\"бджоля́р\",\"ipa\":\"/bd͡ʒɔˈlʲar/\",\"alsoAccepted\":[\"пасічник\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/betonyar",
+			"seen": "{\"item\":\"word:betonyar\",\"text\":\"бетоняр\",\"display\":\"бетоня́р\",\"ipa\":\"/bɛtɔˈnʲar/\",\"alsoAccepted\":[\"бетонник\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/smittyar",
+			"seen": "{\"item\":\"word:smittyar\",\"text\":\"сміттяр\",\"display\":\"сміття́р\",\"ipa\":\"/sʲmʲiˈtʲːar/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/budivelnyk",
+			"seen": "{\"item\":\"word:budivelnyk\",\"text\":\"будівельник\",\"display\":\"будіве́льник\",\"ipa\":\"/budʲiˈʋɛlʲnɪk/\",\"alsoAccepted\":[\"будівник\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/robitnyk",
+			"seen": "{\"item\":\"word:robitnyk\",\"text\":\"робітник\",\"display\":\"робітни́к\",\"ipa\":\"/rɔbʲitˈnɪk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/sadivnyk",
+			"seen": "{\"item\":\"word:sadivnyk\",\"text\":\"садівник\",\"display\":\"садівни́к\",\"ipa\":\"/sadʲiʋˈnɪk/\",\"alsoAccepted\":[\"садівничий\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/siyach",
+			"seen": "{\"item\":\"word:siyach\",\"text\":\"сіяч\",\"display\":\"сія́ч\",\"ipa\":\"/sʲiˈjat͡ʃ/\",\"alsoAccepted\":[\"сівач\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/prohramist",
+			"seen": "{\"item\":\"word:prohramist\",\"text\":\"програміст\",\"display\":\"програмі́ст\",\"ipa\":\"/prɔɦraˈmʲist/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/zhyvopysets",
+			"seen": "{\"item\":\"word:zhyvopysets\",\"text\":\"живописець\",\"display\":\"живопи́сець\",\"ipa\":\"/ʒɪʋɔˈpɪsɛt͡sʲ/\",\"alsoAccepted\":[\"художник\",\"маляр\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/naukovets",
+			"seen": "{\"item\":\"word:naukovets\",\"text\":\"науковець\",\"display\":\"науко́вець\",\"ipa\":\"/nauˈkɔʋɛt͡sʲ/\",\"alsoAccepted\":[\"учений\",\"вчений\",\"дослідник\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/sluzhbovets",
+			"seen": "{\"item\":\"word:sluzhbovets\",\"text\":\"службовець\",\"display\":\"службо́вець\",\"ipa\":\"/sluʒˈbɔʋɛt͡sʲ/\",\"alsoAccepted\":[\"співробітник\",\"клерк\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/prodavets",
+			"seen": "{\"item\":\"word:prodavets\",\"text\":\"продавець\",\"display\":\"продаве́ць\",\"ipa\":\"/prɔdaˈʋɛt͡sʲ/\",\"alsoAccepted\":[\"торговець\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/prodavchynya",
+			"seen": "{\"item\":\"word:prodavchynya\",\"text\":\"продавчиня\",\"display\":\"продавчи́ня\",\"ipa\":\"/prɔdaʋˈt͡ʃɪnʲa/\",\"alsoAccepted\":[\"продавщиця\",\"торговка\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/kravets",
+			"seen": "{\"item\":\"word:kravets\",\"text\":\"кравець\",\"display\":\"краве́ць\",\"ipa\":\"/kraˈʋɛt͡sʲ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/kravchynya",
+			"seen": "{\"item\":\"word:kravchynya\",\"text\":\"кравчиня\",\"display\":\"кравчи́ня\",\"ipa\":\"/kraʋˈt͡ʃɪnʲa/\",\"alsoAccepted\":[\"швачка\",\"кравчиха\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/robitnytsya",
+			"seen": "{\"item\":\"word:robitnytsya\",\"text\":\"робітниця\",\"display\":\"робітни́ця\",\"ipa\":\"/rɔbʲitˈnɪt͡sʲa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/prybyralnyk",
+			"seen": "{\"item\":\"word:prybyralnyk\",\"text\":\"прибиральник\",\"display\":\"прибира́льник\",\"ipa\":\"/prɪbɪˈralʲnɪk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/prybyralnytsya",
+			"seen": "{\"item\":\"word:prybyralnytsya\",\"text\":\"прибиральниця\",\"display\":\"прибира́льниця\",\"ipa\":\"/prɪbɪˈralʲnɪt͡sʲa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/yuryst",
+			"seen": "{\"item\":\"word:yuryst\",\"text\":\"юрист\",\"display\":\"юри́ст\",\"ipa\":\"/juˈrɪst/\",\"alsoAccepted\":[\"правник\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/pratsivnyk",
+			"seen": "{\"item\":\"word:pratsivnyk\",\"text\":\"працівник\",\"display\":\"працівни́к\",\"ipa\":\"/prat͡sʲiʋˈnɪk/\",\"alsoAccepted\":[\"співробітник\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/fakhivets",
+			"seen": "{\"item\":\"word:fakhivets\",\"text\":\"фахівець\",\"display\":\"фахіве́ць\",\"ipa\":\"/faxʲiˈʋɛt͡sʲ/\",\"alsoAccepted\":[\"спеціаліст\",\"професіонал\",\"знавець\",\"спец\",\"експерт\"]}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l10-sentences/likarem",
 			"seen": "{\"item\":\"sentence:l10:likarem\",\"text\":\"лікарем\",\"display\":\"лі́карем\",\"sentence\":\"Тара́с працю́є ___. (лі́кар)\"}",
 			"verdict": "ok"
@@ -119,6 +434,46 @@
 		{
 			"key": "core/l10-sentences/universyteti",
 			"seen": "{\"item\":\"sentence:l10:universyteti\",\"text\":\"університеті\",\"display\":\"університе́ті\",\"sentence\":\"Я працю́ю в ___. (університе́т)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/yuryst",
+			"seen": "{\"item\":\"sentence:l10:yuryst\",\"text\":\"юрист\",\"display\":\"юри́ст\",\"sentence\":\"Оста́п консульту́є люде́й із пра́ва. За фа́хом він ___.\",\"alsoAccepted\":[\"правник\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/likarka",
+			"seen": "{\"item\":\"sentence:l10:likarka\",\"text\":\"лікарка\",\"display\":\"лі́карка\",\"sentence\":\"Окса́на ліку́є люде́й. За фа́хом вона́ ___.\",\"alsoAccepted\":[\"лікар\",\"доктор\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/budivelnykom",
+			"seen": "{\"item\":\"sentence:l10:budivelnykom\",\"text\":\"будівельником\",\"display\":\"будіве́льником\",\"sentence\":\"Рома́н працю́є ___. (будіве́льник)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/prodavchyneyu",
+			"seen": "{\"item\":\"sentence:l10:prodavchyneyu\",\"text\":\"продавчинею\",\"display\":\"продавчи́нею\",\"sentence\":\"Гали́на працю́є ___. (продавчи́ня)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/pratsyuyesh",
+			"seen": "{\"item\":\"sentence:l10:pratsyuyesh\",\"text\":\"працюєш\",\"display\":\"працю́єш\",\"sentence\":\"У які́й ліка́рні ти ___? (працюва́ти)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/pratsyuyut",
+			"seen": "{\"item\":\"sentence:l10:pratsyuyut\",\"text\":\"працюють\",\"display\":\"працю́ють\",\"sentence\":\"Мої́ батьки́ ___ в о́фісі. (працюва́ти)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/robysh",
+			"seen": "{\"item\":\"sentence:l10:robysh\",\"text\":\"робиш\",\"display\":\"ро́биш\",\"sentence\":\"Що ти ___ з папе́ру? (роби́ти)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-sentences/robyte",
+			"seen": "{\"item\":\"sentence:l10:robyte\",\"text\":\"робите\",\"display\":\"ро́бите\",\"sentence\":\"Що ви ___ за́раз? (роби́ти)\"}",
 			"verdict": "ok"
 		},
 		{
@@ -427,6 +782,61 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/family-genitive-sentences",
+			"seen": "{\"title\":\"Family relationships in sentences\",\"summary\":\"Put the family noun in brackets into the genitive.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family-genitive-sentences/brata",
+			"seen": "{\"sentenceGloss\":\"The brother has a dog.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family-genitive-sentences/sestry",
+			"seen": "{\"sentenceGloss\":\"The sister has a cat.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family-genitive-sentences/titky",
+			"seen": "{\"sentenceGloss\":\"The aunt has no car.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family-genitive-sentences/didusya",
+			"seen": "{\"sentenceGloss\":\"This is a new photo of grandfather.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family-genitive-sentences/batusya",
+			"seen": "{\"sentenceGloss\":\"This is a letter for grandmother.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family-genitive-sentences/materi",
+			"seen": "{\"sentenceGloss\":\"This is mother's room.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family-genitive-sentences/svekra",
+			"seen": "{\"sentenceGloss\":\"This is my husband's father's car.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family-genitive-sentences/testya",
+			"seen": "{\"sentenceGloss\":\"This is the key to my wife's father's house.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family-genitive",
+			"seen": "{\"title\":\"Family: of whom?\",\"summary\":\"The genitive names a relationship or possession. Learn each form rather than applying one ending to every noun.\",\"headers\":{\"mama\":\"ма́ма\",\"tato\":\"та́то\",\"batko\":\"ба́тько\",\"maty\":\"ма́ти\",\"brat\":\"брат\",\"sestra\":\"сестра́\",\"titka\":\"ті́тка\",\"dyadko\":\"дя́дько\",\"didus\":\"діду́сь\",\"babusya\":\"бабу́ся\",\"svekor\":\"све́кор\",\"test\":\"тесть\",\"svekrukha\":\"свекру́ха\",\"teshcha\":\"те́ща\",\"gen\":\"genitive singular: of whom?\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/family-genitive/svekor",
+			"seen": "{\"note\":\"In the genitive, о drops: све́кор → све́кра.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/l09-sentences",
 			"seen": "{\"title\":\"Family sentences\",\"summary\":\"Use the pronoun in brackets to identify the owner, then agree with the family noun.\"}",
 			"verdict": "ok"
@@ -492,8 +902,218 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/l09-words",
+			"seen": "{\"title\":\"Family, marriage and generations\",\"summary\":\"More family words: relatives, marriage, generations and the two sides of the family by marriage.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/simya",
+			"seen": "{\"clue\":\"family household; immediate family\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/rid",
+			"seen": "{\"clue\":\"lineage; family line\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/ridnya",
+			"seen": "{\"clue\":\"extended relatives; kin, including distant relations\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/rodych",
+			"seen": "{\"clue\":\"a relative (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/vesillya",
+			"seen": "{\"clue\":\"wedding celebration\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/shlyub",
+			"seen": "{\"clue\":\"marriage; marital union\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/druzhyna",
+			"seen": "{\"clue\":\"wife\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/pradidus",
+			"seen": "{\"clue\":\"great-grandfather\",\"note\":\"The Krymskyi/Yefremov dictionary stresses the first syllable: пра́дідусь. This board follows that dictionary; the course notes place the stress differently.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/prababusya",
+			"seen": "{\"clue\":\"great-grandmother\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/pleminnyk",
+			"seen": "{\"clue\":\"nephew\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/pleminnytsya",
+			"seen": "{\"clue\":\"niece\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/svekor",
+			"seen": "{\"clue\":\"husband's father\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/svekrukha",
+			"seen": "{\"clue\":\"husband's mother\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/test",
+			"seen": "{\"clue\":\"wife's father\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/teshcha",
+			"seen": "{\"clue\":\"wife's mother\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/pokolinnya",
+			"seen": "{\"clue\":\"generation\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l09-words/dity",
+			"seen": "{\"clue\":\"children\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations",
+			"seen": "{\"title\":\"More occupations\",\"summary\":\"Names of occupations and roles found in the source lesson, including feminine forms. Grammatical gender is part of each clue.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/shakhtar",
+			"seen": "{\"clue\":\"miner (masculine noun)\",\"note\":\"Related words: шахта → шахта́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/bibliotekar",
+			"seen": "{\"clue\":\"librarian (masculine noun)\",\"note\":\"Related words: бібліотека → бібліоте́кар.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/bdzholyar",
+			"seen": "{\"clue\":\"beekeeper (masculine noun)\",\"note\":\"Related words: бджола → бджоля́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/betonyar",
+			"seen": "{\"clue\":\"concrete worker (masculine noun)\",\"note\":\"Related words: бетон → бетоня́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/smittyar",
+			"seen": "{\"clue\":\"refuse collector (masculine noun)\",\"note\":\"Related words: сміття → сміття́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/budivelnyk",
+			"seen": "{\"clue\":\"construction worker (masculine noun)\",\"note\":\"Related words: будівля → будіве́льник.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/robitnyk",
+			"seen": "{\"clue\":\"manual worker (masculine noun)\",\"note\":\"Related words: робити → робітни́к.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/sadivnyk",
+			"seen": "{\"clue\":\"gardener (masculine noun)\",\"note\":\"Related words: сад → садівни́к.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/siyach",
+			"seen": "{\"clue\":\"sower (masculine noun)\",\"note\":\"Related words: сіяти → сія́ч.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/prohramist",
+			"seen": "{\"clue\":\"programmer (masculine noun)\",\"note\":\"Related words: програма → програмі́ст.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/zhyvopysets",
+			"seen": "{\"clue\":\"painter of pictures (masculine noun)\",\"note\":\"Related words: живопис → живопи́сець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/naukovets",
+			"seen": "{\"clue\":\"scientist; researcher (masculine noun)\",\"note\":\"Related words: наука → науко́вець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/sluzhbovets",
+			"seen": "{\"clue\":\"salaried office employee (masculine noun)\",\"note\":\"Related words: служба → службо́вець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/prodavets",
+			"seen": "{\"clue\":\"seller (masculine noun)\",\"note\":\"Related words: продавати → продаве́ць.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/prodavchynya",
+			"seen": "{\"clue\":\"seller (feminine noun)\",\"note\":\"Related words: продавець → продавчи́ня.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/kravets",
+			"seen": "{\"clue\":\"tailor (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/kravchynya",
+			"seen": "{\"clue\":\"tailor (feminine noun)\",\"note\":\"Related words: кравець → кравчи́ня.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/robitnytsya",
+			"seen": "{\"clue\":\"manual worker (feminine noun)\",\"note\":\"Related words: робітник → робітни́ця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/prybyralnyk",
+			"seen": "{\"clue\":\"cleaner (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/prybyralnytsya",
+			"seen": "{\"clue\":\"cleaner (feminine noun)\",\"note\":\"Related words: прибиральник → прибира́льниця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/yuryst",
+			"seen": "{\"clue\":\"lawyer (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/pratsivnyk",
+			"seen": "{\"clue\":\"employee; worker (general masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-occupations/fakhivets",
+			"seen": "{\"clue\":\"specialist (masculine noun)\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/l10-sentences",
-			"seen": "{\"title\":\"Working as someone, working somewhere\",\"summary\":\"Put the bracketed noun into the sentence. Працювати takes the instrumental for a profession; в or на takes the locative for a workplace.\"}",
+			"seen": "{\"title\":\"Working as someone, working somewhere\",\"summary\":\"Use the lemma in brackets. A profession after працювати takes the instrumental; a workplace uses the locative; за фахом with no verb uses the nominative. Робити is to do or make, працювати is to work.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -557,13 +1177,53 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/l10-sentences/yuryst",
+			"seen": "{\"sentenceGloss\":\"Ostap advises people on legal matters. He is a lawyer by profession.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/likarka",
+			"seen": "{\"sentenceGloss\":\"Oksana treats people. She is a doctor by profession.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/budivelnykom",
+			"seen": "{\"sentenceGloss\":\"Roman works as a construction worker.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/prodavchyneyu",
+			"seen": "{\"sentenceGloss\":\"Halyna works as a seller.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/pratsyuyesh",
+			"seen": "{\"sentenceGloss\":\"Which hospital do you work in?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/pratsyuyut",
+			"seen": "{\"sentenceGloss\":\"My parents work in an office.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/robysh",
+			"seen": "{\"sentenceGloss\":\"What are you making out of paper?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l10-sentences/robyte",
+			"seen": "{\"sentenceGloss\":\"What are you doing now?\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/l10-words",
 			"seen": "{\"title\":\"Professions and work\",\"summary\":\"Occupation nouns in masculine and feminine forms, then four words about working life. The clue specifies grammatical gender, not who may hold the job.\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "en/l10-words/likar",
-			"seen": "{\"clue\":\"doctor (masculine noun)\"}",
+			"seen": "{\"clue\":\"doctor (masculine noun)\",\"note\":\"Use лікар as the course form. Dictionaries also record доктор for a physician as colloquial, so typing it is accepted here; it can also name an academic degree.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -757,6 +1417,61 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/family-genitive-sentences",
+			"seen": "{\"title\":\"Pokrewieństwo w zdaniach\",\"summary\":\"Wstaw nazwę krewnego z nawiasu w dopełniaczu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family-genitive-sentences/brata",
+			"seen": "{\"sentenceGloss\":\"Brat ma psa.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family-genitive-sentences/sestry",
+			"seen": "{\"sentenceGloss\":\"Siostra ma kota.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family-genitive-sentences/titky",
+			"seen": "{\"sentenceGloss\":\"Ciocia nie ma samochodu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family-genitive-sentences/didusya",
+			"seen": "{\"sentenceGloss\":\"To nowe zdjęcie dziadka.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family-genitive-sentences/batusya",
+			"seen": "{\"sentenceGloss\":\"To list dla babci.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family-genitive-sentences/materi",
+			"seen": "{\"sentenceGloss\":\"To pokój matki.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family-genitive-sentences/svekra",
+			"seen": "{\"sentenceGloss\":\"To samochód ojca męża.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family-genitive-sentences/testya",
+			"seen": "{\"sentenceGloss\":\"To klucz do domu ojca żony.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family-genitive",
+			"seen": "{\"title\":\"Rodzina: kogo?\",\"summary\":\"Dopełniacz wskazuje pokrewieństwo lub przynależność. Każda forma wymaga uwagi; nie ma jednej końcówki dla wszystkich rzeczowników.\",\"headers\":{\"mama\":\"ма́ма\",\"tato\":\"та́то\",\"batko\":\"ба́тько\",\"maty\":\"ма́ти\",\"brat\":\"брат\",\"sestra\":\"сестра́\",\"titka\":\"ті́тка\",\"dyadko\":\"дя́дько\",\"didus\":\"діду́сь\",\"babusya\":\"бабу́ся\",\"svekor\":\"све́кор\",\"test\":\"тесть\",\"svekrukha\":\"свекру́ха\",\"teshcha\":\"те́ща\",\"gen\":\"dopełniacz lp.: kogo?\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/family-genitive/svekor",
+			"seen": "{\"note\":\"W dopełniaczu wypada о: све́кор → све́кра.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/l09-sentences",
 			"seen": "{\"title\":\"Zdania o rodzinie\",\"summary\":\"Zaimek w nawiasie wskazuje właściciela; brakująca forma zgadza się z nazwą członka rodziny.\"}",
 			"verdict": "ok"
@@ -822,8 +1537,218 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/l09-words",
+			"seen": "{\"title\":\"Rodzina, małżeństwo i pokolenia\",\"summary\":\"Krewni, małżeństwo, pokolenia oraz rodzina ze strony męża i żony.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/simya",
+			"seen": "{\"clue\":\"rodzina; wspólne życie najbliższych\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/rid",
+			"seen": "{\"clue\":\"ród; linia pokoleń\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/ridnya",
+			"seen": "{\"clue\":\"ogół krewnych, także dalekich\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/rodych",
+			"seen": "{\"clue\":\"krewny (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/vesillya",
+			"seen": "{\"clue\":\"wesele; uroczystość\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/shlyub",
+			"seen": "{\"clue\":\"małżeństwo\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/druzhyna",
+			"seen": "{\"clue\":\"żona\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/pradidus",
+			"seen": "{\"clue\":\"pradziadek\",\"note\":\"Słownik Krymskiego/Jefremowa akcentuje pierwszą sylabę: пра́дідусь. Ta plansza opiera się na słowniku; notatki kursu podają inny akcent.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/prababusya",
+			"seen": "{\"clue\":\"prababcia\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/pleminnyk",
+			"seen": "{\"clue\":\"siostrzeniec lub bratanek\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/pleminnytsya",
+			"seen": "{\"clue\":\"siostrzenica lub bratanica\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/svekor",
+			"seen": "{\"clue\":\"teść: ojciec męża\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/svekrukha",
+			"seen": "{\"clue\":\"teściowa: matka męża\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/test",
+			"seen": "{\"clue\":\"teść: ojciec żony\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/teshcha",
+			"seen": "{\"clue\":\"teściowa: matka żony\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/pokolinnya",
+			"seen": "{\"clue\":\"pokolenie\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l09-words/dity",
+			"seen": "{\"clue\":\"dzieci\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations",
+			"seen": "{\"title\":\"Więcej zawodów\",\"summary\":\"Nazwy zajęć z lekcji źródłowej, w tym formy żeńskie. Rodzaj gramatyczny jest częścią wskazówki.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/shakhtar",
+			"seen": "{\"clue\":\"górnik (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: шахта → шахта́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/bibliotekar",
+			"seen": "{\"clue\":\"bibliotekarz (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: бібліотека → бібліоте́кар.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/bdzholyar",
+			"seen": "{\"clue\":\"pszczelarz (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: бджола → бджоля́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/betonyar",
+			"seen": "{\"clue\":\"betoniarz (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: бетон → бетоня́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/smittyar",
+			"seen": "{\"clue\":\"śmieciarz (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: сміття → сміття́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/budivelnyk",
+			"seen": "{\"clue\":\"budowniczy (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: будівля → будіве́льник.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/robitnyk",
+			"seen": "{\"clue\":\"robotnik (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: робити → робітни́к.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/sadivnyk",
+			"seen": "{\"clue\":\"ogrodnik (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: сад → садівни́к.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/siyach",
+			"seen": "{\"clue\":\"siewca (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: сіяти → сія́ч.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/prohramist",
+			"seen": "{\"clue\":\"programista (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: програма → програмі́ст.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/zhyvopysets",
+			"seen": "{\"clue\":\"malarz obrazów (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: живопис → живопи́сець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/naukovets",
+			"seen": "{\"clue\":\"naukowiec (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: наука → науко́вець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/sluzhbovets",
+			"seen": "{\"clue\":\"pracownik biurowy (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: служба → службо́вець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/prodavets",
+			"seen": "{\"clue\":\"sprzedawca (rodzaj męski)\",\"note\":\"Wyrazy pokrewne: продавати → продаве́ць.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/prodavchynya",
+			"seen": "{\"clue\":\"sprzedawczyni (rodzaj żeński)\",\"note\":\"Wyrazy pokrewne: продавець → продавчи́ня.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/kravets",
+			"seen": "{\"clue\":\"krawiec (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/kravchynya",
+			"seen": "{\"clue\":\"krawcowa (rodzaj żeński)\",\"note\":\"Wyrazy pokrewne: кравець → кравчи́ня.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/robitnytsya",
+			"seen": "{\"clue\":\"robotnica (rodzaj żeński)\",\"note\":\"Wyrazy pokrewne: робітник → робітни́ця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/prybyralnyk",
+			"seen": "{\"clue\":\"sprzątacz (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/prybyralnytsya",
+			"seen": "{\"clue\":\"sprzątaczka (rodzaj żeński)\",\"note\":\"Wyrazy pokrewne: прибиральник → прибира́льниця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/yuryst",
+			"seen": "{\"clue\":\"prawnik (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/pratsivnyk",
+			"seen": "{\"clue\":\"pracownik (ogólna nazwa, rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-occupations/fakhivets",
+			"seen": "{\"clue\":\"specjalista (rodzaj męski)\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/l10-sentences",
-			"seen": "{\"title\":\"Pracować jako ktoś, pracować gdzieś\",\"summary\":\"Wstaw odpowiednią formę rzeczownika z nawiasu. Po працювати nazwa zawodu występuje w narzędniku; miejsce pracy po в lub на wymaga miejscownika.\"}",
+			"seen": "{\"title\":\"Pracować jako ktoś, pracować gdzieś\",\"summary\":\"Odmień wyraz z nawiasu. Zawód po працювати wymaga narzędnika, miejsce pracy — miejscownika. Po за фахом w zdaniu bez czasownika jest mianownik. Робити znaczy robić, працювати — pracować.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -887,13 +1812,53 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/l10-sentences/yuryst",
+			"seen": "{\"sentenceGloss\":\"Ostap udziela porad prawnych. Z zawodu jest prawnikiem.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/likarka",
+			"seen": "{\"sentenceGloss\":\"Oksana leczy ludzi. Z zawodu jest lekarką.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/budivelnykom",
+			"seen": "{\"sentenceGloss\":\"Roman pracuje jako budowniczy.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/prodavchyneyu",
+			"seen": "{\"sentenceGloss\":\"Hałyna pracuje jako sprzedawczyni.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/pratsyuyesh",
+			"seen": "{\"sentenceGloss\":\"W którym szpitalu pracujesz?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/pratsyuyut",
+			"seen": "{\"sentenceGloss\":\"Moi rodzice pracują w biurze.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/robysh",
+			"seen": "{\"sentenceGloss\":\"Co robisz z papieru?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l10-sentences/robyte",
+			"seen": "{\"sentenceGloss\":\"Co teraz robicie?\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/l10-words",
 			"seen": "{\"title\":\"Zawody i praca\",\"summary\":\"Męskie i żeńskie nazwy zajęć oraz cztery słowa o pracy. Wskazany rodzaj dotyczy formy rzeczownika, nie tego, kto może wykonywać zawód.\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "pl/l10-words/likar",
-			"seen": "{\"clue\":\"lekarz (rodzaj męski)\"}",
+			"seen": "{\"clue\":\"lekarz (rodzaj męski)\",\"note\":\"Forma zalecana w kursie to лікар. Słowniki notują też potoczne доктор w znaczeniu lekarza, więc ta odpowiedź jest przyjmowana; wyraz oznacza również stopień naukowy.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1082,6 +2047,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-en/l09-words/druzhyna",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"drużyna\",\"means\":\"Polish drużyna means a team. Here Ukrainian дружина means a wife.\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-en/possessives/my.pl",
 			"seen": "{\"contrast\":\"Polish distinguishes moi and moje in the plural. Ukrainian uses мої for every gender: мої брати, мої сестри.\"}",
 			"verdict": "ok"
@@ -1092,6 +2062,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl-pl/l09-words/druzhyna",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"drużyna\",\"means\":\"Polskie drużyna to zespół. W tej lekcji ukraińskie дружина znaczy żona.\"}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl-pl/possessives/my.pl",
 			"seen": "{\"contrast\":\"Polski rozróżnia moi i moje. Ukraińskie мої jest wspólne dla wszystkich rodzajów w liczbie mnogiej: мої брати, мої сестри.\"}",
 			"verdict": "ok"
@@ -1099,6 +2074,11 @@
 		{
 			"key": "pl-pl/possessives/his.f",
 			"seen": "{\"contrast\":\"Tak jak polskie jego, ukraińskie його nie zmienia się nawet przed rzeczownikiem żeńskim.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l09-words/druzhyna",
+			"seen": "{\"falseFriend\":{\"kind\":\"partial\",\"form\":\"drużyna\",\"means\":\"Польське drużyna означає команду. У цій вправі українське дружина означає одружену жінку стосовно її чоловіка.\"}}",
 			"verdict": "ok"
 		},
 		{
@@ -1114,6 +2094,61 @@
 		{
 			"key": "ru/lesson/l10",
 			"seen": "\"Урок 10: Моя профессия\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive-sentences",
+			"seen": "{\"title\":\"Родственные связи в предложениях\",\"summary\":\"Поставьте название родственника из скобок в родительный падеж.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive-sentences/brata",
+			"seen": "{\"sentenceGloss\":\"У брата есть собака.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive-sentences/sestry",
+			"seen": "{\"sentenceGloss\":\"У сестры есть кот.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive-sentences/titky",
+			"seen": "{\"sentenceGloss\":\"У тёти нет машины.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive-sentences/didusya",
+			"seen": "{\"sentenceGloss\":\"Это новое фото дедушки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive-sentences/batusya",
+			"seen": "{\"sentenceGloss\":\"Это письмо для бабушки.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive-sentences/materi",
+			"seen": "{\"sentenceGloss\":\"Это комната матери.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive-sentences/svekra",
+			"seen": "{\"sentenceGloss\":\"Это машина свёкра.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive-sentences/testya",
+			"seen": "{\"sentenceGloss\":\"Это ключ от дома тестя.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive",
+			"seen": "{\"title\":\"Родня: кого?\",\"summary\":\"Родительный падеж выражает родство или принадлежность. Изучайте формы: одного общего окончания нет.\",\"headers\":{\"mama\":\"ма́ма\",\"tato\":\"та́то\",\"batko\":\"ба́тько\",\"maty\":\"ма́ти\",\"brat\":\"брат\",\"sestra\":\"сестра́\",\"titka\":\"ті́тка\",\"dyadko\":\"дя́дько\",\"didus\":\"діду́сь\",\"babusya\":\"бабу́ся\",\"svekor\":\"све́кор\",\"test\":\"тесть\",\"svekrukha\":\"свекру́ха\",\"teshcha\":\"те́ща\",\"gen\":\"родительный, ед.: кого?\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/family-genitive/svekor",
+			"seen": "{\"note\":\"В родительном падеже выпадает о: све́кор → све́кра.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1182,8 +2217,218 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/l09-words",
+			"seen": "{\"title\":\"Родня, брак и поколения\",\"summary\":\"Родня, супружество, поколения и родственники со стороны мужа и жены.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/simya",
+			"seen": "{\"clue\":\"семья; близкие, живущие вместе\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/rid",
+			"seen": "{\"clue\":\"род; линия поколений\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/ridnya",
+			"seen": "{\"clue\":\"вся родня, в том числе дальние родственники\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/rodych",
+			"seen": "{\"clue\":\"родственник (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/vesillya",
+			"seen": "{\"clue\":\"свадьба; празднование\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/shlyub",
+			"seen": "{\"clue\":\"брак; супружество\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/druzhyna",
+			"seen": "{\"clue\":\"жена\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/pradidus",
+			"seen": "{\"clue\":\"прадедушка\",\"note\":\"Словарь Крымского/Ефремова даёт ударение на первом слоге: пра́дідусь. Здесь следуем словарю; в конспекте курса ударение стоит иначе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/prababusya",
+			"seen": "{\"clue\":\"прабабушка\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/pleminnyk",
+			"seen": "{\"clue\":\"племянник\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/pleminnytsya",
+			"seen": "{\"clue\":\"племянница\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/svekor",
+			"seen": "{\"clue\":\"свёкор; отец мужа\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/svekrukha",
+			"seen": "{\"clue\":\"свекровь; мать мужа\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/test",
+			"seen": "{\"clue\":\"тесть; отец жены\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/teshcha",
+			"seen": "{\"clue\":\"тёща; мать жены\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/pokolinnya",
+			"seen": "{\"clue\":\"поколение\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l09-words/dity",
+			"seen": "{\"clue\":\"дети\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations",
+			"seen": "{\"title\":\"Ещё профессии\",\"summary\":\"Названия занятий из исходного урока, в том числе формы женского рода. Подсказка задаёт грамматический род.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/shakhtar",
+			"seen": "{\"clue\":\"шахтёр (мужской род)\",\"note\":\"Родственные слова: шахта → шахта́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/bibliotekar",
+			"seen": "{\"clue\":\"библиотекарь (мужской род)\",\"note\":\"Родственные слова: бібліотека → бібліоте́кар.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/bdzholyar",
+			"seen": "{\"clue\":\"пчеловод (мужской род)\",\"note\":\"Родственные слова: бджола → бджоля́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/betonyar",
+			"seen": "{\"clue\":\"бетонщик (мужской род)\",\"note\":\"Родственные слова: бетон → бетоня́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/smittyar",
+			"seen": "{\"clue\":\"мусорщик (мужской род)\",\"note\":\"Родственные слова: сміття → сміття́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/budivelnyk",
+			"seen": "{\"clue\":\"строитель (мужской род)\",\"note\":\"Родственные слова: будівля → будіве́льник.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/robitnyk",
+			"seen": "{\"clue\":\"рабочий (мужской род)\",\"note\":\"Родственные слова: робити → робітни́к.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/sadivnyk",
+			"seen": "{\"clue\":\"садовник (мужской род)\",\"note\":\"Родственные слова: сад → садівни́к.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/siyach",
+			"seen": "{\"clue\":\"сеятель (мужской род)\",\"note\":\"Родственные слова: сіяти → сія́ч.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/prohramist",
+			"seen": "{\"clue\":\"программист (мужской род)\",\"note\":\"Родственные слова: програма → програмі́ст.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/zhyvopysets",
+			"seen": "{\"clue\":\"живописец (мужской род)\",\"note\":\"Родственные слова: живопис → живопи́сець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/naukovets",
+			"seen": "{\"clue\":\"учёный; исследователь (мужской род)\",\"note\":\"Родственные слова: наука → науко́вець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/sluzhbovets",
+			"seen": "{\"clue\":\"служащий (мужской род)\",\"note\":\"Родственные слова: служба → службо́вець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/prodavets",
+			"seen": "{\"clue\":\"продавец (мужской род)\",\"note\":\"Родственные слова: продавати → продаве́ць.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/prodavchynya",
+			"seen": "{\"clue\":\"продавщица (женский род)\",\"note\":\"Родственные слова: продавець → продавчи́ня.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/kravets",
+			"seen": "{\"clue\":\"портной (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/kravchynya",
+			"seen": "{\"clue\":\"портниха (женский род)\",\"note\":\"Родственные слова: кравець → кравчи́ня.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/robitnytsya",
+			"seen": "{\"clue\":\"рабочая (женский род)\",\"note\":\"Родственные слова: робітник → робітни́ця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/prybyralnyk",
+			"seen": "{\"clue\":\"уборщик (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/prybyralnytsya",
+			"seen": "{\"clue\":\"уборщица (женский род)\",\"note\":\"Родственные слова: прибиральник → прибира́льниця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/yuryst",
+			"seen": "{\"clue\":\"юрист (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/pratsivnyk",
+			"seen": "{\"clue\":\"работник (общее название, мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-occupations/fakhivets",
+			"seen": "{\"clue\":\"специалист (мужской род)\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/l10-sentences",
-			"seen": "{\"title\":\"Кем и где работать\",\"summary\":\"Поставьте существительное из скобок в нужную форму. После працювати название профессии стоит в творительном падеже; место работы с в или на — в местном.\"}",
+			"seen": "{\"title\":\"Кем и где работать\",\"summary\":\"Измените слово из скобок. Название профессии после працювати — в творительном; место работы — в местном. С за фахом без глагола название профессии стоит в именительном. Робити — делать, працювати — работать.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1247,13 +2492,53 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/l10-sentences/yuryst",
+			"seen": "{\"sentenceGloss\":\"Остап консультирует людей по правовым вопросам. По профессии он юрист.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/likarka",
+			"seen": "{\"sentenceGloss\":\"Оксана лечит людей. По профессии она врач.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/budivelnykom",
+			"seen": "{\"sentenceGloss\":\"Роман работает строителем.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/prodavchyneyu",
+			"seen": "{\"sentenceGloss\":\"Галина работает продавщицей.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/pratsyuyesh",
+			"seen": "{\"sentenceGloss\":\"В какой больнице ты работаешь?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/pratsyuyut",
+			"seen": "{\"sentenceGloss\":\"Мои родители работают в офисе.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/robysh",
+			"seen": "{\"sentenceGloss\":\"Что ты делаешь из бумаги?\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l10-sentences/robyte",
+			"seen": "{\"sentenceGloss\":\"Что вы делаете сейчас?\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/l10-words",
 			"seen": "{\"title\":\"Профессии и работа\",\"summary\":\"Названия занятий в мужском и женском роде и четыре слова о работе. Подсказка задаёт грамматический род, а не пол людей, которым доступна профессия.\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "ru/l10-words/likar",
-			"seen": "{\"clue\":\"врач (мужской род)\"}",
+			"seen": "{\"clue\":\"врач (мужской род)\",\"note\":\"Основная форма курса — лікар. Словари отмечают доктор в значении врача как разговорное, поэтому при вводе оно принимается; слово также обозначает учёную степень.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1477,6 +2762,61 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/family-genitive-sentences",
+			"seen": "{\"title\":\"Родинні зв’язки в реченнях\",\"summary\":\"Поставте назву родича з дужок у родовому відмінку.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family-genitive-sentences/brata",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family-genitive-sentences/sestry",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family-genitive-sentences/titky",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family-genitive-sentences/didusya",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family-genitive-sentences/batusya",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family-genitive-sentences/materi",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family-genitive-sentences/svekra",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family-genitive-sentences/testya",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family-genitive",
+			"seen": "{\"title\":\"Родина: кого?\",\"summary\":\"Родовий відмінок указує на родинний зв’язок або належність. Вивчайте форми: одного спільного закінчення немає.\",\"headers\":{\"mama\":\"ма́ма\",\"tato\":\"та́то\",\"batko\":\"ба́тько\",\"maty\":\"ма́ти\",\"brat\":\"брат\",\"sestra\":\"сестра́\",\"titka\":\"ті́тка\",\"dyadko\":\"дя́дько\",\"didus\":\"діду́сь\",\"babusya\":\"бабу́ся\",\"svekor\":\"све́кор\",\"test\":\"тесть\",\"svekrukha\":\"свекру́ха\",\"teshcha\":\"те́ща\",\"gen\":\"родовий однини: кого?\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/family-genitive/svekor",
+			"seen": "{\"note\":\"У родовому відмінку випадає о: све́кор → све́кра.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/l09-sentences",
 			"seen": "{\"title\":\"Речення про родину\",\"summary\":\"Займенник у дужках указує на власника; форму в пропуску узгодьте з назвою родича.\"}",
 			"verdict": "ok"
@@ -1542,8 +2882,218 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/l09-words",
+			"seen": "{\"title\":\"Родина, шлюб і покоління\",\"summary\":\"Родичі, шлюб, покоління та родина з боку чоловіка й дружини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/simya",
+			"seen": "{\"clue\":\"Близькі люди, поєднані шлюбом або походженням, які живуть разом.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/rid",
+			"seen": "{\"clue\":\"Ряд поколінь, що походять від спільного предка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/ridnya",
+			"seen": "{\"clue\":\"Люди, пов’язані з вами походженням чи шлюбом, зокрема далекі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/rodych",
+			"seen": "{\"clue\":\"Чоловік, пов'язаний з іншою людиною спільним походженням або шлюбом.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/vesillya",
+			"seen": "{\"clue\":\"Святкування одруження.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/shlyub",
+			"seen": "{\"clue\":\"Сімейний союз двох людей.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/druzhyna",
+			"seen": "{\"clue\":\"Заміжня жінка стосовно свого чоловіка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/pradidus",
+			"seen": "{\"clue\":\"Батько дідуся або бабусі.\",\"note\":\"Словник Кримського/Єфремова наголошує перший склад: пра́дідусь. Ця вправа спирається на словник; у конспекті курсу наголос інший.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/prababusya",
+			"seen": "{\"clue\":\"Мати дідуся або бабусі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/pleminnyk",
+			"seen": "{\"clue\":\"Син брата або сестри.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/pleminnytsya",
+			"seen": "{\"clue\":\"Дочка брата або сестри.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/svekor",
+			"seen": "{\"clue\":\"Батько чоловіка стосовно його дружини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/svekrukha",
+			"seen": "{\"clue\":\"Мати чоловіка стосовно його дружини.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/test",
+			"seen": "{\"clue\":\"Батько дружини стосовно її чоловіка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/teshcha",
+			"seen": "{\"clue\":\"Мати дружини стосовно її чоловіка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/pokolinnya",
+			"seen": "{\"clue\":\"Люди близького віку в ряді предків і нащадків.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l09-words/dity",
+			"seen": "{\"clue\":\"Множина: сини й дочки або ще не дорослі люди.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations",
+			"seen": "{\"title\":\"Ще назви занять\",\"summary\":\"Назви занять з вихідного уроку, зокрема форми жіночого роду. Підказка задає граматичний рід.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/shakhtar",
+			"seen": "{\"clue\":\"Працівник, що видобуває корисні копалини під землею.\",\"note\":\"Споріднені слова: шахта → шахта́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/bibliotekar",
+			"seen": "{\"clue\":\"Той, хто видає читачам книжки у книгозбірні; іменник чоловічого роду.\",\"note\":\"Споріднені слова: бібліотека → бібліоте́кар.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/bdzholyar",
+			"seen": "{\"clue\":\"Той, хто розводить комах, які дають мед; іменник чоловічого роду.\",\"note\":\"Споріднені слова: бджола → бджоля́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/betonyar",
+			"seen": "{\"clue\":\"Робітник, що готує й укладає матеріал із цементу, піску та щебеню.\",\"note\":\"Споріднені слова: бетон → бетоня́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/smittyar",
+			"seen": "{\"clue\":\"Той, хто прибирає й вивозить відходи; іменник чоловічого роду.\",\"note\":\"Споріднені слова: сміття → сміття́р.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/budivelnyk",
+			"seen": "{\"clue\":\"Той, хто зводить будинки та інші споруди; іменник чоловічого роду.\",\"note\":\"Споріднені слова: будівля → будіве́льник.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/robitnyk",
+			"seen": "{\"clue\":\"Той, хто виконує фізичну виробничу діяльність; іменник чоловічого роду.\",\"note\":\"Споріднені слова: робити → робітни́к.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/sadivnyk",
+			"seen": "{\"clue\":\"Той, хто вирощує дерева й інші рослини та доглядає їх; іменник чоловічого роду.\",\"note\":\"Споріднені слова: сад → садівни́к.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/siyach",
+			"seen": "{\"clue\":\"Той, хто розкидає або закладає насіння в землю; іменник чоловічого роду.\",\"note\":\"Споріднені слова: сіяти → сія́ч.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/prohramist",
+			"seen": "{\"clue\":\"Той, хто створює код для комп'ютерів; іменник чоловічого роду.\",\"note\":\"Споріднені слова: програма → програмі́ст.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/zhyvopysets",
+			"seen": "{\"clue\":\"Той, хто створює картини фарбами; іменник чоловічого роду.\",\"note\":\"Споріднені слова: живопис → живопи́сець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/naukovets",
+			"seen": "{\"clue\":\"Той, хто фахово досліджує світ і здобуває нові знання; іменник чоловічого роду.\",\"note\":\"Споріднені слова: наука → науко́вець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/sluzhbovets",
+			"seen": "{\"clue\":\"Той, хто виконує службові обов'язки в установі; іменник чоловічого роду.\",\"note\":\"Споріднені слова: служба → службо́вець.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/prodavets",
+			"seen": "{\"clue\":\"Той, хто віддає товари покупцям за гроші; іменник чоловічого роду.\",\"note\":\"Споріднені слова: продавати → продаве́ць.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/prodavchynya",
+			"seen": "{\"clue\":\"Та, хто віддає товари покупцям за гроші; іменник жіночого роду.\",\"note\":\"Споріднені слова: продавець → продавчи́ня.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/kravets",
+			"seen": "{\"clue\":\"Той, хто шиє одяг; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/kravchynya",
+			"seen": "{\"clue\":\"Та, хто шиє одяг; іменник жіночого роду.\",\"note\":\"Споріднені слова: кравець → кравчи́ня.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/robitnytsya",
+			"seen": "{\"clue\":\"Та, хто виконує фізичну виробничу діяльність; іменник жіночого роду.\",\"note\":\"Споріднені слова: робітник → робітни́ця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/prybyralnyk",
+			"seen": "{\"clue\":\"Той, хто підтримує чистоту в приміщеннях; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/prybyralnytsya",
+			"seen": "{\"clue\":\"Та, хто підтримує чистоту в приміщеннях; іменник жіночого роду.\",\"note\":\"Споріднені слова: прибиральник → прибира́льниця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/yuryst",
+			"seen": "{\"clue\":\"Фахівець із права; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/pratsivnyk",
+			"seen": "{\"clue\":\"Той, хто виконує оплачувану діяльність; загальна назва в чоловічому роді.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-occupations/fakhivets",
+			"seen": "{\"clue\":\"Людина з глибокими знаннями й уміннями в певній галузі; іменник чоловічого роду.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/l10-sentences",
-			"seen": "{\"title\":\"Ким і де працювати\",\"summary\":\"Поставте іменник із дужок у потрібну форму. Після працювати назва фаху стоїть в орудному відмінку; місце роботи з в або на — у місцевому.\"}",
+			"seen": "{\"title\":\"Ким і де працювати\",\"summary\":\"Змініть слово з дужок. Фах після працювати стоїть в орудному, місце роботи — у місцевому. У конструкції за фахом без дієслова назва фаху стоїть в називному. Робити — виконувати дію або створювати щось; працювати — займатися працею.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1607,13 +3157,53 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "uk/l10-sentences/yuryst",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/likarka",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/budivelnykom",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/prodavchyneyu",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/pratsyuyesh",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/pratsyuyut",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/robysh",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l10-sentences/robyte",
+			"seen": "{}",
+			"verdict": "ok"
+		},
+		{
 			"key": "uk/l10-words",
 			"seen": "{\"title\":\"Професії та робота\",\"summary\":\"Назви занять у чоловічому й жіночому роді та чотири слова про працю. Підказка задає граматичний рід, а не обмежує, хто може працювати за фахом.\"}",
 			"verdict": "ok"
 		},
 		{
 			"key": "uk/l10-words/likar",
-			"seen": "{\"clue\":\"Назва фаху медика, іменник чоловічого роду.\"}",
+			"seen": "{\"clue\":\"Назва фаху медика, іменник чоловічого роду.\",\"note\":\"Основна форма курсу — лікар. Словники подають доктор у значенні медика як розмовне, тому під час введення його приймаємо; слово також означає науковий ступінь.\"}",
 			"verdict": "ok"
 		},
 		{

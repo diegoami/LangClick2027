@@ -1,6 +1,6 @@
 {
 	"title": "Working as someone, working somewhere",
-	"summary": "Put the bracketed noun into the sentence. Працювати takes the instrumental for a profession; в or на takes the locative for a workplace.",
+	"summary": "Use the lemma in brackets. A profession after працювати takes the instrumental; a workplace uses the locative; за фахом with no verb uses the nominative. Робити is to do or make, працювати is to work.",
 	"cells": {
 		"likarem": {
 			"sentenceGloss": "Taras works as a doctor."
@@ -37,6 +37,30 @@
 		},
 		"universyteti": {
 			"sentenceGloss": "I work at a university."
+		},
+		"yuryst": {
+			"sentenceGloss": "Ostap advises people on legal matters. He is a lawyer by profession."
+		},
+		"likarka": {
+			"sentenceGloss": "Oksana treats people. She is a doctor by profession."
+		},
+		"budivelnykom": {
+			"sentenceGloss": "Roman works as a construction worker."
+		},
+		"prodavchyneyu": {
+			"sentenceGloss": "Halyna works as a seller."
+		},
+		"pratsyuyesh": {
+			"sentenceGloss": "Which hospital do you work in?"
+		},
+		"pratsyuyut": {
+			"sentenceGloss": "My parents work in an office."
+		},
+		"robysh": {
+			"sentenceGloss": "What are you making out of paper?"
+		},
+		"robyte": {
+			"sentenceGloss": "What are you doing now?"
 		}
 	}
 }

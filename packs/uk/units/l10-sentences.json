@@ -4,7 +4,7 @@
 	"dealAll": true,
 	"layout": {
 		"type": "sentences",
-		"size": 12
+		"size": 20
 	},
 	"cells": [
 		{
@@ -92,6 +92,64 @@
 			"text": "університеті",
 			"display": "університе́ті",
 			"sentence": "Я працю́ю в ___. (університе́т)"
+		},
+		{
+			"id": "yuryst",
+			"item": "sentence:l10:yuryst",
+			"text": "юрист",
+			"display": "юри́ст",
+			"sentence": "Оста́п консульту́є люде́й із пра́ва. За фа́хом він ___.",
+			"alsoAccepted": ["правник"]
+		},
+		{
+			"id": "likarka",
+			"item": "sentence:l10:likarka",
+			"text": "лікарка",
+			"display": "лі́карка",
+			"sentence": "Окса́на ліку́є люде́й. За фа́хом вона́ ___.",
+			"alsoAccepted": ["лікар", "доктор"]
+		},
+		{
+			"id": "budivelnykom",
+			"item": "sentence:l10:budivelnykom",
+			"text": "будівельником",
+			"display": "будіве́льником",
+			"sentence": "Рома́н працю́є ___. (будіве́льник)"
+		},
+		{
+			"id": "prodavchyneyu",
+			"item": "sentence:l10:prodavchyneyu",
+			"text": "продавчинею",
+			"display": "продавчи́нею",
+			"sentence": "Гали́на працю́є ___. (продавчи́ня)"
+		},
+		{
+			"id": "pratsyuyesh",
+			"item": "sentence:l10:pratsyuyesh",
+			"text": "працюєш",
+			"display": "працю́єш",
+			"sentence": "У які́й ліка́рні ти ___? (працюва́ти)"
+		},
+		{
+			"id": "pratsyuyut",
+			"item": "sentence:l10:pratsyuyut",
+			"text": "працюють",
+			"display": "працю́ють",
+			"sentence": "Мої́ батьки́ ___ в о́фісі. (працюва́ти)"
+		},
+		{
+			"id": "robysh",
+			"item": "sentence:l10:robysh",
+			"text": "робиш",
+			"display": "ро́биш",
+			"sentence": "Що ти ___ з папе́ру? (роби́ти)"
+		},
+		{
+			"id": "robyte",
+			"item": "sentence:l10:robyte",
+			"text": "робите",
+			"display": "ро́бите",
+			"sentence": "Що ви ___ за́раз? (роби́ти)"
 		}
 	],
 	"sources": [

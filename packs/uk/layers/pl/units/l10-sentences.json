@@ -1,6 +1,6 @@
 {
 	"title": "Pracować jako ktoś, pracować gdzieś",
-	"summary": "Wstaw odpowiednią formę rzeczownika z nawiasu. Po працювати nazwa zawodu występuje w narzędniku; miejsce pracy po в lub на wymaga miejscownika.",
+	"summary": "Odmień wyraz z nawiasu. Zawód po працювати wymaga narzędnika, miejsce pracy — miejscownika. Po за фахом w zdaniu bez czasownika jest mianownik. Робити znaczy robić, працювати — pracować.",
 	"cells": {
 		"likarem": {
 			"sentenceGloss": "Taras pracuje jako lekarz."
@@ -37,6 +37,30 @@
 		},
 		"universyteti": {
 			"sentenceGloss": "Pracuję na uniwersytecie."
+		},
+		"yuryst": {
+			"sentenceGloss": "Ostap udziela porad prawnych. Z zawodu jest prawnikiem."
+		},
+		"likarka": {
+			"sentenceGloss": "Oksana leczy ludzi. Z zawodu jest lekarką."
+		},
+		"budivelnykom": {
+			"sentenceGloss": "Roman pracuje jako budowniczy."
+		},
+		"prodavchyneyu": {
+			"sentenceGloss": "Hałyna pracuje jako sprzedawczyni."
+		},
+		"pratsyuyesh": {
+			"sentenceGloss": "W którym szpitalu pracujesz?"
+		},
+		"pratsyuyut": {
+			"sentenceGloss": "Moi rodzice pracują w biurze."
+		},
+		"robysh": {
+			"sentenceGloss": "Co robisz z papieru?"
+		},
+		"robyte": {
+			"sentenceGloss": "Co teraz robicie?"
 		}
 	}
 }

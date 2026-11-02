@@ -88,7 +88,10 @@ Coverage stays partial until the actual source lesson has been inspected; a topi
 does not establish that the whole lesson is covered.
 A themed lesson has words, phrases and the grammar
 only that theme needs, and what is general goes to Grammar. The lesson's scope comes from reading
-eMova's, for reference, with none of its text reaching a pack.
+eMova's, for reference, with none of its text reaching a pack. The notes establish scope,
+not an unquestionable answer key: dictionary checks determine forms and stress, with
+disagreements explained on the affected cells. In lessons 9–10 this matters for прадідусь,
+for све́кор → све́кра, and for accepting colloquial доктор while showing the course's лікар.
 
 ## Typing is a separate skill, and speech waits (2026-10-31, #21)
 

@@ -1,0 +1,155 @@
+{
+	"id": "l09-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 17
+	},
+	"cells": [
+		{
+			"id": "simya",
+			"item": "word:simya",
+			"text": "сім'я",
+			"display": "сім'я́",
+			"ipa": "/sʲimˈja/",
+			"alsoAccepted": ["родина"]
+		},
+		{
+			"id": "rid",
+			"item": "word:rid",
+			"text": "рід",
+			"display": "рід",
+			"ipa": "/rʲid/"
+		},
+		{
+			"id": "ridnya",
+			"item": "word:ridnya",
+			"text": "рідня",
+			"display": "рідня́",
+			"ipa": "/rʲidˈnʲa/",
+			"alsoAccepted": ["родина", "родичі", "рідні"]
+		},
+		{
+			"id": "rodych",
+			"item": "word:rodych",
+			"text": "родич",
+			"display": "ро́дич",
+			"ipa": "/ˈrɔdɪt͡ʃ/"
+		},
+		{
+			"id": "vesillya",
+			"item": "word:vesillya",
+			"text": "весілля",
+			"display": "весі́лля",
+			"ipa": "/ʋɛˈsʲilʲːa/"
+		},
+		{
+			"id": "shlyub",
+			"item": "word:shlyub",
+			"text": "шлюб",
+			"display": "шлюб",
+			"ipa": "/ʃlʲub/"
+		},
+		{
+			"id": "druzhyna",
+			"item": "word:druzhyna",
+			"text": "дружина",
+			"display": "дружи́на",
+			"ipa": "/druˈʒɪna/",
+			"alsoAccepted": ["жінка"]
+		},
+		{
+			"id": "pradidus",
+			"item": "word:pradidus",
+			"text": "прадідусь",
+			"display": "пра́дідусь",
+			"ipa": "/ˈpradʲidusʲ/",
+			"alsoAccepted": ["прадід"]
+		},
+		{
+			"id": "prababusya",
+			"item": "word:prababusya",
+			"text": "прабабуся",
+			"display": "прабабу́ся",
+			"ipa": "/prabaˈbusʲa/",
+			"alsoAccepted": ["прабаба", "прабабця"]
+		},
+		{
+			"id": "pleminnyk",
+			"item": "word:pleminnyk",
+			"text": "племінник",
+			"display": "племі́нник",
+			"ipa": "/plɛˈmʲinːɪk/",
+			"alsoAccepted": ["небіж"]
+		},
+		{
+			"id": "pleminnytsya",
+			"item": "word:pleminnytsya",
+			"text": "племінниця",
+			"display": "племі́нниця",
+			"ipa": "/plɛˈmʲinːɪt͡sʲa/",
+			"alsoAccepted": ["небога"]
+		},
+		{
+			"id": "svekor",
+			"item": "word:svekor",
+			"text": "свекор",
+			"display": "све́кор",
+			"ipa": "/ˈsʋɛkɔr/"
+		},
+		{
+			"id": "svekrukha",
+			"item": "word:svekrukha",
+			"text": "свекруха",
+			"display": "свекру́ха",
+			"ipa": "/sʋɛˈkruxa/"
+		},
+		{
+			"id": "test",
+			"item": "word:test",
+			"text": "тесть",
+			"display": "тесть",
+			"ipa": "/tɛsʲtʲ/"
+		},
+		{
+			"id": "teshcha",
+			"item": "word:teshcha",
+			"text": "теща",
+			"display": "те́ща",
+			"ipa": "/ˈtɛʃt͡ʃa/"
+		},
+		{
+			"id": "pokolinnya",
+			"item": "word:pokolinnya",
+			"text": "покоління",
+			"display": "поколі́ння",
+			"ipa": "/pɔkɔˈlʲinʲːa/"
+		},
+		{
+			"id": "dity",
+			"item": "word:dity",
+			"text": "діти",
+			"display": "ді́ти",
+			"ipa": "/ˈdʲitɪ/",
+			"alsoAccepted": ["дітлахи", "дітки", "діточки", "малята"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: родич",
+			"url": "https://goroh.pp.ua/Словозміна/родич"
+		},
+		{
+			"title": "Горох: свекор",
+			"url": "https://goroh.pp.ua/Словозміна/свекор"
+		},
+		{
+			"title": "Горох: дружина",
+			"url": "https://goroh.pp.ua/Тлумачення/дружина"
+		},
+		{
+			"title": "Кримський/Єфремов: прадідусь (r2u)",
+			"url": "https://r2u.org.ua/s?w=прадедушка&scope=all&dicts=all&highlight=on"
+		}
+	]
+}

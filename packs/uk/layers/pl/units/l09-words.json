@@ -1,0 +1,58 @@
+{
+	"title": "Rodzina, małżeństwo i pokolenia",
+	"summary": "Krewni, małżeństwo, pokolenia oraz rodzina ze strony męża i żony.",
+	"cells": {
+		"simya": {
+			"clue": "rodzina; wspólne życie najbliższych"
+		},
+		"rid": {
+			"clue": "ród; linia pokoleń"
+		},
+		"ridnya": {
+			"clue": "ogół krewnych, także dalekich"
+		},
+		"rodych": {
+			"clue": "krewny (rodzaj męski)"
+		},
+		"vesillya": {
+			"clue": "wesele; uroczystość"
+		},
+		"shlyub": {
+			"clue": "małżeństwo"
+		},
+		"druzhyna": {
+			"clue": "żona"
+		},
+		"pradidus": {
+			"clue": "pradziadek",
+			"note": "Słownik Krymskiego/Jefremowa akcentuje pierwszą sylabę: пра́дідусь. Ta plansza opiera się na słowniku; notatki kursu podają inny akcent."
+		},
+		"prababusya": {
+			"clue": "prababcia"
+		},
+		"pleminnyk": {
+			"clue": "siostrzeniec lub bratanek"
+		},
+		"pleminnytsya": {
+			"clue": "siostrzenica lub bratanica"
+		},
+		"svekor": {
+			"clue": "teść: ojciec męża"
+		},
+		"svekrukha": {
+			"clue": "teściowa: matka męża"
+		},
+		"test": {
+			"clue": "teść: ojciec żony"
+		},
+		"teshcha": {
+			"clue": "teściowa: matka żony"
+		},
+		"pokolinnya": {
+			"clue": "pokolenie"
+		},
+		"dity": {
+			"clue": "dzieci"
+		}
+	}
+}

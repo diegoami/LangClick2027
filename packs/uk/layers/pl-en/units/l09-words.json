@@ -1,0 +1,11 @@
+{
+	"cells": {
+		"druzhyna": {
+			"falseFriend": {
+				"kind": "partial",
+				"form": "drużyna",
+				"means": "Polish drużyna means a team. Here Ukrainian дружина means a wife."
+			}
+		}
+	}
+}
