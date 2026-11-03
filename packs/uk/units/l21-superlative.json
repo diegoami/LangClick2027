@@ -19,9 +19,7 @@
 			"pohanyy",
 			"velykyy"
 		],
-		"columns": [
-			"highest"
-		]
+		"columns": ["highest"]
 	},
 	"cells": [
 		{
@@ -32,9 +30,7 @@
 			"ipa": "/najslabˈkiʃɪj/",
 			"row": "slabkyy",
 			"col": "highest",
-			"alsoAccepted": [
-				"найслабший"
-			]
+			"alsoAccepted": ["найслабший"]
 		},
 		{
 			"id": "hrubyy.highest",
@@ -125,9 +121,7 @@
 			"ipa": "/najkˈraʃt͡ʃɪj/",
 			"row": "khoroshyy",
 			"col": "highest",
-			"alsoAccepted": [
-				"найліпший"
-			]
+			"alsoAccepted": ["найліпший"]
 		},
 		{
 			"id": "pohanyy.highest",
@@ -137,10 +131,7 @@
 			"ipa": "/najˈɦirʃɪj/",
 			"row": "pohanyy",
 			"col": "highest",
-			"alsoAccepted": [
-				"найпоганіший",
-				"найпоганший"
-			]
+			"alsoAccepted": ["найпоганіший", "найпоганший"]
 		},
 		{
 			"id": "velykyy.highest",

@@ -4,18 +4,8 @@
 	"dealAll": true,
 	"layout": {
 		"type": "table",
-		"rows": [
-			"round",
-			"pale",
-			"curly",
-			"brown"
-		],
-		"columns": [
-			"c0",
-			"c1",
-			"c2",
-			"c3"
-		]
+		"rows": ["round", "pale", "curly", "brown"],
+		"columns": ["c0", "c1", "c2", "c3"]
 	},
 	"cells": [
 		{

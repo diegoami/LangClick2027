@@ -4,16 +4,8 @@
 	"dealAll": true,
 	"layout": {
 		"type": "table",
-		"rows": [
-			"grams",
-			"kilos",
-			"mandarins",
-			"tomatoes"
-		],
-		"columns": [
-			"c0",
-			"c1"
-		]
+		"rows": ["grams", "kilos", "mandarins", "tomatoes"],
+		"columns": ["c0", "c1"]
 	},
 	"cells": [
 		{
@@ -67,7 +59,7 @@
 			"row": "mandarins",
 			"col": "c1",
 			"display": "мандари́нів",
-			"ipa": "/mandaˈrinʲiʋ/"
+			"ipa": "/mandaˈrɪnʲiʋ/"
 		},
 		{
 			"id": "tomatoes.c0",

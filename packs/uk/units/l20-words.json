@@ -12,9 +12,7 @@
 			"text": "подорож",
 			"display": "по́дорож",
 			"ipa": "/ˈpɔdɔrɔʒ/",
-			"alsoAccepted": [
-				"мандрівка"
-			]
+			"alsoAccepted": ["мандрівка"]
 		},
 		{
 			"id": "vidpustka",
@@ -43,9 +41,7 @@
 			"text": "легенда",
 			"display": "леге́нда",
 			"ipa": "/lɛˈɦɛnda/",
-			"alsoAccepted": [
-				"переказ"
-			]
+			"alsoAccepted": ["переказ"]
 		},
 		{
 			"id": "khmarochos",
@@ -137,9 +133,7 @@
 			"text": "країна",
 			"display": "краї́на",
 			"ipa": "/kraˈjina/",
-			"alsoAccepted": [
-				"держава"
-			]
+			"alsoAccepted": ["держава"]
 		},
 		{
 			"id": "muzey",

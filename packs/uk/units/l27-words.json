@@ -75,9 +75,7 @@
 			"text": "органайзер",
 			"display": "органа́йзер",
 			"ipa": "/ɔrɦaˈnajzɛr/",
-			"alsoAccepted": [
-				"планер"
-			]
+			"alsoAccepted": ["планер"]
 		},
 		{
 			"id": "flomaster",
@@ -85,9 +83,7 @@
 			"text": "фломастер",
 			"display": "флома́стер",
 			"ipa": "/flɔˈmastɛr/",
-			"alsoAccepted": [
-				"маркер"
-			]
+			"alsoAccepted": ["маркер"]
 		},
 		{
 			"id": "nalipka",
@@ -95,9 +91,7 @@
 			"text": "наліпка",
 			"display": "налі́пка",
 			"ipa": "/naˈlʲipka/",
-			"alsoAccepted": [
-				"наклейка"
-			]
+			"alsoAccepted": ["наклейка"]
 		},
 		{
 			"id": "zakladka",
@@ -126,10 +120,7 @@
 			"text": "гумка",
 			"display": "гу́мка",
 			"ipa": "/ˈɦumka/",
-			"alsoAccepted": [
-				"ластик",
-				"стирачка"
-			]
+			"alsoAccepted": ["ластик", "стирачка"]
 		},
 		{
 			"id": "nozhytsi",
@@ -151,10 +142,7 @@
 			"text": "фарба",
 			"display": "фа́рба",
 			"ipa": "/ˈfarba/",
-			"alsoAccepted": [
-				"краска",
-				"барва"
-			]
+			"alsoAccepted": ["краска", "барва"]
 		},
 		{
 			"id": "posibnyk",
@@ -169,9 +157,7 @@
 			"text": "роздруківка",
 			"display": "роздрукі́вка",
 			"ipa": "/rɔzdruˈkiʋka/",
-			"alsoAccepted": [
-				"роздрук"
-			]
+			"alsoAccepted": ["роздрук"]
 		},
 		{
 			"id": "liniya",

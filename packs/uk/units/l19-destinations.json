@@ -26,9 +26,7 @@
 			"poshta",
 			"ratusha"
 		],
-		"columns": [
-			"gen"
-		]
+		"columns": ["gen"]
 	},
 	"cells": [
 		{
@@ -39,9 +37,7 @@
 			"ipa": "/ˈmɔstu/",
 			"row": "mist",
 			"col": "gen",
-			"alsoAccepted": [
-				"моста"
-			]
+			"alsoAccepted": ["моста"]
 		},
 		{
 			"id": "hotel.gen",
@@ -69,9 +65,7 @@
 			"ipa": "/ɦurˈtɔʒɪtku/",
 			"row": "hurtozhytok",
 			"col": "gen",
-			"alsoAccepted": [
-				"гуртожитка"
-			]
+			"alsoAccepted": ["гуртожитка"]
 		},
 		{
 			"id": "universytet.gen",
@@ -180,9 +174,7 @@
 			"ipa": "/fɔnˈtana/",
 			"row": "fontan",
 			"col": "gen",
-			"alsoAccepted": [
-				"фонтану"
-			]
+			"alsoAccepted": ["фонтану"]
 		},
 		{
 			"id": "halereya.gen",

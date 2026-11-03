@@ -4,3637 +4,3641 @@
 		{
 			"key": "core/l11-locatives/hand.c0",
 			"seen": "{\"item\":\"l11:locatives:hand:c0\",\"text\":\"руці\",\"display\":\"руці́\",\"ipa\":\"/ruˈt͡sʲi/\",\"row\":\"hand\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/hand.c1",
 			"seen": "{\"item\":\"l11:locatives:hand:c1\",\"text\":\"руках\",\"display\":\"рука́х\",\"ipa\":\"/ruˈkax/\",\"row\":\"hand\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/leg.c0",
 			"seen": "{\"item\":\"l11:locatives:leg:c0\",\"text\":\"нозі\",\"display\":\"нозі́\",\"ipa\":\"/nɔˈzʲi/\",\"row\":\"leg\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/leg.c1",
 			"seen": "{\"item\":\"l11:locatives:leg:c1\",\"text\":\"ногах\",\"display\":\"нога́х\",\"ipa\":\"/nɔˈɦax/\",\"row\":\"leg\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/head.c0",
 			"seen": "{\"item\":\"l11:locatives:head:c0\",\"text\":\"голові\",\"display\":\"голові́\",\"ipa\":\"/ɦɔlɔˈʋi/\",\"row\":\"head\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/head.c1",
 			"seen": "{\"item\":\"l11:locatives:head:c1\",\"text\":\"головах\",\"display\":\"го́ловах\",\"ipa\":\"/ˈɦɔlɔʋax/\",\"row\":\"head\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/eye.c0",
 			"seen": "{\"item\":\"l11:locatives:eye:c0\",\"text\":\"оці\",\"display\":\"о́ці\",\"ipa\":\"/ˈɔt͡sʲi/\",\"row\":\"eye\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/eye.c1",
 			"seen": "{\"item\":\"l11:locatives:eye:c1\",\"text\":\"очах\",\"display\":\"оча́х\",\"ipa\":\"/ɔˈt͡ʃax/\",\"row\":\"eye\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/ear.c0",
 			"seen": "{\"item\":\"l11:locatives:ear:c0\",\"text\":\"вусі\",\"display\":\"ву́сі\",\"ipa\":\"/ˈʋusʲi/\",\"alsoAccepted\":[\"вуху\",\"вухові\"],\"row\":\"ear\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/ear.c1",
 			"seen": "{\"item\":\"l11:locatives:ear:c1\",\"text\":\"вухах\",\"display\":\"ву́хах\",\"ipa\":\"/ˈʋuxax/\",\"row\":\"ear\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/shoulder.c0",
 			"seen": "{\"item\":\"l11:locatives:shoulder:c0\",\"text\":\"плечі\",\"display\":\"плечі́\",\"ipa\":\"/plɛˈt͡ʃi/\",\"alsoAccepted\":[\"плечу\"],\"row\":\"shoulder\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/shoulder.c1",
 			"seen": "{\"item\":\"l11:locatives:shoulder:c1\",\"text\":\"плечах\",\"display\":\"плеча́х\",\"ipa\":\"/plɛˈt͡ʃax/\",\"alsoAccepted\":[\"плечях\"],\"row\":\"shoulder\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/knee.c0",
 			"seen": "{\"item\":\"l11:locatives:knee:c0\",\"text\":\"коліні\",\"display\":\"колі́ні\",\"ipa\":\"/kɔˈlʲinʲi/\",\"alsoAccepted\":[\"коліну\"],\"row\":\"knee\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/knee.c1",
 			"seen": "{\"item\":\"l11:locatives:knee:c1\",\"text\":\"колінах\",\"display\":\"колі́нах\",\"ipa\":\"/kɔˈlʲinax/\",\"row\":\"knee\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/finger.c0",
 			"seen": "{\"item\":\"l11:locatives:finger:c0\",\"text\":\"пальці\",\"display\":\"па́льці\",\"ipa\":\"/ˈpalʲt͡sʲi/\",\"alsoAccepted\":[\"пальцю\",\"пальцеві\"],\"row\":\"finger\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-locatives/finger.c1",
 			"seen": "{\"item\":\"l11:locatives:finger:c1\",\"text\":\"пальцях\",\"display\":\"па́льцях\",\"ipa\":\"/ˈpalʲt͡sʲax/\",\"row\":\"finger\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/tilo",
 			"seen": "{\"item\":\"word:tilo\",\"text\":\"тіло\",\"display\":\"ті́ло\",\"ipa\":\"/ˈtʲilɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/shkira",
 			"seen": "{\"item\":\"word:shkira\",\"text\":\"шкіра\",\"display\":\"шкі́ра\",\"ipa\":\"/ˈʃkira/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/holova",
 			"seen": "{\"item\":\"word:holova\",\"text\":\"голова\",\"display\":\"голова́\",\"ipa\":\"/ɦɔlɔˈʋa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/makivka",
 			"seen": "{\"item\":\"word:makivka\",\"text\":\"маківка\",\"display\":\"ма́ківка\",\"ipa\":\"/ˈmakiʋka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/vukho",
 			"seen": "{\"item\":\"word:vukho\",\"text\":\"вухо\",\"display\":\"ву́хо\",\"ipa\":\"/ˈʋuxɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/skronya",
 			"seen": "{\"item\":\"word:skronya\",\"text\":\"скроня\",\"display\":\"скро́ня\",\"ipa\":\"/ˈskrɔnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/vylytsya",
 			"seen": "{\"item\":\"word:vylytsya\",\"text\":\"вилиця\",\"display\":\"ви́лиця\",\"ipa\":\"/ˈʋɪlɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/potylytsya",
 			"seen": "{\"item\":\"word:potylytsya\",\"text\":\"потилиця\",\"display\":\"поти́лиця\",\"ipa\":\"/pɔˈtɪlɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/volossya",
 			"seen": "{\"item\":\"word:volossya\",\"text\":\"волосся\",\"display\":\"воло́сся\",\"ipa\":\"/ʋɔˈlɔsʲːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/volosyna",
 			"seen": "{\"item\":\"word:volosyna\",\"text\":\"волосина\",\"display\":\"волоси́на\",\"ipa\":\"/ʋɔlɔˈsɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/pasmo",
 			"seen": "{\"item\":\"word:pasmo\",\"text\":\"пасмо\",\"display\":\"па́смо\",\"ipa\":\"/ˈpasmɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/zachiska",
 			"seen": "{\"item\":\"word:zachiska\",\"text\":\"зачіска\",\"display\":\"за́чіска\",\"ipa\":\"/ˈzat͡ʃiska/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/shyya",
 			"seen": "{\"item\":\"word:shyya\",\"text\":\"шия\",\"display\":\"ши́я\",\"ipa\":\"/ˈʃɪja/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/horlo",
 			"seen": "{\"item\":\"word:horlo\",\"text\":\"горло\",\"display\":\"го́рло\",\"ipa\":\"/ˈɦɔrlɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/pidboriddya",
 			"seen": "{\"item\":\"word:pidboriddya\",\"text\":\"підборіддя\",\"display\":\"підборі́ддя\",\"ipa\":\"/pidbɔˈrʲiddʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/shchelepa",
 			"seen": "{\"item\":\"word:shchelepa\",\"text\":\"щелепа\",\"display\":\"ще́лепа\",\"ipa\":\"/ˈʃt͡ʃɛlɛpa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/zub",
 			"seen": "{\"item\":\"word:zub\",\"text\":\"зуб\",\"ipa\":\"/zub/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/yasna",
 			"seen": "{\"item\":\"word:yasna\",\"text\":\"ясна\",\"display\":\"я́сна\",\"ipa\":\"/ˈjasna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/oblychchya",
 			"seen": "{\"item\":\"word:oblychchya\",\"text\":\"обличчя\",\"display\":\"обли́ччя\",\"ipa\":\"/ɔˈblɪt͡ʃt͡ʃʲa/\",\"alsoAccepted\":[\"лице\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/lob",
 			"seen": "{\"item\":\"word:lob\",\"text\":\"лоб\",\"ipa\":\"/lɔb/\",\"alsoAccepted\":[\"чоло\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/brova",
 			"seen": "{\"item\":\"word:brova\",\"text\":\"брова\",\"display\":\"брова́\",\"ipa\":\"/brɔˈʋa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/oko",
 			"seen": "{\"item\":\"word:oko\",\"text\":\"око\",\"display\":\"о́ко\",\"ipa\":\"/ˈɔkɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/viya",
 			"seen": "{\"item\":\"word:viya\",\"text\":\"вія\",\"display\":\"ві́я\",\"ipa\":\"/ˈʋija/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/pohlyad",
 			"seen": "{\"item\":\"word:pohlyad\",\"text\":\"погляд\",\"display\":\"по́гляд\",\"ipa\":\"/ˈpɔɦlʲad/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/nis",
 			"seen": "{\"item\":\"word:nis\",\"text\":\"ніс\",\"ipa\":\"/nʲis/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/shchoka",
 			"seen": "{\"item\":\"word:shchoka\",\"text\":\"щока\",\"display\":\"щока́\",\"ipa\":\"/ʃt͡ʃɔˈka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/huba",
 			"seen": "{\"item\":\"word:huba\",\"text\":\"губа\",\"display\":\"губа́\",\"ipa\":\"/ɦuˈba/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/rot",
 			"seen": "{\"item\":\"word:rot\",\"text\":\"рот\",\"ipa\":\"/rɔt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/yazyk",
 			"seen": "{\"item\":\"word:yazyk\",\"text\":\"язик\",\"display\":\"язи́к\",\"ipa\":\"/jaˈzɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/tulub",
 			"seen": "{\"item\":\"word:tulub\",\"text\":\"тулуб\",\"display\":\"ту́луб\",\"ipa\":\"/ˈtulub/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/pleche",
 			"seen": "{\"item\":\"word:pleche\",\"text\":\"плече\",\"display\":\"плече́\",\"ipa\":\"/plɛˈt͡ʃɛ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/hrudna-klityna",
 			"seen": "{\"item\":\"word:hrudna-klityna\",\"text\":\"грудна клітина\",\"display\":\"грудна́ кліти́на\",\"ipa\":\"/ɦruˈdna klʲiˈtɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/hrudy",
 			"seen": "{\"item\":\"word:hrudy\",\"text\":\"груди\",\"display\":\"гру́ди\",\"ipa\":\"/ˈɦrudɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/rebro",
 			"seen": "{\"item\":\"word:rebro\",\"text\":\"ребро\",\"display\":\"ребро́\",\"ipa\":\"/rɛˈbrɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/zhyvit",
 			"seen": "{\"item\":\"word:zhyvit\",\"text\":\"живіт\",\"display\":\"живі́т\",\"ipa\":\"/ʒɪˈʋit/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/taliya",
 			"seen": "{\"item\":\"word:taliya\",\"text\":\"талія\",\"display\":\"та́лія\",\"ipa\":\"/ˈtalʲija/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/spyna",
 			"seen": "{\"item\":\"word:spyna\",\"text\":\"спина\",\"display\":\"спи́на\",\"ipa\":\"/ˈspɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/khrebet",
 			"seen": "{\"item\":\"word:khrebet\",\"text\":\"хребет\",\"display\":\"хребе́т\",\"ipa\":\"/xrɛˈbɛt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/poperek",
 			"seen": "{\"item\":\"word:poperek\",\"text\":\"поперек\",\"display\":\"по́пере́к\",\"ipa\":\"/ˈpɔpɛrɛk/\"}",
-			"verdict": "pending"
+			"verdict": "problem",
+			"note": "Stress: the display carries two acute accents ('по́пере́к'); a Ukrainian word has one stress, and the transcription /ˈpɔpɛrɛk/ marks only the first syllable, so display and IPA contradict each other. The dictionary's primary headword for this word — the body part on the lesson 11 body-parts board — is «ПОПЕРЕ́К» (goroh's Тлумачення page lists ПОПЕРЕ́К first, then the adverbial variant по́перек); the Словозміна page renders the nominative as 'по́пере́к' only because it merges the two listed variants into one string. Expected: display 'попере́к' with one mark and ipa /pɔpɛˈrɛk/; if the first-syllable reading is intended, display 'по́перек' with ipa /ˈpɔpɛrɛk/. Sources: https://goroh.pp.ua/Тлумачення/поперек , https://goroh.pp.ua/Словозміна/поперек"
 		},
 		{
 			"key": "core/l11-words/kryzhi",
 			"seen": "{\"item\":\"word:kryzhi\",\"text\":\"крижі\",\"display\":\"кри́жі\",\"ipa\":\"/ˈkrɪʒi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/stehno",
 			"seen": "{\"item\":\"word:stehno\",\"text\":\"стегно\",\"display\":\"стегно́\",\"ipa\":\"/stɛɦˈnɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/ruka",
 			"seen": "{\"item\":\"word:ruka\",\"text\":\"рука\",\"display\":\"рука́\",\"ipa\":\"/ruˈka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/dolonya",
 			"seen": "{\"item\":\"word:dolonya\",\"text\":\"долоня\",\"display\":\"доло́ня\",\"ipa\":\"/dɔˈlɔnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/likot",
 			"seen": "{\"item\":\"word:likot\",\"text\":\"лікоть\",\"display\":\"лі́коть\",\"ipa\":\"/ˈlʲikɔtʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/noha",
 			"seen": "{\"item\":\"word:noha\",\"text\":\"нога\",\"display\":\"нога́\",\"ipa\":\"/nɔˈɦa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/kolino",
 			"seen": "{\"item\":\"word:kolino\",\"text\":\"коліно\",\"display\":\"колі́но\",\"ipa\":\"/kɔˈlʲinɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/stopa",
 			"seen": "{\"item\":\"word:stopa\",\"text\":\"стопа\",\"display\":\"стопа́\",\"ipa\":\"/stɔˈpa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/palets",
 			"seen": "{\"item\":\"word:palets\",\"text\":\"палець\",\"display\":\"па́лець\",\"ipa\":\"/ˈpalɛt͡sʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/round.c0",
 			"seen": "{\"item\":\"l12:agreement:round:c0\",\"text\":\"круглий\",\"display\":\"кру́глий\",\"ipa\":\"/ˈkruɦlɪj/\",\"row\":\"round\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/round.c1",
 			"seen": "{\"item\":\"l12:agreement:round:c1\",\"text\":\"кругла\",\"display\":\"кру́гла\",\"ipa\":\"/ˈkruɦla/\",\"row\":\"round\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/round.c2",
 			"seen": "{\"item\":\"l12:agreement:round:c2\",\"text\":\"кругле\",\"display\":\"кру́гле\",\"ipa\":\"/ˈkruɦlɛ/\",\"row\":\"round\",\"col\":\"c2\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/round.c3",
 			"seen": "{\"item\":\"l12:agreement:round:c3\",\"text\":\"круглі\",\"display\":\"кру́глі\",\"ipa\":\"/ˈkruɦlʲi/\",\"row\":\"round\",\"col\":\"c3\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/pale.c0",
 			"seen": "{\"item\":\"l12:agreement:pale:c0\",\"text\":\"блідий\",\"display\":\"бліди́й\",\"ipa\":\"/blʲiˈdɪj/\",\"row\":\"pale\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/pale.c1",
 			"seen": "{\"item\":\"l12:agreement:pale:c1\",\"text\":\"бліда\",\"display\":\"бліда́\",\"ipa\":\"/blʲiˈda/\",\"row\":\"pale\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/pale.c2",
 			"seen": "{\"item\":\"l12:agreement:pale:c2\",\"text\":\"бліде\",\"display\":\"бліде́\",\"ipa\":\"/blʲiˈdɛ/\",\"row\":\"pale\",\"col\":\"c2\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/pale.c3",
 			"seen": "{\"item\":\"l12:agreement:pale:c3\",\"text\":\"бліді\",\"display\":\"бліді́\",\"ipa\":\"/blʲiˈdʲi/\",\"row\":\"pale\",\"col\":\"c3\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/curly.c0",
 			"seen": "{\"item\":\"l12:agreement:curly:c0\",\"text\":\"кучерявий\",\"display\":\"кучеря́вий\",\"ipa\":\"/kut͡ʃɛˈrʲaʋɪj/\",\"row\":\"curly\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/curly.c1",
 			"seen": "{\"item\":\"l12:agreement:curly:c1\",\"text\":\"кучерява\",\"display\":\"кучеря́ва\",\"ipa\":\"/kut͡ʃɛˈrʲaʋa/\",\"row\":\"curly\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/curly.c2",
 			"seen": "{\"item\":\"l12:agreement:curly:c2\",\"text\":\"кучеряве\",\"display\":\"кучеря́ве\",\"ipa\":\"/kut͡ʃɛˈrʲaʋɛ/\",\"row\":\"curly\",\"col\":\"c2\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/curly.c3",
 			"seen": "{\"item\":\"l12:agreement:curly:c3\",\"text\":\"кучеряві\",\"display\":\"кучеря́ві\",\"ipa\":\"/kut͡ʃɛˈrʲaʋi/\",\"row\":\"curly\",\"col\":\"c3\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/brown.c0",
 			"seen": "{\"item\":\"l12:agreement:brown:c0\",\"text\":\"карий\",\"display\":\"ка́рий\",\"ipa\":\"/ˈkarɪj/\",\"row\":\"brown\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/brown.c1",
 			"seen": "{\"item\":\"l12:agreement:brown:c1\",\"text\":\"кара\",\"display\":\"ка́ра\",\"ipa\":\"/ˈkara/\",\"row\":\"brown\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/brown.c2",
 			"seen": "{\"item\":\"l12:agreement:brown:c2\",\"text\":\"каре\",\"display\":\"ка́ре\",\"ipa\":\"/ˈkarɛ/\",\"row\":\"brown\",\"col\":\"c2\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-agreement/brown.c3",
 			"seen": "{\"item\":\"l12:agreement:brown:c3\",\"text\":\"карі\",\"display\":\"ка́рі\",\"ipa\":\"/ˈkarʲi/\",\"row\":\"brown\",\"col\":\"c3\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/serednoyi-statury",
 			"seen": "{\"item\":\"word:serednoyi-statury\",\"text\":\"середньої статури\",\"display\":\"сере́дньої стату́ри\",\"ipa\":\"/sɛˈrɛdnʲɔji staˈturɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/mitsnoyi-budovy",
 			"seen": "{\"item\":\"word:mitsnoyi-budovy\",\"text\":\"міцної будови\",\"display\":\"міцно́ї будо́ви\",\"ipa\":\"/miˈt͡snɔji buˈdɔʋɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/khudyy",
 			"seen": "{\"item\":\"word:khudyy\",\"text\":\"худий\",\"display\":\"худи́й\",\"ipa\":\"/xuˈdɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/khudorlyavyy",
 			"seen": "{\"item\":\"word:khudorlyavyy\",\"text\":\"худорлявий\",\"display\":\"худорля́вий\",\"ipa\":\"/xudɔrˈlʲaʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/strunkyy",
 			"seen": "{\"item\":\"word:strunkyy\",\"text\":\"стрункий\",\"display\":\"струнки́й\",\"ipa\":\"/strunˈkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/tenditnyy",
 			"seen": "{\"item\":\"word:tenditnyy\",\"text\":\"тендітний\",\"display\":\"тенді́тний\",\"ipa\":\"/tɛnˈdʲitnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/shyrokoplechyy",
 			"seen": "{\"item\":\"word:shyrokoplechyy\",\"text\":\"широкоплечий\",\"display\":\"широкопле́чий\",\"ipa\":\"/ʃɪrɔkɔˈplɛt͡ʃɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/tovstyy",
 			"seen": "{\"item\":\"word:tovstyy\",\"text\":\"товстий\",\"display\":\"товсти́й\",\"ipa\":\"/tɔʋsˈtɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/povnyy",
 			"seen": "{\"item\":\"word:povnyy\",\"text\":\"повний\",\"display\":\"по́вний\",\"ipa\":\"/ˈpɔʋnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/vysokyy",
 			"seen": "{\"item\":\"word:vysokyy\",\"text\":\"високий\",\"display\":\"висо́кий\",\"ipa\":\"/ʋɪˈsɔkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/nyzkyy",
 			"seen": "{\"item\":\"word:nyzkyy\",\"text\":\"низький\",\"display\":\"низьки́й\",\"ipa\":\"/nɪzʲˈkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/nevysokyy",
 			"seen": "{\"item\":\"word:nevysokyy\",\"text\":\"невисокий\",\"display\":\"невисо́кий\",\"ipa\":\"/nɛʋɪˈsɔkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/serednoho-zrostu",
 			"seen": "{\"item\":\"word:serednoho-zrostu\",\"text\":\"середнього зросту\",\"display\":\"сере́днього зро́сту\",\"ipa\":\"/sɛˈrɛdnʲɔɦɔ ˈzrɔstu/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/kruhlyy",
 			"seen": "{\"item\":\"word:kruhlyy\",\"text\":\"круглий\",\"display\":\"кру́глий\",\"ipa\":\"/ˈkruɦlɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/kvadratnyy",
 			"seen": "{\"item\":\"word:kvadratnyy\",\"text\":\"квадратний\",\"display\":\"квадра́тний\",\"ipa\":\"/ɡʋaˈdratnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/vydovzhenyy",
 			"seen": "{\"item\":\"word:vydovzhenyy\",\"text\":\"видовжений\",\"display\":\"ви́довжений\",\"ipa\":\"/ˈʋɪdɔʋʒɛnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/rum-yanyy",
 			"seen": "{\"item\":\"word:rum-yanyy\",\"text\":\"рум'яний\",\"display\":\"рум'я́ний\",\"ipa\":\"/ruˈmjanɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/blidyy",
 			"seen": "{\"item\":\"word:blidyy\",\"text\":\"блідий\",\"display\":\"бліди́й\",\"ipa\":\"/blʲiˈdɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/smahlyavyy",
 			"seen": "{\"item\":\"word:smahlyavyy\",\"text\":\"смаглявий\",\"display\":\"смагля́вий\",\"ipa\":\"/smaɦˈlʲaʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/zasmahlyy",
 			"seen": "{\"item\":\"word:zasmahlyy\",\"text\":\"засмаглий\",\"display\":\"засма́глий\",\"ipa\":\"/zaˈsmaɦlɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/harnyy",
 			"seen": "{\"item\":\"word:harnyy\",\"text\":\"гарний\",\"display\":\"га́рний\",\"ipa\":\"/ˈɦarnɪj/\",\"alsoAccepted\":[\"красивий\",\"вродливий\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/neharnyy",
 			"seen": "{\"item\":\"word:neharnyy\",\"text\":\"негарний\",\"display\":\"нега́рний\",\"ipa\":\"/nɛˈɦarnɪj/\",\"alsoAccepted\":[\"некрасивий\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/sympatychnyy",
 			"seen": "{\"item\":\"word:sympatychnyy\",\"text\":\"симпатичний\",\"display\":\"симпати́чний\",\"ipa\":\"/sɪmpaˈtɪt͡ʃnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/potvornyy",
 			"seen": "{\"item\":\"word:potvornyy\",\"text\":\"потворний\",\"display\":\"потво́рний\",\"ipa\":\"/pɔtˈʋɔrnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/nizhnyy",
 			"seen": "{\"item\":\"word:nizhnyy\",\"text\":\"ніжний\",\"display\":\"ні́жний\",\"ipa\":\"/ˈnʲiʒnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/hrubyy",
 			"seen": "{\"item\":\"word:hrubyy\",\"text\":\"грубий\",\"display\":\"гру́бий\",\"ipa\":\"/ˈɦrubɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/veselyy",
 			"seen": "{\"item\":\"word:veselyy\",\"text\":\"веселий\",\"display\":\"весе́лий\",\"ipa\":\"/ʋɛˈsɛlɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/sturbovanyy",
 			"seen": "{\"item\":\"word:sturbovanyy\",\"text\":\"стурбований\",\"display\":\"стурбо́ваний\",\"ipa\":\"/sturˈbɔʋanɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/seryoznyy",
 			"seen": "{\"item\":\"word:seryoznyy\",\"text\":\"серйозний\",\"display\":\"серйо́зний\",\"ipa\":\"/sɛrˈjɔznɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/pryvitnyy",
 			"seen": "{\"item\":\"word:pryvitnyy\",\"text\":\"привітний\",\"display\":\"приві́тний\",\"ipa\":\"/prɪˈʋitnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/khytryy",
 			"seen": "{\"item\":\"word:khytryy\",\"text\":\"хитрий\",\"display\":\"хи́трий\",\"ipa\":\"/ˈxɪtrɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/zadovolenyy",
 			"seen": "{\"item\":\"word:zadovolenyy\",\"text\":\"задоволений\",\"display\":\"задово́лений\",\"ipa\":\"/zadɔˈʋɔlɛnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/khvylyastyy",
 			"seen": "{\"item\":\"word:khvylyastyy\",\"text\":\"хвилястий\",\"display\":\"хвиля́стий\",\"ipa\":\"/xʋɪˈlʲastɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/kucheryavyy",
 			"seen": "{\"item\":\"word:kucheryavyy\",\"text\":\"кучерявий\",\"display\":\"кучеря́вий\",\"ipa\":\"/kut͡ʃɛˈrʲaʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/pidstryzhenyy",
 			"seen": "{\"item\":\"word:pidstryzhenyy\",\"text\":\"підстрижений\",\"display\":\"підстри́жений\",\"ipa\":\"/piˈdstrɪʒɛnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/zachesanyy",
 			"seen": "{\"item\":\"word:zachesanyy\",\"text\":\"зачесаний\",\"display\":\"заче́саний\",\"ipa\":\"/zaˈt͡ʃɛsanɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/skuyovdzhenyy",
 			"seen": "{\"item\":\"word:skuyovdzhenyy\",\"text\":\"скуйовджений\",\"display\":\"скуйо́вджений\",\"ipa\":\"/skuˈjɔʋdʒɛnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/kashtanovyy",
 			"seen": "{\"item\":\"word:kashtanovyy\",\"text\":\"каштановий\",\"display\":\"кашта́новий\",\"ipa\":\"/kaʃˈtanɔʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/rudyy",
 			"seen": "{\"item\":\"word:rudyy\",\"text\":\"рудий\",\"display\":\"руди́й\",\"ipa\":\"/ruˈdɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/rusyavyy",
 			"seen": "{\"item\":\"word:rusyavyy\",\"text\":\"русявий\",\"display\":\"руся́вий\",\"ipa\":\"/ruˈsʲaʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/syvyy",
 			"seen": "{\"item\":\"word:syvyy\",\"text\":\"сивий\",\"display\":\"си́вий\",\"ipa\":\"/ˈsɪʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/farbovanyy",
 			"seen": "{\"item\":\"word:farbovanyy\",\"text\":\"фарбований\",\"display\":\"фарбо́ваний\",\"ipa\":\"/farˈbɔʋanɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/karyy",
 			"seen": "{\"item\":\"word:karyy\",\"text\":\"карий\",\"display\":\"ка́рий\",\"ipa\":\"/ˈkarɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/hustyy",
 			"seen": "{\"item\":\"word:hustyy\",\"text\":\"густий\",\"display\":\"густи́й\",\"ipa\":\"/ɦusˈtɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/pukhkyy",
 			"seen": "{\"item\":\"word:pukhkyy\",\"text\":\"пухкий\",\"display\":\"пухки́й\",\"ipa\":\"/puxˈkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/dovhyy",
 			"seen": "{\"item\":\"word:dovhyy\",\"text\":\"довгий\",\"display\":\"до́вгий\",\"ipa\":\"/ˈdɔʋɦɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/korotkyy",
 			"seen": "{\"item\":\"word:korotkyy\",\"text\":\"короткий\",\"display\":\"коро́ткий\",\"ipa\":\"/kɔˈrɔtkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/pryamyy",
 			"seen": "{\"item\":\"word:pryamyy\",\"text\":\"прямий\",\"display\":\"прями́й\",\"ipa\":\"/prʲaˈmɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/tonkyy",
 			"seen": "{\"item\":\"word:tonkyy\",\"text\":\"тонкий\",\"display\":\"тонки́й\",\"ipa\":\"/tɔnˈkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/shyrokyy",
 			"seen": "{\"item\":\"word:shyrokyy\",\"text\":\"широкий\",\"display\":\"широ́кий\",\"ipa\":\"/ʃɪˈrɔkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/z-horbynkoyu",
 			"seen": "{\"item\":\"word:z-horbynkoyu\",\"text\":\"з горбинкою\",\"display\":\"з горби́нкою\",\"ipa\":\"/z ɦɔrˈbɪnkɔju/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/zdorovyy",
 			"seen": "{\"item\":\"word:zdorovyy\",\"text\":\"здоровий\",\"display\":\"здоро́вий\",\"ipa\":\"/zdɔˈrɔʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/svitlyy",
 			"seen": "{\"item\":\"word:svitlyy\",\"text\":\"світлий\",\"display\":\"сві́тлий\",\"ipa\":\"/ˈsʋitlɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/temnyy",
 			"seen": "{\"item\":\"word:temnyy\",\"text\":\"темний\",\"display\":\"те́мний\",\"ipa\":\"/ˈtɛmnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/bilyy",
 			"seen": "{\"item\":\"word:bilyy\",\"text\":\"білий\",\"display\":\"бі́лий\",\"ipa\":\"/ˈbilɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/chornyy",
 			"seen": "{\"item\":\"word:chornyy\",\"text\":\"чорний\",\"display\":\"чо́рний\",\"ipa\":\"/ˈt͡ʃɔrnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/siryy",
 			"seen": "{\"item\":\"word:siryy\",\"text\":\"сірий\",\"display\":\"сі́рий\",\"ipa\":\"/ˈsʲirɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/velykyy",
 			"seen": "{\"item\":\"word:velykyy\",\"text\":\"великий\",\"display\":\"вели́кий\",\"ipa\":\"/ʋɛˈlɪkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/38.c0",
 			"seen": "{\"item\":\"l13:sizes:38:c0\",\"text\":\"тридцять восьмий\",\"display\":\"три́дцять во́сьмий\",\"ipa\":\"/ˈtrɪdt͡sʲatʲ ˈʋɔsʲmɪj/\",\"row\":\"38\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/38.c1",
 			"seen": "{\"item\":\"l13:sizes:38:c1\",\"text\":\"тридцять восьмого\",\"display\":\"три́дцять во́сьмого\",\"ipa\":\"/ˈtrɪdt͡sʲatʲ ˈʋɔsʲmɔɦɔ/\",\"row\":\"38\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/39.c0",
 			"seen": "{\"item\":\"l13:sizes:39:c0\",\"text\":\"тридцять дев'ятий\",\"display\":\"три́дцять дев'я́тий\",\"ipa\":\"/ˈtrɪdt͡sʲatʲ dɛˈʋjatɪj/\",\"row\":\"39\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/39.c1",
 			"seen": "{\"item\":\"l13:sizes:39:c1\",\"text\":\"тридцять дев'ятого\",\"display\":\"три́дцять дев'я́того\",\"ipa\":\"/ˈtrɪdt͡sʲatʲ dɛˈʋjatɔɦɔ/\",\"row\":\"39\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/42.c0",
 			"seen": "{\"item\":\"l13:sizes:42:c0\",\"text\":\"сорок другий\",\"display\":\"со́рок дру́гий\",\"ipa\":\"/ˈsɔrɔk ˈdruɦɪj/\",\"row\":\"42\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/42.c1",
 			"seen": "{\"item\":\"l13:sizes:42:c1\",\"text\":\"сорок другого\",\"display\":\"со́рок дру́гого\",\"ipa\":\"/ˈsɔrɔk ˈdruɦɔɦɔ/\",\"row\":\"42\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/44.c0",
 			"seen": "{\"item\":\"l13:sizes:44:c0\",\"text\":\"сорок четвертий\",\"display\":\"со́рок четве́ртий\",\"ipa\":\"/ˈsɔrɔk t͡ʃɛtˈʋɛrtɪj/\",\"row\":\"44\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/44.c1",
 			"seen": "{\"item\":\"l13:sizes:44:c1\",\"text\":\"сорок четвертого\",\"display\":\"со́рок четве́ртого\",\"ipa\":\"/ˈsɔrɔk t͡ʃɛtˈʋɛrtɔɦɔ/\",\"row\":\"44\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/46.c0",
 			"seen": "{\"item\":\"l13:sizes:46:c0\",\"text\":\"сорок шостий\",\"display\":\"со́рок шо́стий\",\"ipa\":\"/ˈsɔrɔk ˈʃɔstɪj/\",\"row\":\"46\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/46.c1",
 			"seen": "{\"item\":\"l13:sizes:46:c1\",\"text\":\"сорок шостого\",\"display\":\"со́рок шо́стого\",\"ipa\":\"/ˈsɔrɔk ˈʃɔstɔɦɔ/\",\"row\":\"46\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/48.c0",
 			"seen": "{\"item\":\"l13:sizes:48:c0\",\"text\":\"сорок восьмий\",\"display\":\"со́рок во́сьмий\",\"ipa\":\"/ˈsɔrɔk ˈʋɔsʲmɪj/\",\"row\":\"48\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/48.c1",
 			"seen": "{\"item\":\"l13:sizes:48:c1\",\"text\":\"сорок восьмого\",\"display\":\"со́рок во́сьмого\",\"ipa\":\"/ˈsɔrɔk ˈʋɔsʲmɔɦɔ/\",\"row\":\"48\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/50.c0",
 			"seen": "{\"item\":\"l13:sizes:50:c0\",\"text\":\"п'ятдесятий\",\"display\":\"п'ятдеся́тий\",\"ipa\":\"/pjatdɛˈsʲatɪj/\",\"row\":\"50\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/50.c1",
 			"seen": "{\"item\":\"l13:sizes:50:c1\",\"text\":\"п'ятдесятого\",\"display\":\"п'ятдеся́того\",\"ipa\":\"/pjatdɛˈsʲatɔɦɔ/\",\"row\":\"50\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/52.c0",
 			"seen": "{\"item\":\"l13:sizes:52:c0\",\"text\":\"п'ятдесят другий\",\"display\":\"п'ятдеся́т дру́гий\",\"ipa\":\"/pjatdɛˈsʲat ˈdruɦɪj/\",\"row\":\"52\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/52.c1",
 			"seen": "{\"item\":\"l13:sizes:52:c1\",\"text\":\"п'ятдесят другого\",\"display\":\"п'ятдеся́т дру́гого\",\"ipa\":\"/pjatdɛˈsʲat ˈdruɦɔɦɔ/\",\"row\":\"52\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/odyah",
 			"seen": "{\"item\":\"word:odyah\",\"text\":\"одяг\",\"display\":\"о́дяг\",\"ipa\":\"/ˈɔdʲaɦ/\",\"alsoAccepted\":[\"вбрання\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/vzuttya",
 			"seen": "{\"item\":\"word:vzuttya\",\"text\":\"взуття\",\"display\":\"взуття́\",\"ipa\":\"/ʋzutˈtʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/spidnytsya",
 			"seen": "{\"item\":\"word:spidnytsya\",\"text\":\"спідниця\",\"display\":\"спідни́ця\",\"ipa\":\"/spiˈdnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/suknya",
 			"seen": "{\"item\":\"word:suknya\",\"text\":\"сукня\",\"display\":\"су́кня\",\"ipa\":\"/ˈsuknʲa/\",\"alsoAccepted\":[\"плаття\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/bluzka",
 			"seen": "{\"item\":\"word:bluzka\",\"text\":\"блузка\",\"display\":\"блу́зка\",\"ipa\":\"/ˈbluzka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/zhaket",
 			"seen": "{\"item\":\"word:zhaket\",\"text\":\"жакет\",\"display\":\"жаке́т\",\"ipa\":\"/ʒaˈkɛt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/kardyhan",
 			"seen": "{\"item\":\"word:kardyhan\",\"text\":\"кардиган\",\"display\":\"кардига́н\",\"ipa\":\"/kardɪˈɦan/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/nichna-sorochka",
 			"seen": "{\"item\":\"word:nichna-sorochka\",\"text\":\"нічна сорочка\",\"display\":\"нічна́ соро́чка\",\"ipa\":\"/nʲiˈt͡ʃna sɔˈrɔt͡ʃka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/pidzhak",
 			"seen": "{\"item\":\"word:pidzhak\",\"text\":\"піджак\",\"display\":\"піджа́к\",\"ipa\":\"/pidˈʒak/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/kravatka",
 			"seen": "{\"item\":\"word:kravatka\",\"text\":\"краватка\",\"display\":\"крава́тка\",\"ipa\":\"/kraˈʋatka/\",\"alsoAccepted\":[\"галстук\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/metelyk",
 			"seen": "{\"item\":\"word:metelyk\",\"text\":\"метелик\",\"display\":\"мете́лик\",\"ipa\":\"/mɛˈtɛlɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/shtany",
 			"seen": "{\"item\":\"word:shtany\",\"text\":\"штани\",\"display\":\"штани́\",\"ipa\":\"/ʃtaˈnɪ/\",\"alsoAccepted\":[\"брюки\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/sorochka",
 			"seen": "{\"item\":\"word:sorochka\",\"text\":\"сорочка\",\"display\":\"соро́чка\",\"ipa\":\"/sɔˈrɔt͡ʃka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/svetr",
 			"seen": "{\"item\":\"word:svetr\",\"text\":\"светр\",\"ipa\":\"/sʋɛtr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/palto",
 			"seen": "{\"item\":\"word:palto\",\"text\":\"пальто\",\"display\":\"пальто́\",\"ipa\":\"/palʲˈtɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/plashch",
 			"seen": "{\"item\":\"word:plashch\",\"text\":\"плащ\",\"ipa\":\"/plaʃt͡ʃ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/kapelyukh",
 			"seen": "{\"item\":\"word:kapelyukh\",\"text\":\"капелюх\",\"display\":\"капелю́х\",\"ipa\":\"/kapɛˈlʲux/\",\"alsoAccepted\":[\"шляпа\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/kaptsi",
 			"seen": "{\"item\":\"word:kaptsi\",\"text\":\"капці\",\"display\":\"ка́пці\",\"ipa\":\"/ˈkapt͡sʲi/\",\"alsoAccepted\":[\"тапочки\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/bosonizhky",
 			"seen": "{\"item\":\"word:bosonizhky\",\"text\":\"босоніжки\",\"display\":\"босоні́жки\",\"ipa\":\"/bɔsɔˈnʲiʒkɪ/\",\"alsoAccepted\":[\"сандалі\",\"сандалії\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/tufli",
 			"seen": "{\"item\":\"word:tufli\",\"text\":\"туфлі\",\"display\":\"ту́флі\",\"ipa\":\"/ˈtuflʲi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/krosivky",
 			"seen": "{\"item\":\"word:krosivky\",\"text\":\"кросівки\",\"display\":\"кросі́вки\",\"ipa\":\"/krɔˈsʲiʋkɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/kedy",
 			"seen": "{\"item\":\"word:kedy\",\"text\":\"кеди\",\"display\":\"ке́ди\",\"ipa\":\"/ˈkɛdɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/choboty",
 			"seen": "{\"item\":\"word:choboty\",\"text\":\"чоботи\",\"display\":\"чо́боти\",\"ipa\":\"/ˈt͡ʃɔbɔtɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/cherevyky",
 			"seen": "{\"item\":\"word:cherevyky\",\"text\":\"черевики\",\"display\":\"череви́ки\",\"ipa\":\"/t͡ʃɛrɛˈʋɪkɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/namysto",
 			"seen": "{\"item\":\"word:namysto\",\"text\":\"намисто\",\"display\":\"нами́сто\",\"ipa\":\"/naˈmɪstɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/rozmir",
 			"seen": "{\"item\":\"word:rozmir\",\"text\":\"розмір\",\"display\":\"ро́змір\",\"ipa\":\"/ˈrɔzmir/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/vybyraty",
 			"seen": "{\"item\":\"word:vybyraty\",\"text\":\"вибирати\",\"display\":\"вибира́ти\",\"ipa\":\"/ʋɪbɪˈratɪ/\",\"alsoAccepted\":[\"обирати\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/miryaty",
 			"seen": "{\"item\":\"word:miryaty\",\"text\":\"міряти\",\"display\":\"мі́ряти\",\"ipa\":\"/ˈmirʲatɪ/\",\"alsoAccepted\":[\"приміряти\",\"примірювати\",\"мірити\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/kupuvaty",
 			"seen": "{\"item\":\"word:kupuvaty\",\"text\":\"купувати\",\"display\":\"купува́ти\",\"ipa\":\"/kupuˈʋatɪ/\",\"alsoAccepted\":[\"купляти\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/odyahatysya",
 			"seen": "{\"item\":\"word:odyahatysya\",\"text\":\"одягатися\",\"display\":\"одяга́тися\",\"ipa\":\"/ɔdʲaˈɦatɪsʲa/\",\"alsoAccepted\":[\"одягатись\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/vzuvatysya",
 			"seen": "{\"item\":\"word:vzuvatysya\",\"text\":\"взуватися\",\"display\":\"взува́тися\",\"ipa\":\"/ʋzuˈʋatɪsʲa/\",\"alsoAccepted\":[\"взуватись\",\"узуватися\",\"узуватись\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/zhytlo",
 			"seen": "{\"item\":\"word:zhytlo\",\"text\":\"житло\",\"display\":\"житло́\",\"ipa\":\"/ʒɪˈtlɔ/\",\"alsoAccepted\":[\"помешкання\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/kvartyra",
 			"seen": "{\"item\":\"word:kvartyra\",\"text\":\"квартира\",\"display\":\"кварти́ра\",\"ipa\":\"/ɡʋarˈtɪra/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/budynok",
 			"seen": "{\"item\":\"word:budynok\",\"text\":\"будинок\",\"display\":\"буди́нок\",\"ipa\":\"/buˈdɪnɔk/\",\"alsoAccepted\":[\"дім\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/podvir-ya",
 			"seen": "{\"item\":\"word:podvir-ya\",\"text\":\"подвір'я\",\"display\":\"подві́р'я\",\"ipa\":\"/pɔdˈʋirja/\",\"alsoAccepted\":[\"двір\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/sad",
 			"seen": "{\"item\":\"word:sad\",\"text\":\"сад\",\"ipa\":\"/sad/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/klumba",
 			"seen": "{\"item\":\"word:klumba\",\"text\":\"клумба\",\"display\":\"клу́мба\",\"ipa\":\"/ˈklumba/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/harazh",
 			"seen": "{\"item\":\"word:harazh\",\"text\":\"гараж\",\"display\":\"гара́ж\",\"ipa\":\"/ɦaˈraʒ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/baseyn",
 			"seen": "{\"item\":\"word:baseyn\",\"text\":\"басейн\",\"display\":\"басе́йн\",\"ipa\":\"/baˈsɛjn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/villa",
 			"seen": "{\"item\":\"word:villa\",\"text\":\"вілла\",\"display\":\"ві́лла\",\"ipa\":\"/ˈʋilːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/poverkh",
 			"seen": "{\"item\":\"word:poverkh\",\"text\":\"поверх\",\"display\":\"по́верх\",\"ipa\":\"/ˈpɔʋɛrx/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/dveri",
 			"seen": "{\"item\":\"word:dveri\",\"text\":\"двері\",\"display\":\"две́рі\",\"ipa\":\"/ˈdʋɛrʲi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/peredpokiy",
 			"seen": "{\"item\":\"word:peredpokiy\",\"text\":\"передпокій\",\"display\":\"передпо́кій\",\"ipa\":\"/pɛrɛdˈpɔkij/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/korydor",
 			"seen": "{\"item\":\"word:korydor\",\"text\":\"коридор\",\"display\":\"коридо́р\",\"ipa\":\"/kɔrɪˈdɔr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/skhody",
 			"seen": "{\"item\":\"word:skhody\",\"text\":\"сходи\",\"display\":\"схо́ди\",\"ipa\":\"/ˈsxɔdɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/kukhnya",
 			"seen": "{\"item\":\"word:kukhnya\",\"text\":\"кухня\",\"display\":\"ку́хня\",\"ipa\":\"/ˈkuxnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/vitalnya",
 			"seen": "{\"item\":\"word:vitalnya\",\"text\":\"вітальня\",\"display\":\"віта́льня\",\"ipa\":\"/ʋiˈtalʲnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/spalnya",
 			"seen": "{\"item\":\"word:spalnya\",\"text\":\"спальня\",\"display\":\"спа́льня\",\"ipa\":\"/ˈspalʲnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/vanna",
 			"seen": "{\"item\":\"word:vanna\",\"text\":\"ванна\",\"display\":\"ва́нна\",\"ipa\":\"/ˈʋanːa/\",\"alsoAccepted\":[\"ванна кімната\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/dytyacha-kimnata",
 			"seen": "{\"item\":\"word:dytyacha-kimnata\",\"text\":\"дитяча кімната\",\"display\":\"дитя́ча кімна́та\",\"ipa\":\"/dɪˈtʲat͡ʃa kimˈnata/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/hostova-kimnata",
 			"seen": "{\"item\":\"word:hostova-kimnata\",\"text\":\"гостьова кімната\",\"display\":\"гостьова́ кімна́та\",\"ipa\":\"/ɦɔstʲɔˈʋa kimˈnata/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/dakh",
 			"seen": "{\"item\":\"word:dakh\",\"text\":\"дах\",\"ipa\":\"/dax/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/horyshche",
 			"seen": "{\"item\":\"word:horyshche\",\"text\":\"горище\",\"display\":\"гори́ще\",\"ipa\":\"/ɦɔˈrɪʃt͡ʃɛ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/pidval",
 			"seen": "{\"item\":\"word:pidval\",\"text\":\"підвал\",\"display\":\"підва́л\",\"ipa\":\"/pidˈʋal/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/mebli",
 			"seen": "{\"item\":\"word:mebli\",\"text\":\"меблі\",\"display\":\"ме́блі\",\"ipa\":\"/ˈmɛblʲi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/lizhko",
 			"seen": "{\"item\":\"word:lizhko\",\"text\":\"ліжко\",\"display\":\"лі́жко\",\"ipa\":\"/ˈlʲiʒkɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/podushka",
 			"seen": "{\"item\":\"word:podushka\",\"text\":\"подушка\",\"display\":\"поду́шка\",\"ipa\":\"/pɔˈduʃka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/kovdra",
 			"seen": "{\"item\":\"word:kovdra\",\"text\":\"ковдра\",\"display\":\"ко́вдра\",\"ipa\":\"/ˈkɔʋdra/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/tumba",
 			"seen": "{\"item\":\"word:tumba\",\"text\":\"тумба\",\"display\":\"ту́мба\",\"ipa\":\"/ˈtumba/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/nastilna-lampa",
 			"seen": "{\"item\":\"word:nastilna-lampa\",\"text\":\"настільна лампа\",\"display\":\"насті́льна ла́мпа\",\"ipa\":\"/nasʲˈtʲilʲna ˈlampa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/shafa",
 			"seen": "{\"item\":\"word:shafa\",\"text\":\"шафа\",\"display\":\"ша́фа\",\"ipa\":\"/ˈʃafa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/dzerkalo",
 			"seen": "{\"item\":\"word:dzerkalo\",\"text\":\"дзеркало\",\"display\":\"дзе́ркало\",\"ipa\":\"/ˈdzɛrkalɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/pidloha",
 			"seen": "{\"item\":\"word:pidloha\",\"text\":\"підлога\",\"display\":\"підло́га\",\"ipa\":\"/piˈdlɔɦa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/kylym",
 			"seen": "{\"item\":\"word:kylym\",\"text\":\"килим\",\"display\":\"ки́лим\",\"ipa\":\"/ˈkɪlɪm/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/shtora",
 			"seen": "{\"item\":\"word:shtora\",\"text\":\"штора\",\"display\":\"што́ра\",\"ipa\":\"/ˈʃtɔra/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/tyul",
 			"seen": "{\"item\":\"word:tyul\",\"text\":\"тюль\",\"ipa\":\"/tʲulʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/dyvan",
 			"seen": "{\"item\":\"word:dyvan\",\"text\":\"диван\",\"display\":\"дива́н\",\"ipa\":\"/dɪˈʋan/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/krislo",
 			"seen": "{\"item\":\"word:krislo\",\"text\":\"крісло\",\"display\":\"крі́сло\",\"ipa\":\"/ˈkrʲislɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/televizor",
 			"seen": "{\"item\":\"word:televizor\",\"text\":\"телевізор\",\"display\":\"телеві́зор\",\"ipa\":\"/tɛlɛˈʋizɔr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/zhurnalnyy-stolyk",
 			"seen": "{\"item\":\"word:zhurnalnyy-stolyk\",\"text\":\"журнальний столик\",\"display\":\"журна́льний сто́лик\",\"ipa\":\"/ʒurˈnalʲnɪj ˈstɔlɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/knyzhkova-shafa",
 			"seen": "{\"item\":\"word:knyzhkova-shafa\",\"text\":\"книжкова шафа\",\"display\":\"книжко́ва ша́фа\",\"ipa\":\"/knɪʒˈkɔʋa ˈʃafa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/pysmovyy-stil",
 			"seen": "{\"item\":\"word:pysmovyy-stil\",\"text\":\"письмовий стіл\",\"display\":\"письмо́вий стіл\",\"ipa\":\"/pɪˈsʲmɔʋɪj sʲtʲil/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/stilets",
 			"seen": "{\"item\":\"word:stilets\",\"text\":\"стілець\",\"display\":\"стіле́ць\",\"ipa\":\"/sʲtʲiˈlɛt͡sʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/pidvikonnya",
 			"seen": "{\"item\":\"word:pidvikonnya\",\"text\":\"підвіконня\",\"display\":\"підвіко́ння\",\"ipa\":\"/pidʋiˈkɔnʲːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/horshchyk",
 			"seen": "{\"item\":\"word:horshchyk\",\"text\":\"горщик\",\"display\":\"го́рщик\",\"ipa\":\"/ˈɦɔrʃt͡ʃɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/yidalnya",
 			"seen": "{\"item\":\"word:yidalnya\",\"text\":\"їдальня\",\"display\":\"їда́льня\",\"ipa\":\"/jiˈdalʲnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/plyta",
 			"seen": "{\"item\":\"word:plyta\",\"text\":\"плита\",\"display\":\"плита́\",\"ipa\":\"/plɪˈta/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/dukhova-shafa",
 			"seen": "{\"item\":\"word:dukhova-shafa\",\"text\":\"духова шафа\",\"display\":\"духова́ ша́фа\",\"ipa\":\"/duxɔˈʋa ˈʃafa/\",\"alsoAccepted\":[\"духовка\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/posudomyyna-mashyna",
 			"seen": "{\"item\":\"word:posudomyyna-mashyna\",\"text\":\"посудомийна машина\",\"display\":\"посудоми́йна маши́на\",\"ipa\":\"/pɔsudɔˈmɪjna maˈʃɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/kholodylnyk",
 			"seen": "{\"item\":\"word:kholodylnyk\",\"text\":\"холодильник\",\"display\":\"холоди́льник\",\"ipa\":\"/xɔlɔˈdɪlʲnɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/vytyazhka",
 			"seen": "{\"item\":\"word:vytyazhka\",\"text\":\"витяжка\",\"display\":\"ви́тяжка\",\"ipa\":\"/ˈʋɪtʲaʒka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/myynytsya",
 			"seen": "{\"item\":\"word:myynytsya\",\"text\":\"мийниця\",\"display\":\"ми́йниця\",\"ipa\":\"/ˈmɪjnɪt͡sʲa/\",\"alsoAccepted\":[\"мийка\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/zmishuvach",
 			"seen": "{\"item\":\"word:zmishuvach\",\"text\":\"змішувач\",\"display\":\"змі́шувач\",\"ipa\":\"/ˈzmiʃuʋat͡ʃ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/stilnytsya",
 			"seen": "{\"item\":\"word:stilnytsya\",\"text\":\"стільниця\",\"display\":\"стільни́ця\",\"ipa\":\"/sʲtʲilʲˈnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/stelya",
 			"seen": "{\"item\":\"word:stelya\",\"text\":\"стеля\",\"display\":\"сте́ля\",\"ipa\":\"/ˈstɛlʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/lyustra",
 			"seen": "{\"item\":\"word:lyustra\",\"text\":\"люстра\",\"display\":\"лю́стра\",\"ipa\":\"/ˈlʲustra/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/dush",
 			"seen": "{\"item\":\"word:dush\",\"text\":\"душ\",\"ipa\":\"/duʃ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/tualet",
 			"seen": "{\"item\":\"word:tualet\",\"text\":\"туалет\",\"display\":\"туале́т\",\"ipa\":\"/tuaˈlɛt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/umyvalnyk",
 			"seen": "{\"item\":\"word:umyvalnyk\",\"text\":\"умивальник\",\"display\":\"умива́льник\",\"ipa\":\"/umɪˈʋalʲnɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/pralna-mashyna",
 			"seen": "{\"item\":\"word:pralna-mashyna\",\"text\":\"пральна машина\",\"display\":\"пра́льна маши́на\",\"ipa\":\"/ˈpralʲna maˈʃɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/polytsya",
 			"seen": "{\"item\":\"word:polytsya\",\"text\":\"полиця\",\"display\":\"поли́ця\",\"ipa\":\"/pɔˈlɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/rushnyk",
 			"seen": "{\"item\":\"word:rushnyk\",\"text\":\"рушник\",\"display\":\"рушни́к\",\"ipa\":\"/ruˈʃnɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/vishak",
 			"seen": "{\"item\":\"word:vishak\",\"text\":\"вішак\",\"display\":\"віша́к\",\"ipa\":\"/ʋiˈʃak/\",\"alsoAccepted\":[\"вішалка\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/komod",
 			"seen": "{\"item\":\"word:komod\",\"text\":\"комод\",\"display\":\"комо́д\",\"ipa\":\"/kɔˈmɔd/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/beet.c0",
 			"seen": "{\"item\":\"l15:number:beet:c0\",\"text\":\"буряк\",\"display\":\"буря́к\",\"ipa\":\"/buˈrʲak/\",\"row\":\"beet\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/beet.c1",
 			"seen": "{\"item\":\"l15:number:beet:c1\",\"text\":\"буряки\",\"display\":\"буряки́\",\"ipa\":\"/burʲaˈkɪ/\",\"row\":\"beet\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/borshch.c0",
 			"seen": "{\"item\":\"l15:number:borshch:c0\",\"text\":\"борщ\",\"ipa\":\"/bɔrʃt͡ʃ/\",\"row\":\"borshch\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/borshch.c1",
 			"seen": "{\"item\":\"l15:number:borshch:c1\",\"text\":\"борщі\",\"display\":\"борщі́\",\"ipa\":\"/bɔrˈʃt͡ʃi/\",\"row\":\"borshch\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/drink.c0",
 			"seen": "{\"item\":\"l15:number:drink:c0\",\"text\":\"напій\",\"display\":\"напі́й\",\"ipa\":\"/naˈpij/\",\"row\":\"drink\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/drink.c1",
 			"seen": "{\"item\":\"l15:number:drink:c1\",\"text\":\"напої\",\"display\":\"напо́ї\",\"ipa\":\"/naˈpɔji/\",\"row\":\"drink\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/juice.c0",
 			"seen": "{\"item\":\"l15:number:juice:c0\",\"text\":\"сік\",\"ipa\":\"/sʲik/\",\"row\":\"juice\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/juice.c1",
 			"seen": "{\"item\":\"l15:number:juice:c1\",\"text\":\"соки\",\"display\":\"соки́\",\"ipa\":\"/sɔˈkɪ/\",\"row\":\"juice\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/sausage.c0",
 			"seen": "{\"item\":\"l15:number:sausage:c0\",\"text\":\"ковбаса\",\"display\":\"ковбаса́\",\"ipa\":\"/kɔʋbaˈsa/\",\"row\":\"sausage\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/sausage.c1",
 			"seen": "{\"item\":\"l15:number:sausage:c1\",\"text\":\"ковбаси\",\"display\":\"ковба́си\",\"ipa\":\"/kɔʋˈbasɪ/\",\"row\":\"sausage\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/bowl.c0",
 			"seen": "{\"item\":\"l15:number:bowl:c0\",\"text\":\"цукорниця\",\"display\":\"цу́корниця\",\"ipa\":\"/ˈt͡sukɔrnɪt͡sʲa/\",\"alsoAccepted\":[\"цукерниця\"],\"row\":\"bowl\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/bowl.c1",
 			"seen": "{\"item\":\"l15:number:bowl:c1\",\"text\":\"цукорниці\",\"display\":\"цу́корниці\",\"ipa\":\"/ˈt͡sukɔrnɪt͡sʲi/\",\"alsoAccepted\":[\"цукерниці\"],\"row\":\"bowl\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/pot.c0",
 			"seen": "{\"item\":\"l15:number:pot:c0\",\"text\":\"каструля\",\"display\":\"кастру́ля\",\"ipa\":\"/kaˈstrulʲa/\",\"row\":\"pot\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/pot.c1",
 			"seen": "{\"item\":\"l15:number:pot:c1\",\"text\":\"каструлі\",\"display\":\"кастру́лі\",\"ipa\":\"/kaˈstrulʲi/\",\"row\":\"pot\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/tray.c0",
 			"seen": "{\"item\":\"l15:number:tray:c0\",\"text\":\"деко\",\"display\":\"де́ко\",\"ipa\":\"/ˈdɛkɔ/\",\"row\":\"tray\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/tray.c1",
 			"seen": "{\"item\":\"l15:number:tray:c1\",\"text\":\"дека\",\"display\":\"де́ка\",\"ipa\":\"/ˈdɛka/\",\"row\":\"tray\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/egg.c0",
 			"seen": "{\"item\":\"l15:number:egg:c0\",\"text\":\"яйце\",\"display\":\"яйце́\",\"ipa\":\"/jajˈt͡sɛ/\",\"row\":\"egg\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-number/egg.c1",
 			"seen": "{\"item\":\"l15:number:egg:c1\",\"text\":\"яйця\",\"display\":\"я́йця\",\"ipa\":\"/ˈjajt͡sʲa/\",\"row\":\"egg\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/zakupy",
 			"seen": "{\"item\":\"word:zakupy\",\"text\":\"закупи\",\"display\":\"за́купи\",\"ipa\":\"/ˈzakupɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/khlibyna",
 			"seen": "{\"item\":\"word:khlibyna\",\"text\":\"хлібина\",\"display\":\"хліби́на\",\"ipa\":\"/xlʲiˈbɪna/\",\"alsoAccepted\":[\"буханець\",\"буханка\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/plyashka",
 			"seen": "{\"item\":\"word:plyashka\",\"text\":\"пляшка\",\"display\":\"пля́шка\",\"ipa\":\"/ˈplʲaʃka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/yakist",
 			"seen": "{\"item\":\"word:yakist\",\"text\":\"якість\",\"display\":\"я́кість\",\"ipa\":\"/ˈjakistʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/termin-prydatnosti",
 			"seen": "{\"item\":\"word:termin-prydatnosti\",\"text\":\"термін придатності\",\"display\":\"те́рмін прида́тності\",\"ipa\":\"/ˈtɛrmin prɪˈdatnɔsʲtʲi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/koshtuvaty",
 			"seen": "{\"item\":\"word:koshtuvaty\",\"text\":\"коштувати\",\"display\":\"ко́штува́ти\",\"ipa\":\"/ˈkɔʃtuʋatɪ/\"}",
-			"verdict": "pending"
+			"verdict": "problem",
+			"note": "Stress: the display 'ко́штува́ти' puts two acute accents on one word, while the transcription /ˈkɔʃtuʋatɪ/ marks only the first syllable, so the two fields disagree. goroh lists the infinitive twice — «КО́ШТУВАТИ» (its Транскрипція page gives [ко́штуватие]) and the variant «КОШТУВА́ТИ» — so one mark must be chosen; every other -вати infinitive in these lessons carries a single mark (вибира́ти, купува́ти, планува́ти, користува́тися). Expected: display 'ко́штувати' with ipa /ˈkɔʃtuʋatɪ/ (or display 'коштува́ти' with ipa /kɔʃtuˈʋatɪ/). Sources: https://goroh.pp.ua/Тлумачення/коштувати , https://goroh.pp.ua/Транскрипція/коштувати"
 		},
 		{
 			"key": "core/l15-words/svizhyy",
 			"seen": "{\"item\":\"word:svizhyy\",\"text\":\"свіжий\",\"display\":\"сві́жий\",\"ipa\":\"/ˈsʋiʒɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/oliya",
 			"seen": "{\"item\":\"word:oliya\",\"text\":\"олія\",\"display\":\"олі́я\",\"ipa\":\"/ɔˈlʲija/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/maslo",
 			"seen": "{\"item\":\"word:maslo\",\"text\":\"масло\",\"display\":\"ма́сло\",\"ipa\":\"/ˈmaslɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/krip",
 			"seen": "{\"item\":\"word:krip\",\"text\":\"кріп\",\"ipa\":\"/krʲip/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/petrushka",
 			"seen": "{\"item\":\"word:petrushka\",\"text\":\"петрушка\",\"display\":\"петру́шка\",\"ipa\":\"/pɛˈtruʃka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/bazylik",
 			"seen": "{\"item\":\"word:bazylik\",\"text\":\"базилік\",\"display\":\"базилі́к\",\"ipa\":\"/bazɪˈlʲik/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/kartoplya",
 			"seen": "{\"item\":\"word:kartoplya\",\"text\":\"картопля\",\"display\":\"карто́пля\",\"ipa\":\"/karˈtɔplʲa/\",\"alsoAccepted\":[\"бульба\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/buryak",
 			"seen": "{\"item\":\"word:buryak\",\"text\":\"буряк\",\"display\":\"буря́к\",\"ipa\":\"/buˈrʲak/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/tsybulya",
 			"seen": "{\"item\":\"word:tsybulya\",\"text\":\"цибуля\",\"display\":\"цибу́ля\",\"ipa\":\"/t͡sɪˈbulʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/chasnyk",
 			"seen": "{\"item\":\"word:chasnyk\",\"text\":\"часник\",\"display\":\"часни́к\",\"ipa\":\"/t͡ʃaˈsnɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/morkva",
 			"seen": "{\"item\":\"word:morkva\",\"text\":\"морква\",\"display\":\"мо́рква\",\"ipa\":\"/ˈmɔrɡʋa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/kvasolya",
 			"seen": "{\"item\":\"word:kvasolya\",\"text\":\"квасоля\",\"display\":\"квасо́ля\",\"ipa\":\"/ɡʋaˈsɔlʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/kavun",
 			"seen": "{\"item\":\"word:kavun\",\"text\":\"кавун\",\"display\":\"каву́н\",\"ipa\":\"/kaˈʋun/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/dynya",
 			"seen": "{\"item\":\"word:dynya\",\"text\":\"диня\",\"display\":\"ди́ня\",\"ipa\":\"/ˈdɪnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/polunytsya",
 			"seen": "{\"item\":\"word:polunytsya\",\"text\":\"полуниця\",\"display\":\"полуни́ця\",\"ipa\":\"/pɔluˈnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/vyshnya",
 			"seen": "{\"item\":\"word:vyshnya\",\"text\":\"вишня\",\"display\":\"ви́шня\",\"ipa\":\"/ˈʋɪʃnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/agrus",
 			"seen": "{\"item\":\"word:agrus\",\"text\":\"аґрус\",\"display\":\"а́ґрус\",\"ipa\":\"/ˈaɡrus/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/vershky",
 			"seen": "{\"item\":\"word:vershky\",\"text\":\"вершки\",\"display\":\"вершки́\",\"ipa\":\"/ʋɛrʃˈkɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/morozyvo",
 			"seen": "{\"item\":\"word:morozyvo\",\"text\":\"морозиво\",\"display\":\"моро́зиво\",\"ipa\":\"/mɔˈrɔzɪʋɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/boroshno",
 			"seen": "{\"item\":\"word:boroshno\",\"text\":\"борошно\",\"display\":\"бо́рошно\",\"ipa\":\"/ˈbɔrɔʃnɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/tsukor",
 			"seen": "{\"item\":\"word:tsukor\",\"text\":\"цукор\",\"display\":\"цу́кор\",\"ipa\":\"/ˈt͡sukɔr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/sil",
 			"seen": "{\"item\":\"word:sil\",\"text\":\"сіль\",\"ipa\":\"/sʲilʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/zhushchene-moloko",
 			"seen": "{\"item\":\"word:zhushchene-moloko\",\"text\":\"згущене молоко\",\"display\":\"згу́щене молоко́\",\"ipa\":\"/ˈzɦuʃt͡ʃɛnɛ mɔlɔˈkɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/makarony",
 			"seen": "{\"item\":\"word:makarony\",\"text\":\"макарони\",\"display\":\"макаро́ни\",\"ipa\":\"/makaˈrɔnɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/solodoshchi",
 			"seen": "{\"item\":\"word:solodoshchi\",\"text\":\"солодощі\",\"display\":\"со́лодощі\",\"ipa\":\"/ˈsɔlɔdɔʃt͡ʃi/\",\"alsoAccepted\":[\"ласощі\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/tsukornytsya",
 			"seen": "{\"item\":\"word:tsukornytsya\",\"text\":\"цукорниця\",\"display\":\"цу́корниця\",\"ipa\":\"/ˈt͡sukɔrnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/tsukernytsya",
 			"seen": "{\"item\":\"word:tsukernytsya\",\"text\":\"цукерниця\",\"display\":\"цуке́рниця\",\"ipa\":\"/t͡suˈkɛrnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-quantities/grams.c0",
 			"seen": "{\"item\":\"l16:quantities:grams:c0\",\"text\":\"грам\",\"ipa\":\"/ɦram/\",\"row\":\"grams\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-quantities/grams.c1",
 			"seen": "{\"item\":\"l16:quantities:grams:c1\",\"text\":\"грамів\",\"display\":\"гра́мів\",\"ipa\":\"/ˈɦramiʋ/\",\"row\":\"grams\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-quantities/kilos.c0",
 			"seen": "{\"item\":\"l16:quantities:kilos:c0\",\"text\":\"кілограм\",\"display\":\"кілогра́м\",\"ipa\":\"/kilɔɦˈram/\",\"row\":\"kilos\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-quantities/kilos.c1",
 			"seen": "{\"item\":\"l16:quantities:kilos:c1\",\"text\":\"кілограмів\",\"display\":\"кілогра́мів\",\"ipa\":\"/kilɔɦˈramiʋ/\",\"row\":\"kilos\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-quantities/mandarins.c0",
 			"seen": "{\"item\":\"l16:quantities:mandarins:c0\",\"text\":\"мандарин\",\"display\":\"мандари́н\",\"ipa\":\"/mandaˈrɪn/\",\"row\":\"mandarins\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-quantities/mandarins.c1",
 			"seen": "{\"item\":\"l16:quantities:mandarins:c1\",\"text\":\"мандаринів\",\"display\":\"мандари́нів\",\"ipa\":\"/mandaˈrinʲiʋ/\",\"row\":\"mandarins\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "problem",
+			"note": "Transcription: и is written /i/ here (/mandaˈrinʲiʋ/), but the pack's own letter table gives и → /ɪ/ (packs/uk/units/alphabet.json) and the same board's 'мандарин' is /mandaˈrɪn/. Ukrainian и is /ɪ/ stressed or unstressed, so /i/ here teaches the і sound; the stress itself (мандари́нів) is right. Expected: ipa /mandaˈrɪnʲiʋ/. Sources: packs/uk/units/alphabet.json , https://goroh.pp.ua/Словозміна/мандарин"
 		},
 		{
 			"key": "core/l16-quantities/tomatoes.c0",
 			"seen": "{\"item\":\"l16:quantities:tomatoes:c0\",\"text\":\"помідор\",\"display\":\"помідо́р\",\"ipa\":\"/pɔmiˈdɔr/\",\"row\":\"tomatoes\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-quantities/tomatoes.c1",
 			"seen": "{\"item\":\"l16:quantities:tomatoes:c1\",\"text\":\"помідорів\",\"display\":\"помідо́рів\",\"ipa\":\"/pɔmiˈdɔrʲiʋ/\",\"row\":\"tomatoes\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/posud",
 			"seen": "{\"item\":\"word:posud\",\"text\":\"посуд\",\"display\":\"по́суд\",\"ipa\":\"/ˈpɔsud/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/kastrulya",
 			"seen": "{\"item\":\"word:kastrulya\",\"text\":\"каструля\",\"display\":\"кастру́ля\",\"ipa\":\"/kaˈstrulʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/skovoridka",
 			"seen": "{\"item\":\"word:skovoridka\",\"text\":\"сковорідка\",\"display\":\"сковорі́дка\",\"ipa\":\"/skɔʋɔˈrʲidka/\",\"alsoAccepted\":[\"пательня\",\"сковорода\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/nizh",
 			"seen": "{\"item\":\"word:nizh\",\"text\":\"ніж\",\"ipa\":\"/nʲiʒ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/lozhka",
 			"seen": "{\"item\":\"word:lozhka\",\"text\":\"ложка\",\"display\":\"ло́жка\",\"ipa\":\"/ˈlɔʒka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/vydelka",
 			"seen": "{\"item\":\"word:vydelka\",\"text\":\"виделка\",\"display\":\"виде́лка\",\"ipa\":\"/ʋɪˈdɛlka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/sklyanka",
 			"seen": "{\"item\":\"word:sklyanka\",\"text\":\"склянка\",\"display\":\"скля́нка\",\"ipa\":\"/ˈsklʲanka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/chashka",
 			"seen": "{\"item\":\"word:chashka\",\"text\":\"чашка\",\"display\":\"ча́шка\",\"ipa\":\"/ˈt͡ʃaʃka/\",\"alsoAccepted\":[\"філіжанка\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/opolonyk",
 			"seen": "{\"item\":\"word:opolonyk\",\"text\":\"ополоник\",\"display\":\"ополо́ник\",\"ipa\":\"/ɔpɔˈlɔnɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/tsukornytsya",
 			"seen": "{\"item\":\"word:tsukornytsya\",\"text\":\"цукорниця\",\"display\":\"цу́корниця\",\"ipa\":\"/ˈt͡sukɔrnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/silnytsya",
 			"seen": "{\"item\":\"word:silnytsya\",\"text\":\"сільниця\",\"display\":\"сільни́ця\",\"ipa\":\"/sʲilʲˈnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/perechnytsya",
 			"seen": "{\"item\":\"word:perechnytsya\",\"text\":\"перечниця\",\"display\":\"пе́речниця\",\"ipa\":\"/ˈpɛrɛt͡ʃnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/tertushka",
 			"seen": "{\"item\":\"word:tertushka\",\"text\":\"тертушка\",\"display\":\"терту́шка\",\"ipa\":\"/tɛrˈtuʃka/\",\"alsoAccepted\":[\"тертка\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/tatsya",
 			"seen": "{\"item\":\"word:tatsya\",\"text\":\"таця\",\"display\":\"та́ця\",\"ipa\":\"/ˈtat͡sʲa/\",\"alsoAccepted\":[\"піднос\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/drushlyak",
 			"seen": "{\"item\":\"word:drushlyak\",\"text\":\"друшляк\",\"display\":\"друшля́к\",\"ipa\":\"/druˈʃlʲak/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/stil",
 			"seen": "{\"item\":\"word:stil\",\"text\":\"стіл\",\"ipa\":\"/sʲtʲil/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/stilets",
 			"seen": "{\"item\":\"word:stilets\",\"text\":\"стілець\",\"display\":\"стіле́ць\",\"ipa\":\"/sʲtʲiˈlɛt͡sʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/strava",
 			"seen": "{\"item\":\"word:strava\",\"text\":\"страва\",\"display\":\"стра́ва\",\"ipa\":\"/ˈstraʋa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/blyudo",
 			"seen": "{\"item\":\"word:blyudo\",\"text\":\"блюдо\",\"display\":\"блю́до\",\"ipa\":\"/ˈblʲudɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/hram",
 			"seen": "{\"item\":\"word:hram\",\"text\":\"грам\",\"ipa\":\"/ɦram/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/kilohram",
 			"seen": "{\"item\":\"word:kilohram\",\"text\":\"кілограм\",\"display\":\"кілогра́м\",\"ipa\":\"/kilɔɦˈram/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/mandaryn",
 			"seen": "{\"item\":\"word:mandaryn\",\"text\":\"мандарин\",\"display\":\"мандари́н\",\"ipa\":\"/mandaˈrɪn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/pomidor",
 			"seen": "{\"item\":\"word:pomidor\",\"text\":\"помідор\",\"display\":\"помідо́р\",\"ipa\":\"/pɔmiˈdɔr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/syr",
 			"seen": "{\"item\":\"word:syr\",\"text\":\"сир\",\"ipa\":\"/sɪr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/yaytse",
 			"seen": "{\"item\":\"word:yaytse\",\"text\":\"яйце\",\"display\":\"яйце́\",\"ipa\":\"/jajˈt͡sɛ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/manna-krupa",
 			"seen": "{\"item\":\"word:manna-krupa\",\"text\":\"манна крупа\",\"display\":\"ма́нна крупа́\",\"ipa\":\"/ˈmanːa kruˈpa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/rodzynky",
 			"seen": "{\"item\":\"word:rodzynky\",\"text\":\"родзинки\",\"display\":\"родзи́нки\",\"ipa\":\"/rɔˈdzɪnkɪ/\",\"alsoAccepted\":[\"ізюм\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/hotuvaty",
 			"seen": "{\"item\":\"word:hotuvaty\",\"text\":\"готувати\",\"display\":\"готува́ти\",\"ipa\":\"/ɦɔtuˈʋatɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/smazhyty",
 			"seen": "{\"item\":\"word:smazhyty\",\"text\":\"смажити\",\"display\":\"сма́жити\",\"ipa\":\"/ˈsmaʒɪtɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/kukhlyk",
 			"seen": "{\"item\":\"word:kukhlyk\",\"text\":\"кухлик\",\"display\":\"ку́хлик\",\"ipa\":\"/ˈkuxlɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/hornyatko",
 			"seen": "{\"item\":\"word:hornyatko\",\"text\":\"горнятко\",\"display\":\"горня́тко\",\"ipa\":\"/ɦɔrˈnʲatkɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/restoran",
 			"seen": "{\"item\":\"word:restoran\",\"text\":\"ресторан\",\"display\":\"рестора́н\",\"ipa\":\"/rɛstɔˈran/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/kav-yarnya",
 			"seen": "{\"item\":\"word:kav-yarnya\",\"text\":\"кав'ярня\",\"display\":\"кав'я́рня\",\"ipa\":\"/kaˈʋjarnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/ofitsiant",
 			"seen": "{\"item\":\"word:ofitsiant\",\"text\":\"офіціант\",\"display\":\"офіціа́нт\",\"ipa\":\"/ɔfit͡sʲiˈant/\",\"alsoAccepted\":[\"кельнер\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/menyu",
 			"seen": "{\"item\":\"word:menyu\",\"text\":\"меню\",\"display\":\"меню́\",\"ipa\":\"/mɛˈnʲu/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/strava",
 			"seen": "{\"item\":\"word:strava\",\"text\":\"страва\",\"display\":\"стра́ва\",\"ipa\":\"/ˈstraʋa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/rakhunok",
 			"seen": "{\"item\":\"word:rakhunok-bill\",\"text\":\"рахунок\",\"display\":\"раху́нок\",\"ipa\":\"/raˈxunɔk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/zamovlennya",
 			"seen": "{\"item\":\"word:zamovlennya\",\"text\":\"замовлення\",\"display\":\"замо́влення\",\"ipa\":\"/zaˈmɔʋlɛnʲːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/chayovi",
 			"seen": "{\"item\":\"word:chayovi\",\"text\":\"чайові\",\"display\":\"чайові́\",\"ipa\":\"/t͡ʃajɔˈʋi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/napiy",
 			"seen": "{\"item\":\"word:napiy\",\"text\":\"напій\",\"display\":\"напі́й\",\"ipa\":\"/naˈpij/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/desert",
 			"seen": "{\"item\":\"word:desert\",\"text\":\"десерт\",\"display\":\"десе́рт\",\"ipa\":\"/dɛˈsɛrt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/bulyon",
 			"seen": "{\"item\":\"word:bulyon\",\"text\":\"бульйон\",\"display\":\"бульйо́н\",\"ipa\":\"/bulʲˈjɔn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/espreso",
 			"seen": "{\"item\":\"word:espreso\",\"text\":\"еспресо\",\"display\":\"еспре́со\",\"ipa\":\"/ɛˈsprɛsɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/kapuchyno",
 			"seen": "{\"item\":\"word:kapuchyno\",\"text\":\"капучино\",\"display\":\"капучи́но\",\"ipa\":\"/kapuˈt͡ʃɪnɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/shokolad",
 			"seen": "{\"item\":\"word:shokolad\",\"text\":\"шоколад\",\"display\":\"шокола́д\",\"ipa\":\"/ʃɔkɔˈlad/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/vartist",
 			"seen": "{\"item\":\"word:vartist\",\"text\":\"вартість\",\"display\":\"ва́ртість\",\"ipa\":\"/ˈʋartʲistʲ/\",\"alsoAccepted\":[\"ціна\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/hotivka",
 			"seen": "{\"item\":\"word:hotivka\",\"text\":\"готівка\",\"display\":\"готі́вка\",\"ipa\":\"/ɦɔˈtʲiʋka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/kartka",
 			"seen": "{\"item\":\"word:kartka\",\"text\":\"картка\",\"display\":\"ка́ртка\",\"ipa\":\"/ˈkartka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/reshta",
 			"seen": "{\"item\":\"word:reshta\",\"text\":\"решта\",\"display\":\"ре́шта\",\"ipa\":\"/ˈrɛʃta/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/hroshi",
 			"seen": "{\"item\":\"word:hroshi\",\"text\":\"гроші\",\"display\":\"гро́ші\",\"ipa\":\"/ˈɦrɔʃi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/hryvnya",
 			"seen": "{\"item\":\"word:hryvnya\",\"text\":\"гривня\",\"display\":\"гри́вня\",\"ipa\":\"/ˈɦrɪʋnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/kupyura",
 			"seen": "{\"item\":\"word:kupyura\",\"text\":\"купюра\",\"display\":\"купю́ра\",\"ipa\":\"/kuˈpʲura/\",\"alsoAccepted\":[\"банкнота\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l17-words/moneta",
 			"seen": "{\"item\":\"word:moneta\",\"text\":\"монета\",\"display\":\"моне́та\",\"ipa\":\"/mɔˈnɛta/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/ya.yikhaty",
 			"seen": "{\"item\":\"verb-present:yikhaty:ya\",\"text\":\"їду\",\"display\":\"ї́ду\",\"ipa\":\"/ˈjidu/\",\"row\":\"ya\",\"col\":\"yikhaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/ya.yizdyty",
 			"seen": "{\"item\":\"verb-present:yizdyty:ya\",\"text\":\"їжджу\",\"display\":\"ї́жджу\",\"ipa\":\"/ˈjiʒdʒu/\",\"row\":\"ya\",\"col\":\"yizdyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/ty.yikhaty",
 			"seen": "{\"item\":\"verb-present:yikhaty:ty\",\"text\":\"їдеш\",\"display\":\"ї́деш\",\"ipa\":\"/ˈjidɛʃ/\",\"row\":\"ty\",\"col\":\"yikhaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/ty.yizdyty",
 			"seen": "{\"item\":\"verb-present:yizdyty:ty\",\"text\":\"їздиш\",\"display\":\"ї́здиш\",\"ipa\":\"/ˈjizdɪʃ/\",\"row\":\"ty\",\"col\":\"yizdyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/he.yikhaty",
 			"seen": "{\"item\":\"verb-present:yikhaty:he\",\"text\":\"їде\",\"display\":\"ї́де\",\"ipa\":\"/ˈjidɛ/\",\"row\":\"he\",\"col\":\"yikhaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/he.yizdyty",
 			"seen": "{\"item\":\"verb-present:yizdyty:he\",\"text\":\"їздить\",\"display\":\"ї́здить\",\"ipa\":\"/ˈjizdɪtʲ/\",\"row\":\"he\",\"col\":\"yizdyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/my.yikhaty",
 			"seen": "{\"item\":\"verb-present:yikhaty:my\",\"text\":\"їдемо\",\"display\":\"ї́демо\",\"ipa\":\"/ˈjidɛmɔ/\",\"alsoAccepted\":[\"їдем\"],\"row\":\"my\",\"col\":\"yikhaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/my.yizdyty",
 			"seen": "{\"item\":\"verb-present:yizdyty:my\",\"text\":\"їздимо\",\"display\":\"ї́здимо\",\"ipa\":\"/ˈjizdɪmɔ/\",\"alsoAccepted\":[\"їздим\"],\"row\":\"my\",\"col\":\"yizdyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/vy.yikhaty",
 			"seen": "{\"item\":\"verb-present:yikhaty:vy\",\"text\":\"їдете\",\"display\":\"ї́дете\",\"ipa\":\"/ˈjidɛtɛ/\",\"row\":\"vy\",\"col\":\"yikhaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/vy.yizdyty",
 			"seen": "{\"item\":\"verb-present:yizdyty:vy\",\"text\":\"їздите\",\"display\":\"ї́здите\",\"ipa\":\"/ˈjizdɪtɛ/\",\"row\":\"vy\",\"col\":\"yizdyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/they.yikhaty",
 			"seen": "{\"item\":\"verb-present:yikhaty:they\",\"text\":\"їдуть\",\"display\":\"ї́дуть\",\"ipa\":\"/ˈjidutʲ/\",\"row\":\"they\",\"col\":\"yikhaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-motion/they.yizdyty",
 			"seen": "{\"item\":\"verb-present:yizdyty:they\",\"text\":\"їздять\",\"display\":\"ї́здять\",\"ipa\":\"/ˈjizʲdʲatʲ/\",\"row\":\"they\",\"col\":\"yizdyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/avtomobil",
 			"seen": "{\"item\":\"word:avtomobil\",\"text\":\"автомобіль\",\"display\":\"автомобі́ль\",\"ipa\":\"/aʋtɔmɔˈbilʲ/\",\"alsoAccepted\":[\"автівка\",\"машина\",\"авто\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/prychip",
 			"seen": "{\"item\":\"word:prychip\",\"text\":\"причіп\",\"display\":\"при́чіп\",\"ipa\":\"/ˈprɪt͡ʃip/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/avtobus",
 			"seen": "{\"item\":\"word:avtobus\",\"text\":\"автобус\",\"display\":\"авто́бус\",\"ipa\":\"/aʋˈtɔbus/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/marshrutka",
 			"seen": "{\"item\":\"word:marshrutka\",\"text\":\"маршрутка\",\"display\":\"маршру́тка\",\"ipa\":\"/marʃˈrutka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/vantazhivka",
 			"seen": "{\"item\":\"word:vantazhivka\",\"text\":\"вантажівка\",\"display\":\"вантажі́вка\",\"ipa\":\"/ʋantaˈʒiʋka/\",\"alsoAccepted\":[\"вантажний автомобіль\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/tramvay",
 			"seen": "{\"item\":\"word:tramvay\",\"text\":\"трамвай\",\"display\":\"трамва́й\",\"ipa\":\"/tramˈʋaj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/troleybus",
 			"seen": "{\"item\":\"word:troleybus\",\"text\":\"тролейбус\",\"display\":\"троле́йбус\",\"ipa\":\"/trɔˈlɛjbus/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/poyizd",
 			"seen": "{\"item\":\"word:poyizd\",\"text\":\"поїзд\",\"display\":\"по́їзд\",\"ipa\":\"/ˈpɔjizd/\",\"alsoAccepted\":[\"потяг\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/metro",
 			"seen": "{\"item\":\"word:metro\",\"text\":\"метро\",\"display\":\"метро́\",\"ipa\":\"/mɛˈtrɔ/\",\"alsoAccepted\":[\"метрополітен\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/taksi",
 			"seen": "{\"item\":\"word:taksi\",\"text\":\"таксі\",\"display\":\"таксі́\",\"ipa\":\"/takˈsʲi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/elektrychka",
 			"seen": "{\"item\":\"word:elektrychka\",\"text\":\"електричка\",\"display\":\"електри́чка\",\"ipa\":\"/ɛlɛˈktrɪt͡ʃka/\",\"alsoAccepted\":[\"електропоїзд\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/litak",
 			"seen": "{\"item\":\"word:litak\",\"text\":\"літак\",\"display\":\"літа́к\",\"ipa\":\"/lʲiˈtak/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/aeroport",
 			"seen": "{\"item\":\"word:aeroport\",\"text\":\"аеропорт\",\"display\":\"аеропо́рт\",\"ipa\":\"/aɛrɔˈpɔrt/\",\"alsoAccepted\":[\"летовище\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/vokzal",
 			"seen": "{\"item\":\"word:vokzal\",\"text\":\"вокзал\",\"display\":\"вокза́л\",\"ipa\":\"/ʋɔˈɡzal/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/kvytok",
 			"seen": "{\"item\":\"word:kvytok\",\"text\":\"квиток\",\"display\":\"квито́к\",\"ipa\":\"/ɡʋɪˈtɔk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/pasazhyr",
 			"seen": "{\"item\":\"word:pasazhyr\",\"text\":\"пасажир\",\"display\":\"пасажи́р\",\"ipa\":\"/pasaˈʒɪr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/turyst",
 			"seen": "{\"item\":\"word:turyst\",\"text\":\"турист\",\"display\":\"тури́ст\",\"ipa\":\"/tuˈrɪst/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/zupynka",
 			"seen": "{\"item\":\"word:zupynka\",\"text\":\"зупинка\",\"display\":\"зупи́нка\",\"ipa\":\"/zuˈpɪnka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/zator",
 			"seen": "{\"item\":\"word:zator\",\"text\":\"затор\",\"display\":\"зато́р\",\"ipa\":\"/zaˈtɔr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/misto",
 			"seen": "{\"item\":\"word:misto\",\"text\":\"місто\",\"display\":\"мі́сто\",\"ipa\":\"/ˈmistɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/mistse",
 			"seen": "{\"item\":\"word:mistse\",\"text\":\"місце\",\"display\":\"мі́сце\",\"ipa\":\"/ˈmist͡sɛ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/mist.gen",
 			"seen": "{\"item\":\"form:l19-destinations:mist:gen\",\"text\":\"мосту\",\"display\":\"мо́сту\",\"ipa\":\"/ˈmɔstu/\",\"alsoAccepted\":[\"моста\"],\"row\":\"mist\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/hotel.gen",
 			"seen": "{\"item\":\"form:l19-destinations:hotel:gen\",\"text\":\"готелю\",\"display\":\"готе́лю\",\"ipa\":\"/ɦɔˈtɛlʲu/\",\"row\":\"hotel\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/bank.gen",
 			"seen": "{\"item\":\"form:l19-destinations:bank:gen\",\"text\":\"банку\",\"display\":\"ба́нку\",\"ipa\":\"/ˈbanku/\",\"row\":\"bank\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/hurtozhytok.gen",
 			"seen": "{\"item\":\"form:l19-destinations:hurtozhytok:gen\",\"text\":\"гуртожитку\",\"display\":\"гурто́житку\",\"ipa\":\"/ɦurˈtɔʒɪtku/\",\"alsoAccepted\":[\"гуртожитка\"],\"row\":\"hurtozhytok\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/universytet.gen",
 			"seen": "{\"item\":\"form:l19-destinations:universytet:gen\",\"text\":\"університету\",\"display\":\"університе́ту\",\"ipa\":\"/unʲiʋɛrsɪˈtɛtu/\",\"row\":\"universytet\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/kinoteatr.gen",
 			"seen": "{\"item\":\"form:l19-destinations:kinoteatr:gen\",\"text\":\"кінотеатру\",\"display\":\"кінотеа́тру\",\"ipa\":\"/kinɔtɛˈatru/\",\"row\":\"kinoteatr\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/sobor.gen",
 			"seen": "{\"item\":\"form:l19-destinations:sobor:gen\",\"text\":\"собору\",\"display\":\"собо́ру\",\"ipa\":\"/sɔˈbɔru/\",\"row\":\"sobor\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/khram.gen",
 			"seen": "{\"item\":\"form:l19-destinations:khram:gen\",\"text\":\"храму\",\"display\":\"хра́му\",\"ipa\":\"/ˈxramu/\",\"row\":\"khram\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/palats.gen",
 			"seen": "{\"item\":\"form:l19-destinations:palats:gen\",\"text\":\"палацу\",\"display\":\"пала́цу\",\"ipa\":\"/paˈlat͡su/\",\"row\":\"palats\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/zamok.gen",
 			"seen": "{\"item\":\"form:l19-destinations:zamok:gen\",\"text\":\"замку\",\"display\":\"за́мку\",\"ipa\":\"/ˈzamku/\",\"row\":\"zamok\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/muzey.gen",
 			"seen": "{\"item\":\"form:l19-destinations:muzey:gen\",\"text\":\"музею\",\"display\":\"музе́ю\",\"ipa\":\"/muˈzɛju/\",\"row\":\"muzey\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/park.gen",
 			"seen": "{\"item\":\"form:l19-destinations:park:gen\",\"text\":\"парку\",\"display\":\"па́рку\",\"ipa\":\"/ˈparku/\",\"row\":\"park\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/stadion.gen",
 			"seen": "{\"item\":\"form:l19-destinations:stadion:gen\",\"text\":\"стадіону\",\"display\":\"стадіо́ну\",\"ipa\":\"/stadʲiˈɔnu/\",\"row\":\"stadion\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/zoopark.gen",
 			"seen": "{\"item\":\"form:l19-destinations:zoopark:gen\",\"text\":\"зоопарку\",\"display\":\"зоопа́рку\",\"ipa\":\"/zɔɔˈparku/\",\"row\":\"zoopark\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/pam-yatnyk.gen",
 			"seen": "{\"item\":\"form:l19-destinations:pam-yatnyk:gen\",\"text\":\"пам'ятника\",\"display\":\"па́м'ятника\",\"ipa\":\"/ˈpamjatnɪka/\",\"row\":\"pam-yatnyk\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/fontan.gen",
 			"seen": "{\"item\":\"form:l19-destinations:fontan:gen\",\"text\":\"фонтана\",\"display\":\"фонта́на\",\"ipa\":\"/fɔnˈtana/\",\"alsoAccepted\":[\"фонтану\"],\"row\":\"fontan\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/halereya.gen",
 			"seen": "{\"item\":\"form:l19-destinations:halereya:gen\",\"text\":\"галереї\",\"display\":\"галере́ї\",\"ipa\":\"/ɦalɛˈrɛji/\",\"row\":\"halereya\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/zapravka.gen",
 			"seen": "{\"item\":\"form:l19-destinations:zapravka:gen\",\"text\":\"заправки\",\"display\":\"запра́вки\",\"ipa\":\"/zaˈpraʋkɪ/\",\"row\":\"zapravka\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/poshta.gen",
 			"seen": "{\"item\":\"form:l19-destinations:poshta:gen\",\"text\":\"пошти\",\"display\":\"по́шти\",\"ipa\":\"/ˈpɔʃtɪ/\",\"row\":\"poshta\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-destinations/ratusha.gen",
 			"seen": "{\"item\":\"form:l19-destinations:ratusha:gen\",\"text\":\"ратуші\",\"display\":\"ра́туші\",\"ipa\":\"/ˈratuʃi/\",\"row\":\"ratusha\",\"col\":\"gen\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/perekhrestya",
 			"seen": "{\"item\":\"word:perekhrestya\",\"text\":\"перехрестя\",\"display\":\"перехре́стя\",\"ipa\":\"/pɛrɛˈxrɛsʲtʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/rih",
 			"seen": "{\"item\":\"word:rih\",\"text\":\"ріг\",\"ipa\":\"/rʲiɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/perekhid",
 			"seen": "{\"item\":\"word:perekhid\",\"text\":\"перехід\",\"display\":\"перехі́д\",\"ipa\":\"/pɛrɛˈxid/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/trotuar",
 			"seen": "{\"item\":\"word:trotuar\",\"text\":\"тротуар\",\"display\":\"тротуа́р\",\"ipa\":\"/trɔtuˈar/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/mist",
 			"seen": "{\"item\":\"word:mist\",\"text\":\"міст\",\"ipa\":\"/mist/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/hotel",
 			"seen": "{\"item\":\"word:hotel\",\"text\":\"готель\",\"display\":\"готе́ль\",\"ipa\":\"/ɦɔˈtɛlʲ/\",\"alsoAccepted\":[\"гостиниця\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/bank",
 			"seen": "{\"item\":\"word:bank\",\"text\":\"банк\",\"ipa\":\"/bank/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/hurtozhytok",
 			"seen": "{\"item\":\"word:hurtozhytok\",\"text\":\"гуртожиток\",\"display\":\"гурто́житок\",\"ipa\":\"/ɦurˈtɔʒɪtɔk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/universytet",
 			"seen": "{\"item\":\"word:universytet\",\"text\":\"університет\",\"display\":\"університе́т\",\"ipa\":\"/unʲiʋɛrsɪˈtɛt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/kinoteatr",
 			"seen": "{\"item\":\"word:kinoteatr\",\"text\":\"кінотеатр\",\"display\":\"кінотеа́тр\",\"ipa\":\"/kinɔtɛˈatr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/sobor",
 			"seen": "{\"item\":\"word:sobor\",\"text\":\"собор\",\"display\":\"собо́р\",\"ipa\":\"/sɔˈbɔr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/khram",
 			"seen": "{\"item\":\"word:khram\",\"text\":\"храм\",\"ipa\":\"/xram/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/palats",
 			"seen": "{\"item\":\"word:palats\",\"text\":\"палац\",\"display\":\"пала́ц\",\"ipa\":\"/paˈlat͡s/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/zamok",
 			"seen": "{\"item\":\"word:zamok-castle\",\"text\":\"замок\",\"display\":\"за́мок\",\"ipa\":\"/ˈzamɔk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/muzey",
 			"seen": "{\"item\":\"word:muzey\",\"text\":\"музей\",\"display\":\"музе́й\",\"ipa\":\"/muˈzɛj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/park",
 			"seen": "{\"item\":\"word:park\",\"text\":\"парк\",\"ipa\":\"/park/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/stadion",
 			"seen": "{\"item\":\"word:stadion\",\"text\":\"стадіон\",\"display\":\"стадіо́н\",\"ipa\":\"/stadʲiˈɔn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/zoopark",
 			"seen": "{\"item\":\"word:zoopark\",\"text\":\"зоопарк\",\"display\":\"зоопа́рк\",\"ipa\":\"/zɔɔˈpark/\",\"alsoAccepted\":[\"зоологічний парк\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/pam-yatnyk",
 			"seen": "{\"item\":\"word:pam-yatnyk\",\"text\":\"пам'ятник\",\"display\":\"па́м'ятник\",\"ipa\":\"/ˈpamjatnɪk/\",\"alsoAccepted\":[\"монумент\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/fontan",
 			"seen": "{\"item\":\"word:fontan\",\"text\":\"фонтан\",\"display\":\"фонта́н\",\"ipa\":\"/fɔnˈtan/\",\"alsoAccepted\":[\"водограй\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/halereya",
 			"seen": "{\"item\":\"word:halereya\",\"text\":\"галерея\",\"display\":\"галере́я\",\"ipa\":\"/ɦalɛˈrɛja/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/zapravka",
 			"seen": "{\"item\":\"word:zapravka\",\"text\":\"заправка\",\"display\":\"запра́вка\",\"ipa\":\"/zaˈpraʋka/\",\"alsoAccepted\":[\"АЗС\",\"автозаправка\",\"автозаправна станція\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/poshta",
 			"seen": "{\"item\":\"word:poshta\",\"text\":\"пошта\",\"display\":\"по́шта\",\"ipa\":\"/ˈpɔʃta/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/ratusha",
 			"seen": "{\"item\":\"word:ratusha\",\"text\":\"ратуша\",\"display\":\"ра́туша\",\"ipa\":\"/ˈratuʃa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/livoruch",
 			"seen": "{\"item\":\"word:livoruch\",\"text\":\"ліворуч\",\"display\":\"ліво́руч\",\"ipa\":\"/lʲiˈʋɔrut͡ʃ/\",\"alsoAccepted\":[\"наліво\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/pravoruch",
 			"seen": "{\"item\":\"word:pravoruch\",\"text\":\"праворуч\",\"display\":\"право́руч\",\"ipa\":\"/praˈʋɔrut͡ʃ/\",\"alsoAccepted\":[\"направо\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/pryamo",
 			"seen": "{\"item\":\"word:pryamo\",\"text\":\"прямо\",\"display\":\"пря́мо\",\"ipa\":\"/ˈprʲamɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/pozadu",
 			"seen": "{\"item\":\"word:pozadu\",\"text\":\"позаду\",\"display\":\"поза́ду\",\"ipa\":\"/pɔˈzadu/\",\"alsoAccepted\":[\"ззаду\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l19-words/navproty",
 			"seen": "{\"item\":\"word:navproty\",\"text\":\"навпроти\",\"display\":\"навпро́ти\",\"ipa\":\"/naʋpˈrɔtɪ/\",\"alsoAccepted\":[\"напроти\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-perfective-future/ya.pity",
 			"seen": "{\"item\":\"verb-future:pity:ya\",\"text\":\"піду\",\"display\":\"піду́\",\"ipa\":\"/piˈdu/\",\"row\":\"ya\",\"col\":\"pity\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-perfective-future/ty.pity",
 			"seen": "{\"item\":\"verb-future:pity:ty\",\"text\":\"підеш\",\"display\":\"пі́деш\",\"ipa\":\"/ˈpidɛʃ/\",\"row\":\"ty\",\"col\":\"pity\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-perfective-future/he.pity",
 			"seen": "{\"item\":\"verb-future:pity:he\",\"text\":\"піде\",\"display\":\"пі́де\",\"ipa\":\"/ˈpidɛ/\",\"row\":\"he\",\"col\":\"pity\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-perfective-future/my.pity",
 			"seen": "{\"item\":\"verb-future:pity:my\",\"text\":\"підемо\",\"display\":\"пі́демо\",\"ipa\":\"/ˈpidɛmɔ/\",\"alsoAccepted\":[\"підем\"],\"row\":\"my\",\"col\":\"pity\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-perfective-future/vy.pity",
 			"seen": "{\"item\":\"verb-future:pity:vy\",\"text\":\"підете\",\"display\":\"пі́дете\",\"ipa\":\"/ˈpidɛtɛ/\",\"row\":\"vy\",\"col\":\"pity\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-perfective-future/they.pity",
 			"seen": "{\"item\":\"verb-future:pity:they\",\"text\":\"підуть\",\"display\":\"пі́дуть\",\"ipa\":\"/ˈpidutʲ/\",\"row\":\"they\",\"col\":\"pity\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/podorozh",
 			"seen": "{\"item\":\"word:podorozh\",\"text\":\"подорож\",\"display\":\"по́дорож\",\"ipa\":\"/ˈpɔdɔrɔʒ/\",\"alsoAccepted\":[\"мандрівка\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/vidpustka",
 			"seen": "{\"item\":\"word:vidpustka\",\"text\":\"відпустка\",\"display\":\"відпу́стка\",\"ipa\":\"/ʋidˈpustka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/stolytsya",
 			"seen": "{\"item\":\"word:stolytsya\",\"text\":\"столиця\",\"display\":\"столи́ця\",\"ipa\":\"/stɔˈlɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/pam-yatka",
 			"seen": "{\"item\":\"word:pam-yatka\",\"text\":\"пам'ятка\",\"display\":\"па́м'ятка\",\"ipa\":\"/ˈpamjatka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/lehenda",
 			"seen": "{\"item\":\"word:lehenda\",\"text\":\"легенда\",\"display\":\"леге́нда\",\"ipa\":\"/lɛˈɦɛnda/\",\"alsoAccepted\":[\"переказ\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/khmarochos",
 			"seen": "{\"item\":\"word:khmarochos\",\"text\":\"хмарочос\",\"display\":\"хмарочо́с\",\"ipa\":\"/xmarɔˈt͡ʃɔs/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/naberezhna",
 			"seen": "{\"item\":\"word:naberezhna\",\"text\":\"набережна\",\"display\":\"на́бережна\",\"ipa\":\"/ˈnabɛrɛʒna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/bulvar",
 			"seen": "{\"item\":\"word:bulvar\",\"text\":\"бульвар\",\"display\":\"бульва́р\",\"ipa\":\"/bulʲˈʋar/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/skhody",
 			"seen": "{\"item\":\"word:skhody\",\"text\":\"сходи\",\"display\":\"схо́ди\",\"ipa\":\"/ˈsxɔdɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/sporuda",
 			"seen": "{\"item\":\"word:sporuda\",\"text\":\"споруда\",\"display\":\"спору́да\",\"ipa\":\"/spɔˈruda/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/budivlya",
 			"seen": "{\"item\":\"word:budivlya\",\"text\":\"будівля\",\"display\":\"буді́вля\",\"ipa\":\"/buˈdʲiʋlʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/ploshcha",
 			"seen": "{\"item\":\"word:ploshcha\",\"text\":\"площа\",\"display\":\"пло́ща\",\"ipa\":\"/ˈplɔʃt͡ʃa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/vulytsya",
 			"seen": "{\"item\":\"word:vulytsya\",\"text\":\"вулиця\",\"display\":\"ву́лиця\",\"ipa\":\"/ˈʋulɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/prospekt",
 			"seen": "{\"item\":\"word:prospekt\",\"text\":\"проспект\",\"display\":\"проспе́кт\",\"ipa\":\"/prɔsˈpɛkt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/teatr",
 			"seen": "{\"item\":\"word:teatr\",\"text\":\"театр\",\"display\":\"теа́тр\",\"ipa\":\"/tɛˈatr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/tserkva",
 			"seen": "{\"item\":\"word:tserkva\",\"text\":\"церква\",\"display\":\"це́рква\",\"ipa\":\"/ˈt͡sɛrɡʋa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/more",
 			"seen": "{\"item\":\"word:more\",\"text\":\"море\",\"display\":\"мо́ре\",\"ipa\":\"/ˈmɔrɛ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/krayina",
 			"seen": "{\"item\":\"word:krayina\",\"text\":\"країна\",\"display\":\"краї́на\",\"ipa\":\"/kraˈjina/\",\"alsoAccepted\":[\"держава\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/muzey",
 			"seen": "{\"item\":\"word:muzey\",\"text\":\"музей\",\"display\":\"музе́й\",\"ipa\":\"/muˈzɛj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/palats",
 			"seen": "{\"item\":\"word:palats\",\"text\":\"палац\",\"display\":\"пала́ц\",\"ipa\":\"/paˈlat͡s/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-adjective-kinds/yakisnyy",
 			"seen": "{\"item\":\"word:yakisnyy\",\"text\":\"якісний\",\"display\":\"я́кісний\",\"ipa\":\"/ˈjakisnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-adjective-kinds/vidnosnyy",
 			"seen": "{\"item\":\"word:vidnosnyy\",\"text\":\"відносний\",\"display\":\"відно́сний\",\"ipa\":\"/ʋiˈdnɔsnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-adjective-kinds/prysviynyy",
 			"seen": "{\"item\":\"word:prysviynyy\",\"text\":\"присвійний\",\"display\":\"присві́йний\",\"ipa\":\"/prɪsˈʋijnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/slabkyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:slabkyy:higher\",\"text\":\"слабкіший\",\"display\":\"слабкі́ший\",\"ipa\":\"/slabˈkiʃɪj/\",\"alsoAccepted\":[\"слабший\"],\"row\":\"slabkyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/hrubyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:hrubyy:higher\",\"text\":\"грубіший\",\"display\":\"грубі́ший\",\"ipa\":\"/ɦruˈbiʃɪj/\",\"row\":\"hrubyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/nizhnyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:nizhnyy:higher\",\"text\":\"ніжніший\",\"display\":\"ніжні́ший\",\"ipa\":\"/nʲiˈʒnʲiʃɪj/\",\"row\":\"nizhnyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/lehkyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:lehkyy:higher\",\"text\":\"легший\",\"display\":\"ле́гший\",\"ipa\":\"/ˈlɛɦʃɪj/\",\"row\":\"lehkyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/hlybokyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:hlybokyy:higher\",\"text\":\"глибший\",\"display\":\"гли́бший\",\"ipa\":\"/ˈɦlɪbʃɪj/\",\"row\":\"hlybokyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/blyzkyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:blyzkyy:higher\",\"text\":\"ближчий\",\"display\":\"бли́жчий\",\"ipa\":\"/ˈblɪʒt͡ʃɪj/\",\"row\":\"blyzkyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/nyzkyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:nyzkyy:higher\",\"text\":\"нижчий\",\"display\":\"ни́жчий\",\"ipa\":\"/ˈnɪʒt͡ʃɪj/\",\"row\":\"nyzkyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/tyazhkyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:tyazhkyy:higher\",\"text\":\"тяжчий\",\"display\":\"тя́жчий\",\"ipa\":\"/ˈtʲaʒt͡ʃɪj/\",\"row\":\"tyazhkyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/vazhkyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:vazhkyy:higher\",\"text\":\"важчий\",\"display\":\"ва́жчий\",\"ipa\":\"/ˈʋaʒt͡ʃɪj/\",\"row\":\"vazhkyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/vysokyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:vysokyy:higher\",\"text\":\"вищий\",\"display\":\"ви́щий\",\"ipa\":\"/ˈʋɪʃt͡ʃɪj/\",\"row\":\"vysokyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/khoroshyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:khoroshyy:higher\",\"text\":\"кращий\",\"display\":\"кра́щий\",\"ipa\":\"/ˈkraʃt͡ʃɪj/\",\"alsoAccepted\":[\"ліпший\"],\"row\":\"khoroshyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/pohanyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:pohanyy:higher\",\"text\":\"гірший\",\"display\":\"гі́рший\",\"ipa\":\"/ˈɦirʃɪj/\",\"alsoAccepted\":[\"поганіший\",\"поганший\"],\"row\":\"pohanyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-comparison/velykyy.higher",
 			"seen": "{\"item\":\"form:l21-comparison:velykyy:higher\",\"text\":\"більший\",\"display\":\"бі́льший\",\"ipa\":\"/ˈbilʲʃɪj/\",\"row\":\"velykyy\",\"col\":\"higher\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/slabkyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:slabkyy:highest\",\"text\":\"найслабкіший\",\"display\":\"найслабкі́ший\",\"ipa\":\"/najslabˈkiʃɪj/\",\"alsoAccepted\":[\"найслабший\"],\"row\":\"slabkyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/hrubyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:hrubyy:highest\",\"text\":\"найгрубіший\",\"display\":\"найгрубі́ший\",\"ipa\":\"/najɦruˈbiʃɪj/\",\"row\":\"hrubyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/nizhnyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:nizhnyy:highest\",\"text\":\"найніжніший\",\"display\":\"найніжні́ший\",\"ipa\":\"/najnʲiˈʒnʲiʃɪj/\",\"row\":\"nizhnyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/lehkyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:lehkyy:highest\",\"text\":\"найлегший\",\"display\":\"найле́гший\",\"ipa\":\"/najˈlɛɦʃɪj/\",\"row\":\"lehkyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/hlybokyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:hlybokyy:highest\",\"text\":\"найглибший\",\"display\":\"найгли́бший\",\"ipa\":\"/najɦˈlɪbʃɪj/\",\"row\":\"hlybokyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/blyzkyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:blyzkyy:highest\",\"text\":\"найближчий\",\"display\":\"найбли́жчий\",\"ipa\":\"/najbˈlɪʒt͡ʃɪj/\",\"row\":\"blyzkyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/nyzkyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:nyzkyy:highest\",\"text\":\"найнижчий\",\"display\":\"найни́жчий\",\"ipa\":\"/najˈnɪʒt͡ʃɪj/\",\"row\":\"nyzkyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/tyazhkyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:tyazhkyy:highest\",\"text\":\"найтяжчий\",\"display\":\"найтя́жчий\",\"ipa\":\"/najˈtʲaʒt͡ʃɪj/\",\"row\":\"tyazhkyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/vazhkyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:vazhkyy:highest\",\"text\":\"найважчий\",\"display\":\"найва́жчий\",\"ipa\":\"/najˈʋaʒt͡ʃɪj/\",\"row\":\"vazhkyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/vysokyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:vysokyy:highest\",\"text\":\"найвищий\",\"display\":\"найви́щий\",\"ipa\":\"/najˈʋɪʃt͡ʃɪj/\",\"row\":\"vysokyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/khoroshyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:khoroshyy:highest\",\"text\":\"найкращий\",\"display\":\"найкра́щий\",\"ipa\":\"/najkˈraʃt͡ʃɪj/\",\"alsoAccepted\":[\"найліпший\"],\"row\":\"khoroshyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/pohanyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:pohanyy:highest\",\"text\":\"найгірший\",\"display\":\"найгі́рший\",\"ipa\":\"/najˈɦirʃɪj/\",\"alsoAccepted\":[\"найпоганіший\",\"найпоганший\"],\"row\":\"pohanyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/velykyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:velykyy:highest\",\"text\":\"найбільший\",\"display\":\"найбі́льший\",\"ipa\":\"/najˈbilʲʃɪj/\",\"row\":\"velykyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/kharakter",
 			"seen": "{\"item\":\"word:kharakter\",\"text\":\"характер\",\"display\":\"хара́ктер\",\"ipa\":\"/xaˈraktɛr/\",\"alsoAccepted\":[\"вдача\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/nadiynyy",
 			"seen": "{\"item\":\"word:nadiynyy\",\"text\":\"надійний\",\"display\":\"наді́йний\",\"ipa\":\"/naˈdʲijnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/tvorchyy",
 			"seen": "{\"item\":\"word:tvorchyy\",\"text\":\"творчий\",\"display\":\"тво́рчий\",\"ipa\":\"/ˈtʋɔrt͡ʃɪj/\",\"alsoAccepted\":[\"креативний\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/dobrozychlyvyy",
 			"seen": "{\"item\":\"word:dobrozychlyvyy\",\"text\":\"доброзичливий\",\"display\":\"доброзичли́вий\",\"ipa\":\"/dɔbrɔzɪˈt͡ʃlɪʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/vdyachnyy",
 			"seen": "{\"item\":\"word:vdyachnyy\",\"text\":\"вдячний\",\"display\":\"вдя́чний\",\"ipa\":\"/ˈʋdʲat͡ʃnɪj/\",\"alsoAccepted\":[\"удячний\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/zapalnyy",
 			"seen": "{\"item\":\"word:zapalnyy\",\"text\":\"запальний\",\"display\":\"запальни́й\",\"ipa\":\"/zapalʲˈnɪj/\",\"alsoAccepted\":[\"гарячкуватий\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/pomyslyvyy",
 			"seen": "{\"item\":\"word:pomyslyvyy\",\"text\":\"помисливий\",\"display\":\"поми́сливий\",\"ipa\":\"/pɔˈmɪslɪʋɪj/\",\"alsoAccepted\":[\"недовірливий\",\"підозріливий\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/shchedryy",
 			"seen": "{\"item\":\"word:shchedryy\",\"text\":\"щедрий\",\"display\":\"ще́дрий\",\"ipa\":\"/ˈʃt͡ʃɛdrɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/urivnovazhenyy",
 			"seen": "{\"item\":\"word:urivnovazhenyy\",\"text\":\"урівноважений\",\"display\":\"урівнова́жений\",\"ipa\":\"/urʲiʋnɔˈʋaʒɛnɪj/\",\"alsoAccepted\":[\"врівноважений\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/rishuchyy",
 			"seen": "{\"item\":\"word:rishuchyy\",\"text\":\"рішучий\",\"display\":\"рішу́чий\",\"ipa\":\"/rʲiˈʃut͡ʃɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/upertyy",
 			"seen": "{\"item\":\"word:upertyy\",\"text\":\"упертий\",\"display\":\"упе́ртий\",\"ipa\":\"/uˈpɛrtɪj/\",\"alsoAccepted\":[\"впертий\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/postuplyvyy",
 			"seen": "{\"item\":\"word:postuplyvyy\",\"text\":\"поступливий\",\"display\":\"посту́пливий\",\"ipa\":\"/pɔsˈtuplɪʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/zukhvalyy",
 			"seen": "{\"item\":\"word:zukhvalyy\",\"text\":\"зухвалий\",\"display\":\"зухва́лий\",\"ipa\":\"/zuxˈʋalɪj/\",\"alsoAccepted\":[\"дерзкий\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/dobryy",
 			"seen": "{\"item\":\"word:dobryy\",\"text\":\"добрий\",\"display\":\"до́брий\",\"ipa\":\"/ˈdɔbrɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/veselyy",
 			"seen": "{\"item\":\"word:veselyy\",\"text\":\"веселий\",\"display\":\"весе́лий\",\"ipa\":\"/ʋɛˈsɛlɪj/\",\"alsoAccepted\":[\"життєрадісний\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/rozlyuchenyy",
 			"seen": "{\"item\":\"word:rozlyuchenyy\",\"text\":\"розлючений\",\"display\":\"розлю́чений\",\"ipa\":\"/rɔzʲˈlʲut͡ʃɛnɪj/\",\"alsoAccepted\":[\"розгніваний\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/zasmuchenyy",
 			"seen": "{\"item\":\"word:zasmuchenyy\",\"text\":\"засмучений\",\"display\":\"засму́чений\",\"ipa\":\"/zaˈsmut͡ʃɛnɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/napolehlyvyy",
 			"seen": "{\"item\":\"word:napolehlyvyy\",\"text\":\"наполегливий\",\"display\":\"наполе́гливий\",\"ipa\":\"/napɔˈlɛɦlɪʋɪj/\",\"alsoAccepted\":[\"настійливий\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/velycheznyy",
 			"seen": "{\"item\":\"word:velycheznyy\",\"text\":\"величезний\",\"display\":\"величе́зний\",\"ipa\":\"/ʋɛlɪˈt͡ʃɛznɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/zlyushchyy",
 			"seen": "{\"item\":\"word:zlyushchyy\",\"text\":\"злющий\",\"display\":\"злю́щий\",\"ipa\":\"/ˈzʲlʲuʃt͡ʃɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/dyvakuvatyy",
 			"seen": "{\"item\":\"word:dyvakuvatyy\",\"text\":\"дивакуватий\",\"display\":\"дивакува́тий\",\"ipa\":\"/dɪʋakuˈʋatɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-words/chepurnenkyy",
 			"seen": "{\"item\":\"word:chepurnenkyy\",\"text\":\"чепурненький\",\"display\":\"чепурне́нький\",\"ipa\":\"/t͡ʃɛpurˈnɛnʲkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/provodyty",
 			"seen": "{\"item\":\"word:provodyty\",\"text\":\"проводити\",\"display\":\"прово́дити\",\"ipa\":\"/prɔˈʋɔdɪtɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/vkladaty",
 			"seen": "{\"item\":\"word:vkladaty\",\"text\":\"вкладати\",\"display\":\"вклада́ти\",\"ipa\":\"/ʋklaˈdatɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/planuvaty",
 			"seen": "{\"item\":\"word:planuvaty\",\"text\":\"планувати\",\"display\":\"планува́ти\",\"ipa\":\"/planuˈʋatɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/znakhodyty",
 			"seen": "{\"item\":\"word:znakhodyty\",\"text\":\"знаходити\",\"display\":\"знахо́дити\",\"ipa\":\"/znaˈxɔdɪtɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/prysvyachuvaty",
 			"seen": "{\"item\":\"word:prysvyachuvaty\",\"text\":\"присвячувати\",\"display\":\"присвя́чувати\",\"ipa\":\"/prɪsʲˈʋʲat͡ʃuʋatɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/haynuvaty",
 			"seen": "{\"item\":\"word:haynuvaty\",\"text\":\"гайнувати\",\"display\":\"гайнува́ти\",\"ipa\":\"/ɦajnuˈʋatɪ/\",\"alsoAccepted\":[\"марнувати\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/korystuvatysya",
 			"seen": "{\"item\":\"word:korystuvatysya\",\"text\":\"користуватися\",\"display\":\"користува́тися\",\"ipa\":\"/kɔrɪstuˈʋatɪsʲa/\",\"alsoAccepted\":[\"користуватись\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/volodity",
 			"seen": "{\"item\":\"word:volodity\",\"text\":\"володіти\",\"display\":\"володі́ти\",\"ipa\":\"/ʋɔlɔˈdʲitɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/nasolodzhuvatysya",
 			"seen": "{\"item\":\"word:nasolodzhuvatysya\",\"text\":\"насолоджуватися\",\"display\":\"насоло́джуватися\",\"ipa\":\"/nasɔˈlɔdʒuʋatɪsʲa/\",\"alsoAccepted\":[\"насолоджуватись\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/zhertvuvaty",
 			"seen": "{\"item\":\"word:zhertvuvaty\",\"text\":\"жертвувати\",\"display\":\"же́ртвувати\",\"ipa\":\"/ˈʒɛrtʋuʋatɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/rozslablyatysya",
 			"seen": "{\"item\":\"word:rozslablyatysya\",\"text\":\"розслаблятися\",\"display\":\"розслабля́тися\",\"ipa\":\"/rɔzslaˈblʲatɪsʲa/\",\"alsoAccepted\":[\"розслаблятись\",\"розслаблюватися\",\"розслаблюватись\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/tsikavytysya",
 			"seen": "{\"item\":\"word:tsikavytysya\",\"text\":\"цікавитися\",\"display\":\"ціка́витися\",\"ipa\":\"/t͡sʲiˈkaʋɪtɪsʲa/\",\"alsoAccepted\":[\"цікавитись\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/zaymatysya",
 			"seen": "{\"item\":\"word:zaymatysya\",\"text\":\"займатися\",\"display\":\"займа́тися\",\"ipa\":\"/zajˈmatɪsʲa/\",\"alsoAccepted\":[\"займатись\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-leisure-verbs/vidpochyvaty",
 			"seen": "{\"item\":\"word:vidpochyvaty\",\"text\":\"відпочивати\",\"display\":\"відпочива́ти\",\"ipa\":\"/ʋidpɔt͡ʃɪˈʋatɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/dozvillya",
 			"seen": "{\"item\":\"word:dozvillya\",\"text\":\"дозвілля\",\"display\":\"дозві́лля\",\"ipa\":\"/dɔzˈʋillʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/khobi",
 			"seen": "{\"item\":\"word:khobi\",\"text\":\"хобі\",\"display\":\"хо́бі\",\"ipa\":\"/ˈxɔbi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/zakhoplennya",
 			"seen": "{\"item\":\"word:zakhoplennya\",\"text\":\"захоплення\",\"display\":\"захо́плення\",\"ipa\":\"/zaˈxɔplɛnʲːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/sfera",
 			"seen": "{\"item\":\"word:sfera\",\"text\":\"сфера\",\"display\":\"сфе́ра\",\"ipa\":\"/ˈsfɛra/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/haluz",
 			"seen": "{\"item\":\"word:haluz\",\"text\":\"галузь\",\"display\":\"га́лузь\",\"ipa\":\"/ˈɦaluzʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/kolektsionuvannya",
 			"seen": "{\"item\":\"word:kolektsionuvannya\",\"text\":\"колекціонування\",\"display\":\"колекціонува́ння\",\"ipa\":\"/kɔlɛkt͡sʲiɔnuˈʋanʲːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/rukodillya",
 			"seen": "{\"item\":\"word:rukodillya\",\"text\":\"рукоділля\",\"display\":\"рукоді́лля\",\"ipa\":\"/rukɔˈdʲillʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/vyshyvannya",
 			"seen": "{\"item\":\"word:vyshyvannya\",\"text\":\"вишивання\",\"display\":\"вишива́ння\",\"ipa\":\"/ʋɪʃɪˈʋanʲːa/\",\"alsoAccepted\":[\"вишивка\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/shyttya",
 			"seen": "{\"item\":\"word:shyttya\",\"text\":\"шиття\",\"display\":\"шиття́\",\"ipa\":\"/ʃɪtˈtʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/kvitnykarstvo",
 			"seen": "{\"item\":\"word:kvitnykarstvo\",\"text\":\"квітникарство\",\"display\":\"квітника́рство\",\"ipa\":\"/ɡʋitnɪˈkarstʋɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/malyuvannya",
 			"seen": "{\"item\":\"word:malyuvannya\",\"text\":\"малювання\",\"display\":\"малюва́ння\",\"ipa\":\"/malʲuˈʋanʲːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/spiv",
 			"seen": "{\"item\":\"word:spiv\",\"text\":\"спів\",\"ipa\":\"/spiʋ/\",\"alsoAccepted\":[\"співання\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/tantsi",
 			"seen": "{\"item\":\"word:tantsi\",\"text\":\"танці\",\"display\":\"та́нці\",\"ipa\":\"/ˈtant͡sʲi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/muzyka",
 			"seen": "{\"item\":\"word:muzyka\",\"text\":\"музика\",\"display\":\"му́зика\",\"ipa\":\"/ˈmuzɪka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/futbol",
 			"seen": "{\"item\":\"word:futbol\",\"text\":\"футбол\",\"display\":\"футбо́л\",\"ipa\":\"/futˈbɔl/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/khokey",
 			"seen": "{\"item\":\"word:khokey\",\"text\":\"хокей\",\"display\":\"хоке́й\",\"ipa\":\"/xɔˈkɛj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/tenis",
 			"seen": "{\"item\":\"word:tenis\",\"text\":\"теніс\",\"display\":\"те́ніс\",\"ipa\":\"/ˈtɛnʲis/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/fitnes",
 			"seen": "{\"item\":\"word:fitnes\",\"text\":\"фітнес\",\"display\":\"фі́тнес\",\"ipa\":\"/ˈfitnɛs/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/alpinizm",
 			"seen": "{\"item\":\"word:alpinizm\",\"text\":\"альпінізм\",\"display\":\"альпіні́зм\",\"ipa\":\"/alʲpiˈnʲizm/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/turyzm",
 			"seen": "{\"item\":\"word:turyzm\",\"text\":\"туризм\",\"display\":\"тури́зм\",\"ipa\":\"/tuˈrɪzm/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/rybolovlya",
 			"seen": "{\"item\":\"word:rybolovlya\",\"text\":\"риболовля\",\"display\":\"риболо́вля\",\"ipa\":\"/rɪbɔˈlɔʋlʲa/\",\"alsoAccepted\":[\"риболовство\",\"рибальство\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/bdzhilnytstvo",
 			"seen": "{\"item\":\"word:bdzhilnytstvo\",\"text\":\"бджільництво\",\"display\":\"бджільни́цтво\",\"ipa\":\"/bdʒilʲˈnɪt͡stʋɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/prohramuvannya",
 			"seen": "{\"item\":\"word:prohramuvannya\",\"text\":\"програмування\",\"display\":\"програмува́ння\",\"ipa\":\"/prɔɦramuˈʋanʲːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/animatsiya",
 			"seen": "{\"item\":\"word:animatsiya\",\"text\":\"анімація\",\"display\":\"аніма́ція\",\"ipa\":\"/anʲiˈmat͡sʲija/\",\"alsoAccepted\":[\"мультиплікація\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-medicines-words/pihulka",
 			"seen": "{\"item\":\"word:pihulka\",\"text\":\"пігулка\",\"display\":\"пігу́лка\",\"ipa\":\"/piˈɦulka/\",\"alsoAccepted\":[\"таблетка\",\"пілюля\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-medicines-words/mikstura",
 			"seen": "{\"item\":\"word:mikstura\",\"text\":\"мікстура\",\"display\":\"міксту́ра\",\"ipa\":\"/miksˈtura/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-medicines-words/krapli",
 			"seen": "{\"item\":\"word:krapli\",\"text\":\"краплі\",\"display\":\"кра́плі\",\"ipa\":\"/ˈkraplʲi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-medicines-words/svichka",
 			"seen": "{\"item\":\"word:svichka\",\"text\":\"свічка\",\"display\":\"сві́чка\",\"ipa\":\"/ˈsʋit͡ʃka/\",\"alsoAccepted\":[\"супозиторій\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-medicines-words/syrop",
 			"seen": "{\"item\":\"word:syrop\",\"text\":\"сироп\",\"display\":\"сиро́п\",\"ipa\":\"/sɪˈrɔp/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-medicines-words/maz",
 			"seen": "{\"item\":\"word:maz\",\"text\":\"мазь\",\"display\":\"мазь\",\"ipa\":\"/mazʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/alerholoh",
 			"seen": "{\"item\":\"word:alerholoh\",\"text\":\"алерголог\",\"display\":\"алерго́лог\",\"ipa\":\"/alɛrˈɦɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/hinekoloh",
 			"seen": "{\"item\":\"word:hinekoloh\",\"text\":\"гінеколог\",\"display\":\"гінеко́лог\",\"ipa\":\"/ɦinɛˈkɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/mamoloh",
 			"seen": "{\"item\":\"word:mamoloh\",\"text\":\"мамолог\",\"display\":\"мамолог\",\"ipa\":\"/mamɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/uroloh",
 			"seen": "{\"item\":\"word:uroloh\",\"text\":\"уролог\",\"display\":\"уро́лог\",\"ipa\":\"/uˈrɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/kardioloh",
 			"seen": "{\"item\":\"word:kardioloh\",\"text\":\"кардіолог\",\"display\":\"кардіо́лог\",\"ipa\":\"/kardʲiˈɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/hastroenteroloh",
 			"seen": "{\"item\":\"word:hastroenteroloh\",\"text\":\"гастроентеролог\",\"display\":\"гастроентеро́лог\",\"ipa\":\"/ɦastrɔɛntɛˈrɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/nevropatoloh",
 			"seen": "{\"item\":\"word:nevropatoloh\",\"text\":\"невропатолог\",\"display\":\"невропато́лог\",\"ipa\":\"/nɛʋrɔpaˈtɔlɔɦ/\",\"alsoAccepted\":[\"невролог\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/endokrynoloh",
 			"seen": "{\"item\":\"word:endokrynoloh\",\"text\":\"ендокринолог\",\"display\":\"ендокрино́лог\",\"ipa\":\"/ɛndɔkrɪˈnɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/khirurh",
 			"seen": "{\"item\":\"word:khirurh\",\"text\":\"хірург\",\"display\":\"хіру́рг\",\"ipa\":\"/xiˈrurɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/travmatoloh",
 			"seen": "{\"item\":\"word:travmatoloh\",\"text\":\"травматолог\",\"display\":\"травмато́лог\",\"ipa\":\"/traʋmaˈtɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/dermatoloh",
 			"seen": "{\"item\":\"word:dermatoloh\",\"text\":\"дерматолог\",\"display\":\"дермато́лог\",\"ipa\":\"/dɛrmaˈtɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/stomatoloh",
 			"seen": "{\"item\":\"word:stomatoloh\",\"text\":\"стоматолог\",\"display\":\"стомато́лог\",\"ipa\":\"/stɔmaˈtɔlɔɦ/\",\"alsoAccepted\":[\"дантист\",\"зубний лікар\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/onkoloh",
 			"seen": "{\"item\":\"word:onkoloh\",\"text\":\"онколог\",\"display\":\"онко́лог\",\"ipa\":\"/ɔnˈkɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/oftalmoloh",
 			"seen": "{\"item\":\"word:oftalmoloh\",\"text\":\"офтальмолог\",\"display\":\"офтальмо́лог\",\"ipa\":\"/ɔftalʲˈmɔlɔɦ/\",\"alsoAccepted\":[\"окуліст\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/ftyziatr",
 			"seen": "{\"item\":\"word:ftyziatr\",\"text\":\"фтизіатр\",\"display\":\"фтизіа́тр\",\"ipa\":\"/ftɪzʲiˈatr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/psykhiatr",
 			"seen": "{\"item\":\"word:psykhiatr\",\"text\":\"психіатр\",\"display\":\"психіа́тр\",\"ipa\":\"/psɪxiˈatr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-specialists-words/narkoloh",
 			"seen": "{\"item\":\"word:narkoloh\",\"text\":\"нарколог\",\"display\":\"нарко́лог\",\"ipa\":\"/narˈkɔlɔɦ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/new-year",
 			"seen": "{\"item\":\"holiday-date:uk:new-year\",\"text\":\"перше січня\",\"display\":\"пе́рше сі́чня\",\"ipa\":\"/ˈpɛrʃɛ ˈsʲit͡ʃnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/women",
 			"seen": "{\"item\":\"holiday-date:uk:women\",\"text\":\"восьме березня\",\"display\":\"во́сьме бе́резня\",\"ipa\":\"/ˈʋɔsʲmɛ ˈbɛrɛzʲnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/labour",
 			"seen": "{\"item\":\"holiday-date:uk:labour\",\"text\":\"перше травня\",\"display\":\"пе́рше тра́вня\",\"ipa\":\"/ˈpɛrʃɛ ˈtraʋnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/remembrance",
 			"seen": "{\"item\":\"holiday-date:uk:remembrance\",\"text\":\"восьме травня\",\"display\":\"во́сьме тра́вня\",\"ipa\":\"/ˈʋɔsʲmɛ ˈtraʋnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/constitution",
 			"seen": "{\"item\":\"holiday-date:uk:constitution\",\"text\":\"двадцять восьме червня\",\"display\":\"два́дцять во́сьме че́рвня\",\"ipa\":\"/ˈdʋadt͡sʲatʲ ˈʋɔsʲmɛ ˈt͡ʃɛrʋnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/statehood",
 			"seen": "{\"item\":\"holiday-date:uk:statehood\",\"text\":\"п'ятнадцяте липня\",\"display\":\"п'ятна́дцяте ли́пня\",\"ipa\":\"/pjaˈtnadt͡sʲatɛ ˈlɪpnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/independence",
 			"seen": "{\"item\":\"holiday-date:uk:independence\",\"text\":\"двадцять четверте серпня\",\"display\":\"два́дцять четве́рте се́рпня\",\"ipa\":\"/ˈdʋadt͡sʲatʲ t͡ʃɛtˈʋɛrtɛ ˈsɛrpnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/defenders",
 			"seen": "{\"item\":\"holiday-date:uk:defenders\",\"text\":\"перше жовтня\",\"display\":\"пе́рше жо́втня\",\"ipa\":\"/ˈpɛrʃɛ ˈʒɔʋtʲnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/christmas",
 			"seen": "{\"item\":\"holiday-date:uk:christmas\",\"text\":\"двадцять п'яте грудня\",\"display\":\"два́дцять п'я́те гру́дня\",\"ipa\":\"/ˈdʋadt͡sʲatʲ ˈpjatɛ ˈɦrudʲnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/triytsya",
 			"seen": "{\"item\":\"word:triytsya\",\"text\":\"Трійця\",\"display\":\"Трі́йця\",\"ipa\":\"/ˈtʲrʲijt͡sʲa/\",\"alsoAccepted\":[\"Зелені свята\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/pokrova",
 			"seen": "{\"item\":\"word:pokrova\",\"text\":\"Покрова\",\"display\":\"Покро́ва\",\"ipa\":\"/pɔˈkrɔʋa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/vodokhreshche",
 			"seen": "{\"item\":\"word:vodokhreshche\",\"text\":\"Водохреще\",\"display\":\"Водо́хреще\",\"ipa\":\"/ʋɔˈdɔxrɛʃt͡ʃɛ/\",\"alsoAccepted\":[\"Водохреща\",\"Йордан\",\"Богоявлення\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/blahovishchennya",
 			"seen": "{\"item\":\"word:blahovishchennya\",\"text\":\"Благовіщення\",\"display\":\"Благові́щення\",\"ipa\":\"/blaɦɔˈʋiʃt͡ʃɛnʲːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/obryad",
 			"seen": "{\"item\":\"word:obryad\",\"text\":\"обряд\",\"display\":\"обря́д\",\"ipa\":\"/ɔˈbrʲad/\",\"alsoAccepted\":[\"ритуал\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/uzvar",
 			"seen": "{\"item\":\"word:uzvar\",\"text\":\"узвар\",\"display\":\"узва́р\",\"ipa\":\"/uzˈʋar/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/didukh",
 			"seen": "{\"item\":\"word:didukh\",\"text\":\"дідух\",\"display\":\"діду́х\",\"ipa\":\"/dʲiˈdux/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/konstytutsiya",
 			"seen": "{\"item\":\"word:konstytutsiya\",\"text\":\"конституція\",\"display\":\"конститу́ція\",\"ipa\":\"/kɔnstɪˈtut͡sʲija/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/pidsnizhnyk",
 			"seen": "{\"item\":\"word:pidsnizhnyk\",\"text\":\"підсніжник\",\"display\":\"підсні́жник\",\"ipa\":\"/piˈdsʲnʲiʒnɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/proliska",
 			"seen": "{\"item\":\"word:proliska\",\"text\":\"проліска\",\"display\":\"про́ліска\",\"ipa\":\"/ˈprɔlʲiska/\",\"alsoAccepted\":[\"пролісок\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/ryast",
 			"seen": "{\"item\":\"word:ryast\",\"text\":\"ряст\",\"display\":\"ряст\",\"ipa\":\"/rʲast/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/konvaliya",
 			"seen": "{\"item\":\"word:konvaliya\",\"text\":\"конвалія\",\"display\":\"конва́лія\",\"ipa\":\"/kɔnˈʋalʲija/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/fialka",
 			"seen": "{\"item\":\"word:fialka\",\"text\":\"фіалка\",\"display\":\"фіа́лка\",\"ipa\":\"/fiˈalka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/zvirobiy",
 			"seen": "{\"item\":\"word:zvirobiy\",\"text\":\"звіробій\",\"display\":\"звіробі́й\",\"ipa\":\"/zʋirɔˈbij/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/dereviy",
 			"seen": "{\"item\":\"word:dereviy\",\"text\":\"деревій\",\"display\":\"дереві́й\",\"ipa\":\"/dɛrɛˈʋij/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/romashka",
 			"seen": "{\"item\":\"word:romashka\",\"text\":\"ромашка\",\"display\":\"рома́шка\",\"ipa\":\"/rɔˈmaʃka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/ivan-chay",
 			"seen": "{\"item\":\"word:ivan-chay\",\"text\":\"іван-чай\",\"display\":\"іва́н-ча́й\",\"ipa\":\"/iˈʋanundefinedt͡ʃaj/\",\"alsoAccepted\":[\"кипрій\"]}",
-			"verdict": "pending"
+			"verdict": "problem",
+			"note": "Transcription: the IPA contains the literal text 'undefined' where the second half of the compound should be — /iˈʋanundefinedt͡ʃaj/ — and the two words are run together without a space, so the stress the display marks on 'чай' is missing from the transcription. Expected: ipa /iˈʋan ˈt͡ʃaj/ (the display 'іва́н-ча́й' marks a stress on each part). Sources: https://goroh.pp.ua/Словозміна/іван , https://goroh.pp.ua/Словозміна/чай"
 		},
 		{
 			"key": "core/l26-flowers-words/hryb",
 			"seen": "{\"item\":\"word:hryb\",\"text\":\"гриб\",\"display\":\"гриб\",\"ipa\":\"/ɦrɪb/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/hiatsynt",
 			"seen": "{\"item\":\"word:hiatsynt\",\"text\":\"гіацинт\",\"display\":\"гіаци́нт\",\"ipa\":\"/ɦiaˈt͡sɪnt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/krokus",
 			"seen": "{\"item\":\"word:krokus\",\"text\":\"крокус\",\"display\":\"кро́кус\",\"ipa\":\"/ˈkrɔkus/\",\"alsoAccepted\":[\"шафран\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/horytsvit",
 			"seen": "{\"item\":\"word:horytsvit\",\"text\":\"горицвіт\",\"display\":\"гори́цвіт\",\"ipa\":\"/ɦɔˈrɪt͡sʋit/\",\"alsoAccepted\":[\"адоніс\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/tyulpan",
 			"seen": "{\"item\":\"word:tyulpan\",\"text\":\"тюльпан\",\"display\":\"тюльпа́н\",\"ipa\":\"/tʲulʲˈpan/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/pivoniya",
 			"seen": "{\"item\":\"word:pivoniya\",\"text\":\"півонія\",\"display\":\"піво́нія\",\"ipa\":\"/piˈʋɔnʲija/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/barvinok",
 			"seen": "{\"item\":\"word:barvinok\",\"text\":\"барвінок\",\"display\":\"барві́нок\",\"ipa\":\"/barˈʋinɔk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/chornobryvtsi",
 			"seen": "{\"item\":\"word:chornobryvtsi\",\"text\":\"чорнобривці\",\"display\":\"чорнобри́вці\",\"ipa\":\"/t͡ʃɔrnɔˈbrɪʋt͡sʲi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/pivnyky",
 			"seen": "{\"item\":\"word:pivnyky\",\"text\":\"півники\",\"display\":\"пі́вники\",\"ipa\":\"/ˈpiʋnɪkɪ/\",\"alsoAccepted\":[\"іриси\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/dub",
 			"seen": "{\"item\":\"word:dub\",\"text\":\"дуб\",\"display\":\"дуб\",\"ipa\":\"/dub/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/sosna",
 			"seen": "{\"item\":\"word:sosna\",\"text\":\"сосна\",\"display\":\"сосна́\",\"ipa\":\"/sɔˈsna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/yavir",
 			"seen": "{\"item\":\"word:yavir\",\"text\":\"явір\",\"display\":\"я́вір\",\"ipa\":\"/ˈjaʋir/\",\"alsoAccepted\":[\"клен-явір\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/bereza",
 			"seen": "{\"item\":\"word:bereza\",\"text\":\"береза\",\"display\":\"бере́за\",\"ipa\":\"/bɛˈrɛza/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/lypa",
 			"seen": "{\"item\":\"word:lypa\",\"text\":\"липа\",\"display\":\"ли́па\",\"ipa\":\"/ˈlɪpa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/osyka",
 			"seen": "{\"item\":\"word:osyka\",\"text\":\"осика\",\"display\":\"оси́ка\",\"ipa\":\"/ɔˈsɪka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/vilkha",
 			"seen": "{\"item\":\"word:vilkha\",\"text\":\"вільха\",\"display\":\"ві́льха\",\"ipa\":\"/ˈʋilʲxa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/ozhyna",
 			"seen": "{\"item\":\"word:ozhyna\",\"text\":\"ожина\",\"display\":\"ожи́на\",\"ipa\":\"/ɔˈʒɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/shypshyna",
 			"seen": "{\"item\":\"word:shypshyna\",\"text\":\"шипшина\",\"display\":\"шипши́на\",\"ipa\":\"/ʃɪpˈʃɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/barbarys",
 			"seen": "{\"item\":\"word:barbarys\",\"text\":\"барбарис\",\"display\":\"барбари́с\",\"ipa\":\"/barbaˈrɪs/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/lishchyna",
 			"seen": "{\"item\":\"word:lishchyna\",\"text\":\"ліщина\",\"display\":\"ліщи́на\",\"ipa\":\"/lʲiˈʃt͡ʃɪna/\",\"alsoAccepted\":[\"ліщина звичайна\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/malyna",
 			"seen": "{\"item\":\"word:malyna\",\"text\":\"малина\",\"display\":\"мали́на\",\"ipa\":\"/maˈlɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/buzok",
 			"seen": "{\"item\":\"word:buzok\",\"text\":\"бузок\",\"display\":\"бузо́к\",\"ipa\":\"/buˈzɔk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/brusnytsya",
 			"seen": "{\"item\":\"word:brusnytsya\",\"text\":\"брусниця\",\"display\":\"брусни́ця\",\"ipa\":\"/bruˈsnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/chornytsya",
 			"seen": "{\"item\":\"word:chornytsya\",\"text\":\"чорниця\",\"display\":\"чорни́ця\",\"ipa\":\"/t͡ʃɔrˈnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/zhuravlyna",
 			"seen": "{\"item\":\"word:zhuravlyna\",\"text\":\"журавлина\",\"display\":\"журавли́на\",\"ipa\":\"/ʒuraʋˈlɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/hlid",
 			"seen": "{\"item\":\"word:hlid\",\"text\":\"глід\",\"display\":\"глід\",\"ipa\":\"/ɦlʲid/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/myhdal",
 			"seen": "{\"item\":\"word:myhdal\",\"text\":\"мигдаль\",\"display\":\"мигда́ль\",\"ipa\":\"/mɪɦˈdalʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/teren",
 			"seen": "{\"item\":\"word:teren\",\"text\":\"терен\",\"display\":\"те́рен\",\"ipa\":\"/ˈtɛrɛn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/buk",
 			"seen": "{\"item\":\"word:buk\",\"text\":\"бук\",\"display\":\"бук\",\"ipa\":\"/buk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/yalytsya",
 			"seen": "{\"item\":\"word:yalytsya\",\"text\":\"ялиця\",\"display\":\"яли́ця\",\"ipa\":\"/jaˈlɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/smereka",
 			"seen": "{\"item\":\"word:smereka\",\"text\":\"смерека\",\"display\":\"смере́ка\",\"ipa\":\"/smɛˈrɛka/\",\"alsoAccepted\":[\"ялина\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/modryna",
 			"seen": "{\"item\":\"word:modryna\",\"text\":\"модрина\",\"display\":\"модри́на\",\"ipa\":\"/mɔˈdrɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/yalivets",
 			"seen": "{\"item\":\"word:yalivets\",\"text\":\"ялівець\",\"display\":\"яліве́ць\",\"ipa\":\"/jalʲiˈʋɛt͡sʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/kyparys",
 			"seen": "{\"item\":\"word:kyparys\",\"text\":\"кипарис\",\"display\":\"кипари́с\",\"ipa\":\"/kɪpaˈrɪs/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/palma",
 			"seen": "{\"item\":\"word:palma\",\"text\":\"пальма\",\"display\":\"па́льма\",\"ipa\":\"/ˈpalʲma/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/mahnoliya",
 			"seen": "{\"item\":\"word:mahnoliya\",\"text\":\"магнолія\",\"display\":\"магно́лія\",\"ipa\":\"/maɦˈnɔlʲija/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/kedr",
 			"seen": "{\"item\":\"word:kedr\",\"text\":\"кедр\",\"display\":\"кедр\",\"ipa\":\"/kɛdr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/lavr",
 			"seen": "{\"item\":\"word:lavr\",\"text\":\"лавр\",\"display\":\"лавр\",\"ipa\":\"/laʋr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/kalyna",
 			"seen": "{\"item\":\"word:kalyna\",\"text\":\"калина\",\"display\":\"кали́на\",\"ipa\":\"/kaˈlɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/verba",
 			"seen": "{\"item\":\"word:verba\",\"text\":\"верба\",\"display\":\"верба́\",\"ipa\":\"/ʋɛrˈba/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/sunychne-derevo",
 			"seen": "{\"item\":\"word:sunychne-derevo\",\"text\":\"суничне дерево\",\"display\":\"суни́чне де́рево\",\"ipa\":\"/suˈnɪt͡ʃnɛ ˈdɛrɛʋɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/fistashka",
 			"seen": "{\"item\":\"word:fistashka\",\"text\":\"фісташка\",\"display\":\"фіста́шка\",\"ipa\":\"/fisˈtaʃka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/pivnich",
 			"seen": "{\"item\":\"word:pivnich\",\"text\":\"північ\",\"display\":\"пі́вніч\",\"ipa\":\"/ˈpiʋnʲit͡ʃ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/pivden",
 			"seen": "{\"item\":\"word:pivden\",\"text\":\"південь\",\"display\":\"пі́вдень\",\"ipa\":\"/ˈpiʋdɛnʲ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/skhid",
 			"seen": "{\"item\":\"word:skhid\",\"text\":\"схід\",\"display\":\"схід\",\"ipa\":\"/sxid/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/zakhid",
 			"seen": "{\"item\":\"word:zakhid\",\"text\":\"захід\",\"display\":\"за́хід\",\"ipa\":\"/ˈzaxid/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/lisostep",
 			"seen": "{\"item\":\"word:lisostep\",\"text\":\"лісостеп\",\"display\":\"лісосте́п\",\"ipa\":\"/lʲisɔsˈtɛp/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/boloto",
 			"seen": "{\"item\":\"word:boloto\",\"text\":\"болото\",\"display\":\"боло́то\",\"ipa\":\"/bɔˈlɔtɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/vodoyma",
 			"seen": "{\"item\":\"word:vodoyma\",\"text\":\"водойма\",\"display\":\"водо́йма\",\"ipa\":\"/ʋɔˈdɔjma/\",\"alsoAccepted\":[\"водоймище\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/vodoskhovyshche",
 			"seen": "{\"item\":\"word:vodoskhovyshche\",\"text\":\"водосховище\",\"display\":\"водосхо́вище\",\"ipa\":\"/ʋɔdɔsˈxɔʋɪʃt͡ʃɛ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/polonyna",
 			"seen": "{\"item\":\"word:polonyna\",\"text\":\"полонина\",\"display\":\"полони́на\",\"ipa\":\"/pɔlɔˈnɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/ty.pysaty",
 			"seen": "{\"item\":\"verb-imperative:pysaty:ty\",\"text\":\"пиши\",\"display\":\"пиши́\",\"ipa\":\"/pɪˈʃɪ/\",\"row\":\"pysaty\",\"col\":\"ty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/my.pysaty",
 			"seen": "{\"item\":\"verb-imperative:pysaty:my\",\"text\":\"пишімо\",\"display\":\"пиші́мо\",\"ipa\":\"/pɪˈʃimɔ/\",\"alsoAccepted\":[\"пишім\"],\"row\":\"pysaty\",\"col\":\"my\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/vy.pysaty",
 			"seen": "{\"item\":\"verb-imperative:pysaty:vy\",\"text\":\"пишіть\",\"display\":\"пиші́ть\",\"ipa\":\"/pɪˈʃitʲ/\",\"alsoAccepted\":[\"пишіте\"],\"row\":\"pysaty\",\"col\":\"vy\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/ty.vypysaty",
 			"seen": "{\"item\":\"verb-imperative:vypysaty:ty\",\"text\":\"випиши\",\"display\":\"ви́пиши\",\"ipa\":\"/ˈʋɪpɪʃɪ/\",\"row\":\"vypysaty\",\"col\":\"ty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/my.vypysaty",
 			"seen": "{\"item\":\"verb-imperative:vypysaty:my\",\"text\":\"випишімо\",\"display\":\"ви́пишімо\",\"ipa\":\"/ˈʋɪpɪʃimɔ/\",\"alsoAccepted\":[\"випишім\"],\"row\":\"vypysaty\",\"col\":\"my\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/vy.vypysaty",
 			"seen": "{\"item\":\"verb-imperative:vypysaty:vy\",\"text\":\"випишіть\",\"display\":\"ви́пишіть\",\"ipa\":\"/ˈʋɪpɪʃitʲ/\",\"row\":\"vypysaty\",\"col\":\"vy\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/ty.pidkreslyty",
 			"seen": "{\"item\":\"verb-imperative:pidkreslyty:ty\",\"text\":\"підкресли\",\"display\":\"підкре́сли\",\"ipa\":\"/piˈdkrɛslɪ/\",\"alsoAccepted\":[\"підкресль\"],\"row\":\"pidkreslyty\",\"col\":\"ty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/my.pidkreslyty",
 			"seen": "{\"item\":\"verb-imperative:pidkreslyty:my\",\"text\":\"підкреслімо\",\"display\":\"підкре́слімо\",\"ipa\":\"/piˈdkrɛsʲlʲimɔ/\",\"alsoAccepted\":[\"підкреслім\",\"підкресльмо\"],\"row\":\"pidkreslyty\",\"col\":\"my\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/vy.pidkreslyty",
 			"seen": "{\"item\":\"verb-imperative:pidkreslyty:vy\",\"text\":\"підкресліть\",\"display\":\"підкре́сліть\",\"ipa\":\"/piˈdkrɛsʲlʲitʲ/\",\"alsoAccepted\":[\"підкресльте\"],\"row\":\"pidkreslyty\",\"col\":\"vy\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/ty.vykonuvaty",
 			"seen": "{\"item\":\"verb-imperative:vykonuvaty:ty\",\"text\":\"виконуй\",\"display\":\"вико́нуй\",\"ipa\":\"/ʋɪˈkɔnuj/\",\"row\":\"vykonuvaty\",\"col\":\"ty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/my.vykonuvaty",
 			"seen": "{\"item\":\"verb-imperative:vykonuvaty:my\",\"text\":\"виконуймо\",\"display\":\"вико́нуймо\",\"ipa\":\"/ʋɪˈkɔnujmɔ/\",\"row\":\"vykonuvaty\",\"col\":\"my\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/vy.vykonuvaty",
 			"seen": "{\"item\":\"verb-imperative:vykonuvaty:vy\",\"text\":\"виконуйте\",\"display\":\"вико́нуйте\",\"ipa\":\"/ʋɪˈkɔnujtɛ/\",\"row\":\"vykonuvaty\",\"col\":\"vy\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/ty.pereviryty",
 			"seen": "{\"item\":\"verb-imperative:pereviryty:ty\",\"text\":\"перевір\",\"display\":\"переві́р\",\"ipa\":\"/pɛrɛˈʋir/\",\"row\":\"pereviryty\",\"col\":\"ty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/my.pereviryty",
 			"seen": "{\"item\":\"verb-imperative:pereviryty:my\",\"text\":\"перевірмо\",\"display\":\"переві́рмо\",\"ipa\":\"/pɛrɛˈʋirmɔ/\",\"row\":\"pereviryty\",\"col\":\"my\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/vy.pereviryty",
 			"seen": "{\"item\":\"verb-imperative:pereviryty:vy\",\"text\":\"перевірте\",\"display\":\"переві́рте\",\"ipa\":\"/pɛrɛˈʋirtɛ/\",\"row\":\"pereviryty\",\"col\":\"vy\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/ty.sisty",
 			"seen": "{\"item\":\"verb-imperative:sisty:ty\",\"text\":\"сядь\",\"display\":\"сядь\",\"ipa\":\"/sʲadʲ/\",\"row\":\"sisty\",\"col\":\"ty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/my.sisty",
 			"seen": "{\"item\":\"verb-imperative:sisty:my\",\"text\":\"сядьмо\",\"display\":\"ся́дьмо\",\"ipa\":\"/ˈsʲadʲmɔ/\",\"row\":\"sisty\",\"col\":\"my\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/vy.sisty",
 			"seen": "{\"item\":\"verb-imperative:sisty:vy\",\"text\":\"сядьте\",\"display\":\"ся́дьте\",\"ipa\":\"/ˈsʲadʲtɛ/\",\"row\":\"sisty\",\"col\":\"vy\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/ty.kynuty",
 			"seen": "{\"item\":\"verb-imperative:kynuty:ty\",\"text\":\"кинь\",\"display\":\"кинь\",\"ipa\":\"/kɪnʲ/\",\"row\":\"kynuty\",\"col\":\"ty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/my.kynuty",
 			"seen": "{\"item\":\"verb-imperative:kynuty:my\",\"text\":\"киньмо\",\"display\":\"ки́ньмо\",\"ipa\":\"/ˈkɪnʲmɔ/\",\"row\":\"kynuty\",\"col\":\"my\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/vy.kynuty",
 			"seen": "{\"item\":\"verb-imperative:kynuty:vy\",\"text\":\"киньте\",\"display\":\"ки́ньте\",\"ipa\":\"/ˈkɪnʲtɛ/\",\"row\":\"kynuty\",\"col\":\"vy\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/ty.zapovnyty",
 			"seen": "{\"item\":\"verb-imperative:zapovnyty:ty\",\"text\":\"заповни\",\"display\":\"запо́вни\",\"ipa\":\"/zaˈpɔʋnɪ/\",\"row\":\"zapovnyty\",\"col\":\"ty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/my.zapovnyty",
 			"seen": "{\"item\":\"verb-imperative:zapovnyty:my\",\"text\":\"заповнімо\",\"display\":\"запо́внімо\",\"ipa\":\"/zaˈpɔʋnʲimɔ/\",\"alsoAccepted\":[\"заповнім\"],\"row\":\"zapovnyty\",\"col\":\"my\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/vy.zapovnyty",
 			"seen": "{\"item\":\"verb-imperative:zapovnyty:vy\",\"text\":\"заповніть\",\"display\":\"запо́вніть\",\"ipa\":\"/zaˈpɔʋnʲitʲ/\",\"row\":\"zapovnyty\",\"col\":\"vy\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/ya.navchaty",
 			"seen": "{\"item\":\"verb-present:navchaty:ya\",\"text\":\"навчаю\",\"display\":\"навча́ю\",\"ipa\":\"/naʋˈt͡ʃaju/\",\"row\":\"ya\",\"col\":\"navchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/ty.navchaty",
 			"seen": "{\"item\":\"verb-present:navchaty:ty\",\"text\":\"навчаєш\",\"display\":\"навча́єш\",\"ipa\":\"/naʋˈt͡ʃajɛʃ/\",\"row\":\"ty\",\"col\":\"navchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/he.navchaty",
 			"seen": "{\"item\":\"verb-present:navchaty:he\",\"text\":\"навчає\",\"display\":\"навча́є\",\"ipa\":\"/naʋˈt͡ʃajɛ/\",\"alsoAccepted\":[\"навча\"],\"row\":\"he\",\"col\":\"navchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/my.navchaty",
 			"seen": "{\"item\":\"verb-present:navchaty:my\",\"text\":\"навчаємо\",\"display\":\"навча́ємо\",\"ipa\":\"/naʋˈt͡ʃajɛmɔ/\",\"alsoAccepted\":[\"навчаєм\"],\"row\":\"my\",\"col\":\"navchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/vy.navchaty",
 			"seen": "{\"item\":\"verb-present:navchaty:vy\",\"text\":\"навчаєте\",\"display\":\"навча́єте\",\"ipa\":\"/naʋˈt͡ʃajɛtɛ/\",\"row\":\"vy\",\"col\":\"navchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/they.navchaty",
 			"seen": "{\"item\":\"verb-present:navchaty:they\",\"text\":\"навчають\",\"display\":\"навча́ють\",\"ipa\":\"/naʋˈt͡ʃajutʲ/\",\"row\":\"they\",\"col\":\"navchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/ya.navchatysya",
 			"seen": "{\"item\":\"verb-present:navchatysya:ya\",\"text\":\"навчаюся\",\"display\":\"навча́юся\",\"ipa\":\"/naʋˈt͡ʃajusʲa/\",\"alsoAccepted\":[\"навчаюсь\"],\"row\":\"ya\",\"col\":\"navchatysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/ty.navchatysya",
 			"seen": "{\"item\":\"verb-present:navchatysya:ty\",\"text\":\"навчаєшся\",\"display\":\"навча́єшся\",\"ipa\":\"/naʋˈt͡ʃajɛsʲːa/\",\"row\":\"ty\",\"col\":\"navchatysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/he.navchatysya",
 			"seen": "{\"item\":\"verb-present:navchatysya:he\",\"text\":\"навчається\",\"display\":\"навча́ється\",\"ipa\":\"/naʋˈt͡ʃajɛt͡sʲːa/\",\"row\":\"he\",\"col\":\"navchatysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/my.navchatysya",
 			"seen": "{\"item\":\"verb-present:navchatysya:my\",\"text\":\"навчаємося\",\"display\":\"навча́ємося\",\"ipa\":\"/naʋˈt͡ʃajɛmɔsʲa/\",\"alsoAccepted\":[\"навчаємось\",\"навчаємся\"],\"row\":\"my\",\"col\":\"navchatysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/vy.navchatysya",
 			"seen": "{\"item\":\"verb-present:navchatysya:vy\",\"text\":\"навчаєтеся\",\"display\":\"навча́єтеся\",\"ipa\":\"/naʋˈt͡ʃajɛtɛsʲa/\",\"alsoAccepted\":[\"навчаєтесь\"],\"row\":\"vy\",\"col\":\"navchatysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present-teach/they.navchatysya",
 			"seen": "{\"item\":\"verb-present:navchatysya:they\",\"text\":\"навчаються\",\"display\":\"навча́ються\",\"ipa\":\"/naʋˈt͡ʃajut͡sʲːa/\",\"row\":\"they\",\"col\":\"navchatysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/ya.vchyty",
 			"seen": "{\"item\":\"verb-present:vchyty:ya\",\"text\":\"вчу\",\"display\":\"вчу\",\"ipa\":\"/ʋt͡ʃu/\",\"alsoAccepted\":[\"учу\"],\"row\":\"ya\",\"col\":\"vchyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/ty.vchyty",
 			"seen": "{\"item\":\"verb-present:vchyty:ty\",\"text\":\"вчиш\",\"display\":\"вчиш\",\"ipa\":\"/ʋt͡ʃɪʃ/\",\"alsoAccepted\":[\"учиш\"],\"row\":\"ty\",\"col\":\"vchyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/he.vchyty",
 			"seen": "{\"item\":\"verb-present:vchyty:he\",\"text\":\"вчить\",\"display\":\"вчить\",\"ipa\":\"/ʋt͡ʃɪtʲ/\",\"alsoAccepted\":[\"учить\"],\"row\":\"he\",\"col\":\"vchyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/my.vchyty",
 			"seen": "{\"item\":\"verb-present:vchyty:my\",\"text\":\"вчимо\",\"display\":\"вчимо́\",\"ipa\":\"/ʋt͡ʃɪˈmɔ/\",\"alsoAccepted\":[\"учимо\",\"вчим\",\"учим\"],\"row\":\"my\",\"col\":\"vchyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/vy.vchyty",
 			"seen": "{\"item\":\"verb-present:vchyty:vy\",\"text\":\"вчите\",\"display\":\"вчите́\",\"ipa\":\"/ʋt͡ʃɪˈtɛ/\",\"alsoAccepted\":[\"учите\"],\"row\":\"vy\",\"col\":\"vchyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/they.vchyty",
 			"seen": "{\"item\":\"verb-present:vchyty:they\",\"text\":\"вчать\",\"display\":\"вчать\",\"ipa\":\"/ʋt͡ʃatʲ/\",\"alsoAccepted\":[\"учать\"],\"row\":\"they\",\"col\":\"vchyty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/ya.vchytysya",
 			"seen": "{\"item\":\"verb-present:vchytysya:ya\",\"text\":\"вчуся\",\"display\":\"вчу́ся\",\"ipa\":\"/ˈʋt͡ʃusʲa/\",\"alsoAccepted\":[\"вчусь\",\"учуся\",\"учусь\"],\"row\":\"ya\",\"col\":\"vchytysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/ty.vchytysya",
 			"seen": "{\"item\":\"verb-present:vchytysya:ty\",\"text\":\"вчишся\",\"display\":\"вчи́шся\",\"ipa\":\"/ˈʋt͡ʃɪsʲːa/\",\"alsoAccepted\":[\"учишся\"],\"row\":\"ty\",\"col\":\"vchytysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/he.vchytysya",
 			"seen": "{\"item\":\"verb-present:vchytysya:he\",\"text\":\"вчиться\",\"display\":\"вчи́ться\",\"ipa\":\"/ˈʋt͡ʃɪt͡sʲːa/\",\"alsoAccepted\":[\"учиться\"],\"row\":\"he\",\"col\":\"vchytysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/my.vchytysya",
 			"seen": "{\"item\":\"verb-present:vchytysya:my\",\"text\":\"вчимося\",\"display\":\"вчимо́ся\",\"ipa\":\"/ʋt͡ʃɪˈmɔsʲa/\",\"alsoAccepted\":[\"вчимось\",\"вчимся\",\"учимося\",\"учимось\",\"учимся\"],\"row\":\"my\",\"col\":\"vchytysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/vy.vchytysya",
 			"seen": "{\"item\":\"verb-present:vchytysya:vy\",\"text\":\"вчитеся\",\"display\":\"вчите́ся\",\"ipa\":\"/ʋt͡ʃɪˈtɛsʲa/\",\"alsoAccepted\":[\"вчитесь\",\"учитеся\",\"учитесь\"],\"row\":\"vy\",\"col\":\"vchytysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/they.vchytysya",
 			"seen": "{\"item\":\"verb-present:vchytysya:they\",\"text\":\"вчаться\",\"display\":\"вча́ться\",\"ipa\":\"/ˈʋt͡ʃat͡sʲːa/\",\"alsoAccepted\":[\"учаться\"],\"row\":\"they\",\"col\":\"vchytysya\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/ya.vyvchaty",
 			"seen": "{\"item\":\"verb-present:vyvchaty:ya\",\"text\":\"вивчаю\",\"display\":\"вивча́ю\",\"ipa\":\"/ʋɪʋˈt͡ʃaju/\",\"row\":\"ya\",\"col\":\"vyvchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/ty.vyvchaty",
 			"seen": "{\"item\":\"verb-present:vyvchaty:ty\",\"text\":\"вивчаєш\",\"display\":\"вивча́єш\",\"ipa\":\"/ʋɪʋˈt͡ʃajɛʃ/\",\"row\":\"ty\",\"col\":\"vyvchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/he.vyvchaty",
 			"seen": "{\"item\":\"verb-present:vyvchaty:he\",\"text\":\"вивчає\",\"display\":\"вивча́є\",\"ipa\":\"/ʋɪʋˈt͡ʃajɛ/\",\"alsoAccepted\":[\"вивча\"],\"row\":\"he\",\"col\":\"vyvchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/my.vyvchaty",
 			"seen": "{\"item\":\"verb-present:vyvchaty:my\",\"text\":\"вивчаємо\",\"display\":\"вивча́ємо\",\"ipa\":\"/ʋɪʋˈt͡ʃajɛmɔ/\",\"alsoAccepted\":[\"вивчаєм\"],\"row\":\"my\",\"col\":\"vyvchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/vy.vyvchaty",
 			"seen": "{\"item\":\"verb-present:vyvchaty:vy\",\"text\":\"вивчаєте\",\"display\":\"вивча́єте\",\"ipa\":\"/ʋɪʋˈt͡ʃajɛtɛ/\",\"row\":\"vy\",\"col\":\"vyvchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-present/they.vyvchaty",
 			"seen": "{\"item\":\"verb-present:vyvchaty:they\",\"text\":\"вивчають\",\"display\":\"вивча́ють\",\"ipa\":\"/ʋɪʋˈt͡ʃajutʲ/\",\"row\":\"they\",\"col\":\"vyvchaty\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/bloknot",
 			"seen": "{\"item\":\"word:bloknot\",\"text\":\"блокнот\",\"display\":\"блокно́т\",\"ipa\":\"/blɔˈknɔt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/shchodennyk",
 			"seen": "{\"item\":\"word:shchodennyk\",\"text\":\"щоденник\",\"display\":\"щоде́нник\",\"ipa\":\"/ʃt͡ʃɔˈdɛnːɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/orhanayzer",
 			"seen": "{\"item\":\"word:orhanayzer\",\"text\":\"органайзер\",\"display\":\"органа́йзер\",\"ipa\":\"/ɔrɦaˈnajzɛr/\",\"alsoAccepted\":[\"планер\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/flomaster",
 			"seen": "{\"item\":\"word:flomaster\",\"text\":\"фломастер\",\"display\":\"флома́стер\",\"ipa\":\"/flɔˈmastɛr/\",\"alsoAccepted\":[\"маркер\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/nalipka",
 			"seen": "{\"item\":\"word:nalipka\",\"text\":\"наліпка\",\"display\":\"налі́пка\",\"ipa\":\"/naˈlʲipka/\",\"alsoAccepted\":[\"наклейка\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/zakladka",
 			"seen": "{\"item\":\"word:zakladka\",\"text\":\"закладка\",\"display\":\"за́кладка\",\"ipa\":\"/ˈzakladka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/penal",
 			"seen": "{\"item\":\"word:penal\",\"text\":\"пенал\",\"display\":\"пена́л\",\"ipa\":\"/pɛˈnal/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/liniyka",
 			"seen": "{\"item\":\"word:liniyka\",\"text\":\"лінійка\",\"display\":\"лі́нійка\",\"ipa\":\"/ˈlʲinʲijka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/humka",
 			"seen": "{\"item\":\"word:humka\",\"text\":\"гумка\",\"display\":\"гу́мка\",\"ipa\":\"/ˈɦumka/\",\"alsoAccepted\":[\"ластик\",\"стирачка\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/nozhytsi",
 			"seen": "{\"item\":\"word:nozhytsi\",\"text\":\"ножиці\",\"display\":\"но́жиці\",\"ipa\":\"/ˈnɔʒɪt͡sʲi/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/albom",
 			"seen": "{\"item\":\"word:albom\",\"text\":\"альбом\",\"display\":\"альбо́м\",\"ipa\":\"/alʲˈbɔm/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/farba",
 			"seen": "{\"item\":\"word:farba\",\"text\":\"фарба\",\"display\":\"фа́рба\",\"ipa\":\"/ˈfarba/\",\"alsoAccepted\":[\"краска\",\"барва\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/posibnyk",
 			"seen": "{\"item\":\"word:posibnyk\",\"text\":\"посібник\",\"display\":\"посі́бник\",\"ipa\":\"/pɔˈsʲibnɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/rozdrukivka",
 			"seen": "{\"item\":\"word:rozdrukivka\",\"text\":\"роздруківка\",\"display\":\"роздрукі́вка\",\"ipa\":\"/rɔzdruˈkiʋka/\",\"alsoAccepted\":[\"роздрук\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/liniya",
 			"seen": "{\"item\":\"word:liniya\",\"text\":\"лінія\",\"display\":\"лі́нія\",\"ipa\":\"/ˈlʲinʲija/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-words/kafedra",
 			"seen": "{\"item\":\"word:kafedra\",\"text\":\"кафедра\",\"display\":\"ка́федра\",\"ipa\":\"/ˈkafɛdra/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		}
 	]
 }

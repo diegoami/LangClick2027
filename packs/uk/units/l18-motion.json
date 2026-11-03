@@ -4,18 +4,8 @@
 	"dealAll": true,
 	"layout": {
 		"type": "table",
-		"rows": [
-			"ya",
-			"ty",
-			"he",
-			"my",
-			"vy",
-			"they"
-		],
-		"columns": [
-			"yikhaty",
-			"yizdyty"
-		]
+		"rows": ["ya", "ty", "he", "my", "vy", "they"],
+		"columns": ["yikhaty", "yizdyty"]
 	},
 	"cells": [
 		{
@@ -32,7 +22,7 @@
 			"item": "verb-present:yizdyty:ya",
 			"text": "їжджу",
 			"display": "ї́жджу",
-			"ipa": "/ˈjiʒdʒu/",
+			"ipa": "/ˈjiʒd͡ʒu/",
 			"row": "ya",
 			"col": "yizdyty"
 		},
@@ -80,9 +70,7 @@
 			"ipa": "/ˈjidɛmɔ/",
 			"row": "my",
 			"col": "yikhaty",
-			"alsoAccepted": [
-				"їдем"
-			]
+			"alsoAccepted": ["їдем"]
 		},
 		{
 			"id": "my.yizdyty",
@@ -92,9 +80,7 @@
 			"ipa": "/ˈjizdɪmɔ/",
 			"row": "my",
 			"col": "yizdyty",
-			"alsoAccepted": [
-				"їздим"
-			]
+			"alsoAccepted": ["їздим"]
 		},
 		{
 			"id": "vy.yikhaty",

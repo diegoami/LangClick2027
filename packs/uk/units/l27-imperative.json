@@ -13,11 +13,7 @@
 			"kynuty",
 			"zapovnyty"
 		],
-		"columns": [
-			"ty",
-			"my",
-			"vy"
-		]
+		"columns": ["ty", "my", "vy"]
 	},
 	"cells": [
 		{
@@ -37,9 +33,7 @@
 			"ipa": "/pɪˈʃimɔ/",
 			"row": "pysaty",
 			"col": "my",
-			"alsoAccepted": [
-				"пишім"
-			]
+			"alsoAccepted": ["пишім"]
 		},
 		{
 			"id": "vy.pysaty",
@@ -49,9 +43,7 @@
 			"ipa": "/pɪˈʃitʲ/",
 			"row": "pysaty",
 			"col": "vy",
-			"alsoAccepted": [
-				"пишіте"
-			]
+			"alsoAccepted": ["пишіте"]
 		},
 		{
 			"id": "ty.vypysaty",
@@ -70,9 +62,7 @@
 			"ipa": "/ˈʋɪpɪʃimɔ/",
 			"row": "vypysaty",
 			"col": "my",
-			"alsoAccepted": [
-				"випишім"
-			]
+			"alsoAccepted": ["випишім"]
 		},
 		{
 			"id": "vy.vypysaty",
@@ -91,9 +81,7 @@
 			"ipa": "/piˈdkrɛslɪ/",
 			"row": "pidkreslyty",
 			"col": "ty",
-			"alsoAccepted": [
-				"підкресль"
-			]
+			"alsoAccepted": ["підкресль"]
 		},
 		{
 			"id": "my.pidkreslyty",
@@ -103,10 +91,7 @@
 			"ipa": "/piˈdkrɛsʲlʲimɔ/",
 			"row": "pidkreslyty",
 			"col": "my",
-			"alsoAccepted": [
-				"підкреслім",
-				"підкресльмо"
-			]
+			"alsoAccepted": ["підкреслім", "підкресльмо"]
 		},
 		{
 			"id": "vy.pidkreslyty",
@@ -116,9 +101,7 @@
 			"ipa": "/piˈdkrɛsʲlʲitʲ/",
 			"row": "pidkreslyty",
 			"col": "vy",
-			"alsoAccepted": [
-				"підкресльте"
-			]
+			"alsoAccepted": ["підкресльте"]
 		},
 		{
 			"id": "ty.vykonuvaty",
@@ -245,9 +228,7 @@
 			"ipa": "/zaˈpɔʋnʲimɔ/",
 			"row": "zapovnyty",
 			"col": "my",
-			"alsoAccepted": [
-				"заповнім"
-			]
+			"alsoAccepted": ["заповнім"]
 		},
 		{
 			"id": "vy.zapovnyty",

@@ -11,7 +11,7 @@
 			"item": "word:dozvillya",
 			"text": "дозвілля",
 			"display": "дозві́лля",
-			"ipa": "/dɔzˈʋillʲa/"
+			"ipa": "/dɔzˈʋilʲːa/"
 		},
 		{
 			"id": "khobi",
@@ -53,7 +53,7 @@
 			"item": "word:rukodillya",
 			"text": "рукоділля",
 			"display": "рукоді́лля",
-			"ipa": "/rukɔˈdʲillʲa/"
+			"ipa": "/rukɔˈdʲilʲːa/"
 		},
 		{
 			"id": "vyshyvannya",
@@ -61,16 +61,14 @@
 			"text": "вишивання",
 			"display": "вишива́ння",
 			"ipa": "/ʋɪʃɪˈʋanʲːa/",
-			"alsoAccepted": [
-				"вишивка"
-			]
+			"alsoAccepted": ["вишивка"]
 		},
 		{
 			"id": "shyttya",
 			"item": "word:shyttya",
 			"text": "шиття",
 			"display": "шиття́",
-			"ipa": "/ʃɪtˈtʲa/"
+			"ipa": "/ʃɪˈtʲːa/"
 		},
 		{
 			"id": "kvitnykarstvo",
@@ -91,9 +89,7 @@
 			"item": "word:spiv",
 			"text": "спів",
 			"ipa": "/spiʋ/",
-			"alsoAccepted": [
-				"співання"
-			]
+			"alsoAccepted": ["співання"]
 		},
 		{
 			"id": "tantsi",
@@ -157,17 +153,14 @@
 			"text": "риболовля",
 			"display": "риболо́вля",
 			"ipa": "/rɪbɔˈlɔʋlʲa/",
-			"alsoAccepted": [
-				"риболовство",
-				"рибальство"
-			]
+			"alsoAccepted": ["риболовство", "рибальство"]
 		},
 		{
 			"id": "bdzhilnytstvo",
 			"item": "word:bdzhilnytstvo",
 			"text": "бджільництво",
 			"display": "бджільни́цтво",
-			"ipa": "/bdʒilʲˈnɪt͡stʋɔ/"
+			"ipa": "/bd͡ʒilʲˈnɪt͡stʋɔ/"
 		},
 		{
 			"id": "prohramuvannya",
@@ -182,9 +175,7 @@
 			"text": "анімація",
 			"display": "аніма́ція",
 			"ipa": "/anʲiˈmat͡sʲija/",
-			"alsoAccepted": [
-				"мультиплікація"
-			]
+			"alsoAccepted": ["мультиплікація"]
 		}
 	],
 	"sources": [

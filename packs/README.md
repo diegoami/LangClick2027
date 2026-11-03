@@ -98,22 +98,24 @@ The letters follow the `alphabet` board, which is the authority:
 
 | Letter | Sound | Letter | Sound | Letter | Sound |
 | ------ | ----- | ------ | ----- | ------ | ----- |
-| а | a | й | j | ц | t͡s |
-| б | b | к | k | ч | t͡ʃ |
-| в | ʋ | л | l | ш | ʃ |
-| г | ɦ | м | m | щ | ʃt͡ʃ |
-| ґ | ɡ | н | n | ь | ʲ |
-| д | d | о | ɔ | ю | ju |
-| е | ɛ | п | p | я | ja |
-| ж | ʒ | р | r | є | jɛ |
-| з | z | с | s | ї | ji |
-| и | ɪ | т | t | и | ɪ |
-| і | i | у | u | | |
+| а      | a     | й      | j     | ц      | t͡s    |
+| б      | b     | к      | k     | ч      | t͡ʃ    |
+| в      | ʋ     | л      | l     | ш      | ʃ     |
+| г      | ɦ     | м      | m     | щ      | ʃt͡ʃ   |
+| ґ      | ɡ     | н      | n     | ь      | ʲ     |
+| д      | d     | о      | ɔ     | ю      | ju    |
+| е      | ɛ     | п      | p     | я      | ja    |
+| ж      | ʒ     | р      | r     | є      | jɛ    |
+| з      | z     | с      | s     | ї      | ji    |
+| и      | ɪ     | т      | t     | и      | ɪ     |
+| і      | i     | у      | u     |        |       |
 
 The rest of the rules, each with the board that states it:
 
-- **И is /ɪ/**, and **І is /i/**. A stressed и is /i/ only before a vowel or
-  at the end of a word; before a consonant it is /ɪ/ as well (`i-or-y`).
+- **И is /ɪ/** in every position, stressed or not: брати́, штани́, були́ are all
+  /ɪ/. Only the masculine plural endings -ів and -ові keep a full /i/, and a
+  feminine genitive plural in -нів does not. **І is /i/**, and it softens the
+  consonant before it, which then carries the ʲ mark (`i-or-y`).
 - **Unstressed о stays /ɔ/**; it does not reduce towards a (`unstressed-o`).
 - **Г is /ɦ/**, and **x before к or т**: легки́й, ні́гті (`h-or-g`).
 - **A final consonant keeps its voice**: віз ends in [z], ваз differs from вас

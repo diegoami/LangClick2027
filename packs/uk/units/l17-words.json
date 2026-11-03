@@ -26,9 +26,7 @@
 			"text": "офіціант",
 			"display": "офіціа́нт",
 			"ipa": "/ɔfit͡sʲiˈant/",
-			"alsoAccepted": [
-				"кельнер"
-			]
+			"alsoAccepted": ["кельнер"]
 		},
 		{
 			"id": "menyu",
@@ -113,9 +111,7 @@
 			"text": "вартість",
 			"display": "ва́ртість",
 			"ipa": "/ˈʋartʲistʲ/",
-			"alsoAccepted": [
-				"ціна"
-			]
+			"alsoAccepted": ["ціна"]
 		},
 		{
 			"id": "hotivka",
@@ -158,9 +154,7 @@
 			"text": "купюра",
 			"display": "купю́ра",
 			"ipa": "/kuˈpʲura/",
-			"alsoAccepted": [
-				"банкнота"
-			]
+			"alsoAccepted": ["банкнота"]
 		},
 		{
 			"id": "moneta",

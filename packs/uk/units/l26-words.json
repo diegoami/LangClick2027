@@ -26,9 +26,7 @@
 			"text": "річка",
 			"display": "рі́чка",
 			"ipa": "/ˈrʲit͡ʃka/",
-			"alsoAccepted": [
-				"ріка"
-			]
+			"alsoAccepted": ["ріка"]
 		},
 		{
 			"id": "ozero",
@@ -106,9 +104,7 @@
 			"text": "довкілля",
 			"display": "довкі́лля",
 			"ipa": "/dɔʋˈkʲilʲːa/",
-			"alsoAccepted": [
-				"середовище"
-			]
+			"alsoAccepted": ["середовище"]
 		},
 		{
 			"id": "berehty",
@@ -116,9 +112,7 @@
 			"text": "берегти",
 			"display": "берегти́",
 			"ipa": "/bɛrɛɦˈtɪ/",
-			"alsoAccepted": [
-				"оберігати"
-			]
+			"alsoAccepted": ["оберігати"]
 		},
 		{
 			"id": "pivnich",
@@ -168,9 +162,7 @@
 			"text": "водойма",
 			"display": "водо́йма",
 			"ipa": "/ʋɔˈdɔjma/",
-			"alsoAccepted": [
-				"водоймище"
-			]
+			"alsoAccepted": ["водоймище"]
 		},
 		{
 			"id": "vodoskhovyshche",

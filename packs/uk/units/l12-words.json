@@ -152,10 +152,7 @@
 			"text": "гарний",
 			"display": "га́рний",
 			"ipa": "/ˈɦarnɪj/",
-			"alsoAccepted": [
-				"красивий",
-				"вродливий"
-			]
+			"alsoAccepted": ["красивий", "вродливий"]
 		},
 		{
 			"id": "neharnyy",
@@ -163,9 +160,7 @@
 			"text": "негарний",
 			"display": "нега́рний",
 			"ipa": "/nɛˈɦarnɪj/",
-			"alsoAccepted": [
-				"некрасивий"
-			]
+			"alsoAccepted": ["некрасивий"]
 		},
 		{
 			"id": "sympatychnyy",
@@ -270,7 +265,7 @@
 			"item": "word:skuyovdzhenyy",
 			"text": "скуйовджений",
 			"display": "скуйо́вджений",
-			"ipa": "/skuˈjɔʋdʒɛnɪj/"
+			"ipa": "/skuˈjɔʋd͡ʒɛnɪj/"
 		},
 		{
 			"id": "kashtanovyy",

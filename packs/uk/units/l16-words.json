@@ -26,10 +26,7 @@
 			"text": "сковорідка",
 			"display": "сковорі́дка",
 			"ipa": "/skɔʋɔˈrʲidka/",
-			"alsoAccepted": [
-				"пательня",
-				"сковорода"
-			]
+			"alsoAccepted": ["пательня", "сковорода"]
 		},
 		{
 			"id": "nizh",
@@ -64,9 +61,7 @@
 			"text": "чашка",
 			"display": "ча́шка",
 			"ipa": "/ˈt͡ʃaʃka/",
-			"alsoAccepted": [
-				"філіжанка"
-			]
+			"alsoAccepted": ["філіжанка"]
 		},
 		{
 			"id": "opolonyk",
@@ -102,9 +97,7 @@
 			"text": "тертушка",
 			"display": "терту́шка",
 			"ipa": "/tɛrˈtuʃka/",
-			"alsoAccepted": [
-				"тертка"
-			]
+			"alsoAccepted": ["тертка"]
 		},
 		{
 			"id": "tatsya",
@@ -112,9 +105,7 @@
 			"text": "таця",
 			"display": "та́ця",
 			"ipa": "/ˈtat͡sʲa/",
-			"alsoAccepted": [
-				"піднос"
-			]
+			"alsoAccepted": ["піднос"]
 		},
 		{
 			"id": "drushlyak",
@@ -202,10 +193,8 @@
 			"item": "word:rodzynky",
 			"text": "родзинки",
 			"display": "родзи́нки",
-			"ipa": "/rɔˈdzɪnkɪ/",
-			"alsoAccepted": [
-				"ізюм"
-			]
+			"ipa": "/rɔˈd͡zɪnkɪ/",
+			"alsoAccepted": ["ізюм"]
 		},
 		{
 			"id": "hotuvaty",

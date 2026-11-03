@@ -12,9 +12,7 @@
 			"text": "характер",
 			"display": "хара́ктер",
 			"ipa": "/xaˈraktɛr/",
-			"alsoAccepted": [
-				"вдача"
-			]
+			"alsoAccepted": ["вдача"]
 		},
 		{
 			"id": "nadiynyy",
@@ -29,9 +27,7 @@
 			"text": "творчий",
 			"display": "тво́рчий",
 			"ipa": "/ˈtʋɔrt͡ʃɪj/",
-			"alsoAccepted": [
-				"креативний"
-			]
+			"alsoAccepted": ["креативний"]
 		},
 		{
 			"id": "dobrozychlyvyy",
@@ -46,9 +42,7 @@
 			"text": "вдячний",
 			"display": "вдя́чний",
 			"ipa": "/ˈʋdʲat͡ʃnɪj/",
-			"alsoAccepted": [
-				"удячний"
-			]
+			"alsoAccepted": ["удячний"]
 		},
 		{
 			"id": "zapalnyy",
@@ -56,9 +50,7 @@
 			"text": "запальний",
 			"display": "запальни́й",
 			"ipa": "/zapalʲˈnɪj/",
-			"alsoAccepted": [
-				"гарячкуватий"
-			]
+			"alsoAccepted": ["гарячкуватий"]
 		},
 		{
 			"id": "pomyslyvyy",
@@ -66,10 +58,7 @@
 			"text": "помисливий",
 			"display": "поми́сливий",
 			"ipa": "/pɔˈmɪslɪʋɪj/",
-			"alsoAccepted": [
-				"недовірливий",
-				"підозріливий"
-			]
+			"alsoAccepted": ["недовірливий", "підозріливий"]
 		},
 		{
 			"id": "shchedryy",
@@ -84,9 +73,7 @@
 			"text": "урівноважений",
 			"display": "урівнова́жений",
 			"ipa": "/urʲiʋnɔˈʋaʒɛnɪj/",
-			"alsoAccepted": [
-				"врівноважений"
-			]
+			"alsoAccepted": ["врівноважений"]
 		},
 		{
 			"id": "rishuchyy",
@@ -101,9 +88,7 @@
 			"text": "упертий",
 			"display": "упе́ртий",
 			"ipa": "/uˈpɛrtɪj/",
-			"alsoAccepted": [
-				"впертий"
-			]
+			"alsoAccepted": ["впертий"]
 		},
 		{
 			"id": "postuplyvyy",
@@ -118,9 +103,7 @@
 			"text": "зухвалий",
 			"display": "зухва́лий",
 			"ipa": "/zuxˈʋalɪj/",
-			"alsoAccepted": [
-				"дерзкий"
-			]
+			"alsoAccepted": ["дерзкий"]
 		},
 		{
 			"id": "dobryy",
@@ -135,9 +118,7 @@
 			"text": "веселий",
 			"display": "весе́лий",
 			"ipa": "/ʋɛˈsɛlɪj/",
-			"alsoAccepted": [
-				"життєрадісний"
-			]
+			"alsoAccepted": ["життєрадісний"]
 		},
 		{
 			"id": "rozlyuchenyy",
@@ -145,9 +126,7 @@
 			"text": "розлючений",
 			"display": "розлю́чений",
 			"ipa": "/rɔzʲˈlʲut͡ʃɛnɪj/",
-			"alsoAccepted": [
-				"розгніваний"
-			]
+			"alsoAccepted": ["розгніваний"]
 		},
 		{
 			"id": "zasmuchenyy",
@@ -162,9 +141,7 @@
 			"text": "наполегливий",
 			"display": "наполе́гливий",
 			"ipa": "/napɔˈlɛɦlɪʋɪj/",
-			"alsoAccepted": [
-				"настійливий"
-			]
+			"alsoAccepted": ["настійливий"]
 		},
 		{
 			"id": "velycheznyy",

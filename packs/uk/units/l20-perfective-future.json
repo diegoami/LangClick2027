@@ -4,17 +4,8 @@
 	"dealAll": true,
 	"layout": {
 		"type": "table",
-		"rows": [
-			"ya",
-			"ty",
-			"he",
-			"my",
-			"vy",
-			"they"
-		],
-		"columns": [
-			"pity"
-		]
+		"rows": ["ya", "ty", "he", "my", "vy", "they"],
+		"columns": ["pity"]
 	},
 	"cells": [
 		{
@@ -52,9 +43,7 @@
 			"ipa": "/ˈpidɛmɔ/",
 			"row": "my",
 			"col": "pity",
-			"alsoAccepted": [
-				"підем"
-			]
+			"alsoAccepted": ["підем"]
 		},
 		{
 			"id": "vy.pity",

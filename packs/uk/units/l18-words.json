@@ -12,11 +12,7 @@
 			"text": "автомобіль",
 			"display": "автомобі́ль",
 			"ipa": "/aʋtɔmɔˈbilʲ/",
-			"alsoAccepted": [
-				"автівка",
-				"машина",
-				"авто"
-			]
+			"alsoAccepted": ["автівка", "машина", "авто"]
 		},
 		{
 			"id": "prychip",
@@ -45,9 +41,7 @@
 			"text": "вантажівка",
 			"display": "вантажі́вка",
 			"ipa": "/ʋantaˈʒiʋka/",
-			"alsoAccepted": [
-				"вантажний автомобіль"
-			]
+			"alsoAccepted": ["вантажний автомобіль"]
 		},
 		{
 			"id": "tramvay",
@@ -69,9 +63,7 @@
 			"text": "поїзд",
 			"display": "по́їзд",
 			"ipa": "/ˈpɔjizd/",
-			"alsoAccepted": [
-				"потяг"
-			]
+			"alsoAccepted": ["потяг"]
 		},
 		{
 			"id": "metro",
@@ -79,9 +71,7 @@
 			"text": "метро",
 			"display": "метро́",
 			"ipa": "/mɛˈtrɔ/",
-			"alsoAccepted": [
-				"метрополітен"
-			]
+			"alsoAccepted": ["метрополітен"]
 		},
 		{
 			"id": "taksi",
@@ -96,9 +86,7 @@
 			"text": "електричка",
 			"display": "електри́чка",
 			"ipa": "/ɛlɛˈktrɪt͡ʃka/",
-			"alsoAccepted": [
-				"електропоїзд"
-			]
+			"alsoAccepted": ["електропоїзд"]
 		},
 		{
 			"id": "litak",
@@ -113,9 +101,7 @@
 			"text": "аеропорт",
 			"display": "аеропо́рт",
 			"ipa": "/aɛrɔˈpɔrt/",
-			"alsoAccepted": [
-				"летовище"
-			]
+			"alsoAccepted": ["летовище"]
 		},
 		{
 			"id": "vokzal",

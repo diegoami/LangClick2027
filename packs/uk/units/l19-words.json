@@ -45,9 +45,7 @@
 			"text": "готель",
 			"display": "готе́ль",
 			"ipa": "/ɦɔˈtɛlʲ/",
-			"alsoAccepted": [
-				"гостиниця"
-			]
+			"alsoAccepted": ["гостиниця"]
 		},
 		{
 			"id": "bank",
@@ -129,9 +127,7 @@
 			"text": "зоопарк",
 			"display": "зоопа́рк",
 			"ipa": "/zɔɔˈpark/",
-			"alsoAccepted": [
-				"зоологічний парк"
-			]
+			"alsoAccepted": ["зоологічний парк"]
 		},
 		{
 			"id": "pam-yatnyk",
@@ -139,9 +135,7 @@
 			"text": "пам'ятник",
 			"display": "па́м'ятник",
 			"ipa": "/ˈpamjatnɪk/",
-			"alsoAccepted": [
-				"монумент"
-			]
+			"alsoAccepted": ["монумент"]
 		},
 		{
 			"id": "fontan",
@@ -149,9 +143,7 @@
 			"text": "фонтан",
 			"display": "фонта́н",
 			"ipa": "/fɔnˈtan/",
-			"alsoAccepted": [
-				"водограй"
-			]
+			"alsoAccepted": ["водограй"]
 		},
 		{
 			"id": "halereya",
@@ -166,11 +158,7 @@
 			"text": "заправка",
 			"display": "запра́вка",
 			"ipa": "/zaˈpraʋka/",
-			"alsoAccepted": [
-				"АЗС",
-				"автозаправка",
-				"автозаправна станція"
-			]
+			"alsoAccepted": ["АЗС", "автозаправка", "автозаправна станція"]
 		},
 		{
 			"id": "poshta",
@@ -192,9 +180,7 @@
 			"text": "ліворуч",
 			"display": "ліво́руч",
 			"ipa": "/lʲiˈʋɔrut͡ʃ/",
-			"alsoAccepted": [
-				"наліво"
-			]
+			"alsoAccepted": ["наліво"]
 		},
 		{
 			"id": "pravoruch",
@@ -202,9 +188,7 @@
 			"text": "праворуч",
 			"display": "право́руч",
 			"ipa": "/praˈʋɔrut͡ʃ/",
-			"alsoAccepted": [
-				"направо"
-			]
+			"alsoAccepted": ["направо"]
 		},
 		{
 			"id": "pryamo",
@@ -219,9 +203,7 @@
 			"text": "позаду",
 			"display": "поза́ду",
 			"ipa": "/pɔˈzadu/",
-			"alsoAccepted": [
-				"ззаду"
-			]
+			"alsoAccepted": ["ззаду"]
 		},
 		{
 			"id": "navproty",
@@ -229,9 +211,7 @@
 			"text": "навпроти",
 			"display": "навпро́ти",
 			"ipa": "/naʋpˈrɔtɪ/",
-			"alsoAccepted": [
-				"напроти"
-			]
+			"alsoAccepted": ["напроти"]
 		}
 	],
 	"sources": [

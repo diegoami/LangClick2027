@@ -47,9 +47,7 @@
 			"text": "гайнувати",
 			"display": "гайнува́ти",
 			"ipa": "/ɦajnuˈʋatɪ/",
-			"alsoAccepted": [
-				"марнувати"
-			]
+			"alsoAccepted": ["марнувати"]
 		},
 		{
 			"id": "korystuvatysya",
@@ -57,9 +55,7 @@
 			"text": "користуватися",
 			"display": "користува́тися",
 			"ipa": "/kɔrɪstuˈʋatɪsʲa/",
-			"alsoAccepted": [
-				"користуватись"
-			]
+			"alsoAccepted": ["користуватись"]
 		},
 		{
 			"id": "volodity",
@@ -73,10 +69,8 @@
 			"item": "word:nasolodzhuvatysya",
 			"text": "насолоджуватися",
 			"display": "насоло́джуватися",
-			"ipa": "/nasɔˈlɔdʒuʋatɪsʲa/",
-			"alsoAccepted": [
-				"насолоджуватись"
-			]
+			"ipa": "/nasɔˈlɔd͡ʒuʋatɪsʲa/",
+			"alsoAccepted": ["насолоджуватись"]
 		},
 		{
 			"id": "zhertvuvaty",
@@ -91,11 +85,7 @@
 			"text": "розслаблятися",
 			"display": "розслабля́тися",
 			"ipa": "/rɔzslaˈblʲatɪsʲa/",
-			"alsoAccepted": [
-				"розслаблятись",
-				"розслаблюватися",
-				"розслаблюватись"
-			]
+			"alsoAccepted": ["розслаблятись", "розслаблюватися", "розслаблюватись"]
 		},
 		{
 			"id": "tsikavytysya",
@@ -103,9 +93,7 @@
 			"text": "цікавитися",
 			"display": "ціка́витися",
 			"ipa": "/t͡sʲiˈkaʋɪtɪsʲa/",
-			"alsoAccepted": [
-				"цікавитись"
-			]
+			"alsoAccepted": ["цікавитись"]
 		},
 		{
 			"id": "zaymatysya",
@@ -113,9 +101,7 @@
 			"text": "займатися",
 			"display": "займа́тися",
 			"ipa": "/zajˈmatɪsʲa/",
-			"alsoAccepted": [
-				"займатись"
-			]
+			"alsoAccepted": ["займатись"]
 		},
 		{
 			"id": "vidpochyvaty",

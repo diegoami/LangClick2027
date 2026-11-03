@@ -3,18 +3,8 @@
 	"typing": true,
 	"layout": {
 		"type": "table",
-		"rows": [
-			"ya",
-			"ty",
-			"he",
-			"my",
-			"vy",
-			"they"
-		],
-		"columns": [
-			"navchaty",
-			"navchatysya"
-		]
+		"rows": ["ya", "ty", "he", "my", "vy", "they"],
+		"columns": ["navchaty", "navchatysya"]
 	},
 	"cells": [
 		{
@@ -43,9 +33,7 @@
 			"ipa": "/naʋˈt͡ʃajɛ/",
 			"row": "he",
 			"col": "navchaty",
-			"alsoAccepted": [
-				"навча"
-			]
+			"alsoAccepted": ["навча"]
 		},
 		{
 			"id": "my.navchaty",
@@ -55,9 +43,7 @@
 			"ipa": "/naʋˈt͡ʃajɛmɔ/",
 			"row": "my",
 			"col": "navchaty",
-			"alsoAccepted": [
-				"навчаєм"
-			]
+			"alsoAccepted": ["навчаєм"]
 		},
 		{
 			"id": "vy.navchaty",
@@ -85,9 +71,7 @@
 			"ipa": "/naʋˈt͡ʃajusʲa/",
 			"row": "ya",
 			"col": "navchatysya",
-			"alsoAccepted": [
-				"навчаюсь"
-			]
+			"alsoAccepted": ["навчаюсь"]
 		},
 		{
 			"id": "ty.navchatysya",
@@ -115,10 +99,7 @@
 			"ipa": "/naʋˈt͡ʃajɛmɔsʲa/",
 			"row": "my",
 			"col": "navchatysya",
-			"alsoAccepted": [
-				"навчаємось",
-				"навчаємся"
-			]
+			"alsoAccepted": ["навчаємось", "навчаємся"]
 		},
 		{
 			"id": "vy.navchatysya",
@@ -128,9 +109,7 @@
 			"ipa": "/naʋˈt͡ʃajɛtɛsʲa/",
 			"row": "vy",
 			"col": "navchatysya",
-			"alsoAccepted": [
-				"навчаєтесь"
-			]
+			"alsoAccepted": ["навчаєтесь"]
 		},
 		{
 			"id": "they.navchatysya",

@@ -109,7 +109,7 @@
 			"item": "word:pidboriddya",
 			"text": "підборіддя",
 			"display": "підборі́ддя",
-			"ipa": "/pidbɔˈrʲiddʲa/"
+			"ipa": "/pidbɔˈrʲidʲːa/"
 		},
 		{
 			"id": "shchelepa",
@@ -136,19 +136,15 @@
 			"item": "word:oblychchya",
 			"text": "обличчя",
 			"display": "обли́ччя",
-			"ipa": "/ɔˈblɪt͡ʃt͡ʃʲa/",
-			"alsoAccepted": [
-				"лице"
-			]
+			"ipa": "/ɔˈblɪt͡ʃʲːa/",
+			"alsoAccepted": ["лице"]
 		},
 		{
 			"id": "lob",
 			"item": "word:lob",
 			"text": "лоб",
 			"ipa": "/lɔb/",
-			"alsoAccepted": [
-				"чоло"
-			]
+			"alsoAccepted": ["чоло"]
 		},
 		{
 			"id": "brova",
@@ -278,8 +274,8 @@
 			"id": "poperek",
 			"item": "word:poperek",
 			"text": "поперек",
-			"display": "по́пере́к",
-			"ipa": "/ˈpɔpɛrɛk/"
+			"display": "попере́к",
+			"ipa": "/pɔpɛˈrɛk/"
 		},
 		{
 			"id": "kryzhi",

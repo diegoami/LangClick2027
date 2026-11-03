@@ -19,9 +19,7 @@
 			"text": "проліска",
 			"display": "про́ліска",
 			"ipa": "/ˈprɔlʲiska/",
-			"alsoAccepted": [
-				"пролісок"
-			]
+			"alsoAccepted": ["пролісок"]
 		},
 		{
 			"id": "ryast",
@@ -69,11 +67,9 @@
 			"id": "ivan-chay",
 			"item": "word:ivan-chay",
 			"text": "іван-чай",
-			"display": "іва́н-ча́й",
-			"ipa": "/iˈʋanundefinedt͡ʃaj/",
-			"alsoAccepted": [
-				"кипрій"
-			]
+			"display": "іва́н-чай",
+			"ipa": "/iˈʋan t͡ʃaj/",
+			"alsoAccepted": ["кипрій"]
 		},
 		{
 			"id": "hryb",
@@ -95,9 +91,7 @@
 			"text": "крокус",
 			"display": "кро́кус",
 			"ipa": "/ˈkrɔkus/",
-			"alsoAccepted": [
-				"шафран"
-			]
+			"alsoAccepted": ["шафран"]
 		},
 		{
 			"id": "horytsvit",
@@ -105,9 +99,7 @@
 			"text": "горицвіт",
 			"display": "гори́цвіт",
 			"ipa": "/ɦɔˈrɪt͡sʋit/",
-			"alsoAccepted": [
-				"адоніс"
-			]
+			"alsoAccepted": ["адоніс"]
 		},
 		{
 			"id": "tyulpan",
@@ -143,9 +135,7 @@
 			"text": "півники",
 			"display": "пі́вники",
 			"ipa": "/ˈpiʋnɪkɪ/",
-			"alsoAccepted": [
-				"іриси"
-			]
+			"alsoAccepted": ["іриси"]
 		}
 	],
 	"sources": [

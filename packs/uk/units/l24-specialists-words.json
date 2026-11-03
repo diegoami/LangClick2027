@@ -24,8 +24,8 @@
 			"id": "mamoloh",
 			"item": "word:mamoloh",
 			"text": "мамолог",
-			"display": "мамолог",
-			"ipa": "/mamɔlɔɦ/"
+			"display": "мамо́лог",
+			"ipa": "/maˈmɔlɔɦ/"
 		},
 		{
 			"id": "uroloh",
@@ -54,9 +54,7 @@
 			"text": "невропатолог",
 			"display": "невропато́лог",
 			"ipa": "/nɛʋrɔpaˈtɔlɔɦ/",
-			"alsoAccepted": [
-				"невролог"
-			]
+			"alsoAccepted": ["невролог"]
 		},
 		{
 			"id": "endokrynoloh",
@@ -92,10 +90,7 @@
 			"text": "стоматолог",
 			"display": "стомато́лог",
 			"ipa": "/stɔmaˈtɔlɔɦ/",
-			"alsoAccepted": [
-				"дантист",
-				"зубний лікар"
-			]
+			"alsoAccepted": ["дантист", "зубний лікар"]
 		},
 		{
 			"id": "onkoloh",
@@ -110,9 +105,7 @@
 			"text": "офтальмолог",
 			"display": "офтальмо́лог",
 			"ipa": "/ɔftalʲˈmɔlɔɦ/",
-			"alsoAccepted": [
-				"окуліст"
-			]
+			"alsoAccepted": ["окуліст"]
 		},
 		{
 			"id": "ftyziatr",

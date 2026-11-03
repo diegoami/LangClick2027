@@ -19,10 +19,7 @@
 			"text": "хлібина",
 			"display": "хліби́на",
 			"ipa": "/xlʲiˈbɪna/",
-			"alsoAccepted": [
-				"буханець",
-				"буханка"
-			]
+			"alsoAccepted": ["буханець", "буханка"]
 		},
 		{
 			"id": "plyashka",
@@ -49,7 +46,7 @@
 			"id": "koshtuvaty",
 			"item": "word:koshtuvaty",
 			"text": "коштувати",
-			"display": "ко́штува́ти",
+			"display": "ко́штувати",
 			"ipa": "/ˈkɔʃtuʋatɪ/"
 		},
 		{
@@ -99,9 +96,7 @@
 			"text": "картопля",
 			"display": "карто́пля",
 			"ipa": "/karˈtɔplʲa/",
-			"alsoAccepted": [
-				"бульба"
-			]
+			"alsoAccepted": ["бульба"]
 		},
 		{
 			"id": "buryak",
@@ -227,9 +222,7 @@
 			"text": "солодощі",
 			"display": "со́лодощі",
 			"ipa": "/ˈsɔlɔdɔʃt͡ʃi/",
-			"alsoAccepted": [
-				"ласощі"
-			]
+			"alsoAccepted": ["ласощі"]
 		},
 		{
 			"id": "tsukornytsya",

@@ -12,10 +12,7 @@
 			"text": "пігулка",
 			"display": "пігу́лка",
 			"ipa": "/piˈɦulka/",
-			"alsoAccepted": [
-				"таблетка",
-				"пілюля"
-			]
+			"alsoAccepted": ["таблетка", "пілюля"]
 		},
 		{
 			"id": "mikstura",
@@ -37,9 +34,7 @@
 			"text": "свічка",
 			"display": "сві́чка",
 			"ipa": "/ˈsʋit͡ʃka/",
-			"alsoAccepted": [
-				"супозиторій"
-			]
+			"alsoAccepted": ["супозиторій"]
 		},
 		{
 			"id": "syrop",

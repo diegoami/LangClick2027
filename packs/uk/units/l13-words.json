@@ -12,16 +12,14 @@
 			"text": "одяг",
 			"display": "о́дяг",
 			"ipa": "/ˈɔdʲaɦ/",
-			"alsoAccepted": [
-				"вбрання"
-			]
+			"alsoAccepted": ["вбрання"]
 		},
 		{
 			"id": "vzuttya",
 			"item": "word:vzuttya",
 			"text": "взуття",
 			"display": "взуття́",
-			"ipa": "/ʋzutˈtʲa/"
+			"ipa": "/ʋzuˈtʲːa/"
 		},
 		{
 			"id": "spidnytsya",
@@ -36,9 +34,7 @@
 			"text": "сукня",
 			"display": "су́кня",
 			"ipa": "/ˈsuknʲa/",
-			"alsoAccepted": [
-				"плаття"
-			]
+			"alsoAccepted": ["плаття"]
 		},
 		{
 			"id": "bluzka",
@@ -73,7 +69,7 @@
 			"item": "word:pidzhak",
 			"text": "піджак",
 			"display": "піджа́к",
-			"ipa": "/pidˈʒak/"
+			"ipa": "/piˈd͡ʒak/"
 		},
 		{
 			"id": "kravatka",
@@ -81,9 +77,7 @@
 			"text": "краватка",
 			"display": "крава́тка",
 			"ipa": "/kraˈʋatka/",
-			"alsoAccepted": [
-				"галстук"
-			]
+			"alsoAccepted": ["галстук"]
 		},
 		{
 			"id": "metelyk",
@@ -98,9 +92,7 @@
 			"text": "штани",
 			"display": "штани́",
 			"ipa": "/ʃtaˈnɪ/",
-			"alsoAccepted": [
-				"брюки"
-			]
+			"alsoAccepted": ["брюки"]
 		},
 		{
 			"id": "sorochka",
@@ -134,17 +126,13 @@
 			"text": "капелюх",
 			"display": "капелю́х",
 			"ipa": "/kapɛˈlʲux/",
-			"alsoAccepted": [
-				"шляпа"
-			]
+			"alsoAccepted": ["шляпа"]
 		},
 		{
 			"id": "kaptsi",
 			"item": "word:kaptsi",
 			"text": "капці",
-			"alsoAccepted": [
-				"тапочки"
-			],
+			"alsoAccepted": ["тапочки"],
 			"display": "ка́пці",
 			"ipa": "/ˈkapt͡sʲi/"
 		},
@@ -154,10 +142,7 @@
 			"text": "босоніжки",
 			"display": "босоні́жки",
 			"ipa": "/bɔsɔˈnʲiʒkɪ/",
-			"alsoAccepted": [
-				"сандалі",
-				"сандалії"
-			]
+			"alsoAccepted": ["сандалі", "сандалії"]
 		},
 		{
 			"id": "tufli",
@@ -214,9 +199,7 @@
 			"text": "вибирати",
 			"display": "вибира́ти",
 			"ipa": "/ʋɪbɪˈratɪ/",
-			"alsoAccepted": [
-				"обирати"
-			]
+			"alsoAccepted": ["обирати"]
 		},
 		{
 			"id": "miryaty",
@@ -224,11 +207,7 @@
 			"text": "міряти",
 			"display": "мі́ряти",
 			"ipa": "/ˈmirʲatɪ/",
-			"alsoAccepted": [
-				"приміряти",
-				"примірювати",
-				"мірити"
-			]
+			"alsoAccepted": ["приміряти", "примірювати", "мірити"]
 		},
 		{
 			"id": "kupuvaty",
@@ -236,9 +215,7 @@
 			"text": "купувати",
 			"display": "купува́ти",
 			"ipa": "/kupuˈʋatɪ/",
-			"alsoAccepted": [
-				"купляти"
-			]
+			"alsoAccepted": ["купляти"]
 		},
 		{
 			"id": "odyahatysya",
@@ -246,9 +223,7 @@
 			"text": "одягатися",
 			"display": "одяга́тися",
 			"ipa": "/ɔdʲaˈɦatɪsʲa/",
-			"alsoAccepted": [
-				"одягатись"
-			]
+			"alsoAccepted": ["одягатись"]
 		},
 		{
 			"id": "vzuvatysya",
@@ -256,11 +231,7 @@
 			"text": "взуватися",
 			"display": "взува́тися",
 			"ipa": "/ʋzuˈʋatɪsʲa/",
-			"alsoAccepted": [
-				"взуватись",
-				"узуватися",
-				"узуватись"
-			]
+			"alsoAccepted": ["взуватись", "узуватися", "узуватись"]
 		}
 	],
 	"sources": [

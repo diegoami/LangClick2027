@@ -12,9 +12,7 @@
 			"text": "житло",
 			"display": "житло́",
 			"ipa": "/ʒɪˈtlɔ/",
-			"alsoAccepted": [
-				"помешкання"
-			]
+			"alsoAccepted": ["помешкання"]
 		},
 		{
 			"id": "kvartyra",
@@ -29,17 +27,13 @@
 			"text": "будинок",
 			"display": "буди́нок",
 			"ipa": "/buˈdɪnɔk/",
-			"alsoAccepted": [
-				"дім"
-			]
+			"alsoAccepted": ["дім"]
 		},
 		{
 			"id": "podvir-ya",
 			"item": "word:podvir-ya",
 			"text": "подвір'я",
-			"alsoAccepted": [
-				"двір"
-			],
+			"alsoAccepted": ["двір"],
 			"display": "подві́р'я",
 			"ipa": "/pɔdˈʋirja/"
 		},
@@ -139,9 +133,7 @@
 			"text": "ванна",
 			"display": "ва́нна",
 			"ipa": "/ˈʋanːa/",
-			"alsoAccepted": [
-				"ванна кімната"
-			]
+			"alsoAccepted": ["ванна кімната"]
 		},
 		{
 			"id": "dytyacha-kimnata",
@@ -231,7 +223,7 @@
 			"item": "word:dzerkalo",
 			"text": "дзеркало",
 			"display": "дзе́ркало",
-			"ipa": "/ˈdzɛrkalɔ/"
+			"ipa": "/ˈd͡zɛrkalɔ/"
 		},
 		{
 			"id": "pidloha",
@@ -341,9 +333,7 @@
 			"id": "dukhova-shafa",
 			"item": "word:dukhova-shafa",
 			"text": "духова шафа",
-			"alsoAccepted": [
-				"духовка"
-			],
+			"alsoAccepted": ["духовка"],
 			"display": "духова́ ша́фа",
 			"ipa": "/duxɔˈʋa ˈʃafa/"
 		},
@@ -374,9 +364,7 @@
 			"text": "мийниця",
 			"display": "ми́йниця",
 			"ipa": "/ˈmɪjnɪt͡sʲa/",
-			"alsoAccepted": [
-				"мийка"
-			]
+			"alsoAccepted": ["мийка"]
 		},
 		{
 			"id": "zmishuvach",
@@ -453,9 +441,7 @@
 			"text": "вішак",
 			"display": "віша́к",
 			"ipa": "/ʋiˈʃak/",
-			"alsoAccepted": [
-				"вішалка"
-			]
+			"alsoAccepted": ["вішалка"]
 		},
 		{
 			"id": "komod",

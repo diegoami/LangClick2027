@@ -3,19 +3,8 @@
 	"typing": true,
 	"layout": {
 		"type": "table",
-		"rows": [
-			"ya",
-			"ty",
-			"he",
-			"my",
-			"vy",
-			"they"
-		],
-		"columns": [
-			"vchyty",
-			"vchytysya",
-			"vyvchaty"
-		]
+		"rows": ["ya", "ty", "he", "my", "vy", "they"],
+		"columns": ["vchyty", "vchytysya", "vyvchaty"]
 	},
 	"cells": [
 		{
@@ -26,9 +15,7 @@
 			"ipa": "/ʋt͡ʃu/",
 			"row": "ya",
 			"col": "vchyty",
-			"alsoAccepted": [
-				"учу"
-			]
+			"alsoAccepted": ["учу"]
 		},
 		{
 			"id": "ty.vchyty",
@@ -38,9 +25,7 @@
 			"ipa": "/ʋt͡ʃɪʃ/",
 			"row": "ty",
 			"col": "vchyty",
-			"alsoAccepted": [
-				"учиш"
-			]
+			"alsoAccepted": ["учиш"]
 		},
 		{
 			"id": "he.vchyty",
@@ -50,9 +35,7 @@
 			"ipa": "/ʋt͡ʃɪtʲ/",
 			"row": "he",
 			"col": "vchyty",
-			"alsoAccepted": [
-				"учить"
-			]
+			"alsoAccepted": ["учить"]
 		},
 		{
 			"id": "my.vchyty",
@@ -62,11 +45,7 @@
 			"ipa": "/ʋt͡ʃɪˈmɔ/",
 			"row": "my",
 			"col": "vchyty",
-			"alsoAccepted": [
-				"учимо",
-				"вчим",
-				"учим"
-			]
+			"alsoAccepted": ["учимо", "вчим", "учим"]
 		},
 		{
 			"id": "vy.vchyty",
@@ -76,9 +55,7 @@
 			"ipa": "/ʋt͡ʃɪˈtɛ/",
 			"row": "vy",
 			"col": "vchyty",
-			"alsoAccepted": [
-				"учите"
-			]
+			"alsoAccepted": ["учите"]
 		},
 		{
 			"id": "they.vchyty",
@@ -88,9 +65,7 @@
 			"ipa": "/ʋt͡ʃatʲ/",
 			"row": "they",
 			"col": "vchyty",
-			"alsoAccepted": [
-				"учать"
-			]
+			"alsoAccepted": ["учать"]
 		},
 		{
 			"id": "ya.vchytysya",
@@ -100,11 +75,7 @@
 			"ipa": "/ˈʋt͡ʃusʲa/",
 			"row": "ya",
 			"col": "vchytysya",
-			"alsoAccepted": [
-				"вчусь",
-				"учуся",
-				"учусь"
-			]
+			"alsoAccepted": ["вчусь", "учуся", "учусь"]
 		},
 		{
 			"id": "ty.vchytysya",
@@ -114,9 +85,7 @@
 			"ipa": "/ˈʋt͡ʃɪsʲːa/",
 			"row": "ty",
 			"col": "vchytysya",
-			"alsoAccepted": [
-				"учишся"
-			]
+			"alsoAccepted": ["учишся"]
 		},
 		{
 			"id": "he.vchytysya",
@@ -126,9 +95,7 @@
 			"ipa": "/ˈʋt͡ʃɪt͡sʲːa/",
 			"row": "he",
 			"col": "vchytysya",
-			"alsoAccepted": [
-				"учиться"
-			]
+			"alsoAccepted": ["учиться"]
 		},
 		{
 			"id": "my.vchytysya",
@@ -138,13 +105,7 @@
 			"ipa": "/ʋt͡ʃɪˈmɔsʲa/",
 			"row": "my",
 			"col": "vchytysya",
-			"alsoAccepted": [
-				"вчимось",
-				"вчимся",
-				"учимося",
-				"учимось",
-				"учимся"
-			]
+			"alsoAccepted": ["вчимось", "вчимся", "учимося", "учимось", "учимся"]
 		},
 		{
 			"id": "vy.vchytysya",
@@ -154,11 +115,7 @@
 			"ipa": "/ʋt͡ʃɪˈtɛsʲa/",
 			"row": "vy",
 			"col": "vchytysya",
-			"alsoAccepted": [
-				"вчитесь",
-				"учитеся",
-				"учитесь"
-			]
+			"alsoAccepted": ["вчитесь", "учитеся", "учитесь"]
 		},
 		{
 			"id": "they.vchytysya",
@@ -168,9 +125,7 @@
 			"ipa": "/ˈʋt͡ʃat͡sʲːa/",
 			"row": "they",
 			"col": "vchytysya",
-			"alsoAccepted": [
-				"учаться"
-			]
+			"alsoAccepted": ["учаться"]
 		},
 		{
 			"id": "ya.vyvchaty",
@@ -198,9 +153,7 @@
 			"ipa": "/ʋɪʋˈt͡ʃajɛ/",
 			"row": "he",
 			"col": "vyvchaty",
-			"alsoAccepted": [
-				"вивча"
-			]
+			"alsoAccepted": ["вивча"]
 		},
 		{
 			"id": "my.vyvchaty",
@@ -210,9 +163,7 @@
 			"ipa": "/ʋɪʋˈt͡ʃajɛmɔ/",
 			"row": "my",
 			"col": "vyvchaty",
-			"alsoAccepted": [
-				"вивчаєм"
-			]
+			"alsoAccepted": ["вивчаєм"]
 		},
 		{
 			"id": "vy.vyvchaty",

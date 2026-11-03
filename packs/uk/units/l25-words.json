@@ -47,9 +47,7 @@
 			"text": "подарунок",
 			"display": "подару́нок",
 			"ipa": "/pɔdaˈrunɔk/",
-			"alsoAccepted": [
-				"дарунок"
-			]
+			"alsoAccepted": ["дарунок"]
 		},
 		{
 			"id": "pryvitannya",
@@ -57,9 +55,7 @@
 			"text": "привітання",
 			"display": "привіта́ння",
 			"ipa": "/prɪʋʲiˈtanʲːa/",
-			"alsoAccepted": [
-				"вітання"
-			]
+			"alsoAccepted": ["вітання"]
 		},
 		{
 			"id": "svyatkuvaty",
@@ -95,9 +91,7 @@
 			"text": "Святвечір",
 			"display": "Святве́чір",
 			"ipa": "/sʲʋʲatˈʋɛt͡ʃir/",
-			"alsoAccepted": [
-				"Святий вечір"
-			]
+			"alsoAccepted": ["Святий вечір"]
 		},
 		{
 			"id": "kutya",
@@ -161,9 +155,7 @@
 			"text": "Трійця",
 			"display": "Трі́йця",
 			"ipa": "/ˈtʲrʲijt͡sʲa/",
-			"alsoAccepted": [
-				"Зелені свята"
-			]
+			"alsoAccepted": ["Зелені свята"]
 		},
 		{
 			"id": "pokrova",
@@ -178,11 +170,7 @@
 			"text": "Водохреще",
 			"display": "Водо́хреще",
 			"ipa": "/ʋɔˈdɔxrɛʃt͡ʃɛ/",
-			"alsoAccepted": [
-				"Водохреща",
-				"Йордан",
-				"Богоявлення"
-			]
+			"alsoAccepted": ["Водохреща", "Йордан", "Богоявлення"]
 		},
 		{
 			"id": "blahovishchennya",
@@ -197,9 +185,7 @@
 			"text": "обряд",
 			"display": "обря́д",
 			"ipa": "/ɔˈbrʲad/",
-			"alsoAccepted": [
-				"ритуал"
-			]
+			"alsoAccepted": ["ритуал"]
 		},
 		{
 			"id": "uzvar",

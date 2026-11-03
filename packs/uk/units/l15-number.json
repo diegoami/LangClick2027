@@ -4,21 +4,8 @@
 	"dealAll": true,
 	"layout": {
 		"type": "table",
-		"rows": [
-			"beet",
-			"borshch",
-			"drink",
-			"juice",
-			"sausage",
-			"bowl",
-			"pot",
-			"tray",
-			"egg"
-		],
-		"columns": [
-			"c0",
-			"c1"
-		]
+		"rows": ["beet", "borshch", "drink", "juice", "sausage", "bowl", "pot", "tray", "egg"],
+		"columns": ["c0", "c1"]
 	},
 	"cells": [
 		{
@@ -117,9 +104,7 @@
 			"col": "c0",
 			"display": "цу́корниця",
 			"ipa": "/ˈt͡sukɔrnɪt͡sʲa/",
-			"alsoAccepted": [
-				"цукерниця"
-			]
+			"alsoAccepted": ["цукерниця"]
 		},
 		{
 			"id": "bowl.c1",
@@ -129,9 +114,7 @@
 			"col": "c1",
 			"display": "цу́корниці",
 			"ipa": "/ˈt͡sukɔrnɪt͡sʲi/",
-			"alsoAccepted": [
-				"цукерниці"
-			]
+			"alsoAccepted": ["цукерниці"]
 		},
 		{
 			"id": "pot.c0",

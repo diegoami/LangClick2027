@@ -26,9 +26,7 @@
 			"text": "явір",
 			"display": "я́вір",
 			"ipa": "/ˈjaʋir/",
-			"alsoAccepted": [
-				"клен-явір"
-			]
+			"alsoAccepted": ["клен-явір"]
 		},
 		{
 			"id": "bereza",
@@ -85,9 +83,7 @@
 			"text": "ліщина",
 			"display": "ліщи́на",
 			"ipa": "/lʲiˈʃt͡ʃɪna/",
-			"alsoAccepted": [
-				"ліщина звичайна"
-			]
+			"alsoAccepted": ["ліщина звичайна"]
 		},
 		{
 			"id": "malyna",
@@ -165,9 +161,7 @@
 			"text": "смерека",
 			"display": "смере́ка",
 			"ipa": "/smɛˈrɛka/",
-			"alsoAccepted": [
-				"ялина"
-			]
+			"alsoAccepted": ["ялина"]
 		},
 		{
 			"id": "modryna",

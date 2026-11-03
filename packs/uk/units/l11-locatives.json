@@ -4,20 +4,8 @@
 	"dealAll": true,
 	"layout": {
 		"type": "table",
-		"rows": [
-			"hand",
-			"leg",
-			"head",
-			"eye",
-			"ear",
-			"shoulder",
-			"knee",
-			"finger"
-		],
-		"columns": [
-			"c0",
-			"c1"
-		]
+		"rows": ["hand", "leg", "head", "eye", "ear", "shoulder", "knee", "finger"],
+		"columns": ["c0", "c1"]
 	},
 	"cells": [
 		{
@@ -100,10 +88,7 @@
 			"col": "c0",
 			"display": "ву́сі",
 			"ipa": "/ˈʋusʲi/",
-			"alsoAccepted": [
-				"вуху",
-				"вухові"
-			]
+			"alsoAccepted": ["вуху", "вухові"]
 		},
 		{
 			"id": "ear.c1",
@@ -122,9 +107,7 @@
 			"col": "c0",
 			"display": "плечі́",
 			"ipa": "/plɛˈt͡ʃi/",
-			"alsoAccepted": [
-				"плечу"
-			]
+			"alsoAccepted": ["плечу"]
 		},
 		{
 			"id": "shoulder.c1",
@@ -134,9 +117,7 @@
 			"col": "c1",
 			"display": "плеча́х",
 			"ipa": "/plɛˈt͡ʃax/",
-			"alsoAccepted": [
-				"плечях"
-			]
+			"alsoAccepted": ["плечях"]
 		},
 		{
 			"id": "knee.c0",
@@ -146,9 +127,7 @@
 			"col": "c0",
 			"display": "колі́ні",
 			"ipa": "/kɔˈlʲinʲi/",
-			"alsoAccepted": [
-				"коліну"
-			]
+			"alsoAccepted": ["коліну"]
 		},
 		{
 			"id": "knee.c1",
@@ -167,10 +146,7 @@
 			"col": "c0",
 			"display": "па́льці",
 			"ipa": "/ˈpalʲt͡sʲi/",
-			"alsoAccepted": [
-				"пальцю",
-				"пальцеві"
-			]
+			"alsoAccepted": ["пальцю", "пальцеві"]
 		},
 		{
 			"id": "finger.c1",
