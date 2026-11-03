@@ -1,10 +1,10 @@
 {
 	"cells": {
-		"konvaliya": {
-			"contrast": "Ukraińskе підсніжник to polskie przylep."
-		},
 		"pidsnizhnyk": {
-			"contrast": "Ukraińskе ромашка to polskie rumianek."
+			"contrast": "Ukraiński підсніжник to polskie przylep."
+		},
+		"romashka": {
+			"contrast": "Ukraińska ромашка to polskie rumianek."
 		}
 	}
 }

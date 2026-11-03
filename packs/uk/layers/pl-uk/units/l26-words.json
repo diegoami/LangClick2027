@@ -1,10 +1,10 @@
 {
 	"cells": {
-		"dovkillya": {
-			"contrast": "Українське заповідник — це польське rezerwat przyrody."
-		},
 		"zapovidnyk": {
-			"contrast": "Українське степ і польське step — те саме слово."
+			"contrast": "Український заповідник — це польське rezerwat przyrody."
+		},
+		"step": {
+			"contrast": "Український степ і польське step — те саме слово."
 		}
 	}
 }

@@ -1,10 +1,10 @@
 {
 	"cells": {
-		"dovkillya": {
-			"contrast": "Ukraińskе заповідник to rezerwat przyrody."
-		},
 		"zapovidnyk": {
-			"contrast": "Ukraińskе степ to polskie step — to samo słowo."
+			"contrast": "Ukraiński заповідник to rezerwat przyrody."
+		},
+		"step": {
+			"contrast": "Ukraiński степ to polskie step — to samo słowo."
 		}
 	}
 }

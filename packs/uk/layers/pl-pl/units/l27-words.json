@@ -1,18 +1,10 @@
 {
 	"cells": {
-		"ruchka": {
-			"falseFriend": {
-				"kind": "partial",
-				"form": "uchwyt",
-				"means": "Polskie uchwyt to rękojeść, klamka. W Ukrainian ручка to długopis."
-			}
-		},
 		"kafedra": {
-			"falseFriend": {
-				"kind": "homograph",
-				"form": "katedra",
-				"means": "Polskie katedra to katedra biskupa albo krzesło wykładowcy. W Ukrainian кафедра to wydział uczelni."
-			}
+			"contrast": "Ukraińska кафедра to polskie katedra — w polskim też wydział uczelni, ale także stanowisko."
+		},
+		"farba": {
+			"contrast": "Ukraińska фарба to polskie farba — to samo słowo."
 		}
 	}
 }

@@ -1,10 +1,10 @@
 {
 	"cells": {
-		"pihulka": {
-			"contrast": "Ukraińskе свічка w medycynie to czopek; polskie świeca znaczy tylko świecę."
-		},
 		"maz": {
-			"contrast": "Ukraińskе мазь to polskie maść — to samo."
+			"contrast": "Ukraińska мазь to polskie maść — to samo."
+		},
+		"svichka": {
+			"contrast": "Ukraińska свічка w medycynie to czopek; polskie świeca znaczy tylko świecę."
 		}
 	}
 }

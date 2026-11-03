@@ -8,7 +8,7 @@
 		},
 		"museum": {
 			"sentenceGloss": "Obok muzeum stoi autobus.",
-			"note": "Narzędnik: біля łączy się z narzędnikiem."
+			"note": "Dopełniacz: біля łączy się z dopełniaczem."
 		},
 		"corner": {
 			"sentenceGloss": "Apteka jest za rogiem.",
@@ -16,7 +16,7 @@
 		},
 		"oncorner": {
 			"sentenceGloss": "Kiosk jest na rogu dwóch ulic.",
-			"note": "Miejscownik: na łączy się z miejscownikiem — na rozі dwóch ulic."
+			"note": "Miejscownik: na łączy się z miejscownikiem — на розі двох вулиць."
 		},
 		"left": {
 			"sentenceGloss": "Skręć w lewo.",
