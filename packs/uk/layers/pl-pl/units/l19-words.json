@@ -2,11 +2,9 @@
 	"cells": {
 		"zamok": {
 			"falseFriend": {
-				"falseFriend": {
-					"kind": "homograph",
-					"form": "róg",
-					"means": "Polskie róg to rog. W Ukrainian ріг oznacza róg ulicy albo zakąt."
-				}
+				"kind": "homograph",
+				"form": "róg",
+				"means": "Polskie róg to rog. W Ukrainian ріг oznacza róg ulicy albo zakąt."
 			}
 		},
 		"palats": {

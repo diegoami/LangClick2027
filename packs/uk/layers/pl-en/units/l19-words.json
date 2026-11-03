@@ -2,11 +2,9 @@
 	"cells": {
 		"zamok": {
 			"falseFriend": {
-				"falseFriend": {
-					"kind": "homograph",
-					"form": "róg",
-					"means": "Polish róg is a horn. Ukrainian ріг is a street corner or a nook."
-				}
+				"kind": "homograph",
+				"form": "róg",
+				"means": "Polish róg is a horn. Ukrainian ріг is a street corner or a nook."
 			}
 		},
 		"palats": {

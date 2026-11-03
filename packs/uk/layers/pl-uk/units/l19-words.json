@@ -2,11 +2,9 @@
 	"cells": {
 		"zamok": {
 			"falseFriend": {
-				"falseFriend": {
-					"kind": "homograph",
-					"form": "róg",
-					"means": "Польське róg — це рог. Українське ріг — це ріг вулиці чи закуток."
-				}
+				"kind": "homograph",
+				"form": "róg",
+				"means": "Польське róg — це рог. Українське ріг — це ріг вулиці чи закуток."
 			}
 		},
 		"palats": {
