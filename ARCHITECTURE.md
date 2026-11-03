@@ -84,3 +84,11 @@ because new material is what moves a learner forward. A `dealAll` unit offers th
 - `OverviewView.svelte.test.ts` checks the long verb tables at phone width in every
   explanation language. It measures answer text against its own cell, since a page
   can fit the viewport while answers overlap neighbouring cells.
+
+## GitHub Pages
+
+`npm run build:pages` creates a disposable route overlay, retaining authored
+loaders and imports while removing server-rendering options incompatible with
+hash routing. The Pages-only Vite configuration uses the repository base path
+and `index.html` entry. Authored routes and the normal build remain unchanged.
+The workflow publishes only `app/build/`; content and progress remain local-first.
