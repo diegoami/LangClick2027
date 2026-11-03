@@ -30,10 +30,9 @@ that explains it.
    content checks recorded for the release (`packs/README.md`), what changed,
    the claims to verify with `file:line`, and the known owner decisions. Until
    the tag, `main` takes only fixes for this milestone's findings.
-3. **Review.** The owner starts it in a fresh session of a model family that
-   implemented none of the release: "Follow `docs/release-reviewer.md` for
-   milestone issue #n." It posts AGREE or BLOCK on the milestone issue. **The tag
-   waits.** On BLOCK the fixes land as ordinary PRs, the candidate moves to the
+3. **Review.** The owner starts it in a fresh session: "Follow
+   `docs/release-reviewer.md` for milestone issue #n." It posts AGREE or BLOCK
+   on the milestone issue. **The tag waits.** On BLOCK the fixes land as ordinary PRs, the candidate moves to the
    new `main` commit, and a re-review starts unasked; a third round without
    AGREE goes to the owner. The owner may also tag without a review, and the
    issue records that.

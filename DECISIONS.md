@@ -196,3 +196,13 @@ kinds of false friends, but they are learning the same language. So there is one
 course and one record of progress, and the comparison changes what is explained.
 Comparing with and explaining in are separate settings, since a learner may read
 English while comparing with Polish.
+
+## The reviewer's model is the owner's choice (2026-11-03)
+
+The quota tracker and the rule that the milestone review must run in a model
+family different from the implementer's are gone: they belonged to a setup the
+owner no longer runs, and the quota rule made a model choice depend on a
+service that may be absent. The owner picks the tool and the model for the
+review and starts it in a fresh session. What the review must do is unchanged:
+work in its own worktree, verify against the code rather than the description,
+reproduce every finding, open one issue per finding, and post one verdict.
