@@ -1,0 +1,725 @@
+{
+	"id": "l14-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 63
+	},
+	"cells": [
+		{
+			"id": "zhytlo",
+			"item": "word:zhytlo",
+			"text": "житло",
+			"display": "житло́",
+			"alsoAccepted": ["помешкання"]
+		},
+		{
+			"id": "kvartyra",
+			"item": "word:kvartyra",
+			"text": "квартира",
+			"display": "кварти́ра"
+		},
+		{
+			"id": "budynok",
+			"item": "word:budynok",
+			"text": "будинок",
+			"display": "буди́нок",
+			"alsoAccepted": ["дім"]
+		},
+		{
+			"id": "podvir-ya",
+			"item": "word:podvir-ya",
+			"text": "подвір'я",
+			"alsoAccepted": ["двір"],
+			"display": "подві́р'я"
+		},
+		{
+			"id": "sad",
+			"item": "word:sad",
+			"text": "сад"
+		},
+		{
+			"id": "klumba",
+			"item": "word:klumba",
+			"text": "клумба",
+			"display": "клу́мба"
+		},
+		{
+			"id": "harazh",
+			"item": "word:harazh",
+			"text": "гараж",
+			"display": "гара́ж"
+		},
+		{
+			"id": "baseyn",
+			"item": "word:baseyn",
+			"text": "басейн",
+			"display": "басе́йн"
+		},
+		{
+			"id": "villa",
+			"item": "word:villa",
+			"text": "вілла",
+			"display": "ві́лла"
+		},
+		{
+			"id": "poverkh",
+			"item": "word:poverkh",
+			"text": "поверх",
+			"display": "по́верх"
+		},
+		{
+			"id": "dveri",
+			"item": "word:dveri",
+			"text": "двері",
+			"display": "две́рі"
+		},
+		{
+			"id": "peredpokiy",
+			"item": "word:peredpokiy",
+			"text": "передпокій",
+			"display": "передпо́кій"
+		},
+		{
+			"id": "korydor",
+			"item": "word:korydor",
+			"text": "коридор",
+			"display": "коридо́р"
+		},
+		{
+			"id": "skhody",
+			"item": "word:skhody",
+			"text": "сходи",
+			"display": "схо́ди"
+		},
+		{
+			"id": "kukhnya",
+			"item": "word:kukhnya",
+			"text": "кухня",
+			"display": "ку́хня"
+		},
+		{
+			"id": "vitalnya",
+			"item": "word:vitalnya",
+			"text": "вітальня",
+			"display": "віта́льня"
+		},
+		{
+			"id": "spalnya",
+			"item": "word:spalnya",
+			"text": "спальня",
+			"display": "спа́льня"
+		},
+		{
+			"id": "vanna",
+			"item": "word:vanna",
+			"text": "ванна",
+			"display": "ва́нна",
+			"alsoAccepted": ["ванна кімната"]
+		},
+		{
+			"id": "dytyacha-kimnata",
+			"item": "word:dytyacha-kimnata",
+			"text": "дитяча кімната",
+			"display": "дитя́ча кімна́та"
+		},
+		{
+			"id": "hostova-kimnata",
+			"item": "word:hostova-kimnata",
+			"text": "гостьова кімната",
+			"display": "гостьова́ кімна́та"
+		},
+		{
+			"id": "dakh",
+			"item": "word:dakh",
+			"text": "дах"
+		},
+		{
+			"id": "horyshche",
+			"item": "word:horyshche",
+			"text": "горище",
+			"display": "гори́ще"
+		},
+		{
+			"id": "pidval",
+			"item": "word:pidval",
+			"text": "підвал",
+			"display": "підва́л"
+		},
+		{
+			"id": "mebli",
+			"item": "word:mebli",
+			"text": "меблі",
+			"display": "ме́блі"
+		},
+		{
+			"id": "lizhko",
+			"item": "word:lizhko",
+			"text": "ліжко",
+			"display": "лі́жко"
+		},
+		{
+			"id": "podushka",
+			"item": "word:podushka",
+			"text": "подушка",
+			"display": "поду́шка"
+		},
+		{
+			"id": "kovdra",
+			"item": "word:kovdra",
+			"text": "ковдра",
+			"display": "ко́вдра"
+		},
+		{
+			"id": "tumba",
+			"item": "word:tumba",
+			"text": "тумба",
+			"display": "ту́мба"
+		},
+		{
+			"id": "nastilna-lampa",
+			"item": "word:nastilna-lampa",
+			"text": "настільна лампа",
+			"display": "насті́льна ла́мпа"
+		},
+		{
+			"id": "shafa",
+			"item": "word:shafa",
+			"text": "шафа",
+			"display": "ша́фа"
+		},
+		{
+			"id": "dzerkalo",
+			"item": "word:dzerkalo",
+			"text": "дзеркало",
+			"display": "дзе́ркало"
+		},
+		{
+			"id": "pidloha",
+			"item": "word:pidloha",
+			"text": "підлога",
+			"display": "підло́га"
+		},
+		{
+			"id": "kylym",
+			"item": "word:kylym",
+			"text": "килим",
+			"display": "ки́лим"
+		},
+		{
+			"id": "shtora",
+			"item": "word:shtora",
+			"text": "штора",
+			"display": "што́ра"
+		},
+		{
+			"id": "tyul",
+			"item": "word:tyul",
+			"text": "тюль"
+		},
+		{
+			"id": "dyvan",
+			"item": "word:dyvan",
+			"text": "диван",
+			"display": "дива́н"
+		},
+		{
+			"id": "krislo",
+			"item": "word:krislo",
+			"text": "крісло",
+			"display": "крі́сло"
+		},
+		{
+			"id": "televizor",
+			"item": "word:televizor",
+			"text": "телевізор",
+			"display": "телеві́зор"
+		},
+		{
+			"id": "zhurnalnyy-stolyk",
+			"item": "word:zhurnalnyy-stolyk",
+			"text": "журнальний столик",
+			"display": "журна́льний сто́лик"
+		},
+		{
+			"id": "knyzhkova-shafa",
+			"item": "word:knyzhkova-shafa",
+			"text": "книжкова шафа",
+			"display": "книжко́ва ша́фа"
+		},
+		{
+			"id": "pysmovyy-stil",
+			"item": "word:pysmovyy-stil",
+			"text": "письмовий стіл",
+			"display": "письмо́вий стіл"
+		},
+		{
+			"id": "stilets",
+			"item": "word:stilets",
+			"text": "стілець",
+			"display": "стіле́ць"
+		},
+		{
+			"id": "pidvikonnya",
+			"item": "word:pidvikonnya",
+			"text": "підвіконня",
+			"display": "підвіко́ння"
+		},
+		{
+			"id": "horshchyk",
+			"item": "word:horshchyk",
+			"text": "горщик",
+			"display": "го́рщик"
+		},
+		{
+			"id": "yidalnya",
+			"item": "word:yidalnya",
+			"text": "їдальня",
+			"display": "їда́льня"
+		},
+		{
+			"id": "plyta",
+			"item": "word:plyta",
+			"text": "плита",
+			"display": "плита́"
+		},
+		{
+			"id": "dukhova-shafa",
+			"item": "word:dukhova-shafa",
+			"text": "духова шафа",
+			"alsoAccepted": ["духовка"],
+			"display": "духова́ ша́фа"
+		},
+		{
+			"id": "posudomyyna-mashyna",
+			"item": "word:posudomyyna-mashyna",
+			"text": "посудомийна машина",
+			"display": "посудоми́йна маши́на"
+		},
+		{
+			"id": "kholodylnyk",
+			"item": "word:kholodylnyk",
+			"text": "холодильник",
+			"display": "холоди́льник"
+		},
+		{
+			"id": "vytyazhka",
+			"item": "word:vytyazhka",
+			"text": "витяжка",
+			"display": "ви́тяжка"
+		},
+		{
+			"id": "myynytsya",
+			"item": "word:myynytsya",
+			"text": "мийниця",
+			"display": "ми́йниця",
+			"alsoAccepted": ["мийка"]
+		},
+		{
+			"id": "zmishuvach",
+			"item": "word:zmishuvach",
+			"text": "змішувач",
+			"display": "змі́шувач"
+		},
+		{
+			"id": "stilnytsya",
+			"item": "word:stilnytsya",
+			"text": "стільниця",
+			"display": "стільни́ця"
+		},
+		{
+			"id": "stelya",
+			"item": "word:stelya",
+			"text": "стеля",
+			"display": "сте́ля"
+		},
+		{
+			"id": "lyustra",
+			"item": "word:lyustra",
+			"text": "люстра",
+			"display": "лю́стра"
+		},
+		{
+			"id": "dush",
+			"item": "word:dush",
+			"text": "душ"
+		},
+		{
+			"id": "tualet",
+			"item": "word:tualet",
+			"text": "туалет",
+			"display": "туале́т"
+		},
+		{
+			"id": "umyvalnyk",
+			"item": "word:umyvalnyk",
+			"text": "умивальник",
+			"display": "умива́льник"
+		},
+		{
+			"id": "pralna-mashyna",
+			"item": "word:pralna-mashyna",
+			"text": "пральна машина",
+			"display": "пра́льна маши́на"
+		},
+		{
+			"id": "polytsya",
+			"item": "word:polytsya",
+			"text": "полиця",
+			"display": "поли́ця"
+		},
+		{
+			"id": "rushnyk",
+			"item": "word:rushnyk",
+			"text": "рушник",
+			"display": "рушни́к"
+		},
+		{
+			"id": "vishak",
+			"item": "word:vishak",
+			"text": "вішак",
+			"display": "віша́к",
+			"alsoAccepted": ["вішалка"]
+		},
+		{
+			"id": "komod",
+			"item": "word:komod",
+			"text": "комод",
+			"display": "комо́д"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 14. Мій дім",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@bfb6bb26607f4d9cae7bbbed172a2a43"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: житло",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B6%D0%B8%D1%82%D0%BB%D0%BE"
+		},
+		{
+			"title": "Горох: квартира",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0"
+		},
+		{
+			"title": "Горох: будинок",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA"
+		},
+		{
+			"title": "Горох: сад",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%B0%D0%B4"
+		},
+		{
+			"title": "Горох: клумба",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BB%D1%83%D0%BC%D0%B1%D0%B0"
+		},
+		{
+			"title": "Горох: гараж",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%B0%D1%80%D0%B0%D0%B6"
+		},
+		{
+			"title": "Горох: басейн",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D0%B0%D1%81%D0%B5%D0%B9%D0%BD"
+		},
+		{
+			"title": "Горох: вілла",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D1%96%D0%BB%D0%BB%D0%B0"
+		},
+		{
+			"title": "Горох: поверх",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85"
+		},
+		{
+			"title": "Горох: двері",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B2%D0%B5%D1%80%D1%96"
+		},
+		{
+			"title": "Горох: передпокій",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BF%D0%BE%D0%BA%D1%96%D0%B9"
+		},
+		{
+			"title": "Горох: коридор",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BE%D1%80%D0%B8%D0%B4%D0%BE%D1%80"
+		},
+		{
+			"title": "Горох: сходи",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%85%D0%BE%D0%B4%D0%B8"
+		},
+		{
+			"title": "Горох: кухня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%83%D1%85%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: вітальня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D1%96%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: спальня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: ванна",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0"
+		},
+		{
+			"title": "Горох: дах",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B0%D1%85"
+		},
+		{
+			"title": "Горох: горище",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D1%80%D0%B8%D1%89%D0%B5"
+		},
+		{
+			"title": "Горох: підвал",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%96%D0%B4%D0%B2%D0%B0%D0%BB"
+		},
+		{
+			"title": "Горох: меблі",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B5%D0%B1%D0%BB%D1%96"
+		},
+		{
+			"title": "Горох: ліжко",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BB%D1%96%D0%B6%D0%BA%D0%BE"
+		},
+		{
+			"title": "Горох: подушка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%B4%D1%83%D1%88%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: ковдра",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BE%D0%B2%D0%B4%D1%80%D0%B0"
+		},
+		{
+			"title": "Горох: тумба",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D1%83%D0%BC%D0%B1%D0%B0"
+		},
+		{
+			"title": "Горох: шафа",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D0%B0%D1%84%D0%B0"
+		},
+		{
+			"title": "Горох: дзеркало",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B7%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE"
+		},
+		{
+			"title": "Горох: підлога",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%96%D0%B4%D0%BB%D0%BE%D0%B3%D0%B0"
+		},
+		{
+			"title": "Горох: килим",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B8%D0%BB%D0%B8%D0%BC"
+		},
+		{
+			"title": "Горох: штора",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D1%82%D0%BE%D1%80%D0%B0"
+		},
+		{
+			"title": "Горох: тюль",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D1%8E%D0%BB%D1%8C"
+		},
+		{
+			"title": "Горох: диван",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD"
+		},
+		{
+			"title": "Горох: крісло",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%80%D1%96%D1%81%D0%BB%D0%BE"
+		},
+		{
+			"title": "Горох: телевізор",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D1%96%D0%B7%D0%BE%D1%80"
+		},
+		{
+			"title": "Горох: стілець",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D1%96%D0%BB%D0%B5%D1%86%D1%8C"
+		},
+		{
+			"title": "Горох: підвіконня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%96%D0%B4%D0%B2%D1%96%D0%BA%D0%BE%D0%BD%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: горщик",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D1%80%D1%89%D0%B8%D0%BA"
+		},
+		{
+			"title": "Горох: їдальня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%97%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: плита",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BB%D0%B8%D1%82%D0%B0"
+		},
+		{
+			"title": "Горох: холодильник",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA"
+		},
+		{
+			"title": "Горох: витяжка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B8%D1%82%D1%8F%D0%B6%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: мийниця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B8%D0%B9%D0%BD%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: змішувач",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D0%BC%D1%96%D1%88%D1%83%D0%B2%D0%B0%D1%87"
+		},
+		{
+			"title": "Горох: стільниця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: стеля",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D0%B5%D0%BB%D1%8F"
+		},
+		{
+			"title": "Горох: люстра",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0"
+		},
+		{
+			"title": "Горох: душ",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D1%83%D1%88"
+		},
+		{
+			"title": "Горох: туалет",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D1%83%D0%B0%D0%BB%D0%B5%D1%82"
+		},
+		{
+			"title": "Горох: умивальник",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%83%D0%BC%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA"
+		},
+		{
+			"title": "Горох: полиця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: рушник",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D1%83%D1%88%D0%BD%D0%B8%D0%BA"
+		},
+		{
+			"title": "Горох: вішак",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D1%96%D1%88%D0%B0%D0%BA"
+		},
+		{
+			"title": "Горох: комод",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BE%D0%BC%D0%BE%D0%B4"
+		},
+		{
+			"title": "Горох: подвір'я",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%B4%D0%B2%D1%96%D1%80%27%D1%8F"
+		},
+		{
+			"title": "Горох: дитячий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B8%D1%82%D1%8F%D1%87%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: кімната",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%96%D0%BC%D0%BD%D0%B0%D1%82%D0%B0"
+		},
+		{
+			"title": "Горох: гостьовий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: настільний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D0%B0%D1%81%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: лампа",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0"
+		},
+		{
+			"title": "Горох: журнальний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: столик",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D0%BE%D0%BB%D0%B8%D0%BA"
+		},
+		{
+			"title": "Горох: книжковий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: письмовий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: стіл",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D1%96%D0%BB"
+		},
+		{
+			"title": "Горох: духовий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: посудомийний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D1%81%D1%83%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: машина",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0"
+		},
+		{
+			"title": "Горох: пральний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: помешкання",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%BC%D0%B5%D1%88%D0%BA%D0%B0%D0%BD%D0%BD%D1%8F"
+		},
+		{
+			"title": "СУМ: помешкання",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%BF%D0%BE%D0%BC%D0%B5%D1%88%D0%BA%D0%B0%D0%BD%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: дім",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D1%96%D0%BC"
+		},
+		{
+			"title": "СУМ: дім",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%B4%D1%96%D0%BC"
+		},
+		{
+			"title": "Горох: двір",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B2%D1%96%D1%80"
+		},
+		{
+			"title": "СУМ: двір",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%B4%D0%B2%D1%96%D1%80"
+		},
+		{
+			"title": "СУМ: ванна",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0"
+		},
+		{
+			"title": "Горох: духовка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B0"
+		},
+		{
+			"title": "СУМ: духовка",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: мийка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B8%D0%B9%D0%BA%D0%B0"
+		},
+		{
+			"title": "СУМ: мийка",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%BC%D0%B8%D0%B9%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: вішалка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D1%96%D1%88%D0%B0%D0%BB%D0%BA%D0%B0"
+		},
+		{
+			"title": "СУМ: вішалка",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%B2%D1%96%D1%88%D0%B0%D0%BB%D0%BA%D0%B0"
+		}
+	]
+}

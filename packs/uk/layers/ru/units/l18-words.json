@@ -1,0 +1,69 @@
+{
+	"title": "Транспорт",
+	"summary": "Транспорт, поездки, город и место.",
+	"cells": {
+		"avtomobil": {
+			"clue": "автомобиль"
+		},
+		"prychip": {
+			"clue": "прицеп"
+		},
+		"avtobus": {
+			"clue": "автобус"
+		},
+		"marshrutka": {
+			"clue": "маршрутка"
+		},
+		"vantazhivka": {
+			"clue": "грузовик"
+		},
+		"tramvay": {
+			"clue": "трамвай"
+		},
+		"troleybus": {
+			"clue": "троллейбус"
+		},
+		"poyizd": {
+			"clue": "поезд"
+		},
+		"metro": {
+			"clue": "метро"
+		},
+		"taksi": {
+			"clue": "такси"
+		},
+		"elektrychka": {
+			"clue": "пригородная электричка"
+		},
+		"litak": {
+			"clue": "самолёт"
+		},
+		"aeroport": {
+			"clue": "аэропорт"
+		},
+		"vokzal": {
+			"clue": "железнодорожный вокзал"
+		},
+		"kvytok": {
+			"clue": "билет на проезд"
+		},
+		"pasazhyr": {
+			"clue": "пассажир (м. р.)"
+		},
+		"turyst": {
+			"clue": "турист (м. р.)"
+		},
+		"zupynka": {
+			"clue": "остановка автобуса"
+		},
+		"zator": {
+			"clue": "дорожная пробка"
+		},
+		"misto": {
+			"clue": "город"
+		},
+		"mistse": {
+			"clue": "место"
+		}
+	}
+}

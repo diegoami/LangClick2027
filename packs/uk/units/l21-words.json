@@ -1,0 +1,255 @@
+{
+	"id": "l21-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 22
+	},
+	"cells": [
+		{
+			"id": "kharakter",
+			"item": "word:kharakter",
+			"text": "характер",
+			"display": "хара́ктер",
+			"alsoAccepted": ["вдача"]
+		},
+		{
+			"id": "nadiynyy",
+			"item": "word:nadiynyy",
+			"text": "надійний",
+			"display": "наді́йний"
+		},
+		{
+			"id": "tvorchyy",
+			"item": "word:tvorchyy",
+			"text": "творчий",
+			"display": "тво́рчий",
+			"alsoAccepted": ["креативний"]
+		},
+		{
+			"id": "dobrozychlyvyy",
+			"item": "word:dobrozychlyvyy",
+			"text": "доброзичливий",
+			"display": "доброзичли́вий"
+		},
+		{
+			"id": "vdyachnyy",
+			"item": "word:vdyachnyy",
+			"text": "вдячний",
+			"display": "вдя́чний",
+			"alsoAccepted": ["удячний"]
+		},
+		{
+			"id": "zapalnyy",
+			"item": "word:zapalnyy",
+			"text": "запальний",
+			"display": "запальни́й",
+			"alsoAccepted": ["гарячкуватий"]
+		},
+		{
+			"id": "pomyslyvyy",
+			"item": "word:pomyslyvyy",
+			"text": "помисливий",
+			"display": "поми́сливий",
+			"alsoAccepted": ["недовірливий", "підозріливий"]
+		},
+		{
+			"id": "shchedryy",
+			"item": "word:shchedryy",
+			"text": "щедрий",
+			"display": "ще́дрий"
+		},
+		{
+			"id": "urivnovazhenyy",
+			"item": "word:urivnovazhenyy",
+			"text": "урівноважений",
+			"display": "урівнова́жений",
+			"alsoAccepted": ["врівноважений"]
+		},
+		{
+			"id": "rishuchyy",
+			"item": "word:rishuchyy",
+			"text": "рішучий",
+			"display": "рішу́чий"
+		},
+		{
+			"id": "upertyy",
+			"item": "word:upertyy",
+			"text": "упертий",
+			"display": "упе́ртий",
+			"alsoAccepted": ["впертий"]
+		},
+		{
+			"id": "postuplyvyy",
+			"item": "word:postuplyvyy",
+			"text": "поступливий",
+			"display": "посту́пливий"
+		},
+		{
+			"id": "zukhvalyy",
+			"item": "word:zukhvalyy",
+			"text": "зухвалий",
+			"display": "зухва́лий",
+			"alsoAccepted": ["дерзкий"]
+		},
+		{
+			"id": "dobryy",
+			"item": "word:dobryy",
+			"text": "добрий",
+			"display": "до́брий"
+		},
+		{
+			"id": "veselyy",
+			"item": "word:veselyy",
+			"text": "веселий",
+			"display": "весе́лий",
+			"alsoAccepted": ["життєрадісний"]
+		},
+		{
+			"id": "rozlyuchenyy",
+			"item": "word:rozlyuchenyy",
+			"text": "розлючений",
+			"display": "розлю́чений",
+			"alsoAccepted": ["розгніваний"]
+		},
+		{
+			"id": "zasmuchenyy",
+			"item": "word:zasmuchenyy",
+			"text": "засмучений",
+			"display": "засму́чений"
+		},
+		{
+			"id": "napolehlyvyy",
+			"item": "word:napolehlyvyy",
+			"text": "наполегливий",
+			"display": "наполе́гливий",
+			"alsoAccepted": ["настійливий"]
+		},
+		{
+			"id": "velycheznyy",
+			"item": "word:velycheznyy",
+			"text": "величезний",
+			"display": "величе́зний"
+		},
+		{
+			"id": "zlyushchyy",
+			"item": "word:zlyushchyy",
+			"text": "злющий",
+			"display": "злю́щий"
+		},
+		{
+			"id": "dyvakuvatyy",
+			"item": "word:dyvakuvatyy",
+			"text": "дивакуватий",
+			"display": "дивакува́тий"
+		},
+		{
+			"id": "chepurnenkyy",
+			"item": "word:chepurnenkyy",
+			"text": "чепурненький",
+			"display": "чепурне́нький"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 21 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@e343f13d37aa4bbab446b98139cfdda6"
+		},
+		{
+			"title": "Горох: характер",
+			"url": "https://goroh.pp.ua/Словозміна/характер"
+		},
+		{
+			"title": "Горох: надійний",
+			"url": "https://goroh.pp.ua/Словозміна/надійний"
+		},
+		{
+			"title": "Горох: творчий",
+			"url": "https://goroh.pp.ua/Словозміна/творчий"
+		},
+		{
+			"title": "Горох: доброзичливий",
+			"url": "https://goroh.pp.ua/Словозміна/доброзичливий"
+		},
+		{
+			"title": "Горох: вдячний",
+			"url": "https://goroh.pp.ua/Словозміна/вдячний"
+		},
+		{
+			"title": "Горох: запальний",
+			"url": "https://goroh.pp.ua/Словозміна/запальний"
+		},
+		{
+			"title": "Горох: помисливий",
+			"url": "https://goroh.pp.ua/Словозміна/помисливий"
+		},
+		{
+			"title": "Горох: щедрий",
+			"url": "https://goroh.pp.ua/Словозміна/щедрий"
+		},
+		{
+			"title": "Горох: урівноважений",
+			"url": "https://goroh.pp.ua/Словозміна/урівноважений"
+		},
+		{
+			"title": "Горох: рішучий",
+			"url": "https://goroh.pp.ua/Словозміна/рішучий"
+		},
+		{
+			"title": "Горох: упертий",
+			"url": "https://goroh.pp.ua/Словозміна/упертий"
+		},
+		{
+			"title": "Горох: поступливий",
+			"url": "https://goroh.pp.ua/Словозміна/поступливий"
+		},
+		{
+			"title": "Горох: зухвалий",
+			"url": "https://goroh.pp.ua/Словозміна/зухвалий"
+		},
+		{
+			"title": "Горох: добрий",
+			"url": "https://goroh.pp.ua/Словозміна/добрий"
+		},
+		{
+			"title": "Горох: веселий",
+			"url": "https://goroh.pp.ua/Словозміна/веселий"
+		},
+		{
+			"title": "Горох: розлючений",
+			"url": "https://goroh.pp.ua/Словозміна/розлючений"
+		},
+		{
+			"title": "Горох: засмучений",
+			"url": "https://goroh.pp.ua/Словозміна/засмучений"
+		},
+		{
+			"title": "Горох: наполегливий",
+			"url": "https://goroh.pp.ua/Словозміна/наполегливий"
+		},
+		{
+			"title": "Горох: величезний",
+			"url": "https://goroh.pp.ua/Словозміна/величезний"
+		},
+		{
+			"title": "Горох: злющий",
+			"url": "https://goroh.pp.ua/Словозміна/злющий"
+		},
+		{
+			"title": "Горох: дивакуватий",
+			"url": "https://goroh.pp.ua/Словозміна/дивакуватий"
+		},
+		{
+			"title": "Горох: чепурненький",
+			"url": "https://goroh.pp.ua/Словозміна/чепурненький"
+		},
+		{
+			"title": "Горох: академічні словникові значення — характер",
+			"url": "https://goroh.pp.ua/Тлумачення/характер"
+		},
+		{
+			"title": "Горох: академічні словникові значення — помисливий",
+			"url": "https://goroh.pp.ua/Тлумачення/помисливий"
+		}
+	]
+}

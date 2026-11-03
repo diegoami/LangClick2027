@@ -1,0 +1,24 @@
+{
+	"title": "Zdania",
+	"cells": {
+		"dress": {
+			"sentenceGloss": "Ona wkłada sukienkę."
+		},
+		"shoes": {
+			"sentenceGloss": "On wkłada trzewiki."
+		},
+		"size": {
+			"sentenceGloss": "Potrzebna jest koszula rozmiaru czterdziestego drugiego."
+		},
+		"have": {
+			"sentenceGloss": "Mam trzydziesty dziewiąty rozmiar buta."
+		},
+		"trying": {
+			"sentenceGloss": "Klient przymierza płaszcz."
+		},
+		"buying": {
+			"sentenceGloss": "Mama kupuje kapcie."
+		}
+	},
+	"summary": "Wpisz brakującą formę według podanego hasła lub znaczenia zdania."
+}

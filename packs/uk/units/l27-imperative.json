@@ -1,0 +1,254 @@
+{
+	"id": "l27-imperative",
+	"typing": true,
+	"layout": {
+		"type": "table",
+		"rows": [
+			"pysaty",
+			"vypysaty",
+			"pidkreslyty",
+			"vykonuvaty",
+			"pereviryty",
+			"sisty",
+			"kynuty",
+			"zapovnyty"
+		],
+		"columns": ["ty", "my", "vy"]
+	},
+	"cells": [
+		{
+			"id": "ty.pysaty",
+			"item": "verb-imperative:pysaty:ty",
+			"text": "пиши",
+			"display": "пиши́",
+			"row": "pysaty",
+			"col": "ty"
+		},
+		{
+			"id": "my.pysaty",
+			"item": "verb-imperative:pysaty:my",
+			"text": "пишімо",
+			"display": "пиші́мо",
+			"row": "pysaty",
+			"col": "my",
+			"alsoAccepted": ["пишім"]
+		},
+		{
+			"id": "vy.pysaty",
+			"item": "verb-imperative:pysaty:vy",
+			"text": "пишіть",
+			"display": "пиші́ть",
+			"row": "pysaty",
+			"col": "vy",
+			"alsoAccepted": ["пишіте"]
+		},
+		{
+			"id": "ty.vypysaty",
+			"item": "verb-imperative:vypysaty:ty",
+			"text": "випиши",
+			"display": "ви́пиши",
+			"row": "vypysaty",
+			"col": "ty"
+		},
+		{
+			"id": "my.vypysaty",
+			"item": "verb-imperative:vypysaty:my",
+			"text": "випишімо",
+			"display": "ви́пишімо",
+			"row": "vypysaty",
+			"col": "my",
+			"alsoAccepted": ["випишім"]
+		},
+		{
+			"id": "vy.vypysaty",
+			"item": "verb-imperative:vypysaty:vy",
+			"text": "випишіть",
+			"display": "ви́пишіть",
+			"row": "vypysaty",
+			"col": "vy"
+		},
+		{
+			"id": "ty.pidkreslyty",
+			"item": "verb-imperative:pidkreslyty:ty",
+			"text": "підкресли",
+			"display": "підкре́сли",
+			"row": "pidkreslyty",
+			"col": "ty",
+			"alsoAccepted": ["підкресль"]
+		},
+		{
+			"id": "my.pidkreslyty",
+			"item": "verb-imperative:pidkreslyty:my",
+			"text": "підкреслімо",
+			"display": "підкре́слімо",
+			"row": "pidkreslyty",
+			"col": "my",
+			"alsoAccepted": ["підкреслім", "підкресльмо"]
+		},
+		{
+			"id": "vy.pidkreslyty",
+			"item": "verb-imperative:pidkreslyty:vy",
+			"text": "підкресліть",
+			"display": "підкре́сліть",
+			"row": "pidkreslyty",
+			"col": "vy",
+			"alsoAccepted": ["підкресльте"]
+		},
+		{
+			"id": "ty.vykonuvaty",
+			"item": "verb-imperative:vykonuvaty:ty",
+			"text": "виконуй",
+			"display": "вико́нуй",
+			"row": "vykonuvaty",
+			"col": "ty"
+		},
+		{
+			"id": "my.vykonuvaty",
+			"item": "verb-imperative:vykonuvaty:my",
+			"text": "виконуймо",
+			"display": "вико́нуймо",
+			"row": "vykonuvaty",
+			"col": "my"
+		},
+		{
+			"id": "vy.vykonuvaty",
+			"item": "verb-imperative:vykonuvaty:vy",
+			"text": "виконуйте",
+			"display": "вико́нуйте",
+			"row": "vykonuvaty",
+			"col": "vy"
+		},
+		{
+			"id": "ty.pereviryty",
+			"item": "verb-imperative:pereviryty:ty",
+			"text": "перевір",
+			"display": "переві́р",
+			"row": "pereviryty",
+			"col": "ty"
+		},
+		{
+			"id": "my.pereviryty",
+			"item": "verb-imperative:pereviryty:my",
+			"text": "перевірмо",
+			"display": "переві́рмо",
+			"row": "pereviryty",
+			"col": "my"
+		},
+		{
+			"id": "vy.pereviryty",
+			"item": "verb-imperative:pereviryty:vy",
+			"text": "перевірте",
+			"display": "переві́рте",
+			"row": "pereviryty",
+			"col": "vy"
+		},
+		{
+			"id": "ty.sisty",
+			"item": "verb-imperative:sisty:ty",
+			"text": "сядь",
+			"display": "сядь",
+			"row": "sisty",
+			"col": "ty"
+		},
+		{
+			"id": "my.sisty",
+			"item": "verb-imperative:sisty:my",
+			"text": "сядьмо",
+			"display": "ся́дьмо",
+			"row": "sisty",
+			"col": "my"
+		},
+		{
+			"id": "vy.sisty",
+			"item": "verb-imperative:sisty:vy",
+			"text": "сядьте",
+			"display": "ся́дьте",
+			"row": "sisty",
+			"col": "vy"
+		},
+		{
+			"id": "ty.kynuty",
+			"item": "verb-imperative:kynuty:ty",
+			"text": "кинь",
+			"display": "кинь",
+			"row": "kynuty",
+			"col": "ty"
+		},
+		{
+			"id": "my.kynuty",
+			"item": "verb-imperative:kynuty:my",
+			"text": "киньмо",
+			"display": "ки́ньмо",
+			"row": "kynuty",
+			"col": "my"
+		},
+		{
+			"id": "vy.kynuty",
+			"item": "verb-imperative:kynuty:vy",
+			"text": "киньте",
+			"display": "ки́ньте",
+			"row": "kynuty",
+			"col": "vy"
+		},
+		{
+			"id": "ty.zapovnyty",
+			"item": "verb-imperative:zapovnyty:ty",
+			"text": "заповни",
+			"display": "запо́вни",
+			"row": "zapovnyty",
+			"col": "ty"
+		},
+		{
+			"id": "my.zapovnyty",
+			"item": "verb-imperative:zapovnyty:my",
+			"text": "заповнімо",
+			"display": "запо́внімо",
+			"row": "zapovnyty",
+			"col": "my",
+			"alsoAccepted": ["заповнім"]
+		},
+		{
+			"id": "vy.zapovnyty",
+			"item": "verb-imperative:zapovnyty:vy",
+			"text": "заповніть",
+			"display": "запо́вніть",
+			"row": "zapovnyty",
+			"col": "vy"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: писати",
+			"url": "https://goroh.pp.ua/Словозміна/писати"
+		},
+		{
+			"title": "Горох: виписати",
+			"url": "https://goroh.pp.ua/Словозміна/виписати"
+		},
+		{
+			"title": "Горох: підкреслити",
+			"url": "https://goroh.pp.ua/Словозміна/підкреслити"
+		},
+		{
+			"title": "Горох: виконувати",
+			"url": "https://goroh.pp.ua/Словозміна/виконувати"
+		},
+		{
+			"title": "Горох: перевірити",
+			"url": "https://goroh.pp.ua/Словозміна/перевірити"
+		},
+		{
+			"title": "Горох: сісти",
+			"url": "https://goroh.pp.ua/Словозміна/сісти"
+		},
+		{
+			"title": "Горох: кинути",
+			"url": "https://goroh.pp.ua/Словозміна/кинути"
+		},
+		{
+			"title": "Горох: заповнити",
+			"url": "https://goroh.pp.ua/Словозміна/заповнити"
+		}
+	],
+	"dealAll": true
+}

@@ -1,0 +1,18 @@
+{
+	"title": "Sentences",
+	"cells": {
+		"palm": {
+			"sentenceGloss": "A small stone lies on the palm."
+		},
+		"cheek": {
+			"sentenceGloss": "A drop of water remained on the cheek."
+		},
+		"back": {
+			"sentenceGloss": "I have a backpack on my back."
+		},
+		"teeth": {
+			"sentenceGloss": "There are no stains on the teeth."
+		}
+	},
+	"summary": "Use the lemma or the meaning fixed by the sentence to supply the missing form."
+}

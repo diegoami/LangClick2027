@@ -1,0 +1,99 @@
+{
+	"title": "Odzież i obuwie",
+	"cells": {
+		"odyah": {
+			"clue": "odzież"
+		},
+		"vzuttya": {
+			"clue": "obuwie"
+		},
+		"spidnytsya": {
+			"clue": "spódnica"
+		},
+		"suknya": {
+			"clue": "sukienka"
+		},
+		"bluzka": {
+			"clue": "bluzka"
+		},
+		"zhaket": {
+			"clue": "żakiet"
+		},
+		"kardyhan": {
+			"clue": "kardigan"
+		},
+		"nichna-sorochka": {
+			"clue": "koszula nocna"
+		},
+		"pidzhak": {
+			"clue": "marynarka"
+		},
+		"kravatka": {
+			"clue": "krawat"
+		},
+		"metelyk": {
+			"clue": "muszka"
+		},
+		"shtany": {
+			"clue": "spodnie"
+		},
+		"sorochka": {
+			"clue": "koszula"
+		},
+		"svetr": {
+			"clue": "sweter"
+		},
+		"palto": {
+			"clue": "płaszcz zimowy"
+		},
+		"plashch": {
+			"clue": "płaszcz przeciwdeszczowy"
+		},
+		"kapelyukh": {
+			"clue": "kapelusz"
+		},
+		"kaptsi": {
+			"clue": "kapcie"
+		},
+		"bosonizhky": {
+			"clue": "sandały"
+		},
+		"tufli": {
+			"clue": "półbuty wizytowe"
+		},
+		"krosivky": {
+			"clue": "buty sportowe"
+		},
+		"kedy": {
+			"clue": "tenisówki"
+		},
+		"choboty": {
+			"clue": "kozaki"
+		},
+		"cherevyky": {
+			"clue": "trzewiki"
+		},
+		"namysto": {
+			"clue": "korale"
+		},
+		"rozmir": {
+			"clue": "rozmiar"
+		},
+		"vybyraty": {
+			"clue": "wybierać"
+		},
+		"miryaty": {
+			"clue": "przymierzać"
+		},
+		"kupuvaty": {
+			"clue": "kupować"
+		},
+		"odyahatysya": {
+			"clue": "ubierać się"
+		},
+		"vzuvatysya": {
+			"clue": "wkładać obuwie"
+		}
+	},
+	"summary": "Powtórz odzież, obuwie i czasowniki zakupów. Podaj formy słownikowe; czasowniki w bezokoliczniku niedokonanym."
+}

@@ -1,0 +1,146 @@
+{
+	"id": "l26-sentences",
+	"typing": true,
+	"layout": {
+		"type": "sentences",
+		"size": 12
+	},
+	"cells": [
+		{
+			"id": "forest-gen",
+			"item": "sentence:l26:forest-gen",
+			"text": "лісу",
+			"display": "лі́су",
+			"sentence": "Бі́ля ___ стої́ть мале́нький буди́нок. (ліс)"
+		},
+		{
+			"id": "river-gen",
+			"item": "sentence:l26:river-gen",
+			"text": "річки",
+			"display": "рі́чки",
+			"sentence": "Від ___ до села́ йти п'ять хвили́н. (рі́чка)",
+			"alsoAccepted": ["ріки"]
+		},
+		{
+			"id": "lake-gen",
+			"item": "sentence:l26:lake-gen",
+			"text": "озера",
+			"display": "о́зера",
+			"sentence": "На бе́резі ___ росту́ть дере́ва. (о́зеро)"
+		},
+		{
+			"id": "mountains-loc",
+			"item": "sentence:l26:mountains-loc",
+			"text": "горах",
+			"display": "го́рах",
+			"sentence": "На́ші дру́зі відпочива́ють у висо́ких ___. (гора́)"
+		},
+		{
+			"id": "pines-inst",
+			"item": "sentence:l26:pines-inst",
+			"text": "соснами",
+			"display": "со́снами",
+			"sentence": "Сте́жка прохо́дить між висо́кими ___. (сосна́)"
+		},
+		{
+			"id": "willow-inst",
+			"item": "sentence:l26:willow-inst",
+			"text": "вербою",
+			"display": "вербо́ю",
+			"sentence": "Під старо́ю ___ стої́ть ла́вка. (верба́)"
+		},
+		{
+			"id": "oak-gen",
+			"item": "sentence:l26:oak-gen",
+			"text": "дуба",
+			"display": "ду́ба",
+			"sentence": "Бі́ля старо́го ___ зупини́лися тури́сти. (дуб)"
+		},
+		{
+			"id": "lily-genpl",
+			"item": "sentence:l26:lily-genpl",
+			"text": "конвалій",
+			"display": "конва́лій",
+			"sentence": "На малю́нку є буке́т ___. (конва́лія)"
+		},
+		{
+			"id": "flower-acc",
+			"item": "sentence:l26:flower-acc",
+			"text": "квітку",
+			"display": "кві́тку",
+			"sentence": "Дівчи́на намалюва́ла яскра́ву ___. (кві́тка)"
+		},
+		{
+			"id": "meadow-loc",
+			"item": "sentence:l26:meadow-loc",
+			"text": "полонині",
+			"display": "полони́ні",
+			"sentence": "Улі́тку худо́бу випаса́ють на ___. (полони́на)"
+		},
+		{
+			"id": "reserve-gen",
+			"item": "sentence:l26:reserve-gen",
+			"text": "заповідника",
+			"display": "запові́дника",
+			"sentence": "Ми приї́хали до ___. (запові́дник)"
+		},
+		{
+			"id": "nature-inst",
+			"item": "sentence:l26:nature-inst",
+			"text": "природою",
+			"display": "приро́дою",
+			"sentence": "Худо́жник захо́плюється місце́вою ___. (приро́да)"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: ліс",
+			"url": "https://goroh.pp.ua/Словозміна/ліс"
+		},
+		{
+			"title": "Горох: річка",
+			"url": "https://goroh.pp.ua/Словозміна/річка"
+		},
+		{
+			"title": "Горох: озеро",
+			"url": "https://goroh.pp.ua/Словозміна/озеро"
+		},
+		{
+			"title": "Горох: гора",
+			"url": "https://goroh.pp.ua/Словозміна/гора"
+		},
+		{
+			"title": "Горох: сосна",
+			"url": "https://goroh.pp.ua/Словозміна/сосна"
+		},
+		{
+			"title": "Горох: верба",
+			"url": "https://goroh.pp.ua/Словозміна/верба"
+		},
+		{
+			"title": "Горох: дуб",
+			"url": "https://goroh.pp.ua/Словозміна/дуб"
+		},
+		{
+			"title": "Горох: конвалія",
+			"url": "https://goroh.pp.ua/Словозміна/конвалія"
+		},
+		{
+			"title": "Горох: квітка",
+			"url": "https://goroh.pp.ua/Словозміна/квітка"
+		},
+		{
+			"title": "Горох: полонина",
+			"url": "https://goroh.pp.ua/Словозміна/полонина"
+		},
+		{
+			"title": "Горох: заповідник",
+			"url": "https://goroh.pp.ua/Словозміна/заповідник"
+		},
+		{
+			"title": "Горох: природа",
+			"url": "https://goroh.pp.ua/Словозміна/природа"
+		}
+	],
+	"dealAll": true
+}

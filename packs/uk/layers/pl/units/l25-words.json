@@ -1,0 +1,90 @@
+{
+	"title": "Święta i zwyczaje",
+	"summary": "Nazwy świąt i zwyczajów. Na tej tablicy паска nazywa pieczywo wielkanocne; nazwa święta w zadaniu zaczyna się od Вел-. Różne wspólnoty mogą używać różnych kalendarzy.",
+	"cells": {
+		"svyato": {
+			"clue": "święto (liczba pojedyncza)"
+		},
+		"rizdvo": {
+			"clue": "Boże Narodzenie"
+		},
+		"velykden": {
+			"clue": "Wielkanoc (ukraińska nazwa zaczyna się od Вел-)"
+		},
+		"nezalezhnist": {
+			"clue": "niepodległość"
+		},
+		"tradytsiya": {
+			"clue": "tradycja (wyraz zaczyna się od тради-)"
+		},
+		"podarunok": {
+			"clue": "prezent"
+		},
+		"pryvitannya": {
+			"clue": "życzenia z okazji święta"
+		},
+		"svyatkuvaty": {
+			"clue": "świętować"
+		},
+		"vitaty": {
+			"clue": "składać życzenia (bezokolicznik)"
+		},
+		"daruvaty": {
+			"clue": "darować w prezencie"
+		},
+		"novyy-rik": {
+			"clue": "Nowy Rok jako święto"
+		},
+		"svyatvechir": {
+			"clue": "Wigilia Bożego Narodzenia (jedno słowo)"
+		},
+		"kutya": {
+			"clue": "kutia"
+		},
+		"kolyadka": {
+			"clue": "kolęda"
+		},
+		"pysanka": {
+			"clue": "pisanka zdobiona techniką woskową"
+		},
+		"krashanka": {
+			"clue": "jajko wielkanocne barwione na jeden kolor"
+		},
+		"paska": {
+			"clue": "tradycyjne pieczywo wielkanocne"
+		},
+		"zvychay": {
+			"clue": "zwyczaj (wyraz zaczyna się od звич-)"
+		},
+		"derzhavnyy": {
+			"clue": "państwowy (rodzaj męski)"
+		},
+		"relihiynyy": {
+			"clue": "religijny (rodzaj męski)"
+		},
+		"triytsya": {
+			"clue": "Zesłanie Ducha Świętego"
+		},
+		"pokrova": {
+			"clue": "święto Opieki Matki Bożej (jedno słowo)"
+		},
+		"vodokhreshche": {
+			"clue": "święto Chrztu Pańskiego"
+		},
+		"blahovishchennya": {
+			"clue": "Zwiastowanie"
+		},
+		"obryad": {
+			"clue": "obrzęd"
+		},
+		"uzvar": {
+			"clue": "uzwar, kompot z suszonych owoców"
+		},
+		"didukh": {
+			"clue": "diduch, obrzędowy snop"
+		},
+		"konstytutsiya": {
+			"clue": "konstytucja państwa"
+		}
+	}
+}

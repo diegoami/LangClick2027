@@ -1,0 +1,12 @@
+{
+	"title": "Ilości: dopełniacz mnogi",
+	"headers": {
+		"grams": "gram",
+		"kilos": "kilogram",
+		"mandarins": "mandarynka",
+		"tomatoes": "pomidor",
+		"c0": "jeden (mianownik)",
+		"c1": "pięć (dopełniacz mnogi)"
+	},
+	"summary": "Te rzeczowniki po pięciu i większych liczbach mają końcówkę -ів. Końcowe в nie ulega ubezdźwięcznieniu."
+}

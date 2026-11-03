@@ -1,0 +1,180 @@
+{
+	"title": "Внешность",
+	"cells": {
+		"serednoyi-statury": {
+			"clue": "среднего телосложения"
+		},
+		"mitsnoyi-budovy": {
+			"clue": "крепкого телосложения"
+		},
+		"khudyy": {
+			"clue": "худой"
+		},
+		"khudorlyavyy": {
+			"clue": "худощавый"
+		},
+		"strunkyy": {
+			"clue": "стройный"
+		},
+		"tenditnyy": {
+			"clue": "хрупкий"
+		},
+		"shyrokoplechyy": {
+			"clue": "широкоплечий"
+		},
+		"tovstyy": {
+			"clue": "толстый"
+		},
+		"povnyy": {
+			"clue": "полный (человек)"
+		},
+		"vysokyy": {
+			"clue": "высокий (человек)"
+		},
+		"nyzkyy": {
+			"clue": "низкий ростом"
+		},
+		"nevysokyy": {
+			"clue": "невысокий: украинское отрицательное прилагательное с не- от високий"
+		},
+		"serednoho-zrostu": {
+			"clue": "среднего роста"
+		},
+		"kruhlyy": {
+			"clue": "круглый"
+		},
+		"kvadratnyy": {
+			"clue": "квадратный"
+		},
+		"vydovzhenyy": {
+			"clue": "удлинённый"
+		},
+		"rum-yanyy": {
+			"clue": "румяный"
+		},
+		"blidyy": {
+			"clue": "бледный"
+		},
+		"smahlyavyy": {
+			"clue": "смуглый"
+		},
+		"zasmahlyy": {
+			"clue": "загорелый"
+		},
+		"harnyy": {
+			"clue": "красивый"
+		},
+		"neharnyy": {
+			"clue": "некрасивый"
+		},
+		"sympatychnyy": {
+			"clue": "симпатичный"
+		},
+		"potvornyy": {
+			"clue": "уродливый"
+		},
+		"nizhnyy": {
+			"clue": "нежный (черты)"
+		},
+		"hrubyy": {
+			"clue": "грубый (черты)"
+		},
+		"veselyy": {
+			"clue": "весёлый"
+		},
+		"sturbovanyy": {
+			"clue": "обеспокоенный"
+		},
+		"seryoznyy": {
+			"clue": "серьёзный"
+		},
+		"pryvitnyy": {
+			"clue": "приветливый"
+		},
+		"khytryy": {
+			"clue": "хитрый"
+		},
+		"zadovolenyy": {
+			"clue": "довольный"
+		},
+		"khvylyastyy": {
+			"clue": "волнистый"
+		},
+		"kucheryavyy": {
+			"clue": "кудрявый"
+		},
+		"pidstryzhenyy": {
+			"clue": "подстриженный"
+		},
+		"zachesanyy": {
+			"clue": "причёсанный"
+		},
+		"skuyovdzhenyy": {
+			"clue": "взъерошенный"
+		},
+		"kashtanovyy": {
+			"clue": "каштановый"
+		},
+		"rudyy": {
+			"clue": "рыжий"
+		},
+		"rusyavyy": {
+			"clue": "русый"
+		},
+		"syvyy": {
+			"clue": "седой"
+		},
+		"farbovanyy": {
+			"clue": "крашеный"
+		},
+		"karyy": {
+			"clue": "карий"
+		},
+		"hustyy": {
+			"clue": "густой"
+		},
+		"pukhkyy": {
+			"clue": "пухлый (губы)"
+		},
+		"dovhyy": {
+			"clue": "длинный"
+		},
+		"korotkyy": {
+			"clue": "короткий"
+		},
+		"pryamyy": {
+			"clue": "прямой"
+		},
+		"tonkyy": {
+			"clue": "тонкий"
+		},
+		"shyrokyy": {
+			"clue": "широкий"
+		},
+		"z-horbynkoyu": {
+			"clue": "с горбинкой (нос)"
+		},
+		"zdorovyy": {
+			"clue": "здоровый"
+		},
+		"svitlyy": {
+			"clue": "светлый (волосы)"
+		},
+		"temnyy": {
+			"clue": "тёмный (волосы)"
+		},
+		"bilyy": {
+			"clue": "белый"
+		},
+		"chornyy": {
+			"clue": "чёрный"
+		},
+		"siryy": {
+			"clue": "серый (цвет)"
+		},
+		"velykyy": {
+			"clue": "большой"
+		}
+	},
+	"summary": "Опишите телосложение, рост, волосы и черты лица. Прилагательные здесь в мужском роде, именительном падеже; словосочетания сохраняют свою форму."
+}

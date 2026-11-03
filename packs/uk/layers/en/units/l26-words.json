@@ -1,0 +1,78 @@
+{
+	"title": "Landscapes and directions",
+	"summary": "Words for natural zones, bodies of water and compass directions. Північ and південь here name directions, not times of day.",
+	"cells": {
+		"pryroda": {
+			"clue": "nature; natural world"
+		},
+		"lis": {
+			"clue": "forest"
+		},
+		"richka": {
+			"clue": "river (common diminutive form)"
+		},
+		"ozero": {
+			"clue": "lake"
+		},
+		"hora": {
+			"clue": "mountain"
+		},
+		"pole": {
+			"clue": "field used for crops"
+		},
+		"step": {
+			"clue": "steppe"
+		},
+		"roslyna": {
+			"clue": "plant (living organism)"
+		},
+		"kvitka": {
+			"clue": "flower"
+		},
+		"derevo": {
+			"clue": "tree"
+		},
+		"more": {
+			"clue": "sea"
+		},
+		"bereh": {
+			"clue": "bank of a river; shore"
+		},
+		"zapovidnyk": {
+			"clue": "nature reserve"
+		},
+		"dovkillya": {
+			"clue": "environment; surroundings (one word)"
+		},
+		"berehty": {
+			"clue": "to preserve; take care of"
+		},
+		"pivnich": {
+			"clue": "north (compass direction)"
+		},
+		"pivden": {
+			"clue": "south (compass direction)"
+		},
+		"skhid": {
+			"clue": "east (compass direction)"
+		},
+		"zakhid": {
+			"clue": "west (compass direction)"
+		},
+		"lisostep": {
+			"clue": "forest-steppe"
+		},
+		"boloto": {
+			"clue": "swamp; bog"
+		},
+		"vodoyma": {
+			"clue": "a natural or artificial body of water (word beginning водой-)"
+		},
+		"vodoskhovyshche": {
+			"clue": "artificial water-storage reservoir (word beginning водос-)"
+		},
+		"polonyna": {
+			"clue": "Carpathian mountain meadow"
+		}
+	}
+}

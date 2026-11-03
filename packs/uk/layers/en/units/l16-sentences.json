@@ -1,0 +1,24 @@
+{
+	"title": "Sentences",
+	"cells": {
+		"grams": {
+			"sentenceGloss": "There are a hundred grams of raisins in the packet."
+		},
+		"kilos": {
+			"sentenceGloss": "We bought five kilograms of potatoes."
+		},
+		"mandarins": {
+			"sentenceGloss": "There are six mandarins on the tray."
+		},
+		"tomatoes": {
+			"sentenceGloss": "Seven tomatoes are needed for the salad."
+		},
+		"frying": {
+			"sentenceGloss": "Dad is frying syrnyky in a pan."
+		},
+		"cooking": {
+			"sentenceGloss": "She is cooking dinner for the family."
+		}
+	},
+	"summary": "Use the lemma or the meaning fixed by the sentence to supply the missing form."
+}

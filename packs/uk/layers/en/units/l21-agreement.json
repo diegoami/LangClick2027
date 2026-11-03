@@ -1,0 +1,30 @@
+{
+	"title": "Adjectives agree with nouns",
+	"summary": "Adjectives follow the noun’s gender, number and case. Here “degree 3” means the superlative.",
+	"cells": {
+		"fem": {
+			"sentenceGloss": "My sister is reliable."
+		},
+		"neuter": {
+			"sentenceGloss": "This is a kind heart."
+		},
+		"plural": {
+			"sentenceGloss": "Our female neighbours are creative."
+		},
+		"instrumental": {
+			"sentenceGloss": "Olena became a generous person."
+		},
+		"genitive": {
+			"sentenceGloss": "This is advice from a decisive friend."
+		},
+		"accusative": {
+			"sentenceGloss": "We met a cheerful girl."
+		},
+		"superf": {
+			"sentenceGloss": "She is the best female friend."
+		},
+		"superm": {
+			"sentenceGloss": "This is the tallest building in the street."
+		}
+	}
+}

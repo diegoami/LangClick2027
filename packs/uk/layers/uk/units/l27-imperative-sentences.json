@@ -1,0 +1,14 @@
+{
+	"title": "Прохання й інструкції",
+	"summary": "Утворіть наказовий спосіб від указаного дієслова для особи в дужках. Не додавайте часток.",
+	"cells": {
+		"write-you": {},
+		"copy-we": {},
+		"underline-you": {},
+		"complete-plural": {},
+		"check-plural": {},
+		"sit-plural": {},
+		"throw-you": {},
+		"fill-plural": {}
+	}
+}

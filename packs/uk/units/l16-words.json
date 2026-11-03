@@ -1,0 +1,399 @@
+{
+	"id": "l16-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 31
+	},
+	"cells": [
+		{
+			"id": "posud",
+			"item": "word:posud",
+			"text": "посуд",
+			"display": "по́суд"
+		},
+		{
+			"id": "kastrulya",
+			"item": "word:kastrulya",
+			"text": "каструля",
+			"display": "кастру́ля"
+		},
+		{
+			"id": "skovoridka",
+			"item": "word:skovoridka",
+			"text": "сковорідка",
+			"display": "сковорі́дка",
+			"alsoAccepted": ["пательня", "сковорода"]
+		},
+		{
+			"id": "nizh",
+			"item": "word:nizh",
+			"text": "ніж"
+		},
+		{
+			"id": "lozhka",
+			"item": "word:lozhka",
+			"text": "ложка",
+			"display": "ло́жка"
+		},
+		{
+			"id": "vydelka",
+			"item": "word:vydelka",
+			"text": "виделка",
+			"display": "виде́лка"
+		},
+		{
+			"id": "sklyanka",
+			"item": "word:sklyanka",
+			"text": "склянка",
+			"display": "скля́нка"
+		},
+		{
+			"id": "chashka",
+			"item": "word:chashka",
+			"text": "чашка",
+			"display": "ча́шка",
+			"alsoAccepted": ["філіжанка"]
+		},
+		{
+			"id": "opolonyk",
+			"item": "word:opolonyk",
+			"text": "ополоник",
+			"display": "ополо́ник"
+		},
+		{
+			"id": "tsukornytsya",
+			"item": "word:tsukornytsya",
+			"text": "цукорниця",
+			"display": "цу́корниця"
+		},
+		{
+			"id": "silnytsya",
+			"item": "word:silnytsya",
+			"text": "сільниця",
+			"display": "сільни́ця"
+		},
+		{
+			"id": "perechnytsya",
+			"item": "word:perechnytsya",
+			"text": "перечниця",
+			"display": "пе́речниця"
+		},
+		{
+			"id": "tertushka",
+			"item": "word:tertushka",
+			"text": "тертушка",
+			"display": "терту́шка",
+			"alsoAccepted": ["тертка"]
+		},
+		{
+			"id": "tatsya",
+			"item": "word:tatsya",
+			"text": "таця",
+			"display": "та́ця",
+			"alsoAccepted": ["піднос"]
+		},
+		{
+			"id": "drushlyak",
+			"item": "word:drushlyak",
+			"text": "друшляк",
+			"display": "друшля́к"
+		},
+		{
+			"id": "stil",
+			"item": "word:stil",
+			"text": "стіл"
+		},
+		{
+			"id": "stilets",
+			"item": "word:stilets",
+			"text": "стілець",
+			"display": "стіле́ць"
+		},
+		{
+			"id": "strava",
+			"item": "word:strava",
+			"text": "страва",
+			"display": "стра́ва"
+		},
+		{
+			"id": "blyudo",
+			"item": "word:blyudo",
+			"text": "блюдо",
+			"display": "блю́до"
+		},
+		{
+			"id": "hram",
+			"item": "word:hram",
+			"text": "грам"
+		},
+		{
+			"id": "kilohram",
+			"item": "word:kilohram",
+			"text": "кілограм",
+			"display": "кілогра́м"
+		},
+		{
+			"id": "mandaryn",
+			"item": "word:mandaryn",
+			"text": "мандарин",
+			"display": "мандари́н"
+		},
+		{
+			"id": "pomidor",
+			"item": "word:pomidor",
+			"text": "помідор",
+			"display": "помідо́р"
+		},
+		{
+			"id": "syr",
+			"item": "word:syr",
+			"text": "сир"
+		},
+		{
+			"id": "yaytse",
+			"item": "word:yaytse",
+			"text": "яйце",
+			"display": "яйце́"
+		},
+		{
+			"id": "manna-krupa",
+			"item": "word:manna-krupa",
+			"text": "манна крупа",
+			"display": "ма́нна крупа́"
+		},
+		{
+			"id": "rodzynky",
+			"item": "word:rodzynky",
+			"text": "родзинки",
+			"display": "родзи́нки",
+			"alsoAccepted": ["ізюм"]
+		},
+		{
+			"id": "hotuvaty",
+			"item": "word:hotuvaty",
+			"text": "готувати",
+			"display": "готува́ти"
+		},
+		{
+			"id": "smazhyty",
+			"item": "word:smazhyty",
+			"text": "смажити",
+			"display": "сма́жити"
+		},
+		{
+			"id": "kukhlyk",
+			"item": "word:kukhlyk",
+			"text": "кухлик",
+			"display": "ку́хлик"
+		},
+		{
+			"id": "hornyatko",
+			"item": "word:hornyatko",
+			"text": "горнятко",
+			"display": "горня́тко"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 16. Страви і кухня",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@ecbc12f9c6634d849568884d85735fc8"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: посуд",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D1%81%D1%83%D0%B4"
+		},
+		{
+			"title": "Горох: каструля",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BB%D1%8F"
+		},
+		{
+			"title": "Горох: сковорідка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D1%80%D1%96%D0%B4%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: ніж",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D1%96%D0%B6"
+		},
+		{
+			"title": "Горох: ложка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: виделка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: склянка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BA%D0%BB%D1%8F%D0%BD%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: чашка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%87%D0%B0%D1%88%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: ополоник",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%BA"
+		},
+		{
+			"title": "Горох: цукорниця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%86%D1%83%D0%BA%D0%BE%D1%80%D0%BD%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: сільниця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: перечниця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: тертушка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%B5%D1%80%D1%82%D1%83%D1%88%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: таця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%B0%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: друшляк",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D1%80%D1%83%D1%88%D0%BB%D1%8F%D0%BA"
+		},
+		{
+			"title": "Горох: стіл",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D1%96%D0%BB"
+		},
+		{
+			"title": "Горох: стілець",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D1%96%D0%BB%D0%B5%D1%86%D1%8C"
+		},
+		{
+			"title": "Горох: страва",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D1%80%D0%B0%D0%B2%D0%B0"
+		},
+		{
+			"title": "Горох: блюдо",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE"
+		},
+		{
+			"title": "Горох: грам",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D1%80%D0%B0%D0%BC"
+		},
+		{
+			"title": "Горох: кілограм",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%96%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%BC"
+		},
+		{
+			"title": "Горох: мандарин",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%B8%D0%BD"
+		},
+		{
+			"title": "Горох: помідор",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%BC%D1%96%D0%B4%D0%BE%D1%80"
+		},
+		{
+			"title": "Горох: сир",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%B8%D1%80"
+		},
+		{
+			"title": "Горох: яйце",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%8F%D0%B9%D1%86%D0%B5"
+		},
+		{
+			"title": "Горох: родзинки",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D0%BE%D0%B4%D0%B7%D0%B8%D0%BD%D0%BA%D0%B8"
+		},
+		{
+			"title": "Горох: готувати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D1%82%D1%83%D0%B2%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: смажити",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BC%D0%B0%D0%B6%D0%B8%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: манний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B0%D0%BD%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: крупа",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%80%D1%83%D0%BF%D0%B0"
+		},
+		{
+			"title": "СУМ: блюдо",
+			"url": "https://goroh.pp.ua/Тлумачення/блюдо"
+		},
+		{
+			"title": "СУМ: чашка",
+			"url": "https://goroh.pp.ua/Тлумачення/чашка"
+		},
+		{
+			"title": "СУМ: філіжанка",
+			"url": "https://goroh.pp.ua/Тлумачення/філіжанка"
+		},
+		{
+			"title": "СУМ: горнятко",
+			"url": "https://goroh.pp.ua/Тлумачення/горнятко"
+		},
+		{
+			"title": "СУМ: кухлик",
+			"url": "https://goroh.pp.ua/Тлумачення/кухлик"
+		},
+		{
+			"title": "СУМ: друшляк",
+			"url": "https://goroh.pp.ua/Тлумачення/друшляк"
+		},
+		{
+			"title": "Горох: пательня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8F"
+		},
+		{
+			"title": "СУМ: пательня",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: сковорода",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B4%D0%B0"
+		},
+		{
+			"title": "СУМ: сковорода",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B4%D0%B0"
+		},
+		{
+			"title": "Горох: філіжанка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%84%D1%96%D0%BB%D1%96%D0%B6%D0%B0%D0%BD%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: тертка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%B5%D1%80%D1%82%D0%BA%D0%B0"
+		},
+		{
+			"title": "СУМ: тертка",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D1%82%D0%B5%D1%80%D1%82%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: піднос",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%96%D0%B4%D0%BD%D0%BE%D1%81"
+		},
+		{
+			"title": "СУМ: піднос",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%BF%D1%96%D0%B4%D0%BD%D0%BE%D1%81"
+		},
+		{
+			"title": "Горох: кухлик",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%83%D1%85%D0%BB%D0%B8%D0%BA"
+		},
+		{
+			"title": "Горох: горнятко",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D1%80%D0%BD%D1%8F%D1%82%D0%BA%D0%BE"
+		},
+		{
+			"title": "СУМ-20: ізюм як синонім родзинок",
+			"url": "https://goroh.pp.ua/Тлумачення/ізюм"
+		}
+	]
+}

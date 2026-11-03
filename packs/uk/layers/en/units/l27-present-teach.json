@@ -1,0 +1,28 @@
+{
+	"title": "Teach and study: present tense",
+	"summary": "Conjugate the exact infinitive in each column. Навчати means teaching someone; навчатися means studying or learning oneself. Rows use Ukrainian subject pronouns; the він form also serves вона and воно. Ви is plural or polite.",
+	"cells": {
+		"ya.navchaty": {},
+		"ty.navchaty": {},
+		"he.navchaty": {},
+		"my.navchaty": {},
+		"vy.navchaty": {},
+		"they.navchaty": {},
+		"ya.navchatysya": {},
+		"ty.navchatysya": {},
+		"he.navchatysya": {},
+		"my.navchatysya": {},
+		"vy.navchatysya": {},
+		"they.navchatysya": {}
+	},
+	"headers": {
+		"ya": "я",
+		"ty": "ти",
+		"he": "він",
+		"my": "ми",
+		"vy": "ви",
+		"they": "вони",
+		"navchaty": "навча́ти",
+		"navchatysya": "навча́тися"
+	}
+}

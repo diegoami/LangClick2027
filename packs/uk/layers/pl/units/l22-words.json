@@ -1,0 +1,78 @@
+{
+	"title": "Hobby i czas wolny",
+	"summary": "Rodzaje zainteresowań; хобі zachowuje jedną formę.",
+	"cells": {
+		"dozvillya": {
+			"clue": "czas wolny (jeden rzeczownik)"
+		},
+		"khobi": {
+			"clue": "hobby (nieodmienny wyraz zapożyczony)"
+		},
+		"zakhoplennya": {
+			"clue": "zainteresowanie; pasja (wyraz zaczyna się od зах-)"
+		},
+		"sfera": {
+			"clue": "sfera zainteresowań"
+		},
+		"haluz": {
+			"clue": "gałąź nauki lub gospodarki"
+		},
+		"kolektsionuvannya": {
+			"clue": "kolekcjonowanie"
+		},
+		"rukodillya": {
+			"clue": "rękodzieło"
+		},
+		"vyshyvannya": {
+			"clue": "haftowanie"
+		},
+		"shyttya": {
+			"clue": "szycie"
+		},
+		"kvitnykarstvo": {
+			"clue": "kwiaciarstwo"
+		},
+		"malyuvannya": {
+			"clue": "rysowanie, malowanie"
+		},
+		"spiv": {
+			"clue": "śpiew (krótki rzeczownik)"
+		},
+		"tantsi": {
+			"clue": "tańce"
+		},
+		"muzyka": {
+			"clue": "muzyka jako sztuka"
+		},
+		"futbol": {
+			"clue": "piłka nożna"
+		},
+		"khokey": {
+			"clue": "hokej"
+		},
+		"tenis": {
+			"clue": "tenis"
+		},
+		"fitnes": {
+			"clue": "fitness"
+		},
+		"alpinizm": {
+			"clue": "alpinizm"
+		},
+		"turyzm": {
+			"clue": "turystyka"
+		},
+		"rybolovlya": {
+			"clue": "wędkarstwo"
+		},
+		"bdzhilnytstvo": {
+			"clue": "pszczelarstwo"
+		},
+		"prohramuvannya": {
+			"clue": "programowanie"
+		},
+		"animatsiya": {
+			"clue": "animacja"
+		}
+	}
+}

@@ -1,0 +1,412 @@
+{
+	"id": "l13-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 31
+	},
+	"cells": [
+		{
+			"id": "odyah",
+			"item": "word:odyah",
+			"text": "одяг",
+			"display": "о́дяг",
+			"alsoAccepted": ["вбрання"]
+		},
+		{
+			"id": "vzuttya",
+			"item": "word:vzuttya",
+			"text": "взуття",
+			"display": "взуття́"
+		},
+		{
+			"id": "spidnytsya",
+			"item": "word:spidnytsya",
+			"text": "спідниця",
+			"display": "спідни́ця"
+		},
+		{
+			"id": "suknya",
+			"item": "word:suknya",
+			"text": "сукня",
+			"display": "су́кня",
+			"alsoAccepted": ["плаття"]
+		},
+		{
+			"id": "bluzka",
+			"item": "word:bluzka",
+			"text": "блузка",
+			"display": "блу́зка"
+		},
+		{
+			"id": "zhaket",
+			"item": "word:zhaket",
+			"text": "жакет",
+			"display": "жаке́т"
+		},
+		{
+			"id": "kardyhan",
+			"item": "word:kardyhan",
+			"text": "кардиган",
+			"display": "кардига́н"
+		},
+		{
+			"id": "nichna-sorochka",
+			"item": "word:nichna-sorochka",
+			"text": "нічна сорочка",
+			"display": "нічна́ соро́чка"
+		},
+		{
+			"id": "pidzhak",
+			"item": "word:pidzhak",
+			"text": "піджак",
+			"display": "піджа́к"
+		},
+		{
+			"id": "kravatka",
+			"item": "word:kravatka",
+			"text": "краватка",
+			"display": "крава́тка",
+			"alsoAccepted": ["галстук"]
+		},
+		{
+			"id": "metelyk",
+			"item": "word:metelyk",
+			"text": "метелик",
+			"display": "мете́лик"
+		},
+		{
+			"id": "shtany",
+			"item": "word:shtany",
+			"text": "штани",
+			"display": "штани́",
+			"alsoAccepted": ["брюки"]
+		},
+		{
+			"id": "sorochka",
+			"item": "word:sorochka",
+			"text": "сорочка",
+			"display": "соро́чка"
+		},
+		{
+			"id": "svetr",
+			"item": "word:svetr",
+			"text": "светр"
+		},
+		{
+			"id": "palto",
+			"item": "word:palto",
+			"text": "пальто",
+			"display": "пальто́"
+		},
+		{
+			"id": "plashch",
+			"item": "word:plashch",
+			"text": "плащ"
+		},
+		{
+			"id": "kapelyukh",
+			"item": "word:kapelyukh",
+			"text": "капелюх",
+			"display": "капелю́х",
+			"alsoAccepted": ["шляпа"]
+		},
+		{
+			"id": "kaptsi",
+			"item": "word:kaptsi",
+			"text": "капці",
+			"alsoAccepted": ["тапочки"],
+			"display": "ка́пці"
+		},
+		{
+			"id": "bosonizhky",
+			"item": "word:bosonizhky",
+			"text": "босоніжки",
+			"display": "босоні́жки",
+			"alsoAccepted": ["сандалі", "сандалії"]
+		},
+		{
+			"id": "tufli",
+			"item": "word:tufli",
+			"text": "туфлі",
+			"display": "ту́флі"
+		},
+		{
+			"id": "krosivky",
+			"item": "word:krosivky",
+			"text": "кросівки",
+			"display": "кросі́вки"
+		},
+		{
+			"id": "kedy",
+			"item": "word:kedy",
+			"text": "кеди",
+			"display": "ке́ди"
+		},
+		{
+			"id": "choboty",
+			"item": "word:choboty",
+			"text": "чоботи",
+			"display": "чо́боти"
+		},
+		{
+			"id": "cherevyky",
+			"item": "word:cherevyky",
+			"text": "черевики",
+			"display": "череви́ки"
+		},
+		{
+			"id": "namysto",
+			"item": "word:namysto",
+			"text": "намисто",
+			"display": "нами́сто"
+		},
+		{
+			"id": "rozmir",
+			"item": "word:rozmir",
+			"text": "розмір",
+			"display": "ро́змір"
+		},
+		{
+			"id": "vybyraty",
+			"item": "word:vybyraty",
+			"text": "вибирати",
+			"display": "вибира́ти",
+			"alsoAccepted": ["обирати"]
+		},
+		{
+			"id": "miryaty",
+			"item": "word:miryaty",
+			"text": "міряти",
+			"display": "мі́ряти",
+			"alsoAccepted": ["приміряти", "примірювати", "мірити"]
+		},
+		{
+			"id": "kupuvaty",
+			"item": "word:kupuvaty",
+			"text": "купувати",
+			"display": "купува́ти",
+			"alsoAccepted": ["купляти"]
+		},
+		{
+			"id": "odyahatysya",
+			"item": "word:odyahatysya",
+			"text": "одягатися",
+			"display": "одяга́тися",
+			"alsoAccepted": ["одягатись"]
+		},
+		{
+			"id": "vzuvatysya",
+			"item": "word:vzuvatysya",
+			"text": "взуватися",
+			"display": "взува́тися",
+			"alsoAccepted": ["взуватись", "узуватися", "узуватись"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 13. Одяг і розмір",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@ade0b1fe8aa4405786ce813fc20fce50"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: одяг",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%B4%D1%8F%D0%B3"
+		},
+		{
+			"title": "Горох: взуття",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B7%D1%83%D1%82%D1%82%D1%8F"
+		},
+		{
+			"title": "Горох: спідниця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BF%D1%96%D0%B4%D0%BD%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: сукня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%83%D0%BA%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: блузка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D0%BB%D1%83%D0%B7%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: жакет",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B6%D0%B0%D0%BA%D0%B5%D1%82"
+		},
+		{
+			"title": "Горох: кардиган",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B0%D1%80%D0%B4%D0%B8%D0%B3%D0%B0%D0%BD"
+		},
+		{
+			"title": "Горох: піджак",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%96%D0%B4%D0%B6%D0%B0%D0%BA"
+		},
+		{
+			"title": "Горох: краватка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%80%D0%B0%D0%B2%D0%B0%D1%82%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: метелик",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B5%D1%82%D0%B5%D0%BB%D0%B8%D0%BA"
+		},
+		{
+			"title": "Горох: штани",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D1%82%D0%B0%D0%BD%D0%B8"
+		},
+		{
+			"title": "Горох: сорочка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: светр",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%B2%D0%B5%D1%82%D1%80"
+		},
+		{
+			"title": "Горох: пальто",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%B0%D0%BB%D1%8C%D1%82%D0%BE"
+		},
+		{
+			"title": "Горох: плащ",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BB%D0%B0%D1%89"
+		},
+		{
+			"title": "Горох: капелюх",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B0%D0%BF%D0%B5%D0%BB%D1%8E%D1%85"
+		},
+		{
+			"title": "Горох: капці",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B0%D0%BF%D1%86%D1%96"
+		},
+		{
+			"title": "Горох: босоніжки",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D0%BE%D1%81%D0%BE%D0%BD%D1%96%D0%B6%D0%BA%D0%B8"
+		},
+		{
+			"title": "Горох: туфлі",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D1%83%D1%84%D0%BB%D1%96"
+		},
+		{
+			"title": "Горох: кросівки",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%80%D0%BE%D1%81%D1%96%D0%B2%D0%BA%D0%B8"
+		},
+		{
+			"title": "Горох: кеди",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B5%D0%B4%D0%B8"
+		},
+		{
+			"title": "Горох: чоботи",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%87%D0%BE%D0%B1%D0%BE%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: черевики",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%87%D0%B5%D1%80%D0%B5%D0%B2%D0%B8%D0%BA%D0%B8"
+		},
+		{
+			"title": "Горох: намисто",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D0%B0%D0%BC%D0%B8%D1%81%D1%82%D0%BE"
+		},
+		{
+			"title": "Горох: розмір",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D0%BE%D0%B7%D0%BC%D1%96%D1%80"
+		},
+		{
+			"title": "Горох: вибирати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B8%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: міряти",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D1%96%D1%80%D1%8F%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: купувати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%83%D0%BF%D1%83%D0%B2%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: одягатися",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%B4%D1%8F%D0%B3%D0%B0%D1%82%D0%B8%D1%81%D1%8F"
+		},
+		{
+			"title": "Горох: взуватися",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B7%D1%83%D0%B2%D0%B0%D1%82%D0%B8%D1%81%D1%8F"
+		},
+		{
+			"title": "Горох: нічний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D1%96%D1%87%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: вбрання",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8F"
+		},
+		{
+			"title": "СУМ: вбрання",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%B2%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: плаття",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BB%D0%B0%D1%82%D1%82%D1%8F"
+		},
+		{
+			"title": "СУМ: плаття",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%BF%D0%BB%D0%B0%D1%82%D1%82%D1%8F"
+		},
+		{
+			"title": "Горох: шляпа",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D0%BB%D1%8F%D0%BF%D0%B0"
+		},
+		{
+			"title": "СУМ: шляпа",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D1%88%D0%BB%D1%8F%D0%BF%D0%B0"
+		},
+		{
+			"title": "Горох: тапочки",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%B0%D0%BF%D0%BE%D1%87%D0%BA%D0%B8"
+		},
+		{
+			"title": "СУМ: тапочки",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D1%82%D0%B0%D0%BF%D0%BE%D1%87%D0%BA%D0%B8"
+		},
+		{
+			"title": "Горох: обирати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "СУМ: обирати",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: приміряти",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%80%D0%B8%D0%BC%D1%96%D1%80%D1%8F%D1%82%D0%B8"
+		},
+		{
+			"title": "СУМ: приміряти",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%BF%D1%80%D0%B8%D0%BC%D1%96%D1%80%D1%8F%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: одягатись",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%B4%D1%8F%D0%B3%D0%B0%D1%82%D0%B8%D1%81%D1%8C"
+		},
+		{
+			"title": "Горох: взуватись",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B7%D1%83%D0%B2%D0%B0%D1%82%D0%B8%D1%81%D1%8C"
+		},
+		{
+			"title": "Горох: академічні словникові значення — краватка",
+			"url": "https://goroh.pp.ua/Тлумачення/краватка"
+		},
+		{
+			"title": "Горох: академічні словникові значення — міряти",
+			"url": "https://goroh.pp.ua/Тлумачення/міряти"
+		},
+		{
+			"title": "Горох: академічні словникові значення — купувати",
+			"url": "https://goroh.pp.ua/Тлумачення/купувати"
+		},
+		{
+			"title": "Горох: академічні словникові значення — взуватися",
+			"url": "https://goroh.pp.ua/Тлумачення/взуватися"
+		}
+	]
+}

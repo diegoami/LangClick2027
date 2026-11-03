@@ -1,0 +1,42 @@
+{
+	"title": "Симптомы и приём у врача",
+	"summary": "Измените слово в скобках. У боліти согласование с частью тела: голова болить, зуби болять. Біль — мужского рода.",
+	"cells": {
+		"ache-sing": {
+			"sentenceGloss": "Сегодня у меня болит голова."
+		},
+		"ache-plur": {
+			"sentenceGloss": "У пациента болят зубы."
+		},
+		"cough-gen": {
+			"sentenceGloss": "После лечения кашля уже нет."
+		},
+		"nose-gen": {
+			"sentenceGloss": "В этом описании нет упоминания о симптомах насморка."
+		},
+		"pressure-gen": {
+			"sentenceGloss": "Медсестра записала показатель давления."
+		},
+		"pharmacy-loc": {
+			"sentenceGloss": "Сестра работает в аптеке."
+		},
+		"prescription-gen": {
+			"sentenceGloss": "В тексте есть номер рецепта."
+		},
+		"cardiologist-inst": {
+			"sentenceGloss": "Елена поговорила с кардиологом."
+		},
+		"dermatologist-gen": {
+			"sentenceGloss": "Тарас записался к дерматологу."
+		},
+		"ointment-gen": {
+			"sentenceGloss": "На пачке написано название мази."
+		},
+		"weakness-inst": {
+			"sentenceGloss": "Пациент описывает своё состояние словами «со значительной слабостью»."
+		},
+		"medicine-gen": {
+			"sentenceGloss": "В списке нет этих лекарств."
+		}
+	}
+}

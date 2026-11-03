@@ -1,0 +1,93 @@
+{
+	"title": "Finding your way in town",
+	"summary": "Buildings and directions; learn genitives with each word.",
+	"cells": {
+		"perekhrestya": {
+			"clue": "intersection of streets"
+		},
+		"rih": {
+			"clue": "street corner (nominative singular)"
+		},
+		"perekhid": {
+			"clue": "pedestrian crossing (noun)"
+		},
+		"trotuar": {
+			"clue": "sidewalk; pavement"
+		},
+		"mist": {
+			"clue": "bridge"
+		},
+		"hotel": {
+			"clue": "hotel"
+		},
+		"bank": {
+			"clue": "bank; financial institution"
+		},
+		"hurtozhytok": {
+			"clue": "student dormitory"
+		},
+		"universytet": {
+			"clue": "university"
+		},
+		"kinoteatr": {
+			"clue": "cinema building"
+		},
+		"sobor": {
+			"clue": "cathedral"
+		},
+		"khram": {
+			"clue": "temple; sacred building (masculine)"
+		},
+		"palats": {
+			"clue": "palace"
+		},
+		"zamok": {
+			"clue": "castle, as a fortified building"
+		},
+		"muzey": {
+			"clue": "museum"
+		},
+		"park": {
+			"clue": "public park"
+		},
+		"stadion": {
+			"clue": "stadium"
+		},
+		"zoopark": {
+			"clue": "zoo"
+		},
+		"pam-yatnyk": {
+			"clue": "monument commemorating a person or event"
+		},
+		"fontan": {
+			"clue": "fountain"
+		},
+		"halereya": {
+			"clue": "art gallery"
+		},
+		"zapravka": {
+			"clue": "petrol station (colloquial)"
+		},
+		"poshta": {
+			"clue": "post office or postal service"
+		},
+		"ratusha": {
+			"clue": "town hall"
+		},
+		"livoruch": {
+			"clue": "to the left (adverb)"
+		},
+		"pravoruch": {
+			"clue": "to the right (adverb)"
+		},
+		"pryamo": {
+			"clue": "straight ahead"
+		},
+		"pozadu": {
+			"clue": "behind"
+		},
+		"navproty": {
+			"clue": "opposite; facing"
+		}
+	}
+}

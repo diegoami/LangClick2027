@@ -1,0 +1,24 @@
+{
+	"title": "Zdania",
+	"cells": {
+		"grams": {
+			"sentenceGloss": "W paczce jest sto gramów rodzynek."
+		},
+		"kilos": {
+			"sentenceGloss": "Kupiliśmy pięć kilogramów ziemniaków."
+		},
+		"mandarins": {
+			"sentenceGloss": "Na tacy jest sześć mandarynek."
+		},
+		"tomatoes": {
+			"sentenceGloss": "Do sałatki potrzeba siedmiu pomidorów."
+		},
+		"frying": {
+			"sentenceGloss": "Tata smaży syrnyky na patelni."
+		},
+		"cooking": {
+			"sentenceGloss": "Ona przygotowuje kolację dla rodziny."
+		}
+	},
+	"summary": "Wpisz brakującą formę według podanego hasła lub znaczenia zdania."
+}

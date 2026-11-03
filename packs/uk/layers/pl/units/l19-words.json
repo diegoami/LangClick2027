@@ -1,0 +1,93 @@
+{
+	"title": "Orientacja w mieście",
+	"summary": "Budynki i kierunki; ucz się dopełniacza z każdym słowem.",
+	"cells": {
+		"perekhrestya": {
+			"clue": "skrzyżowanie ulic"
+		},
+		"rih": {
+			"clue": "róg ulicy"
+		},
+		"perekhid": {
+			"clue": "przejście dla pieszych"
+		},
+		"trotuar": {
+			"clue": "chodnik"
+		},
+		"mist": {
+			"clue": "most"
+		},
+		"hotel": {
+			"clue": "hotel"
+		},
+		"bank": {
+			"clue": "bank"
+		},
+		"hurtozhytok": {
+			"clue": "akademik, dom studencki"
+		},
+		"universytet": {
+			"clue": "uniwersytet"
+		},
+		"kinoteatr": {
+			"clue": "kino jako budynek"
+		},
+		"sobor": {
+			"clue": "katedra, główna świątynia"
+		},
+		"khram": {
+			"clue": "świątynia"
+		},
+		"palats": {
+			"clue": "pałac"
+		},
+		"zamok": {
+			"clue": "zamek jako warownia"
+		},
+		"muzey": {
+			"clue": "muzeum"
+		},
+		"park": {
+			"clue": "park miejski"
+		},
+		"stadion": {
+			"clue": "stadion"
+		},
+		"zoopark": {
+			"clue": "ogród zoologiczny"
+		},
+		"pam-yatnyk": {
+			"clue": "pomnik upamiętniający osobę lub wydarzenie"
+		},
+		"fontan": {
+			"clue": "fontanna"
+		},
+		"halereya": {
+			"clue": "galeria sztuki"
+		},
+		"zapravka": {
+			"clue": "stacja paliw (potocznie)"
+		},
+		"poshta": {
+			"clue": "poczta"
+		},
+		"ratusha": {
+			"clue": "ratusz"
+		},
+		"livoruch": {
+			"clue": "w lewo"
+		},
+		"pravoruch": {
+			"clue": "w prawo"
+		},
+		"pryamo": {
+			"clue": "prosto przed siebie"
+		},
+		"pozadu": {
+			"clue": "z tyłu, za"
+		},
+		"navproty": {
+			"clue": "naprzeciwko"
+		}
+	}
+}

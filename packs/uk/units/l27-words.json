@@ -1,0 +1,287 @@
+{
+	"id": "l27-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 23
+	},
+	"cells": [
+		{
+			"id": "navchannya",
+			"item": "word:navchannya",
+			"text": "навчання",
+			"display": "навча́ння",
+			"ipa": "/naˈʋt͡ʃanʲːa/"
+		},
+		{
+			"id": "pidruchnyk",
+			"item": "word:pidruchnyk",
+			"text": "підручник",
+			"display": "підру́чник",
+			"ipa": "/pʲidˈrut͡ʃnɪk/"
+		},
+		{
+			"id": "zoshyt",
+			"item": "word:zoshyt",
+			"text": "зошит",
+			"display": "зо́шит",
+			"ipa": "/ˈzɔʃɪt/"
+		},
+		{
+			"id": "olivets",
+			"item": "word:olivets",
+			"text": "олівець",
+			"display": "оліве́ць",
+			"ipa": "/ɔlʲiˈʋɛt͡sʲ/"
+		},
+		{
+			"id": "ruchka",
+			"item": "word:ruchka",
+			"text": "ручка",
+			"display": "ру́чка",
+			"ipa": "/ˈrut͡ʃka/"
+		},
+		{
+			"id": "osvita",
+			"item": "word:osvita",
+			"text": "освіта",
+			"display": "осві́та",
+			"ipa": "/ɔsˈʋʲita/"
+		},
+		{
+			"id": "znannya",
+			"item": "word:znannya",
+			"text": "знання",
+			"display": "знання́",
+			"ipa": "/znaˈnʲːa/"
+		},
+		{
+			"id": "bloknot",
+			"item": "word:bloknot",
+			"text": "блокнот",
+			"display": "блокно́т"
+		},
+		{
+			"id": "shchodennyk",
+			"item": "word:shchodennyk",
+			"text": "щоденник",
+			"display": "щоде́нник"
+		},
+		{
+			"id": "orhanayzer",
+			"item": "word:orhanayzer",
+			"text": "органайзер",
+			"display": "органа́йзер",
+			"alsoAccepted": ["планер"]
+		},
+		{
+			"id": "flomaster",
+			"item": "word:flomaster",
+			"text": "фломастер",
+			"display": "флома́стер",
+			"alsoAccepted": ["маркер"]
+		},
+		{
+			"id": "nalipka",
+			"item": "word:nalipka",
+			"text": "наліпка",
+			"display": "налі́пка",
+			"alsoAccepted": ["наклейка"]
+		},
+		{
+			"id": "zakladka",
+			"item": "word:zakladka",
+			"text": "закладка",
+			"display": "за́кладка"
+		},
+		{
+			"id": "penal",
+			"item": "word:penal",
+			"text": "пенал",
+			"display": "пена́л"
+		},
+		{
+			"id": "liniyka",
+			"item": "word:liniyka",
+			"text": "лінійка",
+			"display": "лі́нійка"
+		},
+		{
+			"id": "humka",
+			"item": "word:humka",
+			"text": "гумка",
+			"display": "гу́мка",
+			"alsoAccepted": ["ластик", "стирачка"]
+		},
+		{
+			"id": "nozhytsi",
+			"item": "word:nozhytsi",
+			"text": "ножиці",
+			"display": "но́жиці"
+		},
+		{
+			"id": "albom",
+			"item": "word:albom",
+			"text": "альбом",
+			"display": "альбо́м"
+		},
+		{
+			"id": "farba",
+			"item": "word:farba",
+			"text": "фарба",
+			"display": "фа́рба",
+			"alsoAccepted": ["краска", "барва"]
+		},
+		{
+			"id": "posibnyk",
+			"item": "word:posibnyk",
+			"text": "посібник",
+			"display": "посі́бник"
+		},
+		{
+			"id": "rozdrukivka",
+			"item": "word:rozdrukivka",
+			"text": "роздруківка",
+			"display": "роздрукі́вка",
+			"alsoAccepted": ["роздрук"]
+		},
+		{
+			"id": "liniya",
+			"item": "word:liniya",
+			"text": "лінія",
+			"display": "лі́нія"
+		},
+		{
+			"id": "kafedra",
+			"item": "word:kafedra",
+			"text": "кафедра",
+			"display": "ка́федра"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: навчання",
+			"url": "https://goroh.pp.ua/Словозміна/навчання"
+		},
+		{
+			"title": "Горох: підручник",
+			"url": "https://goroh.pp.ua/Словозміна/підручник"
+		},
+		{
+			"title": "Горох: зошит",
+			"url": "https://goroh.pp.ua/Словозміна/зошит"
+		},
+		{
+			"title": "Горох: олівець",
+			"url": "https://goroh.pp.ua/Словозміна/олівець"
+		},
+		{
+			"title": "Горох: ручка",
+			"url": "https://goroh.pp.ua/Словозміна/ручка"
+		},
+		{
+			"title": "Горох: освіта",
+			"url": "https://goroh.pp.ua/Словозміна/освіта"
+		},
+		{
+			"title": "Горох: знання",
+			"url": "https://goroh.pp.ua/Словозміна/знання"
+		},
+		{
+			"title": "Горох: блокнот",
+			"url": "https://goroh.pp.ua/Словозміна/блокнот"
+		},
+		{
+			"title": "Горох: щоденник",
+			"url": "https://goroh.pp.ua/Словозміна/щоденник"
+		},
+		{
+			"title": "Горох: органайзер",
+			"url": "https://goroh.pp.ua/Словозміна/органайзер"
+		},
+		{
+			"title": "Горох: фломастер",
+			"url": "https://goroh.pp.ua/Словозміна/фломастер"
+		},
+		{
+			"title": "Горох: стикер",
+			"url": "https://goroh.pp.ua/Словозміна/стикер"
+		},
+		{
+			"title": "Горох: закладка",
+			"url": "https://goroh.pp.ua/Словозміна/закладка"
+		},
+		{
+			"title": "Горох: пенал",
+			"url": "https://goroh.pp.ua/Словозміна/пенал"
+		},
+		{
+			"title": "Горох: лінійка",
+			"url": "https://goroh.pp.ua/Словозміна/лінійка"
+		},
+		{
+			"title": "Горох: гумка",
+			"url": "https://goroh.pp.ua/Словозміна/гумка"
+		},
+		{
+			"title": "Горох: ножиці",
+			"url": "https://goroh.pp.ua/Словозміна/ножиці"
+		},
+		{
+			"title": "Горох: альбом",
+			"url": "https://goroh.pp.ua/Словозміна/альбом"
+		},
+		{
+			"title": "Горох: фарба",
+			"url": "https://goroh.pp.ua/Словозміна/фарба"
+		},
+		{
+			"title": "Горох: посібник",
+			"url": "https://goroh.pp.ua/Словозміна/посібник"
+		},
+		{
+			"title": "Горох: роздруківка",
+			"url": "https://goroh.pp.ua/Словозміна/роздруківка"
+		},
+		{
+			"title": "Горох: лінія",
+			"url": "https://goroh.pp.ua/Словозміна/лінія"
+		},
+		{
+			"title": "Горох: кафедра",
+			"url": "https://goroh.pp.ua/Словозміна/кафедра"
+		},
+		{
+			"title": "Горох: рисувати",
+			"url": "https://goroh.pp.ua/Тлумачення/рисувати"
+		},
+		{
+			"title": "Горох: краска",
+			"url": "https://goroh.pp.ua/Тлумачення/краска"
+		},
+		{
+			"title": "Горох: записник",
+			"url": "https://goroh.pp.ua/Тлумачення/записник"
+		},
+		{
+			"title": "Горох: академічні словникові значення — роздруківка",
+			"url": "https://goroh.pp.ua/Тлумачення/роздруківка"
+		},
+		{
+			"title": "Словники України: наголос налі́пка",
+			"url": "https://goroh.pp.ua/Словозміна/наліпка"
+		},
+		{
+			"title": "СУМ-20: на́ліпка, значення і варіант наголосу",
+			"url": "https://goroh.pp.ua/Тлумачення/наліпка"
+		},
+		{
+			"title": "СУМ-20: наклейка як наліпка",
+			"url": "https://goroh.pp.ua/Тлумачення/наклейка"
+		},
+		{
+			"title": "СУМ-20: барва, рідкісний відповідник фарба",
+			"url": "https://goroh.pp.ua/Тлумачення/барва"
+		}
+	]
+}

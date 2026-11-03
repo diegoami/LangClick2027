@@ -1,0 +1,282 @@
+{
+	"id": "l19-destinations",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": [
+			"mist",
+			"hotel",
+			"bank",
+			"hurtozhytok",
+			"universytet",
+			"kinoteatr",
+			"sobor",
+			"khram",
+			"palats",
+			"zamok",
+			"muzey",
+			"park",
+			"stadion",
+			"zoopark",
+			"pam-yatnyk",
+			"fontan",
+			"halereya",
+			"zapravka",
+			"poshta",
+			"ratusha"
+		],
+		"columns": ["gen"]
+	},
+	"cells": [
+		{
+			"id": "mist.gen",
+			"item": "form:l19-destinations:mist:gen",
+			"text": "мосту",
+			"display": "мо́сту",
+			"row": "mist",
+			"col": "gen",
+			"alsoAccepted": ["моста"]
+		},
+		{
+			"id": "hotel.gen",
+			"item": "form:l19-destinations:hotel:gen",
+			"text": "готелю",
+			"display": "готе́лю",
+			"row": "hotel",
+			"col": "gen"
+		},
+		{
+			"id": "bank.gen",
+			"item": "form:l19-destinations:bank:gen",
+			"text": "банку",
+			"display": "ба́нку",
+			"row": "bank",
+			"col": "gen"
+		},
+		{
+			"id": "hurtozhytok.gen",
+			"item": "form:l19-destinations:hurtozhytok:gen",
+			"text": "гуртожитку",
+			"display": "гурто́житку",
+			"row": "hurtozhytok",
+			"col": "gen",
+			"alsoAccepted": ["гуртожитка"]
+		},
+		{
+			"id": "universytet.gen",
+			"item": "form:l19-destinations:universytet:gen",
+			"text": "університету",
+			"display": "університе́ту",
+			"row": "universytet",
+			"col": "gen"
+		},
+		{
+			"id": "kinoteatr.gen",
+			"item": "form:l19-destinations:kinoteatr:gen",
+			"text": "кінотеатру",
+			"display": "кінотеа́тру",
+			"row": "kinoteatr",
+			"col": "gen"
+		},
+		{
+			"id": "sobor.gen",
+			"item": "form:l19-destinations:sobor:gen",
+			"text": "собору",
+			"display": "собо́ру",
+			"row": "sobor",
+			"col": "gen"
+		},
+		{
+			"id": "khram.gen",
+			"item": "form:l19-destinations:khram:gen",
+			"text": "храму",
+			"display": "хра́му",
+			"row": "khram",
+			"col": "gen"
+		},
+		{
+			"id": "palats.gen",
+			"item": "form:l19-destinations:palats:gen",
+			"text": "палацу",
+			"display": "пала́цу",
+			"row": "palats",
+			"col": "gen"
+		},
+		{
+			"id": "zamok.gen",
+			"item": "form:l19-destinations:zamok:gen",
+			"text": "замку",
+			"display": "за́мку",
+			"row": "zamok",
+			"col": "gen"
+		},
+		{
+			"id": "muzey.gen",
+			"item": "form:l19-destinations:muzey:gen",
+			"text": "музею",
+			"display": "музе́ю",
+			"row": "muzey",
+			"col": "gen"
+		},
+		{
+			"id": "park.gen",
+			"item": "form:l19-destinations:park:gen",
+			"text": "парку",
+			"display": "па́рку",
+			"row": "park",
+			"col": "gen"
+		},
+		{
+			"id": "stadion.gen",
+			"item": "form:l19-destinations:stadion:gen",
+			"text": "стадіону",
+			"display": "стадіо́ну",
+			"row": "stadion",
+			"col": "gen"
+		},
+		{
+			"id": "zoopark.gen",
+			"item": "form:l19-destinations:zoopark:gen",
+			"text": "зоопарку",
+			"display": "зоопа́рку",
+			"row": "zoopark",
+			"col": "gen"
+		},
+		{
+			"id": "pam-yatnyk.gen",
+			"item": "form:l19-destinations:pam-yatnyk:gen",
+			"text": "пам'ятника",
+			"display": "па́м'ятника",
+			"row": "pam-yatnyk",
+			"col": "gen"
+		},
+		{
+			"id": "fontan.gen",
+			"item": "form:l19-destinations:fontan:gen",
+			"text": "фонтана",
+			"display": "фонта́на",
+			"row": "fontan",
+			"col": "gen",
+			"alsoAccepted": ["фонтану"]
+		},
+		{
+			"id": "halereya.gen",
+			"item": "form:l19-destinations:halereya:gen",
+			"text": "галереї",
+			"display": "галере́ї",
+			"row": "halereya",
+			"col": "gen"
+		},
+		{
+			"id": "zapravka.gen",
+			"item": "form:l19-destinations:zapravka:gen",
+			"text": "заправки",
+			"display": "запра́вки",
+			"row": "zapravka",
+			"col": "gen"
+		},
+		{
+			"id": "poshta.gen",
+			"item": "form:l19-destinations:poshta:gen",
+			"text": "пошти",
+			"display": "по́шти",
+			"row": "poshta",
+			"col": "gen"
+		},
+		{
+			"id": "ratusha.gen",
+			"item": "form:l19-destinations:ratusha:gen",
+			"text": "ратуші",
+			"display": "ра́туші",
+			"row": "ratusha",
+			"col": "gen"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 19 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@51a9938682834cc0b4366dd3c864b0b8"
+		},
+		{
+			"title": "Горох: міст",
+			"url": "https://goroh.pp.ua/Словозміна/міст"
+		},
+		{
+			"title": "Горох: готель",
+			"url": "https://goroh.pp.ua/Словозміна/готель"
+		},
+		{
+			"title": "Горох: банк",
+			"url": "https://goroh.pp.ua/Словозміна/банк"
+		},
+		{
+			"title": "Горох: гуртожиток",
+			"url": "https://goroh.pp.ua/Словозміна/гуртожиток"
+		},
+		{
+			"title": "Горох: університет",
+			"url": "https://goroh.pp.ua/Словозміна/університет"
+		},
+		{
+			"title": "Горох: кінотеатр",
+			"url": "https://goroh.pp.ua/Словозміна/кінотеатр"
+		},
+		{
+			"title": "Горох: собор",
+			"url": "https://goroh.pp.ua/Словозміна/собор"
+		},
+		{
+			"title": "Горох: храм",
+			"url": "https://goroh.pp.ua/Словозміна/храм"
+		},
+		{
+			"title": "Горох: палац",
+			"url": "https://goroh.pp.ua/Словозміна/палац"
+		},
+		{
+			"title": "Горох: замок",
+			"url": "https://goroh.pp.ua/Словозміна/замок"
+		},
+		{
+			"title": "Горох: музей",
+			"url": "https://goroh.pp.ua/Словозміна/музей"
+		},
+		{
+			"title": "Горох: парк",
+			"url": "https://goroh.pp.ua/Словозміна/парк"
+		},
+		{
+			"title": "Горох: стадіон",
+			"url": "https://goroh.pp.ua/Словозміна/стадіон"
+		},
+		{
+			"title": "Горох: зоопарк",
+			"url": "https://goroh.pp.ua/Словозміна/зоопарк"
+		},
+		{
+			"title": "Горох: пам'ятник",
+			"url": "https://goroh.pp.ua/Словозміна/пам'ятник"
+		},
+		{
+			"title": "Горох: фонтан",
+			"url": "https://goroh.pp.ua/Словозміна/фонтан"
+		},
+		{
+			"title": "Горох: галерея",
+			"url": "https://goroh.pp.ua/Словозміна/галерея"
+		},
+		{
+			"title": "Горох: заправка",
+			"url": "https://goroh.pp.ua/Словозміна/заправка"
+		},
+		{
+			"title": "Горох: пошта",
+			"url": "https://goroh.pp.ua/Словозміна/пошта"
+		},
+		{
+			"title": "Горох: ратуша",
+			"url": "https://goroh.pp.ua/Словозміна/ратуша"
+		}
+	]
+}

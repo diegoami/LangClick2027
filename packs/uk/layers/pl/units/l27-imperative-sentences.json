@@ -1,0 +1,30 @@
+{
+	"title": "Prośby i instrukcje",
+	"summary": "Użyj trybu rozkazującego podanego czasownika we wskazanej osobie, bez dodatkowych partykuł.",
+	"cells": {
+		"write-you": {
+			"sentenceGloss": "Oleno, pisz tutaj numer telefonu."
+		},
+		"copy-we": {
+			"sentenceGloss": "Wypiszmy nieznane słowa na osobną listę."
+		},
+		"underline-you": {
+			"sentenceGloss": "Andriju, podkreśl nagłówek."
+		},
+		"complete-plural": {
+			"sentenceGloss": "Przyjaciele, wykonujcie zadania samodzielnie."
+		},
+		"check-plural": {
+			"sentenceGloss": "Szanowni czytelnicy, sprawdźcie numer strony."
+		},
+		"sit-plural": {
+			"sentenceGloss": "Szanowni goście, usiądźcie przy oknie."
+		},
+		"throw-you": {
+			"sentenceGloss": "Tarasie, rzuć piłkę do kosza."
+		},
+		"fill-plural": {
+			"sentenceGloss": "Szanowni uczestnicy, wypełnijcie ankietę przed spotkaniem."
+		}
+	}
+}

@@ -1,0 +1,202 @@
+{
+	"id": "l13-sizes",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["38", "39", "42", "44", "46", "48", "50", "52"],
+		"columns": ["c0", "c1"]
+	},
+	"cells": [
+		{
+			"id": "38.c0",
+			"item": "l13:sizes:38:c0",
+			"text": "тридцять восьмий",
+			"row": "38",
+			"col": "c0",
+			"display": "три́дцять во́сьмий"
+		},
+		{
+			"id": "38.c1",
+			"item": "l13:sizes:38:c1",
+			"text": "тридцять восьмого",
+			"row": "38",
+			"col": "c1",
+			"display": "три́дцять во́сьмого"
+		},
+		{
+			"id": "39.c0",
+			"item": "l13:sizes:39:c0",
+			"text": "тридцять дев'ятий",
+			"row": "39",
+			"col": "c0",
+			"display": "три́дцять дев'я́тий"
+		},
+		{
+			"id": "39.c1",
+			"item": "l13:sizes:39:c1",
+			"text": "тридцять дев'ятого",
+			"row": "39",
+			"col": "c1",
+			"display": "три́дцять дев'я́того"
+		},
+		{
+			"id": "42.c0",
+			"item": "l13:sizes:42:c0",
+			"text": "сорок другий",
+			"row": "42",
+			"col": "c0",
+			"display": "со́рок дру́гий"
+		},
+		{
+			"id": "42.c1",
+			"item": "l13:sizes:42:c1",
+			"text": "сорок другого",
+			"row": "42",
+			"col": "c1",
+			"display": "со́рок дру́гого"
+		},
+		{
+			"id": "44.c0",
+			"item": "l13:sizes:44:c0",
+			"text": "сорок четвертий",
+			"row": "44",
+			"col": "c0",
+			"display": "со́рок четве́ртий"
+		},
+		{
+			"id": "44.c1",
+			"item": "l13:sizes:44:c1",
+			"text": "сорок четвертого",
+			"row": "44",
+			"col": "c1",
+			"display": "со́рок четве́ртого"
+		},
+		{
+			"id": "46.c0",
+			"item": "l13:sizes:46:c0",
+			"text": "сорок шостий",
+			"row": "46",
+			"col": "c0",
+			"display": "со́рок шо́стий"
+		},
+		{
+			"id": "46.c1",
+			"item": "l13:sizes:46:c1",
+			"text": "сорок шостого",
+			"row": "46",
+			"col": "c1",
+			"display": "со́рок шо́стого"
+		},
+		{
+			"id": "48.c0",
+			"item": "l13:sizes:48:c0",
+			"text": "сорок восьмий",
+			"row": "48",
+			"col": "c0",
+			"display": "со́рок во́сьмий"
+		},
+		{
+			"id": "48.c1",
+			"item": "l13:sizes:48:c1",
+			"text": "сорок восьмого",
+			"row": "48",
+			"col": "c1",
+			"display": "со́рок во́сьмого"
+		},
+		{
+			"id": "50.c0",
+			"item": "l13:sizes:50:c0",
+			"text": "п'ятдесятий",
+			"row": "50",
+			"col": "c0",
+			"display": "п'ятдеся́тий"
+		},
+		{
+			"id": "50.c1",
+			"item": "l13:sizes:50:c1",
+			"text": "п'ятдесятого",
+			"row": "50",
+			"col": "c1",
+			"display": "п'ятдеся́того"
+		},
+		{
+			"id": "52.c0",
+			"item": "l13:sizes:52:c0",
+			"text": "п'ятдесят другий",
+			"row": "52",
+			"col": "c0",
+			"display": "п'ятдеся́т дру́гий"
+		},
+		{
+			"id": "52.c1",
+			"item": "l13:sizes:52:c1",
+			"text": "п'ятдесят другого",
+			"row": "52",
+			"col": "c1",
+			"display": "п'ятдеся́т дру́гого"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 13. Одяг і розмір",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@ade0b1fe8aa4405786ce813fc20fce50"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: тридцять",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D1%80%D0%B8%D0%B4%D1%86%D1%8F%D1%82%D1%8C"
+		},
+		{
+			"title": "Горох: сорок",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BE%D1%80%D0%BE%D0%BA"
+		},
+		{
+			"title": "Горох: восьмий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: дев'ятий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B5%D0%B2%27%D1%8F%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: другий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: четвертий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: шостий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D0%BE%D1%81%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: п'ятдесятий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%27%D1%8F%D1%82%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: п'ятдесят",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%27%D1%8F%D1%82%D0%B4%D0%B5%D1%81%D1%8F%D1%82"
+		},
+		{
+			"title": "Горох: одягати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%B4%D1%8F%D0%B3%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: взувати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B7%D1%83%D0%B2%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: міряти",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D1%96%D1%80%D1%8F%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: купувати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%83%D0%BF%D1%83%D0%B2%D0%B0%D1%82%D0%B8"
+		}
+	]
+}

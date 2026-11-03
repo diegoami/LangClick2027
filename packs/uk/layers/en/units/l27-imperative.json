@@ -1,0 +1,43 @@
+{
+	"title": "Imperatives in instructions",
+	"summary": "Give the bare imperative for the exact lemma, without extra particles. Compare -и/-імо/-іть with zero/-мо/-те. Keep the soft sign in сядь and кинь. The prefix ви- keeps its stress; dictionary stress is also retained in підкреслити forms.",
+	"cells": {
+		"ty.pysaty": {},
+		"my.pysaty": {},
+		"vy.pysaty": {},
+		"ty.vypysaty": {},
+		"my.vypysaty": {},
+		"vy.vypysaty": {},
+		"ty.pidkreslyty": {},
+		"my.pidkreslyty": {},
+		"vy.pidkreslyty": {},
+		"ty.vykonuvaty": {},
+		"my.vykonuvaty": {},
+		"vy.vykonuvaty": {},
+		"ty.pereviryty": {},
+		"my.pereviryty": {},
+		"vy.pereviryty": {},
+		"ty.sisty": {},
+		"my.sisty": {},
+		"vy.sisty": {},
+		"ty.kynuty": {},
+		"my.kynuty": {},
+		"vy.kynuty": {},
+		"ty.zapovnyty": {},
+		"my.zapovnyty": {},
+		"vy.zapovnyty": {}
+	},
+	"headers": {
+		"ty": "you: singular request",
+		"my": "let us: we",
+		"vy": "you: plural/polite request",
+		"pysaty": "писа́ти",
+		"vypysaty": "ви́писати",
+		"pidkreslyty": "підкре́слити",
+		"vykonuvaty": "вико́нувати",
+		"pereviryty": "переві́рити",
+		"sisty": "сі́сти",
+		"kynuty": "ки́нути",
+		"zapovnyty": "запо́внити"
+	}
+}

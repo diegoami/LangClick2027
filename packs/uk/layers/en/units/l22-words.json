@@ -1,0 +1,78 @@
+{
+	"title": "Hobbies and free time",
+	"summary": "Hobby categories and leisure; хобі keeps one form in every case.",
+	"cells": {
+		"dozvillya": {
+			"clue": "leisure; free time (one noun)"
+		},
+		"khobi": {
+			"clue": "hobby (loanword, indeclinable)"
+		},
+		"zakhoplennya": {
+			"clue": "enthusiastic interest; hobby (word beginning зах-)"
+		},
+		"sfera": {
+			"clue": "sphere; field of interests"
+		},
+		"haluz": {
+			"clue": "branch of science or industry"
+		},
+		"kolektsionuvannya": {
+			"clue": "collecting objects systematically (noun)"
+		},
+		"rukodillya": {
+			"clue": "needlework; handicrafts (one noun)"
+		},
+		"vyshyvannya": {
+			"clue": "embroidery as an activity"
+		},
+		"shyttya": {
+			"clue": "sewing as an activity"
+		},
+		"kvitnykarstvo": {
+			"clue": "flower growing"
+		},
+		"malyuvannya": {
+			"clue": "drawing or painting as an activity"
+		},
+		"spiv": {
+			"clue": "singing (short noun)"
+		},
+		"tantsi": {
+			"clue": "dancing; dances (plural noun)"
+		},
+		"muzyka": {
+			"clue": "music as an art"
+		},
+		"futbol": {
+			"clue": "football; soccer"
+		},
+		"khokey": {
+			"clue": "hockey"
+		},
+		"tenis": {
+			"clue": "tennis"
+		},
+		"fitnes": {
+			"clue": "fitness training (loanword)"
+		},
+		"alpinizm": {
+			"clue": "mountaineering"
+		},
+		"turyzm": {
+			"clue": "tourism; recreational travel"
+		},
+		"rybolovlya": {
+			"clue": "fishing as a leisure activity"
+		},
+		"bdzhilnytstvo": {
+			"clue": "beekeeping"
+		},
+		"prohramuvannya": {
+			"clue": "computer programming"
+		},
+		"animatsiya": {
+			"clue": "animation"
+		}
+	}
+}

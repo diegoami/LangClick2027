@@ -1,0 +1,24 @@
+{
+	"title": "Postacie leków",
+	"summary": "Nazwy postaci leków. Zwróć uwagę na liczbę: краплі to liczba mnoga.",
+	"cells": {
+		"pihulka": {
+			"clue": "tabletka (liczba pojedyncza)"
+		},
+		"mikstura": {
+			"clue": "mikstura lecznicza"
+		},
+		"krapli": {
+			"clue": "krople lecznicze (liczba mnoga)"
+		},
+		"svichka": {
+			"clue": "czopek jako lek (liczba pojedyncza)"
+		},
+		"syrop": {
+			"clue": "syrop leczniczy"
+		},
+		"maz": {
+			"clue": "maść"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"title": "Kinds of adjectives",
+	"summary": "Three grammatical classes; comparison mainly concerns qualitative adjectives.",
+	"cells": {
+		"yakisnyy": {
+			"clue": "qualitative adjective (masculine term)"
+		},
+		"vidnosnyy": {
+			"clue": "relative adjective (masculine term)"
+		},
+		"prysviynyy": {
+			"clue": "possessive adjective (masculine term)"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"title": "Zdania",
+	"cells": {
+		"oil": {
+			"sentenceGloss": "Do sałatki kupuję olej słonecznikowy."
+		},
+		"butter": {
+			"sentenceGloss": "Smaruję chleb masłem."
+		},
+		"expiry": {
+			"sentenceGloss": "Przed zakupem sprawdzam termin przydatności."
+		},
+		"cost": {
+			"sentenceGloss": "Ile kosztuje ten bochenek?"
+		},
+		"carrots": {
+			"sentenceGloss": "Kroję marchew do zupy."
+		}
+	},
+	"summary": "Wpisz brakującą formę według podanego hasła lub znaczenia zdania."
+}

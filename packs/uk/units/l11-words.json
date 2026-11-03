@@ -1,0 +1,518 @@
+{
+	"id": "l11-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 48
+	},
+	"cells": [
+		{
+			"id": "tilo",
+			"item": "word:tilo",
+			"text": "тіло",
+			"display": "ті́ло"
+		},
+		{
+			"id": "shkira",
+			"item": "word:shkira",
+			"text": "шкіра",
+			"display": "шкі́ра"
+		},
+		{
+			"id": "holova",
+			"item": "word:holova",
+			"text": "голова",
+			"display": "голова́"
+		},
+		{
+			"id": "makivka",
+			"item": "word:makivka",
+			"text": "маківка",
+			"display": "ма́ківка"
+		},
+		{
+			"id": "vukho",
+			"item": "word:vukho",
+			"text": "вухо",
+			"display": "ву́хо"
+		},
+		{
+			"id": "skronya",
+			"item": "word:skronya",
+			"text": "скроня",
+			"display": "скро́ня"
+		},
+		{
+			"id": "vylytsya",
+			"item": "word:vylytsya",
+			"text": "вилиця",
+			"display": "ви́лиця"
+		},
+		{
+			"id": "potylytsya",
+			"item": "word:potylytsya",
+			"text": "потилиця",
+			"display": "поти́лиця"
+		},
+		{
+			"id": "volossya",
+			"item": "word:volossya",
+			"text": "волосся",
+			"display": "воло́сся"
+		},
+		{
+			"id": "volosyna",
+			"item": "word:volosyna",
+			"text": "волосина",
+			"display": "волоси́на"
+		},
+		{
+			"id": "pasmo",
+			"item": "word:pasmo",
+			"text": "пасмо",
+			"display": "па́смо"
+		},
+		{
+			"id": "zachiska",
+			"item": "word:zachiska",
+			"text": "зачіска",
+			"display": "за́чіска"
+		},
+		{
+			"id": "shyya",
+			"item": "word:shyya",
+			"text": "шия",
+			"display": "ши́я"
+		},
+		{
+			"id": "horlo",
+			"item": "word:horlo",
+			"text": "горло",
+			"display": "го́рло"
+		},
+		{
+			"id": "pidboriddya",
+			"item": "word:pidboriddya",
+			"text": "підборіддя",
+			"display": "підборі́ддя"
+		},
+		{
+			"id": "shchelepa",
+			"item": "word:shchelepa",
+			"text": "щелепа",
+			"display": "ще́лепа"
+		},
+		{
+			"id": "zub",
+			"item": "word:zub",
+			"text": "зуб"
+		},
+		{
+			"id": "yasna",
+			"item": "word:yasna",
+			"text": "ясна",
+			"display": "я́сна"
+		},
+		{
+			"id": "oblychchya",
+			"item": "word:oblychchya",
+			"text": "обличчя",
+			"display": "обли́ччя",
+			"alsoAccepted": ["лице"]
+		},
+		{
+			"id": "lob",
+			"item": "word:lob",
+			"text": "лоб",
+			"alsoAccepted": ["чоло"]
+		},
+		{
+			"id": "brova",
+			"item": "word:brova",
+			"text": "брова",
+			"display": "брова́"
+		},
+		{
+			"id": "oko",
+			"item": "word:oko",
+			"text": "око",
+			"display": "о́ко"
+		},
+		{
+			"id": "viya",
+			"item": "word:viya",
+			"text": "вія",
+			"display": "ві́я"
+		},
+		{
+			"id": "pohlyad",
+			"item": "word:pohlyad",
+			"text": "погляд",
+			"display": "по́гляд"
+		},
+		{
+			"id": "nis",
+			"item": "word:nis",
+			"text": "ніс"
+		},
+		{
+			"id": "shchoka",
+			"item": "word:shchoka",
+			"text": "щока",
+			"display": "щока́"
+		},
+		{
+			"id": "huba",
+			"item": "word:huba",
+			"text": "губа",
+			"display": "губа́"
+		},
+		{
+			"id": "rot",
+			"item": "word:rot",
+			"text": "рот"
+		},
+		{
+			"id": "yazyk",
+			"item": "word:yazyk",
+			"text": "язик",
+			"display": "язи́к"
+		},
+		{
+			"id": "tulub",
+			"item": "word:tulub",
+			"text": "тулуб",
+			"display": "ту́луб"
+		},
+		{
+			"id": "pleche",
+			"item": "word:pleche",
+			"text": "плече",
+			"display": "плече́"
+		},
+		{
+			"id": "hrudna-klityna",
+			"item": "word:hrudna-klityna",
+			"text": "грудна клітина",
+			"display": "грудна́ кліти́на"
+		},
+		{
+			"id": "hrudy",
+			"item": "word:hrudy",
+			"text": "груди",
+			"display": "гру́ди"
+		},
+		{
+			"id": "rebro",
+			"item": "word:rebro",
+			"text": "ребро",
+			"display": "ребро́"
+		},
+		{
+			"id": "zhyvit",
+			"item": "word:zhyvit",
+			"text": "живіт",
+			"display": "живі́т"
+		},
+		{
+			"id": "taliya",
+			"item": "word:taliya",
+			"text": "талія",
+			"display": "та́лія"
+		},
+		{
+			"id": "spyna",
+			"item": "word:spyna",
+			"text": "спина",
+			"display": "спи́на"
+		},
+		{
+			"id": "khrebet",
+			"item": "word:khrebet",
+			"text": "хребет",
+			"display": "хребе́т"
+		},
+		{
+			"id": "poperek",
+			"item": "word:poperek",
+			"text": "поперек",
+			"display": "по́пере́к"
+		},
+		{
+			"id": "kryzhi",
+			"item": "word:kryzhi",
+			"text": "крижі",
+			"display": "кри́жі"
+		},
+		{
+			"id": "stehno",
+			"item": "word:stehno",
+			"text": "стегно",
+			"display": "стегно́"
+		},
+		{
+			"id": "ruka",
+			"item": "word:ruka",
+			"text": "рука",
+			"display": "рука́"
+		},
+		{
+			"id": "dolonya",
+			"item": "word:dolonya",
+			"text": "долоня",
+			"display": "доло́ня"
+		},
+		{
+			"id": "likot",
+			"item": "word:likot",
+			"text": "лікоть",
+			"display": "лі́коть"
+		},
+		{
+			"id": "noha",
+			"item": "word:noha",
+			"text": "нога",
+			"display": "нога́"
+		},
+		{
+			"id": "kolino",
+			"item": "word:kolino",
+			"text": "коліно",
+			"display": "колі́но"
+		},
+		{
+			"id": "stopa",
+			"item": "word:stopa",
+			"text": "стопа",
+			"display": "стопа́"
+		},
+		{
+			"id": "palets",
+			"item": "word:palets",
+			"text": "палець",
+			"display": "па́лець"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 11. Назви частин тіла",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@9302e3723f2345f28e69f6429efa7a39"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: тіло",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D1%96%D0%BB%D0%BE"
+		},
+		{
+			"title": "Горох: шкіра",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D0%BA%D1%96%D1%80%D0%B0"
+		},
+		{
+			"title": "Горох: голова",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0"
+		},
+		{
+			"title": "Горох: маківка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B0%D0%BA%D1%96%D0%B2%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: вухо",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D1%83%D1%85%D0%BE"
+		},
+		{
+			"title": "Горох: скроня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BA%D1%80%D0%BE%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: вилиця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B8%D0%BB%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: потилиця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D1%82%D0%B8%D0%BB%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: волосся",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D1%81%D1%8F"
+		},
+		{
+			"title": "Горох: волосина",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D0%B8%D0%BD%D0%B0"
+		},
+		{
+			"title": "Горох: пасмо",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%B0%D1%81%D0%BC%D0%BE"
+		},
+		{
+			"title": "Горох: зачіска",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D0%B0%D1%87%D1%96%D1%81%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: шия",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D0%B8%D1%8F"
+		},
+		{
+			"title": "Горох: горло",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D1%80%D0%BB%D0%BE"
+		},
+		{
+			"title": "Горох: підборіддя",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%96%D0%B4%D0%B4%D1%8F"
+		},
+		{
+			"title": "Горох: щелепа",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%89%D0%B5%D0%BB%D0%B5%D0%BF%D0%B0"
+		},
+		{
+			"title": "Горох: зуб",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D1%83%D0%B1"
+		},
+		{
+			"title": "Горох: ясна",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%8F%D1%81%D0%BD%D0%B0"
+		},
+		{
+			"title": "Горох: обличчя",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%B1%D0%BB%D0%B8%D1%87%D1%87%D1%8F"
+		},
+		{
+			"title": "Горох: лоб",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BB%D0%BE%D0%B1"
+		},
+		{
+			"title": "Горох: брова",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D1%80%D0%BE%D0%B2%D0%B0"
+		},
+		{
+			"title": "Горох: око",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%BA%D0%BE"
+		},
+		{
+			"title": "Горох: вія",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D1%96%D1%8F"
+		},
+		{
+			"title": "Горох: погляд",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4"
+		},
+		{
+			"title": "Горох: ніс",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D1%96%D1%81"
+		},
+		{
+			"title": "Горох: щока",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%89%D0%BE%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: губа",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D1%83%D0%B1%D0%B0"
+		},
+		{
+			"title": "Горох: рот",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D0%BE%D1%82"
+		},
+		{
+			"title": "Горох: язик",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%8F%D0%B7%D0%B8%D0%BA"
+		},
+		{
+			"title": "Горох: тулуб",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D1%83%D0%BB%D1%83%D0%B1"
+		},
+		{
+			"title": "Горох: плече",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BB%D0%B5%D1%87%D0%B5"
+		},
+		{
+			"title": "Горох: груди",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D1%80%D1%83%D0%B4%D0%B8"
+		},
+		{
+			"title": "Горох: ребро",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D0%B5%D0%B1%D1%80%D0%BE"
+		},
+		{
+			"title": "Горох: живіт",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B6%D0%B8%D0%B2%D1%96%D1%82"
+		},
+		{
+			"title": "Горох: талія",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%B0%D0%BB%D1%96%D1%8F"
+		},
+		{
+			"title": "Горох: спина",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BF%D0%B8%D0%BD%D0%B0"
+		},
+		{
+			"title": "Горох: хребет",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%85%D1%80%D0%B5%D0%B1%D0%B5%D1%82"
+		},
+		{
+			"title": "Горох: поперек",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%BA"
+		},
+		{
+			"title": "Горох: крижі",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%80%D0%B8%D0%B6%D1%96"
+		},
+		{
+			"title": "Горох: стегно",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D0%B5%D0%B3%D0%BD%D0%BE"
+		},
+		{
+			"title": "Горох: рука",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D1%83%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: долоня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%BE%D0%BB%D0%BE%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: лікоть",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BB%D1%96%D0%BA%D0%BE%D1%82%D1%8C"
+		},
+		{
+			"title": "Горох: нога",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D0%BE%D0%B3%D0%B0"
+		},
+		{
+			"title": "Горох: коліно",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BE%D0%BB%D1%96%D0%BD%D0%BE"
+		},
+		{
+			"title": "Горох: стопа",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D0%BE%D0%BF%D0%B0"
+		},
+		{
+			"title": "Горох: палець",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%B0%D0%BB%D0%B5%D1%86%D1%8C"
+		},
+		{
+			"title": "Горох: грудний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: клітина",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BB%D1%96%D1%82%D0%B8%D0%BD%D0%B0"
+		},
+		{
+			"title": "Горох: лице",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BB%D0%B8%D1%86%D0%B5"
+		},
+		{
+			"title": "СУМ: лице",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%BB%D0%B8%D1%86%D0%B5"
+		},
+		{
+			"title": "Горох: чоло",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%87%D0%BE%D0%BB%D0%BE"
+		},
+		{
+			"title": "СУМ: чоло",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D1%87%D0%BE%D0%BB%D0%BE"
+		}
+	]
+}

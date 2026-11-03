@@ -1,0 +1,18 @@
+{
+	"title": "Симптоми та візит до лікаря",
+	"summary": "Змініть слово в дужках. Дієслово боліти узгоджується з назвою частини тіла: голова болить, зуби болять.",
+	"cells": {
+		"ache-sing": {},
+		"ache-plur": {},
+		"cough-gen": {},
+		"nose-gen": {},
+		"pressure-gen": {},
+		"pharmacy-loc": {},
+		"prescription-gen": {},
+		"cardiologist-inst": {},
+		"dermatologist-gen": {},
+		"ointment-gen": {},
+		"weakness-inst": {},
+		"medicine-gen": {}
+	}
+}

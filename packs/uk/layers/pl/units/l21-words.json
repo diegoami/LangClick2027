@@ -1,0 +1,72 @@
+{
+	"title": "Charakter i przymiotniki",
+	"summary": "Męskie formy słownikowe; przyrostki wyrażają natężenie lub pieszczotliwość.",
+	"cells": {
+		"kharakter": {
+			"clue": "charakter"
+		},
+		"nadiynyy": {
+			"clue": "niezawodny (rodzaj męski)"
+		},
+		"tvorchyy": {
+			"clue": "twórczy (rodzaj męski)"
+		},
+		"dobrozychlyvyy": {
+			"clue": "życzliwie nastawiony do innych (zaczyna się od доброз-)"
+		},
+		"vdyachnyy": {
+			"clue": "wdzięczny (rodzaj męski)"
+		},
+		"zapalnyy": {
+			"clue": "porywczy (rodzaj męski)"
+		},
+		"pomyslyvyy": {
+			"clue": "podejrzliwy (rodzaj męski)"
+		},
+		"shchedryy": {
+			"clue": "hojny (rodzaj męski)"
+		},
+		"urivnovazhenyy": {
+			"clue": "zrównoważony (rodzaj męski)"
+		},
+		"rishuchyy": {
+			"clue": "zdecydowany (rodzaj męski)"
+		},
+		"upertyy": {
+			"clue": "uparty (rodzaj męski)"
+		},
+		"postuplyvyy": {
+			"clue": "ustępliwy (rodzaj męski)"
+		},
+		"zukhvalyy": {
+			"clue": "zuchwały (rodzaj męski)"
+		},
+		"dobryy": {
+			"clue": "dobry; o dobrym sercu (6 liter, zaczyna się od д-)"
+		},
+		"veselyy": {
+			"clue": "wesoły (rodzaj męski)"
+		},
+		"rozlyuchenyy": {
+			"clue": "rozwścieczony (rodzaj męski)"
+		},
+		"zasmuchenyy": {
+			"clue": "zasmucony (rodzaj męski)"
+		},
+		"napolehlyvyy": {
+			"clue": "wytrwały (rodzaj męski)"
+		},
+		"velycheznyy": {
+			"clue": "ogromny (rodzaj męski, przyrostek -езн-)"
+		},
+		"zlyushchyy": {
+			"clue": "bardzo zły (rodzaj męski, przyrostek -ющ-)"
+		},
+		"dyvakuvatyy": {
+			"clue": "nieco dziwaczny (rodzaj męski, przyrostek -уват-)"
+		},
+		"chepurnenkyy": {
+			"clue": "schludniutki (rodzaj męski, -еньк-)"
+		}
+	}
+}

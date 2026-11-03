@@ -1,0 +1,195 @@
+{
+	"title": "Home and furnishings",
+	"cells": {
+		"zhytlo": {
+			"clue": "housing; a place to live"
+		},
+		"kvartyra": {
+			"clue": "flat; apartment"
+		},
+		"budynok": {
+			"clue": "house; building"
+		},
+		"podvir-ya": {
+			"clue": "yard"
+		},
+		"sad": {
+			"clue": "garden with fruit trees"
+		},
+		"klumba": {
+			"clue": "flower bed"
+		},
+		"harazh": {
+			"clue": "garage"
+		},
+		"baseyn": {
+			"clue": "swimming pool"
+		},
+		"villa": {
+			"clue": "villa"
+		},
+		"poverkh": {
+			"clue": "storey; floor of a building"
+		},
+		"dveri": {
+			"clue": "door (plural noun)"
+		},
+		"peredpokiy": {
+			"clue": "entrance hall"
+		},
+		"korydor": {
+			"clue": "corridor"
+		},
+		"skhody": {
+			"clue": "stairs"
+		},
+		"kukhnya": {
+			"clue": "kitchen"
+		},
+		"vitalnya": {
+			"clue": "living room"
+		},
+		"spalnya": {
+			"clue": "bedroom"
+		},
+		"vanna": {
+			"clue": "bathroom (room)"
+		},
+		"dytyacha-kimnata": {
+			"clue": "children’s room"
+		},
+		"hostova-kimnata": {
+			"clue": "guest room"
+		},
+		"dakh": {
+			"clue": "roof"
+		},
+		"horyshche": {
+			"clue": "attic"
+		},
+		"pidval": {
+			"clue": "cellar; basement"
+		},
+		"mebli": {
+			"clue": "furniture (plural noun)"
+		},
+		"lizhko": {
+			"clue": "bed"
+		},
+		"podushka": {
+			"clue": "pillow"
+		},
+		"kovdra": {
+			"clue": "blanket; duvet"
+		},
+		"tumba": {
+			"clue": "small cabinet; bedside cabinet"
+		},
+		"nastilna-lampa": {
+			"clue": "desk lamp"
+		},
+		"shafa": {
+			"clue": "wardrobe; cupboard"
+		},
+		"dzerkalo": {
+			"clue": "mirror"
+		},
+		"pidloha": {
+			"clue": "floor (room surface)"
+		},
+		"kylym": {
+			"clue": "carpet; rug"
+		},
+		"shtora": {
+			"clue": "curtain"
+		},
+		"tyul": {
+			"clue": "tulle; net curtain fabric"
+		},
+		"dyvan": {
+			"clue": "sofa"
+		},
+		"krislo": {
+			"clue": "armchair"
+		},
+		"televizor": {
+			"clue": "television set"
+		},
+		"zhurnalnyy-stolyk": {
+			"clue": "coffee table"
+		},
+		"knyzhkova-shafa": {
+			"clue": "bookcase with doors"
+		},
+		"pysmovyy-stil": {
+			"clue": "writing desk"
+		},
+		"stilets": {
+			"clue": "chair"
+		},
+		"pidvikonnya": {
+			"clue": "windowsill"
+		},
+		"horshchyk": {
+			"clue": "flowerpot"
+		},
+		"yidalnya": {
+			"clue": "dining room"
+		},
+		"plyta": {
+			"clue": "cooker; stove"
+		},
+		"dukhova-shafa": {
+			"clue": "oven"
+		},
+		"posudomyyna-mashyna": {
+			"clue": "dishwasher"
+		},
+		"kholodylnyk": {
+			"clue": "refrigerator"
+		},
+		"vytyazhka": {
+			"clue": "extractor hood"
+		},
+		"myynytsya": {
+			"clue": "kitchen sink"
+		},
+		"zmishuvach": {
+			"clue": "mixer tap"
+		},
+		"stilnytsya": {
+			"clue": "worktop"
+		},
+		"stelya": {
+			"clue": "ceiling"
+		},
+		"lyustra": {
+			"clue": "chandelier"
+		},
+		"dush": {
+			"clue": "shower"
+		},
+		"tualet": {
+			"clue": "toilet; WC"
+		},
+		"umyvalnyk": {
+			"clue": "washbasin"
+		},
+		"pralna-mashyna": {
+			"clue": "washing machine"
+		},
+		"polytsya": {
+			"clue": "shelf"
+		},
+		"rushnyk": {
+			"clue": "towel"
+		},
+		"vishak": {
+			"clue": "coat rack; hanger"
+		},
+		"komod": {
+			"clue": "chest of drawers"
+		}
+	},
+	"summary": "Recall rooms, parts of a home, furniture and appliances. Give dictionary forms."
+}

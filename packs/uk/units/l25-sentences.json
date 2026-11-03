@@ -1,0 +1,103 @@
+{
+	"id": "l25-sentences",
+	"typing": true,
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"cells": [
+		{
+			"id": "holiday-inst",
+			"item": "sentence:l25:holiday-inst",
+			"text": "святом",
+			"display": "свя́том",
+			"sentence": "Дру́зі привіта́ли нас зі ___. (свя́то)"
+		},
+		{
+			"id": "christmas-gen",
+			"item": "sentence:l25:christmas-gen",
+			"text": "Різдва",
+			"display": "Різдва́",
+			"sentence": "До ___ залиши́вся ти́ждень. (Різдво́)"
+		},
+		{
+			"id": "easter-gen",
+			"item": "sentence:l25:easter-gen",
+			"text": "Великодня",
+			"display": "Вели́кодня",
+			"sentence": "До ___ готу́ють традиці́йний хліб. (Вели́кдень)",
+			"alsoAccepted": ["Пасхи"]
+		},
+		{
+			"id": "tradition-inst",
+			"item": "sentence:l25:tradition-inst",
+			"text": "традицією",
+			"display": "тради́цією",
+			"sentence": "Цей зви́чай став сіме́йною ___. (тради́ція)"
+		},
+		{
+			"id": "present-inst",
+			"item": "sentence:l25:present-inst",
+			"text": "подарунком",
+			"display": "подару́нком",
+			"sentence": "Дити́на раді́є ново́му ро́боту: він став несподі́ваним ___. (подару́нок)",
+			"alsoAccepted": ["дарунком"]
+		},
+		{
+			"id": "pysanka-inst",
+			"item": "sentence:l25:pysanka-inst",
+			"text": "писанкою",
+			"display": "пи́санкою",
+			"sentence": "Ми милува́лися розпи́саною ___ з геометри́чним орна́ментом. (пи́санка)"
+		},
+		{
+			"id": "carol-inst",
+			"item": "sentence:l25:carol-inst",
+			"text": "колядкою",
+			"display": "коля́дкою",
+			"sentence": "Виступ розпоча́вся різдвя́ною ___. (коля́дка)"
+		},
+		{
+			"id": "uzvar-inst",
+			"item": "sentence:l25:uzvar-inst",
+			"text": "узваром",
+			"display": "узва́ром",
+			"sentence": "На столі́ стоя́в гле́чик з ___. (узва́р)"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: свято",
+			"url": "https://goroh.pp.ua/Словозміна/свято"
+		},
+		{
+			"title": "Горох: Різдво",
+			"url": "https://goroh.pp.ua/Словозміна/Різдво"
+		},
+		{
+			"title": "Горох: Великдень",
+			"url": "https://goroh.pp.ua/Словозміна/Великдень"
+		},
+		{
+			"title": "Горох: традиція",
+			"url": "https://goroh.pp.ua/Словозміна/традиція"
+		},
+		{
+			"title": "Горох: подарунок",
+			"url": "https://goroh.pp.ua/Словозміна/подарунок"
+		},
+		{
+			"title": "Горох: писанка",
+			"url": "https://goroh.pp.ua/Словозміна/писанка"
+		},
+		{
+			"title": "Горох: колядка",
+			"url": "https://goroh.pp.ua/Словозміна/колядка"
+		},
+		{
+			"title": "Горох: узвар",
+			"url": "https://goroh.pp.ua/Словозміна/узвар"
+		}
+	],
+	"dealAll": true
+}

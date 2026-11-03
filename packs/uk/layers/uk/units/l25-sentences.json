@@ -1,0 +1,14 @@
+{
+	"title": "Говоримо про святкування",
+	"summary": "Змініть слово в дужках. Після з/із/зі у привітанні — орудний, після до — родовий відмінок.",
+	"cells": {
+		"holiday-inst": {},
+		"christmas-gen": {},
+		"easter-gen": {},
+		"tradition-inst": {},
+		"present-inst": {},
+		"pysanka-inst": {},
+		"carol-inst": {},
+		"uzvar-inst": {}
+	}
+}

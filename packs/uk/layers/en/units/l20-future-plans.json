@@ -1,0 +1,30 @@
+{
+	"title": "Future travel plans",
+	"summary": "Perfective future, two imperfective variants and the present for a scheduled plan.",
+	"cells": {
+		"i": {
+			"sentenceGloss": "Tomorrow I will go to the gallery."
+		},
+		"we": {
+			"sentenceGloss": "After the tour we will go to a coffee shop."
+		},
+		"you": {
+			"sentenceGloss": "On Saturday you will go to an exhibition."
+		},
+		"they": {
+			"sentenceGloss": "Next week they will go to a museum."
+		},
+		"walk": {
+			"sentenceGloss": "In the evening I will be walking along the river."
+		},
+		"walkwe": {
+			"sentenceGloss": "Tomorrow we will be walking slowly."
+		},
+		"read": {
+			"sentenceGloss": "On the train I will read a guidebook."
+		},
+		"planned": {
+			"sentenceGloss": "Tomorrow morning I am travelling to Lviv."
+		}
+	}
+}

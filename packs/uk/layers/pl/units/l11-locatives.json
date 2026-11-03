@@ -1,0 +1,16 @@
+{
+	"title": "Miejscownik: części ciała",
+	"headers": {
+		"hand": "ręka",
+		"leg": "noga",
+		"head": "głowa",
+		"eye": "oko",
+		"ear": "ucho",
+		"shoulder": "ramię",
+		"knee": "kolano",
+		"finger": "palec",
+		"c0": "na/w jednym (miejscownik)",
+		"c1": "na/w kilku (miejscownik)"
+	},
+	"summary": "Nagłówki podają mianownik. Uzupełnij miejscownik; zwróć uwagę na wymiany spółgłosek i liczbę mnogą."
+}

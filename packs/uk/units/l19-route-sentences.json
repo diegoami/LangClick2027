@@ -1,0 +1,103 @@
+{
+	"id": "l19-route-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"cells": [
+		{
+			"id": "hotel",
+			"item": "sentence:l19-route-sentences:hotel",
+			"text": "готелю",
+			"sentence": "Від зупинки до ___ лише сто метрів. (готель)",
+			"display": "готе́лю"
+		},
+		{
+			"id": "museum",
+			"item": "sentence:l19-route-sentences:museum",
+			"text": "музею",
+			"sentence": "Біля ___ стоїть автобус. (музей)",
+			"display": "музе́ю"
+		},
+		{
+			"id": "corner",
+			"item": "sentence:l19-route-sentences:corner",
+			"text": "рогом",
+			"sentence": "Аптека за ___. (ріг)",
+			"display": "ро́гом"
+		},
+		{
+			"id": "oncorner",
+			"item": "sentence:l19-route-sentences:oncorner",
+			"text": "розі",
+			"sentence": "Кіоск на ___ двох вулиць. (ріг)",
+			"display": "ро́зі"
+		},
+		{
+			"id": "left",
+			"item": "sentence:l19-route-sentences:left",
+			"text": "ліворуч",
+			"sentence": "Поверніть ___. (у бік лівої руки)",
+			"display": "ліво́руч",
+			"alsoAccepted": ["наліво"]
+		},
+		{
+			"id": "right",
+			"item": "sentence:l19-route-sentences:right",
+			"text": "праворуч",
+			"sentence": "Далі поверніть ___. (у бік правої руки)",
+			"display": "право́руч",
+			"alsoAccepted": ["направо"]
+		},
+		{
+			"id": "straight",
+			"item": "sentence:l19-route-sentences:straight",
+			"text": "прямо",
+			"sentence": "Ідіть ___ до парку. (без поворотів)",
+			"display": "пря́мо"
+		},
+		{
+			"id": "street",
+			"item": "sentence:l19-route-sentences:street",
+			"text": "вулицю",
+			"sentence": "Переходьте ___ на зелене світло. (вулиця)",
+			"display": "ву́лицю"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 19 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@51a9938682834cc0b4366dd3c864b0b8"
+		},
+		{
+			"title": "Горох: готель",
+			"url": "https://goroh.pp.ua/Словозміна/готель"
+		},
+		{
+			"title": "Горох: музей",
+			"url": "https://goroh.pp.ua/Словозміна/музей"
+		},
+		{
+			"title": "Горох: ріг",
+			"url": "https://goroh.pp.ua/Словозміна/ріг"
+		},
+		{
+			"title": "Горох: ліворуч",
+			"url": "https://goroh.pp.ua/Словозміна/ліворуч"
+		},
+		{
+			"title": "Горох: праворуч",
+			"url": "https://goroh.pp.ua/Словозміна/праворуч"
+		},
+		{
+			"title": "Горох: прямо",
+			"url": "https://goroh.pp.ua/Словозміна/прямо"
+		},
+		{
+			"title": "Горох: вулиця",
+			"url": "https://goroh.pp.ua/Словозміна/вулиця"
+		}
+	]
+}

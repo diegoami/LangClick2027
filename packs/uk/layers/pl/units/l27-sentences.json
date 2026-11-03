@@ -1,0 +1,54 @@
+{
+	"title": "Czasowniki nauki i przypadki",
+	"summary": "Wyraz w nawiasie wyznacza leksem. Вчити/вивчати co? — biernik, inaczej niż polskie uczyć się czegoś. Навчати kogo? — biernik, czego? — dopełniacz. Керувати/завідувати wymagają narzędnika, a директор/завідувач — dopełniacza.",
+	"cells": {
+		"study-math": {
+			"sentenceGloss": "Uczę się matematyki."
+		},
+		"learn-topic": {
+			"sentenceGloss": "Uczymy się nowego tematu."
+		},
+		"teach-math": {
+			"sentenceGloss": "Ona uczy dzieci matematyki."
+		},
+		"teach-student": {
+			"sentenceGloss": "Wykładowca uczy nowego studenta."
+		},
+		"teach-physics": {
+			"sentenceGloss": "Przyjaciółka uczy mnie fizyki."
+		},
+		"manage-school": {
+			"sentenceGloss": "Dyrektor kieruje szkołą."
+		},
+		"head-college": {
+			"sentenceGloss": "On kieruje technikum."
+		},
+		"director-school": {
+			"sentenceGloss": "To gabinet dyrektora szkoły."
+		},
+		"head-department": {
+			"sentenceGloss": "Na zebranie przyszedł kierownik katedry."
+		},
+		"acquire-education": {
+			"sentenceGloss": "Olena zdobywa wyższe wykształcenie."
+		},
+		"knowledge-dat": {
+			"sentenceGloss": "Dzięki szerokiej wiedzy wyjaśnił trudny temat."
+		},
+		"paint-inst": {
+			"sentenceGloss": "Dziecko maluje jaskrawymi farbami."
+		},
+		"hues-inst": {
+			"sentenceGloss": "Podziwiamy jesienne barwy."
+		},
+		"scissors-gen": {
+			"sentenceGloss": "W piórniku nie ma nożyczek."
+		},
+		"notebook-loc": {
+			"sentenceGloss": "Ołeh zapisał regułę w zeszycie."
+		},
+		"ruler-inst": {
+			"sentenceGloss": "Prostą linię wygodnie rysuje się linijką."
+		}
+	}
+}

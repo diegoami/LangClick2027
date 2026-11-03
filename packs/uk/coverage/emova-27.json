@@ -123,87 +123,281 @@
 		{
 			"number": 11,
 			"title": "Назви частин тіла",
-			"units": []
+			"units": ["l11-words", "l11-locatives", "l11-sentences"],
+			"status": "core-mapped",
+			"scope": [
+				"Body and face vocabulary",
+				"Locative singular and plural",
+				"Consonant alternations and irregular body plurals"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Original factual vocabulary and grammar practice; free narrative writing, idioms, listening and literary/cultural source exercises stay in the linked course."
 		},
 		{
 			"number": 12,
 			"title": "Вигляд. Зовнішність",
-			"units": []
+			"units": ["l12-words", "l12-agreement", "l12-sentences", "colours"],
+			"status": "core-mapped",
+			"scope": [
+				"Build, height and complexion",
+				"Hair, eyes and facial features",
+				"Nominative adjective agreement and descriptions"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Original factual vocabulary and grammar practice; free narrative writing, idioms, listening and literary/cultural source exercises stay in the linked course."
 		},
 		{
 			"number": 13,
 			"title": "Одяг і розмір",
-			"units": []
+			"units": ["l13-words", "l13-sizes", "l13-sentences"],
+			"status": "core-mapped",
+			"scope": [
+				"Clothing and footwear",
+				"Choosing, trying and putting on clothing",
+				"Ordinal sizes in nominative and genitive"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Original factual vocabulary and grammar practice; free narrative writing, idioms, listening and literary/cultural source exercises stay in the linked course."
 		},
 		{
 			"number": 14,
 			"title": "Мій дім",
-			"units": ["kimnata"]
+			"units": ["l14-words", "l14-sentences", "kimnata", "kimnata-sentences"],
+			"status": "core-mapped",
+			"scope": [
+				"Rooms and parts of a home",
+				"Furniture and household appliances",
+				"Location with genitive, instrumental and locative"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Original factual vocabulary and grammar practice; free narrative writing, idioms, listening and literary/cultural source exercises stay in the linked course."
 		},
 		{
 			"number": 15,
 			"title": "Супермаркет. Продукти",
-			"units": []
+			"units": ["l15-words", "l15-number", "l15-sentences"],
+			"status": "core-mapped",
+			"scope": [
+				"Groceries, quality and shelf life",
+				"Plant oil versus butter and sugar versus candy bowls",
+				"Noun number, mass meanings and plural-only nouns"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Original factual vocabulary and grammar practice; free narrative writing, idioms, listening and literary/cultural source exercises stay in the linked course."
 		},
 		{
 			"number": 16,
 			"title": "Страви і кухня",
-			"units": []
+			"units": ["l16-words", "l16-quantities", "l16-sentences", "final-voiced"],
+			"status": "core-mapped",
+			"scope": [
+				"Kitchenware and cooking verbs",
+				"Prepared dish versus serving platter",
+				"Genitive plural in weights and quantities"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Original factual vocabulary and grammar practice; free narrative writing, idioms, listening and literary/cultural source exercises stay in the linked course."
 		},
 		{
 			"number": 17,
 			"title": "Ресторан і гроші",
-			"units": []
+			"units": ["l17-words", "l17-order-pay"],
+			"status": "core-mapped",
+			"scope": [
+				"Restaurant ordering vocabulary",
+				"Polite ordering practice",
+				"Instrumental payment phrases",
+				"Currency agreement with amounts"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Source restaurant-history reading, personal dialogues and forum responses remain in eMova."
 		},
 		{
 			"number": 18,
 			"title": "Транспорт",
-			"units": []
+			"units": ["l18-words", "l18-motion", "l18-travel-sentences"],
+			"status": "core-mapped",
+			"scope": [
+				"Urban and intercity transport",
+				"Present forms of їхати and їздити",
+				"Specific versus repeated journeys",
+				"Місто versus місце and locative plurals",
+				"Transport instrumental"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Personal sentence rewriting, source pronunciation/listening and song activities remain in eMova."
 		},
 		{
 			"number": 19,
 			"title": "Орієнтація в місті. Будівлі",
-			"units": []
+			"units": ["l19-words", "l19-destinations", "l19-route-sentences"],
+			"status": "core-mapped",
+			"scope": [
+				"Buildings and urban landmarks",
+				"Directions and crossing a street",
+				"Genitive after до and біля",
+				"Street-corner forms ріг / рогом / розі"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Source map quests, creating live-map routes and forum activities remain in eMova."
 		},
 		{
 			"number": 20,
 			"title": "Подорожі. Міста України",
-			"units": []
+			"units": [
+				"l20-words",
+				"l20-perfective-future",
+				"l20-future-plans",
+				"future",
+				"future-sentences"
+			],
+			"status": "core-mapped",
+			"scope": [
+				"Travel and city-sight vocabulary",
+				"Simple perfective future",
+				"Synthetic and analytical imperfective future",
+				"Present forms for scheduled future plans"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Source city-tour listening, verb counting, city descriptions and personal recorded/forum plans remain in eMova. Historical tourist claims are not reproduced."
 		},
 		{
 			"number": 21,
 			"title": "Характер і прикметники",
-			"units": []
+			"units": [
+				"l21-words",
+				"l21-comparison",
+				"l21-superlative",
+				"l21-agreement",
+				"l21-adjective-kinds"
+			],
+			"status": "core-mapped",
+			"scope": [
+				"Character traits",
+				"Adjective gender, number and case agreement",
+				"Regular and irregular comparatives",
+				"Simple superlatives with най-",
+				"Expressive suffixes for intensity, partial quality and affection",
+				"Qualitative, relative and possessive adjective classes"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Source personal reflection, proverbs and song-based adjective collection remain in eMova. Suffix examples are learned as lexical words, not productive rules for every adjective."
 		},
 		{
 			"number": 22,
 			"title": "Хобі і дозвілля",
-			"units": []
+			"units": ["l22-words", "l22-leisure-sentences", "l22-leisure-verbs"],
+			"status": "core-mapped",
+			"scope": [
+				"Leisure and hobby categories",
+				"Time collocations with accusative, instrumental and dative",
+				"Likes with infinitives and interests with instrumental",
+				"Indeclinable хобі and adjective agreement",
+				"Сфера / галузь for fields of interest",
+				"Imperfective time-management and leisure verbs"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Source personal weekend descriptions, instrument-video listening and open discussion remain in eMova."
 		},
 		{
 			"number": 23,
 			"title": "Послуги (пошта, банк, бібліотека)",
-			"units": []
+			"units": ["l23-words", "l23-sentences", "present", "future", "kimnata", "brat"],
+			"status": "core-mapped",
+			"scope": [
+				"Post, bank and library vocabulary",
+				"Sender, recipient, letters and electronic attachments",
+				"Transfers, cashless payment and library registration",
+				"Service vocabulary in constrained case frames"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Source real-world conversations, composing and mailing a personal letter, envelope-address layout and forum tasks remain in eMova. Original practice covers the core vocabulary and case frames rather than copying its dialogues."
 		},
 		{
 			"number": 24,
 			"title": "Самопочуття",
-			"units": []
+			"units": [
+				"l24-words",
+				"l24-specialists-words",
+				"l24-medicines-words",
+				"l24-sentences",
+				"pronouns-personal",
+				"present",
+				"kimnata",
+				"brat"
+			],
+			"status": "core-mapped",
+			"scope": [
+				"Describing physical condition and common symptoms",
+				"Common diagnosis and examination vocabulary",
+				"Medical speciality names and dosage-form vocabulary",
+				"Agreement with болить / болять and case forms in appointments"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Source personal conversations and forum writing remain in eMova. The pack supplies language recall, not diagnosis or treatment instructions; it does not reproduce the source medical advice, emergency-number or exhaustive diagnostic claims."
 		},
 		{
 			"number": 25,
 			"title": "Державні та релігійні свята",
-			"units": []
+			"units": ["l25-words", "l25-calendar", "l25-sentences", "months", "l06-numbers"],
+			"status": "core-mapped",
+			"scope": [
+				"State, religious and family celebration vocabulary",
+				"Traditional holiday objects, food and greetings",
+				"Current civil holiday dates using neuter ordinals and genitive months",
+				"Calendar changes qualified against the older course and religious-calendar differences"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Source storytelling, the Didukh animation and personal forum discussions remain in eMova. Current civil dates supersede the old lesson calendar; no universal religious date or work-leave entitlement is asserted."
 		},
 		{
 			"number": 26,
 			"title": "Природа України",
-			"units": []
+			"units": [
+				"l26-words",
+				"l26-trees-words",
+				"l26-flowers-words",
+				"l26-sentences",
+				"kimnata",
+				"brat",
+				"vikno"
+			],
+			"status": "core-mapped",
+			"scope": [
+				"Landscapes, natural zones and compass directions",
+				"Trees, shrubs, berries and flower names",
+				"Nature vocabulary in singular/plural case frames",
+				"Dictionary correction of явір and distinction of ялиця / смерека"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Source song/video listening, tourism discussion and source-specific ecological or reserve-status claims remain in eMova. Original practice covers the named plant groups and landscape language rather than reproducing the geographic lecture."
 		},
 		{
 			"number": 27,
 			"title": "Усе про навчання",
-			"units": []
+			"units": [
+				"l27-words",
+				"l27-present",
+				"l27-present-teach",
+				"l27-reflexive-endings",
+				"l27-imperative",
+				"l27-sentences",
+				"l27-imperative-sentences",
+				"present",
+				"present-sentences",
+				"consonant-chart"
+			],
+			"status": "core-mapped",
+			"scope": [
+				"Study objects and stationery with accepted synonyms",
+				"Five study/teach verb present paradigms including reflexives",
+				"Active pronunciation-to-spelling recall of -шся / -ться",
+				"Two imperative patterns across ти / ми / ви with stress and stem changes",
+				"Accusative/genitive/instrumental government of study verbs and occupational nouns",
+				"Dictionary-qualified фарба / барва, рисувати and краска usage"
+			],
+			"scopeEvidence": "Full signed-in lesson notes and task text inspected with explicit owner authorization. Core vocabulary and usage objectives mapped to original practice; dictionary sources determine forms and stress.",
+			"boundary": "Source learning-strategy articles, external videos, historical PISA discussion and personal forum tasks remain in eMova. Dictionary sources qualify the course’s overly categorical vocabulary claims; original practice covers its explicit grammar."
 		}
 	]
 }

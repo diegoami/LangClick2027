@@ -1,0 +1,99 @@
+{
+	"title": "Одежда и обувь",
+	"cells": {
+		"odyah": {
+			"clue": "одежда"
+		},
+		"vzuttya": {
+			"clue": "обувь"
+		},
+		"spidnytsya": {
+			"clue": "юбка"
+		},
+		"suknya": {
+			"clue": "платье"
+		},
+		"bluzka": {
+			"clue": "блузка"
+		},
+		"zhaket": {
+			"clue": "женский жакет"
+		},
+		"kardyhan": {
+			"clue": "кардиган"
+		},
+		"nichna-sorochka": {
+			"clue": "ночная сорочка"
+		},
+		"pidzhak": {
+			"clue": "пиджак"
+		},
+		"kravatka": {
+			"clue": "галстук"
+		},
+		"metelyk": {
+			"clue": "галстук-бабочка"
+		},
+		"shtany": {
+			"clue": "брюки"
+		},
+		"sorochka": {
+			"clue": "рубашка"
+		},
+		"svetr": {
+			"clue": "свитер"
+		},
+		"palto": {
+			"clue": "пальто"
+		},
+		"plashch": {
+			"clue": "плащ"
+		},
+		"kapelyukh": {
+			"clue": "шляпа"
+		},
+		"kaptsi": {
+			"clue": "домашние тапочки"
+		},
+		"bosonizhky": {
+			"clue": "босоножки"
+		},
+		"tufli": {
+			"clue": "туфли"
+		},
+		"krosivky": {
+			"clue": "кроссовки"
+		},
+		"kedy": {
+			"clue": "кеды"
+		},
+		"choboty": {
+			"clue": "сапоги"
+		},
+		"cherevyky": {
+			"clue": "ботинки"
+		},
+		"namysto": {
+			"clue": "бусы"
+		},
+		"rozmir": {
+			"clue": "размер одежды"
+		},
+		"vybyraty": {
+			"clue": "выбирать"
+		},
+		"miryaty": {
+			"clue": "примерять"
+		},
+		"kupuvaty": {
+			"clue": "покупать"
+		},
+		"odyahatysya": {
+			"clue": "одеваться"
+		},
+		"vzuvatysya": {
+			"clue": "обуваться"
+		}
+	},
+	"summary": "Вспомните одежду, обувь и глаголы покупки. Нужны начальные формы; глаголы в инфинитиве несовершенного вида."
+}

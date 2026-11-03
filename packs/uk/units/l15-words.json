@@ -1,0 +1,375 @@
+{
+	"id": "l15-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 33
+	},
+	"cells": [
+		{
+			"id": "zakupy",
+			"item": "word:zakupy",
+			"text": "закупи",
+			"display": "за́купи"
+		},
+		{
+			"id": "khlibyna",
+			"item": "word:khlibyna",
+			"text": "хлібина",
+			"display": "хліби́на",
+			"alsoAccepted": ["буханець", "буханка"]
+		},
+		{
+			"id": "plyashka",
+			"item": "word:plyashka",
+			"text": "пляшка",
+			"display": "пля́шка"
+		},
+		{
+			"id": "yakist",
+			"item": "word:yakist",
+			"text": "якість",
+			"display": "я́кість"
+		},
+		{
+			"id": "termin-prydatnosti",
+			"item": "word:termin-prydatnosti",
+			"text": "термін придатності",
+			"display": "те́рмін прида́тності"
+		},
+		{
+			"id": "koshtuvaty",
+			"item": "word:koshtuvaty",
+			"text": "коштувати",
+			"display": "ко́штува́ти"
+		},
+		{
+			"id": "svizhyy",
+			"item": "word:svizhyy",
+			"text": "свіжий",
+			"display": "сві́жий"
+		},
+		{
+			"id": "oliya",
+			"item": "word:oliya",
+			"text": "олія",
+			"display": "олі́я"
+		},
+		{
+			"id": "maslo",
+			"item": "word:maslo",
+			"text": "масло",
+			"display": "ма́сло"
+		},
+		{
+			"id": "krip",
+			"item": "word:krip",
+			"text": "кріп"
+		},
+		{
+			"id": "petrushka",
+			"item": "word:petrushka",
+			"text": "петрушка",
+			"display": "петру́шка"
+		},
+		{
+			"id": "bazylik",
+			"item": "word:bazylik",
+			"text": "базилік",
+			"display": "базилі́к"
+		},
+		{
+			"id": "kartoplya",
+			"item": "word:kartoplya",
+			"text": "картопля",
+			"display": "карто́пля",
+			"alsoAccepted": ["бульба"]
+		},
+		{
+			"id": "buryak",
+			"item": "word:buryak",
+			"text": "буряк",
+			"display": "буря́к"
+		},
+		{
+			"id": "tsybulya",
+			"item": "word:tsybulya",
+			"text": "цибуля",
+			"display": "цибу́ля"
+		},
+		{
+			"id": "chasnyk",
+			"item": "word:chasnyk",
+			"text": "часник",
+			"display": "часни́к"
+		},
+		{
+			"id": "morkva",
+			"item": "word:morkva",
+			"text": "морква",
+			"display": "мо́рква"
+		},
+		{
+			"id": "kvasolya",
+			"item": "word:kvasolya",
+			"text": "квасоля",
+			"display": "квасо́ля"
+		},
+		{
+			"id": "kavun",
+			"item": "word:kavun",
+			"text": "кавун",
+			"display": "каву́н"
+		},
+		{
+			"id": "dynya",
+			"item": "word:dynya",
+			"text": "диня",
+			"display": "ди́ня"
+		},
+		{
+			"id": "polunytsya",
+			"item": "word:polunytsya",
+			"text": "полуниця",
+			"display": "полуни́ця"
+		},
+		{
+			"id": "vyshnya",
+			"item": "word:vyshnya",
+			"text": "вишня",
+			"display": "ви́шня"
+		},
+		{
+			"id": "agrus",
+			"item": "word:agrus",
+			"text": "аґрус",
+			"display": "а́ґрус"
+		},
+		{
+			"id": "vershky",
+			"item": "word:vershky",
+			"text": "вершки",
+			"display": "вершки́"
+		},
+		{
+			"id": "morozyvo",
+			"item": "word:morozyvo",
+			"text": "морозиво",
+			"display": "моро́зиво"
+		},
+		{
+			"id": "boroshno",
+			"item": "word:boroshno",
+			"text": "борошно",
+			"display": "бо́рошно"
+		},
+		{
+			"id": "tsukor",
+			"item": "word:tsukor",
+			"text": "цукор",
+			"display": "цу́кор"
+		},
+		{
+			"id": "sil",
+			"item": "word:sil",
+			"text": "сіль"
+		},
+		{
+			"id": "zhushchene-moloko",
+			"item": "word:zhushchene-moloko",
+			"text": "згущене молоко",
+			"display": "згу́щене молоко́"
+		},
+		{
+			"id": "makarony",
+			"item": "word:makarony",
+			"text": "макарони",
+			"display": "макаро́ни"
+		},
+		{
+			"id": "solodoshchi",
+			"item": "word:solodoshchi",
+			"text": "солодощі",
+			"display": "со́лодощі",
+			"alsoAccepted": ["ласощі"]
+		},
+		{
+			"id": "tsukornytsya",
+			"item": "word:tsukornytsya",
+			"text": "цукорниця",
+			"display": "цу́корниця"
+		},
+		{
+			"id": "tsukernytsya",
+			"item": "word:tsukernytsya",
+			"text": "цукерниця",
+			"display": "цуке́рниця"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 15. Супермаркет. Продукти",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6b704c57dfe3481caab0bbe69ab68a2b"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: закупи",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%B8"
+		},
+		{
+			"title": "Горох: хлібина",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%85%D0%BB%D1%96%D0%B1%D0%B8%D0%BD%D0%B0"
+		},
+		{
+			"title": "Горох: пляшка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BB%D1%8F%D1%88%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: якість",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%8F%D0%BA%D1%96%D1%81%D1%82%D1%8C"
+		},
+		{
+			"title": "Горох: коштувати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BE%D1%88%D1%82%D1%83%D0%B2%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: свіжий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%B2%D1%96%D0%B6%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: олія",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%BB%D1%96%D1%8F"
+		},
+		{
+			"title": "Горох: масло",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B0%D1%81%D0%BB%D0%BE"
+		},
+		{
+			"title": "Горох: кріп",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%80%D1%96%D0%BF"
+		},
+		{
+			"title": "Горох: петрушка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%B5%D1%82%D1%80%D1%83%D1%88%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: базилік",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D0%B0%D0%B7%D0%B8%D0%BB%D1%96%D0%BA"
+		},
+		{
+			"title": "Горох: картопля",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D0%BF%D0%BB%D1%8F"
+		},
+		{
+			"title": "Горох: буряк",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D1%83%D1%80%D1%8F%D0%BA"
+		},
+		{
+			"title": "Горох: цибуля",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%86%D0%B8%D0%B1%D1%83%D0%BB%D1%8F"
+		},
+		{
+			"title": "Горох: часник",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%87%D0%B0%D1%81%D0%BD%D0%B8%D0%BA"
+		},
+		{
+			"title": "Горох: морква",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%BE%D1%80%D0%BA%D0%B2%D0%B0"
+		},
+		{
+			"title": "Горох: квасоля",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B2%D0%B0%D1%81%D0%BE%D0%BB%D1%8F"
+		},
+		{
+			"title": "Горох: кавун",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B0%D0%B2%D1%83%D0%BD"
+		},
+		{
+			"title": "Горох: диня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B8%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: полуниця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%BB%D1%83%D0%BD%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: вишня",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B8%D1%88%D0%BD%D1%8F"
+		},
+		{
+			"title": "Горох: аґрус",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B0%D2%91%D1%80%D1%83%D1%81"
+		},
+		{
+			"title": "Горох: вершки",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B5%D1%80%D1%88%D0%BA%D0%B8"
+		},
+		{
+			"title": "Горох: морозиво",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%BE%D1%80%D0%BE%D0%B7%D0%B8%D0%B2%D0%BE"
+		},
+		{
+			"title": "Горох: борошно",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D0%BE%D1%80%D0%BE%D1%88%D0%BD%D0%BE"
+		},
+		{
+			"title": "Горох: цукор",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%86%D1%83%D0%BA%D0%BE%D1%80"
+		},
+		{
+			"title": "Горох: сіль",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%96%D0%BB%D1%8C"
+		},
+		{
+			"title": "Горох: макарони",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%BD%D0%B8"
+		},
+		{
+			"title": "Горох: солодощі",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%89%D1%96"
+		},
+		{
+			"title": "Горох: цукорниця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%86%D1%83%D0%BA%D0%BE%D1%80%D0%BD%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: цукерниця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%86%D1%83%D0%BA%D0%B5%D1%80%D0%BD%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: термін",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%B5%D1%80%D0%BC%D1%96%D0%BD"
+		},
+		{
+			"title": "Горох: придатність",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%80%D0%B8%D0%B4%D0%B0%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C"
+		},
+		{
+			"title": "Горох: згущений",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D0%B3%D1%83%D1%89%D0%B5%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: молоко",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE"
+		},
+		{
+			"title": "Горох: бульба",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D1%83%D0%BB%D1%8C%D0%B1%D0%B0"
+		},
+		{
+			"title": "СУМ: бульба",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%B1%D1%83%D0%BB%D1%8C%D0%B1%D0%B0"
+		},
+		{
+			"title": "Горох: академічні словникові значення — солодощі",
+			"url": "https://goroh.pp.ua/Тлумачення/солодощі"
+		},
+		{
+			"title": "СУМ-11: словникові значення цукерниця",
+			"url": "https://goroh.pp.ua/Тлумачення/цукерниця"
+		}
+	]
+}

@@ -1,0 +1,190 @@
+{
+	"id": "l12-agreement",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["round", "pale", "curly", "brown"],
+		"columns": ["c0", "c1", "c2", "c3"]
+	},
+	"cells": [
+		{
+			"id": "round.c0",
+			"item": "l12:agreement:round:c0",
+			"text": "круглий",
+			"row": "round",
+			"col": "c0",
+			"display": "кру́глий"
+		},
+		{
+			"id": "round.c1",
+			"item": "l12:agreement:round:c1",
+			"text": "кругла",
+			"row": "round",
+			"col": "c1",
+			"display": "кру́гла"
+		},
+		{
+			"id": "round.c2",
+			"item": "l12:agreement:round:c2",
+			"text": "кругле",
+			"row": "round",
+			"col": "c2",
+			"display": "кру́гле"
+		},
+		{
+			"id": "round.c3",
+			"item": "l12:agreement:round:c3",
+			"text": "круглі",
+			"row": "round",
+			"col": "c3",
+			"display": "кру́глі"
+		},
+		{
+			"id": "pale.c0",
+			"item": "l12:agreement:pale:c0",
+			"text": "блідий",
+			"row": "pale",
+			"col": "c0",
+			"display": "бліди́й"
+		},
+		{
+			"id": "pale.c1",
+			"item": "l12:agreement:pale:c1",
+			"text": "бліда",
+			"row": "pale",
+			"col": "c1",
+			"display": "бліда́"
+		},
+		{
+			"id": "pale.c2",
+			"item": "l12:agreement:pale:c2",
+			"text": "бліде",
+			"row": "pale",
+			"col": "c2",
+			"display": "бліде́"
+		},
+		{
+			"id": "pale.c3",
+			"item": "l12:agreement:pale:c3",
+			"text": "бліді",
+			"row": "pale",
+			"col": "c3",
+			"display": "бліді́"
+		},
+		{
+			"id": "curly.c0",
+			"item": "l12:agreement:curly:c0",
+			"text": "кучерявий",
+			"row": "curly",
+			"col": "c0",
+			"display": "кучеря́вий"
+		},
+		{
+			"id": "curly.c1",
+			"item": "l12:agreement:curly:c1",
+			"text": "кучерява",
+			"row": "curly",
+			"col": "c1",
+			"display": "кучеря́ва"
+		},
+		{
+			"id": "curly.c2",
+			"item": "l12:agreement:curly:c2",
+			"text": "кучеряве",
+			"row": "curly",
+			"col": "c2",
+			"display": "кучеря́ве"
+		},
+		{
+			"id": "curly.c3",
+			"item": "l12:agreement:curly:c3",
+			"text": "кучеряві",
+			"row": "curly",
+			"col": "c3",
+			"display": "кучеря́ві"
+		},
+		{
+			"id": "brown.c0",
+			"item": "l12:agreement:brown:c0",
+			"text": "карий",
+			"row": "brown",
+			"col": "c0",
+			"display": "ка́рий"
+		},
+		{
+			"id": "brown.c1",
+			"item": "l12:agreement:brown:c1",
+			"text": "кара",
+			"row": "brown",
+			"col": "c1",
+			"display": "ка́ра"
+		},
+		{
+			"id": "brown.c2",
+			"item": "l12:agreement:brown:c2",
+			"text": "каре",
+			"row": "brown",
+			"col": "c2",
+			"display": "ка́ре"
+		},
+		{
+			"id": "brown.c3",
+			"item": "l12:agreement:brown:c3",
+			"text": "карі",
+			"row": "brown",
+			"col": "c3",
+			"display": "ка́рі"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 12. Вигляд. Зовнішність",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@72adf46097a34ccb971c1ca84c0aa004"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: круглий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: блідий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D0%BB%D1%96%D0%B4%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: кучерявий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%83%D1%87%D0%B5%D1%80%D1%8F%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: карий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B0%D1%80%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: хвилястий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%85%D0%B2%D0%B8%D0%BB%D1%8F%D1%81%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: густий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D1%83%D1%81%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: пухкий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%83%D1%85%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: високий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: зріст",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D1%80%D1%96%D1%81%D1%82"
+		},
+		{
+			"title": "Горох: статура",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%80%D0%B0"
+		}
+	]
+}

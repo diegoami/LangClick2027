@@ -1,0 +1,14 @@
+{
+	"title": "Adjective agreement",
+	"headers": {
+		"round": "round",
+		"pale": "pale",
+		"curly": "curly",
+		"brown": "brown (eyes)",
+		"c0": "masculine",
+		"c1": "feminine",
+		"c2": "neuter",
+		"c3": "plural"
+	},
+	"summary": "Nominative forms: a male person, a female person, a face, and eyes/hair strands. Ukrainian волосся is neuter singular."
+}

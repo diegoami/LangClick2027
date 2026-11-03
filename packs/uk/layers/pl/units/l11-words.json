@@ -1,0 +1,150 @@
+{
+	"title": "Ciało i twarz",
+	"cells": {
+		"tilo": {
+			"clue": "ciało"
+		},
+		"shkira": {
+			"clue": "skóra"
+		},
+		"holova": {
+			"clue": "głowa"
+		},
+		"makivka": {
+			"clue": "czubek głowy"
+		},
+		"vukho": {
+			"clue": "ucho"
+		},
+		"skronya": {
+			"clue": "skroń"
+		},
+		"vylytsya": {
+			"clue": "kość policzkowa"
+		},
+		"potylytsya": {
+			"clue": "potylica"
+		},
+		"volossya": {
+			"clue": "włosy"
+		},
+		"volosyna": {
+			"clue": "pojedynczy włos"
+		},
+		"pasmo": {
+			"clue": "pasmo włosów"
+		},
+		"zachiska": {
+			"clue": "fryzura"
+		},
+		"shyya": {
+			"clue": "szyja"
+		},
+		"horlo": {
+			"clue": "gardło"
+		},
+		"pidboriddya": {
+			"clue": "podbródek"
+		},
+		"shchelepa": {
+			"clue": "szczęka"
+		},
+		"zub": {
+			"clue": "ząb"
+		},
+		"yasna": {
+			"clue": "dziąsła (liczba mnoga)"
+		},
+		"oblychchya": {
+			"clue": "twarz"
+		},
+		"lob": {
+			"clue": "czoło"
+		},
+		"brova": {
+			"clue": "brew"
+		},
+		"oko": {
+			"clue": "oko"
+		},
+		"viya": {
+			"clue": "rzęsa"
+		},
+		"pohlyad": {
+			"clue": "spojrzenie"
+		},
+		"nis": {
+			"clue": "nos"
+		},
+		"shchoka": {
+			"clue": "policzek"
+		},
+		"huba": {
+			"clue": "warga"
+		},
+		"rot": {
+			"clue": "usta"
+		},
+		"yazyk": {
+			"clue": "język (narząd)"
+		},
+		"tulub": {
+			"clue": "tułów"
+		},
+		"pleche": {
+			"clue": "ramię przy barku"
+		},
+		"hrudna-klityna": {
+			"clue": "klatka piersiowa"
+		},
+		"hrudy": {
+			"clue": "pierś, klatka piersiowa (ukr. liczba mnoga)"
+		},
+		"rebro": {
+			"clue": "żebro"
+		},
+		"zhyvit": {
+			"clue": "brzuch"
+		},
+		"taliya": {
+			"clue": "talia"
+		},
+		"spyna": {
+			"clue": "plecy"
+		},
+		"khrebet": {
+			"clue": "kręgosłup"
+		},
+		"poperek": {
+			"clue": "okolica lędźwiowa"
+		},
+		"kryzhi": {
+			"clue": "okolica krzyżowa (ukr. liczba mnoga)"
+		},
+		"stehno": {
+			"clue": "udo"
+		},
+		"ruka": {
+			"clue": "ręka, kończyna górna"
+		},
+		"dolonya": {
+			"clue": "dłoń od strony wewnętrznej"
+		},
+		"likot": {
+			"clue": "łokieć"
+		},
+		"noha": {
+			"clue": "noga"
+		},
+		"kolino": {
+			"clue": "kolano"
+		},
+		"stopa": {
+			"clue": "stopa"
+		},
+		"palets": {
+			"clue": "palec ręki lub nogi"
+		}
+	},
+	"summary": "Powtórz części ciała i twarzy. Podaj formę słownikową; rzeczowniki tylko w liczbie mnogiej zachowują tę liczbę."
+}

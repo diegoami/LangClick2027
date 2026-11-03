@@ -1,0 +1,222 @@
+{
+	"id": "l15-number",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": ["beet", "borshch", "drink", "juice", "sausage", "bowl", "pot", "tray", "egg"],
+		"columns": ["c0", "c1"]
+	},
+	"cells": [
+		{
+			"id": "beet.c0",
+			"item": "l15:number:beet:c0",
+			"text": "буряк",
+			"row": "beet",
+			"col": "c0",
+			"display": "буря́к"
+		},
+		{
+			"id": "beet.c1",
+			"item": "l15:number:beet:c1",
+			"text": "буряки",
+			"row": "beet",
+			"col": "c1",
+			"display": "буряки́"
+		},
+		{
+			"id": "borshch.c0",
+			"item": "l15:number:borshch:c0",
+			"text": "борщ",
+			"row": "borshch",
+			"col": "c0"
+		},
+		{
+			"id": "borshch.c1",
+			"item": "l15:number:borshch:c1",
+			"text": "борщі",
+			"row": "borshch",
+			"col": "c1",
+			"display": "борщі́"
+		},
+		{
+			"id": "drink.c0",
+			"item": "l15:number:drink:c0",
+			"text": "напій",
+			"row": "drink",
+			"col": "c0",
+			"display": "напі́й"
+		},
+		{
+			"id": "drink.c1",
+			"item": "l15:number:drink:c1",
+			"text": "напої",
+			"row": "drink",
+			"col": "c1",
+			"display": "напо́ї"
+		},
+		{
+			"id": "juice.c0",
+			"item": "l15:number:juice:c0",
+			"text": "сік",
+			"row": "juice",
+			"col": "c0"
+		},
+		{
+			"id": "juice.c1",
+			"item": "l15:number:juice:c1",
+			"text": "соки",
+			"row": "juice",
+			"col": "c1",
+			"display": "соки́"
+		},
+		{
+			"id": "sausage.c0",
+			"item": "l15:number:sausage:c0",
+			"text": "ковбаса",
+			"row": "sausage",
+			"col": "c0",
+			"display": "ковбаса́"
+		},
+		{
+			"id": "sausage.c1",
+			"item": "l15:number:sausage:c1",
+			"text": "ковбаси",
+			"row": "sausage",
+			"col": "c1",
+			"display": "ковба́си"
+		},
+		{
+			"id": "bowl.c0",
+			"item": "l15:number:bowl:c0",
+			"text": "цукорниця",
+			"row": "bowl",
+			"col": "c0",
+			"display": "цу́корниця",
+			"alsoAccepted": ["цукерниця"]
+		},
+		{
+			"id": "bowl.c1",
+			"item": "l15:number:bowl:c1",
+			"text": "цукорниці",
+			"row": "bowl",
+			"col": "c1",
+			"display": "цу́корниці",
+			"alsoAccepted": ["цукерниці"]
+		},
+		{
+			"id": "pot.c0",
+			"item": "l15:number:pot:c0",
+			"text": "каструля",
+			"row": "pot",
+			"col": "c0",
+			"display": "кастру́ля"
+		},
+		{
+			"id": "pot.c1",
+			"item": "l15:number:pot:c1",
+			"text": "каструлі",
+			"row": "pot",
+			"col": "c1",
+			"display": "кастру́лі"
+		},
+		{
+			"id": "tray.c0",
+			"item": "l15:number:tray:c0",
+			"text": "деко",
+			"row": "tray",
+			"col": "c0",
+			"display": "де́ко"
+		},
+		{
+			"id": "tray.c1",
+			"item": "l15:number:tray:c1",
+			"text": "дека",
+			"row": "tray",
+			"col": "c1",
+			"display": "де́ка"
+		},
+		{
+			"id": "egg.c0",
+			"item": "l15:number:egg:c0",
+			"text": "яйце",
+			"row": "egg",
+			"col": "c0",
+			"display": "яйце́"
+		},
+		{
+			"id": "egg.c1",
+			"item": "l15:number:egg:c1",
+			"text": "яйця",
+			"row": "egg",
+			"col": "c1",
+			"display": "я́йця"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 15. Супермаркет. Продукти",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6b704c57dfe3481caab0bbe69ab68a2b"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: буряк",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D1%83%D1%80%D1%8F%D0%BA"
+		},
+		{
+			"title": "Горох: борщ",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D0%BE%D1%80%D1%89"
+		},
+		{
+			"title": "Горох: напій",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D0%B0%D0%BF%D1%96%D0%B9"
+		},
+		{
+			"title": "Горох: сік",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%96%D0%BA"
+		},
+		{
+			"title": "Горох: ковбаса",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BE%D0%B2%D0%B1%D0%B0%D1%81%D0%B0"
+		},
+		{
+			"title": "Горох: цукорниця",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%86%D1%83%D0%BA%D0%BE%D1%80%D0%BD%D0%B8%D1%86%D1%8F"
+		},
+		{
+			"title": "Горох: каструля",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BB%D1%8F"
+		},
+		{
+			"title": "Горох: деко",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B5%D0%BA%D0%BE"
+		},
+		{
+			"title": "Горох: яйце",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%8F%D0%B9%D1%86%D0%B5"
+		},
+		{
+			"title": "Горох: олія",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%BB%D1%96%D1%8F"
+		},
+		{
+			"title": "Горох: масло",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%B0%D1%81%D0%BB%D0%BE"
+		},
+		{
+			"title": "Горох: придатність",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%80%D0%B8%D0%B4%D0%B0%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C"
+		},
+		{
+			"title": "Горох: коштувати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BE%D1%88%D1%82%D1%83%D0%B2%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: морква",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D0%BE%D1%80%D0%BA%D0%B2%D0%B0"
+		}
+	]
+}

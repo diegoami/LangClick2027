@@ -1,0 +1,42 @@
+{
+	"title": "Nature in sentences",
+	"summary": "Inflect the lemma. Adjectives and prepositions fix the case and number.",
+	"cells": {
+		"forest-gen": {
+			"sentenceGloss": "A small house stands near the forest."
+		},
+		"river-gen": {
+			"sentenceGloss": "It is a five-minute walk from the river to the village."
+		},
+		"lake-gen": {
+			"sentenceGloss": "Trees grow on the shore of the lake."
+		},
+		"mountains-loc": {
+			"sentenceGloss": "Our friends are holidaying in high mountains."
+		},
+		"pines-inst": {
+			"sentenceGloss": "The path runs between tall pines."
+		},
+		"willow-inst": {
+			"sentenceGloss": "There is a bench under the old willow."
+		},
+		"oak-gen": {
+			"sentenceGloss": "The hikers stopped near the old oak."
+		},
+		"lily-genpl": {
+			"sentenceGloss": "There is a bunch of lilies of the valley in the picture."
+		},
+		"flower-acc": {
+			"sentenceGloss": "The girl drew a bright flower."
+		},
+		"meadow-loc": {
+			"sentenceGloss": "In summer livestock graze on the mountain meadow."
+		},
+		"reserve-gen": {
+			"sentenceGloss": "We arrived at the nature reserve."
+		},
+		"nature-inst": {
+			"sentenceGloss": "The artist admires the local natural landscape."
+		}
+	}
+}

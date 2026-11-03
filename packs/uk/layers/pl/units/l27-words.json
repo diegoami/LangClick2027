@@ -1,0 +1,76 @@
+{
+	"title": "Nauka i przybory szkolne",
+	"summary": "Przybory do nauki. Блокнот i записник są bliskoznaczne; фломастер i маркер mogą się pokrywać. Фарба to farba jako substancja, барва często oznacza odcień, lecz znaczenia słownikowe są szersze. Рисувати może też znaczyć малювати.",
+	"cells": {
+		"navchannya": {
+			"clue": "uczenie się jako proces"
+		},
+		"pidruchnyk": {
+			"clue": "podręcznik"
+		},
+		"zoshyt": {
+			"clue": "zeszyt do prac pisemnych (wyraz zaczyna się od зош-)"
+		},
+		"olivets": {
+			"clue": "ołówek"
+		},
+		"ruchka": {
+			"clue": "długopis"
+		},
+		"osvita": {
+			"clue": "wykształcenie, oświata"
+		},
+		"znannya": {
+			"clue": "wiedza"
+		},
+		"bloknot": {
+			"clue": "notes (ukraiński wyraz zaczyna się od блок-)"
+		},
+		"shchodennyk": {
+			"clue": "dziennik; dzienniczek szkolny"
+		},
+		"orhanayzer": {
+			"clue": "organizer do planowania"
+		},
+		"flomaster": {
+			"clue": "flamaster"
+		},
+		"zakladka": {
+			"clue": "zakładka do książki"
+		},
+		"penal": {
+			"clue": "piórnik"
+		},
+		"liniyka": {
+			"clue": "linijka jako przyrząd"
+		},
+		"humka": {
+			"clue": "gumka do ścierania (jedno słowo)"
+		},
+		"nozhytsi": {
+			"clue": "nożyczki (liczba mnoga)"
+		},
+		"albom": {
+			"clue": "album do rysowania"
+		},
+		"farba": {
+			"clue": "farba jako substancja"
+		},
+		"posibnyk": {
+			"clue": "pomoc dydaktyczna; poradnik do nauki"
+		},
+		"rozdrukivka": {
+			"clue": "wydruk"
+		},
+		"liniya": {
+			"clue": "linia jako pojęcie geometryczne"
+		},
+		"kafedra": {
+			"clue": "katedra uczelniana"
+		},
+		"nalipka": {
+			"clue": "karteczka samoprzylepna",
+			"note": "Rodzimy odpowiednik zapożyczonej nazwy naklejki z kursu. Słownik odmiany podaje налі́пка, a SUM20 — на́ліпка. Tu stosujemy pierwszy wariant; równoważne наклейка także pasuje."
+		}
+	}
+}

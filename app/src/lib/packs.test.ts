@@ -125,10 +125,15 @@ describe.each(packIds)('pack %s', (packId) => {
 		for (const lesson of lessons) {
 			expect(lesson.units.filter((id) => !known.has(id))).toEqual([]);
 		}
-		const mapped = new Set(lessons.flatMap((lesson) => lesson.units));
-		for (const lesson of manifest.lessons) {
-			if (!lesson.id.startsWith('l')) continue;
-			for (const id of lesson.units) expect(mapped.has(id), id).toBe(true);
+		for (const mapped of lessons) {
+			expect(mapped.units.length, `lesson ${mapped.number} has practice`).toBeGreaterThan(0);
+			const lesson = manifest.lessons.find(
+				(entry) => entry.id === `l${String(mapped.number).padStart(2, '0')}`
+			);
+			expect(lesson, `lesson ${mapped.number} is offered`).toBeDefined();
+			for (const id of lesson!.units) {
+				expect(mapped.units, `lesson ${mapped.number}: ${id}`).toContain(id);
+			}
 		}
 	});
 

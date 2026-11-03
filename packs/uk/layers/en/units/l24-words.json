@@ -1,0 +1,96 @@
+{
+	"title": "Health and symptoms",
+	"summary": "Vocabulary for describing how you feel and understanding a doctor's questions. These are language exercises.",
+	"cells": {
+		"samopochuttya": {
+			"clue": "how one feels physically; general condition"
+		},
+		"zdorovya": {
+			"clue": "health"
+		},
+		"bil": {
+			"clue": "pain (masculine noun)"
+		},
+		"temperatura": {
+			"clue": "body temperature (one word)"
+		},
+		"kashel": {
+			"clue": "cough"
+		},
+		"nezhyt": {
+			"clue": "runny nose; rhinitis"
+		},
+		"zastuda": {
+			"clue": "a cold (illness)"
+		},
+		"liky": {
+			"clue": "medicines (plural noun)"
+		},
+		"apteka": {
+			"clue": "pharmacy"
+		},
+		"retsept": {
+			"clue": "medical prescription"
+		},
+		"likuvannya": {
+			"clue": "medical treatment"
+		},
+		"bolity": {
+			"clue": "to hurt; to ache"
+		},
+		"khvority": {
+			"clue": "to be ill"
+		},
+		"oduzhuvaty": {
+			"clue": "to recover from illness (imperfective)"
+		},
+		"sonlyvist": {
+			"clue": "drowsiness"
+		},
+		"badyoryy": {
+			"clue": "energetic; vigorous (masculine adjective)"
+		},
+		"nudota": {
+			"clue": "nausea"
+		},
+		"slabkist": {
+			"clue": "weakness; lack of physical strength"
+		},
+		"tysk": {
+			"clue": "blood pressure (one word)"
+		},
+		"lykhomanka": {
+			"clue": "fever with chills"
+		},
+		"hryp": {
+			"clue": "influenza; flu"
+		},
+		"anhina": {
+			"clue": "tonsillitis; angina of the throat"
+		},
+		"hastryt": {
+			"clue": "gastritis"
+		},
+		"pnevmoniya": {
+			"clue": "pneumonia (one word)"
+		},
+		"diahnoz": {
+			"clue": "diagnosis"
+		},
+		"symptom": {
+			"clue": "symptom"
+		},
+		"skarha": {
+			"clue": "patient's complaint (singular noun)"
+		},
+		"obstezhennya": {
+			"clue": "medical examination (noun)"
+		},
+		"analiz": {
+			"clue": "laboratory test (singular noun)"
+		},
+		"neduzhyy": {
+			"clue": "unwell; sick (masculine adjective)"
+		}
+	}
+}

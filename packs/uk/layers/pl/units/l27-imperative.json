@@ -1,0 +1,43 @@
+{
+	"title": "Tryb rozkazujący w instrukcjach",
+	"summary": "Podaj prostą formę rozkazującą wskazanego czasownika, bez dodatkowych partykuł. Porównaj -и/-імо/-іть oraz końcówkę zerową/-мо/-те. Zachowaj ь w сядь, кинь. Ukraińskie -мо nie odpowiada polskiemu -my litera po literze.",
+	"cells": {
+		"ty.pysaty": {},
+		"my.pysaty": {},
+		"vy.pysaty": {},
+		"ty.vypysaty": {},
+		"my.vypysaty": {},
+		"vy.vypysaty": {},
+		"ty.pidkreslyty": {},
+		"my.pidkreslyty": {},
+		"vy.pidkreslyty": {},
+		"ty.vykonuvaty": {},
+		"my.vykonuvaty": {},
+		"vy.vykonuvaty": {},
+		"ty.pereviryty": {},
+		"my.pereviryty": {},
+		"vy.pereviryty": {},
+		"ty.sisty": {},
+		"my.sisty": {},
+		"vy.sisty": {},
+		"ty.kynuty": {},
+		"my.kynuty": {},
+		"vy.kynuty": {},
+		"ty.zapovnyty": {},
+		"my.zapovnyty": {},
+		"vy.zapovnyty": {}
+	},
+	"headers": {
+		"ty": "ty: polecenie",
+		"my": "my: zachęta",
+		"vy": "wy/pan/pani: polecenie",
+		"pysaty": "писа́ти",
+		"vypysaty": "ви́писати",
+		"pidkreslyty": "підкре́слити",
+		"vykonuvaty": "вико́нувати",
+		"pereviryty": "переві́рити",
+		"sisty": "сі́сти",
+		"kynuty": "ки́нути",
+		"zapovnyty": "запо́внити"
+	}
+}

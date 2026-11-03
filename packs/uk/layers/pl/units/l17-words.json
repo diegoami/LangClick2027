@@ -1,0 +1,72 @@
+{
+	"title": "Restauracja i pieniądze",
+	"summary": "Słowa do zamawiania i płacenia.",
+	"cells": {
+		"restoran": {
+			"clue": "restauracja (ukr. rodzaj męski)"
+		},
+		"kav-yarnya": {
+			"clue": "kawiarnia"
+		},
+		"ofitsiant": {
+			"clue": "kelner (rodzaj męski)"
+		},
+		"menyu": {
+			"clue": "spis dań i cen"
+		},
+		"strava": {
+			"clue": "potrawa"
+		},
+		"rakhunok": {
+			"clue": "rachunek za posiłek"
+		},
+		"zamovlennya": {
+			"clue": "zamówienie u kelnera"
+		},
+		"chayovi": {
+			"clue": "napiwek"
+		},
+		"napiy": {
+			"clue": "napój"
+		},
+		"desert": {
+			"clue": "deser"
+		},
+		"bulyon": {
+			"clue": "bulion"
+		},
+		"espreso": {
+			"clue": "espresso"
+		},
+		"kapuchyno": {
+			"clue": "cappuccino"
+		},
+		"shokolad": {
+			"clue": "czekolada"
+		},
+		"vartist": {
+			"clue": "wartość, koszt"
+		},
+		"hotivka": {
+			"clue": "gotówka"
+		},
+		"kartka": {
+			"clue": "karta bankowa (jedno słowo)"
+		},
+		"reshta": {
+			"clue": "reszta wydana po zapłacie"
+		},
+		"hroshi": {
+			"clue": "pieniądze"
+		},
+		"hryvnya": {
+			"clue": "ukraińska jednostka pieniężna"
+		},
+		"kupyura": {
+			"clue": "banknot"
+		},
+		"moneta": {
+			"clue": "moneta"
+		}
+	}
+}

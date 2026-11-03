@@ -1,0 +1,24 @@
+{
+	"title": "Medicine forms",
+	"summary": "Names of dosage forms, with singular or plural fixed by the clue.",
+	"cells": {
+		"pihulka": {
+			"clue": "pill; tablet (singular)"
+		},
+		"mikstura": {
+			"clue": "medicinal mixture taken as a liquid"
+		},
+		"krapli": {
+			"clue": "medicinal drops (plural)"
+		},
+		"svichka": {
+			"clue": "suppository (one common word, singular)"
+		},
+		"syrop": {
+			"clue": "medicinal syrup"
+		},
+		"maz": {
+			"clue": "ointment"
+		}
+	}
+}

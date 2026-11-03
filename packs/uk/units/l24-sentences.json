@@ -1,0 +1,141 @@
+{
+	"id": "l24-sentences",
+	"typing": true,
+	"layout": {
+		"type": "sentences",
+		"size": 12
+	},
+	"cells": [
+		{
+			"id": "ache-sing",
+			"item": "sentence:l24:ache-sing",
+			"text": "болить",
+			"display": "боли́ть",
+			"sentence": "Сього́дні в ме́не ___ голова́. (болі́ти, тепе́рішній час)"
+		},
+		{
+			"id": "ache-plur",
+			"item": "sentence:l24:ache-plur",
+			"text": "болять",
+			"display": "боля́ть",
+			"sentence": "У паціє́нта ___ зу́би. (болі́ти, тепе́рішній час)"
+		},
+		{
+			"id": "cough-gen",
+			"item": "sentence:l24:cough-gen",
+			"text": "кашлю",
+			"display": "ка́шлю",
+			"sentence": "Пі́сля лікува́ння вже нема́є ___. (ка́шель)"
+		},
+		{
+			"id": "nose-gen",
+			"item": "sentence:l24:nose-gen",
+			"text": "нежитю",
+			"display": "не́житю",
+			"sentence": "У цьо́му о́писі нема́є зга́дки про симпто́ми ___. (не́жить)"
+		},
+		{
+			"id": "pressure-gen",
+			"item": "sentence:l24:pressure-gen",
+			"text": "тиску",
+			"display": "ти́ску",
+			"sentence": "Медсестра́ записа́ла пока́зник ___. (тиск)"
+		},
+		{
+			"id": "pharmacy-loc",
+			"item": "sentence:l24:pharmacy-loc",
+			"text": "аптеці",
+			"display": "апте́ці",
+			"sentence": "Сестра́ працю́є в ___. (апте́ка)"
+		},
+		{
+			"id": "prescription-gen",
+			"item": "sentence:l24:prescription-gen",
+			"text": "рецепта",
+			"display": "реце́пта",
+			"sentence": "У те́ксті є но́мер ___. (реце́пт)"
+		},
+		{
+			"id": "cardiologist-inst",
+			"item": "sentence:l24:cardiologist-inst",
+			"text": "кардіологом",
+			"display": "кардіо́логом",
+			"sentence": "Оле́на поговори́ла з ___. (кардіо́лог)"
+		},
+		{
+			"id": "dermatologist-gen",
+			"item": "sentence:l24:dermatologist-gen",
+			"text": "дерматолога",
+			"display": "дермато́лога",
+			"sentence": "Тара́с записа́вся до ___. (дермато́лог)"
+		},
+		{
+			"id": "ointment-gen",
+			"item": "sentence:l24:ointment-gen",
+			"text": "мазі",
+			"display": "ма́зі",
+			"sentence": "На па́чці напи́сано на́зву ___. (мазь)"
+		},
+		{
+			"id": "weakness-inst",
+			"item": "sentence:l24:weakness-inst",
+			"text": "слабкістю",
+			"display": "сла́бкістю",
+			"sentence": "Паціє́нт опи́сує свій стан слова́ми «зі значно́ю ___». (сла́бкість)"
+		},
+		{
+			"id": "medicine-gen",
+			"item": "sentence:l24:medicine-gen",
+			"text": "ліків",
+			"display": "лі́ків",
+			"sentence": "У списку нема́є цих ___. (лі́ки)"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: боліти",
+			"url": "https://goroh.pp.ua/Словозміна/боліти"
+		},
+		{
+			"title": "Горох: кашель",
+			"url": "https://goroh.pp.ua/Словозміна/кашель"
+		},
+		{
+			"title": "Горох: нежить",
+			"url": "https://goroh.pp.ua/Словозміна/нежить"
+		},
+		{
+			"title": "Горох: тиск",
+			"url": "https://goroh.pp.ua/Словозміна/тиск"
+		},
+		{
+			"title": "Горох: аптека",
+			"url": "https://goroh.pp.ua/Словозміна/аптека"
+		},
+		{
+			"title": "Горох: рецепт",
+			"url": "https://goroh.pp.ua/Словозміна/рецепт"
+		},
+		{
+			"title": "Горох: кардіолог",
+			"url": "https://goroh.pp.ua/Словозміна/кардіолог"
+		},
+		{
+			"title": "Горох: дерматолог",
+			"url": "https://goroh.pp.ua/Словозміна/дерматолог"
+		},
+		{
+			"title": "Горох: мазь",
+			"url": "https://goroh.pp.ua/Словозміна/мазь"
+		},
+		{
+			"title": "Горох: слабкість",
+			"url": "https://goroh.pp.ua/Словозміна/слабкість"
+		},
+		{
+			"title": "Горох: ліки",
+			"url": "https://goroh.pp.ua/Словозміна/ліки"
+		}
+	],
+	"dealAll": true
+}

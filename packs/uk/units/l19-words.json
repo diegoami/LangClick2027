@@ -1,0 +1,314 @@
+{
+	"id": "l19-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 29
+	},
+	"cells": [
+		{
+			"id": "perekhrestya",
+			"item": "word:perekhrestya",
+			"text": "перехрестя",
+			"display": "перехре́стя"
+		},
+		{
+			"id": "rih",
+			"item": "word:rih",
+			"text": "ріг"
+		},
+		{
+			"id": "perekhid",
+			"item": "word:perekhid",
+			"text": "перехід",
+			"display": "перехі́д"
+		},
+		{
+			"id": "trotuar",
+			"item": "word:trotuar",
+			"text": "тротуар",
+			"display": "тротуа́р"
+		},
+		{
+			"id": "mist",
+			"item": "word:mist",
+			"text": "міст"
+		},
+		{
+			"id": "hotel",
+			"item": "word:hotel",
+			"text": "готель",
+			"display": "готе́ль",
+			"alsoAccepted": ["гостиниця"]
+		},
+		{
+			"id": "bank",
+			"item": "word:bank",
+			"text": "банк"
+		},
+		{
+			"id": "hurtozhytok",
+			"item": "word:hurtozhytok",
+			"text": "гуртожиток",
+			"display": "гурто́житок"
+		},
+		{
+			"id": "universytet",
+			"item": "word:universytet",
+			"text": "університет",
+			"display": "університе́т"
+		},
+		{
+			"id": "kinoteatr",
+			"item": "word:kinoteatr",
+			"text": "кінотеатр",
+			"display": "кінотеа́тр"
+		},
+		{
+			"id": "sobor",
+			"item": "word:sobor",
+			"text": "собор",
+			"display": "собо́р"
+		},
+		{
+			"id": "khram",
+			"item": "word:khram",
+			"text": "храм"
+		},
+		{
+			"id": "palats",
+			"item": "word:palats",
+			"text": "палац",
+			"display": "пала́ц"
+		},
+		{
+			"id": "zamok",
+			"item": "word:zamok-castle",
+			"text": "замок",
+			"display": "за́мок"
+		},
+		{
+			"id": "muzey",
+			"item": "word:muzey",
+			"text": "музей",
+			"display": "музе́й"
+		},
+		{
+			"id": "park",
+			"item": "word:park",
+			"text": "парк"
+		},
+		{
+			"id": "stadion",
+			"item": "word:stadion",
+			"text": "стадіон",
+			"display": "стадіо́н"
+		},
+		{
+			"id": "zoopark",
+			"item": "word:zoopark",
+			"text": "зоопарк",
+			"display": "зоопа́рк",
+			"alsoAccepted": ["зоологічний парк"]
+		},
+		{
+			"id": "pam-yatnyk",
+			"item": "word:pam-yatnyk",
+			"text": "пам'ятник",
+			"display": "па́м'ятник",
+			"alsoAccepted": ["монумент"]
+		},
+		{
+			"id": "fontan",
+			"item": "word:fontan",
+			"text": "фонтан",
+			"display": "фонта́н",
+			"alsoAccepted": ["водограй"]
+		},
+		{
+			"id": "halereya",
+			"item": "word:halereya",
+			"text": "галерея",
+			"display": "галере́я"
+		},
+		{
+			"id": "zapravka",
+			"item": "word:zapravka",
+			"text": "заправка",
+			"display": "запра́вка",
+			"alsoAccepted": ["АЗС", "автозаправка", "автозаправна станція"]
+		},
+		{
+			"id": "poshta",
+			"item": "word:poshta",
+			"text": "пошта",
+			"display": "по́шта"
+		},
+		{
+			"id": "ratusha",
+			"item": "word:ratusha",
+			"text": "ратуша",
+			"display": "ра́туша"
+		},
+		{
+			"id": "livoruch",
+			"item": "word:livoruch",
+			"text": "ліворуч",
+			"display": "ліво́руч",
+			"alsoAccepted": ["наліво"]
+		},
+		{
+			"id": "pravoruch",
+			"item": "word:pravoruch",
+			"text": "праворуч",
+			"display": "право́руч",
+			"alsoAccepted": ["направо"]
+		},
+		{
+			"id": "pryamo",
+			"item": "word:pryamo",
+			"text": "прямо",
+			"display": "пря́мо"
+		},
+		{
+			"id": "pozadu",
+			"item": "word:pozadu",
+			"text": "позаду",
+			"display": "поза́ду",
+			"alsoAccepted": ["ззаду"]
+		},
+		{
+			"id": "navproty",
+			"item": "word:navproty",
+			"text": "навпроти",
+			"display": "навпро́ти",
+			"alsoAccepted": ["напроти"]
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 19 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@51a9938682834cc0b4366dd3c864b0b8"
+		},
+		{
+			"title": "Горох: перехрестя",
+			"url": "https://goroh.pp.ua/Словозміна/перехрестя"
+		},
+		{
+			"title": "Горох: ріг",
+			"url": "https://goroh.pp.ua/Словозміна/ріг"
+		},
+		{
+			"title": "Горох: перехід",
+			"url": "https://goroh.pp.ua/Словозміна/перехід"
+		},
+		{
+			"title": "Горох: тротуар",
+			"url": "https://goroh.pp.ua/Словозміна/тротуар"
+		},
+		{
+			"title": "Горох: міст",
+			"url": "https://goroh.pp.ua/Словозміна/міст"
+		},
+		{
+			"title": "Горох: готель",
+			"url": "https://goroh.pp.ua/Словозміна/готель"
+		},
+		{
+			"title": "Горох: банк",
+			"url": "https://goroh.pp.ua/Словозміна/банк"
+		},
+		{
+			"title": "Горох: гуртожиток",
+			"url": "https://goroh.pp.ua/Словозміна/гуртожиток"
+		},
+		{
+			"title": "Горох: університет",
+			"url": "https://goroh.pp.ua/Словозміна/університет"
+		},
+		{
+			"title": "Горох: кінотеатр",
+			"url": "https://goroh.pp.ua/Словозміна/кінотеатр"
+		},
+		{
+			"title": "Горох: собор",
+			"url": "https://goroh.pp.ua/Словозміна/собор"
+		},
+		{
+			"title": "Горох: храм",
+			"url": "https://goroh.pp.ua/Словозміна/храм"
+		},
+		{
+			"title": "Горох: палац",
+			"url": "https://goroh.pp.ua/Словозміна/палац"
+		},
+		{
+			"title": "Горох: замок",
+			"url": "https://goroh.pp.ua/Словозміна/замок"
+		},
+		{
+			"title": "Горох: музей",
+			"url": "https://goroh.pp.ua/Словозміна/музей"
+		},
+		{
+			"title": "Горох: парк",
+			"url": "https://goroh.pp.ua/Словозміна/парк"
+		},
+		{
+			"title": "Горох: стадіон",
+			"url": "https://goroh.pp.ua/Словозміна/стадіон"
+		},
+		{
+			"title": "Горох: зоопарк",
+			"url": "https://goroh.pp.ua/Словозміна/зоопарк"
+		},
+		{
+			"title": "Горох: пам'ятник",
+			"url": "https://goroh.pp.ua/Словозміна/пам'ятник"
+		},
+		{
+			"title": "Горох: фонтан",
+			"url": "https://goroh.pp.ua/Словозміна/фонтан"
+		},
+		{
+			"title": "Горох: галерея",
+			"url": "https://goroh.pp.ua/Словозміна/галерея"
+		},
+		{
+			"title": "Горох: заправка",
+			"url": "https://goroh.pp.ua/Словозміна/заправка"
+		},
+		{
+			"title": "Горох: пошта",
+			"url": "https://goroh.pp.ua/Словозміна/пошта"
+		},
+		{
+			"title": "Горох: ратуша",
+			"url": "https://goroh.pp.ua/Словозміна/ратуша"
+		},
+		{
+			"title": "Горох: ліворуч",
+			"url": "https://goroh.pp.ua/Словозміна/ліворуч"
+		},
+		{
+			"title": "Горох: праворуч",
+			"url": "https://goroh.pp.ua/Словозміна/праворуч"
+		},
+		{
+			"title": "Горох: прямо",
+			"url": "https://goroh.pp.ua/Словозміна/прямо"
+		},
+		{
+			"title": "Горох: позаду",
+			"url": "https://goroh.pp.ua/Словозміна/позаду"
+		},
+		{
+			"title": "Горох: навпроти",
+			"url": "https://goroh.pp.ua/Словозміна/навпроти"
+		},
+		{
+			"title": "Горох: академічні словникові значення — фонтан",
+			"url": "https://goroh.pp.ua/Тлумачення/фонтан"
+		}
+	]
+}

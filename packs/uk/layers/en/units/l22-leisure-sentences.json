@@ -1,0 +1,48 @@
+{
+	"title": "Talking about free time",
+	"summary": "Infinitives after люблю / обожнюю, instrumental after цікавитися / займатися, unchanged хобі.",
+	"cells": {
+		"timeacc": {
+			"sentenceGloss": "I plan my free time."
+		},
+		"timeins": {
+			"sentenceGloss": "Know how to use your free time."
+		},
+		"enjoy": {
+			"sentenceGloss": "The friends are enjoying music."
+		},
+		"interest": {
+			"sentenceGloss": "My brother is interested in tourism."
+		},
+		"activity": {
+			"sentenceGloss": "After work she does sport."
+		},
+		"collect": {
+			"sentenceGloss": "Olena is keen on collecting postcards."
+		},
+		"read": {
+			"sentenceGloss": "At weekends I like to read books."
+		},
+		"draw": {
+			"sentenceGloss": "Marko loves drawing portraits."
+		},
+		"sphere": {
+			"sentenceGloss": "His field of interest is design."
+		},
+		"hobby": {
+			"sentenceGloss": "The female friend has no new hobby."
+		},
+		"new": {
+			"sentenceGloss": "I am choosing a new hobby."
+		},
+		"plural": {
+			"sentenceGloss": "They have developed new hobbies."
+		},
+		"leisure": {
+			"sentenceGloss": "In our free time we read."
+		},
+		"devote": {
+			"sentenceGloss": "My sister devotes her evenings to music."
+		}
+	}
+}

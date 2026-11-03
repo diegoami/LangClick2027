@@ -1,0 +1,97 @@
+{
+	"id": "l20-future-plans",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"cells": [
+		{
+			"id": "i",
+			"item": "sentence:l20-future-plans:i",
+			"text": "піду",
+			"sentence": "Завтра я ___ до галереї. (піти, майбутній час)",
+			"display": "піду́"
+		},
+		{
+			"id": "we",
+			"item": "sentence:l20-future-plans:we",
+			"text": "підемо",
+			"sentence": "Після екскурсії ми ___ до кав’ярні. (піти, майбутній час)",
+			"display": "пі́демо",
+			"alsoAccepted": ["підем"]
+		},
+		{
+			"id": "you",
+			"item": "sentence:l20-future-plans:you",
+			"text": "підеш",
+			"sentence": "У суботу ти ___ на виставку. (піти, майбутній час)",
+			"display": "пі́деш"
+		},
+		{
+			"id": "they",
+			"item": "sentence:l20-future-plans:they",
+			"text": "підуть",
+			"sentence": "Наступного тижня вони ___ у музей. (піти, майбутній час)",
+			"display": "пі́дуть"
+		},
+		{
+			"id": "walk",
+			"item": "sentence:l20-future-plans:walk",
+			"text": "йтиму",
+			"sentence": "Увечері я ___ вздовж річки. (йти, недоконаний майбутній час)",
+			"display": "йти́му",
+			"alsoAccepted": ["ітиму", "буду йти", "буду іти"]
+		},
+		{
+			"id": "walkwe",
+			"item": "sentence:l20-future-plans:walkwe",
+			"text": "йтимемо",
+			"sentence": "Завтра ми ___ повільно. (йти, недоконаний майбутній час)",
+			"display": "йти́мемо",
+			"alsoAccepted": ["йтимем", "ітимемо", "ітимем", "будемо йти", "будемо іти"]
+		},
+		{
+			"id": "read",
+			"item": "sentence:l20-future-plans:read",
+			"text": "читатиму",
+			"sentence": "У поїзді я ___ путівник. (читати, майбутній час)",
+			"display": "чита́тиму",
+			"alsoAccepted": ["буду читати"]
+		},
+		{
+			"id": "planned",
+			"item": "sentence:l20-future-plans:planned",
+			"text": "їду",
+			"sentence": "Завтра вранці я ___ до Львова. (їхати, теперішня форма для плану)",
+			"display": "ї́ду"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 20 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@acee712c1883487f97c0ff31046ae49a"
+		},
+		{
+			"title": "Горох: піти",
+			"url": "https://goroh.pp.ua/Словозміна/піти"
+		},
+		{
+			"title": "Горох: йти",
+			"url": "https://goroh.pp.ua/Словозміна/йти"
+		},
+		{
+			"title": "Горох: читати",
+			"url": "https://goroh.pp.ua/Словозміна/читати"
+		},
+		{
+			"title": "Горох: їхати",
+			"url": "https://goroh.pp.ua/Словозміна/їхати"
+		},
+		{
+			"title": "Горох: іти",
+			"url": "https://goroh.pp.ua/Словозміна/іти"
+		}
+	]
+}

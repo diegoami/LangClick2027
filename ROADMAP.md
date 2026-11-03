@@ -11,17 +11,20 @@ It adds eMova lessons 4–8 to the phonetics and grammar already available, in t
 compared with Russian or Polish. [Milestone #33](https://github.com/diegoami/LangClick2027/issues/33)
 received AGREE on the exact tagged commit, `e73638f945c48c829aafea37ffdef3c26eaec0c1`.
 
-**v0.5.0, lessons 9–14, is in progress** under approved
-[proposal #34](https://github.com/diegoami/LangClick2027/issues/34). The first batch, lessons
-9–10, is prepared for owner testing: family and in-law vocabulary, possessives and genitive
-forms; professions and word families, workplace locations and original sentence gaps. Canonical
-answers and permanent IDs on the older family board stay intact; verified equivalent forms
-are accepted when typed. The source's full lesson notes and tasks have been inspected, and
-the coverage ledger maps their core vocabulary and grammar while leaving free-form writing,
-listening and cultural resources in the source.
+**Lessons 9–10 are merged** under approved [proposal #34](https://github.com/diegoami/LangClick2027/issues/34): family and in-law vocabulary, possessives and genitives; professions, word families and workplace language.
 
-**Ukrainian is not complete.** Lessons 11–13 and 15–27 still have no boards; lesson 14 has
-only the older room declension. Lessons 11–14 are the remaining content work for v0.5.0.
+**Lessons 11–27 are implemented for owner testing.** The owner extended the same
+source-first design through lesson 27 under [#34](https://github.com/diegoami/LangClick2027/issues/34).
+There are 56 new boards and 995 new cells, with four explanation languages and Russian/Polish
+comparisons. Every one of eMova's 27 lessons now maps to core practice; the pack has 119 boards
+and 2,019 cells in total. Existing general grammar stays in its original lesson and is referenced
+by the coverage ledger.
+
+The full source notes and tasks were inspected with explicit permission. Listening, literary
+reading, recipes and open-ended writing remain in the linked source. Exercises are original;
+private source text is absent from the pack. Two independent content checks record the exact
+new content. Owner testing and merge are still pending, and this is not a tagged release.
+Swedish is the next content task after Ukrainian, before optional extras.
 
 On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
 extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided
@@ -45,4 +48,7 @@ are deferred; their old version slots below are historical plans, not prerequisi
 | v1.0.0     | The whole 27-lesson course covered, compared with Russian and with Polish                                                                                                                                                                                   |
 | After Ukrainian | Swedish, scoped from sources in [#34](https://github.com/diegoami/LangClick2027/issues/34); B1 Ukrainian and other languages later                                                                                                                                                                                         |
 
-A later milestone gets its scope settled in its own proposal.
+The original content version slots above are historical batch boundaries. The owner has
+authorized implementing the remaining Ukrainian lessons together under #34; the release
+version and milestone review follow the ordinary release process. Swedish follows the
+completed Ukrainian course and gets its own agreed design before implementation.

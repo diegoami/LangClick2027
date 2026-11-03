@@ -1,0 +1,33 @@
+{
+	"title": "Dates in the current civil calendar",
+	"summary": "Answer as a calendar date: a neuter ordinal plus a genitive month. These are current civil dates, updated from the older eMova lesson after the 2023 changes. Easter and Trinity are movable; a religious observance date can differ. This board does not determine days off work.",
+	"cells": {
+		"new-year": {
+			"clue": "New Year"
+		},
+		"women": {
+			"clue": "International Women's Day"
+		},
+		"labour": {
+			"clue": "Labour Day"
+		},
+		"remembrance": {
+			"clue": "Day of Remembrance and Victory over Nazism in World War II"
+		},
+		"constitution": {
+			"clue": "Constitution Day of Ukraine"
+		},
+		"statehood": {
+			"clue": "Ukrainian Statehood Day"
+		},
+		"independence": {
+			"clue": "Independence Day of Ukraine"
+		},
+		"defenders": {
+			"clue": "Day of Defenders of Ukraine"
+		},
+		"christmas": {
+			"clue": "Christmas: current civil holiday date"
+		}
+	}
+}

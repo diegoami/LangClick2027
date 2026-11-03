@@ -1,0 +1,43 @@
+{
+	"title": "Наказовий спосіб в інструкціях",
+	"summary": "Утворіть просту форму наказового способу саме від указаного дієслова, без додаткових часток. Порівняйте -и/-імо/-іть і нульове закінчення/-мо/-те. Збережіть ь у сядь, кинь. У ви́пиши й підкре́сли показано словниковий наголос.",
+	"cells": {
+		"ty.pysaty": {},
+		"my.pysaty": {},
+		"vy.pysaty": {},
+		"ty.vypysaty": {},
+		"my.vypysaty": {},
+		"vy.vypysaty": {},
+		"ty.pidkreslyty": {},
+		"my.pidkreslyty": {},
+		"vy.pidkreslyty": {},
+		"ty.vykonuvaty": {},
+		"my.vykonuvaty": {},
+		"vy.vykonuvaty": {},
+		"ty.pereviryty": {},
+		"my.pereviryty": {},
+		"vy.pereviryty": {},
+		"ty.sisty": {},
+		"my.sisty": {},
+		"vy.sisty": {},
+		"ty.kynuty": {},
+		"my.kynuty": {},
+		"vy.kynuty": {},
+		"ty.zapovnyty": {},
+		"my.zapovnyty": {},
+		"vy.zapovnyty": {}
+	},
+	"headers": {
+		"ty": "ти: спонукання",
+		"my": "ми: спонукання",
+		"vy": "ви: спонукання",
+		"pysaty": "писа́ти",
+		"vypysaty": "ви́писати",
+		"pidkreslyty": "підкре́слити",
+		"vykonuvaty": "вико́нувати",
+		"pereviryty": "переві́рити",
+		"sisty": "сі́сти",
+		"kynuty": "ки́нути",
+		"zapovnyty": "запо́внити"
+	}
+}

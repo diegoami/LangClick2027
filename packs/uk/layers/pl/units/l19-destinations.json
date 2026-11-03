@@ -1,0 +1,27 @@
+{
+	"title": "До + nazwy miejsc",
+	"summary": "Po до występuje dopełniacz; końcówka -у nie jest regułą uniwersalną.",
+	"headers": {
+		"mist": "міст",
+		"hotel": "готель",
+		"bank": "банк",
+		"hurtozhytok": "гуртожиток",
+		"universytet": "університет",
+		"kinoteatr": "кінотеатр",
+		"sobor": "собор",
+		"khram": "храм",
+		"palats": "палац",
+		"zamok": "замок",
+		"muzey": "музей",
+		"park": "парк",
+		"stadion": "стадіон",
+		"zoopark": "зоопарк",
+		"pam-yatnyk": "пам'ятник",
+		"fontan": "фонтан",
+		"halereya": "галерея",
+		"zapravka": "заправка",
+		"poshta": "пошта",
+		"ratusha": "ратуша",
+		"gen": "до + родовий"
+	}
+}

@@ -1,0 +1,66 @@
+{
+	"title": "Podróże i miasta Ukrainy",
+	"summary": "Podróże i zabytki miejskie.",
+	"cells": {
+		"podorozh": {
+			"clue": "podróż"
+		},
+		"vidpustka": {
+			"clue": "urlop"
+		},
+		"stolytsya": {
+			"clue": "stolica"
+		},
+		"pam-yatka": {
+			"clue": "zabytek"
+		},
+		"lehenda": {
+			"clue": "legenda, dawna opowieść"
+		},
+		"khmarochos": {
+			"clue": "drapacz chmur"
+		},
+		"naberezhna": {
+			"clue": "nadbrzeżny bulwar"
+		},
+		"bulvar": {
+			"clue": "bulwar"
+		},
+		"skhody": {
+			"clue": "schody"
+		},
+		"sporuda": {
+			"clue": "obiekt budowlany (rzeczownik rodzaju żeńskiego zaczyna się od спор-)"
+		},
+		"budivlya": {
+			"clue": "budynek (rzeczownik rodzaju żeńskiego zaczyna się od будів-)"
+		},
+		"ploshcha": {
+			"clue": "plac miejski"
+		},
+		"vulytsya": {
+			"clue": "ulica"
+		},
+		"prospekt": {
+			"clue": "szeroka aleja miejska"
+		},
+		"teatr": {
+			"clue": "teatr"
+		},
+		"tserkva": {
+			"clue": "cerkiew"
+		},
+		"more": {
+			"clue": "morze"
+		},
+		"krayina": {
+			"clue": "kraj"
+		},
+		"muzey": {
+			"clue": "muzeum"
+		},
+		"palats": {
+			"clue": "pałac"
+		}
+	}
+}

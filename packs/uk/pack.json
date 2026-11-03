@@ -393,6 +393,479 @@
 					"url": "https://opentext.ku.edu/dobraforma/chapter/10-3/"
 				}
 			]
+		},
+		{
+			"id": "l11",
+			"section": "themes",
+			"units": ["l11-words", "l11-locatives", "l11-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 11: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@9302e3723f2345f28e69f6429efa7a39"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 11: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@1b01e5e39aa24d82a5c1ddd4775dfa8c"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 11: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@1d7465d419944dbfa374d9fc48e5e6f7"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 11: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@d5bcd2061f314462ae11064a067d93a4"
+				}
+			]
+		},
+		{
+			"id": "l12",
+			"section": "themes",
+			"units": ["l12-words", "l12-agreement", "l12-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 12: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@72adf46097a34ccb971c1ca84c0aa004"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 12: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@a3b9732b95c442f5aed8aa0912382798"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 12: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@0966937bc3c24d6a95091f4e3a1ba130"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 12: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@2d26a43f72d54bf1a8f400c6aefa4d08"
+				}
+			]
+		},
+		{
+			"id": "l13",
+			"section": "themes",
+			"units": ["l13-words", "l13-sizes", "l13-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 13: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@ade0b1fe8aa4405786ce813fc20fce50"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 13: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@0712314999bd4ff888c761628ea6f3fd"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 13: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@80c6ed0855ba495ab9cf2945f8576d28"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 13: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@18167ccfdb064b65a2fb43418816acba"
+				}
+			]
+		},
+		{
+			"id": "l14",
+			"section": "themes",
+			"units": ["l14-words", "l14-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 14: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@bfb6bb26607f4d9cae7bbbed172a2a43"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 14: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@99f9b132c6b3489494d60306dce88431"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 14: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@013905ac3ba74c59b841f7c2fbb30fa7"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 14: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@b8e55f63d82d48948106185d64c02941"
+				}
+			]
+		},
+		{
+			"id": "l15",
+			"section": "themes",
+			"units": ["l15-words", "l15-number", "l15-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 15: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6b704c57dfe3481caab0bbe69ab68a2b"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 15: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@37c2a37d0ab647b3a7c676d1f81038be"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 15: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@01858ef529e240acbd52037ed23478fd"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 15: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@1301877345db4ad4b802015f9e08810c"
+				}
+			]
+		},
+		{
+			"id": "l16",
+			"section": "themes",
+			"units": ["l16-words", "l16-quantities", "l16-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 16: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@ecbc12f9c6634d849568884d85735fc8"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 16: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@af02ca732b24472f99912dbe782692a0"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 16: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@01580e50cfd649f196a5f9c8f99b43b1"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 16: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@51550b558d0e42d499ae25347f53c010"
+				}
+			]
+		},
+		{
+			"id": "l17",
+			"section": "themes",
+			"units": ["l17-words", "l17-order-pay"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 17: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@093965737a05495f84343b6afe6a57b6"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 17: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@a38350e7fa4e46169587aab2f4ab0be4"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 17: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@cc2e0b8224704f3cb5a21cdf3e7f4272"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 17: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@75a212744e9945bc9577867d4de82eee"
+				}
+			]
+		},
+		{
+			"id": "l18",
+			"section": "themes",
+			"units": ["l18-words", "l18-motion", "l18-travel-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 18: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@379d8038f88d4d88bd9c003752fb58b8"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 18: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@c6636e21b4504681bcc51b0ce438e6a2"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 18: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@512511c23fb049adbde673af7f3e03eb"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 18: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@f7847f2fc4bf45e9805824a8ddbb639f"
+				}
+			]
+		},
+		{
+			"id": "l19",
+			"section": "themes",
+			"units": ["l19-words", "l19-destinations", "l19-route-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 19: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@51a9938682834cc0b4366dd3c864b0b8"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 19: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@af2f710c5e8e4c62ab32e89709bc60ad"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 19: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@07815a3969354dffacce2498b7cbbf48"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 19: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@28c47f18c1c74c59888e1dc905e7fc80"
+				}
+			]
+		},
+		{
+			"id": "l20",
+			"section": "themes",
+			"units": ["l20-words", "l20-perfective-future", "l20-future-plans"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 20: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@acee712c1883487f97c0ff31046ae49a"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 20: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@b0d0789402c140268b84e342647f3804"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 20: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@99454b5a90054cb3a2d87db4b6d827f9"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 20: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@291c44e15ce049b19b3230c2ab610781"
+				}
+			]
+		},
+		{
+			"id": "l21",
+			"section": "themes",
+			"units": [
+				"l21-words",
+				"l21-comparison",
+				"l21-superlative",
+				"l21-agreement",
+				"l21-adjective-kinds"
+			],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 21: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@e343f13d37aa4bbab446b98139cfdda6"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 21: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@81f6fe71b7534c2d8767c6c137bb14f1"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 21: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@0bccf6bfc4fe4e3b9e4c67c1c4820655"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 21: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@1e64602694b84a8292d406908b38a6bd"
+				}
+			]
+		},
+		{
+			"id": "l22",
+			"section": "themes",
+			"units": ["l22-words", "l22-leisure-sentences", "l22-leisure-verbs"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 22: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@81b8b78358d04089b97ec1c30bb4b1fb"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 22: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@af335187c24a4b7eb5d582d72a759921"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 22: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@1aa1c7e170c14350b6ca2d34da2b608a"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 22: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@b0c3273bb2ae496884186163126c4e03"
+				}
+			]
+		},
+		{
+			"id": "l23",
+			"section": "themes",
+			"units": ["l23-words", "l23-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 23: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@8c841756342d4fe295db3cc1d3df9fca"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 23: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@d7a26de8b82d41c892bd186291bf60d8"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 23: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@afcc2d3ccb1d43eba0126ec4b930fff9"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 23: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@9f560c485a2341f6ae3cee6c7e0f55ac"
+				}
+			]
+		},
+		{
+			"id": "l24",
+			"section": "themes",
+			"units": ["l24-words", "l24-specialists-words", "l24-medicines-words", "l24-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 24: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@3bcf9bea605f497e8ab5e7c95c8792e0"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 24: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@2495234c77d1445599f2cf7f7555d6c0"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 24: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@765a3352b94447c4b13d8451d8ca8adf"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 24: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@c6887d8f72a54814bf687e5078329386"
+				}
+			]
+		},
+		{
+			"id": "l25",
+			"section": "themes",
+			"units": ["l25-words", "l25-calendar", "l25-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 25: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@4c10adb4b6b54de9b412e8f20b4a4cf3"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 25: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6493c1b81d4341d8b84bac7c6d995cfc"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 25: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@e435631cd6a349a4a410229b25257f51"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 25: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@a56b519f88074906999fcada62221393"
+				}
+			]
+		},
+		{
+			"id": "l26",
+			"section": "themes",
+			"units": ["l26-words", "l26-trees-words", "l26-flowers-words", "l26-sentences"],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 26: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@dd9c57e725004b42a231673933127eea"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 26: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@d4db0cc160a6463d840b29bfa2d9551e"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 26: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@c2a5cf58222c401e99da3b0152963ec6"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 26: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@a2deae395098404b994b628e78ba4ea3"
+				}
+			]
+		},
+		{
+			"id": "l27",
+			"section": "themes",
+			"units": [
+				"l27-words",
+				"l27-present",
+				"l27-present-teach",
+				"l27-reflexive-endings",
+				"l27-imperative",
+				"l27-sentences",
+				"l27-imperative-sentences"
+			],
+			"study": [
+				{
+					"kind": "video",
+					"title": "Є-мова, урок 27: Відеоурок",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@bddd367cd95c447a8c71cbe0cf6f3bef"
+				},
+				{
+					"kind": "tasks",
+					"title": "Є-мова, урок 27: Завдання",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@2d17e2d8b2014ec4912725e3dbbf733c"
+				},
+				{
+					"kind": "test",
+					"title": "Є-мова, урок 27: Тест",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@6cb8580916274f20b351ec4d5f81b5cc"
+				},
+				{
+					"kind": "resources",
+					"title": "Є-мова, урок 27: Додаткові ресурси",
+					"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@feba7f4c5c8341349ba0ebb1771fa135"
+				}
+			]
 		}
 	],
 	"forbiddenLetters": "ёъыэ",

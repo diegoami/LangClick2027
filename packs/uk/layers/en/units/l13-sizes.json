@@ -1,0 +1,16 @@
+{
+	"title": "Ordinal sizes",
+	"headers": {
+		"38": "38th",
+		"39": "39th",
+		"42": "42nd",
+		"44": "44th",
+		"46": "46th",
+		"48": "48th",
+		"50": "50th",
+		"52": "52nd",
+		"c0": "I have the … size (nominative)",
+		"c1": "of the … size (genitive)"
+	},
+	"summary": "Use a masculine ordinal with розмір. In compound ordinals only the last word declines. These are Ukrainian labels, not an international size conversion."
+}

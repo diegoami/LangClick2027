@@ -1,0 +1,630 @@
+{
+	"id": "l12-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 58
+	},
+	"cells": [
+		{
+			"id": "serednoyi-statury",
+			"item": "word:serednoyi-statury",
+			"text": "середньої статури",
+			"display": "сере́дньої стату́ри"
+		},
+		{
+			"id": "mitsnoyi-budovy",
+			"item": "word:mitsnoyi-budovy",
+			"text": "міцної будови",
+			"display": "міцно́ї будо́ви"
+		},
+		{
+			"id": "khudyy",
+			"item": "word:khudyy",
+			"text": "худий",
+			"display": "худи́й"
+		},
+		{
+			"id": "khudorlyavyy",
+			"item": "word:khudorlyavyy",
+			"text": "худорлявий",
+			"display": "худорля́вий"
+		},
+		{
+			"id": "strunkyy",
+			"item": "word:strunkyy",
+			"text": "стрункий",
+			"display": "струнки́й"
+		},
+		{
+			"id": "tenditnyy",
+			"item": "word:tenditnyy",
+			"text": "тендітний",
+			"display": "тенді́тний"
+		},
+		{
+			"id": "shyrokoplechyy",
+			"item": "word:shyrokoplechyy",
+			"text": "широкоплечий",
+			"display": "широкопле́чий"
+		},
+		{
+			"id": "tovstyy",
+			"item": "word:tovstyy",
+			"text": "товстий",
+			"display": "товсти́й"
+		},
+		{
+			"id": "povnyy",
+			"item": "word:povnyy",
+			"text": "повний",
+			"display": "по́вний"
+		},
+		{
+			"id": "vysokyy",
+			"item": "word:vysokyy",
+			"text": "високий",
+			"display": "висо́кий"
+		},
+		{
+			"id": "nyzkyy",
+			"item": "word:nyzkyy",
+			"text": "низький",
+			"display": "низьки́й"
+		},
+		{
+			"id": "nevysokyy",
+			"item": "word:nevysokyy",
+			"text": "невисокий",
+			"display": "невисо́кий"
+		},
+		{
+			"id": "serednoho-zrostu",
+			"item": "word:serednoho-zrostu",
+			"text": "середнього зросту",
+			"display": "сере́днього зро́сту"
+		},
+		{
+			"id": "kruhlyy",
+			"item": "word:kruhlyy",
+			"text": "круглий",
+			"display": "кру́глий"
+		},
+		{
+			"id": "kvadratnyy",
+			"item": "word:kvadratnyy",
+			"text": "квадратний",
+			"display": "квадра́тний"
+		},
+		{
+			"id": "vydovzhenyy",
+			"item": "word:vydovzhenyy",
+			"text": "видовжений",
+			"display": "ви́довжений"
+		},
+		{
+			"id": "rum-yanyy",
+			"item": "word:rum-yanyy",
+			"text": "рум'яний",
+			"display": "рум'я́ний"
+		},
+		{
+			"id": "blidyy",
+			"item": "word:blidyy",
+			"text": "блідий",
+			"display": "бліди́й"
+		},
+		{
+			"id": "smahlyavyy",
+			"item": "word:smahlyavyy",
+			"text": "смаглявий",
+			"display": "смагля́вий"
+		},
+		{
+			"id": "zasmahlyy",
+			"item": "word:zasmahlyy",
+			"text": "засмаглий",
+			"display": "засма́глий"
+		},
+		{
+			"id": "harnyy",
+			"item": "word:harnyy",
+			"text": "гарний",
+			"display": "га́рний",
+			"alsoAccepted": ["красивий", "вродливий"]
+		},
+		{
+			"id": "neharnyy",
+			"item": "word:neharnyy",
+			"text": "негарний",
+			"display": "нега́рний",
+			"alsoAccepted": ["некрасивий"]
+		},
+		{
+			"id": "sympatychnyy",
+			"item": "word:sympatychnyy",
+			"text": "симпатичний",
+			"display": "симпати́чний"
+		},
+		{
+			"id": "potvornyy",
+			"item": "word:potvornyy",
+			"text": "потворний",
+			"display": "потво́рний"
+		},
+		{
+			"id": "nizhnyy",
+			"item": "word:nizhnyy",
+			"text": "ніжний",
+			"display": "ні́жний"
+		},
+		{
+			"id": "hrubyy",
+			"item": "word:hrubyy",
+			"text": "грубий",
+			"display": "гру́бий"
+		},
+		{
+			"id": "veselyy",
+			"item": "word:veselyy",
+			"text": "веселий",
+			"display": "весе́лий"
+		},
+		{
+			"id": "sturbovanyy",
+			"item": "word:sturbovanyy",
+			"text": "стурбований",
+			"display": "стурбо́ваний"
+		},
+		{
+			"id": "seryoznyy",
+			"item": "word:seryoznyy",
+			"text": "серйозний",
+			"display": "серйо́зний"
+		},
+		{
+			"id": "pryvitnyy",
+			"item": "word:pryvitnyy",
+			"text": "привітний",
+			"display": "приві́тний"
+		},
+		{
+			"id": "khytryy",
+			"item": "word:khytryy",
+			"text": "хитрий",
+			"display": "хи́трий"
+		},
+		{
+			"id": "zadovolenyy",
+			"item": "word:zadovolenyy",
+			"text": "задоволений",
+			"display": "задово́лений"
+		},
+		{
+			"id": "khvylyastyy",
+			"item": "word:khvylyastyy",
+			"text": "хвилястий",
+			"display": "хвиля́стий"
+		},
+		{
+			"id": "kucheryavyy",
+			"item": "word:kucheryavyy",
+			"text": "кучерявий",
+			"display": "кучеря́вий"
+		},
+		{
+			"id": "pidstryzhenyy",
+			"item": "word:pidstryzhenyy",
+			"text": "підстрижений",
+			"display": "підстри́жений"
+		},
+		{
+			"id": "zachesanyy",
+			"item": "word:zachesanyy",
+			"text": "зачесаний",
+			"display": "заче́саний"
+		},
+		{
+			"id": "skuyovdzhenyy",
+			"item": "word:skuyovdzhenyy",
+			"text": "скуйовджений",
+			"display": "скуйо́вджений"
+		},
+		{
+			"id": "kashtanovyy",
+			"item": "word:kashtanovyy",
+			"text": "каштановий",
+			"display": "кашта́новий"
+		},
+		{
+			"id": "rudyy",
+			"item": "word:rudyy",
+			"text": "рудий",
+			"display": "руди́й"
+		},
+		{
+			"id": "rusyavyy",
+			"item": "word:rusyavyy",
+			"text": "русявий",
+			"display": "руся́вий"
+		},
+		{
+			"id": "syvyy",
+			"item": "word:syvyy",
+			"text": "сивий",
+			"display": "си́вий"
+		},
+		{
+			"id": "farbovanyy",
+			"item": "word:farbovanyy",
+			"text": "фарбований",
+			"display": "фарбо́ваний"
+		},
+		{
+			"id": "karyy",
+			"item": "word:karyy",
+			"text": "карий",
+			"display": "ка́рий"
+		},
+		{
+			"id": "hustyy",
+			"item": "word:hustyy",
+			"text": "густий",
+			"display": "густи́й"
+		},
+		{
+			"id": "pukhkyy",
+			"item": "word:pukhkyy",
+			"text": "пухкий",
+			"display": "пухки́й"
+		},
+		{
+			"id": "dovhyy",
+			"item": "word:dovhyy",
+			"text": "довгий",
+			"display": "до́вгий"
+		},
+		{
+			"id": "korotkyy",
+			"item": "word:korotkyy",
+			"text": "короткий",
+			"display": "коро́ткий"
+		},
+		{
+			"id": "pryamyy",
+			"item": "word:pryamyy",
+			"text": "прямий",
+			"display": "прями́й"
+		},
+		{
+			"id": "tonkyy",
+			"item": "word:tonkyy",
+			"text": "тонкий",
+			"display": "тонки́й"
+		},
+		{
+			"id": "shyrokyy",
+			"item": "word:shyrokyy",
+			"text": "широкий",
+			"display": "широ́кий"
+		},
+		{
+			"id": "z-horbynkoyu",
+			"item": "word:z-horbynkoyu",
+			"text": "з горбинкою",
+			"display": "з горби́нкою"
+		},
+		{
+			"id": "zdorovyy",
+			"item": "word:zdorovyy",
+			"text": "здоровий",
+			"display": "здоро́вий"
+		},
+		{
+			"id": "svitlyy",
+			"item": "word:svitlyy",
+			"text": "світлий",
+			"display": "сві́тлий"
+		},
+		{
+			"id": "temnyy",
+			"item": "word:temnyy",
+			"text": "темний",
+			"display": "те́мний"
+		},
+		{
+			"id": "bilyy",
+			"item": "word:bilyy",
+			"text": "білий",
+			"display": "бі́лий"
+		},
+		{
+			"id": "chornyy",
+			"item": "word:chornyy",
+			"text": "чорний",
+			"display": "чо́рний"
+		},
+		{
+			"id": "siryy",
+			"item": "word:siryy",
+			"text": "сірий",
+			"display": "сі́рий"
+		},
+		{
+			"id": "velykyy",
+			"item": "word:velykyy",
+			"text": "великий",
+			"display": "вели́кий"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 12. Вигляд. Зовнішність",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@72adf46097a34ccb971c1ca84c0aa004"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: худий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%85%D1%83%D0%B4%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: худорлявий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%85%D1%83%D0%B4%D0%BE%D1%80%D0%BB%D1%8F%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: стрункий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D1%80%D1%83%D0%BD%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: тендітний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%B5%D0%BD%D0%B4%D1%96%D1%82%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: широкоплечий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D0%B8%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%BB%D0%B5%D1%87%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: товстий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%BE%D0%B2%D1%81%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: повний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: високий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: низький",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D0%B8%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: невисокий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D0%B5%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: круглий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: квадратний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: видовжений",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: рум’яний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D1%83%D0%BC%E2%80%99%D1%8F%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: блідий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D0%BB%D1%96%D0%B4%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: смаглявий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BC%D0%B0%D0%B3%D0%BB%D1%8F%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: засмаглий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D0%B0%D1%81%D0%BC%D0%B0%D0%B3%D0%BB%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: гарний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%B0%D1%80%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: негарний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D0%B5%D0%B3%D0%B0%D1%80%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: симпатичний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%B8%D0%BC%D0%BF%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: потворний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: ніжний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BD%D1%96%D0%B6%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: грубий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D1%80%D1%83%D0%B1%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: веселий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B5%D1%81%D0%B5%D0%BB%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: стурбований",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D1%83%D1%80%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: серйозний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%B5%D1%80%D0%B9%D0%BE%D0%B7%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: привітний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%80%D0%B8%D0%B2%D1%96%D1%82%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: хитрий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%85%D0%B8%D1%82%D1%80%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: задоволений",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D0%B0%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: хвилястий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%85%D0%B2%D0%B8%D0%BB%D1%8F%D1%81%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: кучерявий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%83%D1%87%D0%B5%D1%80%D1%8F%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: підстрижений",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%96%D0%B4%D1%81%D1%82%D1%80%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: зачесаний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D0%B0%D1%87%D0%B5%D1%81%D0%B0%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: скуйовджений",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BA%D1%83%D0%B9%D0%BE%D0%B2%D0%B4%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: каштановий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: рудий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D1%83%D0%B4%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: русявий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D1%83%D1%81%D1%8F%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: сивий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%B8%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: фарбований",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%84%D0%B0%D1%80%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: карий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%B0%D1%80%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: густий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D1%83%D1%81%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: пухкий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%83%D1%85%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: довгий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%BE%D0%B2%D0%B3%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: короткий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: прямий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%D1%80%D1%8F%D0%BC%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: тонкий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%BE%D0%BD%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: широкий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D0%B8%D1%80%D0%BE%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: середній",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%96%D0%B9"
+		},
+		{
+			"title": "Горох: статура",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%80%D0%B0"
+		},
+		{
+			"title": "Горох: міцний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D1%96%D1%86%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: будова",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D1%83%D0%B4%D0%BE%D0%B2%D0%B0"
+		},
+		{
+			"title": "Горох: зріст",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D1%80%D1%96%D1%81%D1%82"
+		},
+		{
+			"title": "Горох: рум'яний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%80%D1%83%D0%BC%27%D1%8F%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: горбинка",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B3%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0"
+		},
+		{
+			"title": "Горох: красивий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "СУМ: красивий",
+			"url": "https://goroh.pp.ua/%D0%A2%D0%BB%D1%83%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F/%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: здоровий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: світлий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: темний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D0%B5%D0%BC%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: білий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B1%D1%96%D0%BB%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: чорний",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%87%D0%BE%D1%80%D0%BD%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: сірий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D1%96%D1%80%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: великий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: академічні словникові значення — гарний",
+			"url": "https://goroh.pp.ua/Тлумачення/гарний"
+		},
+		{
+			"title": "Горох: академічні словникові значення — негарний",
+			"url": "https://goroh.pp.ua/Тлумачення/негарний"
+		}
+	]
+}

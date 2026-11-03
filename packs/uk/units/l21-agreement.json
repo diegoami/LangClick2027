@@ -1,0 +1,114 @@
+{
+	"id": "l21-agreement",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"cells": [
+		{
+			"id": "fem",
+			"item": "sentence:l21-agreement:fem",
+			"text": "надійна",
+			"sentence": "Моя сестра ___. (надійний, називний)",
+			"display": "наді́йна"
+		},
+		{
+			"id": "neuter",
+			"item": "sentence:l21-agreement:neuter",
+			"text": "добре",
+			"sentence": "Це ___ серце. (добрий, називний)",
+			"display": "до́бре"
+		},
+		{
+			"id": "plural",
+			"item": "sentence:l21-agreement:plural",
+			"text": "творчі",
+			"sentence": "Наші сусідки ___. (творчий, називний)",
+			"display": "тво́рчі"
+		},
+		{
+			"id": "instrumental",
+			"item": "sentence:l21-agreement:instrumental",
+			"text": "щедрою",
+			"sentence": "Олена стала ___ людиною. (щедрий, орудний)",
+			"display": "ще́дрою"
+		},
+		{
+			"id": "genitive",
+			"item": "sentence:l21-agreement:genitive",
+			"text": "рішучого",
+			"sentence": "Це порада ___ друга. (рішучий, родовий)",
+			"display": "рішу́чого"
+		},
+		{
+			"id": "accusative",
+			"item": "sentence:l21-agreement:accusative",
+			"text": "веселу",
+			"sentence": "Ми зустріли ___ дівчину. (веселий, знахідний)",
+			"display": "весе́лу"
+		},
+		{
+			"id": "superf",
+			"item": "sentence:l21-agreement:superf",
+			"text": "найкраща",
+			"sentence": "Вона ___ подруга. (хороший, простий найвищий ступінь)",
+			"display": "найкра́ща",
+			"alsoAccepted": ["найліпша"]
+		},
+		{
+			"id": "superm",
+			"item": "sentence:l21-agreement:superm",
+			"text": "найвищий",
+			"sentence": "Це ___ будинок на вулиці. (високий; простий ступінь 3)",
+			"display": "найви́щий"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 21 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@e343f13d37aa4bbab446b98139cfdda6"
+		},
+		{
+			"title": "Горох: надійний",
+			"url": "https://goroh.pp.ua/Словозміна/надійний"
+		},
+		{
+			"title": "Горох: добрий",
+			"url": "https://goroh.pp.ua/Словозміна/добрий"
+		},
+		{
+			"title": "Горох: творчий",
+			"url": "https://goroh.pp.ua/Словозміна/творчий"
+		},
+		{
+			"title": "Горох: щедрий",
+			"url": "https://goroh.pp.ua/Словозміна/щедрий"
+		},
+		{
+			"title": "Горох: рішучий",
+			"url": "https://goroh.pp.ua/Словозміна/рішучий"
+		},
+		{
+			"title": "Горох: веселий",
+			"url": "https://goroh.pp.ua/Словозміна/веселий"
+		},
+		{
+			"title": "Горох: кращий",
+			"url": "https://goroh.pp.ua/Словозміна/кращий"
+		},
+		{
+			"title": "Горох: старанний",
+			"url": "https://goroh.pp.ua/Словозміна/старанний"
+		},
+		{
+			"title": "Горох: високий",
+			"url": "https://goroh.pp.ua/Словозміна/високий"
+		},
+		{
+			"title": "Горох: ліпший",
+			"url": "https://goroh.pp.ua/Тлумачення/ліпший"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"title": "W instytucjach",
+	"summary": "Odmień wyraz w nawiasie. Przyimki i czasowniki wyznaczają przypadek.",
+	"cells": {
+		"post-loc": {
+			"sentenceGloss": "Na poczcie sprzedaje się koperty."
+		},
+		"bank-loc": {
+			"sentenceGloss": "Moja siostra otworzyła rachunek w banku."
+		},
+		"library-loc": {
+			"sentenceGloss": "W bibliotece jest czytelnia."
+		},
+		"stamp-acc": {
+			"sentenceGloss": "Ołeh przykleił znaczek na kopercie."
+		},
+		"card-acc": {
+			"sentenceGloss": "Iryna zamówiła kartę w banku."
+		},
+		"address-acc": {
+			"sentenceGloss": "Proszę tu napisać pełny adres."
+		},
+		"bookshop-loc": {
+			"sentenceGloss": "Ten podręcznik jest sprzedawany w księgarni."
+		},
+		"sender-gen": {
+			"sentenceGloss": "Na kopercie nie ma imienia nadawcy."
+		},
+		"recipient-dat": {
+			"sentenceGloss": "Pieniądze przekazano odbiorcy."
+		},
+		"librarian-inst": {
+			"sentenceGloss": "Porozmawialiśmy z bibliotekarzem."
+		},
+		"transfer-gen": {
+			"sentenceGloss": "Do odebrania przekazu potrzebny jest dokument."
+		},
+		"form-gen": {
+			"sentenceGloss": "Numer formularza czytelnika się zmienił."
+		}
+	}
+}

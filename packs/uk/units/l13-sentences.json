@@ -1,0 +1,115 @@
+{
+	"id": "l13-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 6
+	},
+	"cells": [
+		{
+			"id": "dress",
+			"item": "sentence:l13:dress",
+			"text": "одягає",
+			"sentence": "Вона ___ сукню. (одягати, теперішній час)",
+			"display": "одяга́є"
+		},
+		{
+			"id": "shoes",
+			"item": "sentence:l13:shoes",
+			"text": "взуває",
+			"sentence": "Він ___ черевики. (взувати, теперішній час)",
+			"display": "взува́є"
+		},
+		{
+			"id": "size",
+			"item": "sentence:l13:size",
+			"text": "сорок другого",
+			"sentence": "Потрібна сорочка ___ розміру. (42-й)",
+			"display": "со́рок дру́гого"
+		},
+		{
+			"id": "have",
+			"item": "sentence:l13:have",
+			"text": "тридцять дев'ятий",
+			"sentence": "У мене ___ розмір взуття. (39-й)",
+			"display": "три́дцять дев'я́тий"
+		},
+		{
+			"id": "trying",
+			"item": "sentence:l13:trying",
+			"text": "міряє",
+			"sentence": "Покупець ___ пальто. (міряти, теперішній час)",
+			"display": "мі́ряє"
+		},
+		{
+			"id": "buying",
+			"item": "sentence:l13:buying",
+			"text": "купує",
+			"sentence": "Мама ___ капці. (купувати, теперішній час)",
+			"display": "купу́є"
+		}
+	],
+	"sources": [
+		{
+			"title": "Урок 13. Одяг і розмір",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@ade0b1fe8aa4405786ce813fc20fce50"
+		},
+		{
+			"title": "Горох: словозміна",
+			"url": "https://goroh.pp.ua/Словозміна"
+		},
+		{
+			"title": "Горох: тридцять",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%82%D1%80%D0%B8%D0%B4%D1%86%D1%8F%D1%82%D1%8C"
+		},
+		{
+			"title": "Горох: сорок",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%81%D0%BE%D1%80%D0%BE%D0%BA"
+		},
+		{
+			"title": "Горох: восьмий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: дев'ятий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D0%B5%D0%B2%27%D1%8F%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: другий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: четвертий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: шостий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D1%88%D0%BE%D1%81%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: п'ятдесятий",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%27%D1%8F%D1%82%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D0%B8%D0%B9"
+		},
+		{
+			"title": "Горох: п'ятдесят",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BF%27%D1%8F%D1%82%D0%B4%D0%B5%D1%81%D1%8F%D1%82"
+		},
+		{
+			"title": "Горох: одягати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BE%D0%B4%D1%8F%D0%B3%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: взувати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%B2%D0%B7%D1%83%D0%B2%D0%B0%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: міряти",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BC%D1%96%D1%80%D1%8F%D1%82%D0%B8"
+		},
+		{
+			"title": "Горох: купувати",
+			"url": "https://goroh.pp.ua/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%BC%D1%96%D0%BD%D0%B0/%D0%BA%D1%83%D0%BF%D1%83%D0%B2%D0%B0%D1%82%D0%B8"
+		}
+	]
+}

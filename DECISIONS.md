@@ -35,6 +35,8 @@ itself.
 The stress mark and the letters Ukrainian must not contain are fields in its
 manifest, not code, and a test keeps engine code free of any language. That is what
 lets a later language's pack test whether packs are really pluggable.
+Wide verb tables are split or transposed in pack data to keep whole answers legible
+on a phone; a document-width check alone cannot detect text overlapping adjacent cells.
 
 ## `display` is shown, `text` is compared (2026-10-31, #1)
 
@@ -83,7 +85,7 @@ to practise, and downloads serve no one else yet. All lesson batches now come be
 audio. On 2026-11-02 the owner put Swedish immediately after completing the Ukrainian
 course, ahead of voices, downloads and other extras; the old version slots and the wait until
 v1.0.0 for another language no longer determine that order. Source research and the next
-release design are in #34. The owner agreed the lessons 9–14 design on 2026-11-02.
+release design are in #34. The owner agreed the lessons 9–14 design on 2026-11-02, then extended the same source-first design through lesson 27. Parallel authors write original practice; two independent content checkers verify every new target against outside sources. The source notes and tasks for lessons 11–27 were read with explicit permission; temporary private reference copies stay outside the repository.
 Coverage stays partial until the actual source lesson has been inspected; a topic match alone
 does not establish that the whole lesson is covered.
 A themed lesson has words, phrases and the grammar
@@ -92,6 +94,10 @@ eMova's, for reference, with none of its text reaching a pack. The notes establi
 not an unquestionable answer key: dictionary checks determine forms and stress, with
 disagreements explained on the affected cells. In lessons 9–10 this matters for прадідусь,
 for све́кор → све́кра, and for accepting colloquial доктор while showing the course's лікар.
+A raw dictionary page can put a place-name homonym first: the body noun кри́жі,
+the stove плита́ and the salt cellar сільни́ця must follow their common-noun entries,
+not the capitalized geographic names on the same page. Broad vocabulary clues also
+accept verified synonyms when typed.
 
 ## Typing is a separate skill, and speech waits (2026-10-31, #21)
 

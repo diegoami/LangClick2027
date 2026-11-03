@@ -1,0 +1,259 @@
+{
+	"id": "l21-comparison",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "table",
+		"rows": [
+			"slabkyy",
+			"hrubyy",
+			"nizhnyy",
+			"lehkyy",
+			"hlybokyy",
+			"blyzkyy",
+			"nyzkyy",
+			"tyazhkyy",
+			"vazhkyy",
+			"vysokyy",
+			"khoroshyy",
+			"pohanyy",
+			"velykyy"
+		],
+		"columns": ["higher"]
+	},
+	"cells": [
+		{
+			"id": "slabkyy.higher",
+			"item": "form:l21-comparison:slabkyy:higher",
+			"text": "слабкіший",
+			"display": "слабкі́ший",
+			"row": "slabkyy",
+			"col": "higher",
+			"alsoAccepted": ["слабший"]
+		},
+		{
+			"id": "hrubyy.higher",
+			"item": "form:l21-comparison:hrubyy:higher",
+			"text": "грубіший",
+			"display": "грубі́ший",
+			"row": "hrubyy",
+			"col": "higher"
+		},
+		{
+			"id": "nizhnyy.higher",
+			"item": "form:l21-comparison:nizhnyy:higher",
+			"text": "ніжніший",
+			"display": "ніжні́ший",
+			"row": "nizhnyy",
+			"col": "higher"
+		},
+		{
+			"id": "lehkyy.higher",
+			"item": "form:l21-comparison:lehkyy:higher",
+			"text": "легший",
+			"display": "ле́гший",
+			"row": "lehkyy",
+			"col": "higher"
+		},
+		{
+			"id": "hlybokyy.higher",
+			"item": "form:l21-comparison:hlybokyy:higher",
+			"text": "глибший",
+			"display": "гли́бший",
+			"row": "hlybokyy",
+			"col": "higher"
+		},
+		{
+			"id": "blyzkyy.higher",
+			"item": "form:l21-comparison:blyzkyy:higher",
+			"text": "ближчий",
+			"display": "бли́жчий",
+			"row": "blyzkyy",
+			"col": "higher"
+		},
+		{
+			"id": "nyzkyy.higher",
+			"item": "form:l21-comparison:nyzkyy:higher",
+			"text": "нижчий",
+			"display": "ни́жчий",
+			"row": "nyzkyy",
+			"col": "higher"
+		},
+		{
+			"id": "tyazhkyy.higher",
+			"item": "form:l21-comparison:tyazhkyy:higher",
+			"text": "тяжчий",
+			"display": "тя́жчий",
+			"row": "tyazhkyy",
+			"col": "higher"
+		},
+		{
+			"id": "vazhkyy.higher",
+			"item": "form:l21-comparison:vazhkyy:higher",
+			"text": "важчий",
+			"display": "ва́жчий",
+			"row": "vazhkyy",
+			"col": "higher"
+		},
+		{
+			"id": "vysokyy.higher",
+			"item": "form:l21-comparison:vysokyy:higher",
+			"text": "вищий",
+			"display": "ви́щий",
+			"row": "vysokyy",
+			"col": "higher"
+		},
+		{
+			"id": "khoroshyy.higher",
+			"item": "form:l21-comparison:khoroshyy:higher",
+			"text": "кращий",
+			"display": "кра́щий",
+			"row": "khoroshyy",
+			"col": "higher",
+			"alsoAccepted": ["ліпший"]
+		},
+		{
+			"id": "pohanyy.higher",
+			"item": "form:l21-comparison:pohanyy:higher",
+			"text": "гірший",
+			"display": "гі́рший",
+			"row": "pohanyy",
+			"col": "higher",
+			"alsoAccepted": ["поганіший", "поганший"]
+		},
+		{
+			"id": "velykyy.higher",
+			"item": "form:l21-comparison:velykyy:higher",
+			"text": "більший",
+			"display": "бі́льший",
+			"row": "velykyy",
+			"col": "higher"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 21 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@e343f13d37aa4bbab446b98139cfdda6"
+		},
+		{
+			"title": "Горох: слабкий",
+			"url": "https://goroh.pp.ua/Словозміна/слабкий"
+		},
+		{
+			"title": "Горох: грубий",
+			"url": "https://goroh.pp.ua/Словозміна/грубий"
+		},
+		{
+			"title": "Горох: ніжний",
+			"url": "https://goroh.pp.ua/Словозміна/ніжний"
+		},
+		{
+			"title": "Горох: легкий",
+			"url": "https://goroh.pp.ua/Словозміна/легкий"
+		},
+		{
+			"title": "Горох: глибокий",
+			"url": "https://goroh.pp.ua/Словозміна/глибокий"
+		},
+		{
+			"title": "Горох: близький",
+			"url": "https://goroh.pp.ua/Словозміна/близький"
+		},
+		{
+			"title": "Горох: низький",
+			"url": "https://goroh.pp.ua/Словозміна/низький"
+		},
+		{
+			"title": "Горох: тяжкий",
+			"url": "https://goroh.pp.ua/Словозміна/тяжкий"
+		},
+		{
+			"title": "Горох: важкий",
+			"url": "https://goroh.pp.ua/Словозміна/важкий"
+		},
+		{
+			"title": "Горох: високий",
+			"url": "https://goroh.pp.ua/Словозміна/високий"
+		},
+		{
+			"title": "Горох: хороший",
+			"url": "https://goroh.pp.ua/Словозміна/хороший"
+		},
+		{
+			"title": "Горох: поганий",
+			"url": "https://goroh.pp.ua/Словозміна/поганий"
+		},
+		{
+			"title": "Горох: великий",
+			"url": "https://goroh.pp.ua/Словозміна/великий"
+		},
+		{
+			"title": "Горох: слабкіший",
+			"url": "https://goroh.pp.ua/Словозміна/слабкіший"
+		},
+		{
+			"title": "Горох: грубіший",
+			"url": "https://goroh.pp.ua/Словозміна/грубіший"
+		},
+		{
+			"title": "Горох: ніжніший",
+			"url": "https://goroh.pp.ua/Словозміна/ніжніший"
+		},
+		{
+			"title": "Горох: легший",
+			"url": "https://goroh.pp.ua/Словозміна/легший"
+		},
+		{
+			"title": "Горох: глибший",
+			"url": "https://goroh.pp.ua/Словозміна/глибший"
+		},
+		{
+			"title": "Горох: ближчий",
+			"url": "https://goroh.pp.ua/Словозміна/ближчий"
+		},
+		{
+			"title": "Горох: нижчий",
+			"url": "https://goroh.pp.ua/Словозміна/нижчий"
+		},
+		{
+			"title": "Горох: тяжчий",
+			"url": "https://goroh.pp.ua/Словозміна/тяжчий"
+		},
+		{
+			"title": "Горох: важчий",
+			"url": "https://goroh.pp.ua/Словозміна/важчий"
+		},
+		{
+			"title": "Горох: вищий",
+			"url": "https://goroh.pp.ua/Словозміна/вищий"
+		},
+		{
+			"title": "Горох: кращий",
+			"url": "https://goroh.pp.ua/Словозміна/кращий"
+		},
+		{
+			"title": "Горох: гірший",
+			"url": "https://goroh.pp.ua/Словозміна/гірший"
+		},
+		{
+			"title": "Горох: більший",
+			"url": "https://goroh.pp.ua/Словозміна/більший"
+		},
+		{
+			"title": "Горох: ліпший",
+			"url": "https://goroh.pp.ua/Тлумачення/ліпший"
+		},
+		{
+			"title": "Горох: поганіший",
+			"url": "https://goroh.pp.ua/Тлумачення/поганіший"
+		},
+		{
+			"title": "Горох: слабший",
+			"url": "https://goroh.pp.ua/Словозміна/слабший"
+		},
+		{
+			"title": "СУМ-20: ступені порівняння поганий",
+			"url": "https://goroh.pp.ua/Тлумачення/поганий"
+		}
+	]
+}

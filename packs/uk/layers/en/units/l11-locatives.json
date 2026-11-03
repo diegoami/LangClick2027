@@ -1,0 +1,16 @@
+{
+	"title": "Locative: parts of the body",
+	"headers": {
+		"hand": "arm",
+		"leg": "leg",
+		"head": "head",
+		"eye": "eye",
+		"ear": "ear",
+		"shoulder": "shoulder",
+		"knee": "knee",
+		"finger": "finger",
+		"c0": "on/in one (locative)",
+		"c1": "on/in several (locative)"
+	},
+	"summary": "Use the row meanings to supply the locative singular or plural. Watch consonant changes and shifting stress."
+}

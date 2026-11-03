@@ -1,0 +1,358 @@
+{
+	"id": "l23-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 30
+	},
+	"cells": [
+		{
+			"id": "poshta",
+			"item": "word:poshta",
+			"text": "пошта",
+			"display": "по́шта",
+			"ipa": "/ˈpɔʃta/"
+		},
+		{
+			"id": "bank",
+			"item": "word:bank",
+			"text": "банк",
+			"display": "банк",
+			"ipa": "/bank/"
+		},
+		{
+			"id": "biblioteka",
+			"item": "word:biblioteka",
+			"text": "бібліотека",
+			"display": "бібліоте́ка",
+			"ipa": "/bʲiblʲiɔˈtɛka/",
+			"alsoAccepted": ["книгозбірня"]
+		},
+		{
+			"id": "lyst",
+			"item": "word:lyst",
+			"text": "лист",
+			"display": "лист",
+			"ipa": "/lɪst/"
+		},
+		{
+			"id": "marka",
+			"item": "word:marka",
+			"text": "марка",
+			"display": "ма́рка",
+			"ipa": "/ˈmarka/"
+		},
+		{
+			"id": "konvert",
+			"item": "word:konvert",
+			"text": "конверт",
+			"display": "конве́рт",
+			"ipa": "/kɔnˈʋɛrt/"
+		},
+		{
+			"id": "posylka",
+			"item": "word:posylka",
+			"text": "посилка",
+			"display": "поси́лка",
+			"ipa": "/pɔˈsɪlka/",
+			"alsoAccepted": ["пакунок"]
+		},
+		{
+			"id": "perekaz",
+			"item": "word:perekaz",
+			"text": "переказ",
+			"display": "пере́каз",
+			"ipa": "/pɛˈrɛkaz/"
+		},
+		{
+			"id": "rakhunok",
+			"item": "word:rakhunok-bill",
+			"text": "рахунок",
+			"display": "раху́нок",
+			"ipa": "/raˈxunɔk/"
+		},
+		{
+			"id": "kartka",
+			"item": "word:kartka",
+			"text": "картка",
+			"display": "ка́ртка",
+			"ipa": "/ˈkartka/",
+			"alsoAccepted": ["карта"]
+		},
+		{
+			"id": "pasport",
+			"item": "word:pasport",
+			"text": "паспорт",
+			"display": "па́спорт",
+			"ipa": "/ˈpaspɔrt/"
+		},
+		{
+			"id": "posluha",
+			"item": "word:posluha",
+			"text": "послуга",
+			"display": "по́слуга",
+			"ipa": "/ˈpɔsluɦa/"
+		},
+		{
+			"id": "kasa",
+			"item": "word:kasa",
+			"text": "каса",
+			"display": "ка́са",
+			"ipa": "/ˈkasa/"
+		},
+		{
+			"id": "viddilennya",
+			"item": "word:viddilennya",
+			"text": "відділення",
+			"display": "відді́лення",
+			"ipa": "/ʋʲidˈdʲilɛnʲːa/",
+			"alsoAccepted": ["філія"]
+		},
+		{
+			"id": "adresa",
+			"item": "word:adresa",
+			"text": "адреса",
+			"display": "адре́са",
+			"ipa": "/aˈdrɛsa/"
+		},
+		{
+			"id": "lystivka",
+			"item": "word:lystivka",
+			"text": "листівка",
+			"display": "листі́вка",
+			"ipa": "/lɪsˈtʲiʋka/"
+		},
+		{
+			"id": "vidpravnyk",
+			"item": "word:vidpravnyk",
+			"text": "відправник",
+			"display": "відпра́вник",
+			"ipa": "/ʋʲidˈpraʋnɪk/",
+			"alsoAccepted": ["відправляч"]
+		},
+		{
+			"id": "oderzhuvach",
+			"item": "word:oderzhuvach",
+			"text": "одержувач",
+			"display": "оде́ржувач",
+			"ipa": "/ɔˈdɛrʒuʋat͡ʃ/",
+			"alsoAccepted": ["отримувач", "адресат"]
+		},
+		{
+			"id": "povidomlennya",
+			"item": "word:povidomlennya",
+			"text": "повідомлення",
+			"display": "повідо́млення",
+			"ipa": "/pɔʋʲiˈdɔmlɛnʲːa/"
+		},
+		{
+			"id": "fayl",
+			"item": "word:fayl",
+			"text": "файл",
+			"display": "файл",
+			"ipa": "/fajl/"
+		},
+		{
+			"id": "vaha",
+			"item": "word:vaha",
+			"text": "вага",
+			"display": "вага́",
+			"ipa": "/ʋaˈɦa/",
+			"alsoAccepted": ["маса"]
+		},
+		{
+			"id": "vartist",
+			"item": "word:vartist",
+			"text": "вартість",
+			"display": "ва́ртість",
+			"ipa": "/ˈʋartʲistʲ/",
+			"alsoAccepted": ["ціна"]
+		},
+		{
+			"id": "kredyt",
+			"item": "word:kredyt",
+			"text": "кредит",
+			"display": "креди́т",
+			"ipa": "/krɛˈdɪt/",
+			"alsoAccepted": ["позика"]
+		},
+		{
+			"id": "formulyar",
+			"item": "word:formulyar",
+			"text": "формуляр",
+			"display": "формуля́р",
+			"ipa": "/fɔrmuˈlʲar/"
+		},
+		{
+			"id": "knyharnya",
+			"item": "word:knyharnya",
+			"text": "книгарня",
+			"display": "книга́рня",
+			"ipa": "/knɪˈɦarnʲa/"
+		},
+		{
+			"id": "bibliotekar",
+			"item": "word:bibliotekar",
+			"text": "бібліотекар",
+			"display": "бібліоте́кар",
+			"ipa": "/bʲiblʲiɔˈtɛkar/"
+		},
+		{
+			"id": "bezghotivkovyy",
+			"item": "word:bezghotivkovyy",
+			"text": "безготівковий",
+			"display": "безготівко́вий",
+			"ipa": "/bɛzɦɔtʲiʋˈkɔʋɪj/"
+		},
+		{
+			"id": "nadislaty",
+			"item": "word:nadislaty",
+			"text": "надіслати",
+			"display": "надісла́ти",
+			"ipa": "/nadʲiˈslatɪ/",
+			"alsoAccepted": ["послати", "відправити"]
+		},
+		{
+			"id": "otrymaty",
+			"item": "word:otrymaty",
+			"text": "отримати",
+			"display": "отри́мати",
+			"ipa": "/ɔˈtrɪmatɪ/",
+			"alsoAccepted": ["одержати"]
+		},
+		{
+			"id": "splatyty",
+			"item": "word:splatyty",
+			"text": "сплатити",
+			"display": "сплати́ти",
+			"ipa": "/splaˈtɪtɪ/",
+			"alsoAccepted": ["оплатити", "заплатити"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: пошта",
+			"url": "https://goroh.pp.ua/Словозміна/пошта"
+		},
+		{
+			"title": "Горох: банк",
+			"url": "https://goroh.pp.ua/Словозміна/банк"
+		},
+		{
+			"title": "Горох: бібліотека",
+			"url": "https://goroh.pp.ua/Словозміна/бібліотека"
+		},
+		{
+			"title": "Горох: лист",
+			"url": "https://goroh.pp.ua/Словозміна/лист"
+		},
+		{
+			"title": "Горох: марка",
+			"url": "https://goroh.pp.ua/Словозміна/марка"
+		},
+		{
+			"title": "Горох: конверт",
+			"url": "https://goroh.pp.ua/Словозміна/конверт"
+		},
+		{
+			"title": "Горох: посилка",
+			"url": "https://goroh.pp.ua/Словозміна/посилка"
+		},
+		{
+			"title": "Горох: переказ",
+			"url": "https://goroh.pp.ua/Словозміна/переказ"
+		},
+		{
+			"title": "Горох: рахунок",
+			"url": "https://goroh.pp.ua/Словозміна/рахунок"
+		},
+		{
+			"title": "Горох: картка",
+			"url": "https://goroh.pp.ua/Словозміна/картка"
+		},
+		{
+			"title": "Горох: паспорт",
+			"url": "https://goroh.pp.ua/Словозміна/паспорт"
+		},
+		{
+			"title": "Горох: послуга",
+			"url": "https://goroh.pp.ua/Словозміна/послуга"
+		},
+		{
+			"title": "Горох: каса",
+			"url": "https://goroh.pp.ua/Словозміна/каса"
+		},
+		{
+			"title": "Горох: відділення",
+			"url": "https://goroh.pp.ua/Словозміна/відділення"
+		},
+		{
+			"title": "Горох: адреса",
+			"url": "https://goroh.pp.ua/Словозміна/адреса"
+		},
+		{
+			"title": "Горох: листівка",
+			"url": "https://goroh.pp.ua/Словозміна/листівка"
+		},
+		{
+			"title": "Горох: відправник",
+			"url": "https://goroh.pp.ua/Словозміна/відправник"
+		},
+		{
+			"title": "Горох: одержувач",
+			"url": "https://goroh.pp.ua/Словозміна/одержувач"
+		},
+		{
+			"title": "Горох: повідомлення",
+			"url": "https://goroh.pp.ua/Словозміна/повідомлення"
+		},
+		{
+			"title": "Горох: файл",
+			"url": "https://goroh.pp.ua/Словозміна/файл"
+		},
+		{
+			"title": "Горох: вага",
+			"url": "https://goroh.pp.ua/Словозміна/вага"
+		},
+		{
+			"title": "Горох: вартість",
+			"url": "https://goroh.pp.ua/Словозміна/вартість"
+		},
+		{
+			"title": "Горох: кредит",
+			"url": "https://goroh.pp.ua/Словозміна/кредит"
+		},
+		{
+			"title": "Горох: формуляр",
+			"url": "https://goroh.pp.ua/Словозміна/формуляр"
+		},
+		{
+			"title": "Горох: книгарня",
+			"url": "https://goroh.pp.ua/Словозміна/книгарня"
+		},
+		{
+			"title": "Горох: бібліотекар",
+			"url": "https://goroh.pp.ua/Словозміна/бібліотекар"
+		},
+		{
+			"title": "Горох: безготівковий",
+			"url": "https://goroh.pp.ua/Словозміна/безготівковий"
+		},
+		{
+			"title": "Горох: надіслати",
+			"url": "https://goroh.pp.ua/Словозміна/надіслати"
+		},
+		{
+			"title": "Горох: отримати",
+			"url": "https://goroh.pp.ua/Словозміна/отримати"
+		},
+		{
+			"title": "Горох: сплатити",
+			"url": "https://goroh.pp.ua/Словозміна/сплатити"
+		},
+		{
+			"title": "Горох: академічні словникові значення — бібліотека",
+			"url": "https://goroh.pp.ua/Тлумачення/бібліотека"
+		}
+	]
+}

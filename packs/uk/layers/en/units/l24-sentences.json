@@ -1,0 +1,42 @@
+{
+	"title": "Describing symptoms and appointments",
+	"summary": "Use the indicated lemma and case. With боліти, the body part is the subject: singular болить, plural болять.",
+	"cells": {
+		"ache-sing": {
+			"sentenceGloss": "I have a headache today."
+		},
+		"ache-plur": {
+			"sentenceGloss": "The patient's teeth hurt."
+		},
+		"cough-gen": {
+			"sentenceGloss": "After treatment the cough is gone."
+		},
+		"nose-gen": {
+			"sentenceGloss": "This description does not mention symptoms of rhinitis."
+		},
+		"pressure-gen": {
+			"sentenceGloss": "The nurse recorded the pressure reading."
+		},
+		"pharmacy-loc": {
+			"sentenceGloss": "My sister works at a pharmacy."
+		},
+		"prescription-gen": {
+			"sentenceGloss": "The text contains the prescription number."
+		},
+		"cardiologist-inst": {
+			"sentenceGloss": "Olena spoke with the cardiologist."
+		},
+		"dermatologist-gen": {
+			"sentenceGloss": "Taras made an appointment with a dermatologist."
+		},
+		"ointment-gen": {
+			"sentenceGloss": "The name of the ointment is written on the package."
+		},
+		"weakness-inst": {
+			"sentenceGloss": "The patient describes their condition as “with considerable weakness”."
+		},
+		"medicine-gen": {
+			"sentenceGloss": "These medicines are not on the list."
+		}
+	}
+}

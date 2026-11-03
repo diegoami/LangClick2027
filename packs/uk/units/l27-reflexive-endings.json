@@ -1,0 +1,30 @@
+{
+	"id": "l27-reflexive-endings",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 2
+	},
+	"cells": [
+		{
+			"id": "shsya",
+			"item": "spelling-ending:uk:shsya",
+			"text": "шся",
+			"clue": "[sʲːa]",
+			"example": "вчи́шся"
+		},
+		{
+			"id": "tsya",
+			"item": "spelling-ending:uk:tsya",
+			"text": "ться",
+			"clue": "[t͡sʲːa]",
+			"example": "вча́ться"
+		}
+	],
+	"sources": [
+		{
+			"title": "Шевчук, Клименко: Українська мова за професійним спрямуванням, с.24",
+			"url": "https://repo.ocsnau.net/id/eprint/267/1/Укр%20мова%20за%20пр%20спрям%20Шевчук,%20Клименко.pdf#page=24"
+		}
+	]
+}

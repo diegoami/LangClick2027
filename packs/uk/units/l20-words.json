@@ -1,0 +1,219 @@
+{
+	"id": "l20-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 20
+	},
+	"cells": [
+		{
+			"id": "podorozh",
+			"item": "word:podorozh",
+			"text": "подорож",
+			"display": "по́дорож",
+			"alsoAccepted": ["мандрівка"]
+		},
+		{
+			"id": "vidpustka",
+			"item": "word:vidpustka",
+			"text": "відпустка",
+			"display": "відпу́стка"
+		},
+		{
+			"id": "stolytsya",
+			"item": "word:stolytsya",
+			"text": "столиця",
+			"display": "столи́ця"
+		},
+		{
+			"id": "pam-yatka",
+			"item": "word:pam-yatka",
+			"text": "пам'ятка",
+			"display": "па́м'ятка"
+		},
+		{
+			"id": "lehenda",
+			"item": "word:lehenda",
+			"text": "легенда",
+			"display": "леге́нда",
+			"alsoAccepted": ["переказ"]
+		},
+		{
+			"id": "khmarochos",
+			"item": "word:khmarochos",
+			"text": "хмарочос",
+			"display": "хмарочо́с"
+		},
+		{
+			"id": "naberezhna",
+			"item": "word:naberezhna",
+			"text": "набережна",
+			"display": "на́бережна"
+		},
+		{
+			"id": "bulvar",
+			"item": "word:bulvar",
+			"text": "бульвар",
+			"display": "бульва́р"
+		},
+		{
+			"id": "skhody",
+			"item": "word:skhody",
+			"text": "сходи",
+			"display": "схо́ди"
+		},
+		{
+			"id": "sporuda",
+			"item": "word:sporuda",
+			"text": "споруда",
+			"display": "спору́да"
+		},
+		{
+			"id": "budivlya",
+			"item": "word:budivlya",
+			"text": "будівля",
+			"display": "буді́вля"
+		},
+		{
+			"id": "ploshcha",
+			"item": "word:ploshcha",
+			"text": "площа",
+			"display": "пло́ща"
+		},
+		{
+			"id": "vulytsya",
+			"item": "word:vulytsya",
+			"text": "вулиця",
+			"display": "ву́лиця"
+		},
+		{
+			"id": "prospekt",
+			"item": "word:prospekt",
+			"text": "проспект",
+			"display": "проспе́кт"
+		},
+		{
+			"id": "teatr",
+			"item": "word:teatr",
+			"text": "театр",
+			"display": "теа́тр"
+		},
+		{
+			"id": "tserkva",
+			"item": "word:tserkva",
+			"text": "церква",
+			"display": "це́рква"
+		},
+		{
+			"id": "more",
+			"item": "word:more",
+			"text": "море",
+			"display": "мо́ре"
+		},
+		{
+			"id": "krayina",
+			"item": "word:krayina",
+			"text": "країна",
+			"display": "краї́на",
+			"alsoAccepted": ["держава"]
+		},
+		{
+			"id": "muzey",
+			"item": "word:muzey",
+			"text": "музей",
+			"display": "музе́й"
+		},
+		{
+			"id": "palats",
+			"item": "word:palats",
+			"text": "палац",
+			"display": "пала́ц"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 20 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@acee712c1883487f97c0ff31046ae49a"
+		},
+		{
+			"title": "Горох: подорож",
+			"url": "https://goroh.pp.ua/Словозміна/подорож"
+		},
+		{
+			"title": "Горох: відпустка",
+			"url": "https://goroh.pp.ua/Словозміна/відпустка"
+		},
+		{
+			"title": "Горох: столиця",
+			"url": "https://goroh.pp.ua/Словозміна/столиця"
+		},
+		{
+			"title": "Горох: пам'ятка",
+			"url": "https://goroh.pp.ua/Словозміна/пам'ятка"
+		},
+		{
+			"title": "Горох: легенда",
+			"url": "https://goroh.pp.ua/Словозміна/легенда"
+		},
+		{
+			"title": "Горох: хмарочос",
+			"url": "https://goroh.pp.ua/Словозміна/хмарочос"
+		},
+		{
+			"title": "Горох: набережна",
+			"url": "https://goroh.pp.ua/Словозміна/набережна"
+		},
+		{
+			"title": "Горох: бульвар",
+			"url": "https://goroh.pp.ua/Словозміна/бульвар"
+		},
+		{
+			"title": "Горох: сходи",
+			"url": "https://goroh.pp.ua/Словозміна/сходи"
+		},
+		{
+			"title": "Горох: споруда",
+			"url": "https://goroh.pp.ua/Словозміна/споруда"
+		},
+		{
+			"title": "Горох: будівля",
+			"url": "https://goroh.pp.ua/Словозміна/будівля"
+		},
+		{
+			"title": "Горох: площа",
+			"url": "https://goroh.pp.ua/Словозміна/площа"
+		},
+		{
+			"title": "Горох: вулиця",
+			"url": "https://goroh.pp.ua/Словозміна/вулиця"
+		},
+		{
+			"title": "Горох: проспект",
+			"url": "https://goroh.pp.ua/Словозміна/проспект"
+		},
+		{
+			"title": "Горох: театр",
+			"url": "https://goroh.pp.ua/Словозміна/театр"
+		},
+		{
+			"title": "Горох: церква",
+			"url": "https://goroh.pp.ua/Словозміна/церква"
+		},
+		{
+			"title": "Горох: море",
+			"url": "https://goroh.pp.ua/Словозміна/море"
+		},
+		{
+			"title": "Горох: країна",
+			"url": "https://goroh.pp.ua/Словозміна/країна"
+		},
+		{
+			"title": "Горох: музей",
+			"url": "https://goroh.pp.ua/Словозміна/музей"
+		},
+		{
+			"title": "Горох: палац",
+			"url": "https://goroh.pp.ua/Словозміна/палац"
+		}
+	]
+}

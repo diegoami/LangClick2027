@@ -1,0 +1,105 @@
+{
+	"title": "Drzewa, krzewy i jagody",
+	"summary": "Явір to jawor, nie jesion. Смерека oznacza świerk, ялиця — jodłę. Akcent nie musi padać jak w polskim.",
+	"cells": {
+		"dub": {
+			"clue": "dąb"
+		},
+		"sosna": {
+			"clue": "sosna"
+		},
+		"yavir": {
+			"clue": "jawor, klon jawor"
+		},
+		"bereza": {
+			"clue": "brzoza"
+		},
+		"lypa": {
+			"clue": "lipa"
+		},
+		"osyka": {
+			"clue": "osika"
+		},
+		"vilkha": {
+			"clue": "olcha"
+		},
+		"ozhyna": {
+			"clue": "jeżyna"
+		},
+		"shypshyna": {
+			"clue": "dzika róża"
+		},
+		"barbarys": {
+			"clue": "berberys"
+		},
+		"lishchyna": {
+			"clue": "leszczyna"
+		},
+		"malyna": {
+			"clue": "malina"
+		},
+		"buzok": {
+			"clue": "lilak"
+		},
+		"brusnytsya": {
+			"clue": "borówka brusznica"
+		},
+		"chornytsya": {
+			"clue": "borówka czernica"
+		},
+		"zhuravlyna": {
+			"clue": "żurawina"
+		},
+		"hlid": {
+			"clue": "głóg"
+		},
+		"myhdal": {
+			"clue": "migdał"
+		},
+		"teren": {
+			"clue": "tarnina"
+		},
+		"buk": {
+			"clue": "buk"
+		},
+		"yalytsya": {
+			"clue": "jodła"
+		},
+		"smereka": {
+			"clue": "świerk; nazwa karpacka"
+		},
+		"modryna": {
+			"clue": "modrzew"
+		},
+		"yalivets": {
+			"clue": "jałowiec"
+		},
+		"kyparys": {
+			"clue": "cyprys"
+		},
+		"palma": {
+			"clue": "palma"
+		},
+		"mahnoliya": {
+			"clue": "magnolia"
+		},
+		"kedr": {
+			"clue": "cedr"
+		},
+		"lavr": {
+			"clue": "wawrzyn"
+		},
+		"kalyna": {
+			"clue": "kalina koralowa"
+		},
+		"verba": {
+			"clue": "wierzba"
+		},
+		"sunychne-derevo": {
+			"clue": "drzewo truskawkowe; chruścina (dwa słowa)"
+		},
+		"fistashka": {
+			"clue": "pistacja jako drzewo lub orzech"
+		}
+	}
+}

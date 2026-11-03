@@ -1,0 +1,28 @@
+{
+	"title": "Навчати i навчатися: czas teraźniejszy",
+	"summary": "Odmień bezokolicznik podany w każdej kolumnie. Навчати oznacza uczyć kogoś, a навчатися — uczyć się samemu. Wiersze podają ukraińskie zaimki osobowe; forma dla він pasuje także do вона i воно. Ви oznacza liczbę mnogą lub zwrot grzecznościowy.",
+	"cells": {
+		"ya.navchaty": {},
+		"ty.navchaty": {},
+		"he.navchaty": {},
+		"my.navchaty": {},
+		"vy.navchaty": {},
+		"they.navchaty": {},
+		"ya.navchatysya": {},
+		"ty.navchatysya": {},
+		"he.navchatysya": {},
+		"my.navchatysya": {},
+		"vy.navchatysya": {},
+		"they.navchatysya": {}
+	},
+	"headers": {
+		"ya": "я",
+		"ty": "ти",
+		"he": "він",
+		"my": "ми",
+		"vy": "ви",
+		"they": "вони",
+		"navchaty": "навча́ти",
+		"navchatysya": "навча́тися"
+	}
+}

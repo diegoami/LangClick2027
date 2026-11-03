@@ -1,0 +1,57 @@
+{
+	"title": "Lekarze specjaliści",
+	"summary": "Nazwy specjalności w rodzaju męskim. Rodzaj gramatyczny nie określa, kto może wykonywać zawód.",
+	"cells": {
+		"alerholoh": {
+			"clue": "alergolog (rodzaj męski)"
+		},
+		"hinekoloh": {
+			"clue": "ginekolog (rodzaj męski)"
+		},
+		"mamoloh": {
+			"clue": "mammolog (rodzaj męski)"
+		},
+		"uroloh": {
+			"clue": "urolog (rodzaj męski)"
+		},
+		"kardioloh": {
+			"clue": "kardiolog (rodzaj męski)"
+		},
+		"hastroenteroloh": {
+			"clue": "gastroenterolog (rodzaj męski)"
+		},
+		"nevropatoloh": {
+			"clue": "neurolog (rodzaj męski)"
+		},
+		"endokrynoloh": {
+			"clue": "endokrynolog (rodzaj męski)"
+		},
+		"khirurh": {
+			"clue": "chirurg (rodzaj męski)"
+		},
+		"travmatoloh": {
+			"clue": "traumatolog (rodzaj męski)"
+		},
+		"dermatoloh": {
+			"clue": "dermatolog (rodzaj męski)"
+		},
+		"stomatoloh": {
+			"clue": "stomatolog (rodzaj męski)"
+		},
+		"onkoloh": {
+			"clue": "onkolog (rodzaj męski)"
+		},
+		"oftalmoloh": {
+			"clue": "okulista (rodzaj męski)"
+		},
+		"ftyziatr": {
+			"clue": "ftyzjatra (rodzaj męski)"
+		},
+		"psykhiatr": {
+			"clue": "psychiatra (rodzaj męski)"
+		},
+		"narkoloh": {
+			"clue": "lekarz uzależnień (rodzaj męski)"
+		}
+	}
+}

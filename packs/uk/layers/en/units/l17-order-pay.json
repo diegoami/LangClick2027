@@ -1,0 +1,39 @@
+{
+	"title": "Ordering and paying",
+	"summary": "Requests, payment forms and currency amounts: 1, 2–4 and 5+.",
+	"cells": {
+		"water": {
+			"sentenceGloss": "Bring us still water."
+		},
+		"card": {
+			"sentenceGloss": "We will pay for dinner by card."
+		},
+		"cash": {
+			"sentenceGloss": "Today we are paying in cash."
+		},
+		"coffee": {
+			"sentenceGloss": "I will order coffee without milk."
+		},
+		"one": {
+			"sentenceGloss": "There is one hryvnia on the table."
+		},
+		"two": {
+			"sentenceGloss": "The bag costs two hryvnias."
+		},
+		"five": {
+			"sentenceGloss": "They charged five hryvnias for the napkins."
+		},
+		"twentyone": {
+			"sentenceGloss": "The receipt shows twenty-one hryvnias."
+		},
+		"twentytwo": {
+			"sentenceGloss": "The tea costs twenty-two hryvnias."
+		},
+		"twentyfive": {
+			"sentenceGloss": "The coffee costs twenty-five hryvnias."
+		},
+		"bill-request": {
+			"sentenceGloss": "Please give us the bill for dinner."
+		}
+	}
+}

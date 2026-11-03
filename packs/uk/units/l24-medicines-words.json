@@ -1,0 +1,78 @@
+{
+	"id": "l24-medicines-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"cells": [
+		{
+			"id": "pihulka",
+			"item": "word:pihulka",
+			"text": "пігулка",
+			"display": "пігу́лка",
+			"alsoAccepted": ["таблетка", "пілюля"]
+		},
+		{
+			"id": "mikstura",
+			"item": "word:mikstura",
+			"text": "мікстура",
+			"display": "міксту́ра"
+		},
+		{
+			"id": "krapli",
+			"item": "word:krapli",
+			"text": "краплі",
+			"display": "кра́плі"
+		},
+		{
+			"id": "svichka",
+			"item": "word:svichka",
+			"text": "свічка",
+			"display": "сві́чка",
+			"alsoAccepted": ["супозиторій"]
+		},
+		{
+			"id": "syrop",
+			"item": "word:syrop",
+			"text": "сироп",
+			"display": "сиро́п"
+		},
+		{
+			"id": "maz",
+			"item": "word:maz",
+			"text": "мазь",
+			"display": "мазь"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: пігулка",
+			"url": "https://goroh.pp.ua/Словозміна/пігулка"
+		},
+		{
+			"title": "Горох: мікстура",
+			"url": "https://goroh.pp.ua/Словозміна/мікстура"
+		},
+		{
+			"title": "Горох: краплі",
+			"url": "https://goroh.pp.ua/Словозміна/краплі"
+		},
+		{
+			"title": "Горох: свічка",
+			"url": "https://goroh.pp.ua/Словозміна/свічка"
+		},
+		{
+			"title": "Горох: сироп",
+			"url": "https://goroh.pp.ua/Словозміна/сироп"
+		},
+		{
+			"title": "Горох: мазь",
+			"url": "https://goroh.pp.ua/Словозміна/мазь"
+		},
+		{
+			"title": "Горох: академічні словникові значення — пігулка",
+			"url": "https://goroh.pp.ua/Тлумачення/пігулка"
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"id": "l18-travel-sentences",
+	"typing": true,
+	"dealAll": true,
+	"layout": {
+		"type": "sentences",
+		"size": 10
+	},
+	"cells": [
+		{
+			"id": "now",
+			"item": "sentence:l18-travel-sentences:now",
+			"text": "їду",
+			"sentence": "Зараз я ___ до театру. (їхати, теперішній час)",
+			"display": "ї́ду"
+		},
+		{
+			"id": "often",
+			"item": "sentence:l18-travel-sentences:often",
+			"text": "їжджу",
+			"sentence": "Щопонеділка я ___ до офісу. (їздити, теперішній час)",
+			"display": "ї́жджу"
+		},
+		{
+			"id": "we",
+			"item": "sentence:l18-travel-sentences:we",
+			"text": "їдемо",
+			"sentence": "Цієї миті ми ___ через міст. (їхати)",
+			"display": "ї́демо",
+			"alsoAccepted": ["їдем"]
+		},
+		{
+			"id": "they",
+			"item": "sentence:l18-travel-sentences:they",
+			"text": "їздять",
+			"sentence": "Наші сусіди щоліта ___ на озеро. (їздити)",
+			"display": "ї́здять"
+		},
+		{
+			"id": "town",
+			"item": "sentence:l18-travel-sentences:town",
+			"text": "місті",
+			"sentence": "У цьому ___ є трамваї. (місто)",
+			"display": "мі́сті",
+			"alsoAccepted": ["містові", "місту"]
+		},
+		{
+			"id": "place",
+			"item": "sentence:l18-travel-sentences:place",
+			"text": "місці",
+			"sentence": "На цьому ___ буде зупинка. (місце)",
+			"display": "мі́сці",
+			"alsoAccepted": ["місцю"]
+		},
+		{
+			"id": "towns",
+			"item": "sentence:l18-travel-sentences:towns",
+			"text": "містах",
+			"sentence": "Туристи побували в трьох ___. (місто)",
+			"display": "міста́х"
+		},
+		{
+			"id": "places",
+			"item": "sentence:l18-travel-sentences:places",
+			"text": "місцях",
+			"sentence": "У цих ___ заборонено паркуватися. (місце)",
+			"display": "місця́х"
+		},
+		{
+			"id": "plane",
+			"item": "sentence:l18-travel-sentences:plane",
+			"text": "літаком",
+			"sentence": "За кордон вони летять ___. (літак)",
+			"display": "літако́м"
+		},
+		{
+			"id": "train",
+			"item": "sentence:l18-travel-sentences:train",
+			"text": "поїздом",
+			"sentence": "Цього разу ми подорожуємо ___. (поїзд)",
+			"display": "по́їздом"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 18 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@379d8038f88d4d88bd9c003752fb58b8"
+		},
+		{
+			"title": "Горох: їхати",
+			"url": "https://goroh.pp.ua/Словозміна/їхати"
+		},
+		{
+			"title": "Горох: їздити",
+			"url": "https://goroh.pp.ua/Словозміна/їздити"
+		},
+		{
+			"title": "Горох: місто",
+			"url": "https://goroh.pp.ua/Словозміна/місто"
+		},
+		{
+			"title": "Горох: місце",
+			"url": "https://goroh.pp.ua/Словозміна/місце"
+		},
+		{
+			"title": "Горох: літак",
+			"url": "https://goroh.pp.ua/Словозміна/літак"
+		},
+		{
+			"title": "Горох: поїзд",
+			"url": "https://goroh.pp.ua/Словозміна/поїзд"
+		}
+	]
+}

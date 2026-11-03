@@ -1,0 +1,69 @@
+{
+	"title": "Transport",
+	"summary": "Pojazdy, podróże, miasto i miejsce.",
+	"cells": {
+		"avtomobil": {
+			"clue": "samochód"
+		},
+		"prychip": {
+			"clue": "przyczepa"
+		},
+		"avtobus": {
+			"clue": "autobus"
+		},
+		"marshrutka": {
+			"clue": "bus kursujący po stałej trasie (potocznie)"
+		},
+		"vantazhivka": {
+			"clue": "ciężarówka"
+		},
+		"tramvay": {
+			"clue": "tramwaj"
+		},
+		"troleybus": {
+			"clue": "trolejbus"
+		},
+		"poyizd": {
+			"clue": "pociąg"
+		},
+		"metro": {
+			"clue": "metro"
+		},
+		"taksi": {
+			"clue": "taksówka"
+		},
+		"elektrychka": {
+			"clue": "pociąg podmiejski (potocznie)"
+		},
+		"litak": {
+			"clue": "samolot"
+		},
+		"aeroport": {
+			"clue": "lotnisko"
+		},
+		"vokzal": {
+			"clue": "dworzec kolejowy"
+		},
+		"kvytok": {
+			"clue": "bilet na przejazd"
+		},
+		"pasazhyr": {
+			"clue": "pasażer"
+		},
+		"turyst": {
+			"clue": "turysta"
+		},
+		"zupynka": {
+			"clue": "przystanek autobusowy"
+		},
+		"zator": {
+			"clue": "korek drogowy"
+		},
+		"misto": {
+			"clue": "miasto"
+		},
+		"mistse": {
+			"clue": "miejsce"
+		}
+	}
+}

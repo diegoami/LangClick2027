@@ -1,0 +1,239 @@
+{
+	"id": "l17-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 22
+	},
+	"cells": [
+		{
+			"id": "restoran",
+			"item": "word:restoran",
+			"text": "ресторан",
+			"display": "рестора́н"
+		},
+		{
+			"id": "kav-yarnya",
+			"item": "word:kav-yarnya",
+			"text": "кав'ярня",
+			"display": "кав'я́рня"
+		},
+		{
+			"id": "ofitsiant",
+			"item": "word:ofitsiant",
+			"text": "офіціант",
+			"display": "офіціа́нт",
+			"alsoAccepted": ["кельнер"]
+		},
+		{
+			"id": "menyu",
+			"item": "word:menyu",
+			"text": "меню",
+			"display": "меню́"
+		},
+		{
+			"id": "strava",
+			"item": "word:strava",
+			"text": "страва",
+			"display": "стра́ва"
+		},
+		{
+			"id": "rakhunok",
+			"item": "word:rakhunok-bill",
+			"text": "рахунок",
+			"display": "раху́нок"
+		},
+		{
+			"id": "zamovlennya",
+			"item": "word:zamovlennya",
+			"text": "замовлення",
+			"display": "замо́влення"
+		},
+		{
+			"id": "chayovi",
+			"item": "word:chayovi",
+			"text": "чайові",
+			"display": "чайові́"
+		},
+		{
+			"id": "napiy",
+			"item": "word:napiy",
+			"text": "напій",
+			"display": "напі́й"
+		},
+		{
+			"id": "desert",
+			"item": "word:desert",
+			"text": "десерт",
+			"display": "десе́рт"
+		},
+		{
+			"id": "bulyon",
+			"item": "word:bulyon",
+			"text": "бульйон",
+			"display": "бульйо́н"
+		},
+		{
+			"id": "espreso",
+			"item": "word:espreso",
+			"text": "еспресо",
+			"display": "еспре́со"
+		},
+		{
+			"id": "kapuchyno",
+			"item": "word:kapuchyno",
+			"text": "капучино",
+			"display": "капучи́но"
+		},
+		{
+			"id": "shokolad",
+			"item": "word:shokolad",
+			"text": "шоколад",
+			"display": "шокола́д"
+		},
+		{
+			"id": "vartist",
+			"item": "word:vartist",
+			"text": "вартість",
+			"display": "ва́ртість",
+			"alsoAccepted": ["ціна"]
+		},
+		{
+			"id": "hotivka",
+			"item": "word:hotivka",
+			"text": "готівка",
+			"display": "готі́вка"
+		},
+		{
+			"id": "kartka",
+			"item": "word:kartka",
+			"text": "картка",
+			"display": "ка́ртка"
+		},
+		{
+			"id": "reshta",
+			"item": "word:reshta",
+			"text": "решта",
+			"display": "ре́шта"
+		},
+		{
+			"id": "hroshi",
+			"item": "word:hroshi",
+			"text": "гроші",
+			"display": "гро́ші"
+		},
+		{
+			"id": "hryvnya",
+			"item": "word:hryvnya",
+			"text": "гривня",
+			"display": "гри́вня"
+		},
+		{
+			"id": "kupyura",
+			"item": "word:kupyura",
+			"text": "купюра",
+			"display": "купю́ра",
+			"alsoAccepted": ["банкнота"]
+		},
+		{
+			"id": "moneta",
+			"item": "word:moneta",
+			"text": "монета",
+			"display": "моне́та"
+		}
+	],
+	"sources": [
+		{
+			"title": "eMova: lesson 17 — study first",
+			"url": "https://course.emova.language-ua.online/courses/course-v1:ukainianworld+EMOVA102+2020/jump_to/block-v1:ukainianworld+EMOVA102+2020+type@vertical+block@093965737a05495f84343b6afe6a57b6"
+		},
+		{
+			"title": "Горох: ресторан",
+			"url": "https://goroh.pp.ua/Словозміна/ресторан"
+		},
+		{
+			"title": "Горох: кав'ярня",
+			"url": "https://goroh.pp.ua/Словозміна/кав'ярня"
+		},
+		{
+			"title": "Горох: офіціант",
+			"url": "https://goroh.pp.ua/Словозміна/офіціант"
+		},
+		{
+			"title": "Горох: меню",
+			"url": "https://goroh.pp.ua/Словозміна/меню"
+		},
+		{
+			"title": "Горох: страва",
+			"url": "https://goroh.pp.ua/Словозміна/страва"
+		},
+		{
+			"title": "Горох: рахунок",
+			"url": "https://goroh.pp.ua/Словозміна/рахунок"
+		},
+		{
+			"title": "Горох: замовлення",
+			"url": "https://goroh.pp.ua/Словозміна/замовлення"
+		},
+		{
+			"title": "Горох: чайові",
+			"url": "https://goroh.pp.ua/Словозміна/чайові"
+		},
+		{
+			"title": "Горох: напій",
+			"url": "https://goroh.pp.ua/Словозміна/напій"
+		},
+		{
+			"title": "Горох: десерт",
+			"url": "https://goroh.pp.ua/Словозміна/десерт"
+		},
+		{
+			"title": "Горох: бульйон",
+			"url": "https://goroh.pp.ua/Словозміна/бульйон"
+		},
+		{
+			"title": "Горох: еспресо",
+			"url": "https://goroh.pp.ua/Словозміна/еспресо"
+		},
+		{
+			"title": "Горох: капучино",
+			"url": "https://goroh.pp.ua/Словозміна/капучино"
+		},
+		{
+			"title": "Горох: шоколад",
+			"url": "https://goroh.pp.ua/Словозміна/шоколад"
+		},
+		{
+			"title": "Горох: вартість",
+			"url": "https://goroh.pp.ua/Словозміна/вартість"
+		},
+		{
+			"title": "Горох: готівка",
+			"url": "https://goroh.pp.ua/Словозміна/готівка"
+		},
+		{
+			"title": "Горох: картка",
+			"url": "https://goroh.pp.ua/Словозміна/картка"
+		},
+		{
+			"title": "Горох: решта",
+			"url": "https://goroh.pp.ua/Словозміна/решта"
+		},
+		{
+			"title": "Горох: гроші",
+			"url": "https://goroh.pp.ua/Словозміна/гроші"
+		},
+		{
+			"title": "Горох: гривня",
+			"url": "https://goroh.pp.ua/Словозміна/гривня"
+		},
+		{
+			"title": "Горох: купюра",
+			"url": "https://goroh.pp.ua/Словозміна/купюра"
+		},
+		{
+			"title": "Горох: монета",
+			"url": "https://goroh.pp.ua/Словозміна/монета"
+		}
+	]
+}

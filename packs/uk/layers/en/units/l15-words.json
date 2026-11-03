@@ -1,0 +1,106 @@
+{
+	"title": "Shopping and groceries",
+	"cells": {
+		"zakupy": {
+			"clue": "shopping; purchases"
+		},
+		"khlibyna": {
+			"clue": "a loaf of bread"
+		},
+		"plyashka": {
+			"clue": "bottle"
+		},
+		"yakist": {
+			"clue": "quality"
+		},
+		"termin-prydatnosti": {
+			"clue": "shelf life; expiry period"
+		},
+		"koshtuvaty": {
+			"clue": "to cost"
+		},
+		"svizhyy": {
+			"clue": "fresh"
+		},
+		"oliya": {
+			"clue": "vegetable oil"
+		},
+		"maslo": {
+			"clue": "butter"
+		},
+		"krip": {
+			"clue": "dill"
+		},
+		"petrushka": {
+			"clue": "parsley"
+		},
+		"bazylik": {
+			"clue": "basil"
+		},
+		"kartoplya": {
+			"clue": "potato (crop; collective)"
+		},
+		"buryak": {
+			"clue": "beetroot"
+		},
+		"tsybulya": {
+			"clue": "onion"
+		},
+		"chasnyk": {
+			"clue": "garlic"
+		},
+		"morkva": {
+			"clue": "carrot (crop; collective)"
+		},
+		"kvasolya": {
+			"clue": "beans (crop; collective)"
+		},
+		"kavun": {
+			"clue": "watermelon"
+		},
+		"dynya": {
+			"clue": "melon"
+		},
+		"polunytsya": {
+			"clue": "strawberry"
+		},
+		"vyshnya": {
+			"clue": "sour cherry"
+		},
+		"agrus": {
+			"clue": "gooseberry"
+		},
+		"vershky": {
+			"clue": "cream (plural noun)"
+		},
+		"morozyvo": {
+			"clue": "ice cream"
+		},
+		"boroshno": {
+			"clue": "flour"
+		},
+		"tsukor": {
+			"clue": "sugar"
+		},
+		"sil": {
+			"clue": "salt"
+		},
+		"zhushchene-moloko": {
+			"clue": "condensed milk"
+		},
+		"makarony": {
+			"clue": "pasta (plural noun)"
+		},
+		"solodoshchi": {
+			"clue": "sweets (plural noun)"
+		},
+		"tsukornytsya": {
+			"clue": "sugar bowl (word containing цукор-)"
+		},
+		"tsukernytsya": {
+			"clue": "sugar bowl: dictionary synonym containing цукер-",
+			"note": "Academic dictionaries also use цукерниця for a sugar bowl. These two words are distinguished here by their spelling, not by an exclusive sugar-versus-candy rule."
+		}
+	},
+	"summary": "Recall grocery and shopping terms. Distinguish plant oil from butter, and sugar from sweets. Give dictionary forms."
+}

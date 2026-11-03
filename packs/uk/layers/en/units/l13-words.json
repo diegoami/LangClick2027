@@ -1,0 +1,99 @@
+{
+	"title": "Clothes and footwear",
+	"cells": {
+		"odyah": {
+			"clue": "clothes; clothing"
+		},
+		"vzuttya": {
+			"clue": "footwear"
+		},
+		"spidnytsya": {
+			"clue": "skirt"
+		},
+		"suknya": {
+			"clue": "dress"
+		},
+		"bluzka": {
+			"clue": "blouse"
+		},
+		"zhaket": {
+			"clue": "women’s jacket"
+		},
+		"kardyhan": {
+			"clue": "cardigan"
+		},
+		"nichna-sorochka": {
+			"clue": "nightdress"
+		},
+		"pidzhak": {
+			"clue": "suit jacket"
+		},
+		"kravatka": {
+			"clue": "necktie"
+		},
+		"metelyk": {
+			"clue": "bow tie"
+		},
+		"shtany": {
+			"clue": "trousers"
+		},
+		"sorochka": {
+			"clue": "shirt"
+		},
+		"svetr": {
+			"clue": "sweater"
+		},
+		"palto": {
+			"clue": "overcoat"
+		},
+		"plashch": {
+			"clue": "raincoat; light coat"
+		},
+		"kapelyukh": {
+			"clue": "brimmed hat"
+		},
+		"kaptsi": {
+			"clue": "slippers"
+		},
+		"bosonizhky": {
+			"clue": "sandals"
+		},
+		"tufli": {
+			"clue": "dress shoes"
+		},
+		"krosivky": {
+			"clue": "trainers; athletic shoes"
+		},
+		"kedy": {
+			"clue": "canvas gym shoes"
+		},
+		"choboty": {
+			"clue": "high boots"
+		},
+		"cherevyky": {
+			"clue": "ankle boots; sturdy low boots"
+		},
+		"namysto": {
+			"clue": "necklace of beads"
+		},
+		"rozmir": {
+			"clue": "size (clothing)"
+		},
+		"vybyraty": {
+			"clue": "to choose (imperfective)"
+		},
+		"miryaty": {
+			"clue": "to try on (clothes; imperfective)"
+		},
+		"kupuvaty": {
+			"clue": "to buy (imperfective)"
+		},
+		"odyahatysya": {
+			"clue": "to dress oneself (imperfective)"
+		},
+		"vzuvatysya": {
+			"clue": "to put on one’s footwear (imperfective)"
+		}
+	},
+	"summary": "Recall clothing, footwear and shopping verbs. Nouns use dictionary forms; verbs use the imperfective infinitive."
+}

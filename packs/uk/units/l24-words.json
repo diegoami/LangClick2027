@@ -1,0 +1,358 @@
+{
+	"id": "l24-words",
+	"typing": true,
+	"layout": {
+		"type": "grid",
+		"size": 30
+	},
+	"cells": [
+		{
+			"id": "samopochuttya",
+			"item": "word:samopochuttya",
+			"text": "самопочуття",
+			"display": "самопочуття́",
+			"ipa": "/samɔpɔt͡ʃuˈtʲːa/"
+		},
+		{
+			"id": "zdorovya",
+			"item": "word:zdorovya",
+			"text": "здоров'я",
+			"display": "здоро́в'я",
+			"ipa": "/zdɔˈrɔʋja/"
+		},
+		{
+			"id": "bil",
+			"item": "word:bil",
+			"text": "біль",
+			"display": "біль",
+			"ipa": "/bʲilʲ/"
+		},
+		{
+			"id": "temperatura",
+			"item": "word:temperatura",
+			"text": "температура",
+			"display": "температу́ра",
+			"ipa": "/tɛmpɛraˈtura/"
+		},
+		{
+			"id": "kashel",
+			"item": "word:kashel",
+			"text": "кашель",
+			"display": "ка́шель",
+			"ipa": "/ˈkaʃɛlʲ/"
+		},
+		{
+			"id": "nezhyt",
+			"item": "word:nezhyt",
+			"text": "нежить",
+			"display": "не́жить",
+			"ipa": "/ˈnɛʒɪtʲ/",
+			"alsoAccepted": ["риніт"]
+		},
+		{
+			"id": "zastuda",
+			"item": "word:zastuda",
+			"text": "застуда",
+			"display": "засту́да",
+			"ipa": "/zasˈtuda/"
+		},
+		{
+			"id": "liky",
+			"item": "word:liky",
+			"text": "ліки",
+			"display": "лі́ки",
+			"ipa": "/ˈlʲikɪ/",
+			"alsoAccepted": ["медикаменти"]
+		},
+		{
+			"id": "apteka",
+			"item": "word:apteka",
+			"text": "аптека",
+			"display": "апте́ка",
+			"ipa": "/apˈtɛka/"
+		},
+		{
+			"id": "retsept",
+			"item": "word:retsept",
+			"text": "рецепт",
+			"display": "реце́пт",
+			"ipa": "/rɛˈt͡sɛpt/"
+		},
+		{
+			"id": "likuvannya",
+			"item": "word:likuvannya",
+			"text": "лікування",
+			"display": "лікува́ння",
+			"ipa": "/lʲikuˈʋanʲːa/"
+		},
+		{
+			"id": "bolity",
+			"item": "word:bolity",
+			"text": "боліти",
+			"display": "болі́ти",
+			"ipa": "/bɔˈlʲitɪ/"
+		},
+		{
+			"id": "khvority",
+			"item": "word:khvority",
+			"text": "хворіти",
+			"display": "хворі́ти",
+			"ipa": "/xʋɔˈrʲitɪ/",
+			"alsoAccepted": ["нездужати"]
+		},
+		{
+			"id": "oduzhuvaty",
+			"item": "word:oduzhuvaty",
+			"text": "одужувати",
+			"display": "оду́жувати",
+			"ipa": "/ɔˈduʒuʋatɪ/",
+			"alsoAccepted": ["видужувати"]
+		},
+		{
+			"id": "sonlyvist",
+			"item": "word:sonlyvist",
+			"text": "сонливість",
+			"display": "сонли́вість",
+			"ipa": "/sɔnˈlɪʋʲistʲ/"
+		},
+		{
+			"id": "badyoryy",
+			"item": "word:badyoryy",
+			"text": "бадьорий",
+			"display": "бадьо́рий",
+			"ipa": "/baˈdʲɔrɪj/"
+		},
+		{
+			"id": "nudota",
+			"item": "word:nudota",
+			"text": "нудота",
+			"display": "нудо́та",
+			"ipa": "/nuˈdɔta/"
+		},
+		{
+			"id": "slabkist",
+			"item": "word:slabkist",
+			"text": "слабкість",
+			"display": "сла́бкість",
+			"ipa": "/ˈslabkʲistʲ/"
+		},
+		{
+			"id": "tysk",
+			"item": "word:tysk",
+			"text": "тиск",
+			"display": "тиск",
+			"ipa": "/tɪsk/"
+		},
+		{
+			"id": "lykhomanka",
+			"item": "word:lykhomanka",
+			"text": "лихоманка",
+			"display": "лихома́нка",
+			"ipa": "/lɪxɔˈmanka/",
+			"alsoAccepted": ["гарячка"]
+		},
+		{
+			"id": "hryp",
+			"item": "word:hryp",
+			"text": "грип",
+			"display": "грип",
+			"ipa": "/ɦrɪp/"
+		},
+		{
+			"id": "anhina",
+			"item": "word:anhina",
+			"text": "ангіна",
+			"display": "ангі́на",
+			"ipa": "/anˈɦʲina/",
+			"alsoAccepted": ["тонзиліт"]
+		},
+		{
+			"id": "hastryt",
+			"item": "word:hastryt",
+			"text": "гастрит",
+			"display": "гастри́т",
+			"ipa": "/ɦasˈtrɪt/"
+		},
+		{
+			"id": "pnevmoniya",
+			"item": "word:pnevmoniya",
+			"text": "пневмонія",
+			"display": "пневмоні́я",
+			"ipa": "/pnɛʋmɔˈnʲija/"
+		},
+		{
+			"id": "diahnoz",
+			"item": "word:diahnoz",
+			"text": "діагноз",
+			"display": "діа́гноз",
+			"ipa": "/dʲiˈaɦnɔz/"
+		},
+		{
+			"id": "symptom",
+			"item": "word:symptom",
+			"text": "симптом",
+			"display": "симпто́м",
+			"ipa": "/sɪmˈptɔm/",
+			"alsoAccepted": ["ознака"]
+		},
+		{
+			"id": "skarha",
+			"item": "word:skarha",
+			"text": "скарга",
+			"display": "ска́рга",
+			"ipa": "/ˈskarɦa/"
+		},
+		{
+			"id": "obstezhennya",
+			"item": "word:obstezhennya",
+			"text": "обстеження",
+			"display": "обсте́ження",
+			"ipa": "/ɔbˈstɛʒɛnʲːa/"
+		},
+		{
+			"id": "analiz",
+			"item": "word:analiz",
+			"text": "аналіз",
+			"display": "ана́ліз",
+			"ipa": "/aˈnalʲiz/"
+		},
+		{
+			"id": "neduzhyy",
+			"item": "word:neduzhyy",
+			"text": "недужий",
+			"display": "неду́жий",
+			"ipa": "/nɛˈduʒɪj/",
+			"alsoAccepted": ["хворий", "нездоровий"]
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: самопочуття",
+			"url": "https://goroh.pp.ua/Словозміна/самопочуття"
+		},
+		{
+			"title": "Горох: здоров'я",
+			"url": "https://goroh.pp.ua/Словозміна/здоров'я"
+		},
+		{
+			"title": "Горох: біль",
+			"url": "https://goroh.pp.ua/Словозміна/біль"
+		},
+		{
+			"title": "Горох: температура",
+			"url": "https://goroh.pp.ua/Словозміна/температура"
+		},
+		{
+			"title": "Горох: кашель",
+			"url": "https://goroh.pp.ua/Словозміна/кашель"
+		},
+		{
+			"title": "Горох: нежить",
+			"url": "https://goroh.pp.ua/Словозміна/нежить"
+		},
+		{
+			"title": "Горох: застуда",
+			"url": "https://goroh.pp.ua/Словозміна/застуда"
+		},
+		{
+			"title": "Горох: ліки",
+			"url": "https://goroh.pp.ua/Словозміна/ліки"
+		},
+		{
+			"title": "Горох: аптека",
+			"url": "https://goroh.pp.ua/Словозміна/аптека"
+		},
+		{
+			"title": "Горох: рецепт",
+			"url": "https://goroh.pp.ua/Словозміна/рецепт"
+		},
+		{
+			"title": "Горох: лікування",
+			"url": "https://goroh.pp.ua/Словозміна/лікування"
+		},
+		{
+			"title": "Горох: боліти",
+			"url": "https://goroh.pp.ua/Словозміна/боліти"
+		},
+		{
+			"title": "Горох: хворіти",
+			"url": "https://goroh.pp.ua/Словозміна/хворіти"
+		},
+		{
+			"title": "Горох: одужувати",
+			"url": "https://goroh.pp.ua/Словозміна/одужувати"
+		},
+		{
+			"title": "Горох: сонливість",
+			"url": "https://goroh.pp.ua/Словозміна/сонливість"
+		},
+		{
+			"title": "Горох: бадьорий",
+			"url": "https://goroh.pp.ua/Словозміна/бадьорий"
+		},
+		{
+			"title": "Горох: нудота",
+			"url": "https://goroh.pp.ua/Словозміна/нудота"
+		},
+		{
+			"title": "Горох: слабкість",
+			"url": "https://goroh.pp.ua/Словозміна/слабкість"
+		},
+		{
+			"title": "Горох: тиск",
+			"url": "https://goroh.pp.ua/Словозміна/тиск"
+		},
+		{
+			"title": "Горох: лихоманка",
+			"url": "https://goroh.pp.ua/Словозміна/лихоманка"
+		},
+		{
+			"title": "Горох: грип",
+			"url": "https://goroh.pp.ua/Словозміна/грип"
+		},
+		{
+			"title": "Горох: ангіна",
+			"url": "https://goroh.pp.ua/Словозміна/ангіна"
+		},
+		{
+			"title": "Горох: гастрит",
+			"url": "https://goroh.pp.ua/Словозміна/гастрит"
+		},
+		{
+			"title": "Горох: пневмонія",
+			"url": "https://goroh.pp.ua/Словозміна/пневмонія"
+		},
+		{
+			"title": "Горох: діагноз",
+			"url": "https://goroh.pp.ua/Словозміна/діагноз"
+		},
+		{
+			"title": "Горох: симптом",
+			"url": "https://goroh.pp.ua/Словозміна/симптом"
+		},
+		{
+			"title": "Горох: скарга",
+			"url": "https://goroh.pp.ua/Словозміна/скарга"
+		},
+		{
+			"title": "Горох: обстеження",
+			"url": "https://goroh.pp.ua/Словозміна/обстеження"
+		},
+		{
+			"title": "Горох: аналіз",
+			"url": "https://goroh.pp.ua/Словозміна/аналіз"
+		},
+		{
+			"title": "Горох: недужий",
+			"url": "https://goroh.pp.ua/Словозміна/недужий"
+		},
+		{
+			"title": "СУМ-20: нежить і риніт",
+			"url": "https://goroh.pp.ua/Тлумачення/нежить"
+		},
+		{
+			"title": "Горох: академічні словникові значення — нездужати",
+			"url": "https://goroh.pp.ua/Тлумачення/нездужати"
+		}
+	]
+}

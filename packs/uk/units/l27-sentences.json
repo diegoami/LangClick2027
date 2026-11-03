@@ -1,0 +1,207 @@
+{
+	"id": "l27-sentences",
+	"typing": true,
+	"layout": {
+		"type": "sentences",
+		"size": 16
+	},
+	"cells": [
+		{
+			"id": "study-math",
+			"item": "sentence:l27:study-math",
+			"text": "математику",
+			"display": "матема́тику",
+			"sentence": "Я вчу ___. (матема́тика; знахідний відмінок)"
+		},
+		{
+			"id": "learn-topic",
+			"item": "sentence:l27:learn-topic",
+			"text": "тему",
+			"display": "те́му",
+			"sentence": "Ми вивча́ємо нову́ ___. (те́ма)"
+		},
+		{
+			"id": "teach-math",
+			"item": "sentence:l27:teach-math",
+			"text": "математики",
+			"display": "матема́тики",
+			"sentence": "Вона́ навча́є діте́й ___. (матема́тика)"
+		},
+		{
+			"id": "teach-student",
+			"item": "sentence:l27:teach-student",
+			"text": "студента",
+			"display": "студе́нта",
+			"sentence": "Виклада́ч навча́є ново́го ___. (студе́нт)"
+		},
+		{
+			"id": "teach-physics",
+			"item": "sentence:l27:teach-physics",
+			"text": "фізики",
+			"display": "фі́зики",
+			"sentence": "По́друга навча́є ме́не ___. (фі́зика)"
+		},
+		{
+			"id": "manage-school",
+			"item": "sentence:l27:manage-school",
+			"text": "школою",
+			"display": "шко́лою",
+			"sentence": "Дире́ктор керу́є ___. (шко́ла)"
+		},
+		{
+			"id": "head-college",
+			"item": "sentence:l27:head-college",
+			"text": "технікумом",
+			"display": "те́хнікумом",
+			"sentence": "Він заві́дує ___. (те́хнікум)"
+		},
+		{
+			"id": "director-school",
+			"item": "sentence:l27:director-school",
+			"text": "школи",
+			"display": "шко́ли",
+			"sentence": "Це кабіне́т дире́ктора ___. (шко́ла)"
+		},
+		{
+			"id": "head-department",
+			"item": "sentence:l27:head-department",
+			"text": "кафедри",
+			"display": "ка́федри",
+			"sentence": "На нара́ду прийшо́в заві́дувач ___. (ка́федра)"
+		},
+		{
+			"id": "acquire-education",
+			"item": "sentence:l27:acquire-education",
+			"text": "освіту",
+			"display": "осві́ту",
+			"sentence": "Оле́на здобува́є ви́щу ___. (осві́та)"
+		},
+		{
+			"id": "knowledge-dat",
+			"item": "sentence:l27:knowledge-dat",
+			"text": "знанням",
+			"display": "знання́м",
+			"sentence": "Завдяки́ широ́ким ___ він поясни́в складну́ те́му. (знання́)"
+		},
+		{
+			"id": "paint-inst",
+			"item": "sentence:l27:paint-inst",
+			"text": "фарбами",
+			"display": "фа́рбами",
+			"sentence": "Дити́на малю́є яскра́вими ___. (фа́рба)",
+			"alsoAccepted": ["красками"]
+		},
+		{
+			"id": "hues-inst",
+			"item": "sentence:l27:hues-inst",
+			"text": "барвами",
+			"display": "ба́рвами",
+			"sentence": "Ми милу́ємося осі́нніми ___. (ба́рва)"
+		},
+		{
+			"id": "scissors-gen",
+			"item": "sentence:l27:scissors-gen",
+			"text": "ножиць",
+			"display": "но́жиць",
+			"sentence": "У пена́лі нема́є ___. (но́жиці)"
+		},
+		{
+			"id": "notebook-loc",
+			"item": "sentence:l27:notebook-loc",
+			"text": "зошиті",
+			"display": "зо́шиті",
+			"sentence": "Оле́г записа́в пра́вило в ___. (зо́шит)",
+			"alsoAccepted": ["зошитові", "зошиту"]
+		},
+		{
+			"id": "ruler-inst",
+			"item": "sentence:l27:ruler-inst",
+			"text": "лінійкою",
+			"display": "лі́нійкою",
+			"sentence": "Пряму́ лі́нію зру́чно прово́дити ___. (лі́нійка)"
+		}
+	],
+	"sources": [
+		{
+			"title": "Горох: математика",
+			"url": "https://goroh.pp.ua/Словозміна/математика"
+		},
+		{
+			"title": "Горох: тема",
+			"url": "https://goroh.pp.ua/Словозміна/тема"
+		},
+		{
+			"title": "Горох: студент",
+			"url": "https://goroh.pp.ua/Словозміна/студент"
+		},
+		{
+			"title": "Горох: фізика",
+			"url": "https://goroh.pp.ua/Словозміна/фізика"
+		},
+		{
+			"title": "Горох: школа",
+			"url": "https://goroh.pp.ua/Словозміна/школа"
+		},
+		{
+			"title": "Горох: технікум",
+			"url": "https://goroh.pp.ua/Словозміна/технікум"
+		},
+		{
+			"title": "Горох: кафедра",
+			"url": "https://goroh.pp.ua/Словозміна/кафедра"
+		},
+		{
+			"title": "Горох: освіта",
+			"url": "https://goroh.pp.ua/Словозміна/освіта"
+		},
+		{
+			"title": "Горох: знання",
+			"url": "https://goroh.pp.ua/Словозміна/знання"
+		},
+		{
+			"title": "Горох: фарба",
+			"url": "https://goroh.pp.ua/Словозміна/фарба"
+		},
+		{
+			"title": "Горох: барва",
+			"url": "https://goroh.pp.ua/Словозміна/барва"
+		},
+		{
+			"title": "Горох: ножиці",
+			"url": "https://goroh.pp.ua/Словозміна/ножиці"
+		},
+		{
+			"title": "Горох: зошит",
+			"url": "https://goroh.pp.ua/Словозміна/зошит"
+		},
+		{
+			"title": "Горох: лінійка",
+			"url": "https://goroh.pp.ua/Словозміна/лінійка"
+		},
+		{
+			"title": "Горох: навчати",
+			"url": "https://goroh.pp.ua/Словозміна/навчати"
+		},
+		{
+			"title": "Горох: керувати",
+			"url": "https://goroh.pp.ua/Словозміна/керувати"
+		},
+		{
+			"title": "Горох: завідувати",
+			"url": "https://goroh.pp.ua/Словозміна/завідувати"
+		},
+		{
+			"title": "Горох: навчати",
+			"url": "https://goroh.pp.ua/Тлумачення/навчати"
+		},
+		{
+			"title": "Горох: керувати",
+			"url": "https://goroh.pp.ua/Тлумачення/керувати"
+		},
+		{
+			"title": "Горох: завідувати",
+			"url": "https://goroh.pp.ua/Тлумачення/завідувати"
+		}
+	],
+	"dealAll": true
+}

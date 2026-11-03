@@ -1,0 +1,39 @@
+{
+	"title": "Заказ и оплата",
+	"summary": "Просьбы, формы оплаты и суммы: 1, 2–4 и 5+.",
+	"cells": {
+		"water": {
+			"sentenceGloss": "Принесите нам воду без газа."
+		},
+		"card": {
+			"sentenceGloss": "За ужин заплатим картой."
+		},
+		"cash": {
+			"sentenceGloss": "Сегодня платим наличными."
+		},
+		"coffee": {
+			"sentenceGloss": "Я закажу кофе без молока."
+		},
+		"one": {
+			"sentenceGloss": "На столе одна гривна."
+		},
+		"two": {
+			"sentenceGloss": "Цена пакетика — две гривны."
+		},
+		"five": {
+			"sentenceGloss": "За салфетки взяли пять гривен."
+		},
+		"twentyone": {
+			"sentenceGloss": "В чеке двадцать одна гривна."
+		},
+		"twentytwo": {
+			"sentenceGloss": "За чай — двадцать две гривны."
+		},
+		"twentyfive": {
+			"sentenceGloss": "За кофе — двадцать пять гривен."
+		},
+		"bill-request": {
+			"sentenceGloss": "Дайте, пожалуйста, счёт за ужин."
+		}
+	}
+}

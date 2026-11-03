@@ -1,0 +1,14 @@
+{
+	"title": "Zgoda przymiotników",
+	"headers": {
+		"round": "okrągły",
+		"pale": "blady",
+		"curly": "kędzierzawy",
+		"brown": "piwny",
+		"c0": "męski",
+		"c1": "żeński",
+		"c2": "nijaki",
+		"c3": "liczba mnoga"
+	},
+	"summary": "Formy mianownika. Ukraińskie волосся ma rodzaj nijaki i liczbę pojedynczą: кучеряве волосся."
+}

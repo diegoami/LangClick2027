@@ -1,0 +1,12 @@
+{
+	"title": "Reflexive endings: sound to spelling",
+	"summary": "Choose the letters for the ending pronounced in brackets. The long soft consonants are written with шся and ться, not with a phonetic respelling.",
+	"cells": {
+		"shsya": {
+			"exampleGloss": "you study"
+		},
+		"tsya": {
+			"exampleGloss": "they study"
+		}
+	}
+}
