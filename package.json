@@ -17,7 +17,8 @@
 		"lint": "npm run lint --workspace=app && prettier --config app/prettier.config.js --check packages packs locales scripts && eslint --config app/eslint.config.js packages scripts",
 		"format": "npm run format --workspace=app && prettier --config app/prettier.config.js --write packages packs locales scripts",
 		"gates": "node scripts/gates.mjs",
-		"setup-hooks": "git config core.hooksPath .githooks"
+		"setup-hooks": "git config core.hooksPath .githooks",
+		"build:pages": "node scripts/build-pages.mjs"
 	},
 	"devDependencies": {
 		"@types/node": "^24",
