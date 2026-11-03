@@ -37,3 +37,15 @@ Code: [MIT](LICENSE). Language packs: [CC BY-SA 4.0](packs/LICENSE).
 - [packs/README.md](packs/README.md) — how to write a language pack
 - [AGENTS.md](AGENTS.md) and [docs/RELEASES.md](docs/RELEASES.md) — how the
   project is run
+
+## Web interface on GitHub Pages
+
+[Open LangClick2027](https://diegoami.github.io/LangClick2027/). This is a work in progress.
+The Pages build uses hash navigation, so lessons, boards, quizzes and reloads
+work beneath `/LangClick2027/` without a server-side fallback. Progress stays in
+this browser; no account backend is required.
+
+Run `npm run build:pages` to build the static interface in `app/build/`.
+The workflow builds and publishes it on pushes to `main`; select **GitHub
+Actions** in Settings → Pages before the first deployment. The normal
+`npm run build` keeps its existing pathname routing. No release tag is created.
