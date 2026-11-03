@@ -3,52 +3,68 @@
 	"summary": "Wyraz w nawiasie wyznacza leksem. Вчити/вивчати co? — biernik, inaczej niż polskie uczyć się czegoś. Навчати kogo? — biernik, czego? — dopełniacz. Керувати/завідувати wymagają narzędnika, a директор/завідувач — dopełniacza.",
 	"cells": {
 		"study-math": {
-			"sentenceGloss": "Uczę się matematyki."
+			"sentenceGloss": "Uczę się matematyki.",
+			"note": "Biernik: вчу łączy się z biernikiem — tego, co się uczy."
 		},
 		"learn-topic": {
-			"sentenceGloss": "Uczymy się nowego tematu."
+			"sentenceGloss": "Uczymy się nowego tematu.",
+			"note": "Biernik: вивчати łączy się z biernikiem."
 		},
 		"teach-math": {
-			"sentenceGloss": "Ona uczy dzieci matematyki."
+			"sentenceGloss": "Ona uczy dzieci matematyki.",
+			"note": "Dopełniacz: навчати łączy się z dopełniaczem — tego, czego się uczy."
 		},
 		"teach-student": {
-			"sentenceGloss": "Wykładowca uczy nowego studenta."
+			"sentenceGloss": "Wykładowca uczy nowego studenta.",
+			"note": "Biernik: навчати łączy się z biernikiem — tej osoby, której się uczy."
 		},
 		"teach-physics": {
-			"sentenceGloss": "Przyjaciółka uczy mnie fizyki."
+			"sentenceGloss": "Przyjaciółka uczy mnie fizyki.",
+			"note": "Dopełniacz: навчати łączy się z dopełniaczem — tego, czego się uczy."
 		},
 		"manage-school": {
-			"sentenceGloss": "Dyrektor kieruje szkołą."
+			"sentenceGloss": "Dyrektor kieruje szkołą.",
+			"note": "Narzędnik: керувати łączy się z narzędnikiem."
 		},
 		"head-college": {
-			"sentenceGloss": "On kieruje technikum."
+			"sentenceGloss": "On kieruje technikum.",
+			"note": "Narzędnik: завідувати łączy się z narzędnikiem."
 		},
 		"director-school": {
-			"sentenceGloss": "To gabinet dyrektora szkoły."
+			"sentenceGloss": "To gabinet dyrektora szkoły.",
+			"note": "Dopełniacz: rzeczownik w drugim przypadku po директора."
 		},
 		"head-department": {
-			"sentenceGloss": "Na zebranie przyszedł kierownik katedry."
+			"sentenceGloss": "Na zebranie przyszedł kierownik katedry.",
+			"note": "Dopełniacz: rzeczownik w drugim przypadku po завідувач."
 		},
 		"acquire-education": {
-			"sentenceGloss": "Olena zdobywa wyższe wykształcenie."
+			"sentenceGloss": "Olena zdobywa wyższe wykształcenie.",
+			"note": "Biernik: здобувати łączy się z biernikiem."
 		},
 		"knowledge-dat": {
-			"sentenceGloss": "Dzięki szerokiej wiedzy wyjaśnił trudny temat."
+			"sentenceGloss": "Dzięki szerokiej wiedzy wyjaśnił trudny temat.",
+			"note": "Celownik: завдяки łączy się z celownikiem."
 		},
 		"paint-inst": {
-			"sentenceGloss": "Dziecko maluje jaskrawymi farbami."
+			"sentenceGloss": "Dziecko maluje jaskrawymi farbami.",
+			"note": "Narzędnik: narzędzie lub materiał stoi w narzędniku."
 		},
 		"hues-inst": {
-			"sentenceGloss": "Podziwiamy jesienne barwy."
+			"sentenceGloss": "Podziwiamy jesienne barwy.",
+			"note": "Narzędnik: narzędzie czasownika stoi w narzędniku."
 		},
 		"scissors-gen": {
-			"sentenceGloss": "W piórniku nie ma nożyczek."
+			"sentenceGloss": "W piórniku nie ma nożyczek.",
+			"note": "Dopełniacz l. mn.: ножиці w drugim przypadku liczby mnogiej po немає."
 		},
 		"notebook-loc": {
-			"sentenceGloss": "Ołeh zapisał regułę w zeszycie."
+			"sentenceGloss": "Ołeh zapisał regułę w zeszycie.",
+			"note": "Miejscownik l. poj.: зошит w drugim przypadku l. poj."
 		},
 		"ruler-inst": {
-			"sentenceGloss": "Prostą linię wygodnie rysuje się linijką."
+			"sentenceGloss": "Prostą linię wygodnie rysuje się linijką.",
+			"note": "Narzędnik: narzędzie czasownika stoi w narzędniku."
 		}
 	}
 }

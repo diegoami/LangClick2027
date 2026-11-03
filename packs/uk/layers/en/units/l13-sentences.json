@@ -2,22 +2,28 @@
 	"title": "Sentences",
 	"cells": {
 		"dress": {
-			"sentenceGloss": "She puts on a dress."
+			"sentenceGloss": "She puts on a dress.",
+			"note": "Present tense: she puts on, in the third person singular."
 		},
 		"shoes": {
-			"sentenceGloss": "He puts on ankle boots."
+			"sentenceGloss": "He puts on ankle boots.",
+			"note": "Present tense: he puts on, in the third person singular."
 		},
 		"size": {
-			"sentenceGloss": "A shirt of size forty two is needed."
+			"sentenceGloss": "A shirt of size forty two is needed.",
+			"note": "Genitive: the ordinal takes the genitive after розміру."
 		},
 		"have": {
-			"sentenceGloss": "My shoe size is thirty nine."
+			"sentenceGloss": "My shoe size is thirty nine.",
+			"note": "The ordinal stays in the nominative: it names the size itself."
 		},
 		"trying": {
-			"sentenceGloss": "The customer is trying on an overcoat."
+			"sentenceGloss": "The customer is trying on an overcoat.",
+			"note": "Present tense: the customer tries on, in the third person singular."
 		},
 		"buying": {
-			"sentenceGloss": "Mum is buying slippers."
+			"sentenceGloss": "Mum is buying slippers.",
+			"note": "Present tense: she buys, in the third person singular."
 		}
 	},
 	"summary": "Use the lemma or the meaning fixed by the sentence to supply the missing form."

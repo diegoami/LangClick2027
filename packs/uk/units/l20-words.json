@@ -11,123 +11,149 @@
 			"item": "word:podorozh",
 			"text": "подорож",
 			"display": "по́дорож",
-			"alsoAccepted": ["мандрівка"]
+			"ipa": "/ˈpɔdɔrɔʒ/",
+			"alsoAccepted": [
+				"мандрівка"
+			]
 		},
 		{
 			"id": "vidpustka",
 			"item": "word:vidpustka",
 			"text": "відпустка",
-			"display": "відпу́стка"
+			"display": "відпу́стка",
+			"ipa": "/ʋidˈpustka/"
 		},
 		{
 			"id": "stolytsya",
 			"item": "word:stolytsya",
 			"text": "столиця",
-			"display": "столи́ця"
+			"display": "столи́ця",
+			"ipa": "/stɔˈlɪt͡sʲa/"
 		},
 		{
 			"id": "pam-yatka",
 			"item": "word:pam-yatka",
 			"text": "пам'ятка",
-			"display": "па́м'ятка"
+			"display": "па́м'ятка",
+			"ipa": "/ˈpamjatka/"
 		},
 		{
 			"id": "lehenda",
 			"item": "word:lehenda",
 			"text": "легенда",
 			"display": "леге́нда",
-			"alsoAccepted": ["переказ"]
+			"ipa": "/lɛˈɦɛnda/",
+			"alsoAccepted": [
+				"переказ"
+			]
 		},
 		{
 			"id": "khmarochos",
 			"item": "word:khmarochos",
 			"text": "хмарочос",
-			"display": "хмарочо́с"
+			"display": "хмарочо́с",
+			"ipa": "/xmarɔˈt͡ʃɔs/"
 		},
 		{
 			"id": "naberezhna",
 			"item": "word:naberezhna",
 			"text": "набережна",
-			"display": "на́бережна"
+			"display": "на́бережна",
+			"ipa": "/ˈnabɛrɛʒna/"
 		},
 		{
 			"id": "bulvar",
 			"item": "word:bulvar",
 			"text": "бульвар",
-			"display": "бульва́р"
+			"display": "бульва́р",
+			"ipa": "/bulʲˈʋar/"
 		},
 		{
 			"id": "skhody",
 			"item": "word:skhody",
 			"text": "сходи",
-			"display": "схо́ди"
+			"display": "схо́ди",
+			"ipa": "/ˈsxɔdɪ/"
 		},
 		{
 			"id": "sporuda",
 			"item": "word:sporuda",
 			"text": "споруда",
-			"display": "спору́да"
+			"display": "спору́да",
+			"ipa": "/spɔˈruda/"
 		},
 		{
 			"id": "budivlya",
 			"item": "word:budivlya",
 			"text": "будівля",
-			"display": "буді́вля"
+			"display": "буді́вля",
+			"ipa": "/buˈdʲiʋlʲa/"
 		},
 		{
 			"id": "ploshcha",
 			"item": "word:ploshcha",
 			"text": "площа",
-			"display": "пло́ща"
+			"display": "пло́ща",
+			"ipa": "/ˈplɔʃt͡ʃa/"
 		},
 		{
 			"id": "vulytsya",
 			"item": "word:vulytsya",
 			"text": "вулиця",
-			"display": "ву́лиця"
+			"display": "ву́лиця",
+			"ipa": "/ˈʋulɪt͡sʲa/"
 		},
 		{
 			"id": "prospekt",
 			"item": "word:prospekt",
 			"text": "проспект",
-			"display": "проспе́кт"
+			"display": "проспе́кт",
+			"ipa": "/prɔsˈpɛkt/"
 		},
 		{
 			"id": "teatr",
 			"item": "word:teatr",
 			"text": "театр",
-			"display": "теа́тр"
+			"display": "теа́тр",
+			"ipa": "/tɛˈatr/"
 		},
 		{
 			"id": "tserkva",
 			"item": "word:tserkva",
 			"text": "церква",
-			"display": "це́рква"
+			"display": "це́рква",
+			"ipa": "/ˈt͡sɛrɡʋa/"
 		},
 		{
 			"id": "more",
 			"item": "word:more",
 			"text": "море",
-			"display": "мо́ре"
+			"display": "мо́ре",
+			"ipa": "/ˈmɔrɛ/"
 		},
 		{
 			"id": "krayina",
 			"item": "word:krayina",
 			"text": "країна",
 			"display": "краї́на",
-			"alsoAccepted": ["держава"]
+			"ipa": "/kraˈjina/",
+			"alsoAccepted": [
+				"держава"
+			]
 		},
 		{
 			"id": "muzey",
 			"item": "word:muzey",
 			"text": "музей",
-			"display": "музе́й"
+			"display": "музе́й",
+			"ipa": "/muˈzɛj/"
 		},
 		{
 			"id": "palats",
 			"item": "word:palats",
 			"text": "палац",
-			"display": "пала́ц"
+			"display": "пала́ц",
+			"ipa": "/paˈlat͡s/"
 		}
 	],
 	"sources": [

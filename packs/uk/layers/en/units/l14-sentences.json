@@ -2,28 +2,36 @@
 	"title": "Sentences",
 	"cells": {
 		"near": {
-			"sentenceGloss": "The armchair stands near the wardrobe."
+			"sentenceGloss": "The armchair stands near the wardrobe.",
+			"note": "Genitive: біля takes the genitive."
 		},
 		"under": {
-			"sentenceGloss": "The cat sits under the table."
+			"sentenceGloss": "The cat sits under the table.",
+			"note": "Instrumental: під takes the instrumental for a position."
 		},
 		"over": {
-			"sentenceGloss": "The picture hangs above the sofa."
+			"sentenceGloss": "The picture hangs above the sofa.",
+			"note": "Instrumental: над takes the instrumental for a position."
 		},
 		"behind": {
-			"sentenceGloss": "The coat rack stands behind the door."
+			"sentenceGloss": "The coat rack stands behind the door.",
+			"note": "Instrumental: за takes the instrumental for a position."
 		},
 		"before": {
-			"sentenceGloss": "A tree grows in front of the house."
+			"sentenceGloss": "A tree grows in front of the house.",
+			"note": "Instrumental: перед takes the instrumental."
 		},
 		"kitchen": {
-			"sentenceGloss": "We prepare food in the kitchen."
+			"sentenceGloss": "We prepare food in the kitchen.",
+			"note": "Locative: на takes the locative for a place."
 		},
 		"attic": {
-			"sentenceGloss": "Old suitcases are stored in the attic."
+			"sentenceGloss": "Old suitcases are stored in the attic.",
+			"note": "Locative: на takes the locative for a place."
 		},
 		"floor": {
-			"sentenceGloss": "My flat is on the second floor."
+			"sentenceGloss": "My flat is on the second floor.",
+			"note": "Locative: поверх in the second case singular, на другому поверсі."
 		}
 	},
 	"summary": "Location: біля + genitive; під, над, за, перед + instrumental; у/в, на + locative. These frames describe position."

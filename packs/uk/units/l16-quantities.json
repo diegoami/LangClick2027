@@ -4,14 +4,23 @@
 	"dealAll": true,
 	"layout": {
 		"type": "table",
-		"rows": ["grams", "kilos", "mandarins", "tomatoes"],
-		"columns": ["c0", "c1"]
+		"rows": [
+			"grams",
+			"kilos",
+			"mandarins",
+			"tomatoes"
+		],
+		"columns": [
+			"c0",
+			"c1"
+		]
 	},
 	"cells": [
 		{
 			"id": "grams.c0",
 			"item": "l16:quantities:grams:c0",
 			"text": "грам",
+			"ipa": "/ɦram/",
 			"row": "grams",
 			"col": "c0"
 		},
@@ -21,7 +30,8 @@
 			"text": "грамів",
 			"row": "grams",
 			"col": "c1",
-			"display": "гра́мів"
+			"display": "гра́мів",
+			"ipa": "/ˈɦramiʋ/"
 		},
 		{
 			"id": "kilos.c0",
@@ -29,7 +39,8 @@
 			"text": "кілограм",
 			"row": "kilos",
 			"col": "c0",
-			"display": "кілогра́м"
+			"display": "кілогра́м",
+			"ipa": "/kilɔɦˈram/"
 		},
 		{
 			"id": "kilos.c1",
@@ -37,7 +48,8 @@
 			"text": "кілограмів",
 			"row": "kilos",
 			"col": "c1",
-			"display": "кілогра́мів"
+			"display": "кілогра́мів",
+			"ipa": "/kilɔɦˈramiʋ/"
 		},
 		{
 			"id": "mandarins.c0",
@@ -45,7 +57,8 @@
 			"text": "мандарин",
 			"row": "mandarins",
 			"col": "c0",
-			"display": "мандари́н"
+			"display": "мандари́н",
+			"ipa": "/mandaˈrɪn/"
 		},
 		{
 			"id": "mandarins.c1",
@@ -53,7 +66,8 @@
 			"text": "мандаринів",
 			"row": "mandarins",
 			"col": "c1",
-			"display": "мандари́нів"
+			"display": "мандари́нів",
+			"ipa": "/mandaˈrinʲiʋ/"
 		},
 		{
 			"id": "tomatoes.c0",
@@ -61,7 +75,8 @@
 			"text": "помідор",
 			"row": "tomatoes",
 			"col": "c0",
-			"display": "помідо́р"
+			"display": "помідо́р",
+			"ipa": "/pɔmiˈdɔr/"
 		},
 		{
 			"id": "tomatoes.c1",
@@ -69,7 +84,8 @@
 			"text": "помідорів",
 			"row": "tomatoes",
 			"col": "c1",
-			"display": "помідо́рів"
+			"display": "помідо́рів",
+			"ipa": "/pɔmiˈdɔrʲiʋ/"
 		}
 	],
 	"sources": [

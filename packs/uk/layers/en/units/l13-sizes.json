@@ -12,5 +12,55 @@
 		"c0": "I have the … size (nominative)",
 		"c1": "of the … size (genitive)"
 	},
-	"summary": "Use a masculine ordinal with розмір. In compound ordinals only the last word declines. These are Ukrainian labels, not an international size conversion."
+	"summary": "Use a masculine ordinal with розмір. In compound ordinals only the last word declines. These are Ukrainian labels, not an international size conversion.",
+	"cells": {
+		"38.c0": {
+			"note": "Nominative: the ordinal names the size itself."
+		},
+		"38.c1": {
+			"note": "Genitive: after розміру the ordinal takes the genitive."
+		},
+		"39.c0": {
+			"note": "Nominative: the ordinal names the size itself."
+		},
+		"39.c1": {
+			"note": "Genitive: after розміру the ordinal takes the genitive."
+		},
+		"42.c0": {
+			"note": "Nominative: the ordinal names the size itself."
+		},
+		"42.c1": {
+			"note": "Genitive: after розміру the ordinal takes the genitive."
+		},
+		"44.c0": {
+			"note": "Nominative: the ordinal names the size itself."
+		},
+		"44.c1": {
+			"note": "Genitive: after розміру the ordinal takes the genitive."
+		},
+		"46.c0": {
+			"note": "Nominative: the ordinal names the size itself."
+		},
+		"46.c1": {
+			"note": "Genitive: after розміру the ordinal takes the genitive."
+		},
+		"48.c0": {
+			"note": "Nominative: the ordinal names the size itself."
+		},
+		"48.c1": {
+			"note": "Genitive: after розміру the ordinal takes the genitive."
+		},
+		"50.c0": {
+			"note": "Nominative: the ordinal names the size itself."
+		},
+		"50.c1": {
+			"note": "Genitive: after розміру the ordinal takes the genitive."
+		},
+		"52.c0": {
+			"note": "Nominative: the ordinal names the size itself."
+		},
+		"52.c1": {
+			"note": "Genitive: after розміру the ordinal takes the genitive."
+		}
+	}
 }

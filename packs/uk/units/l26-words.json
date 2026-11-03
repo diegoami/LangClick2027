@@ -26,7 +26,9 @@
 			"text": "річка",
 			"display": "рі́чка",
 			"ipa": "/ˈrʲit͡ʃka/",
-			"alsoAccepted": ["ріка"]
+			"alsoAccepted": [
+				"ріка"
+			]
 		},
 		{
 			"id": "ozero",
@@ -104,7 +106,9 @@
 			"text": "довкілля",
 			"display": "довкі́лля",
 			"ipa": "/dɔʋˈkʲilʲːa/",
-			"alsoAccepted": ["середовище"]
+			"alsoAccepted": [
+				"середовище"
+			]
 		},
 		{
 			"id": "berehty",
@@ -112,62 +116,75 @@
 			"text": "берегти",
 			"display": "берегти́",
 			"ipa": "/bɛrɛɦˈtɪ/",
-			"alsoAccepted": ["оберігати"]
+			"alsoAccepted": [
+				"оберігати"
+			]
 		},
 		{
 			"id": "pivnich",
 			"item": "word:pivnich",
 			"text": "північ",
-			"display": "пі́вніч"
+			"display": "пі́вніч",
+			"ipa": "/ˈpiʋnʲit͡ʃ/"
 		},
 		{
 			"id": "pivden",
 			"item": "word:pivden",
 			"text": "південь",
-			"display": "пі́вдень"
+			"display": "пі́вдень",
+			"ipa": "/ˈpiʋdɛnʲ/"
 		},
 		{
 			"id": "skhid",
 			"item": "word:skhid",
 			"text": "схід",
-			"display": "схід"
+			"display": "схід",
+			"ipa": "/sxid/"
 		},
 		{
 			"id": "zakhid",
 			"item": "word:zakhid",
 			"text": "захід",
-			"display": "за́хід"
+			"display": "за́хід",
+			"ipa": "/ˈzaxid/"
 		},
 		{
 			"id": "lisostep",
 			"item": "word:lisostep",
 			"text": "лісостеп",
-			"display": "лісосте́п"
+			"display": "лісосте́п",
+			"ipa": "/lʲisɔsˈtɛp/"
 		},
 		{
 			"id": "boloto",
 			"item": "word:boloto",
 			"text": "болото",
-			"display": "боло́то"
+			"display": "боло́то",
+			"ipa": "/bɔˈlɔtɔ/"
 		},
 		{
 			"id": "vodoyma",
 			"item": "word:vodoyma",
 			"text": "водойма",
 			"display": "водо́йма",
-			"alsoAccepted": ["водоймище"]
+			"ipa": "/ʋɔˈdɔjma/",
+			"alsoAccepted": [
+				"водоймище"
+			]
 		},
 		{
 			"id": "vodoskhovyshche",
 			"item": "word:vodoskhovyshche",
 			"text": "водосховище",
-			"display": "водосхо́вище"
+			"display": "водосхо́вище",
+			"ipa": "/ʋɔdɔsˈxɔʋɪʃt͡ʃɛ/"
 		},
 		{
 			"id": "polonyna",
 			"item": "word:polonyna",
 			"text": "полонина",
-			"display": "полони́на"
+			"display": "полони́на",
+			"ipa": "/pɔlɔˈnɪna/"
 		}
 	],
 	"sources": [

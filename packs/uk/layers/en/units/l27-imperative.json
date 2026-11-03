@@ -2,30 +2,78 @@
 	"title": "Imperatives in instructions",
 	"summary": "Give the bare imperative for the exact lemma, without extra particles. Compare -и/-імо/-іть with zero/-мо/-те. Keep the soft sign in сядь and кинь. The prefix ви- keeps its stress; dictionary stress is also retained in підкреслити forms.",
 	"cells": {
-		"ty.pysaty": {},
-		"my.pysaty": {},
-		"vy.pysaty": {},
-		"ty.vypysaty": {},
-		"my.vypysaty": {},
-		"vy.vypysaty": {},
-		"ty.pidkreslyty": {},
-		"my.pidkreslyty": {},
-		"vy.pidkreslyty": {},
-		"ty.vykonuvaty": {},
-		"my.vykonuvaty": {},
-		"vy.vykonuvaty": {},
-		"ty.pereviryty": {},
-		"my.pereviryty": {},
-		"vy.pereviryty": {},
-		"ty.sisty": {},
-		"my.sisty": {},
-		"vy.sisty": {},
-		"ty.kynuty": {},
-		"my.kynuty": {},
-		"vy.kynuty": {},
-		"ty.zapovnyty": {},
-		"my.zapovnyty": {},
-		"vy.zapovnyty": {}
+		"ty.pysaty": {
+			"note": "Imperative, second person singular: a request to one person."
+		},
+		"my.pysaty": {
+			"note": "Imperative, first person plural: let us do it together."
+		},
+		"vy.pysaty": {
+			"note": "Imperative, second person plural: a request to several people, or a polite one."
+		},
+		"ty.vypysaty": {
+			"note": "Imperative, second person singular: a request to one person."
+		},
+		"my.vypysaty": {
+			"note": "Imperative, first person plural: let us do it together."
+		},
+		"vy.vypysaty": {
+			"note": "Imperative, second person plural: a request to several people, or a polite one."
+		},
+		"ty.pidkreslyty": {
+			"note": "Imperative, second person singular: a request to one person."
+		},
+		"my.pidkreslyty": {
+			"note": "Imperative, first person plural: let us do it together."
+		},
+		"vy.pidkreslyty": {
+			"note": "Imperative, second person plural: a request to several people, or a polite one."
+		},
+		"ty.vykonuvaty": {
+			"note": "Imperative, second person singular: a request to one person."
+		},
+		"my.vykonuvaty": {
+			"note": "Imperative, first person plural: let us do it together."
+		},
+		"vy.vykonuvaty": {
+			"note": "Imperative, second person plural: a request to several people, or a polite one."
+		},
+		"ty.pereviryty": {
+			"note": "Imperative, second person singular: a request to one person."
+		},
+		"my.pereviryty": {
+			"note": "Imperative, first person plural: let us do it together."
+		},
+		"vy.pereviryty": {
+			"note": "Imperative, second person plural: a request to several people, or a polite one."
+		},
+		"ty.sisty": {
+			"note": "Imperative, second person singular: a request to one person."
+		},
+		"my.sisty": {
+			"note": "Imperative, first person plural: let us do it together."
+		},
+		"vy.sisty": {
+			"note": "Imperative, second person plural: a request to several people, or a polite one."
+		},
+		"ty.kynuty": {
+			"note": "Imperative, second person singular: a request to one person."
+		},
+		"my.kynuty": {
+			"note": "Imperative, first person plural: let us do it together."
+		},
+		"vy.kynuty": {
+			"note": "Imperative, second person plural: a request to several people, or a polite one."
+		},
+		"ty.zapovnyty": {
+			"note": "Imperative, second person singular: a request to one person."
+		},
+		"my.zapovnyty": {
+			"note": "Imperative, first person plural: let us do it together."
+		},
+		"vy.zapovnyty": {
+			"note": "Imperative, second person plural: a request to several people, or a polite one."
+		}
 	},
 	"headers": {
 		"ty": "you: singular request",

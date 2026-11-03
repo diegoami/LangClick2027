@@ -3,28 +3,36 @@
 	"summary": "Przyszłość dokonana, dwa warianty niedokonane i teraźniejszość dla planu.",
 	"cells": {
 		"i": {
-			"sentenceGloss": "Jutro pójdę do galerii."
+			"sentenceGloss": "Jutro pójdę do galerii.",
+			"note": "Czas przyszły: prosta forma przyszła od йти to піду."
 		},
 		"we": {
-			"sentenceGloss": "Po wycieczce pójdziemy do kawiarni."
+			"sentenceGloss": "Po wycieczce pójdziemy do kawiarni.",
+			"note": "Czas przyszły: pierwsza osoba l. mn. od йти."
 		},
 		"you": {
-			"sentenceGloss": "W sobotę pójdziesz na wystawę."
+			"sentenceGloss": "W sobotę pójdziesz na wystawę.",
+			"note": "Czas przyszły: druga osoba l. poj. od йти."
 		},
 		"they": {
-			"sentenceGloss": "W przyszłym tygodniu pójdą do muzeum."
+			"sentenceGloss": "W przyszłym tygodniu pójdą do muzeum.",
+			"note": "Czas przyszły: trzecia osoba l. mn. od йти."
 		},
 		"walk": {
-			"sentenceGloss": "Wieczorem będę iść wzdłuż rzeki."
+			"sentenceGloss": "Wieczorem będę iść wzdłuż rzeki.",
+			"note": "Czas przyszły czasownika niedokonanego: zmienia się końcówka, nie rdzeń."
 		},
 		"walkwe": {
-			"sentenceGloss": "Jutro będziemy iść powoli."
+			"sentenceGloss": "Jutro będziemy iść powoli.",
+			"note": "Czas przyszły czasownika niedokonanego: zmienia się końcówka, nie rdzeń."
 		},
 		"read": {
-			"sentenceGloss": "W pociągu będę czytać przewodnik."
+			"sentenceGloss": "W pociągu będę czytać przewodnik.",
+			"note": "Czas przyszły czasownika niedokonanego: zmienia się końcówka, nie rdzeń."
 		},
 		"planned": {
-			"sentenceGloss": "Jutro rano jadę do Lwowa."
+			"sentenceGloss": "Jutro rano jadę do Lwowa.",
+			"note": "Czas teraźniejszy przy planie: wszystko jest już ustalone."
 		}
 	}
 }

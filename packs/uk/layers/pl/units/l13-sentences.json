@@ -2,22 +2,28 @@
 	"title": "Zdania",
 	"cells": {
 		"dress": {
-			"sentenceGloss": "Ona wkłada sukienkę."
+			"sentenceGloss": "Ona wkłada sukienkę.",
+			"note": "Czas teraźniejszy, trzecia osoba l. poj.: ona zakłada."
 		},
 		"shoes": {
-			"sentenceGloss": "On wkłada trzewiki."
+			"sentenceGloss": "On wkłada trzewiki.",
+			"note": "Czas teraźniejszy, trzecia osoba l. poj.: on zakłada."
 		},
 		"size": {
-			"sentenceGloss": "Potrzebna jest koszula rozmiaru czterdziestego drugiego."
+			"sentenceGloss": "Potrzebna jest koszula rozmiaru czterdziestego drugiego.",
+			"note": "Dopełniacz: liczebnik porządkowy w dopełniaczu po розміру."
 		},
 		"have": {
-			"sentenceGloss": "Mam trzydziesty dziewiąty rozmiar buta."
+			"sentenceGloss": "Mam trzydziesty dziewiąty rozmiar buta.",
+			"note": "Liczebnik porządkowy zostaje w mianowniku: sam określa rozmiar."
 		},
 		"trying": {
-			"sentenceGloss": "Klient przymierza płaszcz."
+			"sentenceGloss": "Klient przymierza płaszcz.",
+			"note": "Czas teraźniejszy, trzecia osoba l. poj.: kupujący przymierza."
 		},
 		"buying": {
-			"sentenceGloss": "Mama kupuje kapcie."
+			"sentenceGloss": "Mama kupuje kapcie.",
+			"note": "Czas teraźniejszy, trzecia osoba l. poj.: mama kupuje."
 		}
 	},
 	"summary": "Wpisz brakującą formę według podanego hasła lub znaczenia zdania."

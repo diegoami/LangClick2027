@@ -3,8 +3,18 @@
 	"typing": true,
 	"layout": {
 		"type": "table",
-		"rows": ["ya", "ty", "he", "my", "vy", "they"],
-		"columns": ["navchaty", "navchatysya"]
+		"rows": [
+			"ya",
+			"ty",
+			"he",
+			"my",
+			"vy",
+			"they"
+		],
+		"columns": [
+			"navchaty",
+			"navchatysya"
+		]
 	},
 	"cells": [
 		{
@@ -12,6 +22,7 @@
 			"item": "verb-present:navchaty:ya",
 			"text": "навчаю",
 			"display": "навча́ю",
+			"ipa": "/naʋˈt͡ʃaju/",
 			"row": "ya",
 			"col": "navchaty"
 		},
@@ -20,6 +31,7 @@
 			"item": "verb-present:navchaty:ty",
 			"text": "навчаєш",
 			"display": "навча́єш",
+			"ipa": "/naʋˈt͡ʃajɛʃ/",
 			"row": "ty",
 			"col": "navchaty"
 		},
@@ -28,24 +40,31 @@
 			"item": "verb-present:navchaty:he",
 			"text": "навчає",
 			"display": "навча́є",
+			"ipa": "/naʋˈt͡ʃajɛ/",
 			"row": "he",
 			"col": "navchaty",
-			"alsoAccepted": ["навча"]
+			"alsoAccepted": [
+				"навча"
+			]
 		},
 		{
 			"id": "my.navchaty",
 			"item": "verb-present:navchaty:my",
 			"text": "навчаємо",
 			"display": "навча́ємо",
+			"ipa": "/naʋˈt͡ʃajɛmɔ/",
 			"row": "my",
 			"col": "navchaty",
-			"alsoAccepted": ["навчаєм"]
+			"alsoAccepted": [
+				"навчаєм"
+			]
 		},
 		{
 			"id": "vy.navchaty",
 			"item": "verb-present:navchaty:vy",
 			"text": "навчаєте",
 			"display": "навча́єте",
+			"ipa": "/naʋˈt͡ʃajɛtɛ/",
 			"row": "vy",
 			"col": "navchaty"
 		},
@@ -54,6 +73,7 @@
 			"item": "verb-present:navchaty:they",
 			"text": "навчають",
 			"display": "навча́ють",
+			"ipa": "/naʋˈt͡ʃajutʲ/",
 			"row": "they",
 			"col": "navchaty"
 		},
@@ -62,15 +82,19 @@
 			"item": "verb-present:navchatysya:ya",
 			"text": "навчаюся",
 			"display": "навча́юся",
+			"ipa": "/naʋˈt͡ʃajusʲa/",
 			"row": "ya",
 			"col": "navchatysya",
-			"alsoAccepted": ["навчаюсь"]
+			"alsoAccepted": [
+				"навчаюсь"
+			]
 		},
 		{
 			"id": "ty.navchatysya",
 			"item": "verb-present:navchatysya:ty",
 			"text": "навчаєшся",
 			"display": "навча́єшся",
+			"ipa": "/naʋˈt͡ʃajɛsʲːa/",
 			"row": "ty",
 			"col": "navchatysya"
 		},
@@ -79,6 +103,7 @@
 			"item": "verb-present:navchatysya:he",
 			"text": "навчається",
 			"display": "навча́ється",
+			"ipa": "/naʋˈt͡ʃajɛt͡sʲːa/",
 			"row": "he",
 			"col": "navchatysya"
 		},
@@ -87,24 +112,32 @@
 			"item": "verb-present:navchatysya:my",
 			"text": "навчаємося",
 			"display": "навча́ємося",
+			"ipa": "/naʋˈt͡ʃajɛmɔsʲa/",
 			"row": "my",
 			"col": "navchatysya",
-			"alsoAccepted": ["навчаємось", "навчаємся"]
+			"alsoAccepted": [
+				"навчаємось",
+				"навчаємся"
+			]
 		},
 		{
 			"id": "vy.navchatysya",
 			"item": "verb-present:navchatysya:vy",
 			"text": "навчаєтеся",
 			"display": "навча́єтеся",
+			"ipa": "/naʋˈt͡ʃajɛtɛsʲa/",
 			"row": "vy",
 			"col": "navchatysya",
-			"alsoAccepted": ["навчаєтесь"]
+			"alsoAccepted": [
+				"навчаєтесь"
+			]
 		},
 		{
 			"id": "they.navchatysya",
 			"item": "verb-present:navchatysya:they",
 			"text": "навчаються",
 			"display": "навча́ються",
+			"ipa": "/naʋˈt͡ʃajut͡sʲːa/",
 			"row": "they",
 			"col": "navchatysya"
 		}

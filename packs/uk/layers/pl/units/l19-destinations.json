@@ -23,5 +23,67 @@
 		"poshta": "пошта",
 		"ratusha": "ратуша",
 		"gen": "до + родовий"
+	},
+	"cells": {
+		"mist.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"hotel.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"bank.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"hurtozhytok.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"universytet.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"kinoteatr.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"sobor.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"khram.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"palats.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"zamok.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"muzey.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"park.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"stadion.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"zoopark.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"pam-yatnyk.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"fontan.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"halereya.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"zapravka.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"poshta.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		},
+		"ratusha.gen": {
+			"note": "Dopełniacz: do łączy się z dopełniaczem nazwy miejsca."
+		}
 	}
 }

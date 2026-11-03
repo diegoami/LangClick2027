@@ -47,7 +47,9 @@
 			"text": "подарунок",
 			"display": "подару́нок",
 			"ipa": "/pɔdaˈrunɔk/",
-			"alsoAccepted": ["дарунок"]
+			"alsoAccepted": [
+				"дарунок"
+			]
 		},
 		{
 			"id": "pryvitannya",
@@ -55,7 +57,9 @@
 			"text": "привітання",
 			"display": "привіта́ння",
 			"ipa": "/prɪʋʲiˈtanʲːa/",
-			"alsoAccepted": ["вітання"]
+			"alsoAccepted": [
+				"вітання"
+			]
 		},
 		{
 			"id": "svyatkuvaty",
@@ -91,7 +95,9 @@
 			"text": "Святвечір",
 			"display": "Святве́чір",
 			"ipa": "/sʲʋʲatˈʋɛt͡ʃir/",
-			"alsoAccepted": ["Святий вечір"]
+			"alsoAccepted": [
+				"Святий вечір"
+			]
 		},
 		{
 			"id": "kutya",
@@ -154,51 +160,67 @@
 			"item": "word:triytsya",
 			"text": "Трійця",
 			"display": "Трі́йця",
-			"alsoAccepted": ["Зелені свята"]
+			"ipa": "/ˈtʲrʲijt͡sʲa/",
+			"alsoAccepted": [
+				"Зелені свята"
+			]
 		},
 		{
 			"id": "pokrova",
 			"item": "word:pokrova",
 			"text": "Покрова",
-			"display": "Покро́ва"
+			"display": "Покро́ва",
+			"ipa": "/pɔˈkrɔʋa/"
 		},
 		{
 			"id": "vodokhreshche",
 			"item": "word:vodokhreshche",
 			"text": "Водохреще",
 			"display": "Водо́хреще",
-			"alsoAccepted": ["Водохреща", "Йордан", "Богоявлення"]
+			"ipa": "/ʋɔˈdɔxrɛʃt͡ʃɛ/",
+			"alsoAccepted": [
+				"Водохреща",
+				"Йордан",
+				"Богоявлення"
+			]
 		},
 		{
 			"id": "blahovishchennya",
 			"item": "word:blahovishchennya",
 			"text": "Благовіщення",
-			"display": "Благові́щення"
+			"display": "Благові́щення",
+			"ipa": "/blaɦɔˈʋiʃt͡ʃɛnʲːa/"
 		},
 		{
 			"id": "obryad",
 			"item": "word:obryad",
 			"text": "обряд",
 			"display": "обря́д",
-			"alsoAccepted": ["ритуал"]
+			"ipa": "/ɔˈbrʲad/",
+			"alsoAccepted": [
+				"ритуал"
+			]
 		},
 		{
 			"id": "uzvar",
 			"item": "word:uzvar",
 			"text": "узвар",
-			"display": "узва́р"
+			"display": "узва́р",
+			"ipa": "/uzˈʋar/"
 		},
 		{
 			"id": "didukh",
 			"item": "word:didukh",
 			"text": "дідух",
-			"display": "діду́х"
+			"display": "діду́х",
+			"ipa": "/dʲiˈdux/"
 		},
 		{
 			"id": "konstytutsiya",
 			"item": "word:konstytutsiya",
 			"text": "конституція",
-			"display": "конститу́ція"
+			"display": "конститу́ція",
+			"ipa": "/kɔnstɪˈtut͡sʲija/"
 		}
 	],
 	"sources": [

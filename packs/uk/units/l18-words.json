@@ -11,132 +11,167 @@
 			"item": "word:avtomobil",
 			"text": "автомобіль",
 			"display": "автомобі́ль",
-			"alsoAccepted": ["автівка", "машина", "авто"]
+			"ipa": "/aʋtɔmɔˈbilʲ/",
+			"alsoAccepted": [
+				"автівка",
+				"машина",
+				"авто"
+			]
 		},
 		{
 			"id": "prychip",
 			"item": "word:prychip",
 			"text": "причіп",
-			"display": "при́чіп"
+			"display": "при́чіп",
+			"ipa": "/ˈprɪt͡ʃip/"
 		},
 		{
 			"id": "avtobus",
 			"item": "word:avtobus",
 			"text": "автобус",
-			"display": "авто́бус"
+			"display": "авто́бус",
+			"ipa": "/aʋˈtɔbus/"
 		},
 		{
 			"id": "marshrutka",
 			"item": "word:marshrutka",
 			"text": "маршрутка",
-			"display": "маршру́тка"
+			"display": "маршру́тка",
+			"ipa": "/marʃˈrutka/"
 		},
 		{
 			"id": "vantazhivka",
 			"item": "word:vantazhivka",
 			"text": "вантажівка",
 			"display": "вантажі́вка",
-			"alsoAccepted": ["вантажний автомобіль"]
+			"ipa": "/ʋantaˈʒiʋka/",
+			"alsoAccepted": [
+				"вантажний автомобіль"
+			]
 		},
 		{
 			"id": "tramvay",
 			"item": "word:tramvay",
 			"text": "трамвай",
-			"display": "трамва́й"
+			"display": "трамва́й",
+			"ipa": "/tramˈʋaj/"
 		},
 		{
 			"id": "troleybus",
 			"item": "word:troleybus",
 			"text": "тролейбус",
-			"display": "троле́йбус"
+			"display": "троле́йбус",
+			"ipa": "/trɔˈlɛjbus/"
 		},
 		{
 			"id": "poyizd",
 			"item": "word:poyizd",
 			"text": "поїзд",
 			"display": "по́їзд",
-			"alsoAccepted": ["потяг"]
+			"ipa": "/ˈpɔjizd/",
+			"alsoAccepted": [
+				"потяг"
+			]
 		},
 		{
 			"id": "metro",
 			"item": "word:metro",
 			"text": "метро",
 			"display": "метро́",
-			"alsoAccepted": ["метрополітен"]
+			"ipa": "/mɛˈtrɔ/",
+			"alsoAccepted": [
+				"метрополітен"
+			]
 		},
 		{
 			"id": "taksi",
 			"item": "word:taksi",
 			"text": "таксі",
-			"display": "таксі́"
+			"display": "таксі́",
+			"ipa": "/takˈsʲi/"
 		},
 		{
 			"id": "elektrychka",
 			"item": "word:elektrychka",
 			"text": "електричка",
 			"display": "електри́чка",
-			"alsoAccepted": ["електропоїзд"]
+			"ipa": "/ɛlɛˈktrɪt͡ʃka/",
+			"alsoAccepted": [
+				"електропоїзд"
+			]
 		},
 		{
 			"id": "litak",
 			"item": "word:litak",
 			"text": "літак",
-			"display": "літа́к"
+			"display": "літа́к",
+			"ipa": "/lʲiˈtak/"
 		},
 		{
 			"id": "aeroport",
 			"item": "word:aeroport",
 			"text": "аеропорт",
 			"display": "аеропо́рт",
-			"alsoAccepted": ["летовище"]
+			"ipa": "/aɛrɔˈpɔrt/",
+			"alsoAccepted": [
+				"летовище"
+			]
 		},
 		{
 			"id": "vokzal",
 			"item": "word:vokzal",
 			"text": "вокзал",
-			"display": "вокза́л"
+			"display": "вокза́л",
+			"ipa": "/ʋɔˈɡzal/"
 		},
 		{
 			"id": "kvytok",
 			"item": "word:kvytok",
 			"text": "квиток",
-			"display": "квито́к"
+			"display": "квито́к",
+			"ipa": "/ɡʋɪˈtɔk/"
 		},
 		{
 			"id": "pasazhyr",
 			"item": "word:pasazhyr",
 			"text": "пасажир",
-			"display": "пасажи́р"
+			"display": "пасажи́р",
+			"ipa": "/pasaˈʒɪr/"
 		},
 		{
 			"id": "turyst",
 			"item": "word:turyst",
 			"text": "турист",
-			"display": "тури́ст"
+			"display": "тури́ст",
+			"ipa": "/tuˈrɪst/"
 		},
 		{
 			"id": "zupynka",
 			"item": "word:zupynka",
 			"text": "зупинка",
-			"display": "зупи́нка"
+			"display": "зупи́нка",
+			"ipa": "/zuˈpɪnka/"
 		},
 		{
 			"id": "zator",
 			"item": "word:zator",
 			"text": "затор",
-			"display": "зато́р"
+			"display": "зато́р",
+			"ipa": "/zaˈtɔr/"
 		},
 		{
 			"id": "misto",
 			"item": "word:misto",
 			"text": "місто",
-			"display": "мі́сто"
+			"display": "мі́сто",
+			"ipa": "/ˈmistɔ/"
 		},
 		{
 			"id": "mistse",
 			"item": "word:mistse",
 			"text": "місце",
-			"display": "мі́сце"
+			"display": "мі́сце",
+			"ipa": "/ˈmist͡sɛ/"
 		}
 	],
 	"sources": [

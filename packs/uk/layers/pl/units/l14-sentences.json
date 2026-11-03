@@ -2,28 +2,36 @@
 	"title": "Zdania",
 	"cells": {
 		"near": {
-			"sentenceGloss": "Fotel stoi przy szafie."
+			"sentenceGloss": "Fotel stoi przy szafie.",
+			"note": "Dopełniacz: біля łączy się z dopełniaczem."
 		},
 		"under": {
-			"sentenceGloss": "Kot siedzi pod stołem."
+			"sentenceGloss": "Kot siedzi pod stołem.",
+			"note": "Narzędnik: pod łączy się z narzędnikiem przy oznaczeniu miejsca."
 		},
 		"over": {
-			"sentenceGloss": "Obraz wisi nad kanapą."
+			"sentenceGloss": "Obraz wisi nad kanapą.",
+			"note": "Narzędnik: nad łączy się z narzędnikiem przy oznaczeniu miejsca."
 		},
 		"behind": {
-			"sentenceGloss": "Wieszak stoi za drzwiami."
+			"sentenceGloss": "Wieszak stoi za drzwiami.",
+			"note": "Narzędnik: za łączy się z narzędnikiem przy oznaczeniu miejsca."
 		},
 		"before": {
-			"sentenceGloss": "Drzewo rośnie przed domem."
+			"sentenceGloss": "Drzewo rośnie przed domem.",
+			"note": "Narzędnik: przed łączy się z narzędnikiem."
 		},
 		"kitchen": {
-			"sentenceGloss": "Przygotowujemy jedzenie w kuchni."
+			"sentenceGloss": "Przygotowujemy jedzenie w kuchni.",
+			"note": "Miejscownik: na łączy się z miejscownikiem przy oznaczeniu miejsca."
 		},
 		"attic": {
-			"sentenceGloss": "Na strychu przechowuje się stare walizki."
+			"sentenceGloss": "Na strychu przechowuje się stare walizki.",
+			"note": "Miejscownik: na łączy się z miejscownikiem przy oznaczeniu miejsca."
 		},
 		"floor": {
-			"sentenceGloss": "Moje mieszkanie jest na drugim piętrze."
+			"sentenceGloss": "Moje mieszkanie jest na drugim piętrze.",
+			"note": "Miejscownik: поверх w drugim przypadku l. poj. — na drugim piętrze."
 		}
 	},
 	"summary": "Położenie: біля + dopełniacz; під, над, за, перед + narzędnik; у/в, на + miejscownik."

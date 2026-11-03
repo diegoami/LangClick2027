@@ -10,91 +10,119 @@
 			"id": "provodyty",
 			"item": "word:provodyty",
 			"text": "проводити",
-			"display": "прово́дити"
+			"display": "прово́дити",
+			"ipa": "/prɔˈʋɔdɪtɪ/"
 		},
 		{
 			"id": "vkladaty",
 			"item": "word:vkladaty",
 			"text": "вкладати",
-			"display": "вклада́ти"
+			"display": "вклада́ти",
+			"ipa": "/ʋklaˈdatɪ/"
 		},
 		{
 			"id": "planuvaty",
 			"item": "word:planuvaty",
 			"text": "планувати",
-			"display": "планува́ти"
+			"display": "планува́ти",
+			"ipa": "/planuˈʋatɪ/"
 		},
 		{
 			"id": "znakhodyty",
 			"item": "word:znakhodyty",
 			"text": "знаходити",
-			"display": "знахо́дити"
+			"display": "знахо́дити",
+			"ipa": "/znaˈxɔdɪtɪ/"
 		},
 		{
 			"id": "prysvyachuvaty",
 			"item": "word:prysvyachuvaty",
 			"text": "присвячувати",
-			"display": "присвя́чувати"
+			"display": "присвя́чувати",
+			"ipa": "/prɪsʲˈʋʲat͡ʃuʋatɪ/"
 		},
 		{
 			"id": "haynuvaty",
 			"item": "word:haynuvaty",
 			"text": "гайнувати",
 			"display": "гайнува́ти",
-			"alsoAccepted": ["марнувати"]
+			"ipa": "/ɦajnuˈʋatɪ/",
+			"alsoAccepted": [
+				"марнувати"
+			]
 		},
 		{
 			"id": "korystuvatysya",
 			"item": "word:korystuvatysya",
 			"text": "користуватися",
 			"display": "користува́тися",
-			"alsoAccepted": ["користуватись"]
+			"ipa": "/kɔrɪstuˈʋatɪsʲa/",
+			"alsoAccepted": [
+				"користуватись"
+			]
 		},
 		{
 			"id": "volodity",
 			"item": "word:volodity",
 			"text": "володіти",
-			"display": "володі́ти"
+			"display": "володі́ти",
+			"ipa": "/ʋɔlɔˈdʲitɪ/"
 		},
 		{
 			"id": "nasolodzhuvatysya",
 			"item": "word:nasolodzhuvatysya",
 			"text": "насолоджуватися",
 			"display": "насоло́джуватися",
-			"alsoAccepted": ["насолоджуватись"]
+			"ipa": "/nasɔˈlɔdʒuʋatɪsʲa/",
+			"alsoAccepted": [
+				"насолоджуватись"
+			]
 		},
 		{
 			"id": "zhertvuvaty",
 			"item": "word:zhertvuvaty",
 			"text": "жертвувати",
-			"display": "же́ртвувати"
+			"display": "же́ртвувати",
+			"ipa": "/ˈʒɛrtʋuʋatɪ/"
 		},
 		{
 			"id": "rozslablyatysya",
 			"item": "word:rozslablyatysya",
 			"text": "розслаблятися",
 			"display": "розслабля́тися",
-			"alsoAccepted": ["розслаблятись", "розслаблюватися", "розслаблюватись"]
+			"ipa": "/rɔzslaˈblʲatɪsʲa/",
+			"alsoAccepted": [
+				"розслаблятись",
+				"розслаблюватися",
+				"розслаблюватись"
+			]
 		},
 		{
 			"id": "tsikavytysya",
 			"item": "word:tsikavytysya",
 			"text": "цікавитися",
 			"display": "ціка́витися",
-			"alsoAccepted": ["цікавитись"]
+			"ipa": "/t͡sʲiˈkaʋɪtɪsʲa/",
+			"alsoAccepted": [
+				"цікавитись"
+			]
 		},
 		{
 			"id": "zaymatysya",
 			"item": "word:zaymatysya",
 			"text": "займатися",
 			"display": "займа́тися",
-			"alsoAccepted": ["займатись"]
+			"ipa": "/zajˈmatɪsʲa/",
+			"alsoAccepted": [
+				"займатись"
+			]
 		},
 		{
 			"id": "vidpochyvaty",
 			"item": "word:vidpochyvaty",
 			"text": "відпочивати",
-			"display": "відпочива́ти"
+			"display": "відпочива́ти",
+			"ipa": "/ʋidpɔt͡ʃɪˈʋatɪ/"
 		}
 	],
 	"sources": [

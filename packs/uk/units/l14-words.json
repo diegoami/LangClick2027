@@ -11,381 +11,458 @@
 			"item": "word:zhytlo",
 			"text": "житло",
 			"display": "житло́",
-			"alsoAccepted": ["помешкання"]
+			"ipa": "/ʒɪˈtlɔ/",
+			"alsoAccepted": [
+				"помешкання"
+			]
 		},
 		{
 			"id": "kvartyra",
 			"item": "word:kvartyra",
 			"text": "квартира",
-			"display": "кварти́ра"
+			"display": "кварти́ра",
+			"ipa": "/ɡʋarˈtɪra/"
 		},
 		{
 			"id": "budynok",
 			"item": "word:budynok",
 			"text": "будинок",
 			"display": "буди́нок",
-			"alsoAccepted": ["дім"]
+			"ipa": "/buˈdɪnɔk/",
+			"alsoAccepted": [
+				"дім"
+			]
 		},
 		{
 			"id": "podvir-ya",
 			"item": "word:podvir-ya",
 			"text": "подвір'я",
-			"alsoAccepted": ["двір"],
-			"display": "подві́р'я"
+			"alsoAccepted": [
+				"двір"
+			],
+			"display": "подві́р'я",
+			"ipa": "/pɔdˈʋirja/"
 		},
 		{
 			"id": "sad",
 			"item": "word:sad",
-			"text": "сад"
+			"text": "сад",
+			"ipa": "/sad/"
 		},
 		{
 			"id": "klumba",
 			"item": "word:klumba",
 			"text": "клумба",
-			"display": "клу́мба"
+			"display": "клу́мба",
+			"ipa": "/ˈklumba/"
 		},
 		{
 			"id": "harazh",
 			"item": "word:harazh",
 			"text": "гараж",
-			"display": "гара́ж"
+			"display": "гара́ж",
+			"ipa": "/ɦaˈraʒ/"
 		},
 		{
 			"id": "baseyn",
 			"item": "word:baseyn",
 			"text": "басейн",
-			"display": "басе́йн"
+			"display": "басе́йн",
+			"ipa": "/baˈsɛjn/"
 		},
 		{
 			"id": "villa",
 			"item": "word:villa",
 			"text": "вілла",
-			"display": "ві́лла"
+			"display": "ві́лла",
+			"ipa": "/ˈʋilːa/"
 		},
 		{
 			"id": "poverkh",
 			"item": "word:poverkh",
 			"text": "поверх",
-			"display": "по́верх"
+			"display": "по́верх",
+			"ipa": "/ˈpɔʋɛrx/"
 		},
 		{
 			"id": "dveri",
 			"item": "word:dveri",
 			"text": "двері",
-			"display": "две́рі"
+			"display": "две́рі",
+			"ipa": "/ˈdʋɛrʲi/"
 		},
 		{
 			"id": "peredpokiy",
 			"item": "word:peredpokiy",
 			"text": "передпокій",
-			"display": "передпо́кій"
+			"display": "передпо́кій",
+			"ipa": "/pɛrɛdˈpɔkij/"
 		},
 		{
 			"id": "korydor",
 			"item": "word:korydor",
 			"text": "коридор",
-			"display": "коридо́р"
+			"display": "коридо́р",
+			"ipa": "/kɔrɪˈdɔr/"
 		},
 		{
 			"id": "skhody",
 			"item": "word:skhody",
 			"text": "сходи",
-			"display": "схо́ди"
+			"display": "схо́ди",
+			"ipa": "/ˈsxɔdɪ/"
 		},
 		{
 			"id": "kukhnya",
 			"item": "word:kukhnya",
 			"text": "кухня",
-			"display": "ку́хня"
+			"display": "ку́хня",
+			"ipa": "/ˈkuxnʲa/"
 		},
 		{
 			"id": "vitalnya",
 			"item": "word:vitalnya",
 			"text": "вітальня",
-			"display": "віта́льня"
+			"display": "віта́льня",
+			"ipa": "/ʋiˈtalʲnʲa/"
 		},
 		{
 			"id": "spalnya",
 			"item": "word:spalnya",
 			"text": "спальня",
-			"display": "спа́льня"
+			"display": "спа́льня",
+			"ipa": "/ˈspalʲnʲa/"
 		},
 		{
 			"id": "vanna",
 			"item": "word:vanna",
 			"text": "ванна",
 			"display": "ва́нна",
-			"alsoAccepted": ["ванна кімната"]
+			"ipa": "/ˈʋanːa/",
+			"alsoAccepted": [
+				"ванна кімната"
+			]
 		},
 		{
 			"id": "dytyacha-kimnata",
 			"item": "word:dytyacha-kimnata",
 			"text": "дитяча кімната",
-			"display": "дитя́ча кімна́та"
+			"display": "дитя́ча кімна́та",
+			"ipa": "/dɪˈtʲat͡ʃa kimˈnata/"
 		},
 		{
 			"id": "hostova-kimnata",
 			"item": "word:hostova-kimnata",
 			"text": "гостьова кімната",
-			"display": "гостьова́ кімна́та"
+			"display": "гостьова́ кімна́та",
+			"ipa": "/ɦɔstʲɔˈʋa kimˈnata/"
 		},
 		{
 			"id": "dakh",
 			"item": "word:dakh",
-			"text": "дах"
+			"text": "дах",
+			"ipa": "/dax/"
 		},
 		{
 			"id": "horyshche",
 			"item": "word:horyshche",
 			"text": "горище",
-			"display": "гори́ще"
+			"display": "гори́ще",
+			"ipa": "/ɦɔˈrɪʃt͡ʃɛ/"
 		},
 		{
 			"id": "pidval",
 			"item": "word:pidval",
 			"text": "підвал",
-			"display": "підва́л"
+			"display": "підва́л",
+			"ipa": "/pidˈʋal/"
 		},
 		{
 			"id": "mebli",
 			"item": "word:mebli",
 			"text": "меблі",
-			"display": "ме́блі"
+			"display": "ме́блі",
+			"ipa": "/ˈmɛblʲi/"
 		},
 		{
 			"id": "lizhko",
 			"item": "word:lizhko",
 			"text": "ліжко",
-			"display": "лі́жко"
+			"display": "лі́жко",
+			"ipa": "/ˈlʲiʒkɔ/"
 		},
 		{
 			"id": "podushka",
 			"item": "word:podushka",
 			"text": "подушка",
-			"display": "поду́шка"
+			"display": "поду́шка",
+			"ipa": "/pɔˈduʃka/"
 		},
 		{
 			"id": "kovdra",
 			"item": "word:kovdra",
 			"text": "ковдра",
-			"display": "ко́вдра"
+			"display": "ко́вдра",
+			"ipa": "/ˈkɔʋdra/"
 		},
 		{
 			"id": "tumba",
 			"item": "word:tumba",
 			"text": "тумба",
-			"display": "ту́мба"
+			"display": "ту́мба",
+			"ipa": "/ˈtumba/"
 		},
 		{
 			"id": "nastilna-lampa",
 			"item": "word:nastilna-lampa",
 			"text": "настільна лампа",
-			"display": "насті́льна ла́мпа"
+			"display": "насті́льна ла́мпа",
+			"ipa": "/nasʲˈtʲilʲna ˈlampa/"
 		},
 		{
 			"id": "shafa",
 			"item": "word:shafa",
 			"text": "шафа",
-			"display": "ша́фа"
+			"display": "ша́фа",
+			"ipa": "/ˈʃafa/"
 		},
 		{
 			"id": "dzerkalo",
 			"item": "word:dzerkalo",
 			"text": "дзеркало",
-			"display": "дзе́ркало"
+			"display": "дзе́ркало",
+			"ipa": "/ˈdzɛrkalɔ/"
 		},
 		{
 			"id": "pidloha",
 			"item": "word:pidloha",
 			"text": "підлога",
-			"display": "підло́га"
+			"display": "підло́га",
+			"ipa": "/piˈdlɔɦa/"
 		},
 		{
 			"id": "kylym",
 			"item": "word:kylym",
 			"text": "килим",
-			"display": "ки́лим"
+			"display": "ки́лим",
+			"ipa": "/ˈkɪlɪm/"
 		},
 		{
 			"id": "shtora",
 			"item": "word:shtora",
 			"text": "штора",
-			"display": "што́ра"
+			"display": "што́ра",
+			"ipa": "/ˈʃtɔra/"
 		},
 		{
 			"id": "tyul",
 			"item": "word:tyul",
-			"text": "тюль"
+			"text": "тюль",
+			"ipa": "/tʲulʲ/"
 		},
 		{
 			"id": "dyvan",
 			"item": "word:dyvan",
 			"text": "диван",
-			"display": "дива́н"
+			"display": "дива́н",
+			"ipa": "/dɪˈʋan/"
 		},
 		{
 			"id": "krislo",
 			"item": "word:krislo",
 			"text": "крісло",
-			"display": "крі́сло"
+			"display": "крі́сло",
+			"ipa": "/ˈkrʲislɔ/"
 		},
 		{
 			"id": "televizor",
 			"item": "word:televizor",
 			"text": "телевізор",
-			"display": "телеві́зор"
+			"display": "телеві́зор",
+			"ipa": "/tɛlɛˈʋizɔr/"
 		},
 		{
 			"id": "zhurnalnyy-stolyk",
 			"item": "word:zhurnalnyy-stolyk",
 			"text": "журнальний столик",
-			"display": "журна́льний сто́лик"
+			"display": "журна́льний сто́лик",
+			"ipa": "/ʒurˈnalʲnɪj ˈstɔlɪk/"
 		},
 		{
 			"id": "knyzhkova-shafa",
 			"item": "word:knyzhkova-shafa",
 			"text": "книжкова шафа",
-			"display": "книжко́ва ша́фа"
+			"display": "книжко́ва ша́фа",
+			"ipa": "/knɪʒˈkɔʋa ˈʃafa/"
 		},
 		{
 			"id": "pysmovyy-stil",
 			"item": "word:pysmovyy-stil",
 			"text": "письмовий стіл",
-			"display": "письмо́вий стіл"
+			"display": "письмо́вий стіл",
+			"ipa": "/pɪˈsʲmɔʋɪj sʲtʲil/"
 		},
 		{
 			"id": "stilets",
 			"item": "word:stilets",
 			"text": "стілець",
-			"display": "стіле́ць"
+			"display": "стіле́ць",
+			"ipa": "/sʲtʲiˈlɛt͡sʲ/"
 		},
 		{
 			"id": "pidvikonnya",
 			"item": "word:pidvikonnya",
 			"text": "підвіконня",
-			"display": "підвіко́ння"
+			"display": "підвіко́ння",
+			"ipa": "/pidʋiˈkɔnʲːa/"
 		},
 		{
 			"id": "horshchyk",
 			"item": "word:horshchyk",
 			"text": "горщик",
-			"display": "го́рщик"
+			"display": "го́рщик",
+			"ipa": "/ˈɦɔrʃt͡ʃɪk/"
 		},
 		{
 			"id": "yidalnya",
 			"item": "word:yidalnya",
 			"text": "їдальня",
-			"display": "їда́льня"
+			"display": "їда́льня",
+			"ipa": "/jiˈdalʲnʲa/"
 		},
 		{
 			"id": "plyta",
 			"item": "word:plyta",
 			"text": "плита",
-			"display": "плита́"
+			"display": "плита́",
+			"ipa": "/plɪˈta/"
 		},
 		{
 			"id": "dukhova-shafa",
 			"item": "word:dukhova-shafa",
 			"text": "духова шафа",
-			"alsoAccepted": ["духовка"],
-			"display": "духова́ ша́фа"
+			"alsoAccepted": [
+				"духовка"
+			],
+			"display": "духова́ ша́фа",
+			"ipa": "/duxɔˈʋa ˈʃafa/"
 		},
 		{
 			"id": "posudomyyna-mashyna",
 			"item": "word:posudomyyna-mashyna",
 			"text": "посудомийна машина",
-			"display": "посудоми́йна маши́на"
+			"display": "посудоми́йна маши́на",
+			"ipa": "/pɔsudɔˈmɪjna maˈʃɪna/"
 		},
 		{
 			"id": "kholodylnyk",
 			"item": "word:kholodylnyk",
 			"text": "холодильник",
-			"display": "холоди́льник"
+			"display": "холоди́льник",
+			"ipa": "/xɔlɔˈdɪlʲnɪk/"
 		},
 		{
 			"id": "vytyazhka",
 			"item": "word:vytyazhka",
 			"text": "витяжка",
-			"display": "ви́тяжка"
+			"display": "ви́тяжка",
+			"ipa": "/ˈʋɪtʲaʒka/"
 		},
 		{
 			"id": "myynytsya",
 			"item": "word:myynytsya",
 			"text": "мийниця",
 			"display": "ми́йниця",
-			"alsoAccepted": ["мийка"]
+			"ipa": "/ˈmɪjnɪt͡sʲa/",
+			"alsoAccepted": [
+				"мийка"
+			]
 		},
 		{
 			"id": "zmishuvach",
 			"item": "word:zmishuvach",
 			"text": "змішувач",
-			"display": "змі́шувач"
+			"display": "змі́шувач",
+			"ipa": "/ˈzmiʃuʋat͡ʃ/"
 		},
 		{
 			"id": "stilnytsya",
 			"item": "word:stilnytsya",
 			"text": "стільниця",
-			"display": "стільни́ця"
+			"display": "стільни́ця",
+			"ipa": "/sʲtʲilʲˈnɪt͡sʲa/"
 		},
 		{
 			"id": "stelya",
 			"item": "word:stelya",
 			"text": "стеля",
-			"display": "сте́ля"
+			"display": "сте́ля",
+			"ipa": "/ˈstɛlʲa/"
 		},
 		{
 			"id": "lyustra",
 			"item": "word:lyustra",
 			"text": "люстра",
-			"display": "лю́стра"
+			"display": "лю́стра",
+			"ipa": "/ˈlʲustra/"
 		},
 		{
 			"id": "dush",
 			"item": "word:dush",
-			"text": "душ"
+			"text": "душ",
+			"ipa": "/duʃ/"
 		},
 		{
 			"id": "tualet",
 			"item": "word:tualet",
 			"text": "туалет",
-			"display": "туале́т"
+			"display": "туале́т",
+			"ipa": "/tuaˈlɛt/"
 		},
 		{
 			"id": "umyvalnyk",
 			"item": "word:umyvalnyk",
 			"text": "умивальник",
-			"display": "умива́льник"
+			"display": "умива́льник",
+			"ipa": "/umɪˈʋalʲnɪk/"
 		},
 		{
 			"id": "pralna-mashyna",
 			"item": "word:pralna-mashyna",
 			"text": "пральна машина",
-			"display": "пра́льна маши́на"
+			"display": "пра́льна маши́на",
+			"ipa": "/ˈpralʲna maˈʃɪna/"
 		},
 		{
 			"id": "polytsya",
 			"item": "word:polytsya",
 			"text": "полиця",
-			"display": "поли́ця"
+			"display": "поли́ця",
+			"ipa": "/pɔˈlɪt͡sʲa/"
 		},
 		{
 			"id": "rushnyk",
 			"item": "word:rushnyk",
 			"text": "рушник",
-			"display": "рушни́к"
+			"display": "рушни́к",
+			"ipa": "/ruˈʃnɪk/"
 		},
 		{
 			"id": "vishak",
 			"item": "word:vishak",
 			"text": "вішак",
 			"display": "віша́к",
-			"alsoAccepted": ["вішалка"]
+			"ipa": "/ʋiˈʃak/",
+			"alsoAccepted": [
+				"вішалка"
+			]
 		},
 		{
 			"id": "komod",
 			"item": "word:komod",
 			"text": "комод",
-			"display": "комо́д"
+			"display": "комо́д",
+			"ipa": "/kɔˈmɔd/"
 		}
 	],
 	"sources": [

@@ -3,40 +3,52 @@
 	"summary": "Inflect the lemma. Adjectives and prepositions fix the case and number.",
 	"cells": {
 		"forest-gen": {
-			"sentenceGloss": "A small house stands near the forest."
+			"sentenceGloss": "A small house stands near the forest.",
+			"note": "Genitive: біля takes the genitive."
 		},
 		"river-gen": {
-			"sentenceGloss": "It is a five-minute walk from the river to the village."
+			"sentenceGloss": "It is a five-minute walk from the river to the village.",
+			"note": "Genitive: від takes the genitive."
 		},
 		"lake-gen": {
-			"sentenceGloss": "Trees grow on the shore of the lake."
+			"sentenceGloss": "Trees grow on the shore of the lake.",
+			"note": "Genitive: на березі озера, on the shore of the lake."
 		},
 		"mountains-loc": {
-			"sentenceGloss": "Our friends are holidaying in high mountains."
+			"sentenceGloss": "Our friends are holidaying in high mountains.",
+			"note": "Locative plural: у високих горах, the second case plural."
 		},
 		"pines-inst": {
-			"sentenceGloss": "The path runs between tall pines."
+			"sentenceGloss": "The path runs between tall pines.",
+			"note": "Instrumental: between the pines, in the instrumental."
 		},
 		"willow-inst": {
-			"sentenceGloss": "There is a bench under the old willow."
+			"sentenceGloss": "There is a bench under the old willow.",
+			"note": "Instrumental: під takes the instrumental for a position."
 		},
 		"oak-gen": {
-			"sentenceGloss": "The hikers stopped near the old oak."
+			"sentenceGloss": "The hikers stopped near the old oak.",
+			"note": "Genitive: біля takes the genitive."
 		},
 		"lily-genpl": {
-			"sentenceGloss": "There is a bunch of lilies of the valley in the picture."
+			"sentenceGloss": "There is a bunch of lilies of the valley in the picture.",
+			"note": "Genitive plural: a bunch of lilies of the valley."
 		},
 		"flower-acc": {
-			"sentenceGloss": "The girl drew a bright flower."
+			"sentenceGloss": "The girl drew a bright flower.",
+			"note": "Accusative: what was drawn takes the accusative."
 		},
 		"meadow-loc": {
-			"sentenceGloss": "In summer livestock graze on the mountain meadow."
+			"sentenceGloss": "In summer livestock graze on the mountain meadow.",
+			"note": "Locative singular: полонина in the second case singular."
 		},
 		"reserve-gen": {
-			"sentenceGloss": "We arrived at the nature reserve."
+			"sentenceGloss": "We arrived at the nature reserve.",
+			"note": "Genitive: до takes the genitive."
 		},
 		"nature-inst": {
-			"sentenceGloss": "The artist admires the local natural landscape."
+			"sentenceGloss": "The artist admires the local natural landscape.",
+			"note": "Instrumental: the instrumental names what the artist admires."
 		}
 	}
 }

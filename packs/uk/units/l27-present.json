@@ -3,8 +3,19 @@
 	"typing": true,
 	"layout": {
 		"type": "table",
-		"rows": ["ya", "ty", "he", "my", "vy", "they"],
-		"columns": ["vchyty", "vchytysya", "vyvchaty"]
+		"rows": [
+			"ya",
+			"ty",
+			"he",
+			"my",
+			"vy",
+			"they"
+		],
+		"columns": [
+			"vchyty",
+			"vchytysya",
+			"vyvchaty"
+		]
 	},
 	"cells": [
 		{
@@ -12,114 +23,161 @@
 			"item": "verb-present:vchyty:ya",
 			"text": "вчу",
 			"display": "вчу",
+			"ipa": "/ʋt͡ʃu/",
 			"row": "ya",
 			"col": "vchyty",
-			"alsoAccepted": ["учу"]
+			"alsoAccepted": [
+				"учу"
+			]
 		},
 		{
 			"id": "ty.vchyty",
 			"item": "verb-present:vchyty:ty",
 			"text": "вчиш",
 			"display": "вчиш",
+			"ipa": "/ʋt͡ʃɪʃ/",
 			"row": "ty",
 			"col": "vchyty",
-			"alsoAccepted": ["учиш"]
+			"alsoAccepted": [
+				"учиш"
+			]
 		},
 		{
 			"id": "he.vchyty",
 			"item": "verb-present:vchyty:he",
 			"text": "вчить",
 			"display": "вчить",
+			"ipa": "/ʋt͡ʃɪtʲ/",
 			"row": "he",
 			"col": "vchyty",
-			"alsoAccepted": ["учить"]
+			"alsoAccepted": [
+				"учить"
+			]
 		},
 		{
 			"id": "my.vchyty",
 			"item": "verb-present:vchyty:my",
 			"text": "вчимо",
 			"display": "вчимо́",
+			"ipa": "/ʋt͡ʃɪˈmɔ/",
 			"row": "my",
 			"col": "vchyty",
-			"alsoAccepted": ["учимо", "вчим", "учим"]
+			"alsoAccepted": [
+				"учимо",
+				"вчим",
+				"учим"
+			]
 		},
 		{
 			"id": "vy.vchyty",
 			"item": "verb-present:vchyty:vy",
 			"text": "вчите",
 			"display": "вчите́",
+			"ipa": "/ʋt͡ʃɪˈtɛ/",
 			"row": "vy",
 			"col": "vchyty",
-			"alsoAccepted": ["учите"]
+			"alsoAccepted": [
+				"учите"
+			]
 		},
 		{
 			"id": "they.vchyty",
 			"item": "verb-present:vchyty:they",
 			"text": "вчать",
 			"display": "вчать",
+			"ipa": "/ʋt͡ʃatʲ/",
 			"row": "they",
 			"col": "vchyty",
-			"alsoAccepted": ["учать"]
+			"alsoAccepted": [
+				"учать"
+			]
 		},
 		{
 			"id": "ya.vchytysya",
 			"item": "verb-present:vchytysya:ya",
 			"text": "вчуся",
 			"display": "вчу́ся",
+			"ipa": "/ˈʋt͡ʃusʲa/",
 			"row": "ya",
 			"col": "vchytysya",
-			"alsoAccepted": ["вчусь", "учуся", "учусь"]
+			"alsoAccepted": [
+				"вчусь",
+				"учуся",
+				"учусь"
+			]
 		},
 		{
 			"id": "ty.vchytysya",
 			"item": "verb-present:vchytysya:ty",
 			"text": "вчишся",
 			"display": "вчи́шся",
+			"ipa": "/ˈʋt͡ʃɪsʲːa/",
 			"row": "ty",
 			"col": "vchytysya",
-			"alsoAccepted": ["учишся"]
+			"alsoAccepted": [
+				"учишся"
+			]
 		},
 		{
 			"id": "he.vchytysya",
 			"item": "verb-present:vchytysya:he",
 			"text": "вчиться",
 			"display": "вчи́ться",
+			"ipa": "/ˈʋt͡ʃɪt͡sʲːa/",
 			"row": "he",
 			"col": "vchytysya",
-			"alsoAccepted": ["учиться"]
+			"alsoAccepted": [
+				"учиться"
+			]
 		},
 		{
 			"id": "my.vchytysya",
 			"item": "verb-present:vchytysya:my",
 			"text": "вчимося",
 			"display": "вчимо́ся",
+			"ipa": "/ʋt͡ʃɪˈmɔsʲa/",
 			"row": "my",
 			"col": "vchytysya",
-			"alsoAccepted": ["вчимось", "вчимся", "учимося", "учимось", "учимся"]
+			"alsoAccepted": [
+				"вчимось",
+				"вчимся",
+				"учимося",
+				"учимось",
+				"учимся"
+			]
 		},
 		{
 			"id": "vy.vchytysya",
 			"item": "verb-present:vchytysya:vy",
 			"text": "вчитеся",
 			"display": "вчите́ся",
+			"ipa": "/ʋt͡ʃɪˈtɛsʲa/",
 			"row": "vy",
 			"col": "vchytysya",
-			"alsoAccepted": ["вчитесь", "учитеся", "учитесь"]
+			"alsoAccepted": [
+				"вчитесь",
+				"учитеся",
+				"учитесь"
+			]
 		},
 		{
 			"id": "they.vchytysya",
 			"item": "verb-present:vchytysya:they",
 			"text": "вчаться",
 			"display": "вча́ться",
+			"ipa": "/ˈʋt͡ʃat͡sʲːa/",
 			"row": "they",
 			"col": "vchytysya",
-			"alsoAccepted": ["учаться"]
+			"alsoAccepted": [
+				"учаться"
+			]
 		},
 		{
 			"id": "ya.vyvchaty",
 			"item": "verb-present:vyvchaty:ya",
 			"text": "вивчаю",
 			"display": "вивча́ю",
+			"ipa": "/ʋɪʋˈt͡ʃaju/",
 			"row": "ya",
 			"col": "vyvchaty"
 		},
@@ -128,6 +186,7 @@
 			"item": "verb-present:vyvchaty:ty",
 			"text": "вивчаєш",
 			"display": "вивча́єш",
+			"ipa": "/ʋɪʋˈt͡ʃajɛʃ/",
 			"row": "ty",
 			"col": "vyvchaty"
 		},
@@ -136,24 +195,31 @@
 			"item": "verb-present:vyvchaty:he",
 			"text": "вивчає",
 			"display": "вивча́є",
+			"ipa": "/ʋɪʋˈt͡ʃajɛ/",
 			"row": "he",
 			"col": "vyvchaty",
-			"alsoAccepted": ["вивча"]
+			"alsoAccepted": [
+				"вивча"
+			]
 		},
 		{
 			"id": "my.vyvchaty",
 			"item": "verb-present:vyvchaty:my",
 			"text": "вивчаємо",
 			"display": "вивча́ємо",
+			"ipa": "/ʋɪʋˈt͡ʃajɛmɔ/",
 			"row": "my",
 			"col": "vyvchaty",
-			"alsoAccepted": ["вивчаєм"]
+			"alsoAccepted": [
+				"вивчаєм"
+			]
 		},
 		{
 			"id": "vy.vyvchaty",
 			"item": "verb-present:vyvchaty:vy",
 			"text": "вивчаєте",
 			"display": "вивча́єте",
+			"ipa": "/ʋɪʋˈt͡ʃajɛtɛ/",
 			"row": "vy",
 			"col": "vyvchaty"
 		},
@@ -162,6 +228,7 @@
 			"item": "verb-present:vyvchaty:they",
 			"text": "вивчають",
 			"display": "вивча́ють",
+			"ipa": "/ʋɪʋˈt͡ʃajutʲ/",
 			"row": "they",
 			"col": "vyvchaty"
 		}

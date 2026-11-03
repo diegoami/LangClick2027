@@ -1,0 +1,22 @@
+{
+	"cells": {
+		"ruchka": {
+			"falseFriend": {
+				"falseFriend": {
+					"kind": "partial",
+					"form": "uchwyt",
+					"means": "Polish uchwyt is a handle or a door knob. Ukrainian ручка is a pen."
+				}
+			}
+		},
+		"kafedra": {
+			"falseFriend": {
+				"falseFriend": {
+					"kind": "homograph",
+					"form": "katedra",
+					"means": "Polish katedra is a bishop's chair or a lecturer's chair. Ukrainian кафедра is a university department."
+				}
+			}
+		}
+	}
+}

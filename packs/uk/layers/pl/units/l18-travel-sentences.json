@@ -3,34 +3,44 @@
 	"summary": "Dobierz formę podanego słowa do kontekstu.",
 	"cells": {
 		"now": {
-			"sentenceGloss": "Teraz jadę do teatru."
+			"sentenceGloss": "Teraz jadę do teatru.",
+			"note": "Czas teraźniejszy: я їду — pierwsza osoba l. poj. od їхати."
 		},
 		"often": {
-			"sentenceGloss": "W każdy poniedziałek jeżdżę do biura."
+			"sentenceGloss": "W każdy poniedziałek jeżdżę do biura.",
+			"note": "Czas teraźniejszy: їздити to czasownik II konjugacji, więc я їжджу."
 		},
 		"we": {
-			"sentenceGloss": "W tej chwili jedziemy przez most."
+			"sentenceGloss": "W tej chwili jedziemy przez most.",
+			"note": "Czas teraźniejszy: pierwsza osoba l. mn. od їхати."
 		},
 		"they": {
-			"sentenceGloss": "Nasi sąsiedzi każdego lata jeżdżą nad jezioro."
+			"sentenceGloss": "Nasi sąsiedzi każdego lata jeżdżą nad jezioro.",
+			"note": "Czas teraźniejszy: trzecia osoba l. mn. od їздити."
 		},
 		"town": {
-			"sentenceGloss": "W tym mieście są tramwaje."
+			"sentenceGloss": "W tym mieście są tramwaje.",
+			"note": "Miejscownik l. poj.: місто w drugim przypadku l. poj."
 		},
 		"place": {
-			"sentenceGloss": "W tym miejscu będzie przystanek."
+			"sentenceGloss": "W tym miejscu będzie przystanek.",
+			"note": "Miejscownik l. poj.: місце w drugim przypadku l. poj."
 		},
 		"towns": {
-			"sentenceGloss": "Turyści odwiedzili trzy miasta."
+			"sentenceGloss": "Turyści odwiedzili trzy miasta.",
+			"note": "Miejscownik l. mn.: w trzech містах — drugi przypadek liczby mnogiej."
 		},
 		"places": {
-			"sentenceGloss": "W tych miejscach nie wolno parkować."
+			"sentenceGloss": "W tych miejscach nie wolno parkować.",
+			"note": "Miejscownik l. mn.: у цих місцях — drugi przypadek liczby mnogiej."
 		},
 		"plane": {
-			"sentenceGloss": "Za granicę lecą samolotem."
+			"sentenceGloss": "Za granicę lecą samolotem.",
+			"note": "Narzędnik: środek podróży stoi w narzędniku."
 		},
 		"train": {
-			"sentenceGloss": "Tym razem podróżujemy pociągiem."
+			"sentenceGloss": "Tym razem podróżujemy pociągiem.",
+			"note": "Narzędnik: środek podróży stoi w narzędniku."
 		}
 	}
 }

@@ -2,19 +2,24 @@
 	"title": "Sentences",
 	"cells": {
 		"oil": {
-			"sentenceGloss": "I buy sunflower oil for the salad."
+			"sentenceGloss": "I buy sunflower oil for the salad.",
+			"note": "Accusative: олія is what is bought, so it takes the accusative."
 		},
 		"butter": {
-			"sentenceGloss": "I spread butter on the bread."
+			"sentenceGloss": "I spread butter on the bread.",
+			"note": "Accusative: масло is what is spread, so it takes the accusative."
 		},
 		"expiry": {
-			"sentenceGloss": "Before buying I check the shelf life."
+			"sentenceGloss": "Before buying I check the shelf life.",
+			"note": "Genitive: термін придатності is a fixed phrase in the genitive."
 		},
 		"cost": {
-			"sentenceGloss": "How much does this loaf cost?"
+			"sentenceGloss": "How much does this loaf cost?",
+			"note": "Present tense: скільки коштує — how much does it cost."
 		},
 		"carrots": {
-			"sentenceGloss": "I cut carrots for soup."
+			"sentenceGloss": "I cut carrots for soup.",
+			"note": "Accusative: ріжу takes the accusative — what is cut."
 		}
 	},
 	"summary": "Use the lemma or the meaning fixed by the sentence to supply the missing form."

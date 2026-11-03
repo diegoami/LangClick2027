@@ -4,8 +4,18 @@
 	"dealAll": true,
 	"layout": {
 		"type": "table",
-		"rows": ["round", "pale", "curly", "brown"],
-		"columns": ["c0", "c1", "c2", "c3"]
+		"rows": [
+			"round",
+			"pale",
+			"curly",
+			"brown"
+		],
+		"columns": [
+			"c0",
+			"c1",
+			"c2",
+			"c3"
+		]
 	},
 	"cells": [
 		{
@@ -14,7 +24,8 @@
 			"text": "круглий",
 			"row": "round",
 			"col": "c0",
-			"display": "кру́глий"
+			"display": "кру́глий",
+			"ipa": "/ˈkruɦlɪj/"
 		},
 		{
 			"id": "round.c1",
@@ -22,7 +33,8 @@
 			"text": "кругла",
 			"row": "round",
 			"col": "c1",
-			"display": "кру́гла"
+			"display": "кру́гла",
+			"ipa": "/ˈkruɦla/"
 		},
 		{
 			"id": "round.c2",
@@ -30,7 +42,8 @@
 			"text": "кругле",
 			"row": "round",
 			"col": "c2",
-			"display": "кру́гле"
+			"display": "кру́гле",
+			"ipa": "/ˈkruɦlɛ/"
 		},
 		{
 			"id": "round.c3",
@@ -38,7 +51,8 @@
 			"text": "круглі",
 			"row": "round",
 			"col": "c3",
-			"display": "кру́глі"
+			"display": "кру́глі",
+			"ipa": "/ˈkruɦlʲi/"
 		},
 		{
 			"id": "pale.c0",
@@ -46,7 +60,8 @@
 			"text": "блідий",
 			"row": "pale",
 			"col": "c0",
-			"display": "бліди́й"
+			"display": "бліди́й",
+			"ipa": "/blʲiˈdɪj/"
 		},
 		{
 			"id": "pale.c1",
@@ -54,7 +69,8 @@
 			"text": "бліда",
 			"row": "pale",
 			"col": "c1",
-			"display": "бліда́"
+			"display": "бліда́",
+			"ipa": "/blʲiˈda/"
 		},
 		{
 			"id": "pale.c2",
@@ -62,7 +78,8 @@
 			"text": "бліде",
 			"row": "pale",
 			"col": "c2",
-			"display": "бліде́"
+			"display": "бліде́",
+			"ipa": "/blʲiˈdɛ/"
 		},
 		{
 			"id": "pale.c3",
@@ -70,7 +87,8 @@
 			"text": "бліді",
 			"row": "pale",
 			"col": "c3",
-			"display": "бліді́"
+			"display": "бліді́",
+			"ipa": "/blʲiˈdʲi/"
 		},
 		{
 			"id": "curly.c0",
@@ -78,7 +96,8 @@
 			"text": "кучерявий",
 			"row": "curly",
 			"col": "c0",
-			"display": "кучеря́вий"
+			"display": "кучеря́вий",
+			"ipa": "/kut͡ʃɛˈrʲaʋɪj/"
 		},
 		{
 			"id": "curly.c1",
@@ -86,7 +105,8 @@
 			"text": "кучерява",
 			"row": "curly",
 			"col": "c1",
-			"display": "кучеря́ва"
+			"display": "кучеря́ва",
+			"ipa": "/kut͡ʃɛˈrʲaʋa/"
 		},
 		{
 			"id": "curly.c2",
@@ -94,7 +114,8 @@
 			"text": "кучеряве",
 			"row": "curly",
 			"col": "c2",
-			"display": "кучеря́ве"
+			"display": "кучеря́ве",
+			"ipa": "/kut͡ʃɛˈrʲaʋɛ/"
 		},
 		{
 			"id": "curly.c3",
@@ -102,7 +123,8 @@
 			"text": "кучеряві",
 			"row": "curly",
 			"col": "c3",
-			"display": "кучеря́ві"
+			"display": "кучеря́ві",
+			"ipa": "/kut͡ʃɛˈrʲaʋi/"
 		},
 		{
 			"id": "brown.c0",
@@ -110,7 +132,8 @@
 			"text": "карий",
 			"row": "brown",
 			"col": "c0",
-			"display": "ка́рий"
+			"display": "ка́рий",
+			"ipa": "/ˈkarɪj/"
 		},
 		{
 			"id": "brown.c1",
@@ -118,7 +141,8 @@
 			"text": "кара",
 			"row": "brown",
 			"col": "c1",
-			"display": "ка́ра"
+			"display": "ка́ра",
+			"ipa": "/ˈkara/"
 		},
 		{
 			"id": "brown.c2",
@@ -126,7 +150,8 @@
 			"text": "каре",
 			"row": "brown",
 			"col": "c2",
-			"display": "ка́ре"
+			"display": "ка́ре",
+			"ipa": "/ˈkarɛ/"
 		},
 		{
 			"id": "brown.c3",
@@ -134,7 +159,8 @@
 			"text": "карі",
 			"row": "brown",
 			"col": "c3",
-			"display": "ка́рі"
+			"display": "ка́рі",
+			"ipa": "/ˈkarʲi/"
 		}
 	],
 	"sources": [

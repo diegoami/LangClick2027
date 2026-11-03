@@ -12,5 +12,55 @@
 		"c0": "mam … rozmiar (mianownik)",
 		"c1": "… rozmiaru (dopełniacz)"
 	},
-	"summary": "Z розмір używaj liczebnika porządkowego w rodzaju męskim. W złożonym odmienia się tylko ostatni wyraz."
+	"summary": "Z розмір używaj liczebnika porządkowego w rodzaju męskim. W złożonym odmienia się tylko ostatni wyraz.",
+	"cells": {
+		"38.c0": {
+			"note": "Mianownik: liczebnik porządkowy nazywa sam rozmiar."
+		},
+		"38.c1": {
+			"note": "Dopełniacz: po розміру liczebnik porządkowy w dopełniaczu."
+		},
+		"39.c0": {
+			"note": "Mianownik: liczebnik porządkowy nazywa sam rozmiar."
+		},
+		"39.c1": {
+			"note": "Dopełniacz: po розміру liczebnik porządkowy w dopełniaczu."
+		},
+		"42.c0": {
+			"note": "Mianownik: liczebnik porządkowy nazywa sam rozmiar."
+		},
+		"42.c1": {
+			"note": "Dopełniacz: po розміру liczebnik porządkowy w dopełniaczu."
+		},
+		"44.c0": {
+			"note": "Mianownik: liczebnik porządkowy nazywa sam rozmiar."
+		},
+		"44.c1": {
+			"note": "Dopełniacz: po розміру liczebnik porządkowy w dopełniaczu."
+		},
+		"46.c0": {
+			"note": "Mianownik: liczebnik porządkowy nazywa sam rozmiar."
+		},
+		"46.c1": {
+			"note": "Dopełniacz: po розміру liczebnik porządkowy w dopełniaczu."
+		},
+		"48.c0": {
+			"note": "Mianownik: liczebnik porządkowy nazywa sam rozmiar."
+		},
+		"48.c1": {
+			"note": "Dopełniacz: po розміру liczebnik porządkowy w dopełniaczu."
+		},
+		"50.c0": {
+			"note": "Mianownik: liczebnik porządkowy nazywa sam rozmiar."
+		},
+		"50.c1": {
+			"note": "Dopełniacz: po розміру liczebnik porządkowy w dopełniaczu."
+		},
+		"52.c0": {
+			"note": "Mianownik: liczebnik porządkowy nazywa sam rozmiar."
+		},
+		"52.c1": {
+			"note": "Dopełniacz: po розміру liczebnik porządkowy w dopełniaczu."
+		}
+	}
 }

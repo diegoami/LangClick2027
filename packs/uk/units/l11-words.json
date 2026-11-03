@@ -10,287 +10,339 @@
 			"id": "tilo",
 			"item": "word:tilo",
 			"text": "тіло",
-			"display": "ті́ло"
+			"display": "ті́ло",
+			"ipa": "/ˈtʲilɔ/"
 		},
 		{
 			"id": "shkira",
 			"item": "word:shkira",
 			"text": "шкіра",
-			"display": "шкі́ра"
+			"display": "шкі́ра",
+			"ipa": "/ˈʃkira/"
 		},
 		{
 			"id": "holova",
 			"item": "word:holova",
 			"text": "голова",
-			"display": "голова́"
+			"display": "голова́",
+			"ipa": "/ɦɔlɔˈʋa/"
 		},
 		{
 			"id": "makivka",
 			"item": "word:makivka",
 			"text": "маківка",
-			"display": "ма́ківка"
+			"display": "ма́ківка",
+			"ipa": "/ˈmakiʋka/"
 		},
 		{
 			"id": "vukho",
 			"item": "word:vukho",
 			"text": "вухо",
-			"display": "ву́хо"
+			"display": "ву́хо",
+			"ipa": "/ˈʋuxɔ/"
 		},
 		{
 			"id": "skronya",
 			"item": "word:skronya",
 			"text": "скроня",
-			"display": "скро́ня"
+			"display": "скро́ня",
+			"ipa": "/ˈskrɔnʲa/"
 		},
 		{
 			"id": "vylytsya",
 			"item": "word:vylytsya",
 			"text": "вилиця",
-			"display": "ви́лиця"
+			"display": "ви́лиця",
+			"ipa": "/ˈʋɪlɪt͡sʲa/"
 		},
 		{
 			"id": "potylytsya",
 			"item": "word:potylytsya",
 			"text": "потилиця",
-			"display": "поти́лиця"
+			"display": "поти́лиця",
+			"ipa": "/pɔˈtɪlɪt͡sʲa/"
 		},
 		{
 			"id": "volossya",
 			"item": "word:volossya",
 			"text": "волосся",
-			"display": "воло́сся"
+			"display": "воло́сся",
+			"ipa": "/ʋɔˈlɔsʲːa/"
 		},
 		{
 			"id": "volosyna",
 			"item": "word:volosyna",
 			"text": "волосина",
-			"display": "волоси́на"
+			"display": "волоси́на",
+			"ipa": "/ʋɔlɔˈsɪna/"
 		},
 		{
 			"id": "pasmo",
 			"item": "word:pasmo",
 			"text": "пасмо",
-			"display": "па́смо"
+			"display": "па́смо",
+			"ipa": "/ˈpasmɔ/"
 		},
 		{
 			"id": "zachiska",
 			"item": "word:zachiska",
 			"text": "зачіска",
-			"display": "за́чіска"
+			"display": "за́чіска",
+			"ipa": "/ˈzat͡ʃiska/"
 		},
 		{
 			"id": "shyya",
 			"item": "word:shyya",
 			"text": "шия",
-			"display": "ши́я"
+			"display": "ши́я",
+			"ipa": "/ˈʃɪja/"
 		},
 		{
 			"id": "horlo",
 			"item": "word:horlo",
 			"text": "горло",
-			"display": "го́рло"
+			"display": "го́рло",
+			"ipa": "/ˈɦɔrlɔ/"
 		},
 		{
 			"id": "pidboriddya",
 			"item": "word:pidboriddya",
 			"text": "підборіддя",
-			"display": "підборі́ддя"
+			"display": "підборі́ддя",
+			"ipa": "/pidbɔˈrʲiddʲa/"
 		},
 		{
 			"id": "shchelepa",
 			"item": "word:shchelepa",
 			"text": "щелепа",
-			"display": "ще́лепа"
+			"display": "ще́лепа",
+			"ipa": "/ˈʃt͡ʃɛlɛpa/"
 		},
 		{
 			"id": "zub",
 			"item": "word:zub",
-			"text": "зуб"
+			"text": "зуб",
+			"ipa": "/zub/"
 		},
 		{
 			"id": "yasna",
 			"item": "word:yasna",
 			"text": "ясна",
-			"display": "я́сна"
+			"display": "я́сна",
+			"ipa": "/ˈjasna/"
 		},
 		{
 			"id": "oblychchya",
 			"item": "word:oblychchya",
 			"text": "обличчя",
 			"display": "обли́ччя",
-			"alsoAccepted": ["лице"]
+			"ipa": "/ɔˈblɪt͡ʃt͡ʃʲa/",
+			"alsoAccepted": [
+				"лице"
+			]
 		},
 		{
 			"id": "lob",
 			"item": "word:lob",
 			"text": "лоб",
-			"alsoAccepted": ["чоло"]
+			"ipa": "/lɔb/",
+			"alsoAccepted": [
+				"чоло"
+			]
 		},
 		{
 			"id": "brova",
 			"item": "word:brova",
 			"text": "брова",
-			"display": "брова́"
+			"display": "брова́",
+			"ipa": "/brɔˈʋa/"
 		},
 		{
 			"id": "oko",
 			"item": "word:oko",
 			"text": "око",
-			"display": "о́ко"
+			"display": "о́ко",
+			"ipa": "/ˈɔkɔ/"
 		},
 		{
 			"id": "viya",
 			"item": "word:viya",
 			"text": "вія",
-			"display": "ві́я"
+			"display": "ві́я",
+			"ipa": "/ˈʋija/"
 		},
 		{
 			"id": "pohlyad",
 			"item": "word:pohlyad",
 			"text": "погляд",
-			"display": "по́гляд"
+			"display": "по́гляд",
+			"ipa": "/ˈpɔɦlʲad/"
 		},
 		{
 			"id": "nis",
 			"item": "word:nis",
-			"text": "ніс"
+			"text": "ніс",
+			"ipa": "/nʲis/"
 		},
 		{
 			"id": "shchoka",
 			"item": "word:shchoka",
 			"text": "щока",
-			"display": "щока́"
+			"display": "щока́",
+			"ipa": "/ʃt͡ʃɔˈka/"
 		},
 		{
 			"id": "huba",
 			"item": "word:huba",
 			"text": "губа",
-			"display": "губа́"
+			"display": "губа́",
+			"ipa": "/ɦuˈba/"
 		},
 		{
 			"id": "rot",
 			"item": "word:rot",
-			"text": "рот"
+			"text": "рот",
+			"ipa": "/rɔt/"
 		},
 		{
 			"id": "yazyk",
 			"item": "word:yazyk",
 			"text": "язик",
-			"display": "язи́к"
+			"display": "язи́к",
+			"ipa": "/jaˈzɪk/"
 		},
 		{
 			"id": "tulub",
 			"item": "word:tulub",
 			"text": "тулуб",
-			"display": "ту́луб"
+			"display": "ту́луб",
+			"ipa": "/ˈtulub/"
 		},
 		{
 			"id": "pleche",
 			"item": "word:pleche",
 			"text": "плече",
-			"display": "плече́"
+			"display": "плече́",
+			"ipa": "/plɛˈt͡ʃɛ/"
 		},
 		{
 			"id": "hrudna-klityna",
 			"item": "word:hrudna-klityna",
 			"text": "грудна клітина",
-			"display": "грудна́ кліти́на"
+			"display": "грудна́ кліти́на",
+			"ipa": "/ɦruˈdna klʲiˈtɪna/"
 		},
 		{
 			"id": "hrudy",
 			"item": "word:hrudy",
 			"text": "груди",
-			"display": "гру́ди"
+			"display": "гру́ди",
+			"ipa": "/ˈɦrudɪ/"
 		},
 		{
 			"id": "rebro",
 			"item": "word:rebro",
 			"text": "ребро",
-			"display": "ребро́"
+			"display": "ребро́",
+			"ipa": "/rɛˈbrɔ/"
 		},
 		{
 			"id": "zhyvit",
 			"item": "word:zhyvit",
 			"text": "живіт",
-			"display": "живі́т"
+			"display": "живі́т",
+			"ipa": "/ʒɪˈʋit/"
 		},
 		{
 			"id": "taliya",
 			"item": "word:taliya",
 			"text": "талія",
-			"display": "та́лія"
+			"display": "та́лія",
+			"ipa": "/ˈtalʲija/"
 		},
 		{
 			"id": "spyna",
 			"item": "word:spyna",
 			"text": "спина",
-			"display": "спи́на"
+			"display": "спи́на",
+			"ipa": "/ˈspɪna/"
 		},
 		{
 			"id": "khrebet",
 			"item": "word:khrebet",
 			"text": "хребет",
-			"display": "хребе́т"
+			"display": "хребе́т",
+			"ipa": "/xrɛˈbɛt/"
 		},
 		{
 			"id": "poperek",
 			"item": "word:poperek",
 			"text": "поперек",
-			"display": "по́пере́к"
+			"display": "по́пере́к",
+			"ipa": "/ˈpɔpɛrɛk/"
 		},
 		{
 			"id": "kryzhi",
 			"item": "word:kryzhi",
 			"text": "крижі",
-			"display": "кри́жі"
+			"display": "кри́жі",
+			"ipa": "/ˈkrɪʒi/"
 		},
 		{
 			"id": "stehno",
 			"item": "word:stehno",
 			"text": "стегно",
-			"display": "стегно́"
+			"display": "стегно́",
+			"ipa": "/stɛɦˈnɔ/"
 		},
 		{
 			"id": "ruka",
 			"item": "word:ruka",
 			"text": "рука",
-			"display": "рука́"
+			"display": "рука́",
+			"ipa": "/ruˈka/"
 		},
 		{
 			"id": "dolonya",
 			"item": "word:dolonya",
 			"text": "долоня",
-			"display": "доло́ня"
+			"display": "доло́ня",
+			"ipa": "/dɔˈlɔnʲa/"
 		},
 		{
 			"id": "likot",
 			"item": "word:likot",
 			"text": "лікоть",
-			"display": "лі́коть"
+			"display": "лі́коть",
+			"ipa": "/ˈlʲikɔtʲ/"
 		},
 		{
 			"id": "noha",
 			"item": "word:noha",
 			"text": "нога",
-			"display": "нога́"
+			"display": "нога́",
+			"ipa": "/nɔˈɦa/"
 		},
 		{
 			"id": "kolino",
 			"item": "word:kolino",
 			"text": "коліно",
-			"display": "колі́но"
+			"display": "колі́но",
+			"ipa": "/kɔˈlʲinɔ/"
 		},
 		{
 			"id": "stopa",
 			"item": "word:stopa",
 			"text": "стопа",
-			"display": "стопа́"
+			"display": "стопа́",
+			"ipa": "/stɔˈpa/"
 		},
 		{
 			"id": "palets",
 			"item": "word:palets",
 			"text": "палець",
-			"display": "па́лець"
+			"display": "па́лець",
+			"ipa": "/ˈpalɛt͡sʲ/"
 		}
 	],
 	"sources": [

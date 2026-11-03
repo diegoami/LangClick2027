@@ -17,5 +17,45 @@
 		"velykyy": "великий",
 		"higher": "wyższy"
 	},
-	"cells": {}
+	"cells": {
+		"slabkyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"hrubyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"nizhnyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"lehkyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"hlybokyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"blyzkyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"nyzkyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"tyazhkyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"vazhkyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"vysokyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"khoroshyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"pohanyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		},
+		"velykyy.higher": {
+			"note": "Stopień wyższy: przymiotnik przyjmuje końcówkę stopnia wyższego."
+		}
+	}
 }

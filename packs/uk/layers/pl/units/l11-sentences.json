@@ -2,16 +2,20 @@
 	"title": "Zdania",
 	"cells": {
 		"palm": {
-			"sentenceGloss": "Na dłoni leży mały kamień."
+			"sentenceGloss": "Na dłoni leży mały kamień.",
+			"note": "Miejscownik l. poj.: na nazywa miejsce, więc долоня w miejscowniku."
 		},
 		"cheek": {
-			"sentenceGloss": "Na policzku została kropla wody."
+			"sentenceGloss": "Na policzku została kropla wody.",
+			"note": "Miejscownik l. poj.: na nazywa miejsce, więc щока w miejscowniku."
 		},
 		"back": {
-			"sentenceGloss": "Mam plecak na plecach."
+			"sentenceGloss": "Mam plecak na plecach.",
+			"note": "Miejscownik l. poj.: na nazywa miejsce, więc спина w miejscowniku."
 		},
 		"teeth": {
-			"sentenceGloss": "Na zębach nie ma plam."
+			"sentenceGloss": "Na zębach nie ma plam.",
+			"note": "Miejscownik l. mn.: зуб w drugim przypadku liczby mnogiej — na zubach."
 		}
 	},
 	"summary": "Wpisz brakującą formę według podanego hasła lub znaczenia zdania."

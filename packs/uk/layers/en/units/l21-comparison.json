@@ -17,5 +17,45 @@
 		"velykyy": "великий",
 		"higher": "comparative"
 	},
-	"cells": {}
+	"cells": {
+		"slabkyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"hrubyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"nizhnyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"lehkyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"hlybokyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"blyzkyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"nyzkyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"tyazhkyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"vazhkyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"vysokyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"khoroshyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"pohanyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		},
+		"velykyy.higher": {
+			"note": "Comparative: the adjective takes the comparative ending."
+		}
+	}
 }

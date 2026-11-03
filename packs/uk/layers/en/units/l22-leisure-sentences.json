@@ -3,46 +3,60 @@
 	"summary": "Infinitives after люблю / обожнюю, instrumental after цікавитися / займатися, unchanged хобі.",
 	"cells": {
 		"timeacc": {
-			"sentenceGloss": "I plan my free time."
+			"sentenceGloss": "I plan my free time.",
+			"note": "Accusative: what is planned takes the accusative."
 		},
 		"timeins": {
-			"sentenceGloss": "Know how to use your free time."
+			"sentenceGloss": "Know how to use your free time.",
+			"note": "Instrumental: вільний час in the instrumental, as the means of spending time."
 		},
 		"enjoy": {
-			"sentenceGloss": "The friends are enjoying music."
+			"sentenceGloss": "The friends are enjoying music.",
+			"note": "Instrumental: насолоджуватися takes the instrumental."
 		},
 		"interest": {
-			"sentenceGloss": "My brother is interested in tourism."
+			"sentenceGloss": "My brother is interested in tourism.",
+			"note": "Instrumental: цікавитися takes the instrumental."
 		},
 		"activity": {
-			"sentenceGloss": "After work she does sport."
+			"sentenceGloss": "After work she does sport.",
+			"note": "Instrumental: займатися takes the instrumental."
 		},
 		"collect": {
-			"sentenceGloss": "Olena is keen on collecting postcards."
+			"sentenceGloss": "Olena is keen on collecting postcards.",
+			"note": "Instrumental: захоплюватися takes the instrumental."
 		},
 		"read": {
-			"sentenceGloss": "At weekends I like to read books."
+			"sentenceGloss": "At weekends I like to read books.",
+			"note": "Infinitive: after любити the verb that names the action stands in the infinitive."
 		},
 		"draw": {
-			"sentenceGloss": "Marko loves drawing portraits."
+			"sentenceGloss": "Marko loves drawing portraits.",
+			"note": "Infinitive: after обожнює the verb that names the action stands in the infinitive."
 		},
 		"sphere": {
-			"sentenceGloss": "His field of interest is design."
+			"sentenceGloss": "His field of interest is design.",
+			"note": "Genitive plural: інтересів after the noun that names the field."
 		},
 		"hobby": {
-			"sentenceGloss": "The female friend has no new hobby."
+			"sentenceGloss": "The female friend has no new hobby.",
+			"note": "Indeclinable: хобі has no case, so it stays the same."
 		},
 		"new": {
-			"sentenceGloss": "I am choosing a new hobby."
+			"sentenceGloss": "I am choosing a new hobby.",
+			"note": "Accusative: the adjective agrees with хобі, which is neuter here."
 		},
 		"plural": {
-			"sentenceGloss": "They have developed new hobbies."
+			"sentenceGloss": "They have developed new hobbies.",
+			"note": "Nominative plural: the adjective is plural here."
 		},
 		"leisure": {
-			"sentenceGloss": "In our free time we read."
+			"sentenceGloss": "In our free time we read.",
+			"note": "Locative singular: дозвілля in the second case singular."
 		},
 		"devote": {
-			"sentenceGloss": "My sister devotes her evenings to music."
+			"sentenceGloss": "My sister devotes her evenings to music.",
+			"note": "Dative: присвячує takes the dative — what the evenings are given to."
 		}
 	}
 }

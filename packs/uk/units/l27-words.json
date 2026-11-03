@@ -59,103 +59,133 @@
 			"id": "bloknot",
 			"item": "word:bloknot",
 			"text": "блокнот",
-			"display": "блокно́т"
+			"display": "блокно́т",
+			"ipa": "/blɔˈknɔt/"
 		},
 		{
 			"id": "shchodennyk",
 			"item": "word:shchodennyk",
 			"text": "щоденник",
-			"display": "щоде́нник"
+			"display": "щоде́нник",
+			"ipa": "/ʃt͡ʃɔˈdɛnːɪk/"
 		},
 		{
 			"id": "orhanayzer",
 			"item": "word:orhanayzer",
 			"text": "органайзер",
 			"display": "органа́йзер",
-			"alsoAccepted": ["планер"]
+			"ipa": "/ɔrɦaˈnajzɛr/",
+			"alsoAccepted": [
+				"планер"
+			]
 		},
 		{
 			"id": "flomaster",
 			"item": "word:flomaster",
 			"text": "фломастер",
 			"display": "флома́стер",
-			"alsoAccepted": ["маркер"]
+			"ipa": "/flɔˈmastɛr/",
+			"alsoAccepted": [
+				"маркер"
+			]
 		},
 		{
 			"id": "nalipka",
 			"item": "word:nalipka",
 			"text": "наліпка",
 			"display": "налі́пка",
-			"alsoAccepted": ["наклейка"]
+			"ipa": "/naˈlʲipka/",
+			"alsoAccepted": [
+				"наклейка"
+			]
 		},
 		{
 			"id": "zakladka",
 			"item": "word:zakladka",
 			"text": "закладка",
-			"display": "за́кладка"
+			"display": "за́кладка",
+			"ipa": "/ˈzakladka/"
 		},
 		{
 			"id": "penal",
 			"item": "word:penal",
 			"text": "пенал",
-			"display": "пена́л"
+			"display": "пена́л",
+			"ipa": "/pɛˈnal/"
 		},
 		{
 			"id": "liniyka",
 			"item": "word:liniyka",
 			"text": "лінійка",
-			"display": "лі́нійка"
+			"display": "лі́нійка",
+			"ipa": "/ˈlʲinʲijka/"
 		},
 		{
 			"id": "humka",
 			"item": "word:humka",
 			"text": "гумка",
 			"display": "гу́мка",
-			"alsoAccepted": ["ластик", "стирачка"]
+			"ipa": "/ˈɦumka/",
+			"alsoAccepted": [
+				"ластик",
+				"стирачка"
+			]
 		},
 		{
 			"id": "nozhytsi",
 			"item": "word:nozhytsi",
 			"text": "ножиці",
-			"display": "но́жиці"
+			"display": "но́жиці",
+			"ipa": "/ˈnɔʒɪt͡sʲi/"
 		},
 		{
 			"id": "albom",
 			"item": "word:albom",
 			"text": "альбом",
-			"display": "альбо́м"
+			"display": "альбо́м",
+			"ipa": "/alʲˈbɔm/"
 		},
 		{
 			"id": "farba",
 			"item": "word:farba",
 			"text": "фарба",
 			"display": "фа́рба",
-			"alsoAccepted": ["краска", "барва"]
+			"ipa": "/ˈfarba/",
+			"alsoAccepted": [
+				"краска",
+				"барва"
+			]
 		},
 		{
 			"id": "posibnyk",
 			"item": "word:posibnyk",
 			"text": "посібник",
-			"display": "посі́бник"
+			"display": "посі́бник",
+			"ipa": "/pɔˈsʲibnɪk/"
 		},
 		{
 			"id": "rozdrukivka",
 			"item": "word:rozdrukivka",
 			"text": "роздруківка",
 			"display": "роздрукі́вка",
-			"alsoAccepted": ["роздрук"]
+			"ipa": "/rɔzdruˈkiʋka/",
+			"alsoAccepted": [
+				"роздрук"
+			]
 		},
 		{
 			"id": "liniya",
 			"item": "word:liniya",
 			"text": "лінія",
-			"display": "лі́нія"
+			"display": "лі́нія",
+			"ipa": "/ˈlʲinʲija/"
 		},
 		{
 			"id": "kafedra",
 			"item": "word:kafedra",
 			"text": "кафедра",
-			"display": "ка́федра"
+			"display": "ка́федра",
+			"ipa": "/ˈkafɛdra/"
 		}
 	],
 	"sources": [

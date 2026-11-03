@@ -1,0 +1,16 @@
+{
+	"cells": {
+		"zamok": {
+			"falseFriend": {
+				"falseFriend": {
+					"kind": "homograph",
+					"form": "róg",
+					"means": "Polish róg is a horn. Ukrainian ріг is a street corner or a nook."
+				}
+			}
+		},
+		"palats": {
+			"contrast": "Ukrainian заправка is a filling station; Polish says stacja benzynowa."
+		}
+	}
+}

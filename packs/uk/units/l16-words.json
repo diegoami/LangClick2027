@@ -10,188 +10,230 @@
 			"id": "posud",
 			"item": "word:posud",
 			"text": "посуд",
-			"display": "по́суд"
+			"display": "по́суд",
+			"ipa": "/ˈpɔsud/"
 		},
 		{
 			"id": "kastrulya",
 			"item": "word:kastrulya",
 			"text": "каструля",
-			"display": "кастру́ля"
+			"display": "кастру́ля",
+			"ipa": "/kaˈstrulʲa/"
 		},
 		{
 			"id": "skovoridka",
 			"item": "word:skovoridka",
 			"text": "сковорідка",
 			"display": "сковорі́дка",
-			"alsoAccepted": ["пательня", "сковорода"]
+			"ipa": "/skɔʋɔˈrʲidka/",
+			"alsoAccepted": [
+				"пательня",
+				"сковорода"
+			]
 		},
 		{
 			"id": "nizh",
 			"item": "word:nizh",
-			"text": "ніж"
+			"text": "ніж",
+			"ipa": "/nʲiʒ/"
 		},
 		{
 			"id": "lozhka",
 			"item": "word:lozhka",
 			"text": "ложка",
-			"display": "ло́жка"
+			"display": "ло́жка",
+			"ipa": "/ˈlɔʒka/"
 		},
 		{
 			"id": "vydelka",
 			"item": "word:vydelka",
 			"text": "виделка",
-			"display": "виде́лка"
+			"display": "виде́лка",
+			"ipa": "/ʋɪˈdɛlka/"
 		},
 		{
 			"id": "sklyanka",
 			"item": "word:sklyanka",
 			"text": "склянка",
-			"display": "скля́нка"
+			"display": "скля́нка",
+			"ipa": "/ˈsklʲanka/"
 		},
 		{
 			"id": "chashka",
 			"item": "word:chashka",
 			"text": "чашка",
 			"display": "ча́шка",
-			"alsoAccepted": ["філіжанка"]
+			"ipa": "/ˈt͡ʃaʃka/",
+			"alsoAccepted": [
+				"філіжанка"
+			]
 		},
 		{
 			"id": "opolonyk",
 			"item": "word:opolonyk",
 			"text": "ополоник",
-			"display": "ополо́ник"
+			"display": "ополо́ник",
+			"ipa": "/ɔpɔˈlɔnɪk/"
 		},
 		{
 			"id": "tsukornytsya",
 			"item": "word:tsukornytsya",
 			"text": "цукорниця",
-			"display": "цу́корниця"
+			"display": "цу́корниця",
+			"ipa": "/ˈt͡sukɔrnɪt͡sʲa/"
 		},
 		{
 			"id": "silnytsya",
 			"item": "word:silnytsya",
 			"text": "сільниця",
-			"display": "сільни́ця"
+			"display": "сільни́ця",
+			"ipa": "/sʲilʲˈnɪt͡sʲa/"
 		},
 		{
 			"id": "perechnytsya",
 			"item": "word:perechnytsya",
 			"text": "перечниця",
-			"display": "пе́речниця"
+			"display": "пе́речниця",
+			"ipa": "/ˈpɛrɛt͡ʃnɪt͡sʲa/"
 		},
 		{
 			"id": "tertushka",
 			"item": "word:tertushka",
 			"text": "тертушка",
 			"display": "терту́шка",
-			"alsoAccepted": ["тертка"]
+			"ipa": "/tɛrˈtuʃka/",
+			"alsoAccepted": [
+				"тертка"
+			]
 		},
 		{
 			"id": "tatsya",
 			"item": "word:tatsya",
 			"text": "таця",
 			"display": "та́ця",
-			"alsoAccepted": ["піднос"]
+			"ipa": "/ˈtat͡sʲa/",
+			"alsoAccepted": [
+				"піднос"
+			]
 		},
 		{
 			"id": "drushlyak",
 			"item": "word:drushlyak",
 			"text": "друшляк",
-			"display": "друшля́к"
+			"display": "друшля́к",
+			"ipa": "/druˈʃlʲak/"
 		},
 		{
 			"id": "stil",
 			"item": "word:stil",
-			"text": "стіл"
+			"text": "стіл",
+			"ipa": "/sʲtʲil/"
 		},
 		{
 			"id": "stilets",
 			"item": "word:stilets",
 			"text": "стілець",
-			"display": "стіле́ць"
+			"display": "стіле́ць",
+			"ipa": "/sʲtʲiˈlɛt͡sʲ/"
 		},
 		{
 			"id": "strava",
 			"item": "word:strava",
 			"text": "страва",
-			"display": "стра́ва"
+			"display": "стра́ва",
+			"ipa": "/ˈstraʋa/"
 		},
 		{
 			"id": "blyudo",
 			"item": "word:blyudo",
 			"text": "блюдо",
-			"display": "блю́до"
+			"display": "блю́до",
+			"ipa": "/ˈblʲudɔ/"
 		},
 		{
 			"id": "hram",
 			"item": "word:hram",
-			"text": "грам"
+			"text": "грам",
+			"ipa": "/ɦram/"
 		},
 		{
 			"id": "kilohram",
 			"item": "word:kilohram",
 			"text": "кілограм",
-			"display": "кілогра́м"
+			"display": "кілогра́м",
+			"ipa": "/kilɔɦˈram/"
 		},
 		{
 			"id": "mandaryn",
 			"item": "word:mandaryn",
 			"text": "мандарин",
-			"display": "мандари́н"
+			"display": "мандари́н",
+			"ipa": "/mandaˈrɪn/"
 		},
 		{
 			"id": "pomidor",
 			"item": "word:pomidor",
 			"text": "помідор",
-			"display": "помідо́р"
+			"display": "помідо́р",
+			"ipa": "/pɔmiˈdɔr/"
 		},
 		{
 			"id": "syr",
 			"item": "word:syr",
-			"text": "сир"
+			"text": "сир",
+			"ipa": "/sɪr/"
 		},
 		{
 			"id": "yaytse",
 			"item": "word:yaytse",
 			"text": "яйце",
-			"display": "яйце́"
+			"display": "яйце́",
+			"ipa": "/jajˈt͡sɛ/"
 		},
 		{
 			"id": "manna-krupa",
 			"item": "word:manna-krupa",
 			"text": "манна крупа",
-			"display": "ма́нна крупа́"
+			"display": "ма́нна крупа́",
+			"ipa": "/ˈmanːa kruˈpa/"
 		},
 		{
 			"id": "rodzynky",
 			"item": "word:rodzynky",
 			"text": "родзинки",
 			"display": "родзи́нки",
-			"alsoAccepted": ["ізюм"]
+			"ipa": "/rɔˈdzɪnkɪ/",
+			"alsoAccepted": [
+				"ізюм"
+			]
 		},
 		{
 			"id": "hotuvaty",
 			"item": "word:hotuvaty",
 			"text": "готувати",
-			"display": "готува́ти"
+			"display": "готува́ти",
+			"ipa": "/ɦɔtuˈʋatɪ/"
 		},
 		{
 			"id": "smazhyty",
 			"item": "word:smazhyty",
 			"text": "смажити",
-			"display": "сма́жити"
+			"display": "сма́жити",
+			"ipa": "/ˈsmaʒɪtɪ/"
 		},
 		{
 			"id": "kukhlyk",
 			"item": "word:kukhlyk",
 			"text": "кухлик",
-			"display": "ку́хлик"
+			"display": "ку́хлик",
+			"ipa": "/ˈkuxlɪk/"
 		},
 		{
 			"id": "hornyatko",
 			"item": "word:hornyatko",
 			"text": "горнятко",
-			"display": "горня́тко"
+			"display": "горня́тко",
+			"ipa": "/ɦɔrˈnʲatkɔ/"
 		}
 	],
 	"sources": [

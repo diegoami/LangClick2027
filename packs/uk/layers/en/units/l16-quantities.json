@@ -8,5 +8,31 @@
 		"c0": "one (nominative)",
 		"c1": "five (genitive plural)"
 	},
-	"summary": "These masculine nouns use -ів after five and higher quantities. Final в remains voiced; study the pronunciation board too."
+	"summary": "These masculine nouns use -ів after five and higher quantities. Final в remains voiced; study the pronunciation board too.",
+	"cells": {
+		"grams.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"grams.c1": {
+			"note": "Genitive plural: after a number the noun is in the second case plural."
+		},
+		"kilos.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"kilos.c1": {
+			"note": "Genitive plural: after a number the noun is in the second case plural."
+		},
+		"mandarins.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"mandarins.c1": {
+			"note": "Genitive plural: after a number the noun is in the second case plural."
+		},
+		"tomatoes.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"tomatoes.c1": {
+			"note": "Genitive plural: after a number the noun is in the second case plural."
+		}
+	}
 }

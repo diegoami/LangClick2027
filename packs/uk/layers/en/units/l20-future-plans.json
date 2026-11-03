@@ -3,28 +3,36 @@
 	"summary": "Perfective future, two imperfective variants and the present for a scheduled plan.",
 	"cells": {
 		"i": {
-			"sentenceGloss": "Tomorrow I will go to the gallery."
+			"sentenceGloss": "Tomorrow I will go to the gallery.",
+			"note": "Future: the simple future of йти is піду."
 		},
 		"we": {
-			"sentenceGloss": "After the tour we will go to a coffee shop."
+			"sentenceGloss": "After the tour we will go to a coffee shop.",
+			"note": "Future: first person plural of йти."
 		},
 		"you": {
-			"sentenceGloss": "On Saturday you will go to an exhibition."
+			"sentenceGloss": "On Saturday you will go to an exhibition.",
+			"note": "Future: second person singular of йти."
 		},
 		"they": {
-			"sentenceGloss": "Next week they will go to a museum."
+			"sentenceGloss": "Next week they will go to a museum.",
+			"note": "Future: third person plural of йти."
 		},
 		"walk": {
-			"sentenceGloss": "In the evening I will be walking along the river."
+			"sentenceGloss": "In the evening I will be walking along the river.",
+			"note": "Future of an imperfective verb: the ending changes, not the stem."
 		},
 		"walkwe": {
-			"sentenceGloss": "Tomorrow we will be walking slowly."
+			"sentenceGloss": "Tomorrow we will be walking slowly.",
+			"note": "Future of an imperfective verb: the ending changes, not the stem."
 		},
 		"read": {
-			"sentenceGloss": "On the train I will read a guidebook."
+			"sentenceGloss": "On the train I will read a guidebook.",
+			"note": "Future of an imperfective verb: the ending changes, not the stem."
 		},
 		"planned": {
-			"sentenceGloss": "Tomorrow morning I am travelling to Lviv."
+			"sentenceGloss": "Tomorrow morning I am travelling to Lviv.",
+			"note": "Present tense for a scheduled plan: it is already arranged."
 		}
 	}
 }

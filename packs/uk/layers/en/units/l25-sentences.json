@@ -3,28 +3,36 @@
 	"summary": "Use the lemma in brackets. Greetings use з/із/зі plus the instrumental; до takes the genitive.",
 	"cells": {
 		"holiday-inst": {
-			"sentenceGloss": "Our friends congratulated us on the holiday."
+			"sentenceGloss": "Our friends congratulated us on the holiday.",
+			"note": "Instrumental: привітати зі takes the instrumental."
 		},
 		"christmas-gen": {
-			"sentenceGloss": "There is one week left until Christmas."
+			"sentenceGloss": "There is one week left until Christmas.",
+			"note": "Genitive: до takes the genitive."
 		},
 		"easter-gen": {
-			"sentenceGloss": "Traditional bread is prepared for Easter."
+			"sentenceGloss": "Traditional bread is prepared for Easter.",
+			"note": "Genitive: до takes the genitive."
 		},
 		"tradition-inst": {
-			"sentenceGloss": "This custom became a family tradition."
+			"sentenceGloss": "This custom became a family tradition.",
+			"note": "Instrumental: the instrumental names what the custom became."
 		},
 		"present-inst": {
-			"sentenceGloss": "The child is happy about the new robot: it was an unexpected present."
+			"sentenceGloss": "The child is happy about the new robot: it was an unexpected present.",
+			"note": "Instrumental: the instrumental names what the robot turned out to be."
 		},
 		"pysanka-inst": {
-			"sentenceGloss": "We admired the decorated Easter egg with a geometric design."
+			"sentenceGloss": "We admired the decorated Easter egg with a geometric design.",
+			"note": "Instrumental: the instrumental names what was admired."
 		},
 		"carol-inst": {
-			"sentenceGloss": "The performance began with a Christmas carol."
+			"sentenceGloss": "The performance began with a Christmas carol.",
+			"note": "Instrumental: the instrumental names what the performance began with."
 		},
 		"uzvar-inst": {
-			"sentenceGloss": "A jug of dried-fruit drink stood on the table."
+			"sentenceGloss": "A jug of dried-fruit drink stood on the table.",
+			"note": "Instrumental: the instrumental names what the jug was filled with."
 		}
 	}
 }

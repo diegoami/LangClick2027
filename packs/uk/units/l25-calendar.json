@@ -10,55 +10,64 @@
 			"id": "new-year",
 			"item": "holiday-date:uk:new-year",
 			"text": "перше січня",
-			"display": "пе́рше сі́чня"
+			"display": "пе́рше сі́чня",
+			"ipa": "/ˈpɛrʃɛ ˈsʲit͡ʃnʲa/"
 		},
 		{
 			"id": "women",
 			"item": "holiday-date:uk:women",
 			"text": "восьме березня",
-			"display": "во́сьме бе́резня"
+			"display": "во́сьме бе́резня",
+			"ipa": "/ˈʋɔsʲmɛ ˈbɛrɛzʲnʲa/"
 		},
 		{
 			"id": "labour",
 			"item": "holiday-date:uk:labour",
 			"text": "перше травня",
-			"display": "пе́рше тра́вня"
+			"display": "пе́рше тра́вня",
+			"ipa": "/ˈpɛrʃɛ ˈtraʋnʲa/"
 		},
 		{
 			"id": "remembrance",
 			"item": "holiday-date:uk:remembrance",
 			"text": "восьме травня",
-			"display": "во́сьме тра́вня"
+			"display": "во́сьме тра́вня",
+			"ipa": "/ˈʋɔsʲmɛ ˈtraʋnʲa/"
 		},
 		{
 			"id": "constitution",
 			"item": "holiday-date:uk:constitution",
 			"text": "двадцять восьме червня",
-			"display": "два́дцять во́сьме че́рвня"
+			"display": "два́дцять во́сьме че́рвня",
+			"ipa": "/ˈdʋadt͡sʲatʲ ˈʋɔsʲmɛ ˈt͡ʃɛrʋnʲa/"
 		},
 		{
 			"id": "statehood",
 			"item": "holiday-date:uk:statehood",
 			"text": "п'ятнадцяте липня",
-			"display": "п'ятна́дцяте ли́пня"
+			"display": "п'ятна́дцяте ли́пня",
+			"ipa": "/pjaˈtnadt͡sʲatɛ ˈlɪpnʲa/"
 		},
 		{
 			"id": "independence",
 			"item": "holiday-date:uk:independence",
 			"text": "двадцять четверте серпня",
-			"display": "два́дцять четве́рте се́рпня"
+			"display": "два́дцять четве́рте се́рпня",
+			"ipa": "/ˈdʋadt͡sʲatʲ t͡ʃɛtˈʋɛrtɛ ˈsɛrpnʲa/"
 		},
 		{
 			"id": "defenders",
 			"item": "holiday-date:uk:defenders",
 			"text": "перше жовтня",
-			"display": "пе́рше жо́втня"
+			"display": "пе́рше жо́втня",
+			"ipa": "/ˈpɛrʃɛ ˈʒɔʋtʲnʲa/"
 		},
 		{
 			"id": "christmas",
 			"item": "holiday-date:uk:christmas",
 			"text": "двадцять п'яте грудня",
-			"display": "два́дцять п'я́те гру́дня"
+			"display": "два́дцять п'я́те гру́дня",
+			"ipa": "/ˈdʋadt͡sʲatʲ ˈpjatɛ ˈɦrudʲnʲa/"
 		}
 	],
 	"sources": [

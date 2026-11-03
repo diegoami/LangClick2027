@@ -90,6 +90,42 @@ alike, as across the Polish script boundary), or `partial` (only partly the same
 Steriopolo & Żygis (2017), the published IPA illustration. Where another source
 disagrees, a concept says so and names it, rather than choosing silently.
 
+A word cell, a verb form and a table cell that names a word carry a
+transcription. A sentence cell does not: the sentence carries the word, and a
+transcription would repeat it.
+
+The letters follow the `alphabet` board, which is the authority:
+
+| Letter | Sound | Letter | Sound | Letter | Sound |
+| ------ | ----- | ------ | ----- | ------ | ----- |
+| а | a | й | j | ц | t͡s |
+| б | b | к | k | ч | t͡ʃ |
+| в | ʋ | л | l | ш | ʃ |
+| г | ɦ | м | m | щ | ʃt͡ʃ |
+| ґ | ɡ | н | n | ь | ʲ |
+| д | d | о | ɔ | ю | ju |
+| е | ɛ | п | p | я | ja |
+| ж | ʒ | р | r | є | jɛ |
+| з | z | с | s | ї | ji |
+| и | ɪ | т | t | и | ɪ |
+| і | i | у | u | | |
+
+The rest of the rules, each with the board that states it:
+
+- **И is /ɪ/**, and **І is /i/**. A stressed и is /i/ only before a vowel or
+  at the end of a word; before a consonant it is /ɪ/ as well (`i-or-y`).
+- **Unstressed о stays /ɔ/**; it does not reduce towards a (`unstressed-o`).
+- **Г is /ɦ/**, and **x before к or т**: легки́й, ні́гті (`h-or-g`).
+- **A final consonant keeps its voice**: віз ends in [z], ваз differs from вас
+  (`final-voiced`).
+- **Soft sign and glide vowels soften what precedes them**: дім, ліс, хліб,
+  ніж; the sign ʲ marks the softened consonant.
+- **дж and дз are single affricates**, /d͡ʒ/ and /d͡z/, written with two
+  letters (`one-sound-two-letters`).
+- **A doubled consonant is a long one**: нн is nː.
+- **ˈ goes before the stressed syllable**, and the stress is the one the
+  `display` marks.
+
 ## Coverage
 
 `packs/uk/coverage/emova-27.json` tracks eMova's 27 lessons against our units, so it

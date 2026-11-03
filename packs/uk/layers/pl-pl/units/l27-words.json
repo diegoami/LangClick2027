@@ -1,0 +1,22 @@
+{
+	"cells": {
+		"ruchka": {
+			"falseFriend": {
+				"falseFriend": {
+					"kind": "partial",
+					"form": "uchwyt",
+					"means": "Polskie uchwyt to rękojeść, klamka. W Ukrainian ручка to długopis."
+				}
+			}
+		},
+		"kafedra": {
+			"falseFriend": {
+				"falseFriend": {
+					"kind": "homograph",
+					"form": "katedra",
+					"means": "Polskie katedra to katedra biskupa albo krzesło wykładowcy. W Ukrainian кафедра to wydział uczelni."
+				}
+			}
+		}
+	}
+}

@@ -2,18 +2,42 @@
 	"title": "Навчати i навчатися: czas teraźniejszy",
 	"summary": "Odmień bezokolicznik podany w każdej kolumnie. Навчати oznacza uczyć kogoś, a навчатися — uczyć się samemu. Wiersze podają ukraińskie zaimki osobowe; forma dla він pasuje także do вона i воно. Ви oznacza liczbę mnogą lub zwrot grzecznościowy.",
 	"cells": {
-		"ya.navchaty": {},
-		"ty.navchaty": {},
-		"he.navchaty": {},
-		"my.navchaty": {},
-		"vy.navchaty": {},
-		"they.navchaty": {},
-		"ya.navchatysya": {},
-		"ty.navchatysya": {},
-		"he.navchatysya": {},
-		"my.navchatysya": {},
-		"vy.navchatysya": {},
-		"they.navchatysya": {}
+		"ya.navchaty": {
+			"note": "Czas teraźniejszy od навчати: uczyć kogoś."
+		},
+		"ty.navchaty": {
+			"note": "Czas teraźniejszy od навчати: uczyć kogoś."
+		},
+		"he.navchaty": {
+			"note": "Czas teraźniejszy od навчати: uczyć kogoś."
+		},
+		"my.navchaty": {
+			"note": "Czas teraźniejszy od навчати: uczyć kogoś."
+		},
+		"vy.navchaty": {
+			"note": "Czas teraźniejszy od навчати: uczyć kogoś."
+		},
+		"they.navchaty": {
+			"note": "Czas teraźniejszy od навчати: uczyć kogoś."
+		},
+		"ya.navchatysya": {
+			"note": "Czas teraźniejszy z -ся: uczyć się u kogoś."
+		},
+		"ty.navchatysya": {
+			"note": "Czas teraźniejszy z -ся: uczyć się u kogoś."
+		},
+		"he.navchatysya": {
+			"note": "Czas teraźniejszy z -ся: uczyć się u kogoś."
+		},
+		"my.navchatysya": {
+			"note": "Czas teraźniejszy z -ся: uczyć się u kogoś."
+		},
+		"vy.navchatysya": {
+			"note": "Czas teraźniejszy z -ся: uczyć się u kogoś."
+		},
+		"they.navchatysya": {
+			"note": "Czas teraźniejszy z -ся: uczyć się u kogoś."
+		}
 	},
 	"headers": {
 		"ya": "я",

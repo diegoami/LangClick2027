@@ -17,5 +17,45 @@
 		"velykyy": "великий",
 		"highest": "superlative"
 	},
-	"cells": {}
+	"cells": {
+		"slabkyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"hrubyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"nizhnyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"lehkyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"hlybokyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"blyzkyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"nyzkyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"tyazhkyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"vazhkyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"vysokyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"khoroshyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"pohanyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		},
+		"velykyy.highest": {
+			"note": "Superlative: най- in front of the adjective, which then agrees as usual."
+		}
+	}
 }

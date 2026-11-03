@@ -11,143 +11,188 @@
 			"item": "word:kharakter",
 			"text": "характер",
 			"display": "хара́ктер",
-			"alsoAccepted": ["вдача"]
+			"ipa": "/xaˈraktɛr/",
+			"alsoAccepted": [
+				"вдача"
+			]
 		},
 		{
 			"id": "nadiynyy",
 			"item": "word:nadiynyy",
 			"text": "надійний",
-			"display": "наді́йний"
+			"display": "наді́йний",
+			"ipa": "/naˈdʲijnɪj/"
 		},
 		{
 			"id": "tvorchyy",
 			"item": "word:tvorchyy",
 			"text": "творчий",
 			"display": "тво́рчий",
-			"alsoAccepted": ["креативний"]
+			"ipa": "/ˈtʋɔrt͡ʃɪj/",
+			"alsoAccepted": [
+				"креативний"
+			]
 		},
 		{
 			"id": "dobrozychlyvyy",
 			"item": "word:dobrozychlyvyy",
 			"text": "доброзичливий",
-			"display": "доброзичли́вий"
+			"display": "доброзичли́вий",
+			"ipa": "/dɔbrɔzɪˈt͡ʃlɪʋɪj/"
 		},
 		{
 			"id": "vdyachnyy",
 			"item": "word:vdyachnyy",
 			"text": "вдячний",
 			"display": "вдя́чний",
-			"alsoAccepted": ["удячний"]
+			"ipa": "/ˈʋdʲat͡ʃnɪj/",
+			"alsoAccepted": [
+				"удячний"
+			]
 		},
 		{
 			"id": "zapalnyy",
 			"item": "word:zapalnyy",
 			"text": "запальний",
 			"display": "запальни́й",
-			"alsoAccepted": ["гарячкуватий"]
+			"ipa": "/zapalʲˈnɪj/",
+			"alsoAccepted": [
+				"гарячкуватий"
+			]
 		},
 		{
 			"id": "pomyslyvyy",
 			"item": "word:pomyslyvyy",
 			"text": "помисливий",
 			"display": "поми́сливий",
-			"alsoAccepted": ["недовірливий", "підозріливий"]
+			"ipa": "/pɔˈmɪslɪʋɪj/",
+			"alsoAccepted": [
+				"недовірливий",
+				"підозріливий"
+			]
 		},
 		{
 			"id": "shchedryy",
 			"item": "word:shchedryy",
 			"text": "щедрий",
-			"display": "ще́дрий"
+			"display": "ще́дрий",
+			"ipa": "/ˈʃt͡ʃɛdrɪj/"
 		},
 		{
 			"id": "urivnovazhenyy",
 			"item": "word:urivnovazhenyy",
 			"text": "урівноважений",
 			"display": "урівнова́жений",
-			"alsoAccepted": ["врівноважений"]
+			"ipa": "/urʲiʋnɔˈʋaʒɛnɪj/",
+			"alsoAccepted": [
+				"врівноважений"
+			]
 		},
 		{
 			"id": "rishuchyy",
 			"item": "word:rishuchyy",
 			"text": "рішучий",
-			"display": "рішу́чий"
+			"display": "рішу́чий",
+			"ipa": "/rʲiˈʃut͡ʃɪj/"
 		},
 		{
 			"id": "upertyy",
 			"item": "word:upertyy",
 			"text": "упертий",
 			"display": "упе́ртий",
-			"alsoAccepted": ["впертий"]
+			"ipa": "/uˈpɛrtɪj/",
+			"alsoAccepted": [
+				"впертий"
+			]
 		},
 		{
 			"id": "postuplyvyy",
 			"item": "word:postuplyvyy",
 			"text": "поступливий",
-			"display": "посту́пливий"
+			"display": "посту́пливий",
+			"ipa": "/pɔsˈtuplɪʋɪj/"
 		},
 		{
 			"id": "zukhvalyy",
 			"item": "word:zukhvalyy",
 			"text": "зухвалий",
 			"display": "зухва́лий",
-			"alsoAccepted": ["дерзкий"]
+			"ipa": "/zuxˈʋalɪj/",
+			"alsoAccepted": [
+				"дерзкий"
+			]
 		},
 		{
 			"id": "dobryy",
 			"item": "word:dobryy",
 			"text": "добрий",
-			"display": "до́брий"
+			"display": "до́брий",
+			"ipa": "/ˈdɔbrɪj/"
 		},
 		{
 			"id": "veselyy",
 			"item": "word:veselyy",
 			"text": "веселий",
 			"display": "весе́лий",
-			"alsoAccepted": ["життєрадісний"]
+			"ipa": "/ʋɛˈsɛlɪj/",
+			"alsoAccepted": [
+				"життєрадісний"
+			]
 		},
 		{
 			"id": "rozlyuchenyy",
 			"item": "word:rozlyuchenyy",
 			"text": "розлючений",
 			"display": "розлю́чений",
-			"alsoAccepted": ["розгніваний"]
+			"ipa": "/rɔzʲˈlʲut͡ʃɛnɪj/",
+			"alsoAccepted": [
+				"розгніваний"
+			]
 		},
 		{
 			"id": "zasmuchenyy",
 			"item": "word:zasmuchenyy",
 			"text": "засмучений",
-			"display": "засму́чений"
+			"display": "засму́чений",
+			"ipa": "/zaˈsmut͡ʃɛnɪj/"
 		},
 		{
 			"id": "napolehlyvyy",
 			"item": "word:napolehlyvyy",
 			"text": "наполегливий",
 			"display": "наполе́гливий",
-			"alsoAccepted": ["настійливий"]
+			"ipa": "/napɔˈlɛɦlɪʋɪj/",
+			"alsoAccepted": [
+				"настійливий"
+			]
 		},
 		{
 			"id": "velycheznyy",
 			"item": "word:velycheznyy",
 			"text": "величезний",
-			"display": "величе́зний"
+			"display": "величе́зний",
+			"ipa": "/ʋɛlɪˈt͡ʃɛznɪj/"
 		},
 		{
 			"id": "zlyushchyy",
 			"item": "word:zlyushchyy",
 			"text": "злющий",
-			"display": "злю́щий"
+			"display": "злю́щий",
+			"ipa": "/ˈzʲlʲuʃt͡ʃɪj/"
 		},
 		{
 			"id": "dyvakuvatyy",
 			"item": "word:dyvakuvatyy",
 			"text": "дивакуватий",
-			"display": "дивакува́тий"
+			"display": "дивакува́тий",
+			"ipa": "/dɪʋakuˈʋatɪj/"
 		},
 		{
 			"id": "chepurnenkyy",
 			"item": "word:chepurnenkyy",
 			"text": "чепурненький",
-			"display": "чепурне́нький"
+			"display": "чепурне́нький",
+			"ipa": "/t͡ʃɛpurˈnɛnʲkɪj/"
 		}
 	],
 	"sources": [

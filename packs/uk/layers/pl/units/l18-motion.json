@@ -10,5 +10,43 @@
 		"they": "вони",
 		"yikhaty": "ї́хати",
 		"yizdyty": "ї́здити"
+	},
+	"cells": {
+		"ya.yikhaty": {
+			"note": "Czas teraźniejszy od їхати: czasownik jednego przejazdu."
+		},
+		"ya.yizdyty": {
+			"note": "Czas teraźniejszy od їздити: czasownik II konjugacji, więc zmienia się rdzeń."
+		},
+		"ty.yikhaty": {
+			"note": "Czas teraźniejszy od їхати: czasownik jednego przejazdu."
+		},
+		"ty.yizdyty": {
+			"note": "Czas teraźniejszy od їздити: czasownik II konjugacji, więc zmienia się rdzeń."
+		},
+		"he.yikhaty": {
+			"note": "Czas teraźniejszy od їхати: czasownik jednego przejazdu."
+		},
+		"he.yizdyty": {
+			"note": "Czas teraźniejszy od їздити: czasownik II konjugacji, więc zmienia się rdzeń."
+		},
+		"my.yikhaty": {
+			"note": "Czas teraźniejszy od їхати: czasownik jednego przejazdu."
+		},
+		"my.yizdyty": {
+			"note": "Czas teraźniejszy od їздити: czasownik II konjugacji, więc zmienia się rdzeń."
+		},
+		"vy.yikhaty": {
+			"note": "Czas teraźniejszy od їхати: czasownik jednego przejazdu."
+		},
+		"vy.yizdyty": {
+			"note": "Czas teraźniejszy od їздити: czasownik II konjugacji, więc zmienia się rdzeń."
+		},
+		"they.yikhaty": {
+			"note": "Czas teraźniejszy od їхати: czasownik jednego przejazdu."
+		},
+		"they.yizdyty": {
+			"note": "Czas teraźniejszy od їздити: czasownik II konjugacji, więc zmienia się rdzeń."
+		}
 	}
 }

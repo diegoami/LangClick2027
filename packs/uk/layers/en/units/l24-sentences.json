@@ -3,40 +3,52 @@
 	"summary": "Use the indicated lemma and case. With боліти, the body part is the subject: singular болить, plural болять.",
 	"cells": {
 		"ache-sing": {
-			"sentenceGloss": "I have a headache today."
+			"sentenceGloss": "I have a headache today.",
+			"note": "The verb agrees with the aching part, so it is singular here."
 		},
 		"ache-plur": {
-			"sentenceGloss": "The patient's teeth hurt."
+			"sentenceGloss": "The patient's teeth hurt.",
+			"note": "With a plural subject the verb is plural."
 		},
 		"cough-gen": {
-			"sentenceGloss": "After treatment the cough is gone."
+			"sentenceGloss": "After treatment the cough is gone.",
+			"note": "Genitive: немає takes the genitive."
 		},
 		"nose-gen": {
-			"sentenceGloss": "This description does not mention symptoms of rhinitis."
+			"sentenceGloss": "This description does not mention symptoms of rhinitis.",
+			"note": "Genitive singular: нежить in the second case singular after симптоми."
 		},
 		"pressure-gen": {
-			"sentenceGloss": "The nurse recorded the pressure reading."
+			"sentenceGloss": "The nurse recorded the pressure reading.",
+			"note": "Genitive: показник тиску — the pressure reading."
 		},
 		"pharmacy-loc": {
-			"sentenceGloss": "My sister works at a pharmacy."
+			"sentenceGloss": "My sister works at a pharmacy.",
+			"note": "Locative singular: аптека in the second case singular."
 		},
 		"prescription-gen": {
-			"sentenceGloss": "The text contains the prescription number."
+			"sentenceGloss": "The text contains the prescription number.",
+			"note": "Genitive: номера рецепта — of the prescription."
 		},
 		"cardiologist-inst": {
-			"sentenceGloss": "Olena spoke with the cardiologist."
+			"sentenceGloss": "Olena spoke with the cardiologist.",
+			"note": "Instrumental: з takes the instrumental."
 		},
 		"dermatologist-gen": {
-			"sentenceGloss": "Taras made an appointment with a dermatologist."
+			"sentenceGloss": "Taras made an appointment with a dermatologist.",
+			"note": "Genitive: до takes the genitive."
 		},
 		"ointment-gen": {
-			"sentenceGloss": "The name of the ointment is written on the package."
+			"sentenceGloss": "The name of the ointment is written on the package.",
+			"note": "Genitive: назву мазі — the name of the ointment."
 		},
 		"weakness-inst": {
-			"sentenceGloss": "The patient describes their condition as “with considerable weakness”."
+			"sentenceGloss": "The patient describes their condition as “with considerable weakness”.",
+			"note": "Instrumental: зі takes the instrumental — with considerable weakness."
 		},
 		"medicine-gen": {
-			"sentenceGloss": "These medicines are not on the list."
+			"sentenceGloss": "These medicines are not on the list.",
+			"note": "Genitive plural: цих ліків — of these medicines."
 		}
 	}
 }

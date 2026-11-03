@@ -3,28 +3,36 @@
 	"summary": "Adjectives follow the noun’s gender, number and case. Here “degree 3” means the superlative.",
 	"cells": {
 		"fem": {
-			"sentenceGloss": "My sister is reliable."
+			"sentenceGloss": "My sister is reliable.",
+			"note": "Adjective in the nominative, feminine singular."
 		},
 		"neuter": {
-			"sentenceGloss": "This is a kind heart."
+			"sentenceGloss": "This is a kind heart.",
+			"note": "Adjective in the nominative, neuter singular."
 		},
 		"plural": {
-			"sentenceGloss": "Our female neighbours are creative."
+			"sentenceGloss": "Our female neighbours are creative.",
+			"note": "Adjective in the nominative, plural."
 		},
 		"instrumental": {
-			"sentenceGloss": "Olena became a generous person."
+			"sentenceGloss": "Olena became a generous person.",
+			"note": "Adjective in the instrumental, feminine singular."
 		},
 		"genitive": {
-			"sentenceGloss": "This is advice from a decisive friend."
+			"sentenceGloss": "This is advice from a decisive friend.",
+			"note": "Adjective in the genitive, masculine singular."
 		},
 		"accusative": {
-			"sentenceGloss": "We met a cheerful girl."
+			"sentenceGloss": "We met a cheerful girl.",
+			"note": "Adjective in the accusative, feminine singular."
 		},
 		"superf": {
-			"sentenceGloss": "She is the best female friend."
+			"sentenceGloss": "She is the best female friend.",
+			"note": "Superlative with най-; the adjective still agrees with the noun."
 		},
 		"superm": {
-			"sentenceGloss": "This is the tallest building in the street."
+			"sentenceGloss": "This is the tallest building in the street.",
+			"note": "Superlative with най-; the adjective still agrees with the noun."
 		}
 	}
 }
