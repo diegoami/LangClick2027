@@ -123,7 +123,10 @@ The rest of the rules, each with the board that states it:
 - **A final consonant keeps its voice**: віз ends in [z], ваз differs from вас
   (`final-voiced`).
 - **Soft sign and glide vowels soften what precedes them**: дім, ліс, хліб,
-  ніж; the sign ʲ marks the softened consonant.
+  ніж; the sign ʲ marks the softened consonant. A hushing consonant before я
+  is marked too: обличчя /ɔˈblɪt͡ʃʲːa/.
+- **щ is one letter, /ʃt͡ʃ/**, and is never split by a syllable break: борщі
+  /bɔrˈʃt͡ʃi/.
 - **дж and дз are single affricates**, /d͡ʒ/ and /d͡z/, written with two
   letters (`one-sound-two-letters`).
 - **A doubled consonant is a long one**: нн is nː.

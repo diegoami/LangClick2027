@@ -117,6 +117,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l09-words/simya",
+			"seen": "{\"item\":\"word:simya\",\"text\":\"сім'я\",\"display\":\"сім'я́\",\"ipa\":\"/sʲiˈmja/\",\"alsoAccepted\":[\"родина\"]}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/l10-occupations/bibliotekar",
 			"seen": "{\"item\":\"word:bibliotekar\",\"text\":\"бібліотекар\",\"display\":\"бібліоте́кар\",\"ipa\":\"/biblʲiɔˈtɛkar/\"}",
 			"verdict": "ok"
@@ -149,12 +154,12 @@
 		{
 			"key": "core/l10-words/pensioner",
 			"seen": "{\"item\":\"word:pensioner\",\"text\":\"пенсіонер\",\"display\":\"пенсіоне́р\",\"ipa\":\"/pɛnsʲiɔˈnɛr/\",\"cognates\":{\"ru\":{\"form\":\"пенсионе́р\"}}}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l10-words/pensionerka",
 			"seen": "{\"item\":\"word:pensionerka\",\"text\":\"пенсіонерка\",\"display\":\"пенсіоне́рка\",\"ipa\":\"/pɛnsʲiɔˈnɛrka/\",\"cognates\":{\"ru\":{\"form\":\"пенсионе́рка\"}}}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/hrudna-klityna",
@@ -214,7 +219,7 @@
 		{
 			"key": "core/l12-words/zasmahlyy",
 			"seen": "{\"item\":\"word:zasmahlyy\",\"text\":\"засмаглий\",\"display\":\"засма́глий\",\"ipa\":\"/zasˈmaɦlɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/38.c0",
@@ -259,7 +264,7 @@
 		{
 			"key": "core/l14-words/nastilna-lampa",
 			"seen": "{\"item\":\"word:nastilna-lampa\",\"text\":\"настільна лампа\",\"display\":\"насті́льна ла́мпа\",\"ipa\":\"/naˈsʲtʲilʲna ˈlampa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l14-words/pysmovyy-stil",
@@ -274,7 +279,7 @@
 		{
 			"key": "core/l15-words/chasnyk",
 			"seen": "{\"item\":\"word:chasnyk\",\"text\":\"часник\",\"display\":\"часни́к\",\"ipa\":\"/t͡ʃasˈnɪk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l15-words/kvasolya",
@@ -389,6 +394,11 @@
 		{
 			"key": "core/l21-words/zasmuchenyy",
 			"seen": "{\"item\":\"word:zasmuchenyy\",\"text\":\"засмучений\",\"display\":\"засму́чений\",\"ipa\":\"/zasˈmut͡ʃɛnɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l22-leisure-verbs/prysvyachuvaty",
+			"seen": "{\"item\":\"word:prysvyachuvaty\",\"text\":\"присвячувати\",\"display\":\"присвя́чувати\",\"ipa\":\"/prɪsˈʋʲat͡ʃuʋatɪ/\"}",
 			"verdict": "pending"
 		},
 		{
@@ -432,6 +442,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l24-medicines-words/mikstura",
+			"seen": "{\"item\":\"word:mikstura\",\"text\":\"мікстура\",\"display\":\"міксту́ра\",\"ipa\":\"/mikˈstura/\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/l24-words/anhina",
 			"seen": "{\"item\":\"word:anhina\",\"text\":\"ангіна\",\"display\":\"ангі́на\",\"ipa\":\"/anˈɦina/\",\"alsoAccepted\":[\"тонзиліт\"]}",
 			"verdict": "ok"
@@ -455,6 +470,11 @@
 			"key": "core/l24-words/sonlyvist",
 			"seen": "{\"item\":\"word:sonlyvist\",\"text\":\"сонливість\",\"display\":\"сонли́вість\",\"ipa\":\"/sɔnˈlɪʋisʲtʲ/\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/l24-words/symptom",
+			"seen": "{\"item\":\"word:symptom\",\"text\":\"симптом\",\"display\":\"симпто́м\",\"ipa\":\"/sɪmpˈtɔm/\",\"alsoAccepted\":[\"ознака\"]}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/l24-words/zastuda",
@@ -498,28 +518,28 @@
 		},
 		{
 			"key": "core/l25-words/rizdvo",
-			"seen": "{\"item\":\"word:rizdvo\",\"text\":\"Різдво\",\"display\":\"Різдво́\",\"ipa\":\"/rʲiˈzdʋɔ/\"}",
+			"seen": "{\"item\":\"word:rizdvo\",\"text\":\"Різдво\",\"display\":\"Різдво́\",\"ipa\":\"/rʲizdˈʋɔ/\"}",
 			"verdict": "pending"
 		},
 		{
 			"key": "core/l25-words/svyatkuvaty",
 			"seen": "{\"item\":\"word:svyatkuvaty\",\"text\":\"святкувати\",\"display\":\"святкува́ти\",\"ipa\":\"/sʋʲatkuˈʋatɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/svyato",
 			"seen": "{\"item\":\"word:svyato\",\"text\":\"свято\",\"display\":\"свя́то\",\"ipa\":\"/ˈsʋʲatɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/svyatvechir",
 			"seen": "{\"item\":\"word:svyatvechir\",\"text\":\"Святвечір\",\"display\":\"Святве́чір\",\"ipa\":\"/sʋʲatˈʋɛt͡ʃir/\",\"alsoAccepted\":[\"Святий вечір\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/triytsya",
 			"seen": "{\"item\":\"word:triytsya\",\"text\":\"Трійця\",\"display\":\"Трі́йця\",\"ipa\":\"/ˈtrʲijt͡sʲa/\",\"alsoAccepted\":[\"Зелені свята\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/vitaty",
@@ -534,7 +554,7 @@
 		{
 			"key": "core/l26-trees-words/brusnytsya",
 			"seen": "{\"item\":\"word:brusnytsya\",\"text\":\"брусниця\",\"display\":\"брусни́ця\",\"ipa\":\"/brusˈnɪt͡sʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/fistashka",
@@ -544,7 +564,7 @@
 		{
 			"key": "core/l26-trees-words/sosna",
 			"seen": "{\"item\":\"word:sosna\",\"text\":\"сосна\",\"display\":\"сосна́\",\"ipa\":\"/sɔsˈna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/dovkillya",
