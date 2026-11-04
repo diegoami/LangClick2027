@@ -32,7 +32,7 @@
 			"row": "kilos",
 			"col": "c0",
 			"display": "кілогра́м",
-			"ipa": "/kilɔɦˈram/"
+			"ipa": "/kilɔˈɦram/"
 		},
 		{
 			"id": "kilos.c1",
@@ -41,7 +41,7 @@
 			"row": "kilos",
 			"col": "c1",
 			"display": "кілогра́мів",
-			"ipa": "/kilɔɦˈramiʋ/"
+			"ipa": "/kilɔˈɦramiʋ/"
 		},
 		{
 			"id": "mandarins.c0",

@@ -39,21 +39,21 @@
 			"item": "holiday-date:uk:constitution",
 			"text": "двадцять восьме червня",
 			"display": "два́дцять во́сьме че́рвня",
-			"ipa": "/ˈdʋadt͡sʲatʲ ˈʋɔsʲmɛ ˈt͡ʃɛrʋnʲa/"
+			"ipa": "/ˈdʋadʲt͡sʲatʲ ˈʋɔsʲmɛ ˈt͡ʃɛrʋnʲa/"
 		},
 		{
 			"id": "statehood",
 			"item": "holiday-date:uk:statehood",
 			"text": "п'ятнадцяте липня",
 			"display": "п'ятна́дцяте ли́пня",
-			"ipa": "/pjatˈnadt͡sʲatɛ ˈlɪpnʲa/"
+			"ipa": "/pjatˈnadʲt͡sʲatɛ ˈlɪpnʲa/"
 		},
 		{
 			"id": "independence",
 			"item": "holiday-date:uk:independence",
 			"text": "двадцять четверте серпня",
 			"display": "два́дцять четве́рте се́рпня",
-			"ipa": "/ˈdʋadt͡sʲatʲ t͡ʃɛtˈʋɛrtɛ ˈsɛrpnʲa/"
+			"ipa": "/ˈdʋadʲt͡sʲatʲ t͡ʃɛtˈʋɛrtɛ ˈsɛrpnʲa/"
 		},
 		{
 			"id": "defenders",
@@ -67,7 +67,7 @@
 			"item": "holiday-date:uk:christmas",
 			"text": "двадцять п'яте грудня",
 			"display": "два́дцять п'я́те гру́дня",
-			"ipa": "/ˈdʋadt͡sʲatʲ ˈpjatɛ ˈɦrudʲnʲa/"
+			"ipa": "/ˈdʋadʲt͡sʲatʲ ˈpjatɛ ˈɦrudʲnʲa/"
 		}
 	],
 	"sources": [

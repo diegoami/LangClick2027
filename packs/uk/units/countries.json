@@ -93,7 +93,7 @@
 			"item": "country:spain:from",
 			"text": "Іспанії",
 			"display": "Іспа́нії",
-			"ipa": "/isˈpanʲiji/",
+			"ipa": "/iˈspanʲiji/",
 			"concepts": ["from-in"],
 			"row": "spain",
 			"col": "from"
@@ -103,7 +103,7 @@
 			"item": "country:spain:in",
 			"text": "Іспанії",
 			"display": "Іспа́нії",
-			"ipa": "/isˈpanʲiji/",
+			"ipa": "/iˈspanʲiji/",
 			"concepts": ["from-in"],
 			"row": "spain",
 			"col": "in"

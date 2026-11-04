@@ -64,7 +64,7 @@
 			"item": "form:l21-comparison:hlybokyy:highest",
 			"text": "найглибший",
 			"display": "найгли́бший",
-			"ipa": "/najɦˈlɪbʃɪj/",
+			"ipa": "/najˈɦlɪbʃɪj/",
 			"row": "hlybokyy",
 			"col": "highest"
 		},
@@ -73,7 +73,7 @@
 			"item": "form:l21-comparison:blyzkyy:highest",
 			"text": "найближчий",
 			"display": "найбли́жчий",
-			"ipa": "/najbˈlɪʒt͡ʃɪj/",
+			"ipa": "/najˈblɪʒt͡ʃɪj/",
 			"row": "blyzkyy",
 			"col": "highest"
 		},
@@ -118,7 +118,7 @@
 			"item": "form:l21-comparison:khoroshyy:highest",
 			"text": "найкращий",
 			"display": "найкра́щий",
-			"ipa": "/najkˈraʃt͡ʃɪj/",
+			"ipa": "/najˈkraʃt͡ʃɪj/",
 			"row": "khoroshyy",
 			"col": "highest",
 			"alsoAccepted": ["найліпший"]

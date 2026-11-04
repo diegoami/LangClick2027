@@ -60,7 +60,7 @@
 			"item": "word:tovstyy",
 			"text": "товстий",
 			"display": "товсти́й",
-			"ipa": "/tɔʋsˈtɪj/"
+			"ipa": "/tɔʋˈstɪj/"
 		},
 		{
 			"id": "povnyy",
@@ -81,7 +81,7 @@
 			"item": "word:nyzkyy",
 			"text": "низький",
 			"display": "низьки́й",
-			"ipa": "/nɪzʲˈkɪj/"
+			"ipa": "/nɪˈzʲkɪj/"
 		},
 		{
 			"id": "nevysokyy",
@@ -137,7 +137,7 @@
 			"item": "word:smahlyavyy",
 			"text": "смаглявий",
 			"display": "смагля́вий",
-			"ipa": "/smaɦˈlʲaʋɪj/"
+			"ipa": "/smaˈɦlʲaʋɪj/"
 		},
 		{
 			"id": "zasmahlyy",
@@ -272,7 +272,7 @@
 			"item": "word:kashtanovyy",
 			"text": "каштановий",
 			"display": "кашта́новий",
-			"ipa": "/kaʃˈtanɔʋɪj/"
+			"ipa": "/kaˈʃtanɔʋɪj/"
 		},
 		{
 			"id": "rudyy",
@@ -314,7 +314,7 @@
 			"item": "word:hustyy",
 			"text": "густий",
 			"display": "густи́й",
-			"ipa": "/ɦusˈtɪj/"
+			"ipa": "/ɦuˈstɪj/"
 		},
 		{
 			"id": "pukhkyy",

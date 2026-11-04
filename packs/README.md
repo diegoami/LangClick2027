@@ -127,12 +127,16 @@ The rest of the rules, each with the board that states it:
 - **A doubled consonant is a long one**: нн is nː.
 - **К before a voiced obstruent** (б, г, ґ, д, ж, з) is /ɡ/: вокзал /ʋɔɡˈzal/,
   Великдень. В is a sonorant and voices nothing: квартира /kʋarˈtɪra/.
-- **дц is /dt͡sʲ/**, as spelled: двадцять /ˈdʋadt͡sʲatʲ/.
+- **A dental before a soft dental is soft**: будні /ˈbudʲnʲi/, тесть /tɛsʲtʲ/,
+  and дц is /dʲt͡sʲ/: двадцять /ˈdʋadʲt͡sʲatʲ/. Pronunciation guides write the
+  cluster [d͡zʲt͡sʲ]; the transcription stays phonemic.
 - **ˈ goes before the stressed syllable**, and the stress is the one the
-  `display` marks. Between vowels, an obstruent plus р or л, and с, з or ш
-  before a stop, begin the syllable: сестра /sɛˈstra/, роблю /rɔˈblʲu/; a
-  consonant before an apostrophe's j does too: ім'я /iˈmja/. Any other cluster
-  splits before its last consonant: дочка /dɔt͡ʃˈka/, вікно /ʋikˈnɔ/.
+  `display` marks. An obstruent plus р or л, and с, з or ш before a stop,
+  begin the syllable: сестра /sɛˈstra/, роблю /rɔˈblʲu/, кілограм
+  /kilɔˈɦram/; a consonant before an apostrophe's j does too: ім'я /iˈmja/.
+  Any other cluster splits before its last consonant: дочка /dɔt͡ʃˈka/, вікно
+  /ʋikˈnɔ/, підсніжник /pidsʲˈnʲiʒnɪk/. A prefix ending in a consonant (під-,
+  від-, роз-) keeps it: відвідувати /ʋidˈʋiduʋatɪ/, розлючений.
 
 ## Coverage
 
