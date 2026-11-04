@@ -112,30 +112,34 @@ describe.each(packIds)('pack %s', (packId) => {
 		}
 	);
 
-	it('tracks every eMova lesson, and each maps to units that exist', () => {
-		const file = path.join(packDir, 'coverage', 'emova-27.json');
-		if (!existsSync(file)) return;
-		const { lessons } = readJson<{ lessons: { number: number; title: string; units: string[] }[] }>(
-			file
-		);
-		expect(lessons.map((lesson) => lesson.number)).toEqual(
-			Array.from({ length: 27 }, (_, i) => i + 1)
-		);
-		const known = new Set(units.map((unit) => unit.id));
-		for (const lesson of lessons) {
-			expect(lesson.units.filter((id) => !known.has(id))).toEqual([]);
-		}
-		for (const mapped of lessons) {
-			expect(mapped.units.length, `lesson ${mapped.number} has practice`).toBeGreaterThan(0);
-			const lesson = manifest.lessons.find(
-				(entry) => entry.id === `l${String(mapped.number).padStart(2, '0')}`
+	// Only a pack that follows eMova keeps this ledger.
+	const coverageFile = path.join(packDir, 'coverage', 'emova-27.json');
+	it.skipIf(!existsSync(coverageFile))(
+		'tracks every eMova lesson, and each maps to units that exist',
+		() => {
+			const file = coverageFile;
+			const { lessons } = readJson<{
+				lessons: { number: number; title: string; units: string[] }[];
+			}>(file);
+			expect(lessons.map((lesson) => lesson.number)).toEqual(
+				Array.from({ length: 27 }, (_, i) => i + 1)
 			);
-			expect(lesson, `lesson ${mapped.number} is offered`).toBeDefined();
-			for (const id of lesson!.units) {
-				expect(mapped.units, `lesson ${mapped.number}: ${id}`).toContain(id);
+			const known = new Set(units.map((unit) => unit.id));
+			for (const lesson of lessons) {
+				expect(lesson.units.filter((id) => !known.has(id))).toEqual([]);
+			}
+			for (const mapped of lessons) {
+				expect(mapped.units.length, `lesson ${mapped.number} has practice`).toBeGreaterThan(0);
+				const lesson = manifest.lessons.find(
+					(entry) => entry.id === `l${String(mapped.number).padStart(2, '0')}`
+				);
+				expect(lesson, `lesson ${mapped.number} is offered`).toBeDefined();
+				for (const id of lesson!.units) {
+					expect(mapped.units, `lesson ${mapped.number}: ${id}`).toContain(id);
+				}
 			}
 		}
-	});
+	);
 
 	// Every combination the learner can pick must give every cell something to ask.
 	const combinations = [

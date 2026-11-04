@@ -206,3 +206,14 @@ service that may be absent. The owner picks the tool and the model for the
 review and starts it in a fresh session. What the review must do is unchanged:
 work in its own worktree, verify against the code rather than the description,
 reproduce every finding, open one issue per finding, and post one verdict.
+
+## Swedish follows Hej svenska, explained in English (2026-11-04, #43)
+
+The Swedish pack follows the ten themes of Hej svenska level 1. Its lessons link
+the themes and copy nothing, because the site states no reuse licence. Swedish is
+explained in English, and it is compared with English and German, its closest
+Germanic relatives. Engstrand (1990) is the pronunciation reference. The
+transcription marks both vowel and consonant length, and the word accent sits on
+the stressed vowel as ̌ or ̂, so an accent pair such as anden reads differently in
+IPA. Lexin (CC BY 4.0) is used to check glosses, not imported in bulk. Swedish
+merges after the v0.5.0 Ukrainian release.

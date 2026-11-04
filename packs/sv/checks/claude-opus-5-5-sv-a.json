@@ -89,7 +89,7 @@
 		{
 			"key": "core/alphabet/r",
 			"seen": "{\"item\":\"letter:r\",\"text\":\"R r\",\"clue\":\"/ærː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/alphabet/s",
@@ -289,7 +289,7 @@
 		{
 			"key": "de-en/vowel-chart/y",
 			"seen": "{\"contrast\":\"The same symbol as German ü in \\\"Tür\\\", but said with the lips pushed forward; to German ears it sounds nearer i. Swedish u is the vowel closer to German ü.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/vowel-chart/oe",
@@ -304,7 +304,7 @@
 		{
 			"key": "de-en/vowel-chart/u",
 			"seen": "{\"contrast\":\"Not German u: it sounds close to German ü in \\\"üben\\\", with the lips pressed together. Swedish y is the one with the lips pushed forward.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/vowel-chart/o",
@@ -349,7 +349,7 @@
 		{
 			"key": "en/concept/word-accent",
 			"seen": "{\"title\":\"Two word accents\",\"body\":\"A word stressed on a syllable that another follows has one of two pitch patterns. Accent 1 is marked here with ̌ on the stressed vowel and accent 2 with ̂: anden /ˈǎndɛn/ \\\"the duck\\\", anden /ˈândɛn/ \\\"the spirit\\\". Most words of two syllables, and every compound, take accent 2. A word of one syllable has no contrast and no mark.\",\"sources\":[{\"title\":\"Engstrand (1990), Swedish, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100300004060\"},{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/alphabet",
@@ -459,7 +459,7 @@
 		{
 			"key": "en/vowel-chart/u",
 			"seen": "{\"note\":\"A close vowel made far forward, with the lips pressed together rather than pushed out; Engstrand (1990) places it near the front. Short u is /ɵ/: full.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/vowel-chart/ae",
@@ -494,7 +494,7 @@
 		{
 			"key": "en-en/vowel-chart/u",
 			"seen": "{\"contrast\":\"Not the vowel of \\\"rule\\\": the tongue is much further forward, and the lips are pressed together, not pushed out.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/vowel-chart/o",

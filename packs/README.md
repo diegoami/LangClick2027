@@ -155,8 +155,8 @@ The rules above are the Ukrainian pack's. `sv` transcribes Central Standard Swed
 between slashes, following Engstrand (1990), the published IPA illustration, with the
 symbols of Wikipedia's Help:IPA/Swedish:
 
-- **Every stressed syllable is long**, and both kinds of length carry ː: a long vowel
-  (tak /tɑːk/), or a short vowel followed by a long consonant (tack /takː/). Length
+- **Every stressed syllable is long**: a long vowel (tak /tɑːk/), or a short vowel
+  followed by a single long consonant (tack /takː/), and ː marks either. Length
   changes the vowel's quality too: long a /ɑː/ and short a /a/, long u /ʉː/ and short u
   /ɵ/ (ful, full). Before a cluster a short vowel's syllable needs no mark: x
   /ɛks/, anden /ˈǎndɛn/ (Help:IPA writes [nː] there). The `vowel-chart` board
