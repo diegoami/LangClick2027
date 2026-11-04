@@ -1,0 +1,88 @@
+{
+	"id": "furniture",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "sang",
+			"item": "word:säng",
+			"text": "säng",
+			"ipa": "/sɛŋː/"
+		},
+		{
+			"id": "bord",
+			"item": "word:bord",
+			"text": "bord",
+			"ipa": "/buːɖ/",
+			"concepts": ["retroflex"]
+		},
+		{
+			"id": "stol",
+			"item": "word:stol",
+			"text": "stol",
+			"ipa": "/stuːl/"
+		},
+		{
+			"id": "soffa",
+			"item": "word:soffa",
+			"text": "soffa",
+			"ipa": "/ˈsɔ̂fːa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "lampa",
+			"item": "word:lampa",
+			"text": "lampa",
+			"ipa": "/ˈlâmpa/"
+		},
+		{
+			"id": "matta",
+			"item": "word:matta",
+			"text": "matta",
+			"ipa": "/ˈmâtːa/"
+		},
+		{
+			"id": "hylla",
+			"item": "word:hylla",
+			"text": "hylla",
+			"ipa": "/ˈhʏ̂lːa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "spis",
+			"item": "word:spis",
+			"text": "spis",
+			"ipa": "/spiːs/"
+		},
+		{
+			"id": "kylskap",
+			"item": "word:kylskåp",
+			"text": "kylskåp",
+			"ipa": "/ˈɕŷːlˌskoːp/"
+		},
+		{
+			"id": "garderob",
+			"item": "word:garderob",
+			"text": "garderob",
+			"ipa": "/ɡaɖɛˈroːb/",
+			"concepts": ["retroflex"]
+		}
+	]
+}

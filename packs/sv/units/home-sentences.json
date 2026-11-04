@@ -1,0 +1,73 @@
+{
+	"id": "home-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "koket",
+			"item": "sentence:home-sentences:koket",
+			"text": "köket",
+			"sentence": "Vi lagar mat i ___.",
+			"concepts": ["definite"]
+		},
+		{
+			"id": "sovrummet",
+			"item": "sentence:home-sentences:sovrummet",
+			"text": "sovrummet",
+			"sentence": "Barnen sover i ___.",
+			"concepts": ["definite"]
+		},
+		{
+			"id": "badrummet",
+			"item": "sentence:home-sentences:badrummet",
+			"text": "badrummet",
+			"sentence": "Jag duschar i ___.",
+			"concepts": ["definite"]
+		},
+		{
+			"id": "vardagsrummet",
+			"item": "sentence:home-sentences:vardagsrummet",
+			"text": "vardagsrummet",
+			"sentence": "Vi tittar på tv i ___.",
+			"concepts": ["definite"]
+		},
+		{
+			"id": "tvattstugan",
+			"item": "sentence:home-sentences:tvattstugan",
+			"text": "tvättstugan",
+			"sentence": "Vi tvättar kläder i ___ i källaren.",
+			"concepts": ["definite"]
+		},
+		{
+			"id": "trappan",
+			"item": "sentence:home-sentences:trappan",
+			"text": "trappan",
+			"sentence": "Hissen är trasig, så vi tar ___.",
+			"concepts": ["definite"]
+		},
+		{
+			"id": "vaningen",
+			"item": "sentence:home-sentences:vaningen",
+			"text": "våningen",
+			"sentence": "Jag bor på fjärde ___.",
+			"concepts": ["definite"]
+		}
+	]
+}

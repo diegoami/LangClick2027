@@ -1,0 +1,36 @@
+{
+	"title": "Furniture",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"sang": {
+			"clue": "bed"
+		},
+		"bord": {
+			"clue": "table"
+		},
+		"stol": {
+			"clue": "chair"
+		},
+		"soffa": {
+			"clue": "sofa"
+		},
+		"lampa": {
+			"clue": "lamp"
+		},
+		"matta": {
+			"clue": "rug, carpet"
+		},
+		"hylla": {
+			"clue": "shelf"
+		},
+		"spis": {
+			"clue": "cooker, stove"
+		},
+		"kylskap": {
+			"clue": "fridge"
+		},
+		"garderob": {
+			"clue": "wardrobe"
+		}
+	}
+}

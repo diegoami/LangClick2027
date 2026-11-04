@@ -147,6 +147,211 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/en-ett/lagenhet.indef",
+			"seen": "{\"item\":\"form:en lägenhet\",\"text\":\"en lägenhet\",\"ipa\":\"/ɛn ˈlɛ̂ːɡɛnˌheːt/\",\"concepts\":[\"en-ett\",\"word-accent\"],\"row\":\"lagenhet\",\"col\":\"indef\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/lagenhet.def",
+			"seen": "{\"item\":\"form:lägenheten\",\"text\":\"lägenheten\",\"ipa\":\"/ˈlɛ̂ːɡɛnˌheːtɛn/\",\"concepts\":[\"definite\",\"word-accent\"],\"row\":\"lagenhet\",\"col\":\"def\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/kok.indef",
+			"seen": "{\"item\":\"form:ett kök\",\"text\":\"ett kök\",\"ipa\":\"/ɛt ɕøːk/\",\"concepts\":[\"en-ett\"],\"row\":\"kok\",\"col\":\"indef\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/kok.def",
+			"seen": "{\"item\":\"form:köket\",\"text\":\"köket\",\"ipa\":\"/ˈɕø̌ːkɛt/\",\"concepts\":[\"definite\",\"word-accent\"],\"row\":\"kok\",\"col\":\"def\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/balkong.indef",
+			"seen": "{\"item\":\"form:en balkong\",\"text\":\"en balkong\",\"ipa\":\"/ɛn balˈkɔŋː/\",\"concepts\":[\"en-ett\"],\"row\":\"balkong\",\"col\":\"indef\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/balkong.def",
+			"seen": "{\"item\":\"form:balkongen\",\"text\":\"balkongen\",\"ipa\":\"/balˈkɔ̌ŋːɛn/\",\"concepts\":[\"definite\",\"word-accent\"],\"row\":\"balkong\",\"col\":\"def\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/rum.indef",
+			"seen": "{\"item\":\"form:ett rum\",\"text\":\"ett rum\",\"ipa\":\"/ɛt rɵmː/\",\"concepts\":[\"en-ett\"],\"row\":\"rum\",\"col\":\"indef\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/rum.def",
+			"seen": "{\"item\":\"form:rummet\",\"text\":\"rummet\",\"ipa\":\"/ˈrɵ̌mːɛt/\",\"concepts\":[\"definite\",\"word-accent\"],\"row\":\"rum\",\"col\":\"def\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/hiss.indef",
+			"seen": "{\"item\":\"form:en hiss\",\"text\":\"en hiss\",\"ipa\":\"/ɛn hɪsː/\",\"concepts\":[\"en-ett\"],\"row\":\"hiss\",\"col\":\"indef\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/hiss.def",
+			"seen": "{\"item\":\"form:hissen\",\"text\":\"hissen\",\"ipa\":\"/ˈhɪ̌sːɛn/\",\"concepts\":[\"definite\",\"word-accent\"],\"row\":\"hiss\",\"col\":\"def\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/hus.indef",
+			"seen": "{\"item\":\"form:ett hus\",\"text\":\"ett hus\",\"ipa\":\"/ɛt hʉːs/\",\"concepts\":[\"en-ett\"],\"row\":\"hus\",\"col\":\"indef\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/en-ett/hus.def",
+			"seen": "{\"item\":\"form:huset\",\"text\":\"huset\",\"ipa\":\"/ˈhʉ̌ːsɛt/\",\"concepts\":[\"definite\",\"word-accent\"],\"row\":\"hus\",\"col\":\"def\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/furniture/sang",
+			"seen": "{\"item\":\"word:säng\",\"text\":\"säng\",\"ipa\":\"/sɛŋː/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/furniture/bord",
+			"seen": "{\"item\":\"word:bord\",\"text\":\"bord\",\"ipa\":\"/buːɖ/\",\"concepts\":[\"retroflex\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/furniture/stol",
+			"seen": "{\"item\":\"word:stol\",\"text\":\"stol\",\"ipa\":\"/stuːl/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/furniture/soffa",
+			"seen": "{\"item\":\"word:soffa\",\"text\":\"soffa\",\"ipa\":\"/ˈsɔ̂fːa/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/furniture/lampa",
+			"seen": "{\"item\":\"word:lampa\",\"text\":\"lampa\",\"ipa\":\"/ˈlâmpa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/furniture/matta",
+			"seen": "{\"item\":\"word:matta\",\"text\":\"matta\",\"ipa\":\"/ˈmâtːa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/furniture/hylla",
+			"seen": "{\"item\":\"word:hylla\",\"text\":\"hylla\",\"ipa\":\"/ˈhʏ̂lːa/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/furniture/spis",
+			"seen": "{\"item\":\"word:spis\",\"text\":\"spis\",\"ipa\":\"/spiːs/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/furniture/kylskap",
+			"seen": "{\"item\":\"word:kylskåp\",\"text\":\"kylskåp\",\"ipa\":\"/ˈɕŷːlˌskoːp/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/furniture/garderob",
+			"seen": "{\"item\":\"word:garderob\",\"text\":\"garderob\",\"ipa\":\"/ɡaɖɛˈroːb/\",\"concepts\":[\"retroflex\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home-sentences/koket",
+			"seen": "{\"item\":\"sentence:home-sentences:koket\",\"text\":\"köket\",\"sentence\":\"Vi lagar mat i ___.\",\"concepts\":[\"definite\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home-sentences/sovrummet",
+			"seen": "{\"item\":\"sentence:home-sentences:sovrummet\",\"text\":\"sovrummet\",\"sentence\":\"Barnen sover i ___.\",\"concepts\":[\"definite\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home-sentences/badrummet",
+			"seen": "{\"item\":\"sentence:home-sentences:badrummet\",\"text\":\"badrummet\",\"sentence\":\"Jag duschar i ___.\",\"concepts\":[\"definite\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home-sentences/vardagsrummet",
+			"seen": "{\"item\":\"sentence:home-sentences:vardagsrummet\",\"text\":\"vardagsrummet\",\"sentence\":\"Vi tittar på tv i ___.\",\"concepts\":[\"definite\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home-sentences/tvattstugan",
+			"seen": "{\"item\":\"sentence:home-sentences:tvattstugan\",\"text\":\"tvättstugan\",\"sentence\":\"Vi tvättar kläder i ___ i källaren.\",\"concepts\":[\"definite\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home-sentences/trappan",
+			"seen": "{\"item\":\"sentence:home-sentences:trappan\",\"text\":\"trappan\",\"sentence\":\"Hissen är trasig, så vi tar ___.\",\"concepts\":[\"definite\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home-sentences/vaningen",
+			"seen": "{\"item\":\"sentence:home-sentences:vaningen\",\"text\":\"våningen\",\"sentence\":\"Jag bor på fjärde ___.\",\"concepts\":[\"definite\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/villa",
+			"seen": "{\"item\":\"word:villa\",\"text\":\"villa\",\"ipa\":\"/ˈvɪ̂lːa/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/radhus",
+			"seen": "{\"item\":\"word:radhus\",\"text\":\"radhus\",\"ipa\":\"/ˈrɑ̂ːdˌhʉːs/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/lagenhet",
+			"seen": "{\"item\":\"word:lägenhet\",\"text\":\"lägenhet\",\"ipa\":\"/ˈlɛ̂ːɡɛnˌheːt/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/hiss",
+			"seen": "{\"item\":\"word:hiss\",\"text\":\"hiss\",\"ipa\":\"/hɪsː/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/balkong",
+			"seen": "{\"item\":\"word:balkong\",\"text\":\"balkong\",\"ipa\":\"/balˈkɔŋː/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/tvattstuga",
+			"seen": "{\"item\":\"word:tvättstuga\",\"text\":\"tvättstuga\",\"ipa\":\"/ˈtvɛ̂tˌstʉːɡa/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/vaning",
+			"seen": "{\"item\":\"word:våning\",\"text\":\"våning\",\"ipa\":\"/ˈvôːnɪŋ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/kok",
+			"seen": "{\"item\":\"word:kök\",\"text\":\"kök\",\"ipa\":\"/ɕøːk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/vardagsrum",
+			"seen": "{\"item\":\"word:vardagsrum\",\"text\":\"vardagsrum\",\"ipa\":\"/ˈvɑ̂ːɖaɡsˌrɵmː/\",\"concepts\":[\"word-accent\",\"retroflex\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/sovrum",
+			"seen": "{\"item\":\"word:sovrum\",\"text\":\"sovrum\",\"ipa\":\"/ˈsôːvˌrɵmː/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/badrum",
+			"seen": "{\"item\":\"word:badrum\",\"text\":\"badrum\",\"ipa\":\"/ˈbɑ̂ːdˌrɵmː/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/home/hall",
+			"seen": "{\"item\":\"word:hall\",\"text\":\"hall\",\"ipa\":\"/halː/\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/introductions/heter",
 			"seen": "{\"item\":\"sentence:introductions:heter\",\"text\":\"heter\",\"sentence\":\"Vad ___ du?\"}",
 			"verdict": "ok"
@@ -557,6 +762,26 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "de-en/en-ett/hus.def",
+			"seen": "{\"contrast\":\"German has three genders and puts the article first: das Haus. Swedish has two, and adds the article as an ending: huset.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "de-en/furniture/stol",
+			"seen": "{\"contrast\":\"The same word as German Stuhl.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "de-en/furniture/lampa",
+			"seen": "{\"contrast\":\"The same word as German Lampe.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "de-en/home/kok",
+			"seen": "{\"contrast\":\"Related to German Küche; both come from Latin coquina.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "de-en/long-short/tak",
 			"seen": "{\"contrast\":\"Length works as in German Staat and Stadt. Swedish also lengthens the consonant after a short vowel.\"}",
 			"verdict": "ok"
@@ -687,6 +912,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/section/themes",
+			"seen": "\"Themes\"",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/lesson/l01",
 			"seen": "\"Lesson 1: Letters and sounds\"",
 			"verdict": "ok"
@@ -699,6 +929,11 @@
 		{
 			"key": "en/lesson/l03",
 			"seen": "\"Lesson 3: Greetings, introductions and the weather\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l04",
+			"seen": "\"Lesson 4: Housing\"",
 			"verdict": "ok"
 		},
 		{
@@ -747,8 +982,183 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/concept/en-ett",
+			"seen": "{\"title\":\"en-words and ett-words\",\"body\":\"Every noun is an en-word or an ett-word, and the article says which: en lägenhet, ett hus. About three nouns in four are en-words. For most nouns there is no rule, so learn each one with its article; some endings decide it: nouns in -het and -ing are en-words (en lägenhet, en våning), and nouns in -um are ett-words (ett museum). A compound takes the gender of its last part: ett rum, so ett sovrum.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/definite",
+			"seen": "{\"title\":\"\\\"The\\\" is an ending\",\"body\":\"Swedish says \\\"the\\\" at the end of the noun. An en-word adds -en, or -n after a vowel: lägenheten, trappan. An ett-word adds -et, or -t after a vowel: huset, köket. A short vowel keeps its long consonant, and spelling doubles it: rum, rummet. After i or på the definite form is usual where English says \\\"the\\\": i köket, in the kitchen.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/alphabet",
 			"seen": "{\"title\":\"The alphabet\",\"summary\":\"All 29 letters, in order. Each tile gives the name of the letter in IPA; find the letter.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/en-ett",
+			"seen": "{\"title\":\"en and ett, and \\\"the\\\"\",\"summary\":\"Each noun with its article, and its definite form. Find the form for each cell.\",\"headers\":{\"lagenhet\":\"flat\",\"kok\":\"kitchen\",\"balkong\":\"balcony\",\"rum\":\"room\",\"hiss\":\"lift\",\"hus\":\"house\",\"indef\":\"a, an\",\"def\":\"the\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture",
+			"seen": "{\"title\":\"Furniture\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture/sang",
+			"seen": "{\"clue\":\"bed\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture/bord",
+			"seen": "{\"clue\":\"table\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture/stol",
+			"seen": "{\"clue\":\"chair\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture/soffa",
+			"seen": "{\"clue\":\"sofa\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture/lampa",
+			"seen": "{\"clue\":\"lamp\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture/matta",
+			"seen": "{\"clue\":\"rug, carpet\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture/hylla",
+			"seen": "{\"clue\":\"shelf\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture/spis",
+			"seen": "{\"clue\":\"cooker, stove\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture/kylskap",
+			"seen": "{\"clue\":\"fridge\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/furniture/garderob",
+			"seen": "{\"clue\":\"wardrobe\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home-sentences",
+			"seen": "{\"title\":\"At home\",\"summary\":\"Where things happen at home. Choose or type the definite form that fits the gap.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home-sentences/koket",
+			"seen": "{\"sentenceGloss\":\"We cook in the kitchen.\",\"note\":\"ett kök, köket.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home-sentences/sovrummet",
+			"seen": "{\"sentenceGloss\":\"The children sleep in the bedroom.\",\"note\":\"ett sovrum, sovrummet: m doubles after the short vowel.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home-sentences/badrummet",
+			"seen": "{\"sentenceGloss\":\"I shower in the bathroom.\",\"note\":\"ett badrum, badrummet.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home-sentences/vardagsrummet",
+			"seen": "{\"sentenceGloss\":\"We watch TV in the living room.\",\"note\":\"ett vardagsrum, vardagsrummet.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home-sentences/tvattstugan",
+			"seen": "{\"sentenceGloss\":\"We wash clothes in the laundry room in the basement.\",\"note\":\"en tvättstuga, tvättstugan: -n after a vowel.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home-sentences/trappan",
+			"seen": "{\"sentenceGloss\":\"The lift is broken, so we take the stairs.\",\"note\":\"en trappa, trappan.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home-sentences/vaningen",
+			"seen": "{\"sentenceGloss\":\"I live on the fourth floor.\",\"note\":\"en våning, våningen; på for the floor you live on.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home",
+			"seen": "{\"title\":\"Homes and rooms\",\"summary\":\"Kinds of home, parts of the building, and the rooms. Each tile gives the meaning; find the Swedish.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/villa",
+			"seen": "{\"clue\":\"detached house\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/radhus",
+			"seen": "{\"clue\":\"terraced house\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/lagenhet",
+			"seen": "{\"clue\":\"flat, apartment\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/hiss",
+			"seen": "{\"clue\":\"lift\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/balkong",
+			"seen": "{\"clue\":\"balcony\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/tvattstuga",
+			"seen": "{\"clue\":\"shared laundry room\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/vaning",
+			"seen": "{\"clue\":\"floor, storey\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/kok",
+			"seen": "{\"clue\":\"kitchen\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/vardagsrum",
+			"seen": "{\"clue\":\"living room\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/sovrum",
+			"seen": "{\"clue\":\"bedroom\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/badrum",
+			"seen": "{\"clue\":\"bathroom\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/home/hall",
+			"seen": "{\"clue\":\"hall\"}",
 			"verdict": "ok"
 		},
 		{
@@ -1059,6 +1469,21 @@
 		{
 			"key": "en/weather/blasigt",
 			"seen": "{\"clue\":\"windy\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en-en/en-ett/hus.def",
+			"seen": "{\"contrast\":\"English puts \\\"the\\\" before the noun; Swedish adds it as an ending: huset, the house.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en-en/furniture/bord",
+			"seen": "{\"contrast\":\"Related to English board, once a table top.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en-en/furniture/stol",
+			"seen": "{\"contrast\":\"Related to English stool, but it means any chair.\"}",
 			"verdict": "ok"
 		},
 		{

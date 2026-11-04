@@ -5,6 +5,9 @@
 		},
 		"basics": {
 			"title": "Basics"
+		},
+		"themes": {
+			"title": "Themes"
 		}
 	},
 	"lessons": {
@@ -16,6 +19,9 @@
 		},
 		"l03": {
 			"title": "Lesson 3: Greetings, introductions and the weather"
+		},
+		"l04": {
+			"title": "Lesson 4: Housing"
 		}
 	},
 	"concepts": {
@@ -118,6 +124,34 @@
 		"igt-ending": {
 			"title": "The ending -igt",
 			"body": "The g of -igt is silent: soligt /ˈsûːlɪt/, molnigt, blåsigt. The ending makes the form of an adjective that goes with ett-words, and with det in det är soligt, \"it is sunny\".",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"en-ett": {
+			"title": "en-words and ett-words",
+			"body": "Every noun is an en-word or an ett-word, and the article says which: en lägenhet, ett hus. About three nouns in four are en-words. For most nouns there is no rule, so learn each one with its article; some endings decide it: nouns in -het and -ing are en-words (en lägenhet, en våning), and nouns in -um are ett-words (ett museum). A compound takes the gender of its last part: ett rum, so ett sovrum.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"definite": {
+			"title": "\"The\" is an ending",
+			"body": "Swedish says \"the\" at the end of the noun. An en-word adds -en, or -n after a vowel: lägenheten, trappan. An ett-word adds -et, or -t after a vowel: huset, köket. A short vowel keeps its long consonant, and spelling doubles it: rum, rummet. After i or på the definite form is usual where English says \"the\": i köket, in the kitchen.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",

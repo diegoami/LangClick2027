@@ -1,0 +1,14 @@
+{
+	"title": "en and ett, and \"the\"",
+	"summary": "Each noun with its article, and its definite form. Find the form for each cell.",
+	"headers": {
+		"lagenhet": "flat",
+		"kok": "kitchen",
+		"balkong": "balcony",
+		"rum": "room",
+		"hiss": "lift",
+		"hus": "house",
+		"indef": "a, an",
+		"def": "the"
+	}
+}
