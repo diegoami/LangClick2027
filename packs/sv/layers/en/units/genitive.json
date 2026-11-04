@@ -1,0 +1,33 @@
+{
+	"title": "Whose is it?",
+	"summary": "Relations and the genitive -s. Choose or type the word that fits the gap.",
+	"cells": {
+		"moster": {
+			"sentenceGloss": "My mother's sister is my aunt.",
+			"note": "mor + syster: moster."
+		},
+		"farbror": {
+			"sentenceGloss": "My father's brother is my uncle.",
+			"note": "far + bror: farbror."
+		},
+		"morbror": {
+			"sentenceGloss": "My mother's brother is my uncle.",
+			"note": "mor + bror: morbror."
+		},
+		"faster": {
+			"sentenceGloss": "My father's sister is my aunt.",
+			"note": "far + syster: faster."
+		},
+		"eriks": {
+			"sentenceGloss": "This is Erik's bike.",
+			"note": "The genitive adds -s, with no apostrophe."
+		},
+		"barnbarn": {
+			"sentenceGloss": "My children's children are my grandchildren."
+		},
+		"svarmor": {
+			"sentenceGloss": "My wife's mother is my mother-in-law.",
+			"note": "svär-, in-law."
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"title": "Animals",
+	"summary": "Each tile gives the animal; find the Swedish.",
+	"cells": {
+		"hund": {
+			"clue": "dog"
+		},
+		"katt": {
+			"clue": "cat"
+		},
+		"hast": {
+			"clue": "horse"
+		},
+		"ko": {
+			"clue": "cow"
+		},
+		"fagel": {
+			"clue": "bird"
+		},
+		"gris": {
+			"clue": "pig"
+		},
+		"far": {
+			"clue": "sheep"
+		},
+		"mus": {
+			"clue": "mouse"
+		}
+	}
+}

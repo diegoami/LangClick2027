@@ -1,0 +1,72 @@
+{
+	"id": "animals",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "hund",
+			"item": "word:hund",
+			"text": "hund",
+			"ipa": "/hɵnd/"
+		},
+		{
+			"id": "katt",
+			"item": "word:katt",
+			"text": "katt",
+			"ipa": "/katː/"
+		},
+		{
+			"id": "hast",
+			"item": "word:häst",
+			"text": "häst",
+			"ipa": "/hɛst/"
+		},
+		{
+			"id": "ko",
+			"item": "word:ko",
+			"text": "ko",
+			"ipa": "/kuː/"
+		},
+		{
+			"id": "fagel",
+			"item": "word:fågel",
+			"text": "fågel",
+			"ipa": "/ˈfôːɡɛl/"
+		},
+		{
+			"id": "gris",
+			"item": "word:gris",
+			"text": "gris",
+			"ipa": "/ɡriːs/"
+		},
+		{
+			"id": "far",
+			"item": "word:får",
+			"text": "får",
+			"ipa": "/foːr/"
+		},
+		{
+			"id": "mus",
+			"item": "word:mus",
+			"text": "mus",
+			"ipa": "/mʉːs/"
+		}
+	]
+}

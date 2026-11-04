@@ -1,0 +1,13 @@
+{
+	"cells": {
+		"hund": {
+			"contrast": "The same word as German Hund."
+		},
+		"katt": {
+			"contrast": "Related to German Katze."
+		},
+		"far": {
+			"contrast": "Not German fahren: får is a sheep (German Schaf)."
+		}
+	}
+}

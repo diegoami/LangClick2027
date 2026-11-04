@@ -1,0 +1,29 @@
+{
+	"title": "Plans",
+	"summary": "The future, and every week. Choose or type the word that fits the gap.",
+	"cells": {
+		"ska": {
+			"sentenceGloss": "Tomorrow I am going to play football.",
+			"note": "ska + infinitive: a plan."
+		},
+		"kommer": {
+			"sentenceGloss": "It is going to rain at the weekend.",
+			"note": "kommer att + infinitive: what will happen."
+		},
+		"lordag": {
+			"sentenceGloss": "What are you doing on Saturday?",
+			"note": "på lördag: this coming Saturday."
+		},
+		"lordagar": {
+			"sentenceGloss": "I train on Saturdays.",
+			"note": "på lördagar: every Saturday."
+		},
+		"simmar": {
+			"sentenceGloss": "I like swimming in the lake in summer.",
+			"note": "gärna, gladly: I like to."
+		},
+		"hund": {
+			"sentenceGloss": "We have a dog and two cats."
+		}
+	}
+}

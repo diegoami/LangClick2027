@@ -35,7 +35,7 @@
 			"id": "jag.kla",
 			"item": "form:reflexive:jag.kla",
 			"text": "klär på mig",
-			"ipa": "/klæːr poː mɛj/",
+			"ipa": "/klæːr ˈpoː mɛj/",
 			"row": "jag",
 			"col": "kla",
 			"concepts": ["reflexive"]
@@ -53,7 +53,7 @@
 			"id": "du.kla",
 			"item": "form:reflexive:du.kla",
 			"text": "klär på dig",
-			"ipa": "/klæːr poː dɛj/",
+			"ipa": "/klæːr ˈpoː dɛj/",
 			"row": "du",
 			"col": "kla",
 			"concepts": ["reflexive"]
@@ -71,7 +71,7 @@
 			"id": "hanhon.kla",
 			"item": "form:reflexive:hanhon.kla",
 			"text": "klär på sig",
-			"ipa": "/klæːr poː sɛj/",
+			"ipa": "/klæːr ˈpoː sɛj/",
 			"row": "hanhon",
 			"col": "kla",
 			"concepts": ["reflexive"]
@@ -89,7 +89,7 @@
 			"id": "vi.kla",
 			"item": "form:reflexive:vi.kla",
 			"text": "klär på oss",
-			"ipa": "/klæːr poː ɔsː/",
+			"ipa": "/klæːr ˈpoː ɔsː/",
 			"row": "vi",
 			"col": "kla",
 			"concepts": ["reflexive"]
@@ -107,7 +107,7 @@
 			"id": "ni.kla",
 			"item": "form:reflexive:ni.kla",
 			"text": "klär på er",
-			"ipa": "/klæːr poː eːr/",
+			"ipa": "/klæːr ˈpoː eːr/",
 			"row": "ni",
 			"col": "kla",
 			"concepts": ["reflexive"]
@@ -125,7 +125,7 @@
 			"id": "de.kla",
 			"item": "form:reflexive:de.kla",
 			"text": "klär på sig",
-			"ipa": "/klæːr poː sɛj/",
+			"ipa": "/klæːr ˈpoː sɛj/",
 			"row": "de",
 			"col": "kla",
 			"concepts": ["reflexive"]

@@ -190,6 +190,42 @@
 					"url": "https://www.hejsvenska.se/index2.html"
 				}
 			]
+		},
+		{
+			"id": "l16",
+			"section": "level2",
+			"units": ["past-tense", "how-often", "yesterday"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 3: Min dag",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l17",
+			"section": "level2",
+			"units": ["relatives", "genitive"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 4: Familj",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l18",
+			"section": "level2",
+			"units": ["hobbies", "animals", "plans"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 5: Fritid",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
 		}
 	]
 }

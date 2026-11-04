@@ -1,0 +1,66 @@
+{
+	"id": "plans",
+	"layout": {
+		"type": "sentences",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "ska",
+			"item": "sentence:plans:ska",
+			"text": "ska",
+			"sentence": "I morgon ___ jag spela fotboll.",
+			"concepts": ["future"]
+		},
+		{
+			"id": "kommer",
+			"item": "sentence:plans:kommer",
+			"text": "kommer",
+			"sentence": "Det ___ att regna i helgen.",
+			"concepts": ["future"]
+		},
+		{
+			"id": "lordag",
+			"item": "sentence:plans:lordag",
+			"text": "lördag",
+			"sentence": "Vad ska du göra på ___?",
+			"concepts": ["future"]
+		},
+		{
+			"id": "lordagar",
+			"item": "sentence:plans:lordagar",
+			"text": "lördagar",
+			"sentence": "Jag tränar på ___.",
+			"concepts": ["future"]
+		},
+		{
+			"id": "simmar",
+			"item": "sentence:plans:simmar",
+			"text": "simmar",
+			"sentence": "Jag ___ gärna i sjön på sommaren.",
+			"concepts": ["future"]
+		},
+		{
+			"id": "hund",
+			"item": "sentence:plans:hund",
+			"text": "hund",
+			"sentence": "Vi har en ___ och två katter.",
+			"concepts": ["future"]
+		}
+	]
+}

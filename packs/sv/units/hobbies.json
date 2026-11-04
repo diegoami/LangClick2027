@@ -1,0 +1,77 @@
+{
+	"id": "hobbies",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "simma",
+			"item": "word:simma",
+			"text": "simma",
+			"ipa": "/ˈsɪ̂mːa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "dansa",
+			"item": "word:dansa",
+			"text": "dansa",
+			"ipa": "/ˈdânsa/"
+		},
+		{
+			"id": "sjunga",
+			"item": "word:sjunga",
+			"text": "sjunga",
+			"ipa": "/ˈɧɵ̂ŋːa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "fiska",
+			"item": "word:fiska",
+			"text": "fiska",
+			"ipa": "/ˈfɪ̂ska/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "trana",
+			"item": "word:träna",
+			"text": "träna",
+			"ipa": "/ˈtrɛ̂ːna/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "spela",
+			"item": "word:spela",
+			"text": "spela",
+			"ipa": "/ˈspêːla/"
+		},
+		{
+			"id": "skidor",
+			"item": "word:åka skidor",
+			"text": "åka skidor",
+			"ipa": "/ˈôːka ˈɧîːdʊr/"
+		},
+		{
+			"id": "titta",
+			"item": "word:titta på film",
+			"text": "titta på film",
+			"ipa": "/ˈtɪ̂tːa poː fɪlm/",
+			"concepts": ["word-accent"]
+		}
+	]
+}

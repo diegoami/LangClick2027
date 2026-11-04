@@ -1,0 +1,75 @@
+{
+	"id": "how-often",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "alltid",
+			"item": "word:alltid",
+			"text": "alltid",
+			"ipa": "/ˈâltɪd/"
+		},
+		{
+			"id": "ofta",
+			"item": "word:ofta",
+			"text": "ofta",
+			"ipa": "/ˈɔ̂fta/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "ibland",
+			"item": "word:ibland",
+			"text": "ibland",
+			"ipa": "/ɪˈbland/"
+		},
+		{
+			"id": "sallan",
+			"item": "word:sällan",
+			"text": "sällan",
+			"ipa": "/ˈsɛ̂lːan/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "aldrig",
+			"item": "word:aldrig",
+			"text": "aldrig",
+			"ipa": "/ˈâldrɪɡ/"
+		},
+		{
+			"id": "varjedag",
+			"item": "word:varje dag",
+			"text": "varje dag",
+			"ipa": "/ˈvârjɛ dɑːɡ/"
+		},
+		{
+			"id": "igar",
+			"item": "word:i går",
+			"text": "i går",
+			"ipa": "/ɪ ˈɡoːr/"
+		},
+		{
+			"id": "forraveckan",
+			"item": "word:förra veckan",
+			"text": "förra veckan",
+			"ipa": "/ˈfœ̂rːa ˈvɛ̂kːan/",
+			"concepts": ["word-accent"]
+		}
+	]
+}

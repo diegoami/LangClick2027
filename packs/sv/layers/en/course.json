@@ -58,6 +58,15 @@
 		},
 		"l15": {
 			"title": "Lesson 15: My day"
+		},
+		"l16": {
+			"title": "Lesson 16: What I did"
+		},
+		"l17": {
+			"title": "Lesson 17: The wider family"
+		},
+		"l18": {
+			"title": "Lesson 18: Free time"
 		}
 	},
 	"concepts": {
@@ -313,7 +322,7 @@
 		},
 		"object-pronouns": {
 			"title": "Pronouns after the verb",
-			"body": "A pronoun that the action is done to takes its object form: jag ser honom, hon ringer mig. mig, dig and sig are said /mɛj/, /dɛj/, /sɛj/. de and dem are both said /dɔm/, and only the spelling tells them apart.",
+			"body": "A pronoun that the action is done to takes its object form: jag ser honom, hon ringer mig. On their own, mig and dig are said /mɛjː/ and /dɛjː/. de and dem are both usually said /dɔmː/ (in careful speech /deː/ and /dɛmː/), so only the spelling tells them apart.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
@@ -327,7 +336,7 @@
 		},
 		"reflexive": {
 			"title": "Doing it to yourself",
-			"body": "Some verbs take a pronoun for the person who does them: jag tvättar mig, du klär på dig. For han, hon, den, det and de the pronoun is sig. sig, mig and dig are said /sɛj/, /mɛj/, /dɛj/.",
+			"body": "Some verbs take a pronoun for the person who does them: jag tvättar mig, du klär på dig. For han, hon, den, det and de the pronoun is sig. In a particle verb such as klä på sig or stiga upp, the stress falls on the particle: klär på mig.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
@@ -342,6 +351,48 @@
 		"ga-aka-kora": {
 			"title": "Going: gå, åka, köra",
 			"body": "gå is to go on foot. åka is to travel by vehicle, as a passenger or in general: åka buss, åka tåg. köra is to drive the vehicle yourself.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"past-tense": {
+			"title": "The past tense",
+			"body": "Regular verbs make the past with -ade, -de, -te or -dde. Verbs whose present ends in -ar take -ade: vaknar, vaknade. Most verbs in -er take -de, or -te after a voiceless consonant: ringer, ringde; läser, läste. Short verbs ending in a vowel take -dde: bor, bodde. The past has one form for every person. The verb always comes second: I går vaknade jag.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"genitive": {
+			"title": "Whose: -s, and mor or far",
+			"body": "The genitive adds -s with no apostrophe: Eriks cykel, mammas syster. A noun after a genitive takes no definite ending: pappas bil, not pappas bilen. Relatives are named by side: moster and morbror on the mother's side, faster and farbror on the father's.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"future": {
+			"title": "What will happen",
+			"body": "ska with an infinitive says what someone plans: jag ska spela. kommer att with an infinitive says what will happen: det kommer att regna. The present tense with a time word is common too: i morgon spelar jag. på lördag is this coming Saturday; på lördagar is every Saturday.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",

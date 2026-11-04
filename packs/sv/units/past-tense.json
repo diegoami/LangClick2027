@@ -1,0 +1,152 @@
+{
+	"id": "past-tense",
+	"layout": {
+		"type": "table",
+		"rows": ["vakna", "jobba", "ringa", "hora", "lasa", "kopa", "bo"],
+		"columns": ["pres", "past"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "vakna.pres",
+			"item": "form:past-tense:vakna.pres",
+			"text": "vaknar",
+			"ipa": "/ˈvɑ̂ːknar/",
+			"row": "vakna",
+			"col": "pres",
+			"concepts": ["past-tense", "word-accent"]
+		},
+		{
+			"id": "vakna.past",
+			"item": "form:past-tense:vakna.past",
+			"text": "vaknade",
+			"ipa": "/ˈvɑ̂ːknadɛ/",
+			"row": "vakna",
+			"col": "past",
+			"concepts": ["past-tense", "word-accent"]
+		},
+		{
+			"id": "jobba.pres",
+			"item": "form:past-tense:jobba.pres",
+			"text": "jobbar",
+			"ipa": "/ˈjɔ̂bːar/",
+			"row": "jobba",
+			"col": "pres",
+			"concepts": ["past-tense", "word-accent"]
+		},
+		{
+			"id": "jobba.past",
+			"item": "form:past-tense:jobba.past",
+			"text": "jobbade",
+			"ipa": "/ˈjɔ̂bːadɛ/",
+			"row": "jobba",
+			"col": "past",
+			"concepts": ["past-tense", "word-accent"]
+		},
+		{
+			"id": "ringa.pres",
+			"item": "form:past-tense:ringa.pres",
+			"text": "ringer",
+			"ipa": "/ˈrɪ̌ŋːɛr/",
+			"row": "ringa",
+			"col": "pres",
+			"concepts": ["past-tense", "word-accent"]
+		},
+		{
+			"id": "ringa.past",
+			"item": "form:past-tense:ringa.past",
+			"text": "ringde",
+			"ipa": "/ˈrɪ̂ŋdɛ/",
+			"row": "ringa",
+			"col": "past",
+			"concepts": ["past-tense", "word-accent"]
+		},
+		{
+			"id": "hora.pres",
+			"item": "form:past-tense:hora.pres",
+			"text": "hör",
+			"ipa": "/hœːr/",
+			"row": "hora",
+			"col": "pres",
+			"concepts": ["past-tense"]
+		},
+		{
+			"id": "hora.past",
+			"item": "form:past-tense:hora.past",
+			"text": "hörde",
+			"ipa": "/ˈhœ̂ːɖɛ/",
+			"row": "hora",
+			"col": "past",
+			"concepts": ["past-tense", "word-accent", "retroflex"]
+		},
+		{
+			"id": "lasa.pres",
+			"item": "form:past-tense:lasa.pres",
+			"text": "läser",
+			"ipa": "/ˈlɛ̌ːsɛr/",
+			"row": "lasa",
+			"col": "pres",
+			"concepts": ["past-tense", "word-accent"]
+		},
+		{
+			"id": "lasa.past",
+			"item": "form:past-tense:lasa.past",
+			"text": "läste",
+			"ipa": "/ˈlɛ̂stɛ/",
+			"row": "lasa",
+			"col": "past",
+			"concepts": ["past-tense", "word-accent"]
+		},
+		{
+			"id": "kopa.pres",
+			"item": "form:past-tense:kopa.pres",
+			"text": "köper",
+			"ipa": "/ˈɕø̌ːpɛr/",
+			"row": "kopa",
+			"col": "pres",
+			"concepts": ["past-tense", "word-accent"]
+		},
+		{
+			"id": "kopa.past",
+			"item": "form:past-tense:kopa.past",
+			"text": "köpte",
+			"ipa": "/ˈɕœ̂ptɛ/",
+			"row": "kopa",
+			"col": "past",
+			"concepts": ["past-tense", "word-accent"]
+		},
+		{
+			"id": "bo.pres",
+			"item": "form:past-tense:bo.pres",
+			"text": "bor",
+			"ipa": "/buːr/",
+			"row": "bo",
+			"col": "pres",
+			"concepts": ["past-tense"]
+		},
+		{
+			"id": "bo.past",
+			"item": "form:past-tense:bo.past",
+			"text": "bodde",
+			"ipa": "/ˈbʊ̂dːɛ/",
+			"row": "bo",
+			"col": "past",
+			"concepts": ["past-tense", "word-accent"]
+		}
+	]
+}

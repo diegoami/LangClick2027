@@ -31,7 +31,7 @@
 			"id": "stigaupp",
 			"item": "word:stiga upp",
 			"text": "stiga upp",
-			"ipa": "/ˈstîːɡa ɵpː/"
+			"ipa": "/stiːɡa ˈɵpː/"
 		},
 		{
 			"id": "duscha",
@@ -44,7 +44,7 @@
 			"id": "frukost",
 			"item": "word:frukost",
 			"text": "frukost",
-			"ipa": "/ˈfrʉ̌ːkɔst/",
+			"ipa": "/ˈfrɵ̌kːɔst/",
 			"concepts": ["word-accent"]
 		},
 		{
