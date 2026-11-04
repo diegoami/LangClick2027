@@ -4,7 +4,7 @@
 	"scripts": ["Cyrl"],
 	"licence": "CC-BY-SA-4.0",
 	"formatVersion": 3,
-	"version": "0.4.0",
+	"version": "0.5.0",
 	"comparisons": ["pl", "ru"],
 	"explanations": ["en", "ru", "pl", "uk"],
 	"overlays": ["ru-ru", "ru-en", "ru-uk", "pl-pl", "pl-en", "pl-uk"],
