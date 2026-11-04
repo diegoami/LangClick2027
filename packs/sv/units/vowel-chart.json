@@ -1,0 +1,110 @@
+{
+	"id": "vowel-chart",
+	"layout": {
+		"type": "table",
+		"rows": ["close", "mid", "openmid", "open"],
+		"columns": ["front", "rounded", "central", "back"],
+		"gaps": [
+			"mid/central",
+			"openmid/rounded",
+			"openmid/central",
+			"openmid/back",
+			"open/front",
+			"open/rounded",
+			"open/central"
+		]
+	},
+	"sources": [
+		{
+			"title": "Engstrand (1990), Swedish, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100300004060"
+		},
+		{
+			"title": "Help:IPA/Swedish (English Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Help:IPA/Swedish"
+		}
+	],
+	"cells": [
+		{
+			"id": "i",
+			"item": "vowel:i",
+			"text": "i",
+			"clue": "/iː/",
+			"concepts": ["vowel-length"],
+			"row": "close",
+			"col": "front"
+		},
+		{
+			"id": "y",
+			"item": "vowel:y",
+			"text": "y",
+			"clue": "/yː/",
+			"concepts": ["vowel-length"],
+			"row": "close",
+			"col": "rounded"
+		},
+		{
+			"id": "u",
+			"item": "vowel:u",
+			"text": "u",
+			"clue": "/ʉː/",
+			"concepts": ["vowel-length"],
+			"row": "close",
+			"col": "central"
+		},
+		{
+			"id": "o",
+			"item": "vowel:o",
+			"text": "o",
+			"clue": "/uː/",
+			"concepts": ["vowel-length"],
+			"row": "close",
+			"col": "back"
+		},
+		{
+			"id": "e",
+			"item": "vowel:e",
+			"text": "e",
+			"clue": "/eː/",
+			"concepts": ["vowel-length"],
+			"row": "mid",
+			"col": "front"
+		},
+		{
+			"id": "oe",
+			"item": "vowel:oe",
+			"text": "ö",
+			"clue": "/øː/",
+			"concepts": ["vowel-length"],
+			"row": "mid",
+			"col": "rounded"
+		},
+		{
+			"id": "aa",
+			"item": "vowel:aa",
+			"text": "å",
+			"clue": "/oː/",
+			"concepts": ["vowel-length"],
+			"row": "mid",
+			"col": "back"
+		},
+		{
+			"id": "ae",
+			"item": "vowel:ae",
+			"text": "ä",
+			"clue": "/ɛː/",
+			"concepts": ["vowel-length"],
+			"row": "openmid",
+			"col": "front"
+		},
+		{
+			"id": "a",
+			"item": "vowel:a",
+			"text": "a",
+			"clue": "/ɑː/",
+			"concepts": ["vowel-length"],
+			"row": "open",
+			"col": "back"
+		}
+	]
+}

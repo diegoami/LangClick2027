@@ -1,0 +1,30 @@
+{
+	"title": "The sj- and tj-sounds",
+	"summary": "Each tile gives a word in IPA; find how it is written.",
+	"cells": {
+		"sjo": {
+			"note": "lake"
+		},
+		"sju": {
+			"note": "seven"
+		},
+		"sked": {
+			"note": "spoon"
+		},
+		"skina": {
+			"note": "to shine"
+		},
+		"station": {
+			"note": "station"
+		},
+		"tjugo": {
+			"note": "twenty"
+		},
+		"kjol": {
+			"note": "skirt"
+		},
+		"kopa": {
+			"note": "to buy"
+		}
+	}
+}

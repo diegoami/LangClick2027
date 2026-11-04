@@ -22,8 +22,8 @@ reviewed the content; two independent AI content checks pass every target.
 
 **Swedish is next**, before optional extras. Its design is agreed in
 [#43](https://github.com/diegoami/LangClick2027/issues/43): it follows Hej svenska level 1.
-Lesson 1, letters and sounds, is ready to merge in
-[#45](https://github.com/diegoami/LangClick2027/pull/45).
+Lesson 1, letters and sounds, is merged ([#45](https://github.com/diegoami/LangClick2027/pull/45));
+the rest of Tema 3 (numbers, everyday phrases) comes next.
 
 On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
 extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided
