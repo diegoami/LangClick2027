@@ -20,7 +20,7 @@
 		},
 		"pressure-gen": {
 			"sentenceGloss": "The nurse recorded the pressure reading.",
-			"note": "Genitive: показник тиску — the pressure reading."
+			"note": "Genitive: a noun that depends on another noun answers чого? — показник (чого?) тиску, the pressure reading."
 		},
 		"pharmacy-loc": {
 			"sentenceGloss": "My sister works at a pharmacy.",
@@ -28,7 +28,7 @@
 		},
 		"prescription-gen": {
 			"sentenceGloss": "The text contains the prescription number.",
-			"note": "Genitive: номера рецепта — of the prescription."
+			"note": "Genitive: a noun that depends on another noun answers чого? — номер (чого?) рецепта, the prescription number."
 		},
 		"cardiologist-inst": {
 			"sentenceGloss": "Olena spoke with the cardiologist.",
@@ -40,7 +40,7 @@
 		},
 		"ointment-gen": {
 			"sentenceGloss": "The name of the ointment is written on the package.",
-			"note": "Genitive: назву мазі — the name of the ointment."
+			"note": "Genitive: a noun that depends on another noun answers чого? — назву (чого?) мазі, the name of the ointment."
 		},
 		"weakness-inst": {
 			"sentenceGloss": "The patient describes their condition as “with considerable weakness”.",
@@ -48,7 +48,7 @@
 		},
 		"medicine-gen": {
 			"sentenceGloss": "These medicines are not on the list.",
-			"note": "Genitive plural: цих ліків — of these medicines."
+			"note": "Genitive plural: after немає what is missing is in the genitive, and ліки has only plural forms — немає (чого?) цих ліків."
 		}
 	}
 }

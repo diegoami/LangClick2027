@@ -20,7 +20,7 @@
 		},
 		"pressure-gen": {
 			"sentenceGloss": "Pielęgniarka zapisała wynik pomiaru ciśnienia.",
-			"note": "Dopełniacz: показник тиску — wskaźnik ciśnienia."
+			"note": "Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — показник (чого?) тиску, wynik pomiaru ciśnienia."
 		},
 		"pharmacy-loc": {
 			"sentenceGloss": "Siostra pracuje w aptece.",
@@ -28,7 +28,7 @@
 		},
 		"prescription-gen": {
 			"sentenceGloss": "W tekście jest numer recepty.",
-			"note": "Dopełniacz: номера рецепта — numeru recepty."
+			"note": "Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — номер (чого?) рецепта, numer recepty."
 		},
 		"cardiologist-inst": {
 			"sentenceGloss": "Olena porozmawiała z kardiologiem.",
@@ -40,7 +40,7 @@
 		},
 		"ointment-gen": {
 			"sentenceGloss": "Na opakowaniu jest napisana nazwa maści.",
-			"note": "Dopełniacz: назву мазі — nazwy maści."
+			"note": "Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — назву (чого?) мазі, nazwa maści."
 		},
 		"weakness-inst": {
 			"sentenceGloss": "Pacjent opisuje swój stan słowami „ze znacznym osłabieniem”.",
@@ -48,7 +48,7 @@
 		},
 		"medicine-gen": {
 			"sentenceGloss": "Na liście nie ma tych leków.",
-			"note": "Dopełniacz l. mn.: цих ліків — tych leków."
+			"note": "Dopełniacz l. mn.: po немає to, czego brak, stoi w dopełniaczu, a ліки ma tylko liczbę mnogą — немає (чого?) цих ліків."
 		}
 	}
 }

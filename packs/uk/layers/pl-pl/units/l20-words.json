@@ -1,10 +1,10 @@
 {
 	"cells": {
 		"ploshcha": {
-			"contrast": "Ukraińska площа to plac; polskie площа nie istnieje."
+			"contrast": "Ukraińska площа to polski plac."
 		},
 		"tserkva": {
-			"contrast": "Ukraińska церква to kościół albo cerkiew; polskie церква nie istnieje."
+			"contrast": "Ukraińska церква to kościół; polska cerkiew to tylko świątynia prawosławna lub greckokatolicka."
 		}
 	}
 }
