@@ -1,0 +1,88 @@
+{
+	"id": "weather",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "sol",
+			"item": "word:sol",
+			"text": "sol",
+			"ipa": "/suːl/"
+		},
+		{
+			"id": "regn",
+			"item": "word:regn",
+			"text": "regn",
+			"ipa": "/rɛŋn/",
+			"concepts": ["gn-sound"]
+		},
+		{
+			"id": "sno",
+			"item": "word:snö",
+			"text": "snö",
+			"ipa": "/snøː/"
+		},
+		{
+			"id": "vind",
+			"item": "word:vind",
+			"text": "vind",
+			"ipa": "/vɪnd/"
+		},
+		{
+			"id": "moln",
+			"item": "word:moln",
+			"text": "moln",
+			"ipa": "/moːln/"
+		},
+		{
+			"id": "kallt",
+			"item": "word:kallt",
+			"text": "kallt",
+			"ipa": "/kalt/"
+		},
+		{
+			"id": "varmt",
+			"item": "word:varmt",
+			"text": "varmt",
+			"ipa": "/varmt/"
+		},
+		{
+			"id": "soligt",
+			"item": "word:soligt",
+			"text": "soligt",
+			"ipa": "/ˈsûːlɪt/",
+			"concepts": ["igt-ending"]
+		},
+		{
+			"id": "molnigt",
+			"item": "word:molnigt",
+			"text": "molnigt",
+			"ipa": "/ˈmôːlnɪt/",
+			"concepts": ["igt-ending"]
+		},
+		{
+			"id": "blasigt",
+			"item": "word:blåsigt",
+			"text": "blåsigt",
+			"ipa": "/ˈblôːsɪt/",
+			"concepts": ["igt-ending"]
+		}
+	]
+}

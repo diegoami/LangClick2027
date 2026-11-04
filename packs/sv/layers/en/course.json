@@ -13,6 +13,9 @@
 		},
 		"l02": {
 			"title": "Lesson 2: Numbers"
+		},
+		"l03": {
+			"title": "Lesson 3: Greetings, introductions and the weather"
 		}
 	},
 	"concepts": {
@@ -95,6 +98,34 @@
 				{
 					"title": "Help:IPA/Swedish (English Wikipedia)",
 					"url": "https://en.wikipedia.org/wiki/Help:IPA/Swedish"
+				}
+			]
+		},
+		"gn-sound": {
+			"title": "gn is /ŋn/",
+			"body": "After a vowel, gn is said /ŋn/, with the ng of English \"sing\": regn /rɛŋn/, lugn.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"igt-ending": {
+			"title": "The ending -igt",
+			"body": "The g of -igt is silent: soligt /ˈsûːlɪt/, molnigt, blåsigt. The ending makes the form of an adjective that goes with ett-words, and with det in det är soligt, \"it is sunny\".",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
 				}
 			]
 		}

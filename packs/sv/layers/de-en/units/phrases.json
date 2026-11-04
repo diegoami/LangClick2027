@@ -1,0 +1,16 @@
+{
+	"cells": {
+		"ja": {
+			"contrast": "The same word as German ja."
+		},
+		"valkommen": {
+			"contrast": "The same word as German willkommen."
+		},
+		"godmorgon": {
+			"contrast": "The same words as German guten Morgen."
+		},
+		"godnatt": {
+			"contrast": "The same words as German gute Nacht."
+		}
+	}
+}

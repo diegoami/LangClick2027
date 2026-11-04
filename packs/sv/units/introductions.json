@@ -1,0 +1,67 @@
+{
+	"id": "introductions",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "heter",
+			"item": "sentence:introductions:heter",
+			"text": "heter",
+			"sentence": "Vad ___ du?"
+		},
+		{
+			"id": "bor",
+			"item": "sentence:introductions:bor",
+			"text": "bor",
+			"sentence": "Jag ___ i Stockholm."
+		},
+		{
+			"id": "kommer",
+			"item": "sentence:introductions:kommer",
+			"text": "kommer",
+			"sentence": "Jag ___ från Tyskland."
+		},
+		{
+			"id": "ar",
+			"item": "sentence:introductions:ar",
+			"text": "är",
+			"sentence": "Hur ___ det med dig?"
+		},
+		{
+			"id": "bra",
+			"item": "sentence:introductions:bra",
+			"text": "bra",
+			"sentence": "Det är ___, tack."
+		},
+		{
+			"id": "traffas",
+			"item": "sentence:introductions:traffas",
+			"text": "träffas",
+			"sentence": "Trevligt att ___!"
+		},
+		{
+			"id": "talar",
+			"item": "sentence:introductions:talar",
+			"text": "talar",
+			"sentence": "Jag ___ lite svenska.",
+			"alsoAccepted": ["pratar"]
+		}
+	]
+}

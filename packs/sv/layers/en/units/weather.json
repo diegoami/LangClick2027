@@ -1,0 +1,36 @@
+{
+	"title": "The weather",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"sol": {
+			"clue": "sun"
+		},
+		"regn": {
+			"clue": "rain"
+		},
+		"sno": {
+			"clue": "snow"
+		},
+		"vind": {
+			"clue": "wind"
+		},
+		"moln": {
+			"clue": "cloud"
+		},
+		"kallt": {
+			"clue": "cold (det är …)"
+		},
+		"varmt": {
+			"clue": "warm (det är …)"
+		},
+		"soligt": {
+			"clue": "sunny"
+		},
+		"molnigt": {
+			"clue": "cloudy"
+		},
+		"blasigt": {
+			"clue": "windy"
+		}
+	}
+}

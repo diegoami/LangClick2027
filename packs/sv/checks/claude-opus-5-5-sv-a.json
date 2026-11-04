@@ -147,6 +147,41 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/introductions/heter",
+			"seen": "{\"item\":\"sentence:introductions:heter\",\"text\":\"heter\",\"sentence\":\"Vad ___ du?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/introductions/bor",
+			"seen": "{\"item\":\"sentence:introductions:bor\",\"text\":\"bor\",\"sentence\":\"Jag ___ i Stockholm.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/introductions/kommer",
+			"seen": "{\"item\":\"sentence:introductions:kommer\",\"text\":\"kommer\",\"sentence\":\"Jag ___ från Tyskland.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/introductions/ar",
+			"seen": "{\"item\":\"sentence:introductions:ar\",\"text\":\"är\",\"sentence\":\"Hur ___ det med dig?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/introductions/bra",
+			"seen": "{\"item\":\"sentence:introductions:bra\",\"text\":\"bra\",\"sentence\":\"Det är ___, tack.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/introductions/traffas",
+			"seen": "{\"item\":\"sentence:introductions:traffas\",\"text\":\"träffas\",\"sentence\":\"Trevligt att ___!\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/introductions/talar",
+			"seen": "{\"item\":\"sentence:introductions:talar\",\"text\":\"talar\",\"sentence\":\"Jag ___ lite svenska.\",\"alsoAccepted\":[\"pratar\"]}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/long-short/tak",
 			"seen": "{\"item\":\"word:tak\",\"text\":\"tak\",\"ipa\":\"/tɑːk/\",\"concepts\":[\"vowel-length\"]}",
 			"verdict": "ok"
@@ -292,6 +327,56 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/phrases/hej",
+			"seen": "{\"item\":\"word:hej\",\"text\":\"hej\",\"ipa\":\"/hɛjː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/phrases/hejda",
+			"seen": "{\"item\":\"word:hejdå\",\"text\":\"hejdå\",\"ipa\":\"/hɛjˈdoː/\",\"alsoAccepted\":[\"hej då\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/phrases/ja",
+			"seen": "{\"item\":\"word:ja\",\"text\":\"ja\",\"ipa\":\"/jɑː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/phrases/nej",
+			"seen": "{\"item\":\"word:nej\",\"text\":\"nej\",\"ipa\":\"/nɛjː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/phrases/forlat",
+			"seen": "{\"item\":\"word:förlåt\",\"text\":\"förlåt\",\"ipa\":\"/fœˈɭoːt/\",\"concepts\":[\"retroflex\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/phrases/ursakta",
+			"seen": "{\"item\":\"word:ursäkta\",\"text\":\"ursäkta\",\"ipa\":\"/ˈʉ̂ːʂɛkta/\",\"concepts\":[\"retroflex\",\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/phrases/varsagod",
+			"seen": "{\"item\":\"word:varsågod\",\"text\":\"varsågod\",\"ipa\":\"/vaʂɔˈɡuːd/\",\"alsoAccepted\":[\"var så god\"],\"concepts\":[\"retroflex\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/phrases/valkommen",
+			"seen": "{\"item\":\"word:välkommen\",\"text\":\"välkommen\",\"ipa\":\"/ˈvɛ̂ːlˌkɔmːɛn/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/phrases/godmorgon",
+			"seen": "{\"item\":\"word:god morgon\",\"text\":\"god morgon\",\"ipa\":\"/ɡuː ˈmɔ̌rːɔn/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/phrases/godnatt",
+			"seen": "{\"item\":\"word:god natt\",\"text\":\"god natt\",\"ipa\":\"/ɡuː ˈnatː/\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/sj-tj/sjo",
 			"seen": "{\"item\":\"word:sjö\",\"text\":\"sjö\",\"ipa\":\"/ɧøː/\",\"clue\":\"/ɧøː/\",\"concepts\":[\"sj-sound\"]}",
 			"verdict": "ok"
@@ -422,6 +507,56 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/weather/sol",
+			"seen": "{\"item\":\"word:sol\",\"text\":\"sol\",\"ipa\":\"/suːl/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/weather/regn",
+			"seen": "{\"item\":\"word:regn\",\"text\":\"regn\",\"ipa\":\"/rɛŋn/\",\"concepts\":[\"gn-sound\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/weather/sno",
+			"seen": "{\"item\":\"word:snö\",\"text\":\"snö\",\"ipa\":\"/snøː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/weather/vind",
+			"seen": "{\"item\":\"word:vind\",\"text\":\"vind\",\"ipa\":\"/vɪnd/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/weather/moln",
+			"seen": "{\"item\":\"word:moln\",\"text\":\"moln\",\"ipa\":\"/moːln/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/weather/kallt",
+			"seen": "{\"item\":\"word:kallt\",\"text\":\"kallt\",\"ipa\":\"/kalt/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/weather/varmt",
+			"seen": "{\"item\":\"word:varmt\",\"text\":\"varmt\",\"ipa\":\"/varmt/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/weather/soligt",
+			"seen": "{\"item\":\"word:soligt\",\"text\":\"soligt\",\"ipa\":\"/ˈsûːlɪt/\",\"concepts\":[\"igt-ending\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/weather/molnigt",
+			"seen": "{\"item\":\"word:molnigt\",\"text\":\"molnigt\",\"ipa\":\"/ˈmôːlnɪt/\",\"concepts\":[\"igt-ending\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/weather/blasigt",
+			"seen": "{\"item\":\"word:blåsigt\",\"text\":\"blåsigt\",\"ipa\":\"/ˈblôːsɪt/\",\"concepts\":[\"igt-ending\"]}",
+			"verdict": "pending"
+		},
+		{
 			"key": "de-en/long-short/tak",
 			"seen": "{\"contrast\":\"Length works as in German Staat and Stadt. Swedish also lengthens the consonant after a short vowel.\"}",
 			"verdict": "ok"
@@ -445,6 +580,26 @@
 			"key": "de-en/numbers/n20",
 			"seen": "{\"contrast\":\"Related to German zwanzig, though it no longer looks it: both come from \\\"two tens\\\".\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "de-en/phrases/ja",
+			"seen": "{\"contrast\":\"The same word as German ja.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/phrases/valkommen",
+			"seen": "{\"contrast\":\"The same word as German willkommen.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/phrases/godmorgon",
+			"seen": "{\"contrast\":\"The same words as German guten Morgen.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/phrases/godnatt",
+			"seen": "{\"contrast\":\"The same words as German gute Nacht.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "de-en/sj-tj/sjo",
@@ -497,6 +652,31 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "de-en/weather/sno",
+			"seen": "{\"contrast\":\"The same word as German Schnee.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/weather/vind",
+			"seen": "{\"contrast\":\"The same word as German Wind.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/weather/regn",
+			"seen": "{\"contrast\":\"The same word as German Regen.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/weather/kallt",
+			"seen": "{\"contrast\":\"The same word as German kalt.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/weather/varmt",
+			"seen": "{\"contrast\":\"The same word as German warm.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/section/sounds",
 			"seen": "\"Sounds\"",
 			"verdict": "ok"
@@ -515,6 +695,11 @@
 			"key": "en/lesson/l02",
 			"seen": "\"Lesson 2: Numbers\"",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l03",
+			"seen": "\"Lesson 3: Greetings, introductions and the weather\"",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/concept/own-letters",
@@ -552,9 +737,59 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/concept/gn-sound",
+			"seen": "{\"title\":\"gn is /ŋn/\",\"body\":\"After a vowel, gn is said /ŋn/, with the ng of English \\\"sing\\\": regn /rɛŋn/, lugn.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/igt-ending",
+			"seen": "{\"title\":\"The ending -igt\",\"body\":\"The g of -igt is silent: soligt /ˈsûːlɪt/, molnigt, blåsigt. The ending makes the form of an adjective that goes with ett-words, and with det in det är soligt, \\\"it is sunny\\\".\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/alphabet",
 			"seen": "{\"title\":\"The alphabet\",\"summary\":\"All 29 letters, in order. Each tile gives the name of the letter in IPA; find the letter.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/introductions",
+			"seen": "{\"title\":\"Introductions\",\"summary\":\"Asking and saying who you are. Choose or type the word that fits the gap.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/introductions/heter",
+			"seen": "{\"sentenceGloss\":\"What is your name?\",\"note\":\"heta, to be called: jag heter, du heter.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/introductions/bor",
+			"seen": "{\"sentenceGloss\":\"I live in Stockholm.\",\"note\":\"bo, to live: one form for every person, jag bor, vi bor.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/introductions/kommer",
+			"seen": "{\"sentenceGloss\":\"I come from Germany.\",\"note\":\"komma från, to come from.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/introductions/ar",
+			"seen": "{\"sentenceGloss\":\"How are you?\",\"note\":\"Hur är det? asks how things are; vara, to be, is är for every person.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/introductions/bra",
+			"seen": "{\"sentenceGloss\":\"I am fine, thanks.\",\"note\":\"bra, good or well, has no other forms.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/introductions/traffas",
+			"seen": "{\"sentenceGloss\":\"Nice to meet you!\",\"note\":\"träffas, to meet each other, ends in -s.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/introductions/talar",
+			"seen": "{\"sentenceGloss\":\"I speak a little Swedish.\",\"note\":\"tala and the everyday prata both mean to speak.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/long-short",
@@ -625,6 +860,61 @@
 			"key": "en/numbers/n7",
 			"seen": "{\"note\":\"The sj-sound, as in lesson 1.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/phrases",
+			"seen": "{\"title\":\"Everyday phrases\",\"summary\":\"Greetings, thanks and apologies. Each tile gives the meaning; find the Swedish.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/phrases/hej",
+			"seen": "{\"clue\":\"hello\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/phrases/hejda",
+			"seen": "{\"clue\":\"goodbye\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/phrases/ja",
+			"seen": "{\"clue\":\"yes\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/phrases/nej",
+			"seen": "{\"clue\":\"no\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/phrases/forlat",
+			"seen": "{\"clue\":\"sorry\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/phrases/ursakta",
+			"seen": "{\"clue\":\"excuse me\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/phrases/varsagod",
+			"seen": "{\"clue\":\"here you are; you are welcome\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/phrases/valkommen",
+			"seen": "{\"clue\":\"welcome\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/phrases/godmorgon",
+			"seen": "{\"clue\":\"good morning\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/phrases/godnatt",
+			"seen": "{\"clue\":\"good night\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/sj-tj",
@@ -717,6 +1007,61 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/weather",
+			"seen": "{\"title\":\"The weather\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/weather/sol",
+			"seen": "{\"clue\":\"sun\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/weather/regn",
+			"seen": "{\"clue\":\"rain\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/weather/sno",
+			"seen": "{\"clue\":\"snow\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/weather/vind",
+			"seen": "{\"clue\":\"wind\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/weather/moln",
+			"seen": "{\"clue\":\"cloud\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/weather/kallt",
+			"seen": "{\"clue\":\"cold (det är …)\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/weather/varmt",
+			"seen": "{\"clue\":\"warm (det är …)\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/weather/soligt",
+			"seen": "{\"clue\":\"sunny\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/weather/molnigt",
+			"seen": "{\"clue\":\"cloudy\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/weather/blasigt",
+			"seen": "{\"clue\":\"windy\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en-en/long-short/tack",
 			"seen": "{\"contrast\":\"English spelling doubles consonants too, but Swedish says them long: the k of tack is held.\"}",
 			"verdict": "ok"
@@ -740,6 +1085,16 @@
 			"key": "en-en/numbers/n20",
 			"seen": "{\"contrast\":\"Related to twenty, though it no longer looks it: both come from \\\"two tens\\\".\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en-en/phrases/valkommen",
+			"seen": "{\"contrast\":\"The same word as English welcome.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/phrases/godmorgon",
+			"seen": "{\"contrast\":\"The same words as good morning; god is said /ɡuː/ here.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en-en/sj-tj/sjo",
@@ -775,6 +1130,21 @@
 			"key": "en-en/vowel-chart/o",
 			"seen": "{\"contrast\":\"Usually the vowel of \\\"food\\\", not the o of \\\"go\\\".\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en-en/weather/sno",
+			"seen": "{\"contrast\":\"The same word as English snow.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/weather/vind",
+			"seen": "{\"contrast\":\"The same word as English wind.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/weather/regn",
+			"seen": "{\"contrast\":\"The same word as English rain.\"}",
+			"verdict": "pending"
 		}
 	]
 }
