@@ -1,0 +1,84 @@
+{
+	"id": "sj-tj",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Help:IPA/Swedish (English Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Help:IPA/Swedish"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "sjo",
+			"item": "word:sjö",
+			"text": "sjö",
+			"ipa": "/ɧøː/",
+			"clue": "/ɧøː/",
+			"concepts": ["sj-sound"]
+		},
+		{
+			"id": "sju",
+			"item": "word:sju",
+			"text": "sju",
+			"ipa": "/ɧʉː/",
+			"clue": "/ɧʉː/",
+			"concepts": ["sj-sound"]
+		},
+		{
+			"id": "sked",
+			"item": "word:sked",
+			"text": "sked",
+			"ipa": "/ɧeːd/",
+			"clue": "/ɧeːd/",
+			"concepts": ["sj-sound"]
+		},
+		{
+			"id": "skina",
+			"item": "word:skina",
+			"text": "skina",
+			"ipa": "/ˈɧîːna/",
+			"clue": "/ˈɧîːna/",
+			"concepts": ["sj-sound"]
+		},
+		{
+			"id": "station",
+			"item": "word:station",
+			"text": "station",
+			"ipa": "/staˈɧuːn/",
+			"clue": "/staˈɧuːn/",
+			"concepts": ["sj-sound"]
+		},
+		{
+			"id": "tjugo",
+			"item": "word:tjugo",
+			"text": "tjugo",
+			"ipa": "/ˈɕʉ̂ːɡʊ/",
+			"clue": "/ˈɕʉ̂ːɡʊ/",
+			"concepts": ["tj-sound", "word-accent"]
+		},
+		{
+			"id": "kjol",
+			"item": "word:kjol",
+			"text": "kjol",
+			"ipa": "/ɕuːl/",
+			"clue": "/ɕuːl/",
+			"concepts": ["tj-sound"]
+		},
+		{
+			"id": "kopa",
+			"item": "word:köpa",
+			"text": "köpa",
+			"ipa": "/ˈɕø̂ːpa/",
+			"clue": "/ˈɕø̂ːpa/",
+			"concepts": ["tj-sound", "word-accent"]
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"id": "long-short",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Engstrand (1990), Swedish, Journal of the IPA",
+			"url": "https://doi.org/10.1017/S0025100300004060"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "tak",
+			"item": "word:tak",
+			"text": "tak",
+			"ipa": "/tɑːk/",
+			"concepts": ["vowel-length"]
+		},
+		{
+			"id": "tack",
+			"item": "word:tack",
+			"text": "tack",
+			"ipa": "/takː/",
+			"concepts": ["vowel-length"]
+		},
+		{
+			"id": "glas",
+			"item": "word:glas",
+			"text": "glas",
+			"ipa": "/ɡlɑːs/",
+			"concepts": ["vowel-length"]
+		},
+		{
+			"id": "glass",
+			"item": "word:glass",
+			"text": "glass",
+			"ipa": "/ɡlasː/",
+			"concepts": ["vowel-length"]
+		},
+		{
+			"id": "ful",
+			"item": "word:ful",
+			"text": "ful",
+			"ipa": "/fʉːl/",
+			"concepts": ["vowel-length"]
+		},
+		{
+			"id": "full",
+			"item": "word:full",
+			"text": "full",
+			"ipa": "/fɵlː/",
+			"concepts": ["vowel-length"]
+		},
+		{
+			"id": "hat",
+			"item": "word:hat",
+			"text": "hat",
+			"ipa": "/hɑːt/",
+			"concepts": ["vowel-length"]
+		},
+		{
+			"id": "hatt",
+			"item": "word:hatt",
+			"text": "hatt",
+			"ipa": "/hatː/",
+			"concepts": ["vowel-length"]
+		}
+	]
+}

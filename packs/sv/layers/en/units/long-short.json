@@ -1,0 +1,30 @@
+{
+	"title": "Long and short",
+	"summary": "Pairs that only length tells apart. Each tile gives the meaning; find the word.",
+	"cells": {
+		"tak": {
+			"clue": "roof"
+		},
+		"tack": {
+			"clue": "thanks"
+		},
+		"glas": {
+			"clue": "glass (the material)"
+		},
+		"glass": {
+			"clue": "ice cream"
+		},
+		"ful": {
+			"clue": "ugly"
+		},
+		"full": {
+			"clue": "full"
+		},
+		"hat": {
+			"clue": "hatred"
+		},
+		"hatt": {
+			"clue": "hat"
+		}
+	}
+}

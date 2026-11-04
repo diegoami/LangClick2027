@@ -1,0 +1,196 @@
+{
+	"id": "alphabet",
+	"layout": {
+		"type": "grid",
+		"size": 29
+	},
+	"sources": [
+		{
+			"title": "Swedish alphabet (English Wikipedia)",
+			"url": "https://en.wikipedia.org/wiki/Swedish_alphabet"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"cells": [
+		{
+			"id": "a",
+			"item": "letter:a",
+			"text": "A a",
+			"clue": "/ɑː/"
+		},
+		{
+			"id": "b",
+			"item": "letter:b",
+			"text": "B b",
+			"clue": "/beː/"
+		},
+		{
+			"id": "c",
+			"item": "letter:c",
+			"text": "C c",
+			"clue": "/seː/"
+		},
+		{
+			"id": "d",
+			"item": "letter:d",
+			"text": "D d",
+			"clue": "/deː/"
+		},
+		{
+			"id": "e",
+			"item": "letter:e",
+			"text": "E e",
+			"clue": "/eː/"
+		},
+		{
+			"id": "f",
+			"item": "letter:f",
+			"text": "F f",
+			"clue": "/ɛfː/"
+		},
+		{
+			"id": "g",
+			"item": "letter:g",
+			"text": "G g",
+			"clue": "/ɡeː/"
+		},
+		{
+			"id": "h",
+			"item": "letter:h",
+			"text": "H h",
+			"clue": "/hoː/"
+		},
+		{
+			"id": "i",
+			"item": "letter:i",
+			"text": "I i",
+			"clue": "/iː/"
+		},
+		{
+			"id": "j",
+			"item": "letter:j",
+			"text": "J j",
+			"clue": "/jiː/"
+		},
+		{
+			"id": "k",
+			"item": "letter:k",
+			"text": "K k",
+			"clue": "/koː/"
+		},
+		{
+			"id": "l",
+			"item": "letter:l",
+			"text": "L l",
+			"clue": "/ɛlː/"
+		},
+		{
+			"id": "m",
+			"item": "letter:m",
+			"text": "M m",
+			"clue": "/ɛmː/"
+		},
+		{
+			"id": "n",
+			"item": "letter:n",
+			"text": "N n",
+			"clue": "/ɛnː/"
+		},
+		{
+			"id": "o",
+			"item": "letter:o",
+			"text": "O o",
+			"clue": "/uː/"
+		},
+		{
+			"id": "p",
+			"item": "letter:p",
+			"text": "P p",
+			"clue": "/peː/"
+		},
+		{
+			"id": "q",
+			"item": "letter:q",
+			"text": "Q q",
+			"clue": "/kʉː/"
+		},
+		{
+			"id": "r",
+			"item": "letter:r",
+			"text": "R r",
+			"clue": "/æːr/"
+		},
+		{
+			"id": "s",
+			"item": "letter:s",
+			"text": "S s",
+			"clue": "/ɛsː/"
+		},
+		{
+			"id": "t",
+			"item": "letter:t",
+			"text": "T t",
+			"clue": "/teː/"
+		},
+		{
+			"id": "u",
+			"item": "letter:u",
+			"text": "U u",
+			"clue": "/ʉː/"
+		},
+		{
+			"id": "v",
+			"item": "letter:v",
+			"text": "V v",
+			"clue": "/veː/"
+		},
+		{
+			"id": "w",
+			"item": "letter:w",
+			"text": "W w",
+			"clue": "/ˈdɵ̂bːɛlˌveː/"
+		},
+		{
+			"id": "x",
+			"item": "letter:x",
+			"text": "X x",
+			"clue": "/ɛks/"
+		},
+		{
+			"id": "y",
+			"item": "letter:y",
+			"text": "Y y",
+			"clue": "/yː/"
+		},
+		{
+			"id": "z",
+			"item": "letter:z",
+			"text": "Z z",
+			"clue": "/ˈsɛ̂ːta/"
+		},
+		{
+			"id": "aa",
+			"item": "letter:å",
+			"text": "Å å",
+			"clue": "/oː/",
+			"concepts": ["own-letters"]
+		},
+		{
+			"id": "ae",
+			"item": "letter:ä",
+			"text": "Ä ä",
+			"clue": "/ɛː/",
+			"concepts": ["own-letters"]
+		},
+		{
+			"id": "oe",
+			"item": "letter:ö",
+			"text": "Ö ö",
+			"clue": "/øː/",
+			"concepts": ["own-letters"]
+		}
+	]
+}

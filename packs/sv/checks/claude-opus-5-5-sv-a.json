@@ -1,0 +1,505 @@
+{
+	"checker": "claude-opus-5-5-sv-a",
+	"entries": [
+		{
+			"key": "core/alphabet/a",
+			"seen": "{\"item\":\"letter:a\",\"text\":\"A a\",\"clue\":\"/ɑː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/b",
+			"seen": "{\"item\":\"letter:b\",\"text\":\"B b\",\"clue\":\"/beː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/c",
+			"seen": "{\"item\":\"letter:c\",\"text\":\"C c\",\"clue\":\"/seː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/d",
+			"seen": "{\"item\":\"letter:d\",\"text\":\"D d\",\"clue\":\"/deː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/e",
+			"seen": "{\"item\":\"letter:e\",\"text\":\"E e\",\"clue\":\"/eː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/f",
+			"seen": "{\"item\":\"letter:f\",\"text\":\"F f\",\"clue\":\"/ɛfː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/g",
+			"seen": "{\"item\":\"letter:g\",\"text\":\"G g\",\"clue\":\"/ɡeː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/h",
+			"seen": "{\"item\":\"letter:h\",\"text\":\"H h\",\"clue\":\"/hoː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/i",
+			"seen": "{\"item\":\"letter:i\",\"text\":\"I i\",\"clue\":\"/iː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/j",
+			"seen": "{\"item\":\"letter:j\",\"text\":\"J j\",\"clue\":\"/jiː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/k",
+			"seen": "{\"item\":\"letter:k\",\"text\":\"K k\",\"clue\":\"/koː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/l",
+			"seen": "{\"item\":\"letter:l\",\"text\":\"L l\",\"clue\":\"/ɛlː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/m",
+			"seen": "{\"item\":\"letter:m\",\"text\":\"M m\",\"clue\":\"/ɛmː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/n",
+			"seen": "{\"item\":\"letter:n\",\"text\":\"N n\",\"clue\":\"/ɛnː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/o",
+			"seen": "{\"item\":\"letter:o\",\"text\":\"O o\",\"clue\":\"/uː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/p",
+			"seen": "{\"item\":\"letter:p\",\"text\":\"P p\",\"clue\":\"/peː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/q",
+			"seen": "{\"item\":\"letter:q\",\"text\":\"Q q\",\"clue\":\"/kʉː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/r",
+			"seen": "{\"item\":\"letter:r\",\"text\":\"R r\",\"clue\":\"/æːr/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/s",
+			"seen": "{\"item\":\"letter:s\",\"text\":\"S s\",\"clue\":\"/ɛsː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/t",
+			"seen": "{\"item\":\"letter:t\",\"text\":\"T t\",\"clue\":\"/teː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/u",
+			"seen": "{\"item\":\"letter:u\",\"text\":\"U u\",\"clue\":\"/ʉː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/v",
+			"seen": "{\"item\":\"letter:v\",\"text\":\"V v\",\"clue\":\"/veː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/w",
+			"seen": "{\"item\":\"letter:w\",\"text\":\"W w\",\"clue\":\"/ˈdɵ̂bːɛlˌveː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/x",
+			"seen": "{\"item\":\"letter:x\",\"text\":\"X x\",\"clue\":\"/ɛks/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/y",
+			"seen": "{\"item\":\"letter:y\",\"text\":\"Y y\",\"clue\":\"/yː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/z",
+			"seen": "{\"item\":\"letter:z\",\"text\":\"Z z\",\"clue\":\"/ˈsɛ̂ːta/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/aa",
+			"seen": "{\"item\":\"letter:å\",\"text\":\"Å å\",\"clue\":\"/oː/\",\"concepts\":[\"own-letters\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/ae",
+			"seen": "{\"item\":\"letter:ä\",\"text\":\"Ä ä\",\"clue\":\"/ɛː/\",\"concepts\":[\"own-letters\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/alphabet/oe",
+			"seen": "{\"item\":\"letter:ö\",\"text\":\"Ö ö\",\"clue\":\"/øː/\",\"concepts\":[\"own-letters\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/long-short/tak",
+			"seen": "{\"item\":\"word:tak\",\"text\":\"tak\",\"ipa\":\"/tɑːk/\",\"concepts\":[\"vowel-length\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/long-short/tack",
+			"seen": "{\"item\":\"word:tack\",\"text\":\"tack\",\"ipa\":\"/takː/\",\"concepts\":[\"vowel-length\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/long-short/glas",
+			"seen": "{\"item\":\"word:glas\",\"text\":\"glas\",\"ipa\":\"/ɡlɑːs/\",\"concepts\":[\"vowel-length\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/long-short/glass",
+			"seen": "{\"item\":\"word:glass\",\"text\":\"glass\",\"ipa\":\"/ɡlasː/\",\"concepts\":[\"vowel-length\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/long-short/ful",
+			"seen": "{\"item\":\"word:ful\",\"text\":\"ful\",\"ipa\":\"/fʉːl/\",\"concepts\":[\"vowel-length\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/long-short/full",
+			"seen": "{\"item\":\"word:full\",\"text\":\"full\",\"ipa\":\"/fɵlː/\",\"concepts\":[\"vowel-length\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/long-short/hat",
+			"seen": "{\"item\":\"word:hat\",\"text\":\"hat\",\"ipa\":\"/hɑːt/\",\"concepts\":[\"vowel-length\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/long-short/hatt",
+			"seen": "{\"item\":\"word:hatt\",\"text\":\"hatt\",\"ipa\":\"/hatː/\",\"concepts\":[\"vowel-length\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/sj-tj/sjo",
+			"seen": "{\"item\":\"word:sjö\",\"text\":\"sjö\",\"ipa\":\"/ɧøː/\",\"clue\":\"/ɧøː/\",\"concepts\":[\"sj-sound\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/sj-tj/sju",
+			"seen": "{\"item\":\"word:sju\",\"text\":\"sju\",\"ipa\":\"/ɧʉː/\",\"clue\":\"/ɧʉː/\",\"concepts\":[\"sj-sound\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/sj-tj/sked",
+			"seen": "{\"item\":\"word:sked\",\"text\":\"sked\",\"ipa\":\"/ɧeːd/\",\"clue\":\"/ɧeːd/\",\"concepts\":[\"sj-sound\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/sj-tj/skina",
+			"seen": "{\"item\":\"word:skina\",\"text\":\"skina\",\"ipa\":\"/ˈɧîːna/\",\"clue\":\"/ˈɧîːna/\",\"concepts\":[\"sj-sound\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/sj-tj/station",
+			"seen": "{\"item\":\"word:station\",\"text\":\"station\",\"ipa\":\"/staˈɧuːn/\",\"clue\":\"/staˈɧuːn/\",\"concepts\":[\"sj-sound\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/sj-tj/tjugo",
+			"seen": "{\"item\":\"word:tjugo\",\"text\":\"tjugo\",\"ipa\":\"/ˈɕʉ̂ːɡʊ/\",\"clue\":\"/ˈɕʉ̂ːɡʊ/\",\"concepts\":[\"tj-sound\",\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/sj-tj/kjol",
+			"seen": "{\"item\":\"word:kjol\",\"text\":\"kjol\",\"ipa\":\"/ɕuːl/\",\"clue\":\"/ɕuːl/\",\"concepts\":[\"tj-sound\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/sj-tj/kopa",
+			"seen": "{\"item\":\"word:köpa\",\"text\":\"köpa\",\"ipa\":\"/ˈɕø̂ːpa/\",\"clue\":\"/ˈɕø̂ːpa/\",\"concepts\":[\"tj-sound\",\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/vowel-chart/i",
+			"seen": "{\"item\":\"vowel:i\",\"text\":\"i\",\"clue\":\"/iː/\",\"concepts\":[\"vowel-length\"],\"row\":\"close\",\"col\":\"front\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/vowel-chart/y",
+			"seen": "{\"item\":\"vowel:y\",\"text\":\"y\",\"clue\":\"/yː/\",\"concepts\":[\"vowel-length\"],\"row\":\"close\",\"col\":\"rounded\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/vowel-chart/u",
+			"seen": "{\"item\":\"vowel:u\",\"text\":\"u\",\"clue\":\"/ʉː/\",\"concepts\":[\"vowel-length\"],\"row\":\"close\",\"col\":\"central\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/vowel-chart/o",
+			"seen": "{\"item\":\"vowel:o\",\"text\":\"o\",\"clue\":\"/uː/\",\"concepts\":[\"vowel-length\"],\"row\":\"close\",\"col\":\"back\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/vowel-chart/e",
+			"seen": "{\"item\":\"vowel:e\",\"text\":\"e\",\"clue\":\"/eː/\",\"concepts\":[\"vowel-length\"],\"row\":\"mid\",\"col\":\"front\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/vowel-chart/oe",
+			"seen": "{\"item\":\"vowel:oe\",\"text\":\"ö\",\"clue\":\"/øː/\",\"concepts\":[\"vowel-length\"],\"row\":\"mid\",\"col\":\"rounded\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/vowel-chart/aa",
+			"seen": "{\"item\":\"vowel:aa\",\"text\":\"å\",\"clue\":\"/oː/\",\"concepts\":[\"vowel-length\"],\"row\":\"mid\",\"col\":\"back\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/vowel-chart/ae",
+			"seen": "{\"item\":\"vowel:ae\",\"text\":\"ä\",\"clue\":\"/ɛː/\",\"concepts\":[\"vowel-length\"],\"row\":\"openmid\",\"col\":\"front\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/vowel-chart/a",
+			"seen": "{\"item\":\"vowel:a\",\"text\":\"a\",\"clue\":\"/ɑː/\",\"concepts\":[\"vowel-length\"],\"row\":\"open\",\"col\":\"back\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/long-short/tak",
+			"seen": "{\"contrast\":\"Length works as in German Staat and Stadt. Swedish also lengthens the consonant after a short vowel.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/sj-tj/sjo",
+			"seen": "{\"contrast\":\"Not German sch: the sound is made further back.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/sj-tj/kjol",
+			"seen": "{\"contrast\":\"Close to German ch in \\\"ich\\\", but with the tongue further forward.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/vowel-chart/y",
+			"seen": "{\"contrast\":\"Close to German ü in \\\"Tür\\\".\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/vowel-chart/oe",
+			"seen": "{\"contrast\":\"Close to German ö in \\\"schön\\\".\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/vowel-chart/ae",
+			"seen": "{\"contrast\":\"Close to German ä in \\\"Käse\\\".\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/vowel-chart/u",
+			"seen": "{\"contrast\":\"Not German u: Swedish long u is central, between German ü and u.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/vowel-chart/o",
+			"seen": "{\"contrast\":\"Usually the vowel of German \\\"gut\\\", not German o.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/vowel-chart/aa",
+			"seen": "{\"contrast\":\"Close to German o in \\\"Sohn\\\".\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/section/sounds",
+			"seen": "\"Sounds\"",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/lesson/l01",
+			"seen": "\"Lesson 1: Letters and sounds\"",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/own-letters",
+			"seen": "{\"title\":\"å, ä and ö are letters of their own\",\"body\":\"Swedish has 29 letters: the 26 of English, then å, ä and ö, in that order at the end of the alphabet. They are not a or o with marks, and a dictionary files them after z.\",\"sources\":[{\"title\":\"Swedish alphabet (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Swedish_alphabet\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/vowel-length",
+			"seen": "{\"title\":\"Long and short\",\"body\":\"A stressed syllable is long: either its vowel is long, or the vowel is short and the consonant after it is long. A double consonant in spelling marks the short vowel: tak /tɑːk/, tack /takː/. Length changes the vowel too: long a is /ɑː/ and short a is /a/, long u is /ʉː/ and short u is /ɵ/. The chart shows the nine long vowels.\",\"sources\":[{\"title\":\"Engstrand (1990), Swedish, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100300004060\"},{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/sj-sound",
+			"seen": "{\"title\":\"The sj-sound /ɧ/\",\"body\":\"A voiceless sound made with the back of the tongue, lips slightly rounded. It is spelled sj, skj, stj, sk before e, i, y, ä or ö, and -ti- in words such as station.\",\"sources\":[{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/tj-sound",
+			"seen": "{\"title\":\"The tj-sound /ɕ/\",\"body\":\"A soft voiceless hiss with the middle of the tongue raised, with no t in it. It is spelled tj, kj, and k before e, i, y, ä or ö: kjol, tjugo, köpa.\",\"sources\":[{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/word-accent",
+			"seen": "{\"title\":\"Two word accents\",\"body\":\"A word stressed on a syllable that another follows has one of two pitch patterns. Accent 1 is marked here with ̌ on the stressed vowel and accent 2 with ̂: anden /ˈǎnːdɛn/ \\\"the duck\\\", anden /ˈânːdɛn/ \\\"the spirit\\\". Most words of two syllables, and every compound, take accent 2. A word of one syllable has no contrast and no mark.\",\"sources\":[{\"title\":\"Engstrand (1990), Swedish, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100300004060\"},{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/alphabet",
+			"seen": "{\"title\":\"The alphabet\",\"summary\":\"All 29 letters, in order. Each tile gives the name of the letter in IPA; find the letter.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/long-short",
+			"seen": "{\"title\":\"Long and short\",\"summary\":\"Pairs that only length tells apart. Each tile gives the meaning; find the word.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/long-short/tak",
+			"seen": "{\"clue\":\"roof\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/long-short/tack",
+			"seen": "{\"clue\":\"thanks\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/long-short/glas",
+			"seen": "{\"clue\":\"glass (the material)\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/long-short/glass",
+			"seen": "{\"clue\":\"ice cream\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/long-short/ful",
+			"seen": "{\"clue\":\"ugly\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/long-short/full",
+			"seen": "{\"clue\":\"full\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/long-short/hat",
+			"seen": "{\"clue\":\"hatred\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/long-short/hatt",
+			"seen": "{\"clue\":\"hat\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/sj-tj",
+			"seen": "{\"title\":\"The sj- and tj-sounds\",\"summary\":\"Each tile gives a word in IPA; find how it is written.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/sj-tj/sjo",
+			"seen": "{\"note\":\"lake\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/sj-tj/sju",
+			"seen": "{\"note\":\"seven\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/sj-tj/sked",
+			"seen": "{\"note\":\"spoon\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/sj-tj/skina",
+			"seen": "{\"note\":\"to shine\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/sj-tj/station",
+			"seen": "{\"note\":\"station\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/sj-tj/tjugo",
+			"seen": "{\"note\":\"twenty\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/sj-tj/kjol",
+			"seen": "{\"note\":\"skirt\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/sj-tj/kopa",
+			"seen": "{\"note\":\"to buy\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/vowel-chart",
+			"seen": "{\"title\":\"The nine long vowels\",\"summary\":\"The long vowels by tongue position, as an IPA chart. Each cell gives the sound; find its letter.\",\"headers\":{\"close\":\"Close\",\"mid\":\"Close-mid\",\"openmid\":\"Open-mid\",\"open\":\"Open\",\"front\":\"Front\",\"rounded\":\"Front rounded\",\"central\":\"Central\",\"back\":\"Back\"}}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/vowel-chart/o",
+			"seen": "{\"note\":\"Long o is usually /uː/. In some words it is /oː/, the sound of å: sova \\\"sleep\\\".\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/vowel-chart/u",
+			"seen": "{\"note\":\"A close central vowel with pursed lips. Short u is /ɵ/: full.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/vowel-chart/ae",
+			"seen": "{\"note\":\"Before r it opens to /æː/: är \\\"is\\\".\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/vowel-chart/oe",
+			"seen": "{\"note\":\"Before r it opens to /œː/: öra \\\"ear\\\".\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/long-short/tack",
+			"seen": "{\"contrast\":\"English spelling doubles consonants too, but Swedish says them long: the k of tack is held.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/sj-tj/sjo",
+			"seen": "{\"contrast\":\"Not the sh of \\\"show\\\": the tongue is drawn back and the sound is breathier.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/sj-tj/kjol",
+			"seen": "{\"contrast\":\"Not the ch of \\\"cheap\\\": there is no t at the start.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/vowel-chart/y",
+			"seen": "{\"contrast\":\"English has no rounded front vowel. Say the i of \\\"see\\\" with your lips rounded.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/vowel-chart/u",
+			"seen": "{\"contrast\":\"Not the vowel of \\\"rule\\\": the tongue is further forward and the lips are pursed.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/vowel-chart/o",
+			"seen": "{\"contrast\":\"Usually the vowel of \\\"food\\\", not the o of \\\"go\\\".\"}",
+			"verdict": "pending"
+		}
+	]
+}

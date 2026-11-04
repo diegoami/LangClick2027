@@ -1,0 +1,27 @@
+{
+	"id": "sv",
+	"language": "sv",
+	"scripts": ["Latn"],
+	"licence": "CC-BY-SA-4.0",
+	"formatVersion": 3,
+	"version": "0.1.0",
+	"comparisons": ["de", "en"],
+	"explanations": ["en"],
+	"overlays": ["de-en", "en-en"],
+	"sections": ["sounds"],
+	"keyboard": ["qwertyuiopå", "asdfghjklöä", "zxcvbnm"],
+	"lessons": [
+		{
+			"id": "l01",
+			"section": "sounds",
+			"units": ["alphabet", "vowel-chart", "long-short", "sj-tj"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 3: Bas (alfabetet, vokaler, konsonanter)",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		}
+	]
+}

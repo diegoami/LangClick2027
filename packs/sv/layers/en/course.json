@@ -1,0 +1,72 @@
+{
+	"sections": {
+		"sounds": {
+			"title": "Sounds"
+		}
+	},
+	"lessons": {
+		"l01": {
+			"title": "Lesson 1: Letters and sounds"
+		}
+	},
+	"concepts": {
+		"own-letters": {
+			"title": "å, ä and ö are letters of their own",
+			"body": "Swedish has 29 letters: the 26 of English, then å, ä and ö, in that order at the end of the alphabet. They are not a or o with marks, and a dictionary files them after z.",
+			"sources": [
+				{
+					"title": "Swedish alphabet (English Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Swedish_alphabet"
+				}
+			]
+		},
+		"vowel-length": {
+			"title": "Long and short",
+			"body": "A stressed syllable is long: either its vowel is long, or the vowel is short and the consonant after it is long. A double consonant in spelling marks the short vowel: tak /tɑːk/, tack /takː/. Length changes the vowel too: long a is /ɑː/ and short a is /a/, long u is /ʉː/ and short u is /ɵ/. The chart shows the nine long vowels.",
+			"sources": [
+				{
+					"title": "Engstrand (1990), Swedish, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100300004060"
+				},
+				{
+					"title": "Help:IPA/Swedish (English Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Help:IPA/Swedish"
+				}
+			]
+		},
+		"sj-sound": {
+			"title": "The sj-sound /ɧ/",
+			"body": "A voiceless sound made with the back of the tongue, lips slightly rounded. It is spelled sj, skj, stj, sk before e, i, y, ä or ö, and -ti- in words such as station.",
+			"sources": [
+				{
+					"title": "Help:IPA/Swedish (English Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Help:IPA/Swedish"
+				}
+			]
+		},
+		"tj-sound": {
+			"title": "The tj-sound /ɕ/",
+			"body": "A soft voiceless hiss with the middle of the tongue raised, with no t in it. It is spelled tj, kj, and k before e, i, y, ä or ö: kjol, tjugo, köpa.",
+			"sources": [
+				{
+					"title": "Help:IPA/Swedish (English Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Help:IPA/Swedish"
+				}
+			]
+		},
+		"word-accent": {
+			"title": "Two word accents",
+			"body": "A word stressed on a syllable that another follows has one of two pitch patterns. Accent 1 is marked here with ̌ on the stressed vowel and accent 2 with ̂: anden /ˈǎnːdɛn/ \"the duck\", anden /ˈânːdɛn/ \"the spirit\". Most words of two syllables, and every compound, take accent 2. A word of one syllable has no contrast and no mark.",
+			"sources": [
+				{
+					"title": "Engstrand (1990), Swedish, Journal of the IPA",
+					"url": "https://doi.org/10.1017/S0025100300004060"
+				},
+				{
+					"title": "Help:IPA/Swedish (English Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Help:IPA/Swedish"
+				}
+			]
+		}
+	}
+}
