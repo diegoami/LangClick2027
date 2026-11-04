@@ -1,0 +1,105 @@
+{
+	"id": "months",
+	"layout": {
+		"type": "grid",
+		"size": 12
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "jan",
+			"item": "word:januari",
+			"text": "januari",
+			"ipa": "/janɵˈɑ̌ːrɪ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "feb",
+			"item": "word:februari",
+			"text": "februari",
+			"ipa": "/fɛbrɵˈɑ̌ːrɪ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "mar",
+			"item": "word:mars",
+			"text": "mars",
+			"ipa": "/maʂ/",
+			"concepts": ["retroflex"]
+		},
+		{
+			"id": "apr",
+			"item": "word:april",
+			"text": "april",
+			"ipa": "/aˈprɪlː/"
+		},
+		{
+			"id": "maj",
+			"item": "word:maj",
+			"text": "maj",
+			"ipa": "/maj/"
+		},
+		{
+			"id": "jun",
+			"item": "word:juni",
+			"text": "juni",
+			"ipa": "/ˈjʉ̂ːnɪ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "jul",
+			"item": "word:juli",
+			"text": "juli",
+			"ipa": "/ˈjʉ̂ːlɪ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "aug",
+			"item": "word:augusti",
+			"text": "augusti",
+			"ipa": "/aʊˈɡɵ̌stɪ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "sep",
+			"item": "word:september",
+			"text": "september",
+			"ipa": "/sɛpˈtɛ̌mbɛr/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "okt",
+			"item": "word:oktober",
+			"text": "oktober",
+			"ipa": "/ɔkˈtuːbɛr/"
+		},
+		{
+			"id": "nov",
+			"item": "word:november",
+			"text": "november",
+			"ipa": "/nʊˈvɛ̌mbɛr/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "dec",
+			"item": "word:december",
+			"text": "december",
+			"ipa": "/deˈsɛ̌mbɛr/",
+			"concepts": ["word-accent"]
+		}
+	]
+}

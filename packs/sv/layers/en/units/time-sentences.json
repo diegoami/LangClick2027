@@ -1,0 +1,38 @@
+{
+	"title": "Telling the time",
+	"summary": "The clock, the parts of the day and plans. Choose or type the word that fits the gap.",
+	"cells": {
+		"klockan": {
+			"sentenceGloss": "What time is it?",
+			"note": "Also: Vad är klockan?"
+		},
+		"over": {
+			"sentenceGloss": "It is quarter past four.",
+			"note": "kvart över, quarter past."
+		},
+		"i": {
+			"sentenceGloss": "It is quarter to five.",
+			"note": "kvart i, quarter to."
+		},
+		"halv": {
+			"sentenceGloss": "It is half past two.",
+			"note": "halv tre is half way to three: half past two."
+		},
+		"morgonen": {
+			"sentenceGloss": "I wake up early in the morning.",
+			"note": "på morgonen, in the morning."
+		},
+		"kvallen": {
+			"sentenceGloss": "We have dinner in the evening.",
+			"note": "på kvällen, in the evening."
+		},
+		"natten": {
+			"sentenceGloss": "I sleep at night.",
+			"note": "på natten, at night."
+		},
+		"gor": {
+			"sentenceGloss": "What are you doing at the weekend?",
+			"note": "göra, to do: gör."
+		}
+	}
+}

@@ -71,7 +71,7 @@
 			"id": "hand.pl",
 			"item": "form:body-plurals:hand.pl",
 			"text": "händer",
-			"ipa": "/ˈhɛ̂ndɛr/",
+			"ipa": "/ˈhɛ̌ndɛr/",
 			"row": "hand",
 			"col": "pl",
 			"concepts": ["body-plurals", "word-accent"]
@@ -89,7 +89,7 @@
 			"id": "fot.pl",
 			"item": "form:body-plurals:fot.pl",
 			"text": "fötter",
-			"ipa": "/ˈfœ̂tːɛr/",
+			"ipa": "/ˈfœ̌tːɛr/",
 			"row": "fot",
 			"col": "pl",
 			"concepts": ["body-plurals", "word-accent"]
@@ -107,7 +107,7 @@
 			"id": "tand.pl",
 			"item": "form:body-plurals:tand.pl",
 			"text": "tänder",
-			"ipa": "/ˈtɛ̂ndɛr/",
+			"ipa": "/ˈtɛ̌ndɛr/",
 			"row": "tand",
 			"col": "pl",
 			"concepts": ["body-plurals", "word-accent"]

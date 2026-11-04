@@ -1,0 +1,36 @@
+{
+	"title": "Jobs",
+	"summary": "Each tile gives the job; find the Swedish.",
+	"cells": {
+		"lakare": {
+			"clue": "doctor"
+		},
+		"larare": {
+			"clue": "teacher"
+		},
+		"kock": {
+			"clue": "cook, chef"
+		},
+		"frisor": {
+			"clue": "hairdresser"
+		},
+		"snickare": {
+			"clue": "carpenter"
+		},
+		"stadare": {
+			"clue": "cleaner"
+		},
+		"ingenjor": {
+			"clue": "engineer"
+		},
+		"polis": {
+			"clue": "police officer"
+		},
+		"saljare": {
+			"clue": "salesperson"
+		},
+		"sjukskoterska": {
+			"clue": "nurse"
+		}
+	}
+}

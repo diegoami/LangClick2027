@@ -1,0 +1,27 @@
+{
+	"title": "Days of the week",
+	"summary": "Each tile gives the day; find the Swedish. Day names take no capital letter.",
+	"cells": {
+		"mandag": {
+			"clue": "Monday"
+		},
+		"tisdag": {
+			"clue": "Tuesday"
+		},
+		"onsdag": {
+			"clue": "Wednesday"
+		},
+		"torsdag": {
+			"clue": "Thursday"
+		},
+		"fredag": {
+			"clue": "Friday"
+		},
+		"lordag": {
+			"clue": "Saturday"
+		},
+		"sondag": {
+			"clue": "Sunday"
+		}
+	}
+}

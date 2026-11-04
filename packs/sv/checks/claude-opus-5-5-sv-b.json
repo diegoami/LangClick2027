@@ -149,162 +149,162 @@
 		{
 			"key": "core/body-plurals/oga.sg",
 			"seen": "{\"item\":\"form:body-plurals:oga.sg\",\"text\":\"ett öga\",\"ipa\":\"/ɛt ˈø̂ːɡa/\",\"concepts\":[\"body-plurals\",\"word-accent\"],\"row\":\"oga\",\"col\":\"sg\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body-plurals/oga.pl",
 			"seen": "{\"item\":\"form:body-plurals:oga.pl\",\"text\":\"ögon\",\"ipa\":\"/ˈø̂ːɡɔn/\",\"concepts\":[\"body-plurals\",\"word-accent\"],\"row\":\"oga\",\"col\":\"pl\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body-plurals/ora.sg",
 			"seen": "{\"item\":\"form:body-plurals:ora.sg\",\"text\":\"ett öra\",\"ipa\":\"/ɛt ˈœ̂ːra/\",\"concepts\":[\"body-plurals\",\"word-accent\"],\"row\":\"ora\",\"col\":\"sg\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body-plurals/ora.pl",
 			"seen": "{\"item\":\"form:body-plurals:ora.pl\",\"text\":\"öron\",\"ipa\":\"/ˈœ̂ːrɔn/\",\"concepts\":[\"body-plurals\",\"word-accent\"],\"row\":\"ora\",\"col\":\"pl\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body-plurals/hand.sg",
 			"seen": "{\"item\":\"form:body-plurals:hand.sg\",\"text\":\"en hand\",\"ipa\":\"/ɛn hand/\",\"concepts\":[\"body-plurals\"],\"row\":\"hand\",\"col\":\"sg\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body-plurals/hand.pl",
-			"seen": "{\"item\":\"form:body-plurals:hand.pl\",\"text\":\"händer\",\"ipa\":\"/ˈhɛ̂ndɛr/\",\"concepts\":[\"body-plurals\",\"word-accent\"],\"row\":\"hand\",\"col\":\"pl\"}",
+			"seen": "{\"item\":\"form:body-plurals:hand.pl\",\"text\":\"händer\",\"ipa\":\"/ˈhɛ̌ndɛr/\",\"concepts\":[\"body-plurals\",\"word-accent\"],\"row\":\"hand\",\"col\":\"pl\"}",
 			"verdict": "pending"
 		},
 		{
 			"key": "core/body-plurals/fot.sg",
 			"seen": "{\"item\":\"form:body-plurals:fot.sg\",\"text\":\"en fot\",\"ipa\":\"/ɛn fuːt/\",\"concepts\":[\"body-plurals\"],\"row\":\"fot\",\"col\":\"sg\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body-plurals/fot.pl",
-			"seen": "{\"item\":\"form:body-plurals:fot.pl\",\"text\":\"fötter\",\"ipa\":\"/ˈfœ̂tːɛr/\",\"concepts\":[\"body-plurals\",\"word-accent\"],\"row\":\"fot\",\"col\":\"pl\"}",
+			"seen": "{\"item\":\"form:body-plurals:fot.pl\",\"text\":\"fötter\",\"ipa\":\"/ˈfœ̌tːɛr/\",\"concepts\":[\"body-plurals\",\"word-accent\"],\"row\":\"fot\",\"col\":\"pl\"}",
 			"verdict": "pending"
 		},
 		{
 			"key": "core/body-plurals/tand.sg",
 			"seen": "{\"item\":\"form:body-plurals:tand.sg\",\"text\":\"en tand\",\"ipa\":\"/ɛn tand/\",\"concepts\":[\"body-plurals\"],\"row\":\"tand\",\"col\":\"sg\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body-plurals/tand.pl",
-			"seen": "{\"item\":\"form:body-plurals:tand.pl\",\"text\":\"tänder\",\"ipa\":\"/ˈtɛ̂ndɛr/\",\"concepts\":[\"body-plurals\",\"word-accent\"],\"row\":\"tand\",\"col\":\"pl\"}",
+			"seen": "{\"item\":\"form:body-plurals:tand.pl\",\"text\":\"tänder\",\"ipa\":\"/ˈtɛ̌ndɛr/\",\"concepts\":[\"body-plurals\",\"word-accent\"],\"row\":\"tand\",\"col\":\"pl\"}",
 			"verdict": "pending"
 		},
 		{
 			"key": "core/body-plurals/kna.sg",
 			"seen": "{\"item\":\"form:body-plurals:kna.sg\",\"text\":\"ett knä\",\"ipa\":\"/ɛt knɛː/\",\"concepts\":[\"body-plurals\"],\"row\":\"kna\",\"col\":\"sg\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body-plurals/kna.pl",
 			"seen": "{\"item\":\"form:body-plurals:kna.pl\",\"text\":\"knän\",\"ipa\":\"/knɛːn/\",\"concepts\":[\"body-plurals\"],\"row\":\"kna\",\"col\":\"pl\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/huvud",
 			"seen": "{\"item\":\"word:huvud\",\"text\":\"huvud\",\"ipa\":\"/ˈhʉ̂ːvɵd/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/arm",
 			"seen": "{\"item\":\"word:arm\",\"text\":\"arm\",\"ipa\":\"/arm/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/hand",
 			"seen": "{\"item\":\"word:hand\",\"text\":\"hand\",\"ipa\":\"/hand/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/ben",
 			"seen": "{\"item\":\"word:ben\",\"text\":\"ben\",\"ipa\":\"/beːn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/fot",
 			"seen": "{\"item\":\"word:fot\",\"text\":\"fot\",\"ipa\":\"/fuːt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/mage",
 			"seen": "{\"item\":\"word:mage\",\"text\":\"mage\",\"ipa\":\"/ˈmɑ̂ːɡɛ/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/rygg",
 			"seen": "{\"item\":\"word:rygg\",\"text\":\"rygg\",\"ipa\":\"/rʏɡː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/hals",
 			"seen": "{\"item\":\"word:hals\",\"text\":\"hals\",\"ipa\":\"/hals/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/kna",
 			"seen": "{\"item\":\"word:knä\",\"text\":\"knä\",\"ipa\":\"/knɛː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/oga",
 			"seen": "{\"item\":\"word:öga\",\"text\":\"öga\",\"ipa\":\"/ˈø̂ːɡa/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/ora",
 			"seen": "{\"item\":\"word:öra\",\"text\":\"öra\",\"ipa\":\"/ˈœ̂ːra/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/nasa",
 			"seen": "{\"item\":\"word:näsa\",\"text\":\"näsa\",\"ipa\":\"/ˈnɛ̂ːsa/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/mun",
 			"seen": "{\"item\":\"word:mun\",\"text\":\"mun\",\"ipa\":\"/mɵnː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/body/tand",
 			"seen": "{\"item\":\"word:tand\",\"text\":\"tand\",\"ipa\":\"/tand/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/civil-status/gift",
 			"seen": "{\"item\":\"word:gift\",\"text\":\"gift\",\"ipa\":\"/jɪft/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/civil-status/ogift",
 			"seen": "{\"item\":\"word:ogift\",\"text\":\"ogift\",\"ipa\":\"/ˈûːˌjɪft/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/civil-status/sambo",
 			"seen": "{\"item\":\"word:sambo\",\"text\":\"sambo\",\"ipa\":\"/ˈsâmˌbuː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/civil-status/skild",
 			"seen": "{\"item\":\"word:skild\",\"text\":\"skild\",\"ipa\":\"/ɧɪld/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/civil-status/singel",
 			"seen": "{\"item\":\"word:singel\",\"text\":\"singel\",\"ipa\":\"/ˈsɪ̌ŋːɛl/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/civil-status/anka",
 			"seen": "{\"item\":\"word:änka\",\"text\":\"änka\",\"ipa\":\"/ˈɛ̂ŋka/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/clothes/troja",
@@ -447,6 +447,41 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/days/mandag",
+			"seen": "{\"item\":\"word:måndag\",\"text\":\"måndag\",\"ipa\":\"/ˈmɔ̂nˌdɑːɡ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/days/tisdag",
+			"seen": "{\"item\":\"word:tisdag\",\"text\":\"tisdag\",\"ipa\":\"/ˈtîːsˌdɑːɡ/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/days/onsdag",
+			"seen": "{\"item\":\"word:onsdag\",\"text\":\"onsdag\",\"ipa\":\"/ˈʊ̂nsˌdɑːɡ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/days/torsdag",
+			"seen": "{\"item\":\"word:torsdag\",\"text\":\"torsdag\",\"ipa\":\"/ˈtûːʂˌdɑːɡ/\",\"concepts\":[\"retroflex\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/days/fredag",
+			"seen": "{\"item\":\"word:fredag\",\"text\":\"fredag\",\"ipa\":\"/ˈfrêːˌdɑːɡ/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/days/lordag",
+			"seen": "{\"item\":\"word:lördag\",\"text\":\"lördag\",\"ipa\":\"/ˈlœ̂ːɖɑːɡ/\",\"concepts\":[\"word-accent\",\"retroflex\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/days/sondag",
+			"seen": "{\"item\":\"word:söndag\",\"text\":\"söndag\",\"ipa\":\"/ˈsœ̂nˌdɑːɡ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/en-ett/lagenhet.indef",
 			"seen": "{\"item\":\"form:en lägenhet\",\"text\":\"en lägenhet\",\"ipa\":\"/ɛn ˈlɛ̂ːɡɛnˌheːt/\",\"concepts\":[\"en-ett\",\"word-accent\"],\"row\":\"lagenhet\",\"col\":\"indef\"}",
 			"verdict": "ok"
@@ -509,92 +544,92 @@
 		{
 			"key": "core/family-sentences/min",
 			"seen": "{\"item\":\"sentence:family-sentences:min\",\"text\":\"min\",\"sentence\":\"Det här är ___ bror Erik.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family-sentences/mitt",
 			"seen": "{\"item\":\"sentence:family-sentences:mitt\",\"text\":\"mitt\",\"sentence\":\"Det här är ___ hus.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family-sentences/mina",
 			"seen": "{\"item\":\"sentence:family-sentences:mina\",\"text\":\"mina\",\"sentence\":\"Det här är ___ föräldrar.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family-sentences/syskon",
 			"seen": "{\"item\":\"sentence:family-sentences:syskon\",\"text\":\"syskon\",\"sentence\":\"Har du några ___?\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family-sentences/dotter",
 			"seen": "{\"item\":\"sentence:family-sentences:dotter\",\"text\":\"dotter\",\"sentence\":\"Vi har en ___ och en son.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family-sentences/gifta",
 			"seen": "{\"item\":\"sentence:family-sentences:gifta\",\"text\":\"gifta\",\"sentence\":\"Min fru och jag är ___.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/mamma",
 			"seen": "{\"item\":\"word:mamma\",\"text\":\"mamma\",\"ipa\":\"/ˈmâmːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/pappa",
 			"seen": "{\"item\":\"word:pappa\",\"text\":\"pappa\",\"ipa\":\"/ˈpâpːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/son",
 			"seen": "{\"item\":\"word:son\",\"text\":\"son\",\"ipa\":\"/soːn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/dotter",
 			"seen": "{\"item\":\"word:dotter\",\"text\":\"dotter\",\"ipa\":\"/ˈdɔ̂tːɛr/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/bror",
 			"seen": "{\"item\":\"word:bror\",\"text\":\"bror\",\"ipa\":\"/bruːr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/syster",
 			"seen": "{\"item\":\"word:syster\",\"text\":\"syster\",\"ipa\":\"/ˈsʏ̂stɛr/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/syskon",
 			"seen": "{\"item\":\"word:syskon\",\"text\":\"syskon\",\"ipa\":\"/ˈsʏ̂skɔn/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/barn",
 			"seen": "{\"item\":\"word:barn\",\"text\":\"barn\",\"ipa\":\"/bɑːɳ/\",\"concepts\":[\"retroflex\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/family/foraldrar",
-			"seen": "{\"item\":\"word:föräldrar\",\"text\":\"föräldrar\",\"ipa\":\"/fœˈrɛldrar/\"}",
+			"seen": "{\"item\":\"word:föräldrar\",\"text\":\"föräldrar\",\"ipa\":\"/fœˈrɛ̂ldrar/\"}",
 			"verdict": "pending"
 		},
 		{
 			"key": "core/family/mormor",
-			"seen": "{\"item\":\"word:mormor\",\"text\":\"mormor\",\"ipa\":\"/ˈmʊ̂rmʊr/\",\"concepts\":[\"word-accent\"]}",
+			"seen": "{\"item\":\"word:mormor\",\"text\":\"mormor\",\"ipa\":\"/ˈmʊ̂rˌmʊrː/\",\"concepts\":[\"word-accent\"]}",
 			"verdict": "pending"
 		},
 		{
 			"key": "core/family/farfar",
-			"seen": "{\"item\":\"word:farfar\",\"text\":\"farfar\",\"ipa\":\"/ˈfârfar/\"}",
+			"seen": "{\"item\":\"word:farfar\",\"text\":\"farfar\",\"ipa\":\"/ˈfârˌfarː/\"}",
 			"verdict": "pending"
 		},
 		{
 			"key": "core/family/kusin",
 			"seen": "{\"item\":\"word:kusin\",\"text\":\"kusin\",\"ipa\":\"/kɵˈsiːn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/food/brod",
@@ -654,7 +689,7 @@
 		{
 			"key": "core/food/vatten",
 			"seen": "{\"item\":\"word:vatten\",\"text\":\"vatten\",\"ipa\":\"/ˈvǎtːɛn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/furniture/sang",
@@ -709,37 +744,37 @@
 		{
 			"key": "core/health/huvudet",
 			"seen": "{\"item\":\"sentence:health:huvudet\",\"text\":\"huvudet\",\"sentence\":\"Jag har ont i ___.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/health/magen",
 			"seen": "{\"item\":\"sentence:health:magen\",\"text\":\"magen\",\"sentence\":\"Barnet har ont i ___.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/health/feber",
 			"seen": "{\"item\":\"sentence:health:feber\",\"text\":\"feber\",\"sentence\":\"Jag har hög ___.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/health/sjuk",
 			"seen": "{\"item\":\"sentence:health:sjuk\",\"text\":\"sjuk\",\"sentence\":\"Jag är ___ och stannar hemma.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/health/boka",
 			"seen": "{\"item\":\"sentence:health:boka\",\"text\":\"boka\",\"sentence\":\"Jag vill ___ en tid hos läkaren.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/health/hosta",
 			"seen": "{\"item\":\"sentence:health:hosta\",\"text\":\"hosta\",\"sentence\":\"Har ni något mot ___?\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/health/apoteket",
 			"seen": "{\"item\":\"sentence:health:apoteket\",\"text\":\"apoteket\",\"sentence\":\"Jag köper medicin på ___.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/home-sentences/koket",
@@ -872,6 +907,56 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/jobs/lakare",
+			"seen": "{\"item\":\"word:läkare\",\"text\":\"läkare\",\"ipa\":\"/ˈlɛ̂ːkarɛ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/jobs/larare",
+			"seen": "{\"item\":\"word:lärare\",\"text\":\"lärare\",\"ipa\":\"/ˈlæ̂ːrarɛ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/jobs/kock",
+			"seen": "{\"item\":\"word:kock\",\"text\":\"kock\",\"ipa\":\"/kɔkː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/jobs/frisor",
+			"seen": "{\"item\":\"word:frisör\",\"text\":\"frisör\",\"ipa\":\"/frɪˈsøːr/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/jobs/snickare",
+			"seen": "{\"item\":\"word:snickare\",\"text\":\"snickare\",\"ipa\":\"/ˈsnɪ̂kːarɛ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/jobs/stadare",
+			"seen": "{\"item\":\"word:städare\",\"text\":\"städare\",\"ipa\":\"/ˈstɛ̂ːdarɛ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/jobs/ingenjor",
+			"seen": "{\"item\":\"word:ingenjör\",\"text\":\"ingenjör\",\"ipa\":\"/ɪnɧɛˈnjøːr/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/jobs/polis",
+			"seen": "{\"item\":\"word:polis\",\"text\":\"polis\",\"ipa\":\"/pʊˈliːs/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/jobs/saljare",
+			"seen": "{\"item\":\"word:säljare\",\"text\":\"säljare\",\"ipa\":\"/ˈsɛ̂ljarɛ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/jobs/sjukskoterska",
+			"seen": "{\"item\":\"word:sjuksköterska\",\"text\":\"sjuksköterska\",\"ipa\":\"/ˈɧʉ̂ːkˌɧøːtɛʂka/\",\"concepts\":[\"word-accent\",\"retroflex\"]}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/long-short/tak",
 			"seen": "{\"item\":\"word:tak\",\"text\":\"tak\",\"ipa\":\"/tɑːk/\",\"concepts\":[\"vowel-length\"]}",
 			"verdict": "ok"
@@ -945,6 +1030,66 @@
 			"key": "core/meals/kvittot",
 			"seen": "{\"item\":\"sentence:meals:kvittot\",\"text\":\"kvittot\",\"sentence\":\"Får jag ___, tack?\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/months/jan",
+			"seen": "{\"item\":\"word:januari\",\"text\":\"januari\",\"ipa\":\"/janɵˈɑ̌ːrɪ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/feb",
+			"seen": "{\"item\":\"word:februari\",\"text\":\"februari\",\"ipa\":\"/fɛbrɵˈɑ̌ːrɪ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/mar",
+			"seen": "{\"item\":\"word:mars\",\"text\":\"mars\",\"ipa\":\"/maʂ/\",\"concepts\":[\"retroflex\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/apr",
+			"seen": "{\"item\":\"word:april\",\"text\":\"april\",\"ipa\":\"/aˈprɪlː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/maj",
+			"seen": "{\"item\":\"word:maj\",\"text\":\"maj\",\"ipa\":\"/maj/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/jun",
+			"seen": "{\"item\":\"word:juni\",\"text\":\"juni\",\"ipa\":\"/ˈjʉ̂ːnɪ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/jul",
+			"seen": "{\"item\":\"word:juli\",\"text\":\"juli\",\"ipa\":\"/ˈjʉ̂ːlɪ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/aug",
+			"seen": "{\"item\":\"word:augusti\",\"text\":\"augusti\",\"ipa\":\"/aʊˈɡɵ̌stɪ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/sep",
+			"seen": "{\"item\":\"word:september\",\"text\":\"september\",\"ipa\":\"/sɛpˈtɛ̌mbɛr/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/okt",
+			"seen": "{\"item\":\"word:oktober\",\"text\":\"oktober\",\"ipa\":\"/ɔkˈtuːbɛr/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/nov",
+			"seen": "{\"item\":\"word:november\",\"text\":\"november\",\"ipa\":\"/nʊˈvɛ̌mbɛr/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/months/dec",
+			"seen": "{\"item\":\"word:december\",\"text\":\"december\",\"ipa\":\"/deˈsɛ̌mbɛr/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/numbers/n0",
@@ -1154,61 +1299,121 @@
 		{
 			"key": "core/possessives/min.en",
 			"seen": "{\"item\":\"form:possessives:min.en\",\"text\":\"min\",\"ipa\":\"/mɪnː/\",\"concepts\":[\"possessives\"],\"row\":\"min\",\"col\":\"en\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/min.ett",
 			"seen": "{\"item\":\"form:possessives:min.ett\",\"text\":\"mitt\",\"ipa\":\"/mɪtː/\",\"concepts\":[\"possessives\"],\"row\":\"min\",\"col\":\"ett\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/min.pl",
 			"seen": "{\"item\":\"form:possessives:min.pl\",\"text\":\"mina\",\"ipa\":\"/ˈmîːna/\",\"concepts\":[\"possessives\"],\"row\":\"min\",\"col\":\"pl\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/din.en",
 			"seen": "{\"item\":\"form:possessives:din.en\",\"text\":\"din\",\"ipa\":\"/dɪnː/\",\"concepts\":[\"possessives\"],\"row\":\"din\",\"col\":\"en\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/din.ett",
 			"seen": "{\"item\":\"form:possessives:din.ett\",\"text\":\"ditt\",\"ipa\":\"/dɪtː/\",\"concepts\":[\"possessives\"],\"row\":\"din\",\"col\":\"ett\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/din.pl",
 			"seen": "{\"item\":\"form:possessives:din.pl\",\"text\":\"dina\",\"ipa\":\"/ˈdîːna/\",\"concepts\":[\"possessives\"],\"row\":\"din\",\"col\":\"pl\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/var.en",
 			"seen": "{\"item\":\"form:possessives:var.en\",\"text\":\"vår\",\"ipa\":\"/voːr/\",\"concepts\":[\"possessives\"],\"row\":\"var\",\"col\":\"en\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/var.ett",
 			"seen": "{\"item\":\"form:possessives:var.ett\",\"text\":\"vårt\",\"ipa\":\"/vɔʈː/\",\"concepts\":[\"possessives\",\"retroflex\"],\"row\":\"var\",\"col\":\"ett\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/var.pl",
 			"seen": "{\"item\":\"form:possessives:var.pl\",\"text\":\"våra\",\"ipa\":\"/ˈvôːra/\",\"concepts\":[\"possessives\"],\"row\":\"var\",\"col\":\"pl\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/er.en",
 			"seen": "{\"item\":\"form:possessives:er.en\",\"text\":\"er\",\"ipa\":\"/eːr/\",\"concepts\":[\"possessives\"],\"row\":\"er\",\"col\":\"en\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/er.ett",
 			"seen": "{\"item\":\"form:possessives:er.ett\",\"text\":\"ert\",\"ipa\":\"/eːʈ/\",\"concepts\":[\"possessives\",\"retroflex\"],\"row\":\"er\",\"col\":\"ett\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/possessives/er.pl",
 			"seen": "{\"item\":\"form:possessives:er.pl\",\"text\":\"era\",\"ipa\":\"/ˈêːra/\",\"concepts\":[\"possessives\"],\"row\":\"er\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/present/arbeta.inf",
+			"seen": "{\"item\":\"form:present:arbeta.inf\",\"text\":\"arbeta\",\"ipa\":\"/ˈârbeːta/\",\"concepts\":[\"present-tense\"],\"row\":\"arbeta\",\"col\":\"inf\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/arbeta.pres",
+			"seen": "{\"item\":\"form:present:arbeta.pres\",\"text\":\"arbetar\",\"ipa\":\"/ˈârbeːtar/\",\"concepts\":[\"present-tense\"],\"row\":\"arbeta\",\"col\":\"pres\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/jobba.inf",
+			"seen": "{\"item\":\"form:present:jobba.inf\",\"text\":\"jobba\",\"ipa\":\"/ˈjɔ̂bːa/\",\"concepts\":[\"present-tense\",\"word-accent\"],\"row\":\"jobba\",\"col\":\"inf\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/jobba.pres",
+			"seen": "{\"item\":\"form:present:jobba.pres\",\"text\":\"jobbar\",\"ipa\":\"/ˈjɔ̂bːar/\",\"concepts\":[\"present-tense\",\"word-accent\"],\"row\":\"jobba\",\"col\":\"pres\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/tala.inf",
+			"seen": "{\"item\":\"form:present:tala.inf\",\"text\":\"tala\",\"ipa\":\"/ˈtɑ̂ːla/\",\"concepts\":[\"present-tense\",\"word-accent\"],\"row\":\"tala\",\"col\":\"inf\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/tala.pres",
+			"seen": "{\"item\":\"form:present:tala.pres\",\"text\":\"talar\",\"ipa\":\"/ˈtɑ̂ːlar/\",\"concepts\":[\"present-tense\",\"word-accent\"],\"row\":\"tala\",\"col\":\"pres\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/lasa.inf",
+			"seen": "{\"item\":\"form:present:lasa.inf\",\"text\":\"läsa\",\"ipa\":\"/ˈlɛ̂ːsa/\",\"concepts\":[\"present-tense\",\"word-accent\"],\"row\":\"lasa\",\"col\":\"inf\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/lasa.pres",
+			"seen": "{\"item\":\"form:present:lasa.pres\",\"text\":\"läser\",\"ipa\":\"/ˈlɛ̌ːsɛr/\",\"concepts\":[\"present-tense\",\"word-accent\"],\"row\":\"lasa\",\"col\":\"pres\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/skriva.inf",
+			"seen": "{\"item\":\"form:present:skriva.inf\",\"text\":\"skriva\",\"ipa\":\"/ˈskrîːva/\",\"concepts\":[\"present-tense\"],\"row\":\"skriva\",\"col\":\"inf\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/skriva.pres",
+			"seen": "{\"item\":\"form:present:skriva.pres\",\"text\":\"skriver\",\"ipa\":\"/ˈskrǐːvɛr/\",\"concepts\":[\"present-tense\"],\"row\":\"skriva\",\"col\":\"pres\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/kora.inf",
+			"seen": "{\"item\":\"form:present:kora.inf\",\"text\":\"köra\",\"ipa\":\"/ˈɕœ̂ːra/\",\"concepts\":[\"present-tense\",\"word-accent\"],\"row\":\"kora\",\"col\":\"inf\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/present/kora.pres",
+			"seen": "{\"item\":\"form:present:kora.pres\",\"text\":\"kör\",\"ipa\":\"/ɕœːr/\",\"concepts\":[\"present-tense\"],\"row\":\"kora\",\"col\":\"pres\"}",
 			"verdict": "pending"
 		},
 		{
@@ -1332,6 +1537,46 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/time-sentences/klockan",
+			"seen": "{\"item\":\"sentence:time-sentences:klockan\",\"text\":\"klockan\",\"sentence\":\"Hur mycket är ___?\",\"concepts\":[\"telling-time\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/time-sentences/over",
+			"seen": "{\"item\":\"sentence:time-sentences:over\",\"text\":\"över\",\"sentence\":\"Klockan är kvart ___ fyra.\",\"concepts\":[\"telling-time\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/time-sentences/i",
+			"seen": "{\"item\":\"sentence:time-sentences:i\",\"text\":\"i\",\"sentence\":\"Klockan är kvart ___ fem.\",\"concepts\":[\"telling-time\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/time-sentences/halv",
+			"seen": "{\"item\":\"sentence:time-sentences:halv\",\"text\":\"halv\",\"sentence\":\"Klockan är ___ tre.\",\"concepts\":[\"telling-time\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/time-sentences/morgonen",
+			"seen": "{\"item\":\"sentence:time-sentences:morgonen\",\"text\":\"morgonen\",\"sentence\":\"Jag vaknar tidigt på ___.\",\"concepts\":[\"telling-time\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/time-sentences/kvallen",
+			"seen": "{\"item\":\"sentence:time-sentences:kvallen\",\"text\":\"kvällen\",\"sentence\":\"Vi äter middag på ___.\",\"concepts\":[\"telling-time\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/time-sentences/natten",
+			"seen": "{\"item\":\"sentence:time-sentences:natten\",\"text\":\"natten\",\"sentence\":\"Jag sover på ___.\",\"concepts\":[\"telling-time\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/time-sentences/gor",
+			"seen": "{\"item\":\"sentence:time-sentences:gor\",\"text\":\"gör\",\"sentence\":\"Vad ___ du i helgen?\",\"concepts\":[\"telling-time\"]}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/vowel-chart/i",
 			"seen": "{\"item\":\"vowel:i\",\"text\":\"i\",\"clue\":\"/iː/\",\"concepts\":[\"vowel-length\"],\"row\":\"close\",\"col\":\"front\"}",
 			"verdict": "ok"
@@ -1427,24 +1672,59 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/work-sentences/med",
+			"seen": "{\"item\":\"sentence:work-sentences:med\",\"text\":\"med\",\"sentence\":\"Vad jobbar du ___?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/work-sentences/som",
+			"seen": "{\"item\":\"sentence:work-sentences:som\",\"text\":\"som\",\"sentence\":\"Jag arbetar ___ sjuksköterska.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/work-sentences/jobbar",
+			"seen": "{\"item\":\"sentence:work-sentences:jobbar\",\"text\":\"jobbar\",\"sentence\":\"Hon ___ på ett sjukhus.\",\"alsoAccepted\":[\"arbetar\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/work-sentences/trivs",
+			"seen": "{\"item\":\"sentence:work-sentences:trivs\",\"text\":\"trivs\",\"sentence\":\"___ du på jobbet?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/work-sentences/borjar",
+			"seen": "{\"item\":\"sentence:work-sentences:borjar\",\"text\":\"börjar\",\"sentence\":\"Jag ___ klockan sju.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/work-sentences/lakare",
+			"seen": "{\"item\":\"sentence:work-sentences:lakare\",\"text\":\"läkare\",\"sentence\":\"Jag vill arbeta som ___ i framtiden.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/work-sentences/ledigt",
+			"seen": "{\"item\":\"sentence:work-sentences:ledigt\",\"text\":\"ledigt\",\"sentence\":\"Jag har ___ på lördagar.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "de-en/body/fot",
 			"seen": "{\"contrast\":\"Related to German Fuß.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/body/hals",
 			"seen": "{\"contrast\":\"The same word as German Hals.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/body/kna",
 			"seen": "{\"contrast\":\"Related to German Knie.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/body/ben",
 			"seen": "{\"contrast\":\"Like German Bein, it means leg; ben also means bone.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/clothes/skor",
@@ -1462,6 +1742,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "de-en/days/mandag",
+			"seen": "{\"contrast\":\"Related to German Montag.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/days/sondag",
+			"seen": "{\"contrast\":\"Related to German Sonntag.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "de-en/en-ett/hus.def",
 			"seen": "{\"contrast\":\"German has three genders and puts the article first: das Haus. Swedish has two, and adds the article as an ending: huset.\"}",
 			"verdict": "ok"
@@ -1469,22 +1759,22 @@
 		{
 			"key": "de-en/family/dotter",
 			"seen": "{\"contrast\":\"Related to German Tochter.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/family/bror",
 			"seen": "{\"contrast\":\"Related to German Bruder.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/family/syster",
 			"seen": "{\"contrast\":\"Related to German Schwester.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/family/syskon",
 			"seen": "{\"contrast\":\"Like German Geschwister: one word for brothers and sisters.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/food/brod",
@@ -1577,6 +1867,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "de-en/present/tala.pres",
+			"seen": "{\"contrast\":\"German changes the ending for each person (ich spreche, du sprichst); Swedish has one form: talar.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "de-en/sj-tj/sjo",
 			"seen": "{\"contrast\":\"Not German sch: the sound is made further back.\"}",
 			"verdict": "ok"
@@ -1595,6 +1890,11 @@
 			"key": "de-en/tens/n1000",
 			"seen": "{\"contrast\":\"The same word as German tausend.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "de-en/time-sentences/halv",
+			"seen": "{\"contrast\":\"As in German: halb drei is half past two.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "de-en/vowel-chart/y",
@@ -1652,6 +1952,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "de-en/work-sentences/trivs",
+			"seen": "{\"contrast\":\"No German equivalent of trivas: sich wohlfühlen comes closest.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/section/sounds",
 			"seen": "\"Sounds\"",
 			"verdict": "ok"
@@ -1699,11 +2004,21 @@
 		{
 			"key": "en/lesson/l07",
 			"seen": "\"Lesson 7: The family\"",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/lesson/l08",
 			"seen": "\"Lesson 8: The body and health\"",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l09",
+			"seen": "\"Lesson 9: Time\"",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/lesson/l10",
+			"seen": "\"Lesson 10: Work\"",
 			"verdict": "pending"
 		},
 		{
@@ -1764,21 +2079,31 @@
 		{
 			"key": "en/concept/adjective-agreement",
 			"seen": "{\"title\":\"The adjective agrees\",\"body\":\"After en, or with an en-word in the indefinite, an adjective has no ending: en röd tröja. With an ett-word it adds -t: ett rött paraply. In the plural it adds -a: röda skor. A long vowel becomes short before -t: grön, grönt. After a vowel, d or t, spelling writes tt: blå, blått; röd, rött; vit, vitt. blå has the plural blå or blåa. After den or a possessive the -a form is used too: min röda tröja.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/plurals",
 			"seen": "{\"title\":\"Five plurals\",\"body\":\"Plurals fall into groups. Most en-words in -a take -or: gurka, gurkor. Many other en-words take -ar (korv, korvar) or -er (banan, bananer). An ett-word ending in an unstressed vowel adds -n: äpple, äpplen; one stressed on its last vowel takes -er: paraply, paraplyer. An ett-word ending in a consonant often stays the same: ett ägg, två ägg. Learn each noun with its plural.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/possessives",
 			"seen": "{\"title\":\"My, your, our\",\"body\":\"min, din, vår and er agree with the noun like an adjective: min bror, mitt hus, mina föräldrar. hans (his) and hennes (her) never change. The grandparents are named by side: mormor is the mother's mother and farmor the father's mother.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/body-plurals",
-			"seen": "{\"title\":\"Plurals that change the vowel\",\"body\":\"A few nouns change their vowel in the plural: en hand, händer; en fot, fötter; en tand, tänder. öga and öra have the old plurals ögon and öron. These are learnt by heart.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"seen": "{\"title\":\"Plurals that change the vowel\",\"body\":\"A few nouns change their vowel in the plural: en hand, händer; en fot, fötter; en tand, tänder. öga and öra have the old plurals ögon and öron. These are learnt by heart. Like most words that were one syllable in Old Norse, händer, fötter and tänder take accent 1.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/telling-time",
+			"seen": "{\"title\":\"Half past is half to\",\"body\":\"Swedish counts the half hour towards the next hour: halv tre is half past two. Quarters are kvart över (past) and kvart i (to). For the parts of the day, på takes the definite form: på morgonen, på kvällen, på natten. In everyday speech the day names lose their g: måndag is said /ˈmɔ̂nda/.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/present-tense",
+			"seen": "{\"title\":\"One form for every person\",\"body\":\"A Swedish verb has one present form for every person: jag talar, du talar, vi talar. Verbs whose stem ends in a vowel take -r (talar, jobbar); most others take -er (läser, skriver), and a stem ending in r takes nothing (kör). With a job there is no article: jag är lärare.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
 			"verdict": "pending"
 		},
 		{
@@ -1789,117 +2114,117 @@
 		{
 			"key": "en/body-plurals",
 			"seen": "{\"title\":\"One and two\",\"summary\":\"Body words with plurals to learn by heart. Find the form for each cell.\",\"headers\":{\"oga\":\"eye\",\"ora\":\"ear\",\"hand\":\"hand\",\"fot\":\"foot\",\"tand\":\"tooth\",\"kna\":\"knee\",\"sg\":\"one\",\"pl\":\"more than one\"}}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body",
 			"seen": "{\"title\":\"The body\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/huvud",
 			"seen": "{\"clue\":\"head\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/arm",
 			"seen": "{\"clue\":\"arm\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/hand",
 			"seen": "{\"clue\":\"hand\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/ben",
 			"seen": "{\"clue\":\"leg\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/fot",
 			"seen": "{\"clue\":\"foot\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/mage",
 			"seen": "{\"clue\":\"stomach\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/rygg",
 			"seen": "{\"clue\":\"back\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/hals",
 			"seen": "{\"clue\":\"throat, neck\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/kna",
 			"seen": "{\"clue\":\"knee\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/oga",
 			"seen": "{\"clue\":\"eye\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/ora",
 			"seen": "{\"clue\":\"ear\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/nasa",
 			"seen": "{\"clue\":\"nose\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/mun",
 			"seen": "{\"clue\":\"mouth\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/body/tand",
 			"seen": "{\"clue\":\"tooth\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/civil-status",
 			"seen": "{\"title\":\"Civil status\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/civil-status/gift",
 			"seen": "{\"clue\":\"married\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/civil-status/ogift",
 			"seen": "{\"clue\":\"unmarried\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/civil-status/sambo",
 			"seen": "{\"clue\":\"living together, partner\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/civil-status/skild",
 			"seen": "{\"clue\":\"divorced\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/civil-status/singel",
 			"seen": "{\"clue\":\"single\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/civil-status/anka",
 			"seen": "{\"clue\":\"widow\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/clothes",
@@ -1962,6 +2287,46 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/days",
+			"seen": "{\"title\":\"Days of the week\",\"summary\":\"Each tile gives the day; find the Swedish. Day names take no capital letter.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/days/mandag",
+			"seen": "{\"clue\":\"Monday\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/days/tisdag",
+			"seen": "{\"clue\":\"Tuesday\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/days/onsdag",
+			"seen": "{\"clue\":\"Wednesday\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/days/torsdag",
+			"seen": "{\"clue\":\"Thursday\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/days/fredag",
+			"seen": "{\"clue\":\"Friday\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/days/lordag",
+			"seen": "{\"clue\":\"Saturday\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/days/sondag",
+			"seen": "{\"clue\":\"Sunday\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/en-ett",
 			"seen": "{\"title\":\"en and ett, and \\\"the\\\"\",\"summary\":\"Each noun with its article, and its definite form. Find the form for each cell.\",\"headers\":{\"lagenhet\":\"flat\",\"kok\":\"kitchen\",\"balkong\":\"balcony\",\"rum\":\"room\",\"hiss\":\"lift\",\"hus\":\"house\",\"indef\":\"a, an\",\"def\":\"the\"}}",
 			"verdict": "ok"
@@ -1969,102 +2334,102 @@
 		{
 			"key": "en/family-sentences",
 			"seen": "{\"title\":\"Talking about the family\",\"summary\":\"Choose or type the word that fits the gap.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family-sentences/min",
 			"seen": "{\"sentenceGloss\":\"This is my brother Erik.\",\"note\":\"en bror: min.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family-sentences/mitt",
 			"seen": "{\"sentenceGloss\":\"This is my house.\",\"note\":\"ett hus: mitt.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family-sentences/mina",
 			"seen": "{\"sentenceGloss\":\"These are my parents.\",\"note\":\"Plural: mina.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family-sentences/syskon",
 			"seen": "{\"sentenceGloss\":\"Do you have any brothers or sisters?\",\"note\":\"ett syskon, two syskon: the plural is the same.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family-sentences/dotter",
 			"seen": "{\"sentenceGloss\":\"We have a daughter and a son.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family-sentences/gifta",
 			"seen": "{\"sentenceGloss\":\"My wife and I are married.\",\"note\":\"gift takes -a in the plural.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family",
 			"seen": "{\"title\":\"The family\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/mamma",
 			"seen": "{\"clue\":\"mum\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/pappa",
 			"seen": "{\"clue\":\"dad\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/son",
 			"seen": "{\"clue\":\"son\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/dotter",
 			"seen": "{\"clue\":\"daughter\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/bror",
 			"seen": "{\"clue\":\"brother\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/syster",
 			"seen": "{\"clue\":\"sister\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/syskon",
 			"seen": "{\"clue\":\"brothers and sisters\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/barn",
 			"seen": "{\"clue\":\"child, children\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/foraldrar",
 			"seen": "{\"clue\":\"parents\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/mormor",
 			"seen": "{\"clue\":\"grandmother (mother's mother)\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/farfar",
 			"seen": "{\"clue\":\"grandfather (father's father)\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/family/kusin",
 			"seen": "{\"clue\":\"cousin\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/food",
@@ -2189,42 +2554,42 @@
 		{
 			"key": "en/health",
 			"seen": "{\"title\":\"At the doctor and the pharmacy\",\"summary\":\"Choose or type the word that fits the gap.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/health/huvudet",
 			"seen": "{\"sentenceGloss\":\"I have a headache.\",\"note\":\"ha ont i, to hurt in: ont i huvudet, a headache.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/health/magen",
 			"seen": "{\"sentenceGloss\":\"The child has a stomach ache.\",\"note\":\"en mage, magen.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/health/feber",
 			"seen": "{\"sentenceGloss\":\"I have a high temperature.\",\"note\":\"en feber: no article after ha here.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/health/sjuk",
 			"seen": "{\"sentenceGloss\":\"I am ill and am staying at home.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/health/boka",
 			"seen": "{\"sentenceGloss\":\"I would like to book an appointment with the doctor.\",\"note\":\"After vill the verb stays in the infinitive.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/health/hosta",
 			"seen": "{\"sentenceGloss\":\"Do you have something for a cough?\",\"note\":\"en hosta, a cough.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/health/apoteket",
 			"seen": "{\"sentenceGloss\":\"I buy medicine at the pharmacy.\",\"note\":\"ett apotek, apoteket.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/home-sentences",
@@ -2372,6 +2737,61 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/jobs",
+			"seen": "{\"title\":\"Jobs\",\"summary\":\"Each tile gives the job; find the Swedish.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/jobs/lakare",
+			"seen": "{\"clue\":\"doctor\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/jobs/larare",
+			"seen": "{\"clue\":\"teacher\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/jobs/kock",
+			"seen": "{\"clue\":\"cook, chef\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/jobs/frisor",
+			"seen": "{\"clue\":\"hairdresser\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/jobs/snickare",
+			"seen": "{\"clue\":\"carpenter\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/jobs/stadare",
+			"seen": "{\"clue\":\"cleaner\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/jobs/ingenjor",
+			"seen": "{\"clue\":\"engineer\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/jobs/polis",
+			"seen": "{\"clue\":\"police officer\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/jobs/saljare",
+			"seen": "{\"clue\":\"salesperson\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/jobs/sjukskoterska",
+			"seen": "{\"clue\":\"nurse\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/long-short",
 			"seen": "{\"title\":\"Long and short\",\"summary\":\"Pairs that only length tells apart. Each tile gives the meaning; find the word.\"}",
 			"verdict": "ok"
@@ -2455,6 +2875,71 @@
 			"key": "en/meals/kvittot",
 			"seen": "{\"sentenceGloss\":\"May I have the receipt, please?\",\"note\":\"ett kvitto, kvittot.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/months",
+			"seen": "{\"title\":\"Months\",\"summary\":\"Each tile gives the month; find the Swedish. Month names take no capital letter.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/jan",
+			"seen": "{\"clue\":\"January\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/feb",
+			"seen": "{\"clue\":\"February\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/mar",
+			"seen": "{\"clue\":\"March\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/apr",
+			"seen": "{\"clue\":\"April\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/maj",
+			"seen": "{\"clue\":\"May\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/jun",
+			"seen": "{\"clue\":\"June\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/jul",
+			"seen": "{\"clue\":\"July\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/aug",
+			"seen": "{\"clue\":\"August\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/sep",
+			"seen": "{\"clue\":\"September\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/okt",
+			"seen": "{\"clue\":\"October\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/nov",
+			"seen": "{\"clue\":\"November\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/months/dec",
+			"seen": "{\"clue\":\"December\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/numbers",
@@ -2544,6 +3029,11 @@
 		{
 			"key": "en/possessives",
 			"seen": "{\"title\":\"My, your, our\",\"summary\":\"A possessive agrees like an adjective. Find the form for each cell.\",\"headers\":{\"min\":\"my\",\"din\":\"your (one person)\",\"var\":\"our\",\"er\":\"your (more than one)\",\"en\":\"with an en-word\",\"ett\":\"with an ett-word\",\"pl\":\"plural\"}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/present",
+			"seen": "{\"title\":\"Verbs in the present\",\"summary\":\"One present form for every person. Find the form for each cell.\",\"headers\":{\"arbeta\":\"work\",\"jobba\":\"work (everyday)\",\"tala\":\"speak\",\"lasa\":\"read\",\"skriva\":\"write\",\"kora\":\"drive\",\"inf\":\"to …\",\"pres\":\"I, you, she … (now)\"}}",
 			"verdict": "pending"
 		},
 		{
@@ -2652,6 +3142,51 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/time-sentences",
+			"seen": "{\"title\":\"Telling the time\",\"summary\":\"The clock, the parts of the day and plans. Choose or type the word that fits the gap.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/time-sentences/klockan",
+			"seen": "{\"sentenceGloss\":\"What time is it?\",\"note\":\"Also: Vad är klockan?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/time-sentences/over",
+			"seen": "{\"sentenceGloss\":\"It is quarter past four.\",\"note\":\"kvart över, quarter past.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/time-sentences/i",
+			"seen": "{\"sentenceGloss\":\"It is quarter to five.\",\"note\":\"kvart i, quarter to.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/time-sentences/halv",
+			"seen": "{\"sentenceGloss\":\"It is half past two.\",\"note\":\"halv tre is half way to three: half past two.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/time-sentences/morgonen",
+			"seen": "{\"sentenceGloss\":\"I wake up early in the morning.\",\"note\":\"på morgonen, in the morning.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/time-sentences/kvallen",
+			"seen": "{\"sentenceGloss\":\"We have dinner in the evening.\",\"note\":\"på kvällen, in the evening.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/time-sentences/natten",
+			"seen": "{\"sentenceGloss\":\"I sleep at night.\",\"note\":\"på natten, at night.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/time-sentences/gor",
+			"seen": "{\"sentenceGloss\":\"What are you doing at the weekend?\",\"note\":\"göra, to do: gör.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/vowel-chart",
 			"seen": "{\"title\":\"The nine long vowels\",\"summary\":\"The long vowels by tongue position, as an IPA chart. Each cell gives the sound; find its letter.\",\"headers\":{\"close\":\"Close\",\"mid\":\"Close-mid\",\"openmid\":\"Open-mid\",\"open\":\"Open\",\"front\":\"Front\",\"rounded\":\"Front rounded\",\"central\":\"Central\",\"back\":\"Back\"}}",
 			"verdict": "ok"
@@ -2732,24 +3267,64 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/work-sentences",
+			"seen": "{\"title\":\"At work\",\"summary\":\"Talking about your job. Choose or type the word that fits the gap.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/work-sentences/med",
+			"seen": "{\"sentenceGloss\":\"What do you do for work?\",\"note\":\"jobba med, to work with: what your job is.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/work-sentences/som",
+			"seen": "{\"sentenceGloss\":\"I work as a nurse.\",\"note\":\"som, as: no article before the job.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/work-sentences/jobbar",
+			"seen": "{\"sentenceGloss\":\"She works at a hospital.\",\"note\":\"jobba and arbeta mean the same.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/work-sentences/trivs",
+			"seen": "{\"sentenceGloss\":\"Do you like your job?\",\"note\":\"trivas, to be happy somewhere: trivs.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/work-sentences/borjar",
+			"seen": "{\"sentenceGloss\":\"I start at seven.\",\"note\":\"börja, to start.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/work-sentences/lakare",
+			"seen": "{\"sentenceGloss\":\"I want to work as a doctor in the future.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/work-sentences/ledigt",
+			"seen": "{\"sentenceGloss\":\"I have Saturdays off.\",\"note\":\"ha ledigt, to be off work.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en-en/body/fot",
 			"seen": "{\"contrast\":\"Related to English foot.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/body/tand",
 			"seen": "{\"contrast\":\"Related to English tooth.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/body/ben",
-			"seen": "{\"contrast\":\"Means leg, not bone; ben also means bone, as English bone.\"}",
+			"seen": "{\"contrast\":\"Means leg, and also bone; in the sense bone it is related to English bone.\"}",
 			"verdict": "pending"
 		},
 		{
 			"key": "en-en/body/kna",
 			"seen": "{\"contrast\":\"Related to English knee; the k is said.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/clothes/skjorta",
@@ -2764,6 +3339,21 @@
 		{
 			"key": "en-en/colours/rod.ett",
 			"seen": "{\"contrast\":\"English adjectives don't change with the noun; Swedish ones agree with it: en röd tröja, ett rött paraply.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en-en/days/tisdag",
+			"seen": "{\"contrast\":\"Like Tuesday, named after the god Tyr.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/days/torsdag",
+			"seen": "{\"contrast\":\"Like Thursday, named after Thor.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/days/fredag",
+			"seen": "{\"contrast\":\"Like Friday, named after Frigg.\"}",
 			"verdict": "pending"
 		},
 		{
@@ -2774,17 +3364,17 @@
 		{
 			"key": "en-en/family/dotter",
 			"seen": "{\"contrast\":\"Related to English daughter.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/family/bror",
 			"seen": "{\"contrast\":\"Related to English brother.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/family/syster",
 			"seen": "{\"contrast\":\"Related to English sister.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/food/brod",
@@ -2862,6 +3452,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en-en/present/tala.pres",
+			"seen": "{\"contrast\":\"English adds -s only for he, she and it; Swedish has one form for all: talar.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en-en/sj-tj/sjo",
 			"seen": "{\"contrast\":\"Not the sh of \\\"show\\\": the tongue is drawn back and the sound is breathier.\"}",
 			"verdict": "ok"
@@ -2880,6 +3475,11 @@
 			"key": "en-en/tens/n1000",
 			"seen": "{\"contrast\":\"The same word as English thousand.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en-en/time-sentences/halv",
+			"seen": "{\"contrast\":\"Not half past three: Swedish counts towards the coming hour.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en-en/vowel-chart/y",

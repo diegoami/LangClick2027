@@ -106,6 +106,30 @@
 					"url": "https://www.hejsvenska.se/index1.html"
 				}
 			]
+		},
+		{
+			"id": "l09",
+			"section": "themes",
+			"units": ["days", "months", "time-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 7: Tid",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l10",
+			"section": "themes",
+			"units": ["jobs", "present", "work-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 8: Jobb",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
 		}
 	]
 }

@@ -76,20 +76,20 @@
 			"id": "foraldrar",
 			"item": "word:föräldrar",
 			"text": "föräldrar",
-			"ipa": "/fœˈrɛldrar/"
+			"ipa": "/fœˈrɛ̂ldrar/"
 		},
 		{
 			"id": "mormor",
 			"item": "word:mormor",
 			"text": "mormor",
-			"ipa": "/ˈmʊ̂rmʊr/",
+			"ipa": "/ˈmʊ̂rˌmʊrː/",
 			"concepts": ["word-accent"]
 		},
 		{
 			"id": "farfar",
 			"item": "word:farfar",
 			"text": "farfar",
-			"ipa": "/ˈfârfar/"
+			"ipa": "/ˈfârˌfarː/"
 		},
 		{
 			"id": "kusin",

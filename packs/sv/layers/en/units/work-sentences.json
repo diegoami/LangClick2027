@@ -1,0 +1,33 @@
+{
+	"title": "At work",
+	"summary": "Talking about your job. Choose or type the word that fits the gap.",
+	"cells": {
+		"med": {
+			"sentenceGloss": "What do you do for work?",
+			"note": "jobba med, to work with: what your job is."
+		},
+		"som": {
+			"sentenceGloss": "I work as a nurse.",
+			"note": "som, as: no article before the job."
+		},
+		"jobbar": {
+			"sentenceGloss": "She works at a hospital.",
+			"note": "jobba and arbeta mean the same."
+		},
+		"trivs": {
+			"sentenceGloss": "Do you like your job?",
+			"note": "trivas, to be happy somewhere: trivs."
+		},
+		"borjar": {
+			"sentenceGloss": "I start at seven.",
+			"note": "börja, to start."
+		},
+		"lakare": {
+			"sentenceGloss": "I want to work as a doctor in the future."
+		},
+		"ledigt": {
+			"sentenceGloss": "I have Saturdays off.",
+			"note": "ha ledigt, to be off work."
+		}
+	}
+}

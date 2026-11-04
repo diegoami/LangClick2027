@@ -1,0 +1,67 @@
+{
+	"id": "work-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "med",
+			"item": "sentence:work-sentences:med",
+			"text": "med",
+			"sentence": "Vad jobbar du ___?"
+		},
+		{
+			"id": "som",
+			"item": "sentence:work-sentences:som",
+			"text": "som",
+			"sentence": "Jag arbetar ___ sjuksköterska."
+		},
+		{
+			"id": "jobbar",
+			"item": "sentence:work-sentences:jobbar",
+			"text": "jobbar",
+			"sentence": "Hon ___ på ett sjukhus.",
+			"alsoAccepted": ["arbetar"]
+		},
+		{
+			"id": "trivs",
+			"item": "sentence:work-sentences:trivs",
+			"text": "trivs",
+			"sentence": "___ du på jobbet?"
+		},
+		{
+			"id": "borjar",
+			"item": "sentence:work-sentences:borjar",
+			"text": "börjar",
+			"sentence": "Jag ___ klockan sju."
+		},
+		{
+			"id": "lakare",
+			"item": "sentence:work-sentences:lakare",
+			"text": "läkare",
+			"sentence": "Jag vill arbeta som ___ i framtiden."
+		},
+		{
+			"id": "ledigt",
+			"item": "sentence:work-sentences:ledigt",
+			"text": "ledigt",
+			"sentence": "Jag har ___ på lördagar."
+		}
+	]
+}

@@ -34,6 +34,12 @@
 		},
 		"l08": {
 			"title": "Lesson 8: The body and health"
+		},
+		"l09": {
+			"title": "Lesson 9: Time"
+		},
+		"l10": {
+			"title": "Lesson 10: Work"
 		}
 	},
 	"concepts": {
@@ -219,7 +225,35 @@
 		},
 		"body-plurals": {
 			"title": "Plurals that change the vowel",
-			"body": "A few nouns change their vowel in the plural: en hand, händer; en fot, fötter; en tand, tänder. öga and öra have the old plurals ögon and öron. These are learnt by heart.",
+			"body": "A few nouns change their vowel in the plural: en hand, händer; en fot, fötter; en tand, tänder. öga and öra have the old plurals ögon and öron. These are learnt by heart. Like most words that were one syllable in Old Norse, händer, fötter and tänder take accent 1.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"telling-time": {
+			"title": "Half past is half to",
+			"body": "Swedish counts the half hour towards the next hour: halv tre is half past two. Quarters are kvart över (past) and kvart i (to). For the parts of the day, på takes the definite form: på morgonen, på kvällen, på natten. In everyday speech the day names lose their g: måndag is said /ˈmɔ̂nda/.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"present-tense": {
+			"title": "One form for every person",
+			"body": "A Swedish verb has one present form for every person: jag talar, du talar, vi talar. Verbs whose stem ends in a vowel take -r (talar, jobbar); most others take -er (läser, skriver), and a stem ending in r takes nothing (kör). With a job there is no article: jag är lärare.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",

@@ -1,0 +1,72 @@
+{
+	"id": "days",
+	"layout": {
+		"type": "grid",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "mandag",
+			"item": "word:måndag",
+			"text": "måndag",
+			"ipa": "/ˈmɔ̂nˌdɑːɡ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "tisdag",
+			"item": "word:tisdag",
+			"text": "tisdag",
+			"ipa": "/ˈtîːsˌdɑːɡ/"
+		},
+		{
+			"id": "onsdag",
+			"item": "word:onsdag",
+			"text": "onsdag",
+			"ipa": "/ˈʊ̂nsˌdɑːɡ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "torsdag",
+			"item": "word:torsdag",
+			"text": "torsdag",
+			"ipa": "/ˈtûːʂˌdɑːɡ/",
+			"concepts": ["retroflex"]
+		},
+		{
+			"id": "fredag",
+			"item": "word:fredag",
+			"text": "fredag",
+			"ipa": "/ˈfrêːˌdɑːɡ/"
+		},
+		{
+			"id": "lordag",
+			"item": "word:lördag",
+			"text": "lördag",
+			"ipa": "/ˈlœ̂ːɖɑːɡ/",
+			"concepts": ["word-accent", "retroflex"]
+		},
+		{
+			"id": "sondag",
+			"item": "word:söndag",
+			"text": "söndag",
+			"ipa": "/ˈsœ̂nˌdɑːɡ/",
+			"concepts": ["word-accent"]
+		}
+	],
+	"dealAll": true
+}

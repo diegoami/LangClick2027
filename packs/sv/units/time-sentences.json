@@ -1,0 +1,80 @@
+{
+	"id": "time-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "klockan",
+			"item": "sentence:time-sentences:klockan",
+			"text": "klockan",
+			"sentence": "Hur mycket är ___?",
+			"concepts": ["telling-time"]
+		},
+		{
+			"id": "over",
+			"item": "sentence:time-sentences:over",
+			"text": "över",
+			"sentence": "Klockan är kvart ___ fyra.",
+			"concepts": ["telling-time"]
+		},
+		{
+			"id": "i",
+			"item": "sentence:time-sentences:i",
+			"text": "i",
+			"sentence": "Klockan är kvart ___ fem.",
+			"concepts": ["telling-time"]
+		},
+		{
+			"id": "halv",
+			"item": "sentence:time-sentences:halv",
+			"text": "halv",
+			"sentence": "Klockan är ___ tre.",
+			"concepts": ["telling-time"]
+		},
+		{
+			"id": "morgonen",
+			"item": "sentence:time-sentences:morgonen",
+			"text": "morgonen",
+			"sentence": "Jag vaknar tidigt på ___.",
+			"concepts": ["telling-time"]
+		},
+		{
+			"id": "kvallen",
+			"item": "sentence:time-sentences:kvallen",
+			"text": "kvällen",
+			"sentence": "Vi äter middag på ___.",
+			"concepts": ["telling-time"]
+		},
+		{
+			"id": "natten",
+			"item": "sentence:time-sentences:natten",
+			"text": "natten",
+			"sentence": "Jag sover på ___.",
+			"concepts": ["telling-time"]
+		},
+		{
+			"id": "gor",
+			"item": "sentence:time-sentences:gor",
+			"text": "gör",
+			"sentence": "Vad ___ du i helgen?",
+			"concepts": ["telling-time"]
+		}
+	]
+}
