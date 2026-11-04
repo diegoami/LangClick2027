@@ -189,107 +189,107 @@
 		{
 			"key": "core/numbers/n0",
 			"seen": "{\"item\":\"word:noll\",\"text\":\"noll\",\"ipa\":\"/nɔlː/\",\"clue\":\"0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n1",
 			"seen": "{\"item\":\"word:ett\",\"text\":\"ett\",\"ipa\":\"/ɛtː/\",\"clue\":\"1\",\"alsoAccepted\":[\"en\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n2",
 			"seen": "{\"item\":\"word:två\",\"text\":\"två\",\"ipa\":\"/tvoː/\",\"clue\":\"2\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n3",
 			"seen": "{\"item\":\"word:tre\",\"text\":\"tre\",\"ipa\":\"/treː/\",\"clue\":\"3\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n4",
 			"seen": "{\"item\":\"word:fyra\",\"text\":\"fyra\",\"ipa\":\"/ˈfŷːra/\",\"clue\":\"4\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n5",
 			"seen": "{\"item\":\"word:fem\",\"text\":\"fem\",\"ipa\":\"/fɛmː/\",\"clue\":\"5\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n6",
 			"seen": "{\"item\":\"word:sex\",\"text\":\"sex\",\"ipa\":\"/sɛks/\",\"clue\":\"6\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n7",
 			"seen": "{\"item\":\"word:sju\",\"text\":\"sju\",\"ipa\":\"/ɧʉː/\",\"clue\":\"7\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n8",
 			"seen": "{\"item\":\"word:åtta\",\"text\":\"åtta\",\"ipa\":\"/ˈɔ̂tːa/\",\"clue\":\"8\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n9",
 			"seen": "{\"item\":\"word:nio\",\"text\":\"nio\",\"ipa\":\"/ˈnîːʊ/\",\"clue\":\"9\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n10",
 			"seen": "{\"item\":\"word:tio\",\"text\":\"tio\",\"ipa\":\"/ˈtîːʊ/\",\"clue\":\"10\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n11",
 			"seen": "{\"item\":\"word:elva\",\"text\":\"elva\",\"ipa\":\"/ˈɛ̂lva/\",\"clue\":\"11\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n12",
 			"seen": "{\"item\":\"word:tolv\",\"text\":\"tolv\",\"ipa\":\"/tɔlv/\",\"clue\":\"12\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n13",
 			"seen": "{\"item\":\"word:tretton\",\"text\":\"tretton\",\"ipa\":\"/ˈtrɛ̂tːɔn/\",\"clue\":\"13\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n14",
 			"seen": "{\"item\":\"word:fjorton\",\"text\":\"fjorton\",\"ipa\":\"/ˈfjûːʈɔn/\",\"clue\":\"14\",\"concepts\":[\"retroflex\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n15",
 			"seen": "{\"item\":\"word:femton\",\"text\":\"femton\",\"ipa\":\"/ˈfɛ̂mtɔn/\",\"clue\":\"15\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n16",
 			"seen": "{\"item\":\"word:sexton\",\"text\":\"sexton\",\"ipa\":\"/ˈsɛ̂kstɔn/\",\"clue\":\"16\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n17",
 			"seen": "{\"item\":\"word:sjutton\",\"text\":\"sjutton\",\"ipa\":\"/ˈɧɵ̂tːɔn/\",\"clue\":\"17\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n18",
 			"seen": "{\"item\":\"word:arton\",\"text\":\"arton\",\"ipa\":\"/ˈɑ̂ːʈɔn/\",\"clue\":\"18\",\"concepts\":[\"word-accent\",\"retroflex\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n19",
 			"seen": "{\"item\":\"word:nitton\",\"text\":\"nitton\",\"ipa\":\"/ˈnɪ̂tːɔn/\",\"clue\":\"19\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/numbers/n20",
 			"seen": "{\"item\":\"word:tjugo\",\"text\":\"tjugo\",\"ipa\":\"/ˈɕʉ̂ːɡʊ/\",\"clue\":\"20\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/sj-tj/sjo",
@@ -334,47 +334,47 @@
 		{
 			"key": "core/tens/n30",
 			"seen": "{\"item\":\"word:trettio\",\"text\":\"trettio\",\"ipa\":\"/ˈtrɛ̂tːɪʊ/\",\"clue\":\"30\",\"concepts\":[\"word-accent\",\"everyday-numbers\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/tens/n40",
 			"seen": "{\"item\":\"word:fyrtio\",\"text\":\"fyrtio\",\"ipa\":\"/ˈfœ̂ʈːɪʊ/\",\"clue\":\"40\",\"concepts\":[\"word-accent\",\"everyday-numbers\",\"retroflex\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/tens/n50",
 			"seen": "{\"item\":\"word:femtio\",\"text\":\"femtio\",\"ipa\":\"/ˈfɛ̂mtɪʊ/\",\"clue\":\"50\",\"concepts\":[\"word-accent\",\"everyday-numbers\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/tens/n60",
 			"seen": "{\"item\":\"word:sextio\",\"text\":\"sextio\",\"ipa\":\"/ˈsɛ̂kstɪʊ/\",\"clue\":\"60\",\"concepts\":[\"word-accent\",\"everyday-numbers\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/tens/n70",
 			"seen": "{\"item\":\"word:sjuttio\",\"text\":\"sjuttio\",\"ipa\":\"/ˈɧɵ̂tːɪʊ/\",\"clue\":\"70\",\"concepts\":[\"word-accent\",\"everyday-numbers\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/tens/n80",
 			"seen": "{\"item\":\"word:åttio\",\"text\":\"åttio\",\"ipa\":\"/ˈɔ̂tːɪʊ/\",\"clue\":\"80\",\"concepts\":[\"word-accent\",\"everyday-numbers\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/tens/n90",
 			"seen": "{\"item\":\"word:nittio\",\"text\":\"nittio\",\"ipa\":\"/ˈnɪ̂tːɪʊ/\",\"clue\":\"90\",\"concepts\":[\"word-accent\",\"everyday-numbers\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/tens/n100",
-			"seen": "{\"item\":\"word:hundra\",\"text\":\"hundra\",\"ipa\":\"/ˈhɵ̂ndra/\",\"clue\":\"100\",\"alsoAccepted\":[\"etthundra\"],\"concepts\":[\"word-accent\",\"everyday-numbers\"]}",
-			"verdict": "pending"
+			"seen": "{\"item\":\"word:hundra\",\"text\":\"hundra\",\"ipa\":\"/ˈhɵ̌ndra/\",\"clue\":\"100\",\"alsoAccepted\":[\"etthundra\"],\"concepts\":[\"word-accent\",\"everyday-numbers\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/tens/n1000",
 			"seen": "{\"item\":\"word:tusen\",\"text\":\"tusen\",\"ipa\":\"/ˈtʉ̌ːsɛn/\",\"clue\":\"1000\",\"alsoAccepted\":[\"ettusen\"],\"concepts\":[\"word-accent\",\"everyday-numbers\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/vowel-chart/i",
@@ -429,22 +429,22 @@
 		{
 			"key": "de-en/numbers/n3",
 			"seen": "{\"contrast\":\"The same word as German drei.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/numbers/n11",
 			"seen": "{\"contrast\":\"The same word as German elf.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/numbers/n12",
 			"seen": "{\"contrast\":\"The same word as German zwölf.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/numbers/n20",
-			"seen": "{\"contrast\":\"Not related to German zwanzig.\"}",
-			"verdict": "pending"
+			"seen": "{\"contrast\":\"Related to German zwanzig, though it no longer looks it: both come from \\\"two tens\\\".\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/sj-tj/sjo",
@@ -459,12 +459,12 @@
 		{
 			"key": "de-en/tens/n100",
 			"seen": "{\"contrast\":\"The same word as German hundert.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/tens/n1000",
 			"seen": "{\"contrast\":\"The same word as German tausend.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/vowel-chart/y",
@@ -504,7 +504,7 @@
 		{
 			"key": "en/section/basics",
 			"seen": "\"Basics\"",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/lesson/l01",
@@ -514,7 +514,7 @@
 		{
 			"key": "en/lesson/l02",
 			"seen": "\"Lesson 2: Numbers\"",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/own-letters",
@@ -544,12 +544,12 @@
 		{
 			"key": "en/concept/everyday-numbers",
 			"seen": "{\"title\":\"Numbers as they are said\",\"body\":\"The transcriptions give the careful forms. In everyday speech nio and tio are /ˈnîːɛ/ and /ˈtîːɛ/, and the tens drop their last vowel: trettio is /ˈtrɛ̂tːɪ/, fyrtio /ˈfœ̂ʈːɪ/. Hundra and tusen also come as etthundra and ettusen.\",\"sources\":[{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"},{\"title\":\"Wiktionary på svenska\",\"url\":\"https://sv.wiktionary.org/\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/retroflex",
-			"seen": "{\"title\":\"r with t, d, n, s or l\",\"body\":\"In Central Standard Swedish r merges with a following t, d, n, s or l into one sound made with the tongue tip curled back: ʈ, ɖ, ɳ, ʂ, ɭ. So fjorton is /ˈfjûːʈɔn/ and arton /ˈɑ̂ːʈɔn/, with no separate r.\",\"sources\":[{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
-			"verdict": "pending"
+			"seen": "{\"title\":\"r with t, d, n, s or l\",\"body\":\"In Central Standard Swedish r merges with a following t, d, n, s or l into one sound made with the tip of the tongue raised just behind the gum ridge: ʈ, ɖ, ɳ, ʂ, ɭ. So fjorton is /ˈfjûːʈɔn/ and arton /ˈɑ̂ːʈɔn/, with no separate r.\",\"sources\":[{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "en/alphabet",
@@ -604,27 +604,27 @@
 		{
 			"key": "en/numbers",
 			"seen": "{\"title\":\"Nought to twenty\",\"summary\":\"Each tile gives a number; find the word.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/numbers/n1",
 			"seen": "{\"note\":\"ett when counting; en before an en-word: en bok, ett hus.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/numbers/n9",
 			"seen": "{\"note\":\"Usually said /ˈnîːɛ/.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/numbers/n10",
 			"seen": "{\"note\":\"Usually said /ˈtîːɛ/.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/numbers/n7",
 			"seen": "{\"note\":\"The sj-sound, as in lesson 1.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/sj-tj",
@@ -674,22 +674,22 @@
 		{
 			"key": "en/tens",
 			"seen": "{\"title\":\"Tens, a hundred, a thousand\",\"summary\":\"Each tile gives a number; find the word.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/tens/n30",
 			"seen": "{\"note\":\"Usually said /ˈtrɛ̂tːɪ/: the tens drop their last vowel.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/tens/n100",
 			"seen": "{\"note\":\"Also etthundra, a hundred.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/tens/n1000",
 			"seen": "{\"note\":\"Also ettusen, a thousand.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/vowel-chart",
@@ -724,22 +724,22 @@
 		{
 			"key": "en-en/numbers/n3",
 			"seen": "{\"contrast\":\"The same word as English three.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/numbers/n11",
 			"seen": "{\"contrast\":\"The same word as English eleven.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/numbers/n12",
 			"seen": "{\"contrast\":\"The same word as English twelve.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/numbers/n20",
-			"seen": "{\"contrast\":\"Not related to twenty.\"}",
-			"verdict": "pending"
+			"seen": "{\"contrast\":\"Related to twenty, though it no longer looks it: both come from \\\"two tens\\\".\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/sj-tj/sjo",
@@ -754,12 +754,12 @@
 		{
 			"key": "en-en/tens/n100",
 			"seen": "{\"contrast\":\"The same word as English hundred.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/tens/n1000",
 			"seen": "{\"contrast\":\"The same word as English thousand.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/vowel-chart/y",

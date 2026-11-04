@@ -176,7 +176,7 @@ symbols of Wikipedia's Help:IPA/Swedish:
 - **r with a following t, d, n, s or l is one retroflex**, ʈ ɖ ɳ ʂ ɭ, and no r is
   written: fjorton /ˈfjûːʈɔn/, fyrtio /ˈfœ̂ʈːɪʊ/.
 - **Numbers are transcribed in their careful forms** (nio /ˈnîːʊ/, trettio
-  /ˈtrɛ̂tːɪʊ/), and a note gives the everyday ones (/ˈnîːɛ/, /ˈtrɛ̂tːɪ/).
+  /ˈtrɛ̂tːɪʊ/), and a note or the `everyday-numbers` concept gives the everyday ones (/ˈnîːɛ/, /ˈtrɛ̂tːɪ/).
 - **Word accent is marked on the stressed vowel** when another syllable follows it:
   accent 1 with ̌ and accent 2 with ̂, as in anden /ˈǎndɛn/ "the duck" and
   /ˈândɛn/ "the spirit". A stress on a word's last syllable takes no tone mark
