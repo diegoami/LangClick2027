@@ -1,0 +1,38 @@
+{
+	"title": "Politics and public services — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. Practise civic vocabulary without memorising a changing list of parties. Både … och adds two things; varken … eller excludes both. Även om and trots att introduce subordinate clauses.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "She speaks both Swedish and English.",
+			"note": "Både … och: both … and."
+		},
+		"s02": {
+			"sentenceGloss": "He drinks neither coffee nor tea.",
+			"note": "Varken … eller: neither … nor."
+		},
+		"s03": {
+			"sentenceGloss": "I will cycle even if it rains tomorrow.",
+			"note": "Även om introduces a hypothetical concession."
+		},
+		"s04": {
+			"sentenceGloss": "She arrived on time although the bus was late.",
+			"note": "Trots att introduces a factual concession."
+		},
+		"s05": {
+			"sentenceGloss": "We vote in an election.",
+			"note": "Ett val is an election here."
+		},
+		"s06": {
+			"sentenceGloss": "She is a member of a political party.",
+			"note": "Ett parti: a party."
+		},
+		"s07": {
+			"sentenceGloss": "The children go to school and learn to read.",
+			"note": "Gå i skolan: attend school."
+		},
+		"s08": {
+			"sentenceGloss": "Although it is raining, he arrives on time.",
+			"note": "After the initial subordinate clause comes the finite verb kommer."
+		}
+	}
+}

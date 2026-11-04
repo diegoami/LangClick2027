@@ -1,0 +1,38 @@
+{
+	"title": "Relationships and messages — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. Practise relationships, compliments and replies. Att introduces a statement clause. Swedish adjective endings still agree with gender and number.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "She says that she is happy.",
+			"note": "Att introduces what she says."
+		},
+		"s02": {
+			"sentenceGloss": "I know that she does not want to come.",
+			"note": "Subordinate clause: hon + inte + vill."
+		},
+		"s03": {
+			"sentenceGloss": "He is in love with his friend.",
+			"note": "Vara kär i: be in love with."
+		},
+		"s04": {
+			"sentenceGloss": "They no longer want to be together; they break up.",
+			"note": "Göra slut: end a relationship."
+		},
+		"s05": {
+			"sentenceGloss": "What a nice jumper! – Thank you!",
+			"note": "Tack accepts a compliment."
+		},
+		"s06": {
+			"sentenceGloss": "What a lovely house you have!",
+			"note": "Ett hus → vilket fint hus."
+		},
+		"s07": {
+			"sentenceGloss": "What lovely flowers!",
+			"note": "Plural blommor takes fina."
+		},
+		"s08": {
+			"sentenceGloss": "We are talking about gender equality.",
+			"note": "Prata om: talk about."
+		}
+	}
+}

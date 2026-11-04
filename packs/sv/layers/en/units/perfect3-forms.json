@@ -1,0 +1,14 @@
+{
+	"title": "Present, preterite and supine",
+	"summary": "The supine follows har to make the perfect. The column asks for the supine alone, without har.",
+	"headers": {
+		"read": "read",
+		"walk": "go on foot",
+		"eat": "eat",
+		"come": "come",
+		"present": "Present",
+		"past": "Preterite",
+		"supine": "Supine (har …)"
+	},
+	"cells": {}
+}

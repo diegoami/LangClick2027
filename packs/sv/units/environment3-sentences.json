@@ -1,0 +1,80 @@
+{
+	"id": "environment3-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: Swedish entries (CC BY-SA)",
+			"url": "https://en.wiktionary.org/wiki/Category:Swedish_lemmas"
+		},
+		{
+			"title": "Swedish grammar: clause structure and inflection",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:environment3-sentences:s01",
+			"text": "billigare",
+			"sentence": "Den kostar mindre; den är ___.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:environment3-sentences:s02",
+			"text": "än",
+			"sentence": "Tåget är snabbare ___ cykeln.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:environment3-sentences:s03",
+			"text": "bättre",
+			"sentence": "Det här går bra, men det där går ännu ___.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:environment3-sentences:s04",
+			"text": "för att",
+			"sentence": "Vi släcker lamporna ___ spara el.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:environment3-sentences:s05",
+			"text": "vatten",
+			"sentence": "Stäng kranen för att spara ___.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:environment3-sentences:s06",
+			"text": "glas",
+			"sentence": "Flaskan är inte av plast utan av ___.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:environment3-sentences:s07",
+			"text": "loppis",
+			"sentence": "Vi köper begagnade saker på en ___.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:environment3-sentences:s08",
+			"text": "sorterar",
+			"sentence": "Vi ___ avfallet innan det återvinns.",
+			"concepts": ["environment3-usage"]
+		}
+	]
+}

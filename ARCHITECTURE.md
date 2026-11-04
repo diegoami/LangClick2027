@@ -35,7 +35,13 @@ explain in. Interface text comes from `locales/`. Pack text comes in layers:
 
 `localizeUnit` merges the three into the `LocalUnit` every screen draws, so no screen
 knows about layers. Everything is read through `PackSource` in `packs.ts`. Today that
-is the local `packs/` folder; v0.8.0 puts downloads behind the same interface (#6).
+is the local `packs/` folder; the deferred downloads proposal puts downloads behind the same interface (#6).
+
+The Swedish pack's `level3` section adds lessons 25–36 with the existing table, grid
+and sentence layouts. `packs/sv/coverage/hejsvenska-3.json` maps each lesson to its
+source theme and boards, and distinguishes the source's listening, reading and
+writing tasks. English base text and English/German comparison concepts use the
+same layer merge as earlier lessons; no engine behaviour changes.
 
 ## How a unit plays
 
@@ -76,6 +82,9 @@ because new material is what moves a learner forward. A `dealAll` unit offers th
   choice of languages leaves no tile without a clue. The eMova coverage ledger must
   offer practice for all 27 lessons and map each lesson to its own registered boards;
   factual scope and source-only activities are recorded beside the mapping.
+- `courseCoverage.test.ts` checks section-based coverage ledgers: every source theme
+  is mapped, every registered lesson in the section is listed once, and its boards
+  match the manifest and exist on disk.
 - `locales.test.ts` keeps the interface languages in step: same keys, same placeholders.
 - `engineNeutral.test.ts` fails if engine code names a language or contains another
   script's text.

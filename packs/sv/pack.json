@@ -8,7 +8,7 @@
 	"comparisons": ["de", "en"],
 	"explanations": ["en"],
 	"overlays": ["de-en", "en-en"],
-	"sections": ["sounds", "basics", "themes", "level2"],
+	"sections": ["sounds", "basics", "themes", "level2", "level3"],
 	"keyboard": ["qwertyuiopå", "asdfghjklöä", "zxcvbnm"],
 	"lessons": [
 		{
@@ -296,6 +296,150 @@
 					"kind": "tasks",
 					"title": "Hej svenska 2, tema 10: Tid",
 					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l25",
+			"section": "level3",
+			"units": ["country3-words", "country3-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 1: Ett land",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l26",
+			"section": "level3",
+			"units": ["perfect3-forms", "perfect3-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 1: Ett land",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l27",
+			"section": "level3",
+			"units": ["people3-words", "people3-sentences", "people3-clauses"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 2: Familj och fritid",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l28",
+			"section": "level3",
+			"units": ["modals3-words", "modals3-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 2: Familj och fritid",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l29",
+			"section": "level3",
+			"units": ["employment3-words", "employment3-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 3: Bas",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l30",
+			"section": "level3",
+			"units": ["environment3-words", "environment3-sentences", "environment3-comparisons"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 4: Miljö",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l31",
+			"section": "level3",
+			"units": ["renting3-words", "renting3-sentences", "renting3-plurals"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 5: Bostad",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l32",
+			"section": "level3",
+			"units": ["traffic3-words", "traffic3-sentences", "traffic3-connections"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 6: Trafik, resor och transport",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l33",
+			"section": "level3",
+			"units": ["budget3-words", "budget3-sentences", "budget3-phrases"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 7: Tid",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l34",
+			"section": "level3",
+			"units": ["clinic3-words", "clinic3-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 8: Sjukvård",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l35",
+			"section": "level3",
+			"units": ["relationships3-words", "relationships3-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 9: Kärlek",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		{
+			"id": "l36",
+			"section": "level3",
+			"units": ["society3-words", "society3-sentences", "society3-adverbs"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 3, tema 10: Politik och samhälle",
+					"url": "https://www.hejsvenska.se/index3.html"
 				}
 			]
 		}

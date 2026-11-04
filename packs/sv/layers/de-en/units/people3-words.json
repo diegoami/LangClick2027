@@ -1,0 +1,12 @@
+{
+	"cells": {
+		"w06": {
+			"falseFriend": {
+				"kind": "homograph",
+				"form": "Gift",
+				"means": "poison"
+			},
+			"contrast": "Swedish gift here means married."
+		}
+	}
+}

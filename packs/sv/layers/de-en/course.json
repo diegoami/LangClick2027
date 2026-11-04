@@ -1,1 +1,124 @@
-{}
+{
+	"concepts": {
+		"country3-usage": {
+			"title": "Countries and directions",
+			"body": "Like welcher/welches/welche, vilken/vilket/vilka agrees with the noun, but Swedish has two noun genders.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"perfect3-usage": {
+			"title": "Past, perfect and clause order",
+			"body": "Swedish uses har even where German uses sein: har gått. In subordinate clauses the verb does not move to the end.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"people3-usage": {
+			"title": "People and reasons",
+			"body": "Hur ser hon ut? corresponds to Wie sieht sie aus? Eftersom clauses keep the finite verb after the subject and sentence adverb, rather than last.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"modals3-usage": {
+			"title": "Plans, calls and instructions",
+			"body": "Modal verbs do not change with person. Swedish keeps the following infinitive next to the modal more often than German does.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"employment3-usage": {
+			"title": "Work and applications",
+			"body": "Relative som does not inflect like der/die/das. The clause keeps ordinary subject–verb order rather than placing the finite verb last.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"environment3-usage": {
+			"title": "Environment and comparison",
+			"body": "Än corresponds to als in comparisons. För att + infinitive corresponds to um … zu.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"renting3-usage": {
+			"title": "Renting and housing",
+			"body": "Ingen/inget/inga is similar to kein with gender/number agreement. Om corresponds to wenn for a condition.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"traffic3-usage": {
+			"title": "Traffic and journeys",
+			"body": "Swedish short answers often use det + auxiliary + subject. When a subordinate clause comes first, the main clause starts with its finite verb, as in German.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"budget3-usage": {
+			"title": "Bills and a budget",
+			"body": "Distinguish låna (leihen, receiving) from låna ut (verleihen, giving). Keep the particle ut with the lending meaning.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"clinic3-usage": {
+			"title": "At the clinic",
+			"body": "Heller corresponds to auch in a negative statement: inte heller, auch nicht. Också is used in positive statements.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"relationships3-usage": {
+			"title": "Relationships and messages",
+			"body": "Att corresponds to dass, but does not send the finite verb to the end. Vilket fint hus! corresponds to Was für ein schönes Haus!",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"society3-usage": {
+			"title": "Politics and public services",
+			"body": "Både … och corresponds to sowohl … als auch; varken … eller to weder … noch. Subordinate clauses retain Swedish word order.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"title": "Comparing choices",
+	"summary": "Use the English meaning and Swedish context to choose or type the missing word or phrase.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "This box is big, but the other is bigger.",
+			"note": "Stor → större."
+		},
+		"s02": {
+			"sentenceGloss": "This bag is small, but the other is even smaller.",
+			"note": "Liten → mindre."
+		},
+		"s03": {
+			"sentenceGloss": "It costs the least of all; it is the cheapest.",
+			"note": "Billig → billigare → billigast."
+		},
+		"s04": {
+			"sentenceGloss": "This bicycle costs more; it is more expensive.",
+			"note": "Dyr → dyrare."
+		},
+		"s05": {
+			"sentenceGloss": "It is better to repair the bicycle than to throw it away.",
+			"note": "Än introduces the second part of a comparison."
+		},
+		"s06": {
+			"sentenceGloss": "All the suggestions are good, but this one is best.",
+			"note": "Bra → bättre → bäst."
+		},
+		"s07": {
+			"sentenceGloss": "The old engine works worse than the new one.",
+			"note": "Dåligt → sämre → sämst."
+		},
+		"s08": {
+			"sentenceGloss": "I bring a bag in order to avoid buying a new one.",
+			"note": "Purpose: för att + infinitive."
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"title": "At the clinic — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. Practise the language of appointments and symptoms. Också means too; heller is used with negation for not … either. These are language exercises, not medical instructions.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "A heart pumps blood. The heart is in the chest.",
+			"note": "Ett hjärta → hjärtat."
+		},
+		"s02": {
+			"sentenceGloss": "My temperature is high; I have a fever.",
+			"note": "Ha feber: have a fever."
+		},
+		"s03": {
+			"sentenceGloss": "I am ill and my brother is ill too.",
+			"note": "Positive addition: också."
+		},
+		"s04": {
+			"sentenceGloss": "I do not smoke, and she does not smoke either.",
+			"note": "Negative addition: inte … heller."
+		},
+		"s05": {
+			"sentenceGloss": "How long have you been in pain?",
+			"note": "Hur länge asks about duration."
+		},
+		"s06": {
+			"sentenceGloss": "I want to book an appointment with the doctor.",
+			"note": "Boka en tid: book an appointment."
+		},
+		"s07": {
+			"sentenceGloss": "When I get home, I have an appointment to keep.",
+			"note": "Initial subordinate clause + har + jag."
+		},
+		"s08": {
+			"sentenceGloss": "The doctor says: “Take the medicine according to the instructions.”",
+			"note": "Ta is the imperative of ta."
+		}
+	}
+}

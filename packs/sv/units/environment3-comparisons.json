@@ -1,0 +1,76 @@
+{
+	"id": "environment3-comparisons",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Swedish grammar",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:environment3-comparisons:s01",
+			"text": "större",
+			"sentence": "Den här lådan är stor, men den andra är ___.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:environment3-comparisons:s02",
+			"text": "mindre",
+			"sentence": "Den här påsen är liten, men den andra är ännu ___.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:environment3-comparisons:s03",
+			"text": "billigast",
+			"sentence": "Den kostar minst av alla; den är ___.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:environment3-comparisons:s04",
+			"text": "dyrare",
+			"sentence": "Den här cykeln kostar mer; den är ___.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:environment3-comparisons:s05",
+			"text": "än",
+			"sentence": "Det är bättre att laga cykeln ___ att kasta den.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:environment3-comparisons:s06",
+			"text": "bäst",
+			"sentence": "Alla förslag är bra, men det här är ___.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:environment3-comparisons:s07",
+			"text": "sämre",
+			"sentence": "Den gamla motorn fungerar ___ än den nya.",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:environment3-comparisons:s08",
+			"text": "för att",
+			"sentence": "Jag tar med en påse ___ slippa köpa en ny.",
+			"concepts": ["environment3-usage"]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"title": "Renting and housing — words",
+	"summary": "Find or type the Swedish word for each meaning. Ingen, inget and inga agree with en, ett and plural nouns. Om introduces a condition; review definite plurals in housing contexts.",
+	"cells": {
+		"w01": {
+			"clue": "rent; the payment"
+		},
+		"w02": {
+			"clue": "contract"
+		},
+		"w03": {
+			"clue": "key"
+		},
+		"w04": {
+			"clue": "neighbour"
+		},
+		"w05": {
+			"clue": "no; before an en noun"
+		},
+		"w06": {
+			"clue": "no; before an ett noun"
+		}
+	}
+}

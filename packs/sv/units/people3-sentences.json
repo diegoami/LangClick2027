@@ -1,0 +1,80 @@
+{
+	"id": "people3-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: Swedish entries (CC BY-SA)",
+			"url": "https://en.wiktionary.org/wiki/Category:Swedish_lemmas"
+		},
+		{
+			"title": "Swedish grammar: clause structure and inflection",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:people3-sentences:s01",
+			"text": "eftersom",
+			"sentence": "Hon stannar hemma ___ hon är sjuk.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:people3-sentences:s02",
+			"text": "inte",
+			"sentence": "Han är trött eftersom han ___ har sovit.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:people3-sentences:s03",
+			"text": "lång",
+			"sentence": "Hon är 190 centimeter och mycket ___.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:people3-sentences:s04",
+			"text": "snäll",
+			"sentence": "Han hjälper alltid andra och är väldigt ___.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:people3-sentences:s05",
+			"text": "gift",
+			"sentence": "Hon har en make; hon är ___.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:people3-sentences:s06",
+			"text": "tyvärr",
+			"sentence": "Jag kan ___ inte komma på festen.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:people3-sentences:s07",
+			"text": "aldrig",
+			"sentence": "Hon röker inte någon gång; hon röker ___.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:people3-sentences:s08",
+			"text": "ser",
+			"sentence": "Hur ___ din bror ut?",
+			"concepts": ["people3-usage"]
+		}
+	]
+}

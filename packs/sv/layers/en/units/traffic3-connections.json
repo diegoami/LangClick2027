@@ -1,0 +1,38 @@
+{
+	"title": "Joining journey sentences",
+	"summary": "Use the English meaning and Swedish context to choose or type the missing word or phrase.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "We buy tickets and go to the train.",
+			"note": "Och adds another action."
+		},
+		"s02": {
+			"sentenceGloss": "Do you want to travel by bus or train?",
+			"note": "Eller gives an alternative."
+		},
+		"s03": {
+			"sentenceGloss": "The journey is long, but it is not expensive.",
+			"note": "Men introduces a contrast."
+		},
+		"s04": {
+			"sentenceGloss": "The train left early, so we got up at five.",
+			"note": "Så introduces a result."
+		},
+		"s05": {
+			"sentenceGloss": "We took a taxi because the bus did not come.",
+			"note": "Eftersom introduces a reason; inte precedes kom."
+		},
+		"s06": {
+			"sentenceGloss": "Call me when you arrive.",
+			"note": "När introduces a time clause."
+		},
+		"s07": {
+			"sentenceGloss": "If the train is late, we wait at the station.",
+			"note": "The initial om clause is followed by the main-clause verb väntar."
+		},
+		"s08": {
+			"sentenceGloss": "She says that the car is not broken.",
+			"note": "Att clause: bilen + inte + är."
+		}
+	}
+}

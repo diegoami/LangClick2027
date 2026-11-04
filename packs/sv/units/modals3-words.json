@@ -1,0 +1,82 @@
+{
+	"id": "modals3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: vill (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/vill#Swedish"
+		},
+		{
+			"title": "Wiktionary: ska (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/ska#Swedish"
+		},
+		{
+			"title": "Wiktionary: får (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/får#Swedish"
+		},
+		{
+			"title": "Wiktionary: kan (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/kan#Swedish"
+		},
+		{
+			"title": "Wiktionary: måste (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/måste#Swedish"
+		},
+		{
+			"title": "Wiktionary: behöver (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/behöver#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:vill",
+			"text": "vill",
+			"ipa": "/vɪlː/",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:ska",
+			"text": "ska",
+			"ipa": "/skɑː/",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "grammar:modal:får",
+			"text": "får",
+			"ipa": "/foːr/",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:kan",
+			"text": "kan",
+			"ipa": "/kanː/",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:måste",
+			"text": "måste",
+			"ipa": "/ˈmɔ̂stɛ/",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:behöver",
+			"text": "behöver",
+			"ipa": "/bɛˈhøːvɛr/",
+			"concepts": ["modals3-usage"]
+		}
+	]
+}

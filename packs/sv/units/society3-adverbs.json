@@ -1,0 +1,76 @@
+{
+	"id": "society3-adverbs",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Swedish grammar",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:society3-adverbs:s01",
+			"text": "redan",
+			"sentence": "Klockan är nio, men skolan har ___ börjat.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:society3-adverbs:s02",
+			"text": "bara",
+			"sentence": "Jag har ___ en fråga, inte flera.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:society3-adverbs:s03",
+			"text": "gärna",
+			"sentence": "Jag hjälper dig ___; det gör jag med glädje.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:society3-adverbs:s04",
+			"text": "inte",
+			"sentence": "Hon säger att skolan ___ är stängd.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:society3-adverbs:s05",
+			"text": "både",
+			"sentence": "Vi behöver ___ lärare och elever.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:society3-adverbs:s06",
+			"text": "varken",
+			"sentence": "Jag har ___ bil eller cykel.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:society3-adverbs:s07",
+			"text": "även om",
+			"sentence": "Vi går till mötet ___ det skulle regna.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:society3-adverbs:s08",
+			"text": "trots att",
+			"sentence": "Han hjälper till ___ han är trött.",
+			"concepts": ["society3-usage"]
+		}
+	]
+}

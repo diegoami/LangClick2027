@@ -1,0 +1,38 @@
+{
+	"title": "Environment and comparison — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. Compare adjectives with -are/-ast or irregular forms; use än for than. Purpose can be expressed with för att + infinitive.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "It costs less; it is cheaper.",
+			"note": "Billig → billigare."
+		},
+		"s02": {
+			"sentenceGloss": "The train is faster than the bicycle.",
+			"note": "Comparative + än."
+		},
+		"s03": {
+			"sentenceGloss": "This is going well, but that is going even better.",
+			"note": "Bra → bättre is irregular."
+		},
+		"s04": {
+			"sentenceGloss": "We turn off the lights in order to save electricity.",
+			"note": "För att + infinitive expresses purpose."
+		},
+		"s05": {
+			"sentenceGloss": "Turn off the tap to save water.",
+			"note": "Vatten means water."
+		},
+		"s06": {
+			"sentenceGloss": "The bottle is not made of plastic but of glass.",
+			"note": "Glas names the material."
+		},
+		"s07": {
+			"sentenceGloss": "We buy second-hand things at a flea market.",
+			"note": "En loppis: a flea market."
+		},
+		"s08": {
+			"sentenceGloss": "We sort the waste before it is recycled.",
+			"note": "Sorterar is the present of sortera."
+		}
+	}
+}

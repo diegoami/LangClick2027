@@ -1,0 +1,80 @@
+{
+	"id": "modals3-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: Swedish entries (CC BY-SA)",
+			"url": "https://en.wiktionary.org/wiki/Category:Swedish_lemmas"
+		},
+		{
+			"title": "Swedish grammar: clause structure and inflection",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:modals3-sentences:s01",
+			"text": "vill",
+			"sentence": "Jag ___ gärna se filmen, men jag har ingen biljett.",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:modals3-sentences:s02",
+			"text": "får",
+			"sentence": "Du ___ låna min cykel; jag ger dig lov.",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:modals3-sentences:s03",
+			"text": "kan",
+			"sentence": "Hon ___ simma; hon lärde sig som barn.",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:modals3-sentences:s04",
+			"text": "måste",
+			"sentence": "Du ___ visa biljett; det är ett krav.",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:modals3-sentences:s05",
+			"text": "behöver",
+			"sentence": "Jag ___ köpa mat; kylskåpet är tomt.",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:modals3-sentences:s06",
+			"text": "ringa",
+			"sentence": "Kan du ___ mig i kväll?",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:modals3-sentences:s07",
+			"text": "vänta",
+			"sentence": "___ ett ögonblick, tack!",
+			"concepts": ["modals3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:modals3-sentences:s08",
+			"text": "tack",
+			"sentence": "Grattis på födelsedagen! – ___ så mycket!",
+			"concepts": ["modals3-usage"]
+		}
+	]
+}

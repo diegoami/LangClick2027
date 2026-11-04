@@ -1,0 +1,80 @@
+{
+	"id": "renting3-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: Swedish entries (CC BY-SA)",
+			"url": "https://en.wiktionary.org/wiki/Category:Swedish_lemmas"
+		},
+		{
+			"title": "Swedish grammar: clause structure and inflection",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:renting3-sentences:s01",
+			"text": "ingen",
+			"sentence": "Det finns ___ hiss i huset.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:renting3-sentences:s02",
+			"text": "inget",
+			"sentence": "Det finns ___ kök i rummet.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:renting3-sentences:s03",
+			"text": "inga",
+			"sentence": "Det finns ___ lediga lägenheter.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:renting3-sentences:s04",
+			"text": "om",
+			"sentence": "Ring mig ___ du behöver hjälp.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:renting3-sentences:s05",
+			"text": "nyckeln",
+			"sentence": "Jag har en nyckel. Här är ___.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:renting3-sentences:s06",
+			"text": "husen",
+			"sentence": "Här står två hus. ___ är röda.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:renting3-sentences:s07",
+			"text": "hyran",
+			"sentence": "Jag hyr en lägenhet och betalar ___ varje månad.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:renting3-sentences:s08",
+			"text": "kontrakt",
+			"sentence": "Vi skriver ett ___ innan vi flyttar in.",
+			"concepts": ["renting3-usage"]
+		}
+	]
+}

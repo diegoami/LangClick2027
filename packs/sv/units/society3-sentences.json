@@ -1,0 +1,80 @@
+{
+	"id": "society3-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: Swedish entries (CC BY-SA)",
+			"url": "https://en.wiktionary.org/wiki/Category:Swedish_lemmas"
+		},
+		{
+			"title": "Swedish grammar: clause structure and inflection",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:society3-sentences:s01",
+			"text": "både",
+			"sentence": "Hon talar ___ svenska och engelska.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:society3-sentences:s02",
+			"text": "eller",
+			"sentence": "Han dricker varken kaffe ___ te.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:society3-sentences:s03",
+			"text": "även om",
+			"sentence": "Jag cyklar ___ det regnar i morgon.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:society3-sentences:s04",
+			"text": "trots att",
+			"sentence": "Hon kom i tid ___ bussen var sen.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:society3-sentences:s05",
+			"text": "val",
+			"sentence": "Vi röstar i ett ___.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:society3-sentences:s06",
+			"text": "parti",
+			"sentence": "Hon är medlem i ett politiskt ___.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:society3-sentences:s07",
+			"text": "skolan",
+			"sentence": "Barnen går i ___ och lär sig läsa.",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:society3-sentences:s08",
+			"text": "kommer",
+			"sentence": "Trots att det regnar ___ han i tid.",
+			"concepts": ["society3-usage"]
+		}
+	]
+}

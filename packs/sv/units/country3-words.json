@@ -1,0 +1,82 @@
+{
+	"id": "country3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: norr (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/norr#Swedish"
+		},
+		{
+			"title": "Wiktionary: söder (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/söder#Swedish"
+		},
+		{
+			"title": "Wiktionary: öster (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/öster#Swedish"
+		},
+		{
+			"title": "Wiktionary: väster (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/väster#Swedish"
+		},
+		{
+			"title": "Wiktionary: land (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/land#Swedish"
+		},
+		{
+			"title": "Wiktionary: ö (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/ö#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:norr",
+			"text": "norr",
+			"ipa": "/nɔrː/",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:söder",
+			"text": "söder",
+			"ipa": "/ˈsø̂ːdɛr/",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "word:öster",
+			"text": "öster",
+			"ipa": "/ˈœ̂stɛr/",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:väster",
+			"text": "väster",
+			"ipa": "/ˈvɛ̂stɛr/",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:land",
+			"text": "land",
+			"ipa": "/land/",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:ö",
+			"text": "ö",
+			"ipa": "/øː/",
+			"concepts": ["country3-usage"]
+		}
+	]
+}

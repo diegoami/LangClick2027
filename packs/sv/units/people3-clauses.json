@@ -1,0 +1,76 @@
+{
+	"id": "people3-clauses",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Swedish grammar",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:people3-clauses:s01",
+			"text": "som",
+			"sentence": "Jag känner en kvinna ___ talar fem språk.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:people3-clauses:s02",
+			"text": "eftersom",
+			"sentence": "Hon ler ___ hon är glad.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:people3-clauses:s03",
+			"text": "inte",
+			"sentence": "Jag vet att hon ___ arbetar på söndagar.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:people3-clauses:s04",
+			"text": "aldrig",
+			"sentence": "Han säger att han ___ har varit i Norge.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:people3-clauses:s05",
+			"text": "är",
+			"sentence": "Eftersom det regnar ___ vi hemma.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:people3-clauses:s06",
+			"text": "kanske",
+			"sentence": "Hon kommer ___ i morgon, men hon är inte säker.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:people3-clauses:s07",
+			"text": "att",
+			"sentence": "Jag tror ___ han är hemma.",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:people3-clauses:s08",
+			"text": "när",
+			"sentence": "Vi äter middag ___ alla har kommit hem.",
+			"concepts": ["people3-usage"]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"title": "People and reasons — words",
+	"summary": "Find or type the Swedish word for each meaning. Describe appearance and character. Eftersom introduces a reason. In that subordinate clause, sentence adverbs such as inte precede the finite verb.",
+	"cells": {
+		"w01": {
+			"clue": "tall; common-gender singular"
+		},
+		"w02": {
+			"clue": "short; common-gender singular"
+		},
+		"w03": {
+			"clue": "kind; common-gender singular"
+		},
+		"w04": {
+			"clue": "happy; common-gender singular"
+		},
+		"w05": {
+			"clue": "angry; common-gender singular"
+		},
+		"w06": {
+			"clue": "married; common-gender singular"
+		}
+	}
+}

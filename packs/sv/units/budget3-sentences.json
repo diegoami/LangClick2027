@@ -1,0 +1,80 @@
+{
+	"id": "budget3-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: Swedish entries (CC BY-SA)",
+			"url": "https://en.wiktionary.org/wiki/Category:Swedish_lemmas"
+		},
+		{
+			"title": "Swedish grammar: clause structure and inflection",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:budget3-sentences:s01",
+			"text": "låna",
+			"sentence": "Kan jag ___ din bok och lämna tillbaka den i morgon?",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:budget3-sentences:s02",
+			"text": "ut",
+			"sentence": "Jag kan låna ___ min bok till dig.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:budget3-sentences:s03",
+			"text": "räkning",
+			"sentence": "Jag har fått en ___ för elen.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:budget3-sentences:s04",
+			"text": "skatt",
+			"sentence": "En del av lönen betalas i ___.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:budget3-sentences:s05",
+			"text": "spara",
+			"sentence": "Jag vill ___ pengar till en cykel.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:budget3-sentences:s06",
+			"text": "betalade",
+			"sentence": "I går ___ jag räkningen.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:budget3-sentences:s07",
+			"text": "betalat",
+			"sentence": "Jag har redan ___ räkningen.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:budget3-sentences:s08",
+			"text": "budget",
+			"sentence": "Jag skriver en ___ för månadens inkomster och utgifter.",
+			"concepts": ["budget3-usage"]
+		}
+	]
+}

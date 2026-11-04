@@ -1,0 +1,38 @@
+{
+	"title": "Renting and housing — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. Ingen, inget and inga agree with en, ett and plural nouns. Om introduces a condition; review definite plurals in housing contexts.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "There is no lift in the building.",
+			"note": "En hiss → ingen hiss."
+		},
+		"s02": {
+			"sentenceGloss": "There is no kitchen in the room.",
+			"note": "Ett kök → inget kök."
+		},
+		"s03": {
+			"sentenceGloss": "There are no available flats.",
+			"note": "Plural lägenheter → inga."
+		},
+		"s04": {
+			"sentenceGloss": "Call me if you need help.",
+			"note": "Om introduces a condition."
+		},
+		"s05": {
+			"sentenceGloss": "I have a key. Here is the key.",
+			"note": "En nyckel → nyckeln."
+		},
+		"s06": {
+			"sentenceGloss": "Here stand two houses. The houses are red.",
+			"note": "Hus → husen in the definite plural."
+		},
+		"s07": {
+			"sentenceGloss": "I rent a flat and pay the rent every month.",
+			"note": "Hyran is the definite form of hyra."
+		},
+		"s08": {
+			"sentenceGloss": "We sign a contract before we move in.",
+			"note": "Ett kontrakt: a contract."
+		}
+	}
+}

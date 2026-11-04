@@ -1,0 +1,24 @@
+{
+	"title": "Bills and a budget — words",
+	"summary": "Find or type the Swedish word for each meaning. The source labels this theme Tid, but its listed tasks concern personal finances. Distinguish låna (borrow) from låna ut (lend), and practise everyday money words.",
+	"cells": {
+		"w01": {
+			"clue": "bill; invoice"
+		},
+		"w02": {
+			"clue": "tax"
+		},
+		"w03": {
+			"clue": "pension"
+		},
+		"w04": {
+			"clue": "save; infinitive"
+		},
+		"w05": {
+			"clue": "squander; waste money; infinitive"
+		},
+		"w06": {
+			"clue": "borrow; infinitive"
+		}
+	}
+}

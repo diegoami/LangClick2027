@@ -1,0 +1,24 @@
+{
+	"title": "Environment and comparison — words",
+	"summary": "Find or type the Swedish word for each meaning. Compare adjectives with -are/-ast or irregular forms; use än for than. Purpose can be expressed with för att + infinitive.",
+	"cells": {
+		"w01": {
+			"clue": "environment"
+		},
+		"w02": {
+			"clue": "waste; refuse"
+		},
+		"w03": {
+			"clue": "glass; material"
+		},
+		"w04": {
+			"clue": "plastic; material"
+		},
+		"w05": {
+			"clue": "cheaper"
+		},
+		"w06": {
+			"clue": "better"
+		}
+	}
+}

@@ -217,3 +217,23 @@ transcription marks both vowel and consonant length, and the word accent sits on
 the stressed vowel as ̌ or ̂, so an accent pair such as anden reads differently in
 IPA. Lexin (CC BY 4.0) is used to check glosses, not imported in bulk. Swedish
 merges after the v0.5.0 Ukrainian release.
+
+## Swedish level 3 continues the source course (2026-11-04, #64)
+
+The owner approved Hej svenska 3 as the next course section, with twelve lessons,
+25–36, covering its ten themes. Ett land and Familj och fritid each get two lessons
+to separate the larger grammar topics. Original vocabulary, verb tables and gap
+sentences practise the perfect, modal infinitives, comparisons, and main- versus
+subordinate-clause word order. English explanations, English/German comparisons,
+typing, and the existing IPA convention continue unchanged.
+
+The coverage ledger retains the source's labels, including Bas for work and Tid
+for personal finances. Listening, source readings, charts and free writing remain
+in the linked course; a board is not claimed as practice of those activities.
+Political vocabulary avoids a changing list of parties; healthcare exercises teach
+language rather than give medical advice. Downloads remain deferred, and v0.8.0
+is proposed for the next content milestone. Independent content checks are still
+required; authoring is not a passing verdict. The owner subsequently instructed
+merging the material with checks pending for their own reviewers. This permits
+merging the authored work; it does not certify content or create a milestone.
+The last released milestone stays explicit in CHANGELOG under Unreleased.

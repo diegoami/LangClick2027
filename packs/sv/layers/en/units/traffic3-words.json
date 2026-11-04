@@ -1,0 +1,24 @@
+{
+	"title": "Traffic and journeys — words",
+	"summary": "Find or type the Swedish word for each meaning. Use an auxiliary in short answers. Och adds, men contrasts and så can introduce a result. A subordinate clause placed first is followed by the main-clause finite verb.",
+	"cells": {
+		"w01": {
+			"clue": "road"
+		},
+		"w02": {
+			"clue": "traffic"
+		},
+		"w03": {
+			"clue": "belt; safety belt"
+		},
+		"w04": {
+			"clue": "fine; monetary penalty"
+		},
+		"w05": {
+			"clue": "journey; trip"
+		},
+		"w06": {
+			"clue": "ticket"
+		}
+	}
+}

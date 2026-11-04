@@ -1,0 +1,38 @@
+{
+	"title": "Housing: definite plurals",
+	"summary": "Use the English meaning and Swedish context to choose or type the missing word or phrase.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "We saw two flats. The flats were small.",
+			"note": "Lägenheter → lägenheterna."
+		},
+		"s02": {
+			"sentenceGloss": "There are three rooms. The rooms are bright.",
+			"note": "Rum → rummen."
+		},
+		"s03": {
+			"sentenceGloss": "Here are two keys. Take the keys!",
+			"note": "Nycklar → nycklarna."
+		},
+		"s04": {
+			"sentenceGloss": "We open all the house’s windows. The windows are large.",
+			"note": "Fönster → fönstren."
+		},
+		"s05": {
+			"sentenceGloss": "We are painting two doors. The doors will be blue.",
+			"note": "Dörrar → dörrarna."
+		},
+		"s06": {
+			"sentenceGloss": "We bought four chairs. The chairs are in the kitchen.",
+			"note": "Stolar → stolarna."
+		},
+		"s07": {
+			"sentenceGloss": "I have no keys; I have lost them all.",
+			"note": "Plural: inga nycklar."
+		},
+		"s08": {
+			"sentenceGloss": "We can move in if we get the contract.",
+			"note": "Om introduces a condition."
+		}
+	}
+}
