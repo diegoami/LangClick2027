@@ -27,9 +27,16 @@ new content. The follow-up in [#41](https://github.com/diegoami/LangClick2027/pu
 owner testing, brings the new lessons up to the older content's convention — a phonemic transcription on every word, verb form and table cell, a
 grammar note on every sentence and table cell in all four explanation languages, and the
 Russian and Polish comparisons the older boards carry. The transcription rules are written
-down in `packs/README.md`. Ukrainian is still not complete: the completion audit over all 27
-lessons and the release are what remain. Swedish is the next content task after Ukrainian,
-before optional extras.
+down in `packs/README.md`. Ukrainian is still not complete. Three things remain:
+- the completion audit over all 27 lessons (the coverage ledger has no source scope for
+  lessons 1–8);
+- the two transcription conventions left open in
+  [#42](https://github.com/diegoami/LangClick2027/issues/42);
+- the release.
+
+Swedish is the next content task after Ukrainian, before optional extras. Its design is
+proposed in [#43](https://github.com/diegoami/LangClick2027/issues/43) and awaits the owner's
+agreement.
 
 On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
 extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided

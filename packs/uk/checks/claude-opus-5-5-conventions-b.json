@@ -4,102 +4,102 @@
 		{
 			"key": "core/countries/spain.from",
 			"seen": "{\"item\":\"country:spain:from\",\"text\":\"Іспанії\",\"display\":\"Іспа́нії\",\"ipa\":\"/iˈspanʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"spain\",\"col\":\"from\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/countries/spain.in",
 			"seen": "{\"item\":\"country:spain:in\",\"text\":\"Іспанії\",\"display\":\"Іспа́нії\",\"ipa\":\"/iˈspanʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"spain\",\"col\":\"in\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/hours/h11.at",
 			"seen": "{\"item\":\"hour:h11:at\",\"text\":\"одинадцятій\",\"display\":\"одина́дцятій\",\"ipa\":\"/ɔdɪˈnadʲt͡sʲatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"at\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/hours/h11.half",
 			"seen": "{\"item\":\"hour:h11:half\",\"text\":\"одинадцяту\",\"display\":\"одина́дцяту\",\"ipa\":\"/ɔdɪˈnadʲt͡sʲatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"half\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/hours/h11.hour",
 			"seen": "{\"item\":\"hour:h11:hour\",\"text\":\"одинадцята\",\"display\":\"одина́дцята\",\"ipa\":\"/ɔdɪˈnadʲt͡sʲata/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"hour\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/hours/h12.at",
 			"seen": "{\"item\":\"hour:h12:at\",\"text\":\"дванадцятій\",\"display\":\"двана́дцятій\",\"ipa\":\"/dʋaˈnadʲt͡sʲatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"at\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/hours/h12.half",
 			"seen": "{\"item\":\"hour:h12:half\",\"text\":\"дванадцяту\",\"display\":\"двана́дцяту\",\"ipa\":\"/dʋaˈnadʲt͡sʲatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"half\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/hours/h12.hour",
 			"seen": "{\"item\":\"hour:h12:hour\",\"text\":\"дванадцята\",\"display\":\"двана́дцята\",\"ipa\":\"/dʋaˈnadʲt͡sʲata/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"hour\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l04-words/anhliyska",
 			"seen": "{\"item\":\"word:anhliyska\",\"text\":\"англійська\",\"display\":\"англі́йська\",\"ipa\":\"/anˈɦlʲijsʲka/\",\"alsoAccepted\":[\"англійська мова\"],\"cognates\":{\"ru\":{\"form\":\"англи́йский\"},\"pl\":{\"form\":\"angielski\"}}}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n11",
 			"seen": "{\"item\":\"number:n11\",\"text\":\"одинадцять\",\"display\":\"одина́дцять\",\"ipa\":\"/ɔdɪˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"оди́ннадцать\"},\"pl\":{\"form\":\"jedenaście\"}},\"concepts\":[\"teens-stress\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n12",
 			"seen": "{\"item\":\"number:n12\",\"text\":\"дванадцять\",\"display\":\"двана́дцять\",\"ipa\":\"/dʋaˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"двена́дцать\"},\"pl\":{\"form\":\"dwanaście\"}},\"concepts\":[\"teens-stress\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n13",
 			"seen": "{\"item\":\"number:n13\",\"text\":\"тринадцять\",\"display\":\"трина́дцять\",\"ipa\":\"/trɪˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"трина́дцать\"},\"pl\":{\"form\":\"trzynaście\"}},\"concepts\":[\"teens-stress\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n14",
 			"seen": "{\"item\":\"number:n14\",\"text\":\"чотирнадцять\",\"display\":\"чотирна́дцять\",\"ipa\":\"/t͡ʃɔtɪrˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"четы́рнадцать\"},\"pl\":{\"form\":\"czternaście\"}},\"concepts\":[\"teens-stress\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n15",
 			"seen": "{\"item\":\"number:n15\",\"text\":\"п'ятнадцять\",\"display\":\"п'ятна́дцять\",\"ipa\":\"/pjatˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"пятна́дцать\"},\"pl\":{\"form\":\"piętnaście\"}},\"concepts\":[\"teens-stress\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n16",
 			"seen": "{\"item\":\"number:n16\",\"text\":\"шістнадцять\",\"display\":\"шістна́дцять\",\"ipa\":\"/ʃisˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"шестна́дцать\"},\"pl\":{\"form\":\"szesnaście\"}},\"concepts\":[\"teens-stress\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n17",
 			"seen": "{\"item\":\"number:n17\",\"text\":\"сімнадцять\",\"display\":\"сімна́дцять\",\"ipa\":\"/sʲimˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"семна́дцать\"},\"pl\":{\"form\":\"siedemnaście\"}},\"concepts\":[\"teens-stress\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n18",
 			"seen": "{\"item\":\"number:n18\",\"text\":\"вісімнадцять\",\"display\":\"вісімна́дцять\",\"ipa\":\"/ʋisʲimˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"восемна́дцать\"},\"pl\":{\"form\":\"osiemnaście\"}},\"concepts\":[\"teens-stress\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n19",
 			"seen": "{\"item\":\"number:n19\",\"text\":\"дев'ятнадцять\",\"display\":\"дев'ятна́дцять\",\"ipa\":\"/dɛʋjatˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"девятна́дцать\"},\"pl\":{\"form\":\"dziewiętnaście\"}},\"concepts\":[\"teens-stress\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n20",
 			"seen": "{\"item\":\"number:n20\",\"text\":\"двадцять\",\"display\":\"два́дцять\",\"ipa\":\"/ˈdʋadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"два́дцать\"},\"pl\":{\"form\":\"dwadzieścia\"}}}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l06-numbers/n30",
 			"seen": "{\"item\":\"number:n30\",\"text\":\"тридцять\",\"display\":\"три́дцять\",\"ipa\":\"/ˈtrɪdʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"три́дцать\"},\"pl\":{\"form\":\"trzydzieści\"}}}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l11-words/hrudna-klityna",
@@ -109,12 +109,12 @@
 		{
 			"key": "core/l12-words/hustyy",
 			"seen": "{\"item\":\"word:hustyy\",\"text\":\"густий\",\"display\":\"густи́й\",\"ipa\":\"/ɦuˈstɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/kashtanovyy",
 			"seen": "{\"item\":\"word:kashtanovyy\",\"text\":\"каштановий\",\"display\":\"кашта́новий\",\"ipa\":\"/kaˈʃtanɔʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/kvadratnyy",
@@ -129,7 +129,7 @@
 		{
 			"key": "core/l12-words/nyzkyy",
 			"seen": "{\"item\":\"word:nyzkyy\",\"text\":\"низький\",\"display\":\"низьки́й\",\"ipa\":\"/nɪˈzʲkɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/pidstryzhenyy",
@@ -139,32 +139,32 @@
 		{
 			"key": "core/l12-words/smahlyavyy",
 			"seen": "{\"item\":\"word:smahlyavyy\",\"text\":\"смаглявий\",\"display\":\"смагля́вий\",\"ipa\":\"/smaˈɦlʲaʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l12-words/tovstyy",
 			"seen": "{\"item\":\"word:tovstyy\",\"text\":\"товстий\",\"display\":\"товсти́й\",\"ipa\":\"/tɔʋˈstɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/38.c0",
 			"seen": "{\"item\":\"l13:sizes:38:c0\",\"text\":\"тридцять восьмий\",\"display\":\"три́дцять во́сьмий\",\"ipa\":\"/ˈtrɪdʲt͡sʲatʲ ˈʋɔsʲmɪj/\",\"row\":\"38\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/38.c1",
 			"seen": "{\"item\":\"l13:sizes:38:c1\",\"text\":\"тридцять восьмого\",\"display\":\"три́дцять во́сьмого\",\"ipa\":\"/ˈtrɪdʲt͡sʲatʲ ˈʋɔsʲmɔɦɔ/\",\"row\":\"38\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/39.c0",
 			"seen": "{\"item\":\"l13:sizes:39:c0\",\"text\":\"тридцять дев'ятий\",\"display\":\"три́дцять дев'я́тий\",\"ipa\":\"/ˈtrɪdʲt͡sʲatʲ dɛˈʋjatɪj/\",\"row\":\"39\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-sizes/39.c1",
 			"seen": "{\"item\":\"l13:sizes:39:c1\",\"text\":\"тридцять дев'ятого\",\"display\":\"три́дцять дев'я́того\",\"ipa\":\"/ˈtrɪdʲt͡sʲatʲ dɛˈʋjatɔɦɔ/\",\"row\":\"39\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l13-words/nichna-sorochka",
@@ -204,22 +204,22 @@
 		{
 			"key": "core/l15-words/vershky",
 			"seen": "{\"item\":\"word:vershky\",\"text\":\"вершки\",\"display\":\"вершки́\",\"ipa\":\"/ʋɛrˈʃkɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-quantities/kilos.c0",
 			"seen": "{\"item\":\"l16:quantities:kilos:c0\",\"text\":\"кілограм\",\"display\":\"кілогра́м\",\"ipa\":\"/kilɔˈɦram/\",\"row\":\"kilos\",\"col\":\"c0\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-quantities/kilos.c1",
 			"seen": "{\"item\":\"l16:quantities:kilos:c1\",\"text\":\"кілограмів\",\"display\":\"кілогра́мів\",\"ipa\":\"/kilɔˈɦramiʋ/\",\"row\":\"kilos\",\"col\":\"c1\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l16-words/kilohram",
 			"seen": "{\"item\":\"word:kilohram\",\"text\":\"кілограм\",\"display\":\"кілогра́м\",\"ipa\":\"/kilɔˈɦram/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/elektrychka",
@@ -234,7 +234,7 @@
 		{
 			"key": "core/l18-words/marshrutka",
 			"seen": "{\"item\":\"word:marshrutka\",\"text\":\"маршрутка\",\"display\":\"маршру́тка\",\"ipa\":\"/marˈʃrutka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l18-words/vokzal",
@@ -244,12 +244,12 @@
 		{
 			"key": "core/l19-words/navproty",
 			"seen": "{\"item\":\"word:navproty\",\"text\":\"навпроти\",\"display\":\"навпро́ти\",\"ipa\":\"/naʋˈprɔtɪ/\",\"alsoAccepted\":[\"напроти\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/prospekt",
 			"seen": "{\"item\":\"word:prospekt\",\"text\":\"проспект\",\"display\":\"проспе́кт\",\"ipa\":\"/prɔˈspɛkt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l20-words/tserkva",
@@ -269,17 +269,17 @@
 		{
 			"key": "core/l21-superlative/blyzkyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:blyzkyy:highest\",\"text\":\"найближчий\",\"display\":\"найбли́жчий\",\"ipa\":\"/najˈblɪʒt͡ʃɪj/\",\"row\":\"blyzkyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/hlybokyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:hlybokyy:highest\",\"text\":\"найглибший\",\"display\":\"найгли́бший\",\"ipa\":\"/najˈɦlɪbʃɪj/\",\"row\":\"hlybokyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/khoroshyy.highest",
 			"seen": "{\"item\":\"form:l21-comparison:khoroshyy:highest\",\"text\":\"найкращий\",\"display\":\"найкра́щий\",\"ipa\":\"/najˈkraʃt͡ʃɪj/\",\"alsoAccepted\":[\"найліпший\"],\"row\":\"khoroshyy\",\"col\":\"highest\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l21-superlative/nizhnyy.highest",
@@ -289,7 +289,7 @@
 		{
 			"key": "core/l21-words/postuplyvyy",
 			"seen": "{\"item\":\"word:postuplyvyy\",\"text\":\"поступливий\",\"display\":\"посту́пливий\",\"ipa\":\"/pɔˈstuplɪʋɪj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/kvitnykarstvo",
@@ -299,52 +299,52 @@
 		{
 			"key": "core/l24-words/hastryt",
 			"seen": "{\"item\":\"word:hastryt\",\"text\":\"гастрит\",\"display\":\"гастри́т\",\"ipa\":\"/ɦaˈstrɪt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-words/zastuda",
 			"seen": "{\"item\":\"word:zastuda\",\"text\":\"застуда\",\"display\":\"засту́да\",\"ipa\":\"/zaˈstuda/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/christmas",
 			"seen": "{\"item\":\"holiday-date:uk:christmas\",\"text\":\"двадцять п'яте грудня\",\"display\":\"два́дцять п'я́те гру́дня\",\"ipa\":\"/ˈdʋadʲt͡sʲatʲ ˈpjatɛ ˈɦrudʲnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/constitution",
 			"seen": "{\"item\":\"holiday-date:uk:constitution\",\"text\":\"двадцять восьме червня\",\"display\":\"два́дцять во́сьме че́рвня\",\"ipa\":\"/ˈdʋadʲt͡sʲatʲ ˈʋɔsʲmɛ ˈt͡ʃɛrʋnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/independence",
 			"seen": "{\"item\":\"holiday-date:uk:independence\",\"text\":\"двадцять четверте серпня\",\"display\":\"два́дцять четве́рте се́рпня\",\"ipa\":\"/ˈdʋadʲt͡sʲatʲ t͡ʃɛtˈʋɛrtɛ ˈsɛrpnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-calendar/statehood",
 			"seen": "{\"item\":\"holiday-date:uk:statehood\",\"text\":\"п'ятнадцяте липня\",\"display\":\"п'ятна́дцяте ли́пня\",\"ipa\":\"/pjatˈnadʲt͡sʲatɛ ˈlɪpnʲa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-flowers-words/pidsnizhnyk",
-			"seen": "{\"item\":\"word:pidsnizhnyk\",\"text\":\"підсніжник\",\"display\":\"підсні́жник\",\"ipa\":\"/pidsʲˈnʲiʒnɪk/\"}",
-			"verdict": "pending"
+			"seen": "{\"item\":\"word:pidsnizhnyk\",\"text\":\"підсніжник\",\"display\":\"підсні́жник\",\"ipa\":\"/pidʲsʲˈnʲiʒnɪk/\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-trees-words/fistashka",
 			"seen": "{\"item\":\"word:fistashka\",\"text\":\"фісташка\",\"display\":\"фіста́шка\",\"ipa\":\"/fiˈstaʃka/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/lisostep",
 			"seen": "{\"item\":\"word:lisostep\",\"text\":\"лісостеп\",\"display\":\"лісосте́п\",\"ipa\":\"/lʲisɔˈstɛp/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l26-words/roslyna",
 			"seen": "{\"item\":\"word:roslyna\",\"text\":\"рослина\",\"display\":\"росли́на\",\"ipa\":\"/rɔˈslɪna/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l27-imperative/my.pidkreslyty",
@@ -374,7 +374,7 @@
 		{
 			"key": "core/stress-pairs/satin",
 			"seen": "{\"item\":\"stress:satin\",\"text\":\"атлас\",\"display\":\"атла́с\",\"ipa\":\"/aˈtlas/\",\"concepts\":[\"free-stress\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/l12-sentences/height",
