@@ -90,3 +90,12 @@ gates, get the owner's OK, merge, then ship the next patch as its own milestone.
 Docs are updated as part of the work, not afterwards. At release time, only check
 that `ROADMAP.md`'s status and `ARCHITECTURE.md` still describe what shipped. If
 a task skipped its doc obligation, say so rather than papering over it.
+
+## Tracking work between milestones
+
+Keep a single Unreleased section at the top of CHANGELOG. Record the last actually
+released milestone's tag, date and full commit there, and list new merged material
+below it. A merge, version bump, or authored course batch does not advance that
+milestone. Retain pending content-check status and its tracking issue until the
+checks are completed. Update the recorded last milestone and README only when the
+next release has actually been tagged and published through this procedure.

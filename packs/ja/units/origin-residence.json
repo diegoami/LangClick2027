@@ -1,0 +1,81 @@
+{
+	"id": "origin-residence",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese grammar: particles and polite forms",
+			"url": "https://en.wikipedia.org/wiki/Japanese_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "sentence:origin-residence:c01",
+			"text": "から",
+			"sentence": "ブラジル___来ました。",
+			"concepts": ["residence"]
+		},
+		{
+			"id": "c02",
+			"item": "sentence:origin-residence:c02",
+			"text": "に",
+			"sentence": "東京___住んでいます。",
+			"concepts": ["residence"]
+		},
+		{
+			"id": "c03",
+			"item": "sentence:origin-residence:c03",
+			"text": "どこ",
+			"sentence": "___に住んでいますか。",
+			"concepts": ["residence"],
+			"alsoAccepted": ["どちら"]
+		},
+		{
+			"id": "c04",
+			"item": "sentence:origin-residence:c04",
+			"text": "住んでいます",
+			"sentence": "わたしは大阪に___。",
+			"concepts": ["residence"],
+			"alsoAccepted": ["すんでいます"]
+		},
+		{
+			"id": "c05",
+			"item": "sentence:origin-residence:c05",
+			"text": "来ました",
+			"sentence": "わたしはカナダから___。",
+			"concepts": ["residence"],
+			"alsoAccepted": ["きました"]
+		},
+		{
+			"id": "c06",
+			"item": "sentence:origin-residence:c06",
+			"text": "日本",
+			"sentence": "わたしは___に住んでいます。",
+			"concepts": ["residence"],
+			"alsoAccepted": ["にほん", "にっぽん"]
+		},
+		{
+			"id": "c07",
+			"item": "sentence:origin-residence:c07",
+			"text": "と",
+			"sentence": "家族___住んでいます。",
+			"concepts": ["residence"]
+		},
+		{
+			"id": "c08",
+			"item": "sentence:origin-residence:c08",
+			"text": "人",
+			"sentence": "わたしはアメリカ___です。",
+			"concepts": ["residence"],
+			"alsoAccepted": ["じん"]
+		}
+	]
+}

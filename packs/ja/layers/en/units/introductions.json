@@ -1,0 +1,30 @@
+{
+	"title": "Introducing yourself",
+	"summary": "Find or type the Japanese form. Romanisation is a learning aid, not an accepted answer.",
+	"cells": {
+		"c01": {
+			"clue": "I; a neutral/polite first-person pronoun"
+		},
+		"c02": {
+			"clue": "name"
+		},
+		"c03": {
+			"clue": "student"
+		},
+		"c04": {
+			"clue": "teacher; a title of respect"
+		},
+		"c05": {
+			"clue": "Japan"
+		},
+		"c06": {
+			"clue": "English language"
+		},
+		"c07": {
+			"clue": "Japanese language"
+		},
+		"c08": {
+			"clue": "work; job"
+		}
+	}
+}

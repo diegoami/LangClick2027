@@ -1,0 +1,67 @@
+{
+	"id": "clarification",
+	"layout": {
+		"type": "sentences",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese grammar: particles and polite forms",
+			"url": "https://en.wikipedia.org/wiki/Japanese_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "sentence:clarification:c01",
+			"text": "一度",
+			"sentence": "もう___お願いします。",
+			"concepts": ["clarification"],
+			"alsoAccepted": ["いちど", "一回", "いっかい"]
+		},
+		{
+			"id": "c02",
+			"item": "sentence:clarification:c02",
+			"text": "ゆっくり",
+			"sentence": "もう少し___お願いします。",
+			"concepts": ["clarification"]
+		},
+		{
+			"id": "c03",
+			"item": "sentence:clarification:c03",
+			"text": "わかりません",
+			"sentence": "すみません、よく___。",
+			"concepts": ["clarification"],
+			"alsoAccepted": ["分かりません"]
+		},
+		{
+			"id": "c04",
+			"item": "sentence:clarification:c04",
+			"text": "何",
+			"sentence": "これは___ですか。",
+			"concepts": ["clarification"],
+			"alsoAccepted": ["なん"]
+		},
+		{
+			"id": "c05",
+			"item": "sentence:clarification:c05",
+			"text": "意味",
+			"sentence": "このことばはどういう___ですか。",
+			"concepts": ["clarification"],
+			"alsoAccepted": ["いみ"]
+		},
+		{
+			"id": "c06",
+			"item": "sentence:clarification:c06",
+			"text": "日本語",
+			"sentence": "これは___で何ですか。",
+			"concepts": ["clarification"],
+			"alsoAccepted": ["にほんご"]
+		}
+	]
+}

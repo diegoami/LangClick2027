@@ -1,0 +1,30 @@
+{
+	"title": "Please say it again",
+	"summary": "Use the English meaning and the Japanese context. Type Japanese, preserving small kana and long vowels.",
+	"cells": {
+		"c01": {
+			"sentenceGloss": "Once more, please.",
+			"note": "もう一度: once more."
+		},
+		"c02": {
+			"sentenceGloss": "A little more slowly, please.",
+			"note": "ゆっくり: slowly."
+		},
+		"c03": {
+			"sentenceGloss": "Sorry, I do not really understand.",
+			"note": "わかりません is a polite negative of わかる."
+		},
+		"c04": {
+			"sentenceGloss": "What is this?",
+			"note": "何 is read なん before です."
+		},
+		"c05": {
+			"sentenceGloss": "What does this word mean?",
+			"note": "意味: meaning."
+		},
+		"c06": {
+			"sentenceGloss": "What is this in Japanese?",
+			"note": "日本語: Japanese language."
+		}
+	}
+}

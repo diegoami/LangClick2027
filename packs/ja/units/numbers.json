@@ -1,0 +1,100 @@
+{
+	"id": "numbers",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese phonology: morae, consonants and vowels",
+			"url": "https://en.wikipedia.org/wiki/Japanese_phonology"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "numbers:いち",
+			"text": "いち",
+			"ipa": "/itɕi/",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["一"]
+		},
+		{
+			"id": "c02",
+			"item": "numbers:に",
+			"text": "に",
+			"ipa": "/ɲi/",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["二"]
+		},
+		{
+			"id": "c03",
+			"item": "numbers:さん",
+			"text": "さん",
+			"ipa": "/saɴ/",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["三"]
+		},
+		{
+			"id": "c04",
+			"item": "numbers:よん",
+			"text": "よん",
+			"ipa": "/joɴ/",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["四", "し"]
+		},
+		{
+			"id": "c05",
+			"item": "numbers:ご",
+			"text": "ご",
+			"ipa": "/ɡo/",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["五"]
+		},
+		{
+			"id": "c06",
+			"item": "numbers:ろく",
+			"text": "ろく",
+			"ipa": "/ɾokɯ/",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["六"]
+		},
+		{
+			"id": "c07",
+			"item": "numbers:なな",
+			"text": "なな",
+			"ipa": "/nana/",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["七", "しち"]
+		},
+		{
+			"id": "c08",
+			"item": "numbers:はち",
+			"text": "はち",
+			"ipa": "/hatɕi/",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["八"]
+		},
+		{
+			"id": "c09",
+			"item": "numbers:きゅう",
+			"text": "きゅう",
+			"ipa": "/kjɯː/",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["九", "く"]
+		},
+		{
+			"id": "c10",
+			"item": "numbers:じゅう",
+			"text": "じゅう",
+			"ipa": "/dʑɯː/",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["十"]
+		}
+	]
+}

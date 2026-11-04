@@ -1,0 +1,50 @@
+{
+	"source": {
+		"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+		"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+	},
+	"section": "starter",
+	"themeCount": 4,
+	"status": "Merged authoring is authorised; independent checks remain pending for owner reviewers.",
+	"lessons": [
+		{
+			"lesson": "l03",
+			"theme": 1,
+			"units": ["greetings", "clarification"],
+			"practice": "Greetings and clarification",
+			"sourceLessons": [1, 2]
+		},
+		{
+			"lesson": "l04",
+			"theme": 2,
+			"units": ["introductions", "noun-sentences"],
+			"practice": "Introductions and noun sentences",
+			"sourceLessons": [3]
+		},
+		{
+			"lesson": "l05",
+			"theme": 3,
+			"units": ["origin-residence"],
+			"practice": "Origin and residence",
+			"sourceLessons": [3, 4]
+		},
+		{
+			"lesson": "l06",
+			"theme": 4,
+			"units": ["numbers", "age"],
+			"practice": "Numbers and age",
+			"sourceLessons": [3, 4]
+		}
+	],
+	"sourceOnly": [
+		"Listening and pronunciation audio",
+		"Source dialogues and illustrations",
+		"Open-ended conversation and writing",
+		"The remaining Irodori Starter lessons; this is only the first batch"
+	],
+	"notes": [
+		"The first two lessons are writing foundations, not extra Irodori lesson numbers.",
+		"Typing accepts Japanese script only, including listed kana/kanji alternatives.",
+		"Broad IPA does not certify pitch accent."
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"source": {
+		"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+		"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+	},
+	"section": "sounds",
+	"themeCount": 2,
+	"status": "Merged authoring is authorised; independent checks remain pending for owner reviewers.",
+	"lessons": [
+		{
+			"lesson": "l01",
+			"theme": 1,
+			"units": ["hiragana", "mora-length"],
+			"practice": "Hiragana and morae",
+			"sourceLessons": []
+		},
+		{
+			"lesson": "l02",
+			"theme": 2,
+			"units": ["katakana", "loanwords"],
+			"practice": "Katakana and loanwords",
+			"sourceLessons": []
+		}
+	],
+	"sourceOnly": [
+		"Listening and pronunciation audio",
+		"Source dialogues and illustrations",
+		"Open-ended conversation and writing",
+		"The remaining Irodori Starter lessons; this is only the first batch"
+	],
+	"notes": [
+		"The first two lessons are writing foundations, not extra Irodori lesson numbers.",
+		"Typing accepts Japanese script only, including listed kana/kanji alternatives.",
+		"Broad IPA does not certify pitch accent."
+	]
+}

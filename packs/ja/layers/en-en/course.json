@@ -1,0 +1,84 @@
+{
+	"concepts": {
+		"kana": {
+			"title": "Kana and sound",
+			"body": "English spelling is not a reliable pronunciation guide. Shi, chi, tsu and fu label kana; the IPA shows the intended sound.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		"mora": {
+			"title": "Morae and length",
+			"body": "Do not replace a long vowel with English word stress. The extra vowel or consonant duration is part of the word.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		"loanwords": {
+			"title": "Katakana words",
+			"body": "A loanword may sound different from its English source: コーヒー has two long vowels. English spelling is not an accepted typed answer.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		"greetings": {
+			"title": "Greetings and politeness",
+			"body": "Japanese greetings depend on context and politeness. Do not assume that one English goodbye maps to every Japanese parting phrase.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		"clarification": {
+			"title": "Asking for help",
+			"body": "A polite request such as もう一度お願いします does not need an English-style subject or auxiliary.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		"copula": {
+			"title": "Topics and polite noun sentences",
+			"body": "は marks a topic; it is not the verb is. です comes at the end of a polite noun sentence. This is a starting pattern, not a claim that every sentence needs は or a stated subject.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		"residence": {
+			"title": "Origin and residence",
+			"body": "Japanese places the particle after the noun: 東京に, in Tokyo. Do not copy English preposition order.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		"numbers": {
+			"title": "Numbers and age",
+			"body": "A bare number is not automatically the form used before a counter. Age one is いっさい, not いちさい. Use Japanese input; English number words and romanisation are not answers.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		}
+	}
+}

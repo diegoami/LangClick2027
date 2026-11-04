@@ -43,6 +43,14 @@ are deferred; their old version slots below are historical plans, not prerequisi
 
 ## Milestones
 
+Japanese now has an initial six-lesson pack under [#66](https://github.com/diegoami/LangClick2027/issues/66), linking the Japan Foundation's Irodori Starter course. Eleven boards contain 158 cells: writing foundations, greetings, clarification, introductions, residence, numbers and age. Explanations and comparison are initially English; typing requires Japanese script, including listed kana/kanji alternatives. This supports the first four source lessons, not the whole eighteen-lesson course. Voiced/contracted kana tables, later themes and pitch-accent training remain to be added.
+
+The owner authorized merging authored material while independent checks remain
+pending for their own reviewers in [#67](https://github.com/diegoami/LangClick2027/issues/67).
+The last released milestone remains **v0.7.0**, at
+`b93896c60ff747c645f7a4f56584abce58bd8d80`; new merged material stays under
+`CHANGELOG.md` → Unreleased until a later milestone is explicitly made.
+
 | Milestone | Delivers                                                                                                                                                                                                                                                    |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | v0.1.0    | Ukrainian, 3 units (alphabet, one noun case table, one vocabulary set), with Overview, Known, drag quiz and saved progress                                                                                                                                  |

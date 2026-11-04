@@ -1,0 +1,62 @@
+{
+	"id": "mora-length",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese phonology: morae, consonants and vowels",
+			"url": "https://en.wikipedia.org/wiki/Japanese_phonology"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "mora-length:おばさん",
+			"text": "おばさん",
+			"ipa": "/obasaɴ/",
+			"concepts": ["mora"]
+		},
+		{
+			"id": "c02",
+			"item": "mora-length:おばあさん",
+			"text": "おばあさん",
+			"ipa": "/obaːsaɴ/",
+			"concepts": ["mora"]
+		},
+		{
+			"id": "c03",
+			"item": "mora-length:きて",
+			"text": "きて",
+			"ipa": "/kite/",
+			"concepts": ["mora"]
+		},
+		{
+			"id": "c04",
+			"item": "mora-length:きって",
+			"text": "きって",
+			"ipa": "/kitːe/",
+			"concepts": ["mora"]
+		},
+		{
+			"id": "c05",
+			"item": "mora-length:ゆき",
+			"text": "ゆき",
+			"ipa": "/jɯki/",
+			"concepts": ["mora"]
+		},
+		{
+			"id": "c06",
+			"item": "mora-length:ゆうき",
+			"text": "ゆうき",
+			"ipa": "/jɯːki/",
+			"concepts": ["mora"]
+		}
+	]
+}

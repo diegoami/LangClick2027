@@ -1,0 +1,342 @@
+{
+	"id": "hiragana",
+	"layout": {
+		"type": "grid",
+		"size": 46
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese phonology: morae, consonants and vowels",
+			"url": "https://en.wikipedia.org/wiki/Japanese_phonology"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "hiragana:あ",
+			"text": "あ",
+			"ipa": "/a/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c02",
+			"item": "hiragana:い",
+			"text": "い",
+			"ipa": "/i/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c03",
+			"item": "hiragana:う",
+			"text": "う",
+			"ipa": "/ɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c04",
+			"item": "hiragana:え",
+			"text": "え",
+			"ipa": "/e/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c05",
+			"item": "hiragana:お",
+			"text": "お",
+			"ipa": "/o/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c06",
+			"item": "hiragana:か",
+			"text": "か",
+			"ipa": "/ka/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c07",
+			"item": "hiragana:き",
+			"text": "き",
+			"ipa": "/ki/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c08",
+			"item": "hiragana:く",
+			"text": "く",
+			"ipa": "/kɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c09",
+			"item": "hiragana:け",
+			"text": "け",
+			"ipa": "/ke/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c10",
+			"item": "hiragana:こ",
+			"text": "こ",
+			"ipa": "/ko/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c11",
+			"item": "hiragana:さ",
+			"text": "さ",
+			"ipa": "/sa/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c12",
+			"item": "hiragana:し",
+			"text": "し",
+			"ipa": "/ɕi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c13",
+			"item": "hiragana:す",
+			"text": "す",
+			"ipa": "/sɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c14",
+			"item": "hiragana:せ",
+			"text": "せ",
+			"ipa": "/se/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c15",
+			"item": "hiragana:そ",
+			"text": "そ",
+			"ipa": "/so/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c16",
+			"item": "hiragana:た",
+			"text": "た",
+			"ipa": "/ta/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c17",
+			"item": "hiragana:ち",
+			"text": "ち",
+			"ipa": "/tɕi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c18",
+			"item": "hiragana:つ",
+			"text": "つ",
+			"ipa": "/tsɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c19",
+			"item": "hiragana:て",
+			"text": "て",
+			"ipa": "/te/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c20",
+			"item": "hiragana:と",
+			"text": "と",
+			"ipa": "/to/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c21",
+			"item": "hiragana:な",
+			"text": "な",
+			"ipa": "/na/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c22",
+			"item": "hiragana:に",
+			"text": "に",
+			"ipa": "/ɲi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c23",
+			"item": "hiragana:ぬ",
+			"text": "ぬ",
+			"ipa": "/nɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c24",
+			"item": "hiragana:ね",
+			"text": "ね",
+			"ipa": "/ne/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c25",
+			"item": "hiragana:の",
+			"text": "の",
+			"ipa": "/no/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c26",
+			"item": "hiragana:は",
+			"text": "は",
+			"ipa": "/ha/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c27",
+			"item": "hiragana:ひ",
+			"text": "ひ",
+			"ipa": "/çi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c28",
+			"item": "hiragana:ふ",
+			"text": "ふ",
+			"ipa": "/ɸɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c29",
+			"item": "hiragana:へ",
+			"text": "へ",
+			"ipa": "/he/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c30",
+			"item": "hiragana:ほ",
+			"text": "ほ",
+			"ipa": "/ho/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c31",
+			"item": "hiragana:ま",
+			"text": "ま",
+			"ipa": "/ma/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c32",
+			"item": "hiragana:み",
+			"text": "み",
+			"ipa": "/mi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c33",
+			"item": "hiragana:む",
+			"text": "む",
+			"ipa": "/mɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c34",
+			"item": "hiragana:め",
+			"text": "め",
+			"ipa": "/me/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c35",
+			"item": "hiragana:も",
+			"text": "も",
+			"ipa": "/mo/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c36",
+			"item": "hiragana:や",
+			"text": "や",
+			"ipa": "/ja/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c37",
+			"item": "hiragana:ゆ",
+			"text": "ゆ",
+			"ipa": "/jɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c38",
+			"item": "hiragana:よ",
+			"text": "よ",
+			"ipa": "/jo/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c39",
+			"item": "hiragana:ら",
+			"text": "ら",
+			"ipa": "/ɾa/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c40",
+			"item": "hiragana:り",
+			"text": "り",
+			"ipa": "/ɾi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c41",
+			"item": "hiragana:る",
+			"text": "る",
+			"ipa": "/ɾɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c42",
+			"item": "hiragana:れ",
+			"text": "れ",
+			"ipa": "/ɾe/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c43",
+			"item": "hiragana:ろ",
+			"text": "ろ",
+			"ipa": "/ɾo/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c44",
+			"item": "hiragana:わ",
+			"text": "わ",
+			"ipa": "/wa/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c45",
+			"item": "hiragana:を",
+			"text": "を",
+			"ipa": "/o/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c46",
+			"item": "hiragana:ん",
+			"text": "ん",
+			"ipa": "/ɴ/",
+			"concepts": ["kana"]
+		}
+	]
+}

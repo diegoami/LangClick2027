@@ -5,8 +5,10 @@ expected to learn, you quiz yourself by filling it in, and what you get right
 shows as known. Content comes as pluggable language packs, starting with
 Ukrainian. Created by Diego Amicabile.
 
-Early development. [v0.1.0](https://github.com/diegoami/LangClick2027/releases/tag/v0.1.0)
-runs from source; there are no installers yet.
+The last released milestone is [v0.7.0](https://github.com/diegoami/LangClick2027/releases/tag/v0.7.0)
+(2026-11-04). [CHANGELOG.md](CHANGELOG.md) records its exact commit and the merged
+material since it under **Unreleased**, including pending content checks.
+Run from source; there are no installers yet.
 
 ## Quick start
 

@@ -1,0 +1,342 @@
+{
+	"id": "katakana",
+	"layout": {
+		"type": "grid",
+		"size": 46
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese phonology: morae, consonants and vowels",
+			"url": "https://en.wikipedia.org/wiki/Japanese_phonology"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "katakana:ア",
+			"text": "ア",
+			"ipa": "/a/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c02",
+			"item": "katakana:イ",
+			"text": "イ",
+			"ipa": "/i/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c03",
+			"item": "katakana:ウ",
+			"text": "ウ",
+			"ipa": "/ɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c04",
+			"item": "katakana:エ",
+			"text": "エ",
+			"ipa": "/e/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c05",
+			"item": "katakana:オ",
+			"text": "オ",
+			"ipa": "/o/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c06",
+			"item": "katakana:カ",
+			"text": "カ",
+			"ipa": "/ka/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c07",
+			"item": "katakana:キ",
+			"text": "キ",
+			"ipa": "/ki/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c08",
+			"item": "katakana:ク",
+			"text": "ク",
+			"ipa": "/kɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c09",
+			"item": "katakana:ケ",
+			"text": "ケ",
+			"ipa": "/ke/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c10",
+			"item": "katakana:コ",
+			"text": "コ",
+			"ipa": "/ko/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c11",
+			"item": "katakana:サ",
+			"text": "サ",
+			"ipa": "/sa/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c12",
+			"item": "katakana:シ",
+			"text": "シ",
+			"ipa": "/ɕi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c13",
+			"item": "katakana:ス",
+			"text": "ス",
+			"ipa": "/sɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c14",
+			"item": "katakana:セ",
+			"text": "セ",
+			"ipa": "/se/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c15",
+			"item": "katakana:ソ",
+			"text": "ソ",
+			"ipa": "/so/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c16",
+			"item": "katakana:タ",
+			"text": "タ",
+			"ipa": "/ta/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c17",
+			"item": "katakana:チ",
+			"text": "チ",
+			"ipa": "/tɕi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c18",
+			"item": "katakana:ツ",
+			"text": "ツ",
+			"ipa": "/tsɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c19",
+			"item": "katakana:テ",
+			"text": "テ",
+			"ipa": "/te/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c20",
+			"item": "katakana:ト",
+			"text": "ト",
+			"ipa": "/to/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c21",
+			"item": "katakana:ナ",
+			"text": "ナ",
+			"ipa": "/na/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c22",
+			"item": "katakana:ニ",
+			"text": "ニ",
+			"ipa": "/ɲi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c23",
+			"item": "katakana:ヌ",
+			"text": "ヌ",
+			"ipa": "/nɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c24",
+			"item": "katakana:ネ",
+			"text": "ネ",
+			"ipa": "/ne/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c25",
+			"item": "katakana:ノ",
+			"text": "ノ",
+			"ipa": "/no/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c26",
+			"item": "katakana:ハ",
+			"text": "ハ",
+			"ipa": "/ha/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c27",
+			"item": "katakana:ヒ",
+			"text": "ヒ",
+			"ipa": "/çi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c28",
+			"item": "katakana:フ",
+			"text": "フ",
+			"ipa": "/ɸɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c29",
+			"item": "katakana:ヘ",
+			"text": "ヘ",
+			"ipa": "/he/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c30",
+			"item": "katakana:ホ",
+			"text": "ホ",
+			"ipa": "/ho/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c31",
+			"item": "katakana:マ",
+			"text": "マ",
+			"ipa": "/ma/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c32",
+			"item": "katakana:ミ",
+			"text": "ミ",
+			"ipa": "/mi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c33",
+			"item": "katakana:ム",
+			"text": "ム",
+			"ipa": "/mɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c34",
+			"item": "katakana:メ",
+			"text": "メ",
+			"ipa": "/me/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c35",
+			"item": "katakana:モ",
+			"text": "モ",
+			"ipa": "/mo/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c36",
+			"item": "katakana:ヤ",
+			"text": "ヤ",
+			"ipa": "/ja/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c37",
+			"item": "katakana:ユ",
+			"text": "ユ",
+			"ipa": "/jɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c38",
+			"item": "katakana:ヨ",
+			"text": "ヨ",
+			"ipa": "/jo/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c39",
+			"item": "katakana:ラ",
+			"text": "ラ",
+			"ipa": "/ɾa/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c40",
+			"item": "katakana:リ",
+			"text": "リ",
+			"ipa": "/ɾi/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c41",
+			"item": "katakana:ル",
+			"text": "ル",
+			"ipa": "/ɾɯ/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c42",
+			"item": "katakana:レ",
+			"text": "レ",
+			"ipa": "/ɾe/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c43",
+			"item": "katakana:ロ",
+			"text": "ロ",
+			"ipa": "/ɾo/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c44",
+			"item": "katakana:ワ",
+			"text": "ワ",
+			"ipa": "/wa/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c45",
+			"item": "katakana:ヲ",
+			"text": "ヲ",
+			"ipa": "/o/",
+			"concepts": ["kana"]
+		},
+		{
+			"id": "c46",
+			"item": "katakana:ン",
+			"text": "ン",
+			"ipa": "/ɴ/",
+			"concepts": ["kana"]
+		}
+	]
+}

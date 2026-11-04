@@ -1,0 +1,30 @@
+{
+	"title": "Saying your age",
+	"summary": "Use the English meaning and the Japanese context. Type Japanese, preserving small kana and long vowels.",
+	"cells": {
+		"c01": {
+			"sentenceGloss": "The child is one year old.",
+			"note": "いち + さい becomes いっさい."
+		},
+		"c02": {
+			"sentenceGloss": "My younger sister is two years old.",
+			"note": "に + さい: にさい."
+		},
+		"c03": {
+			"sentenceGloss": "My younger brother is three years old.",
+			"note": "さん + さい: さんさい."
+		},
+		"c04": {
+			"sentenceGloss": "The child is now six years old.",
+			"note": "For six years old, ろく remains ろく before さい."
+		},
+		"c05": {
+			"sentenceGloss": "My elder sister’s child is eight years old.",
+			"note": "はち + さい becomes はっさい."
+		},
+		"c06": {
+			"sentenceGloss": "I am twenty years old.",
+			"note": "はたち is the special age word for twenty."
+		}
+	}
+}

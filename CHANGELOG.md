@@ -3,19 +3,25 @@
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
 ## Unreleased
-+
-+Last released milestone: [v0.7.0](https://github.com/diegoami/LangClick2027/releases/tag/v0.7.0),
-+2026-11-04, commit `b93896c60ff747c645f7a4f56584abce58bd8d80`.
-+New material below is not a tagged or independently checked release.
-+
-+- Swedish level 3: lessons 25–36 following Hej svenska 3, with 30 boards and
-+  222 cells. Includes additional practice of clause order, comparisons, definite
-+  plurals, journey conjunctions, borrowing/lending and sentence adverbs.
-+- The owner authorized merging authored content while independent checks remain
-+  pending for their reviewers. Pending checks and the existing Ukrainian
-+  phone-layout test failures remain visible; no passing verdicts are fabricated.
-+
-+## v0.7.0 — 2026-11-04 — Swedish, level 2
+
+Last released milestone: [v0.7.0](https://github.com/diegoami/LangClick2027/releases/tag/v0.7.0),
+2026-11-04, commit `b93896c60ff747c645f7a4f56584abce58bd8d80`.
+New material below is not a tagged or independently checked release.
+
+- Swedish level 3: lessons 25–36 following Hej svenska 3, with 30 boards and
+  222 cells. Includes additional practice of clause order, comparisons, definite
+  plurals, journey conjunctions, borrowing/lending and sentence adverbs.
+- The owner authorized merging authored content while independent checks remain
+  pending for their reviewers. Pending checks and the existing Ukrainian
+  phone-layout test failures remain visible; no passing verdicts are fabricated.
+- Japanese starter: six lessons, eleven boards and 158 cells covering the 46 basic
+  hiragana and katakana, mora length, loanwords, greetings, clarification,
+  introductions, residence, numbers and age. English explanations link Irodori
+  Starter for study and audio; this is an initial batch, not its full course.
+- Pending independent content checks for both additions are tracked in
+  [#67](https://github.com/diegoami/LangClick2027/issues/67).
+
+## v0.7.0 — 2026-11-04 — Swedish, level 2
 
 **Swedish continues with the ten themes of Hej svenska level 2: the past and the future, pronouns as objects, and the everyday grammar of talking about your life.**
 

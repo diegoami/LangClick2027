@@ -43,6 +43,13 @@ source theme and boards, and distinguishes the source's listening, reading and
 writing tasks. English base text and English/German comparison concepts use the
 same layer merge as earlier lessons; no engine behaviour changes.
 
+`packs/ja` uses the same manifest discovery, with an English base and comparison
+overlay. The first six lessons use grid and sentence layouts. Hiragana, Katakana,
+Han and Common scripts are declared in the pack; Common permits the long-vowel
+mark and numeric age alternatives, while Latin answers remain excluded.
+Kana/kanji alternatives use `alsoAccepted`. Its coverage ledgers separate writing
+foundations from practice supporting Irodori Starter's first four lessons.
+
 ## How a unit plays
 
 `Board.svelte` draws a unit's `layout` as a table, a grid or a list of sentences, and each cell carries

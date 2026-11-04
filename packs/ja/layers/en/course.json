@@ -1,0 +1,144 @@
+{
+	"sections": {
+		"sounds": {
+			"title": "Writing and sounds"
+		},
+		"starter": {
+			"title": "Starter: first steps"
+		}
+	},
+	"lessons": {
+		"l01": {
+			"title": "Lesson 1: Hiragana and morae"
+		},
+		"l02": {
+			"title": "Lesson 2: Katakana and loanwords"
+		},
+		"l03": {
+			"title": "Lesson 3: Greetings and clarification"
+		},
+		"l04": {
+			"title": "Lesson 4: Introductions and noun sentences"
+		},
+		"l05": {
+			"title": "Lesson 5: Origin and residence"
+		},
+		"l06": {
+			"title": "Lesson 6: Numbers and age"
+		}
+	},
+	"concepts": {
+		"kana": {
+			"title": "Kana and sound",
+			"body": "Kana represent sound units, not English letters. Learn each script separately. Romanisation in clues is a reading aid; type the Japanese answer. Basic kana omit voiced and contracted combinations, which come later.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				},
+				{
+					"title": "Japanese phonology: morae, consonants and vowels",
+					"url": "https://en.wikipedia.org/wiki/Japanese_phonology"
+				}
+			]
+		},
+		"mora": {
+			"title": "Morae and length",
+			"body": "Long vowels and a small っ change meaning. おばさん has four morae; おばあさん has five. A small っ occupies a mora and lengthens the following consonant. IPA here gives broad standard-Tokyo segments, not pitch accent; vowel devoicing and detailed allophones are not encoded.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				},
+				{
+					"title": "Japanese phonology: morae, consonants and vowels",
+					"url": "https://en.wikipedia.org/wiki/Japanese_phonology"
+				}
+			]
+		},
+		"loanwords": {
+			"title": "Katakana words",
+			"body": "Katakana is commonly used for loanwords. The mark ー lengthens the preceding vowel. Spell these words in katakana, including small characters and the length mark.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				},
+				{
+					"title": "Japanese phonology: morae, consonants and vowels",
+					"url": "https://en.wikipedia.org/wiki/Japanese_phonology"
+				}
+			]
+		},
+		"greetings": {
+			"title": "Greetings and politeness",
+			"body": "Choose expressions for the situation. おはようございます is a polite morning greeting; おはよう is casual. Set phrases are learned as phrases. The は in こんにちは and こんばんは is pronounced /wa/.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				},
+				{
+					"title": "Japanese grammar: particles and polite forms",
+					"url": "https://en.wikipedia.org/wiki/Japanese_grammar"
+				}
+			]
+		},
+		"clarification": {
+			"title": "Asking for help",
+			"body": "Use short polite phrases to ask for repetition, slower speech or a word’s meaning. もう一度 means once more. These boards practise language, not listening comprehension.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				},
+				{
+					"title": "Japanese grammar: particles and polite forms",
+					"url": "https://en.wikipedia.org/wiki/Japanese_grammar"
+				}
+			]
+		},
+		"copula": {
+			"title": "Topics and polite noun sentences",
+			"body": "X は Y です introduces X as the topic and says it is Y. The particle は is written ha but pronounced /wa/. か marks a question. ではありません is a polite negative; じゃありません is also accepted here. Japanese does not mark grammatical gender or add a/an.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				},
+				{
+					"title": "Japanese grammar: particles and polite forms",
+					"url": "https://en.wikipedia.org/wiki/Japanese_grammar"
+				}
+			]
+		},
+		"residence": {
+			"title": "Origin and residence",
+			"body": "から can mark origin. に marks the place of residence with 住んでいます. Use polite forms here; an origin phrase and a residence phrase make different claims.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				},
+				{
+					"title": "Japanese grammar: particles and polite forms",
+					"url": "https://en.wikipedia.org/wiki/Japanese_grammar"
+				}
+			]
+		},
+		"numbers": {
+			"title": "Numbers and age",
+			"body": "Numbers have several readings. This board accepts し for four, しち for seven and く for nine alongside よん, なな and きゅう. Age uses the counter 歳, with changes such as いっさい and はっさい, and the special form はたち for twenty. It is not a complete system of counters.",
+			"sources": [
+				{
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				},
+				{
+					"title": "Japanese grammar: particles and polite forms",
+					"url": "https://en.wikipedia.org/wiki/Japanese_grammar"
+				}
+			]
+		}
+	}
+}

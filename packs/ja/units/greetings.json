@@ -1,0 +1,76 @@
+{
+	"id": "greetings",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese phonology: morae, consonants and vowels",
+			"url": "https://en.wikipedia.org/wiki/Japanese_phonology"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "greetings:おはようございます",
+			"text": "おはようございます",
+			"ipa": "/ohajoːɡozaimasɯ/",
+			"concepts": ["greetings"]
+		},
+		{
+			"id": "c02",
+			"item": "greetings:おはよう",
+			"text": "おはよう",
+			"ipa": "/ohajoː/",
+			"concepts": ["greetings"]
+		},
+		{
+			"id": "c03",
+			"item": "greetings:こんにちは",
+			"text": "こんにちは",
+			"ipa": "/koɴnitɕiwa/",
+			"concepts": ["greetings"]
+		},
+		{
+			"id": "c04",
+			"item": "greetings:こんばんは",
+			"text": "こんばんは",
+			"ipa": "/koɴbaɴwa/",
+			"concepts": ["greetings"]
+		},
+		{
+			"id": "c05",
+			"item": "greetings:ありがとうございます",
+			"text": "ありがとうございます",
+			"ipa": "/aɾiɡatoːɡozaimasɯ/",
+			"concepts": ["greetings"]
+		},
+		{
+			"id": "c06",
+			"item": "greetings:すみません",
+			"text": "すみません",
+			"ipa": "/sɯmimaseɴ/",
+			"concepts": ["greetings"]
+		},
+		{
+			"id": "c07",
+			"item": "greetings:さようなら",
+			"text": "さようなら",
+			"ipa": "/sajoːnaɾa/",
+			"concepts": ["greetings"]
+		},
+		{
+			"id": "c08",
+			"item": "greetings:おやすみなさい",
+			"text": "おやすみなさい",
+			"ipa": "/ojasɯminasai/",
+			"concepts": ["greetings"]
+		}
+	]
+}
