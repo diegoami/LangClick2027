@@ -6,17 +6,44 @@
 		{
 			"number": 1,
 			"title": "Алфавіт. Відмінності звуків",
-			"units": ["alphabet", "letter-names", "ru-letters", "pl-letters"]
+			"units": ["alphabet", "letter-names", "ru-letters", "pl-letters"],
+			"status": "core-mapped",
+			"scope": [
+				"The 33 letters, their names and their order",
+				"Vowel and consonant letters, the soft sign and the apostrophe",
+				"Letters that differ from Russian, and ё written as йо or ьо",
+				"дж and дз as one sound written with two letters"
+			],
+			"scopeEvidence": "Lesson notes read 2026-11-04 in the owner's private reference copy; the video and the tasks were not reopened. The alphabet, letter-name and comparison boards map the letters; дж and дз are on the lesson 3 consonant chart.",
+			"boundary": "Repeating the letters with the video stays in the source. This mapping covers practice of the letters, not pronunciation training."
 		},
 		{
 			"number": 2,
 			"title": "Вимова голосних звуків",
-			"units": ["vowel-chart", "i-or-y", "unstressed-o", "stress-pairs"]
+			"units": ["vowel-chart", "i-or-y", "unstressed-o", "stress-pairs"],
+			"status": "core-mapped",
+			"scope": [
+				"і against и, and the consonant before each",
+				"е and є; ї as two sounds",
+				"о, а and у keep their quality without stress",
+				"Stress that tells words apart"
+			],
+			"scopeEvidence": "Lesson notes read 2026-11-04 in the owner's private reference copy; the video and the tasks were not reopened. The vowel chart, the і/и pairs, the unstressed-о board and the stress pairs map the objectives.",
+			"boundary": "The tongue-twister, the singing practice and the merging of unstressed е and и stay in the source, which explains them; they are not drilled here."
 		},
 		{
 			"number": 3,
 			"title": "Вимова приголосних звуків",
-			"units": ["consonant-chart", "h-or-g", "final-voiced", "hard-labials"]
+			"units": ["consonant-chart", "h-or-g", "final-voiced", "hard-labials"],
+			"status": "core-mapped",
+			"scope": [
+				"г against ґ",
+				"Hard ч and щ, and ц hard or soft",
+				"Hard labials and voiced consonants at the end of a word",
+				"в never devoiced; hushing consonants hard, half-soft before і"
+			],
+			"scopeEvidence": "Lesson notes read 2026-11-04 in the owner's private reference copy; the video and the tasks were not reopened. The consonant chart, the г/ґ board, the final-voiced board and the hard-labials board map the objectives; the soft-hard concept states which consonants pair soft with hard.",
+			"boundary": "The tongue-twisters and the articulation exercises stay in the source. This mapping covers recognising the sounds and their spellings, not pronunciation training."
 		},
 		{
 			"number": 4,
@@ -31,12 +58,29 @@
 				"pronouns-sentences",
 				"vocative",
 				"vocative-sentences"
-			]
+			],
+			"status": "core-mapped",
+			"scope": [
+				"Asking and giving a name with звати and with ім'я",
+				"Personal pronouns by case",
+				"Possessives with ім'я, and polite Ви against ти"
+			],
+			"scopeEvidence": "Lesson summary read 2026-11-04 in the owner's private reference copy (an English digest of the notes); the signed-in course page was not reopened. The lesson words, phrases, pronoun tables and sentences map the objectives. The countries boards were mapped to this lesson when it was first written (#27); the digest does not show that topic, so it is not claimed as source scope here.",
+			"boundary": "The source dialogues and the video stay in the course. This mapping covers practice of its vocabulary and grammar, not conversation."
 		},
 		{
 			"number": 5,
 			"title": "Привітання. Звертання. Етикетні формули",
-			"units": ["l05-words", "l05-phrases", "l05-names", "vocative", "vocative-sentences"]
+			"units": ["l05-words", "l05-phrases", "l05-names", "vocative", "vocative-sentences"],
+			"status": "core-mapped",
+			"scope": [
+				"Greetings and farewells by time of day and register",
+				"Як справи? and its answers",
+				"Forms of address: пане, пані, друже, колеги",
+				"The vocative of first names and patronymics"
+			],
+			"scopeEvidence": "Lesson summary read 2026-11-04 in the owner's private reference copy (an English digest of the notes); the signed-in course page was not reopened. The lesson words and phrases, the name and vocative boards map the objectives.",
+			"boundary": "The source dialogues and the video stay in the course. This mapping covers practice of its vocabulary and grammar, not conversation."
 		},
 		{
 			"number": 6,
@@ -51,7 +95,16 @@
 				"l06-numbers",
 				"time-count",
 				"l06-phrases"
-			]
+			],
+			"status": "core-mapped",
+			"scope": [
+				"Units of time, from the second to the year",
+				"Asking and telling the time, at a time, and how long",
+				"Stress on -на́дцять in 11 to 19",
+				"Days of the week, months, seasons and when"
+			],
+			"scopeEvidence": "Signed-in lesson notes and task text read 2026-11-04 in the owner's course session. The time words, clock, numbers, counting, days, months and seasons boards map the objectives, with the source's alternatives (весною, зимою) accepted when typed.",
+			"boundary": "The free description of an ideal day and the source dialogues stay in the course. This mapping covers practice of its vocabulary and grammar, not conversation."
 		},
 		{
 			"number": 7,
@@ -65,12 +118,30 @@
 				"past-sentences",
 				"future",
 				"future-sentences"
-			]
+			],
+			"status": "core-mapped",
+			"scope": [
+				"бу́ти: є in the present, its past forms and its future",
+				"The future with бу́ду and an infinitive",
+				"Everyday verbs of work and rest",
+				"Weekdays, the weekend, and messages and calls"
+			],
+			"scopeEvidence": "Signed-in lesson notes and task text read 2026-11-04 in the owner's course session. The lesson words, verb tables, past and future boards and their sentences map the objectives; on a day and from a day are practised with the days.",
+			"boundary": "The forum writing and the photo tour stay in the course. This mapping covers practice of its vocabulary and grammar, not free writing."
 		},
 		{
 			"number": 8,
 			"title": "Погода",
-			"units": ["l08-words", "weather", "colours", "l08-sentences"]
+			"units": ["l08-words", "weather", "colours", "l08-sentences"],
+			"status": "core-mapped",
+			"scope": [
+				"Weather words and phenomena through the seasons",
+				"Weather adjectives and the forms in -о",
+				"The colours of the rainbow, agreeing in gender and number",
+				"красний means beautiful, not red"
+			],
+			"scopeEvidence": "Signed-in lesson notes and task text read 2026-11-04 in the owner's course session. The lesson words, the weather and colour tables and the sentences map the objectives.",
+			"boundary": "Describing today's weather on the forum and the song exercise stay in the course. This mapping covers practice of its vocabulary and grammar."
 		},
 		{
 			"number": 9,
