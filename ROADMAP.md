@@ -20,7 +20,7 @@ Exercises are original, and private source text is absent from the pack. Listeni
 reading, recipes and open-ended writing stay in the linked source. No native speaker has
 reviewed the content; two independent AI content checks pass every target.
 
-**Swedish level 1 is merged, and v0.6.0 is in release preparation.** The design is agreed in
+**[v0.6.0](https://github.com/diegoami/LangClick2027/releases/tag/v0.6.0) is released: Swedish, level 1.** [Milestone #56](https://github.com/diegoami/LangClick2027/issues/56) received AGREE on the exact tagged commit, `082907ac75cf1651f9df3be8c896a0f11315bb3c`. The design is agreed in
 [#43](https://github.com/diegoami/LangClick2027/issues/43): the course follows Hej svenska level
 
 1. Its ten themes are twelve lessons, with 38 boards and 396 cells:
