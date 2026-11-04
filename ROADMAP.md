@@ -20,9 +20,17 @@ Exercises are original, and private source text is absent from the pack. Listeni
 reading, recipes and open-ended writing stay in the linked source. No native speaker has
 reviewed the content; two independent AI content checks pass every target.
 
-**Swedish is next**, before optional extras. Its design is agreed in
-[#43](https://github.com/diegoami/LangClick2027/issues/43): it follows Hej svenska level 1.
-All ten themes of level 1 are implemented as twelve lessons. Lessons 1–3 cover Tema 3 (letters and sounds, numbers, phrases), and lessons 4–12 cover Bostad, Kläder, Mat, Familj, Kroppen, Tid, Jobb, SOS and Min stad. Grammar is placed where the themes need it: en/ett and the definite ending, adjective agreement, plurals, possessives, the present tense and the imperative. Lessons 1–3 are merged; lessons 4–12 await owner testing. When they are merged, v0.6.0 ships Swedish level 1.
+**Swedish level 1 is merged, and v0.6.0 is in release preparation.** The design is agreed in
+[#43](https://github.com/diegoami/LangClick2027/issues/43): the course follows Hej svenska level
+
+1. Its ten themes are twelve lessons, with 38 boards and 396 cells:
+
+- lessons 1–3 cover Tema 3 (letters and sounds, numbers, phrases);
+- lessons 4–12 cover Bostad, Kläder, Mat, Familj, Kroppen, Tid, Jobb, SOS and Min stad.
+
+The grammar sits where the themes need it: en/ett and the definite ending, adjective
+agreement, plurals, possessives, the present tense and the imperative. Explanations are in
+English, with comparisons with English and German.
 
 On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
 extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided

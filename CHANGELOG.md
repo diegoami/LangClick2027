@@ -2,6 +2,26 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
+## v0.6.0 — 2026-11-04 — Swedish, level 1
+
+**Langclick gains a second language: Swedish, following the ten themes of Hej svenska level 1, in the tray or typed, explained in English and compared with English or German.**
+
+For players:
+
+- Swedish appears on the home page beside Ukrainian, and German and English join the comparison choices.
+- Sounds and basics, lessons 1–3: the 29 letters, the nine long vowels, pairs that only length tells apart (tak, tack), the sj- and tj-sounds, numbers from noll to tusen, greetings, introductions and the weather.
+- Themes, lessons 4–12: housing, clothes and colours, food and drink, the family, the body and health, time, work, emergencies, and finding your way in town.
+- Grammar where the themes need it: en- and ett-words and "the" as an ending, adjectives that agree, the five plural groups and plurals that change the vowel, possessives, the present tense, the imperative, and telling the time (halv tre is half past two).
+- Every word, form and table cell has a transcription that marks vowel and consonant length, the retroflex sounds and the two word accents. The convention, after Engstrand (1990), is written down in `packs/README.md`.
+- Comparisons with English and German name cognates and false friends: ost is not cheese, ben is a leg, halv tre is German halb drei.
+- Ukrainian: та́к собі now shows its stress, which matches its transcription (#49).
+
+Each lesson links its Hej svenska theme and is authored for Langclick, copying nothing. Two independent content checks passed all 818 Swedish targets on their exact current text. Where Lexin and Wiktionary disagree (ursäkta, god in the greetings), the cells follow Lexin.
+
+Not included: Hej svenska levels 2–4, Swedish explained in languages other than English, audio, downloads or speech. The comparison language is still one setting for every pack. No native speaker has reviewed the Swedish content; the checks are AI checks against Lexin, Wiktionary and published phonetic descriptions, and a few accents (händer, fötter, tänder, föräldrar) rest on general rules where no dictionary marks the form.
+
+Not tried during release preparation: manual play of every lesson, a real phone, touch drag, or browsers other than those the automated gates exercise. The reviewed and tagged commit is named in the GitHub release.
+
 ## v0.5.0 — 2026-11-04 — The whole Ukrainian course
 
 **All 27 lessons of Є-мова's "Українська за 27 уроків" now have practice here, in the tray or typed, explained in English, Russian, Polish or Ukrainian and compared with Russian or Polish.**
