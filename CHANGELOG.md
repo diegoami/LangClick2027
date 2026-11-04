@@ -2,14 +2,26 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
-## Unreleased
+## v0.5.0 — 2026-11-04 — The whole Ukrainian course
 
-- Original practice for the remaining eMova lessons 11–27: body and appearance, clothing, home, food, restaurants, travel, character, leisure, services, health, holidays, nature and studying. Every lesson links to its source, with core objectives and source-only activities mapped in the coverage ledger.
-- Grammar in context: body locatives, adjective agreement and comparison, clothing sizes, recipe quantities, motion and future forms, directions, payment and hobby phrases, study/teach verb government and imperatives. The existing general grammar boards keep their permanent item IDs and ownership.
-- Source claims are checked against dictionaries and current official references. Limited word senses and updated civil holiday dates are explained rather than repeating overly broad or outdated course rules.
-- Lesson 9 of Є-мова: kinship, marriage and generations; possessive forms, family genitives and original sentence gaps, alongside the existing family board. The course's scope is mapped without copying its notes or exercises.
-- Lesson 10: profession names and their word families, feminine forms, workplace locations and original sentences for professions and work. Tray and typing, with explanations in English, Russian, Polish and Ukrainian.
-- Dictionary-supported alternatives are accepted when typed. The great-grandfather board follows the academic dictionary's пра́дідусь and explains where the course notes differ. The course's preferred лікар remains the shown answer, while colloquial доктор is accepted and labelled.
+**All 27 lessons of Є-мова's "Українська за 27 уроків" now have practice here, in the tray or typed, explained in English, Russian, Polish or Ukrainian and compared with Russian or Polish.**
+
+For players:
+
+- Lesson 9: kinship, marriage and generations, with possessives, family genitives and sentences. The great-grandfather board follows the academic dictionary's пра́дідусь and explains where the course notes differ.
+- Lesson 10: professions and their word families, feminine forms and workplaces. лі́кар is the answer shown, and colloquial до́ктор is accepted when typed.
+- Lessons 11–27: the body and appearance, clothing and sizes, the home, food and recipes, restaurants and money, transport and directions, the city, travel, character, hobbies, services, health, holidays, nature and studying.
+- Grammar in context throughout: locatives, adjective agreement and comparison, motion verbs and the perfective future, verb government, and imperatives.
+- Every word, verb form and table cell has a phonemic transcription, and the whole course follows one convention, written down in `packs/README.md`. It covers which consonants soften before і, length, кв as /kʋ/, дц as /dʲt͡sʲ/, and where the stress mark falls.
+- Every sentence and table cell has a grammar note giving the reason for its form, in all four explanation languages.
+- Russian and Polish comparisons for the new lessons: false friends such as за́мок, пам'ятка and катедра/katedra, and words with no shared root, such as заправка and stacja benzynowa.
+- Dictionary-supported alternatives are accepted when typed, and updated civil holiday dates are explained rather than repeating outdated course rules.
+
+Each lesson links to its source and is authored for Langclick, with nothing copied from eMova. The coverage ledger records, for all 27 lessons, what the source teaches, how that was checked and what stays in the source (listening, literary reading, recipes, forum writing). Two independent content checks passed every one of the pack's 9,506 content targets on its exact current text.
+
+Not included: Swedish (agreed in #43, lesson 1 waits in #45 for this tag), separate downloads, native audio, guided lessons or speech. No native speaker has reviewed the content; the content checks are AI checks against dictionaries and published phonetic descriptions.
+
+Not tried during release preparation: manual play of every new lesson, a real phone, touch drag, or browsers other than those the automated gates exercise. The reviewed and tagged commit is named in the GitHub release.
 
 ## v0.4.0 — 2026-11-02 — eMova lessons 4–8
 

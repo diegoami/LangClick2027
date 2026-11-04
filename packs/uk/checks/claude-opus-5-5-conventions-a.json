@@ -47,6 +47,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l05-words/tak-sobi",
+			"seen": "{\"item\":\"word:tak-sobi\",\"text\":\"так собі\",\"display\":\"та́к собі\",\"ipa\":\"/ˈtak sɔbi/\",\"cognates\":{\"ru\":{\"form\":\"так себе́\"},\"pl\":{\"form\":\"tak sobie\"}}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l06-numbers/n11",
 			"seen": "{\"item\":\"number:n11\",\"text\":\"одинадцять\",\"display\":\"одина́дцять\",\"ipa\":\"/ɔdɪˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"оди́ннадцать\"},\"pl\":{\"form\":\"jedenaście\"}},\"concepts\":[\"teens-stress\"]}",
 			"verdict": "ok"
@@ -102,6 +107,66 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l09-words/pleminnyk",
+			"seen": "{\"item\":\"word:pleminnyk\",\"text\":\"племінник\",\"display\":\"племі́нник\",\"ipa\":\"/plɛˈminːɪk/\",\"alsoAccepted\":[\"небіж\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/pleminnytsya",
+			"seen": "{\"item\":\"word:pleminnytsya\",\"text\":\"племінниця\",\"display\":\"племі́нниця\",\"ipa\":\"/plɛˈminːɪt͡sʲa/\",\"alsoAccepted\":[\"небога\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/ridnya",
+			"seen": "{\"item\":\"word:ridnya\",\"text\":\"рідня\",\"display\":\"рідня́\",\"ipa\":\"/rʲidʲˈnʲa/\",\"alsoAccepted\":[\"родина\",\"родичі\",\"рідні\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l09-words/simya",
+			"seen": "{\"item\":\"word:simya\",\"text\":\"сім'я\",\"display\":\"сім'я́\",\"ipa\":\"/sʲiˈmja/\",\"alsoAccepted\":[\"родина\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/bibliotekar",
+			"seen": "{\"item\":\"word:bibliotekar\",\"text\":\"бібліотекар\",\"display\":\"бібліоте́кар\",\"ipa\":\"/biblʲiɔˈtɛkar/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/fakhivets",
+			"seen": "{\"item\":\"word:fakhivets\",\"text\":\"фахівець\",\"display\":\"фахіве́ць\",\"ipa\":\"/faxiˈʋɛt͡sʲ/\",\"alsoAccepted\":[\"спеціаліст\",\"професіонал\",\"знавець\",\"спец\",\"експерт\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/prohramist",
+			"seen": "{\"item\":\"word:prohramist\",\"text\":\"програміст\",\"display\":\"програмі́ст\",\"ipa\":\"/prɔɦraˈmist/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/robitnyk",
+			"seen": "{\"item\":\"word:robitnyk\",\"text\":\"робітник\",\"display\":\"робітни́к\",\"ipa\":\"/rɔbitˈnɪk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/robitnytsya",
+			"seen": "{\"item\":\"word:robitnytsya\",\"text\":\"робітниця\",\"display\":\"робітни́ця\",\"ipa\":\"/rɔbitˈnɪt͡sʲa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-occupations/smittyar",
+			"seen": "{\"item\":\"word:smittyar\",\"text\":\"сміттяр\",\"display\":\"сміття́р\",\"ipa\":\"/smiˈtʲːar/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/pensioner",
+			"seen": "{\"item\":\"word:pensioner\",\"text\":\"пенсіонер\",\"display\":\"пенсіоне́р\",\"ipa\":\"/pɛnsʲiɔˈnɛr/\",\"cognates\":{\"ru\":{\"form\":\"пенсионе́р\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l10-words/pensionerka",
+			"seen": "{\"item\":\"word:pensionerka\",\"text\":\"пенсіонерка\",\"display\":\"пенсіоне́рка\",\"ipa\":\"/pɛnsʲiɔˈnɛrka/\",\"cognates\":{\"ru\":{\"form\":\"пенсионе́рка\"}}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l11-words/hrudna-klityna",
 			"seen": "{\"item\":\"word:hrudna-klityna\",\"text\":\"грудна клітина\",\"display\":\"грудна́ кліти́на\",\"ipa\":\"/ɦrudˈna klʲiˈtɪna/\"}",
 			"verdict": "ok"
@@ -137,6 +202,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l12-words/serednoho-zrostu",
+			"seen": "{\"item\":\"word:serednoho-zrostu\",\"text\":\"середнього зросту\",\"display\":\"сере́днього зро́сту\",\"ipa\":\"/sɛˈrɛdʲnʲɔɦɔ ˈzrɔstu/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/serednoyi-statury",
+			"seen": "{\"item\":\"word:serednoyi-statury\",\"text\":\"середньої статури\",\"display\":\"сере́дньої стату́ри\",\"ipa\":\"/sɛˈrɛdʲnʲɔji staˈturɪ/\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l12-words/smahlyavyy",
 			"seen": "{\"item\":\"word:smahlyavyy\",\"text\":\"смаглявий\",\"display\":\"смагля́вий\",\"ipa\":\"/smaˈɦlʲaʋɪj/\"}",
 			"verdict": "ok"
@@ -144,6 +219,11 @@
 		{
 			"key": "core/l12-words/tovstyy",
 			"seen": "{\"item\":\"word:tovstyy\",\"text\":\"товстий\",\"display\":\"товсти́й\",\"ipa\":\"/tɔʋˈstɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/zasmahlyy",
+			"seen": "{\"item\":\"word:zasmahlyy\",\"text\":\"засмаглий\",\"display\":\"засма́глий\",\"ipa\":\"/zasˈmaɦlɪj/\"}",
 			"verdict": "ok"
 		},
 		{
@@ -177,8 +257,18 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l14-words/hostova-kimnata",
+			"seen": "{\"item\":\"word:hostova-kimnata\",\"text\":\"гостьова кімната\",\"display\":\"гостьова́ кімна́та\",\"ipa\":\"/ɦɔsʲtʲɔˈʋa kimˈnata/\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l14-words/kvartyra",
 			"seen": "{\"item\":\"word:kvartyra\",\"text\":\"квартира\",\"display\":\"кварти́ра\",\"ipa\":\"/kʋarˈtɪra/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l14-words/nastilna-lampa",
+			"seen": "{\"item\":\"word:nastilna-lampa\",\"text\":\"настільна лампа\",\"display\":\"насті́льна ла́мпа\",\"ipa\":\"/naˈsʲtʲilʲna ˈlampa/\"}",
 			"verdict": "ok"
 		},
 		{
@@ -189,6 +279,11 @@
 		{
 			"key": "core/l14-words/rushnyk",
 			"seen": "{\"item\":\"word:rushnyk\",\"text\":\"рушник\",\"display\":\"рушни́к\",\"ipa\":\"/ruʃˈnɪk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l15-words/chasnyk",
+			"seen": "{\"item\":\"word:chasnyk\",\"text\":\"часник\",\"display\":\"часни́к\",\"ipa\":\"/t͡ʃasˈnɪk/\"}",
 			"verdict": "ok"
 		},
 		{
@@ -207,6 +302,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l15-words/yakist",
+			"seen": "{\"item\":\"word:yakist\",\"text\":\"якість\",\"display\":\"я́кість\",\"ipa\":\"/ˈjakisʲtʲ/\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l16-quantities/kilos.c0",
 			"seen": "{\"item\":\"l16:quantities:kilos:c0\",\"text\":\"кілограм\",\"display\":\"кілогра́м\",\"ipa\":\"/kilɔˈɦram/\",\"row\":\"kilos\",\"col\":\"c0\"}",
 			"verdict": "ok"
@@ -219,6 +319,11 @@
 		{
 			"key": "core/l16-words/kilohram",
 			"seen": "{\"item\":\"word:kilohram\",\"text\":\"кілограм\",\"display\":\"кілогра́м\",\"ipa\":\"/kilɔˈɦram/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l17-words/vartist",
+			"seen": "{\"item\":\"word:vartist\",\"text\":\"вартість\",\"display\":\"ва́ртість\",\"ipa\":\"/ˈʋartʲisʲtʲ/\",\"alsoAccepted\":[\"ціна\"]}",
 			"verdict": "ok"
 		},
 		{
@@ -292,13 +397,88 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l21-words/zasmuchenyy",
+			"seen": "{\"item\":\"word:zasmuchenyy\",\"text\":\"засмучений\",\"display\":\"засму́чений\",\"ipa\":\"/zasˈmut͡ʃɛnɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l22-leisure-verbs/prysvyachuvaty",
+			"seen": "{\"item\":\"word:prysvyachuvaty\",\"text\":\"присвячувати\",\"display\":\"присвя́чувати\",\"ipa\":\"/prɪsˈʋʲat͡ʃuʋatɪ/\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l22-words/kvitnykarstvo",
 			"seen": "{\"item\":\"word:kvitnykarstvo\",\"text\":\"квітникарство\",\"display\":\"квітника́рство\",\"ipa\":\"/kʋitnɪˈkarstʋɔ/\"}",
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l23-words/biblioteka",
+			"seen": "{\"item\":\"word:biblioteka\",\"text\":\"бібліотека\",\"display\":\"бібліоте́ка\",\"ipa\":\"/biblʲiɔˈtɛka/\",\"alsoAccepted\":[\"книгозбірня\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l23-words/bibliotekar",
+			"seen": "{\"item\":\"word:bibliotekar\",\"text\":\"бібліотекар\",\"display\":\"бібліоте́кар\",\"ipa\":\"/biblʲiɔˈtɛkar/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l23-words/lystivka",
+			"seen": "{\"item\":\"word:lystivka\",\"text\":\"листівка\",\"display\":\"листі́вка\",\"ipa\":\"/lɪˈsʲtʲiʋka/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l23-words/povidomlennya",
+			"seen": "{\"item\":\"word:povidomlennya\",\"text\":\"повідомлення\",\"display\":\"повідо́млення\",\"ipa\":\"/pɔʋiˈdɔmlɛnʲːa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l23-words/vartist",
+			"seen": "{\"item\":\"word:vartist\",\"text\":\"вартість\",\"display\":\"ва́ртість\",\"ipa\":\"/ˈʋartʲisʲtʲ/\",\"alsoAccepted\":[\"ціна\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l23-words/viddilennya",
+			"seen": "{\"item\":\"word:viddilennya\",\"text\":\"відділення\",\"display\":\"відді́лення\",\"ipa\":\"/ʋiˈdʲːilɛnʲːa/\",\"alsoAccepted\":[\"філія\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l23-words/vidpravnyk",
+			"seen": "{\"item\":\"word:vidpravnyk\",\"text\":\"відправник\",\"display\":\"відпра́вник\",\"ipa\":\"/ʋidˈpraʋnɪk/\",\"alsoAccepted\":[\"відправляч\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l24-medicines-words/mikstura",
+			"seen": "{\"item\":\"word:mikstura\",\"text\":\"мікстура\",\"display\":\"міксту́ра\",\"ipa\":\"/mikˈstura/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l24-words/anhina",
+			"seen": "{\"item\":\"word:anhina\",\"text\":\"ангіна\",\"display\":\"ангі́на\",\"ipa\":\"/anˈɦina/\",\"alsoAccepted\":[\"тонзиліт\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l24-words/bil",
+			"seen": "{\"item\":\"word:bil\",\"text\":\"біль\",\"display\":\"біль\",\"ipa\":\"/bilʲ/\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l24-words/hastryt",
 			"seen": "{\"item\":\"word:hastryt\",\"text\":\"гастрит\",\"display\":\"гастри́т\",\"ipa\":\"/ɦaˈstrɪt/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l24-words/slabkist",
+			"seen": "{\"item\":\"word:slabkist\",\"text\":\"слабкість\",\"display\":\"сла́бкість\",\"ipa\":\"/ˈslabkisʲtʲ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l24-words/sonlyvist",
+			"seen": "{\"item\":\"word:sonlyvist\",\"text\":\"сонливість\",\"display\":\"сонли́вість\",\"ipa\":\"/sɔnˈlɪʋisʲtʲ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l24-words/symptom",
+			"seen": "{\"item\":\"word:symptom\",\"text\":\"симптом\",\"display\":\"симпто́м\",\"ipa\":\"/sɪmpˈtɔm/\",\"alsoAccepted\":[\"ознака\"]}",
 			"verdict": "ok"
 		},
 		{
@@ -327,13 +507,78 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l25-words/nezalezhnist",
+			"seen": "{\"item\":\"word:nezalezhnist\",\"text\":\"незалежність\",\"display\":\"незале́жність\",\"ipa\":\"/nɛzaˈlɛʒnʲisʲtʲ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-words/pryvitannya",
+			"seen": "{\"item\":\"word:pryvitannya\",\"text\":\"привітання\",\"display\":\"привіта́ння\",\"ipa\":\"/prɪʋiˈtanʲːa/\",\"alsoAccepted\":[\"вітання\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-words/relihiynyy",
+			"seen": "{\"item\":\"word:relihiynyy\",\"text\":\"релігійний\",\"display\":\"релігі́йний\",\"ipa\":\"/rɛlʲiˈɦijnɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-words/rizdvo",
+			"seen": "{\"item\":\"word:rizdvo\",\"text\":\"Різдво\",\"display\":\"Різдво́\",\"ipa\":\"/rʲizdˈʋɔ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-words/svyatkuvaty",
+			"seen": "{\"item\":\"word:svyatkuvaty\",\"text\":\"святкувати\",\"display\":\"святкува́ти\",\"ipa\":\"/sʋʲatkuˈʋatɪ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-words/svyato",
+			"seen": "{\"item\":\"word:svyato\",\"text\":\"свято\",\"display\":\"свя́то\",\"ipa\":\"/ˈsʋʲatɔ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-words/svyatvechir",
+			"seen": "{\"item\":\"word:svyatvechir\",\"text\":\"Святвечір\",\"display\":\"Святве́чір\",\"ipa\":\"/sʋʲatˈʋɛt͡ʃir/\",\"alsoAccepted\":[\"Святий вечір\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-words/triytsya",
+			"seen": "{\"item\":\"word:triytsya\",\"text\":\"Трійця\",\"display\":\"Трі́йця\",\"ipa\":\"/ˈtrʲijt͡sʲa/\",\"alsoAccepted\":[\"Зелені свята\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-words/vitaty",
+			"seen": "{\"item\":\"word:vitaty\",\"text\":\"вітати\",\"display\":\"віта́ти\",\"ipa\":\"/ʋiˈtatɪ/\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l26-flowers-words/pidsnizhnyk",
 			"seen": "{\"item\":\"word:pidsnizhnyk\",\"text\":\"підсніжник\",\"display\":\"підсні́жник\",\"ipa\":\"/pidʲsʲˈnʲiʒnɪk/\"}",
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l26-trees-words/brusnytsya",
+			"seen": "{\"item\":\"word:brusnytsya\",\"text\":\"брусниця\",\"display\":\"брусни́ця\",\"ipa\":\"/brusˈnɪt͡sʲa/\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l26-trees-words/fistashka",
 			"seen": "{\"item\":\"word:fistashka\",\"text\":\"фісташка\",\"display\":\"фіста́шка\",\"ipa\":\"/fiˈstaʃka/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l26-trees-words/sosna",
+			"seen": "{\"item\":\"word:sosna\",\"text\":\"сосна\",\"display\":\"сосна́\",\"ipa\":\"/sɔsˈna/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l26-words/dovkillya",
+			"seen": "{\"item\":\"word:dovkillya\",\"text\":\"довкілля\",\"display\":\"довкі́лля\",\"ipa\":\"/dɔʋˈkilʲːa/\",\"alsoAccepted\":[\"середовище\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l26-words/kvitka",
+			"seen": "{\"item\":\"word:kvitka\",\"text\":\"квітка\",\"display\":\"кві́тка\",\"ipa\":\"/ˈkʋitka/\"}",
 			"verdict": "ok"
 		},
 		{
@@ -344,6 +589,11 @@
 		{
 			"key": "core/l26-words/roslyna",
 			"seen": "{\"item\":\"word:roslyna\",\"text\":\"рослина\",\"display\":\"росли́на\",\"ipa\":\"/rɔˈslɪna/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l26-words/zapovidnyk",
+			"seen": "{\"item\":\"word:zapovidnyk\",\"text\":\"заповідник\",\"display\":\"запові́дник\",\"ipa\":\"/zapɔˈʋidnɪk/\"}",
 			"verdict": "ok"
 		},
 		{
@@ -372,8 +622,43 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l27-words/osvita",
+			"seen": "{\"item\":\"word:osvita\",\"text\":\"освіта\",\"display\":\"осві́та\",\"ipa\":\"/ɔsˈʋita/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l27-words/pidruchnyk",
+			"seen": "{\"item\":\"word:pidruchnyk\",\"text\":\"підручник\",\"display\":\"підру́чник\",\"ipa\":\"/pidˈrut͡ʃnɪk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/my.m",
+			"seen": "{\"item\":\"possessive:my:nom.m\",\"text\":\"мій\",\"ipa\":\"/mij/\",\"row\":\"my\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/our.pl",
+			"seen": "{\"item\":\"possessive:our:nom.pl\",\"text\":\"наші\",\"display\":\"на́ші\",\"ipa\":\"/ˈnaʃi/\",\"row\":\"our\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/your-pl.pl",
+			"seen": "{\"item\":\"possessive:your-pl:nom.pl\",\"text\":\"ваші\",\"display\":\"ва́ші\",\"ipa\":\"/ˈʋaʃi/\",\"row\":\"your-pl\",\"col\":\"pl\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/possessives/your.m",
+			"seen": "{\"item\":\"possessive:your:nom.m\",\"text\":\"твій\",\"ipa\":\"/tʋij/\",\"row\":\"your\",\"col\":\"m\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/stress-pairs/satin",
 			"seen": "{\"item\":\"stress:satin\",\"text\":\"атлас\",\"display\":\"атла́с\",\"ipa\":\"/aˈtlas/\",\"concepts\":[\"free-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"so-so\",\"note\":\"Stressed on так, as Словники України print the set phrase: та́к собі. Wiktionary gives так собі́.\"}",
 			"verdict": "ok"
 		},
 		{
@@ -657,6 +942,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"tak sobie\",\"note\":\"Akcent na так, jak podają «Словники України»: та́к собі. Wikisłownik angielski podaje так собі́.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/l12-sentences/height",
 			"seen": "{\"sentenceGloss\":\"Moja siostra jest średniego wzrostu.\",\"note\":\"Dopełniacz: cechę, taką jak wzrost czy wiek, podaje się w dopełniaczu — (якого?) середнього зросту, średniego wzrostu.\"}",
 			"verdict": "ok"
@@ -912,6 +1202,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"так себе\",\"note\":\"Ударение на так, как в «Словниках України»: та́к собі. Английский Викисловарь даёт так собі́.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/l12-sentences/height",
 			"seen": "{\"sentenceGloss\":\"Моя сестра среднего роста.\",\"note\":\"Родительный: признак вроде роста или возраста выражается родительным падежом — (якого?) середнього зросту, среднего роста.\"}",
 			"verdict": "ok"
@@ -954,6 +1249,11 @@
 		{
 			"key": "ru/l24-sentences/pressure-gen",
 			"seen": "{\"sentenceGloss\":\"Медсестра записала показатель давления.\",\"note\":\"Родительный: существительное при другом существительном отвечает на вопрос чего? — показник (чого?) тиску, показатель давления.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"не надто добре\",\"note\":\"Наголос на так, як у «Словниках України»: та́к собі. Англійський Вікісловник подає так собі́.\"}",
 			"verdict": "ok"
 		},
 		{

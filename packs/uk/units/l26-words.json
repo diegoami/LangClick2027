@@ -68,7 +68,7 @@
 			"item": "word:kvitka",
 			"text": "квітка",
 			"display": "кві́тка",
-			"ipa": "/ˈkʋʲitka/"
+			"ipa": "/ˈkʋitka/"
 		},
 		{
 			"id": "derevo",
@@ -96,14 +96,14 @@
 			"item": "word:zapovidnyk",
 			"text": "заповідник",
 			"display": "запові́дник",
-			"ipa": "/zapɔˈʋʲidnɪk/"
+			"ipa": "/zapɔˈʋidnɪk/"
 		},
 		{
 			"id": "dovkillya",
 			"item": "word:dovkillya",
 			"text": "довкілля",
 			"display": "довкі́лля",
-			"ipa": "/dɔʋˈkʲilʲːa/",
+			"ipa": "/dɔʋˈkilʲːa/",
 			"alsoAccepted": ["середовище"]
 		},
 		{

@@ -11,14 +11,14 @@
 			"item": "word:svyato",
 			"text": "свято",
 			"display": "свя́то",
-			"ipa": "/ˈsʲʋʲatɔ/"
+			"ipa": "/ˈsʋʲatɔ/"
 		},
 		{
 			"id": "rizdvo",
 			"item": "word:rizdvo",
 			"text": "Різдво",
 			"display": "Різдво́",
-			"ipa": "/rʲizˈdʋɔ/"
+			"ipa": "/rʲizdˈʋɔ/"
 		},
 		{
 			"id": "velykden",
@@ -32,7 +32,7 @@
 			"item": "word:nezalezhnist",
 			"text": "незалежність",
 			"display": "незале́жність",
-			"ipa": "/nɛzaˈlɛʒnʲistʲ/"
+			"ipa": "/nɛzaˈlɛʒnʲisʲtʲ/"
 		},
 		{
 			"id": "tradytsiya",
@@ -54,7 +54,7 @@
 			"item": "word:pryvitannya",
 			"text": "привітання",
 			"display": "привіта́ння",
-			"ipa": "/prɪʋʲiˈtanʲːa/",
+			"ipa": "/prɪʋiˈtanʲːa/",
 			"alsoAccepted": ["вітання"]
 		},
 		{
@@ -62,14 +62,14 @@
 			"item": "word:svyatkuvaty",
 			"text": "святкувати",
 			"display": "святкува́ти",
-			"ipa": "/sʲʋʲatkuˈʋatɪ/"
+			"ipa": "/sʋʲatkuˈʋatɪ/"
 		},
 		{
 			"id": "vitaty",
 			"item": "word:vitaty",
 			"text": "вітати",
 			"display": "віта́ти",
-			"ipa": "/ʋʲiˈtatɪ/"
+			"ipa": "/ʋiˈtatɪ/"
 		},
 		{
 			"id": "daruvaty",
@@ -90,7 +90,7 @@
 			"item": "word:svyatvechir",
 			"text": "Святвечір",
 			"display": "Святве́чір",
-			"ipa": "/sʲʋʲatˈʋɛt͡ʃir/",
+			"ipa": "/sʋʲatˈʋɛt͡ʃir/",
 			"alsoAccepted": ["Святий вечір"]
 		},
 		{
@@ -147,14 +147,14 @@
 			"item": "word:relihiynyy",
 			"text": "релігійний",
 			"display": "релігі́йний",
-			"ipa": "/rɛlʲiˈɦʲijnɪj/"
+			"ipa": "/rɛlʲiˈɦijnɪj/"
 		},
 		{
 			"id": "triytsya",
 			"item": "word:triytsya",
 			"text": "Трійця",
 			"display": "Трі́йця",
-			"ipa": "/ˈtʲrʲijt͡sʲa/",
+			"ipa": "/ˈtrʲijt͡sʲa/",
 			"alsoAccepted": ["Зелені свята"]
 		},
 		{

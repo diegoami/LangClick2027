@@ -123,18 +123,28 @@ The rest of the rules, each with the board that states it:
 - **A final consonant keeps its voice**: віз ends in [z], ваз differs from вас
   (`final-voiced`).
 - **Soft sign and glide vowels soften what precedes them**: дім, ліс, хліб,
-  ніж; the sign ʲ marks the softened consonant.
+  ніж; the sign ʲ marks the softened consonant. A hushing consonant before я
+  is marked too: обличчя /ɔˈblɪt͡ʃʲːa/.
+- **щ is one letter, /ʃt͡ʃ/**, and is never split by a syllable break: борщі
+  /bɔrˈʃt͡ʃi/.
 - **дж and дз are single affricates**, /d͡ʒ/ and /d͡z/, written with two
   letters (`one-sound-two-letters`).
 - **A doubled consonant is a long one**: нн is nː.
 - **К before a voiced obstruent** (б, г, ґ, д, ж, з) is /ɡ/: вокзал /ʋɔɡˈzal/,
   Великдень. В is a sonorant and voices nothing: квартира /kʋarˈtɪra/.
-- **A dental before a soft dental is marked soft** in дц, /dʲt͡sʲ/ (двадцять
-  /ˈdʋadʲt͡sʲatʲ/; pronunciation guides write [d͡zʲt͡sʲ]), and where the older
-  boards mark it (будні /ˈbudʲnʲi/, тесть /tɛsʲtʲ/, підсніжник). The pack is
-  not yet consistent about this elsewhere (українська, якість), nor about
-  labials and velars before і; both are open questions in
-  [#42](https://github.com/diegoami/LangClick2027/issues/42).
+- **Softening that standard pronunciation requires is marked** (owner decision,
+  [#42](https://github.com/diegoami/LangClick2027/issues/42)):
+  - с or з before a soft dental: тесть /tɛsʲtʲ/, якість /ˈjakisʲtʲ/;
+  - д or т before a soft н or с: будні /ˈbudʲnʲi/, рідня /rʲidʲˈnʲa/,
+    підсніжник /pidʲsʲˈnʲiʒnɪk/;
+  - дц is /dʲt͡sʲ/: двадцять /ˈdʋadʲt͡sʲatʲ/ (pronunciation guides write
+    [d͡zʲt͡sʲ]).
+
+  Optional softening is not marked: н stays hard before a soft dental
+  (українська /ukraˈjinsʲka/, танці /ˈtant͡sʲi/).
+
+- **A doubled consonant across a prefix is one long consonant too**: відділення
+  /ʋiˈdʲːilɛnʲːa/.
 - **ˈ goes before the stressed syllable**, and the stress is the one the
   `display` marks. An obstruent plus р or л, and с, з or ш before a stop,
   begin the syllable: сестра /sɛˈstra/, роблю /rɔˈblʲu/, кілограм
