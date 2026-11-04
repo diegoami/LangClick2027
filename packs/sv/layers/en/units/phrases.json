@@ -1,0 +1,36 @@
+{
+	"title": "Everyday phrases",
+	"summary": "Greetings, courtesies and apologies. Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"hej": {
+			"clue": "hello"
+		},
+		"hejda": {
+			"clue": "goodbye"
+		},
+		"ja": {
+			"clue": "yes"
+		},
+		"nej": {
+			"clue": "no"
+		},
+		"forlat": {
+			"clue": "sorry"
+		},
+		"ursakta": {
+			"clue": "excuse me"
+		},
+		"varsagod": {
+			"clue": "here you are; you are welcome"
+		},
+		"valkommen": {
+			"clue": "welcome"
+		},
+		"godmorgon": {
+			"clue": "good morning"
+		},
+		"godnatt": {
+			"clue": "good night"
+		}
+	}
+}

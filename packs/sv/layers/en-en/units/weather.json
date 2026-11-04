@@ -1,0 +1,13 @@
+{
+	"cells": {
+		"sno": {
+			"contrast": "The same word as English snow."
+		},
+		"vind": {
+			"contrast": "The same word as English wind."
+		},
+		"regn": {
+			"contrast": "The same word as English rain."
+		}
+	}
+}

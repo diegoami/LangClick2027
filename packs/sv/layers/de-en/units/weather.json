@@ -1,0 +1,19 @@
+{
+	"cells": {
+		"sno": {
+			"contrast": "The same word as German Schnee."
+		},
+		"vind": {
+			"contrast": "The same word as German Wind."
+		},
+		"regn": {
+			"contrast": "The same word as German Regen."
+		},
+		"kallt": {
+			"contrast": "The same word as German kalt."
+		},
+		"varmt": {
+			"contrast": "The same word as German warm."
+		}
+	}
+}

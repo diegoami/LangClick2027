@@ -1,0 +1,34 @@
+{
+	"title": "Introductions",
+	"summary": "Asking and saying who you are. Choose or type the word that fits the gap.",
+	"cells": {
+		"heter": {
+			"sentenceGloss": "What is your name?",
+			"note": "heta, to be called: jag heter, du heter."
+		},
+		"bor": {
+			"sentenceGloss": "I live in Stockholm.",
+			"note": "bo, to live: one form for every person, jag bor, vi bor."
+		},
+		"kommer": {
+			"sentenceGloss": "I am coming to Sweden tomorrow.",
+			"note": "komma, to come: jag kommer, with till for where to."
+		},
+		"ar": {
+			"sentenceGloss": "How are you?",
+			"note": "Hur är det? asks how things are; vara, to be, is är for every person."
+		},
+		"bra": {
+			"sentenceGloss": "I am fine, thanks.",
+			"note": "bra, good or well, does not change: ett bra hus, bra hus."
+		},
+		"traffas": {
+			"sentenceGloss": "Nice to meet you!",
+			"note": "träffas, to meet each other, ends in -s."
+		},
+		"talar": {
+			"sentenceGloss": "I speak a little Swedish.",
+			"note": "tala and the everyday prata both mean to speak."
+		}
+	}
+}

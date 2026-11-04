@@ -34,6 +34,18 @@
 					"url": "https://www.hejsvenska.se/index1.html"
 				}
 			]
+		},
+		{
+			"id": "l03",
+			"section": "basics",
+			"units": ["phrases", "introductions", "weather"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 3: Bas (presentationsfraser, vardagsfraser, väder)",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
 		}
 	]
 }
