@@ -1,0 +1,34 @@
+{
+	"title": "In the shop",
+	"summary": "Buying clothes. Choose or type the word that fits the gap.",
+	"cells": {
+		"gron": {
+			"sentenceGloss": "I am buying a green jumper.",
+			"note": "en tröja: the en-form."
+		},
+		"rott": {
+			"sentenceGloss": "She has a red umbrella.",
+			"note": "ett paraply: -t with an ett-word; ö shortens before tt."
+		},
+		"svarta": {
+			"sentenceGloss": "He has black shoes.",
+			"note": "skor is plural: -a."
+		},
+		"kostar": {
+			"sentenceGloss": "What does the jacket cost?",
+			"note": "kosta, to cost."
+		},
+		"betala": {
+			"sentenceGloss": "Can I pay by card?",
+			"note": "After kan the verb stays in the infinitive."
+		},
+		"liten": {
+			"sentenceGloss": "It is too small. Do you have a bigger one?",
+			"note": "liten, small; för, too."
+		},
+		"provrummet": {
+			"sentenceGloss": "Where is the fitting room?",
+			"note": "ett provrum, provrummet."
+		}
+	}
+}

@@ -1,0 +1,66 @@
+{
+	"id": "meals",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "dricker",
+			"item": "sentence:meals:dricker",
+			"text": "dricker",
+			"sentence": "Jag ___ kaffe på morgonen."
+		},
+		{
+			"id": "ater",
+			"item": "sentence:meals:ater",
+			"text": "äter",
+			"sentence": "Vi ___ fisk i dag."
+		},
+		{
+			"id": "tycker",
+			"item": "sentence:meals:tycker",
+			"text": "tycker",
+			"sentence": "Jag ___ om ost."
+		},
+		{
+			"id": "hungrig",
+			"item": "sentence:meals:hungrig",
+			"text": "hungrig",
+			"sentence": "Jag är ___. Kan vi äta nu?"
+		},
+		{
+			"id": "matt",
+			"item": "sentence:meals:matt",
+			"text": "mätt",
+			"sentence": "Nej tack, jag är ___."
+		},
+		{
+			"id": "torstig",
+			"item": "sentence:meals:torstig",
+			"text": "törstig",
+			"sentence": "Jag är ___. Har du vatten?"
+		},
+		{
+			"id": "kvittot",
+			"item": "sentence:meals:kvittot",
+			"text": "kvittot",
+			"sentence": "Får jag ___, tack?"
+		}
+	]
+}

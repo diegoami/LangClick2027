@@ -1,0 +1,48 @@
+{
+	"title": "The body",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"huvud": {
+			"clue": "head"
+		},
+		"arm": {
+			"clue": "arm"
+		},
+		"hand": {
+			"clue": "hand"
+		},
+		"ben": {
+			"clue": "leg"
+		},
+		"fot": {
+			"clue": "foot"
+		},
+		"mage": {
+			"clue": "stomach"
+		},
+		"rygg": {
+			"clue": "back"
+		},
+		"hals": {
+			"clue": "throat, neck"
+		},
+		"kna": {
+			"clue": "knee"
+		},
+		"oga": {
+			"clue": "eye"
+		},
+		"ora": {
+			"clue": "ear"
+		},
+		"nasa": {
+			"clue": "nose"
+		},
+		"mun": {
+			"clue": "mouth"
+		},
+		"tand": {
+			"clue": "tooth"
+		}
+	}
+}

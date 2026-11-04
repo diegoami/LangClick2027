@@ -1,0 +1,36 @@
+{
+	"title": "Emergencies",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"brandkar": {
+			"clue": "fire brigade"
+		},
+		"ambulans": {
+			"clue": "ambulance"
+		},
+		"polis": {
+			"clue": "police officer, the police"
+		},
+		"hjalp": {
+			"clue": "help"
+		},
+		"brand": {
+			"clue": "fire (that burns a building)"
+		},
+		"olycka": {
+			"clue": "accident"
+		},
+		"sjukhus": {
+			"clue": "hospital"
+		},
+		"skadad": {
+			"clue": "injured"
+		},
+		"tjuv": {
+			"clue": "thief"
+		},
+		"adress": {
+			"clue": "address"
+		}
+	}
+}

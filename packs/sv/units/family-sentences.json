@@ -1,0 +1,60 @@
+{
+	"id": "family-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "min",
+			"item": "sentence:family-sentences:min",
+			"text": "min",
+			"sentence": "Det här är ___ bror Erik."
+		},
+		{
+			"id": "mitt",
+			"item": "sentence:family-sentences:mitt",
+			"text": "mitt",
+			"sentence": "Det här är ___ hus."
+		},
+		{
+			"id": "mina",
+			"item": "sentence:family-sentences:mina",
+			"text": "mina",
+			"sentence": "Det här är ___ föräldrar."
+		},
+		{
+			"id": "syskon",
+			"item": "sentence:family-sentences:syskon",
+			"text": "syskon",
+			"sentence": "Har du några ___?"
+		},
+		{
+			"id": "dotter",
+			"item": "sentence:family-sentences:dotter",
+			"text": "dotter",
+			"sentence": "Vi har en ___ och en son."
+		},
+		{
+			"id": "gifta",
+			"item": "sentence:family-sentences:gifta",
+			"text": "gifta",
+			"sentence": "Min fru och jag är ___."
+		}
+	]
+}

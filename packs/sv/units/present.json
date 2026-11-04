@@ -1,0 +1,134 @@
+{
+	"id": "present",
+	"layout": {
+		"type": "table",
+		"rows": ["arbeta", "jobba", "tala", "lasa", "skriva", "kora"],
+		"columns": ["inf", "pres"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "arbeta.inf",
+			"item": "form:present:arbeta.inf",
+			"text": "arbeta",
+			"ipa": "/ˈârˌbeːta/",
+			"row": "arbeta",
+			"col": "inf",
+			"concepts": ["present-tense"]
+		},
+		{
+			"id": "arbeta.pres",
+			"item": "form:present:arbeta.pres",
+			"text": "arbetar",
+			"ipa": "/ˈârˌbeːtar/",
+			"row": "arbeta",
+			"col": "pres",
+			"concepts": ["present-tense"]
+		},
+		{
+			"id": "jobba.inf",
+			"item": "form:present:jobba.inf",
+			"text": "jobba",
+			"ipa": "/ˈjɔ̂bːa/",
+			"row": "jobba",
+			"col": "inf",
+			"concepts": ["present-tense", "word-accent"]
+		},
+		{
+			"id": "jobba.pres",
+			"item": "form:present:jobba.pres",
+			"text": "jobbar",
+			"ipa": "/ˈjɔ̂bːar/",
+			"row": "jobba",
+			"col": "pres",
+			"concepts": ["present-tense", "word-accent"]
+		},
+		{
+			"id": "tala.inf",
+			"item": "form:present:tala.inf",
+			"text": "tala",
+			"ipa": "/ˈtɑ̂ːla/",
+			"row": "tala",
+			"col": "inf",
+			"concepts": ["present-tense", "word-accent"]
+		},
+		{
+			"id": "tala.pres",
+			"item": "form:present:tala.pres",
+			"text": "talar",
+			"ipa": "/ˈtɑ̂ːlar/",
+			"row": "tala",
+			"col": "pres",
+			"concepts": ["present-tense", "word-accent"]
+		},
+		{
+			"id": "lasa.inf",
+			"item": "form:present:lasa.inf",
+			"text": "läsa",
+			"ipa": "/ˈlɛ̂ːsa/",
+			"row": "lasa",
+			"col": "inf",
+			"concepts": ["present-tense", "word-accent"]
+		},
+		{
+			"id": "lasa.pres",
+			"item": "form:present:lasa.pres",
+			"text": "läser",
+			"ipa": "/ˈlɛ̌ːsɛr/",
+			"row": "lasa",
+			"col": "pres",
+			"concepts": ["present-tense", "word-accent"]
+		},
+		{
+			"id": "skriva.inf",
+			"item": "form:present:skriva.inf",
+			"text": "skriva",
+			"ipa": "/ˈskrîːva/",
+			"row": "skriva",
+			"col": "inf",
+			"concepts": ["present-tense"]
+		},
+		{
+			"id": "skriva.pres",
+			"item": "form:present:skriva.pres",
+			"text": "skriver",
+			"ipa": "/ˈskrǐːvɛr/",
+			"row": "skriva",
+			"col": "pres",
+			"concepts": ["present-tense"]
+		},
+		{
+			"id": "kora.inf",
+			"item": "form:present:kora.inf",
+			"text": "köra",
+			"ipa": "/ˈɕœ̂ːra/",
+			"row": "kora",
+			"col": "inf",
+			"concepts": ["present-tense", "word-accent"]
+		},
+		{
+			"id": "kora.pres",
+			"item": "form:present:kora.pres",
+			"text": "kör",
+			"ipa": "/ɕœːr/",
+			"row": "kora",
+			"col": "pres",
+			"concepts": ["present-tense"]
+		}
+	]
+}

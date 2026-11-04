@@ -1,0 +1,66 @@
+{
+	"id": "health",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "huvudet",
+			"item": "sentence:health:huvudet",
+			"text": "huvudet",
+			"sentence": "Jag har ont i ___."
+		},
+		{
+			"id": "magen",
+			"item": "sentence:health:magen",
+			"text": "magen",
+			"sentence": "Barnet har ont i ___."
+		},
+		{
+			"id": "feber",
+			"item": "sentence:health:feber",
+			"text": "feber",
+			"sentence": "Jag har hög ___."
+		},
+		{
+			"id": "sjuk",
+			"item": "sentence:health:sjuk",
+			"text": "sjuk",
+			"sentence": "Jag är ___ och stannar hemma."
+		},
+		{
+			"id": "boka",
+			"item": "sentence:health:boka",
+			"text": "boka",
+			"sentence": "Jag vill ___ en tid hos läkaren."
+		},
+		{
+			"id": "hosta",
+			"item": "sentence:health:hosta",
+			"text": "hosta",
+			"sentence": "Har ni något mot ___?"
+		},
+		{
+			"id": "apoteket",
+			"item": "sentence:health:apoteket",
+			"text": "apoteket",
+			"sentence": "Jag köper medicin på ___."
+		}
+	]
+}

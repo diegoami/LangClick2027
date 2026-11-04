@@ -1,0 +1,24 @@
+{
+	"title": "Civil status",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"gift": {
+			"clue": "married"
+		},
+		"ogift": {
+			"clue": "unmarried"
+		},
+		"sambo": {
+			"clue": "living together, partner"
+		},
+		"skild": {
+			"clue": "divorced"
+		},
+		"singel": {
+			"clue": "single"
+		},
+		"anka": {
+			"clue": "widow"
+		}
+	}
+}

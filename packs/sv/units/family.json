@@ -1,0 +1,101 @@
+{
+	"id": "family",
+	"layout": {
+		"type": "grid",
+		"size": 12
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "mamma",
+			"item": "word:mamma",
+			"text": "mamma",
+			"ipa": "/ˈmâmːa/"
+		},
+		{
+			"id": "pappa",
+			"item": "word:pappa",
+			"text": "pappa",
+			"ipa": "/ˈpâpːa/"
+		},
+		{
+			"id": "son",
+			"item": "word:son",
+			"text": "son",
+			"ipa": "/soːn/"
+		},
+		{
+			"id": "dotter",
+			"item": "word:dotter",
+			"text": "dotter",
+			"ipa": "/ˈdɔ̂tːɛr/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "bror",
+			"item": "word:bror",
+			"text": "bror",
+			"ipa": "/bruːr/"
+		},
+		{
+			"id": "syster",
+			"item": "word:syster",
+			"text": "syster",
+			"ipa": "/ˈsʏ̂stɛr/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "syskon",
+			"item": "word:syskon",
+			"text": "syskon",
+			"ipa": "/ˈsʏ̂skɔn/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "barn",
+			"item": "word:barn",
+			"text": "barn",
+			"ipa": "/bɑːɳ/",
+			"concepts": ["retroflex"]
+		},
+		{
+			"id": "foraldrar",
+			"item": "word:föräldrar",
+			"text": "föräldrar",
+			"ipa": "/fœˈrɛ̂ldrar/"
+		},
+		{
+			"id": "mormor",
+			"item": "word:mormor",
+			"text": "mormor",
+			"ipa": "/ˈmʊ̂rˌmʊrː/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "farfar",
+			"item": "word:farfar",
+			"text": "farfar",
+			"ipa": "/ˈfârˌfarː/"
+		},
+		{
+			"id": "kusin",
+			"item": "word:kusin",
+			"text": "kusin",
+			"ipa": "/kɵˈsiːn/"
+		}
+	]
+}

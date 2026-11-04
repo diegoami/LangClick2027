@@ -1,0 +1,13 @@
+{
+	"title": "One and more",
+	"summary": "Five ways to make a plural. Find the form for each cell.",
+	"headers": {
+		"gurka": "cucumber",
+		"korv": "sausage",
+		"banan": "banana",
+		"apple": "apple",
+		"agg": "egg",
+		"sg": "one",
+		"pl": "more than one"
+	}
+}

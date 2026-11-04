@@ -1,0 +1,32 @@
+{
+	"title": "Meals",
+	"summary": "Eating, drinking and paying. Choose or type the word that fits the gap.",
+	"cells": {
+		"dricker": {
+			"sentenceGloss": "I drink coffee in the morning.",
+			"note": "dricka, to drink."
+		},
+		"ater": {
+			"sentenceGloss": "We are eating fish today.",
+			"note": "äta, to eat: one present form, äter."
+		},
+		"tycker": {
+			"sentenceGloss": "I like cheese.",
+			"note": "tycka om, to like."
+		},
+		"hungrig": {
+			"sentenceGloss": "I am hungry. Can we eat now?"
+		},
+		"matt": {
+			"sentenceGloss": "No thanks, I am full.",
+			"note": "mätt, full after eating."
+		},
+		"torstig": {
+			"sentenceGloss": "I am thirsty. Do you have water?"
+		},
+		"kvittot": {
+			"sentenceGloss": "May I have the receipt, please?",
+			"note": "ett kvitto, kvittot."
+		}
+	}
+}

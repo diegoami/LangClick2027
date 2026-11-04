@@ -1,0 +1,14 @@
+{
+	"title": "Verbs in the present",
+	"summary": "One present form for every person. Find the form for each cell.",
+	"headers": {
+		"arbeta": "work",
+		"jobba": "work (everyday)",
+		"tala": "speak",
+		"lasa": "read",
+		"skriva": "write",
+		"kora": "drive",
+		"inf": "to …",
+		"pres": "I, you, she … (now)"
+	}
+}

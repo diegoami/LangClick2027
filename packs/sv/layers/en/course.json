@@ -22,6 +22,30 @@
 		},
 		"l04": {
 			"title": "Lesson 4: Housing"
+		},
+		"l05": {
+			"title": "Lesson 5: Clothes and colours"
+		},
+		"l06": {
+			"title": "Lesson 6: Food and drink"
+		},
+		"l07": {
+			"title": "Lesson 7: The family"
+		},
+		"l08": {
+			"title": "Lesson 8: The body and health"
+		},
+		"l09": {
+			"title": "Lesson 9: Time"
+		},
+		"l10": {
+			"title": "Lesson 10: Work"
+		},
+		"l11": {
+			"title": "Lesson 11: Emergencies"
+		},
+		"l12": {
+			"title": "Lesson 12: My town"
 		}
 	},
 	"concepts": {
@@ -71,7 +95,7 @@
 		},
 		"word-accent": {
 			"title": "Two word accents",
-			"body": "A word stressed on a syllable that another follows has one of two pitch patterns. Accent 1 is marked here with ̌ on the stressed vowel and accent 2 with ̂: anden /ˈǎndɛn/ \"the duck\", anden /ˈândɛn/ \"the spirit\". Most words of two syllables, and every compound, take accent 2. A word of one syllable has no contrast and no mark.",
+			"body": "A word stressed on a syllable that another follows has one of two pitch patterns. Accent 1 is marked here with ̌ on the stressed vowel and accent 2 with ̂: anden /ˈǎndɛn/ \"the duck\", anden /ˈândɛn/ \"the spirit\". Most words of two syllables, and almost every compound, take accent 2; the day names, such as måndag, take accent 1. A word of one syllable has no contrast and no mark.",
 			"sources": [
 				{
 					"title": "Engstrand (1990), Swedish, Journal of the IPA",
@@ -152,6 +176,118 @@
 		"definite": {
 			"title": "\"The\" is an ending",
 			"body": "Swedish says \"the\" at the end of the noun. An en-word adds -en, or -n after a vowel: lägenheten, trappan. An ett-word adds -et, or -t after a vowel: huset, köket. A short vowel keeps its long consonant, and spelling doubles it: rum, rummet. After i or på the definite form is usual where English says \"the\": i köket, in the kitchen.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"adjective-agreement": {
+			"title": "The adjective agrees",
+			"body": "After en, or with an en-word in the indefinite, an adjective has no ending: en röd tröja. With an ett-word it adds -t: ett rött paraply. In the plural it adds -a: röda skor. A long vowel becomes short before -t: grön, grönt. After a vowel, d or t, spelling writes tt: blå, blått; röd, rött; vit, vitt. blå has the plural blå or blåa. After den or a possessive the -a form is used too: min röda tröja.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"plurals": {
+			"title": "Five plurals",
+			"body": "Plurals fall into groups. Most en-words in -a take -or: gurka, gurkor. Many other en-words take -ar (korv, korvar) or -er (banan, bananer). An ett-word ending in an unstressed vowel adds -n: äpple, äpplen; one stressed on its last vowel takes -er: paraply, paraplyer. An ett-word ending in a consonant often stays the same: ett ägg, två ägg. Learn each noun with its plural.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"possessives": {
+			"title": "My, your, our",
+			"body": "min, din, vår and er agree with the noun like an adjective: min bror, mitt hus, mina föräldrar. hans (his) and hennes (her) never change. The grandparents are named by side: mormor is the mother's mother and farmor the father's mother.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"body-plurals": {
+			"title": "Plurals that change the vowel",
+			"body": "A few nouns change their vowel in the plural: en hand, händer; en fot, fötter; en tand, tänder. öga and öra have the old plurals ögon and öron. These are learnt by heart. Like most words that were one syllable in Old Norse, händer, fötter and tänder take accent 1.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"telling-time": {
+			"title": "Half past is half to",
+			"body": "Swedish counts the half hour towards the next hour: halv tre is half past two. Quarters are kvart över (past) and kvart i (to). For the parts of the day, på takes the definite form: på morgonen, på kvällen, på natten. In everyday speech the day names lose their g: måndag is said /ˈmɔ̌nda/.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"present-tense": {
+			"title": "One form for every person",
+			"body": "A Swedish verb has one present form for every person: jag talar, du talar, vi talar. Verbs whose stem ends in a vowel take -r (talar, jobbar); most others take -er (läser, skriver), and a stem ending in r takes nothing (kör). With a job there is no article: jag är lärare.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"imperative": {
+			"title": "Telling someone to do something",
+			"body": "The order form is the verb without its -a: ringa, ring!; komma, kom!; springa, spring! A verb whose stem itself ends in -a keeps it: vänta!, stanna! In Sweden the emergency number is 112, and the h of hj is silent: hjälp /jɛlp/.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"directions": {
+			"title": "Where things are",
+			"body": "till vänster and till höger are to the left and to the right, and rakt fram is straight on. A building or a town ligger, lies, where it is: Var ligger banken? Prepositions of place: bredvid (next to), mellan (between), framför (in front of), bakom (behind).",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",

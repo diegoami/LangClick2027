@@ -1,0 +1,86 @@
+{
+	"id": "emergency",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "brandkar",
+			"item": "word:brandkår",
+			"text": "brandkår",
+			"ipa": "/ˈbrândˌkoːr/"
+		},
+		{
+			"id": "ambulans",
+			"item": "word:ambulans",
+			"text": "ambulans",
+			"ipa": "/ambɵˈlans/"
+		},
+		{
+			"id": "polis",
+			"item": "word:polis",
+			"text": "polis",
+			"ipa": "/pʊˈliːs/"
+		},
+		{
+			"id": "hjalp",
+			"item": "word:hjälp",
+			"text": "hjälp",
+			"ipa": "/jɛlp/"
+		},
+		{
+			"id": "brand",
+			"item": "word:brand",
+			"text": "brand",
+			"ipa": "/brand/"
+		},
+		{
+			"id": "olycka",
+			"item": "word:olycka",
+			"text": "olycka",
+			"ipa": "/ˈûːˌlʏkːa/"
+		},
+		{
+			"id": "sjukhus",
+			"item": "word:sjukhus",
+			"text": "sjukhus",
+			"ipa": "/ˈɧʉ̂ːkˌhʉːs/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "skadad",
+			"item": "word:skadad",
+			"text": "skadad",
+			"ipa": "/ˈskɑ̂ːdad/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "tjuv",
+			"item": "word:tjuv",
+			"text": "tjuv",
+			"ipa": "/ɕʉːv/"
+		},
+		{
+			"id": "adress",
+			"item": "word:adress",
+			"text": "adress",
+			"ipa": "/aˈdrɛsː/"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"title": "Calling for help",
+	"summary": "What to say in an emergency. Choose or type the word that fits the gap.",
+	"cells": {
+		"ambulans": {
+			"sentenceGloss": "Call an ambulance!",
+			"note": "ringa efter, to call for."
+		},
+		"brinner": {
+			"sentenceGloss": "There is a fire in the kitchen!",
+			"note": "brinna, to burn: det brinner, something is on fire."
+		},
+		"stulen": {
+			"sentenceGloss": "My wallet has been stolen.",
+			"note": "stulen, stolen, agrees with en plånbok."
+		},
+		"olycka": {
+			"sentenceGloss": "There has been an accident on the road."
+		},
+		"skadad": {
+			"sentenceGloss": "Is anyone hurt?"
+		},
+		"hjalp": {
+			"sentenceGloss": "I need help!",
+			"note": "The h of hj is silent."
+		},
+		"adress": {
+			"sentenceGloss": "What is your address?",
+			"note": "en adress: din."
+		}
+	}
+}

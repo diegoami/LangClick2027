@@ -1,0 +1,42 @@
+{
+	"title": "Months",
+	"summary": "Each tile gives the month; find the Swedish. Month names take no capital letter.",
+	"cells": {
+		"jan": {
+			"clue": "January"
+		},
+		"feb": {
+			"clue": "February"
+		},
+		"mar": {
+			"clue": "March"
+		},
+		"apr": {
+			"clue": "April"
+		},
+		"maj": {
+			"clue": "May"
+		},
+		"jun": {
+			"clue": "June"
+		},
+		"jul": {
+			"clue": "July"
+		},
+		"aug": {
+			"clue": "August"
+		},
+		"sep": {
+			"clue": "September"
+		},
+		"okt": {
+			"clue": "October"
+		},
+		"nov": {
+			"clue": "November"
+		},
+		"dec": {
+			"clue": "December"
+		}
+	}
+}

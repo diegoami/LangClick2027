@@ -1,0 +1,13 @@
+{
+	"title": "My, your, our",
+	"summary": "A possessive agrees like an adjective. Find the form for each cell.",
+	"headers": {
+		"min": "my",
+		"din": "your (one person)",
+		"var": "our",
+		"er": "your (more than one)",
+		"en": "with an en-word",
+		"ett": "with an ett-word",
+		"pl": "plural"
+	}
+}

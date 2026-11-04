@@ -1,0 +1,62 @@
+{
+	"id": "civil-status",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "gift",
+			"item": "word:gift",
+			"text": "gift",
+			"ipa": "/jɪft/"
+		},
+		{
+			"id": "ogift",
+			"item": "word:ogift",
+			"text": "ogift",
+			"ipa": "/ˈûːˌjɪft/"
+		},
+		{
+			"id": "sambo",
+			"item": "word:sambo",
+			"text": "sambo",
+			"ipa": "/ˈsâmˌbuː/"
+		},
+		{
+			"id": "skild",
+			"item": "word:skild",
+			"text": "skild",
+			"ipa": "/ɧɪld/"
+		},
+		{
+			"id": "singel",
+			"item": "word:singel",
+			"text": "singel",
+			"ipa": "/ˈsɪ̌ŋːɛl/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "anka",
+			"item": "word:änka",
+			"text": "änka",
+			"ipa": "/ˈɛ̂ŋka/",
+			"concepts": ["word-accent"]
+		}
+	]
+}

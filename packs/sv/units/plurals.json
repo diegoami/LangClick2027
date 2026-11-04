@@ -1,0 +1,116 @@
+{
+	"id": "plurals",
+	"layout": {
+		"type": "table",
+		"rows": ["gurka", "korv", "banan", "apple", "agg"],
+		"columns": ["sg", "pl"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "gurka.sg",
+			"item": "form:plurals:gurka.sg",
+			"text": "en gurka",
+			"ipa": "/ɛn ˈɡɵ̂rka/",
+			"row": "gurka",
+			"col": "sg",
+			"concepts": ["plurals", "word-accent"]
+		},
+		{
+			"id": "gurka.pl",
+			"item": "form:plurals:gurka.pl",
+			"text": "gurkor",
+			"ipa": "/ˈɡɵ̂rkʊr/",
+			"row": "gurka",
+			"col": "pl",
+			"concepts": ["plurals", "word-accent"]
+		},
+		{
+			"id": "korv.sg",
+			"item": "form:plurals:korv.sg",
+			"text": "en korv",
+			"ipa": "/ɛn kɔrv/",
+			"row": "korv",
+			"col": "sg",
+			"concepts": ["plurals"]
+		},
+		{
+			"id": "korv.pl",
+			"item": "form:plurals:korv.pl",
+			"text": "korvar",
+			"ipa": "/ˈkɔ̂rvar/",
+			"row": "korv",
+			"col": "pl",
+			"concepts": ["plurals", "word-accent"]
+		},
+		{
+			"id": "banan.sg",
+			"item": "form:plurals:banan.sg",
+			"text": "en banan",
+			"ipa": "/ɛn baˈnɑːn/",
+			"row": "banan",
+			"col": "sg",
+			"concepts": ["plurals"]
+		},
+		{
+			"id": "banan.pl",
+			"item": "form:plurals:banan.pl",
+			"text": "bananer",
+			"ipa": "/baˈnɑ̌ːnɛr/",
+			"row": "banan",
+			"col": "pl",
+			"concepts": ["plurals", "word-accent"]
+		},
+		{
+			"id": "apple.sg",
+			"item": "form:plurals:apple.sg",
+			"text": "ett äpple",
+			"ipa": "/ɛt ˈɛ̂plɛ/",
+			"row": "apple",
+			"col": "sg",
+			"concepts": ["plurals", "word-accent"]
+		},
+		{
+			"id": "apple.pl",
+			"item": "form:plurals:apple.pl",
+			"text": "äpplen",
+			"ipa": "/ˈɛ̂plɛn/",
+			"row": "apple",
+			"col": "pl",
+			"concepts": ["plurals", "word-accent"]
+		},
+		{
+			"id": "agg.sg",
+			"item": "form:plurals:agg.sg",
+			"text": "ett ägg",
+			"ipa": "/ɛt ɛɡː/",
+			"row": "agg",
+			"col": "sg",
+			"concepts": ["plurals"]
+		},
+		{
+			"id": "agg.pl",
+			"item": "form:plurals:agg.pl",
+			"text": "ägg",
+			"ipa": "/ɛɡː/",
+			"row": "agg",
+			"col": "pl",
+			"concepts": ["plurals"]
+		}
+	]
+}

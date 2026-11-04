@@ -58,6 +58,102 @@
 					"url": "https://www.hejsvenska.se/index1.html"
 				}
 			]
+		},
+		{
+			"id": "l05",
+			"section": "themes",
+			"units": ["clothes", "colours", "shopping"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 2: Kläder",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l06",
+			"section": "themes",
+			"units": ["food", "plurals", "meals"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 4: Mat",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l07",
+			"section": "themes",
+			"units": ["family", "civil-status", "possessives", "family-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 5: Familj",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l08",
+			"section": "themes",
+			"units": ["body", "body-plurals", "health"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 6: Kroppen",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l09",
+			"section": "themes",
+			"units": ["days", "months", "time-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 7: Tid",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l10",
+			"section": "themes",
+			"units": ["jobs", "present", "work-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 8: Jobb",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l11",
+			"section": "themes",
+			"units": ["emergency", "imperative", "sos-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 9: SOS",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l12",
+			"section": "themes",
+			"units": ["town", "directions", "signs"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 10: Min stad",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
 		}
 	]
 }

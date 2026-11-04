@@ -1,0 +1,90 @@
+{
+	"id": "jobs",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "lakare",
+			"item": "word:läkare",
+			"text": "läkare",
+			"ipa": "/ˈlɛ̂ːkarɛ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "larare",
+			"item": "word:lärare",
+			"text": "lärare",
+			"ipa": "/ˈlæ̂ːrarɛ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "kock",
+			"item": "word:kock",
+			"text": "kock",
+			"ipa": "/kɔkː/"
+		},
+		{
+			"id": "frisor",
+			"item": "word:frisör",
+			"text": "frisör",
+			"ipa": "/frɪˈsœːr/"
+		},
+		{
+			"id": "snickare",
+			"item": "word:snickare",
+			"text": "snickare",
+			"ipa": "/ˈsnɪ̂kːarɛ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "stadare",
+			"item": "word:städare",
+			"text": "städare",
+			"ipa": "/ˈstɛ̂ːdarɛ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "ingenjor",
+			"item": "word:ingenjör",
+			"text": "ingenjör",
+			"ipa": "/ɪnɧɛˈnjœːr/"
+		},
+		{
+			"id": "polis",
+			"item": "word:polis",
+			"text": "polis",
+			"ipa": "/pʊˈliːs/"
+		},
+		{
+			"id": "saljare",
+			"item": "word:säljare",
+			"text": "säljare",
+			"ipa": "/ˈsɛ̂ljarɛ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "sjukskoterska",
+			"item": "word:sjuksköterska",
+			"text": "sjuksköterska",
+			"ipa": "/ˈɧʉ̂ːkˌɧøːtɛʂka/",
+			"concepts": ["word-accent", "retroflex"]
+		}
+	]
+}

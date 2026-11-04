@@ -1,0 +1,14 @@
+{
+	"title": "Orders",
+	"summary": "The form that tells someone to do something. Find the form for each cell.",
+	"headers": {
+		"ringa": "call",
+		"hjalpa": "help",
+		"komma": "come",
+		"springa": "run",
+		"vanta": "wait",
+		"stanna": "stop, stay",
+		"inf": "to …",
+		"imp": "do it! (an order)"
+	}
+}

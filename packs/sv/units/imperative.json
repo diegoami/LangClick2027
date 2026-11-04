@@ -1,0 +1,134 @@
+{
+	"id": "imperative",
+	"layout": {
+		"type": "table",
+		"rows": ["ringa", "hjalpa", "komma", "springa", "vanta", "stanna"],
+		"columns": ["inf", "imp"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "ringa.inf",
+			"item": "form:imperative:ringa.inf",
+			"text": "ringa",
+			"ipa": "/ˈrɪ̂ŋːa/",
+			"row": "ringa",
+			"col": "inf",
+			"concepts": ["imperative", "word-accent"]
+		},
+		{
+			"id": "ringa.imp",
+			"item": "form:imperative:ringa.imp",
+			"text": "ring",
+			"ipa": "/rɪŋː/",
+			"row": "ringa",
+			"col": "imp",
+			"concepts": ["imperative"]
+		},
+		{
+			"id": "hjalpa.inf",
+			"item": "form:imperative:hjalpa.inf",
+			"text": "hjälpa",
+			"ipa": "/ˈjɛ̂lpa/",
+			"row": "hjalpa",
+			"col": "inf",
+			"concepts": ["imperative", "word-accent"]
+		},
+		{
+			"id": "hjalpa.imp",
+			"item": "form:imperative:hjalpa.imp",
+			"text": "hjälp",
+			"ipa": "/jɛlp/",
+			"row": "hjalpa",
+			"col": "imp",
+			"concepts": ["imperative"]
+		},
+		{
+			"id": "komma.inf",
+			"item": "form:imperative:komma.inf",
+			"text": "komma",
+			"ipa": "/ˈkɔ̂mːa/",
+			"row": "komma",
+			"col": "inf",
+			"concepts": ["imperative", "word-accent"]
+		},
+		{
+			"id": "komma.imp",
+			"item": "form:imperative:komma.imp",
+			"text": "kom",
+			"ipa": "/kɔmː/",
+			"row": "komma",
+			"col": "imp",
+			"concepts": ["imperative"]
+		},
+		{
+			"id": "springa.inf",
+			"item": "form:imperative:springa.inf",
+			"text": "springa",
+			"ipa": "/ˈsprɪ̂ŋːa/",
+			"row": "springa",
+			"col": "inf",
+			"concepts": ["imperative", "word-accent"]
+		},
+		{
+			"id": "springa.imp",
+			"item": "form:imperative:springa.imp",
+			"text": "spring",
+			"ipa": "/sprɪŋː/",
+			"row": "springa",
+			"col": "imp",
+			"concepts": ["imperative"]
+		},
+		{
+			"id": "vanta.inf",
+			"item": "form:imperative:vanta.inf",
+			"text": "vänta",
+			"ipa": "/ˈvɛ̂nta/",
+			"row": "vanta",
+			"col": "inf",
+			"concepts": ["imperative", "word-accent"]
+		},
+		{
+			"id": "vanta.imp",
+			"item": "form:imperative:vanta.imp",
+			"text": "vänta",
+			"ipa": "/ˈvɛ̂nta/",
+			"row": "vanta",
+			"col": "imp",
+			"concepts": ["imperative", "word-accent"]
+		},
+		{
+			"id": "stanna.inf",
+			"item": "form:imperative:stanna.inf",
+			"text": "stanna",
+			"ipa": "/ˈstânːa/",
+			"row": "stanna",
+			"col": "inf",
+			"concepts": ["imperative"]
+		},
+		{
+			"id": "stanna.imp",
+			"item": "form:imperative:stanna.imp",
+			"text": "stanna",
+			"ipa": "/ˈstânːa/",
+			"row": "stanna",
+			"col": "imp",
+			"concepts": ["imperative"]
+		}
+	]
+}
