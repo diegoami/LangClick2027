@@ -32,7 +32,7 @@ The grammar sits where the themes need it: en/ett and the definite ending, adjec
 agreement, plurals, possessives, the present tense and the imperative. Explanations are in
 English, with comparisons with English and German.
 
-**Swedish level 2 is implemented for owner testing** under [#58](https://github.com/diegoami/LangClick2027/issues/58): Hej svenska 2's ten themes as lessons 13–24. They add object and reflexive pronouns, the past tense with the commonest strong verbs, the future with ska and kommer att, the genitive, definite adjectives, den/det, ja/jo/nej, and time words such as i somras and fem i halv fyra. When it is merged, v0.7.0 ships it.
+**Swedish level 2 is merged, and v0.7.0 is in release preparation** under [#58](https://github.com/diegoami/LangClick2027/issues/58): Hej svenska 2's ten themes as lessons 13–24. They add object and reflexive pronouns, the past tense with the commonest strong verbs, the future with ska and kommer att, the genitive, definite adjectives, den/det, ja/jo/nej, and time words such as i somras and fem i halv fyra.
 
 On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
 extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided

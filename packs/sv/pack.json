@@ -4,7 +4,7 @@
 	"scripts": ["Latn"],
 	"licence": "CC-BY-SA-4.0",
 	"formatVersion": 3,
-	"version": "0.6.0",
+	"version": "0.7.0",
 	"comparisons": ["de", "en"],
 	"explanations": ["en"],
 	"overlays": ["de-en", "en-en"],
