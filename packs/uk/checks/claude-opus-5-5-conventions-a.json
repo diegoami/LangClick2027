@@ -119,7 +119,7 @@
 		{
 			"key": "core/l09-words/simya",
 			"seen": "{\"item\":\"word:simya\",\"text\":\"сім'я\",\"display\":\"сім'я́\",\"ipa\":\"/sʲiˈmja/\",\"alsoAccepted\":[\"родина\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l10-occupations/bibliotekar",
@@ -399,7 +399,7 @@
 		{
 			"key": "core/l22-leisure-verbs/prysvyachuvaty",
 			"seen": "{\"item\":\"word:prysvyachuvaty\",\"text\":\"присвячувати\",\"display\":\"присвя́чувати\",\"ipa\":\"/prɪsˈʋʲat͡ʃuʋatɪ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l22-words/kvitnykarstvo",
@@ -444,7 +444,7 @@
 		{
 			"key": "core/l24-medicines-words/mikstura",
 			"seen": "{\"item\":\"word:mikstura\",\"text\":\"мікстура\",\"display\":\"міксту́ра\",\"ipa\":\"/mikˈstura/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-words/anhina",
@@ -474,7 +474,7 @@
 		{
 			"key": "core/l24-words/symptom",
 			"seen": "{\"item\":\"word:symptom\",\"text\":\"симптом\",\"display\":\"симпто́м\",\"ipa\":\"/sɪmpˈtɔm/\",\"alsoAccepted\":[\"ознака\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l24-words/zastuda",
@@ -519,7 +519,7 @@
 		{
 			"key": "core/l25-words/rizdvo",
 			"seen": "{\"item\":\"word:rizdvo\",\"text\":\"Різдво\",\"display\":\"Різдво́\",\"ipa\":\"/rʲizdˈʋɔ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/l25-words/svyatkuvaty",
