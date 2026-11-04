@@ -1,0 +1,22 @@
+{
+	"cells": {
+		"brod": {
+			"contrast": "Related to English bread."
+		},
+		"mjolk": {
+			"contrast": "Related to English milk."
+		},
+		"fisk": {
+			"contrast": "Related to English fish."
+		},
+		"apple": {
+			"contrast": "Related to English apple."
+		},
+		"vatten": {
+			"contrast": "Related to English water."
+		},
+		"ost": {
+			"contrast": "Not related to cheese."
+		}
+	}
+}

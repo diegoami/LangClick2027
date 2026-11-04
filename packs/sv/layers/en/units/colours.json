@@ -1,0 +1,15 @@
+{
+	"title": "Colours that agree",
+	"summary": "A colour is an adjective: -t with an ett-word, -a in the plural. Find the form for each cell.",
+	"headers": {
+		"rod": "red",
+		"gron": "green",
+		"bla": "blue",
+		"gul": "yellow",
+		"vit": "white",
+		"brun": "brown",
+		"en": "with an en-word",
+		"ett": "with an ett-word",
+		"pl": "plural"
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"title": "Food and drink",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"brod": {
+			"clue": "bread"
+		},
+		"smor": {
+			"clue": "butter"
+		},
+		"ost": {
+			"clue": "cheese"
+		},
+		"mjolk": {
+			"clue": "milk"
+		},
+		"agg": {
+			"clue": "egg"
+		},
+		"kott": {
+			"clue": "meat"
+		},
+		"fisk": {
+			"clue": "fish"
+		},
+		"potatis": {
+			"clue": "potato"
+		},
+		"apple": {
+			"clue": "apple"
+		},
+		"banan": {
+			"clue": "banana"
+		},
+		"kaffe": {
+			"clue": "coffee"
+		},
+		"vatten": {
+			"clue": "water"
+		}
+	}
+}

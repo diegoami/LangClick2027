@@ -1,0 +1,36 @@
+{
+	"title": "Clothes",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"troja": {
+			"clue": "jumper"
+		},
+		"byxor": {
+			"clue": "trousers"
+		},
+		"kjol": {
+			"clue": "skirt"
+		},
+		"klanning": {
+			"clue": "dress"
+		},
+		"skjorta": {
+			"clue": "shirt"
+		},
+		"jacka": {
+			"clue": "jacket"
+		},
+		"skor": {
+			"clue": "shoes"
+		},
+		"strumpor": {
+			"clue": "socks"
+		},
+		"mossa": {
+			"clue": "woolly hat"
+		},
+		"vantar": {
+			"clue": "mittens"
+		}
+	}
+}

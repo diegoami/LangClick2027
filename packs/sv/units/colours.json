@@ -1,0 +1,189 @@
+{
+	"id": "colours",
+	"layout": {
+		"type": "table",
+		"rows": ["rod", "gron", "bla", "gul", "vit", "brun"],
+		"columns": ["en", "ett", "pl"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "rod.en",
+			"item": "form:colours:rod.en",
+			"text": "röd",
+			"ipa": "/røːd/",
+			"row": "rod",
+			"col": "en",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "rod.ett",
+			"item": "form:colours:rod.ett",
+			"text": "rött",
+			"ipa": "/rœtː/",
+			"row": "rod",
+			"col": "ett",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "rod.pl",
+			"item": "form:colours:rod.pl",
+			"text": "röda",
+			"ipa": "/ˈrø̂ːda/",
+			"row": "rod",
+			"col": "pl",
+			"concepts": ["adjective-agreement", "word-accent"]
+		},
+		{
+			"id": "gron.en",
+			"item": "form:colours:gron.en",
+			"text": "grön",
+			"ipa": "/ɡrøːn/",
+			"row": "gron",
+			"col": "en",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "gron.ett",
+			"item": "form:colours:gron.ett",
+			"text": "grönt",
+			"ipa": "/ɡrœnt/",
+			"row": "gron",
+			"col": "ett",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "gron.pl",
+			"item": "form:colours:gron.pl",
+			"text": "gröna",
+			"ipa": "/ˈɡrø̂ːna/",
+			"row": "gron",
+			"col": "pl",
+			"concepts": ["adjective-agreement", "word-accent"]
+		},
+		{
+			"id": "bla.en",
+			"item": "form:colours:bla.en",
+			"text": "blå",
+			"ipa": "/bloː/",
+			"row": "bla",
+			"col": "en",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "bla.ett",
+			"item": "form:colours:bla.ett",
+			"text": "blått",
+			"ipa": "/blɔtː/",
+			"row": "bla",
+			"col": "ett",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "bla.pl",
+			"item": "form:colours:bla.pl",
+			"text": "blåa",
+			"ipa": "/ˈblôːa/",
+			"alsoAccepted": ["blå"],
+			"row": "bla",
+			"col": "pl",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "gul.en",
+			"item": "form:colours:gul.en",
+			"text": "gul",
+			"ipa": "/ɡʉːl/",
+			"row": "gul",
+			"col": "en",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "gul.ett",
+			"item": "form:colours:gul.ett",
+			"text": "gult",
+			"ipa": "/ɡɵlt/",
+			"row": "gul",
+			"col": "ett",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "gul.pl",
+			"item": "form:colours:gul.pl",
+			"text": "gula",
+			"ipa": "/ˈɡʉ̂ːla/",
+			"row": "gul",
+			"col": "pl",
+			"concepts": ["adjective-agreement", "word-accent"]
+		},
+		{
+			"id": "vit.en",
+			"item": "form:colours:vit.en",
+			"text": "vit",
+			"ipa": "/viːt/",
+			"row": "vit",
+			"col": "en",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "vit.ett",
+			"item": "form:colours:vit.ett",
+			"text": "vitt",
+			"ipa": "/vɪtː/",
+			"row": "vit",
+			"col": "ett",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "vit.pl",
+			"item": "form:colours:vit.pl",
+			"text": "vita",
+			"ipa": "/ˈvîːta/",
+			"row": "vit",
+			"col": "pl",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "brun.en",
+			"item": "form:colours:brun.en",
+			"text": "brun",
+			"ipa": "/brʉːn/",
+			"row": "brun",
+			"col": "en",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "brun.ett",
+			"item": "form:colours:brun.ett",
+			"text": "brunt",
+			"ipa": "/brɵnt/",
+			"row": "brun",
+			"col": "ett",
+			"concepts": ["adjective-agreement"]
+		},
+		{
+			"id": "brun.pl",
+			"item": "form:colours:brun.pl",
+			"text": "bruna",
+			"ipa": "/ˈbrʉ̂ːna/",
+			"row": "brun",
+			"col": "pl",
+			"concepts": ["adjective-agreement", "word-accent"]
+		}
+	]
+}

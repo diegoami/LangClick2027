@@ -1,0 +1,66 @@
+{
+	"id": "shopping",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "gron",
+			"item": "sentence:shopping:gron",
+			"text": "grön",
+			"sentence": "Jag köper en ___ tröja."
+		},
+		{
+			"id": "rott",
+			"item": "sentence:shopping:rott",
+			"text": "rött",
+			"sentence": "Hon har ett ___ paraply."
+		},
+		{
+			"id": "svarta",
+			"item": "sentence:shopping:svarta",
+			"text": "svarta",
+			"sentence": "Han har ___ skor."
+		},
+		{
+			"id": "kostar",
+			"item": "sentence:shopping:kostar",
+			"text": "kostar",
+			"sentence": "Vad ___ jackan?"
+		},
+		{
+			"id": "betala",
+			"item": "sentence:shopping:betala",
+			"text": "betala",
+			"sentence": "Kan jag ___ med kort?"
+		},
+		{
+			"id": "liten",
+			"item": "sentence:shopping:liten",
+			"text": "liten",
+			"sentence": "Den är för ___. Har ni en större?"
+		},
+		{
+			"id": "provrummet",
+			"item": "sentence:shopping:provrummet",
+			"text": "provrummet",
+			"sentence": "Var ligger ___?"
+		}
+	]
+}

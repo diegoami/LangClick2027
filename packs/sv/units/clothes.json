@@ -1,0 +1,90 @@
+{
+	"id": "clothes",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "troja",
+			"item": "word:tröja",
+			"text": "tröja",
+			"ipa": "/ˈtrœ̂jːa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "byxor",
+			"item": "word:byxor",
+			"text": "byxor",
+			"ipa": "/ˈbʏ̂ksʊr/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "kjol",
+			"item": "word:kjol",
+			"text": "kjol",
+			"ipa": "/ɕuːl/"
+		},
+		{
+			"id": "klanning",
+			"item": "word:klänning",
+			"text": "klänning",
+			"ipa": "/ˈklɛ̂nːɪŋ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "skjorta",
+			"item": "word:skjorta",
+			"text": "skjorta",
+			"ipa": "/ˈɧʊ̂ʈːa/",
+			"concepts": ["word-accent", "retroflex"]
+		},
+		{
+			"id": "jacka",
+			"item": "word:jacka",
+			"text": "jacka",
+			"ipa": "/ˈjâkːa/"
+		},
+		{
+			"id": "skor",
+			"item": "word:skor",
+			"text": "skor",
+			"ipa": "/skuːr/"
+		},
+		{
+			"id": "strumpor",
+			"item": "word:strumpor",
+			"text": "strumpor",
+			"ipa": "/ˈstrɵ̂mpʊr/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "mossa",
+			"item": "word:mössa",
+			"text": "mössa",
+			"ipa": "/ˈmœ̂sːa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "vantar",
+			"item": "word:vantar",
+			"text": "vantar",
+			"ipa": "/ˈvântar/"
+		}
+	]
+}

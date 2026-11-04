@@ -1,0 +1,98 @@
+{
+	"id": "food",
+	"layout": {
+		"type": "grid",
+		"size": 12
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "brod",
+			"item": "word:bröd",
+			"text": "bröd",
+			"ipa": "/brøːd/"
+		},
+		{
+			"id": "smor",
+			"item": "word:smör",
+			"text": "smör",
+			"ipa": "/smœːr/"
+		},
+		{
+			"id": "ost",
+			"item": "word:ost",
+			"text": "ost",
+			"ipa": "/ʊst/"
+		},
+		{
+			"id": "mjolk",
+			"item": "word:mjölk",
+			"text": "mjölk",
+			"ipa": "/mjœlk/"
+		},
+		{
+			"id": "agg",
+			"item": "word:ägg",
+			"text": "ägg",
+			"ipa": "/ɛɡː/"
+		},
+		{
+			"id": "kott",
+			"item": "word:kött",
+			"text": "kött",
+			"ipa": "/ɕœtː/"
+		},
+		{
+			"id": "fisk",
+			"item": "word:fisk",
+			"text": "fisk",
+			"ipa": "/fɪsk/"
+		},
+		{
+			"id": "potatis",
+			"item": "word:potatis",
+			"text": "potatis",
+			"ipa": "/pʊˈtɑ̌ːtɪs/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "apple",
+			"item": "word:äpple",
+			"text": "äpple",
+			"ipa": "/ˈɛ̂plɛ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "banan",
+			"item": "word:banan",
+			"text": "banan",
+			"ipa": "/baˈnɑːn/"
+		},
+		{
+			"id": "kaffe",
+			"item": "word:kaffe",
+			"text": "kaffe",
+			"ipa": "/ˈkâfːɛ/"
+		},
+		{
+			"id": "vatten",
+			"item": "word:vatten",
+			"text": "vatten",
+			"ipa": "/ˈvâtːɛn/"
+		}
+	]
+}

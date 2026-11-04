@@ -1,0 +1,22 @@
+{
+	"cells": {
+		"brod": {
+			"contrast": "Related to German Brot."
+		},
+		"mjolk": {
+			"contrast": "Related to German Milch."
+		},
+		"fisk": {
+			"contrast": "Related to German Fisch."
+		},
+		"apple": {
+			"contrast": "Related to German Apfel."
+		},
+		"vatten": {
+			"contrast": "Related to German Wasser."
+		},
+		"ost": {
+			"contrast": "Not related to German Käse."
+		}
+	}
+}

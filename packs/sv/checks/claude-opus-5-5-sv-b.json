@@ -147,6 +147,146 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/clothes/troja",
+			"seen": "{\"item\":\"word:tröja\",\"text\":\"tröja\",\"ipa\":\"/ˈtrœ̂jːa/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/clothes/byxor",
+			"seen": "{\"item\":\"word:byxor\",\"text\":\"byxor\",\"ipa\":\"/ˈbʏ̂ksʊr/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/clothes/kjol",
+			"seen": "{\"item\":\"word:kjol\",\"text\":\"kjol\",\"ipa\":\"/ɕuːl/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/clothes/klanning",
+			"seen": "{\"item\":\"word:klänning\",\"text\":\"klänning\",\"ipa\":\"/ˈklɛ̂nːɪŋ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/clothes/skjorta",
+			"seen": "{\"item\":\"word:skjorta\",\"text\":\"skjorta\",\"ipa\":\"/ˈɧʊ̂ʈːa/\",\"concepts\":[\"word-accent\",\"retroflex\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/clothes/jacka",
+			"seen": "{\"item\":\"word:jacka\",\"text\":\"jacka\",\"ipa\":\"/ˈjâkːa/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/clothes/skor",
+			"seen": "{\"item\":\"word:skor\",\"text\":\"skor\",\"ipa\":\"/skuːr/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/clothes/strumpor",
+			"seen": "{\"item\":\"word:strumpor\",\"text\":\"strumpor\",\"ipa\":\"/ˈstrɵ̂mpʊr/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/clothes/mossa",
+			"seen": "{\"item\":\"word:mössa\",\"text\":\"mössa\",\"ipa\":\"/ˈmœ̂sːa/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/clothes/vantar",
+			"seen": "{\"item\":\"word:vantar\",\"text\":\"vantar\",\"ipa\":\"/ˈvântar/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/rod.en",
+			"seen": "{\"item\":\"form:colours:rod.en\",\"text\":\"röd\",\"ipa\":\"/røːd/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"rod\",\"col\":\"en\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/rod.ett",
+			"seen": "{\"item\":\"form:colours:rod.ett\",\"text\":\"rött\",\"ipa\":\"/rœtː/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"rod\",\"col\":\"ett\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/rod.pl",
+			"seen": "{\"item\":\"form:colours:rod.pl\",\"text\":\"röda\",\"ipa\":\"/ˈrø̂ːda/\",\"concepts\":[\"adjective-agreement\",\"word-accent\"],\"row\":\"rod\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/gron.en",
+			"seen": "{\"item\":\"form:colours:gron.en\",\"text\":\"grön\",\"ipa\":\"/ɡrøːn/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"gron\",\"col\":\"en\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/gron.ett",
+			"seen": "{\"item\":\"form:colours:gron.ett\",\"text\":\"grönt\",\"ipa\":\"/ɡrœnt/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"gron\",\"col\":\"ett\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/gron.pl",
+			"seen": "{\"item\":\"form:colours:gron.pl\",\"text\":\"gröna\",\"ipa\":\"/ˈɡrø̂ːna/\",\"concepts\":[\"adjective-agreement\",\"word-accent\"],\"row\":\"gron\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/bla.en",
+			"seen": "{\"item\":\"form:colours:bla.en\",\"text\":\"blå\",\"ipa\":\"/bloː/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"bla\",\"col\":\"en\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/bla.ett",
+			"seen": "{\"item\":\"form:colours:bla.ett\",\"text\":\"blått\",\"ipa\":\"/blɔtː/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"bla\",\"col\":\"ett\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/bla.pl",
+			"seen": "{\"item\":\"form:colours:bla.pl\",\"text\":\"blåa\",\"ipa\":\"/ˈblôːa/\",\"alsoAccepted\":[\"blå\"],\"concepts\":[\"adjective-agreement\"],\"row\":\"bla\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/gul.en",
+			"seen": "{\"item\":\"form:colours:gul.en\",\"text\":\"gul\",\"ipa\":\"/ɡʉːl/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"gul\",\"col\":\"en\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/gul.ett",
+			"seen": "{\"item\":\"form:colours:gul.ett\",\"text\":\"gult\",\"ipa\":\"/ɡɵlt/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"gul\",\"col\":\"ett\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/gul.pl",
+			"seen": "{\"item\":\"form:colours:gul.pl\",\"text\":\"gula\",\"ipa\":\"/ˈɡʉ̂ːla/\",\"concepts\":[\"adjective-agreement\",\"word-accent\"],\"row\":\"gul\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/vit.en",
+			"seen": "{\"item\":\"form:colours:vit.en\",\"text\":\"vit\",\"ipa\":\"/viːt/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"vit\",\"col\":\"en\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/vit.ett",
+			"seen": "{\"item\":\"form:colours:vit.ett\",\"text\":\"vitt\",\"ipa\":\"/vɪtː/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"vit\",\"col\":\"ett\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/vit.pl",
+			"seen": "{\"item\":\"form:colours:vit.pl\",\"text\":\"vita\",\"ipa\":\"/ˈvîːta/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"vit\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/brun.en",
+			"seen": "{\"item\":\"form:colours:brun.en\",\"text\":\"brun\",\"ipa\":\"/brʉːn/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"brun\",\"col\":\"en\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/brun.ett",
+			"seen": "{\"item\":\"form:colours:brun.ett\",\"text\":\"brunt\",\"ipa\":\"/brɵnt/\",\"concepts\":[\"adjective-agreement\"],\"row\":\"brun\",\"col\":\"ett\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/colours/brun.pl",
+			"seen": "{\"item\":\"form:colours:brun.pl\",\"text\":\"bruna\",\"ipa\":\"/ˈbrʉ̂ːna/\",\"concepts\":[\"adjective-agreement\",\"word-accent\"],\"row\":\"brun\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/en-ett/lagenhet.indef",
 			"seen": "{\"item\":\"form:en lägenhet\",\"text\":\"en lägenhet\",\"ipa\":\"/ɛn ˈlɛ̂ːɡɛnˌheːt/\",\"concepts\":[\"en-ett\",\"word-accent\"],\"row\":\"lagenhet\",\"col\":\"indef\"}",
 			"verdict": "ok"
@@ -205,6 +345,66 @@
 			"key": "core/en-ett/hus.def",
 			"seen": "{\"item\":\"form:huset\",\"text\":\"huset\",\"ipa\":\"/ˈhʉ̌ːsɛt/\",\"concepts\":[\"definite\",\"word-accent\"],\"row\":\"hus\",\"col\":\"def\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/food/brod",
+			"seen": "{\"item\":\"word:bröd\",\"text\":\"bröd\",\"ipa\":\"/brøːd/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/smor",
+			"seen": "{\"item\":\"word:smör\",\"text\":\"smör\",\"ipa\":\"/smœːr/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/ost",
+			"seen": "{\"item\":\"word:ost\",\"text\":\"ost\",\"ipa\":\"/ʊst/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/mjolk",
+			"seen": "{\"item\":\"word:mjölk\",\"text\":\"mjölk\",\"ipa\":\"/mjœlk/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/agg",
+			"seen": "{\"item\":\"word:ägg\",\"text\":\"ägg\",\"ipa\":\"/ɛɡː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/kott",
+			"seen": "{\"item\":\"word:kött\",\"text\":\"kött\",\"ipa\":\"/ɕœtː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/fisk",
+			"seen": "{\"item\":\"word:fisk\",\"text\":\"fisk\",\"ipa\":\"/fɪsk/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/potatis",
+			"seen": "{\"item\":\"word:potatis\",\"text\":\"potatis\",\"ipa\":\"/pʊˈtɑ̌ːtɪs/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/apple",
+			"seen": "{\"item\":\"word:äpple\",\"text\":\"äpple\",\"ipa\":\"/ˈɛ̂plɛ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/banan",
+			"seen": "{\"item\":\"word:banan\",\"text\":\"banan\",\"ipa\":\"/baˈnɑːn/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/kaffe",
+			"seen": "{\"item\":\"word:kaffe\",\"text\":\"kaffe\",\"ipa\":\"/ˈkâfːɛ/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/food/vatten",
+			"seen": "{\"item\":\"word:vatten\",\"text\":\"vatten\",\"ipa\":\"/ˈvâtːɛn/\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/furniture/sang",
@@ -427,6 +627,41 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/meals/dricker",
+			"seen": "{\"item\":\"sentence:meals:dricker\",\"text\":\"dricker\",\"sentence\":\"Jag ___ kaffe på morgonen.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/meals/ater",
+			"seen": "{\"item\":\"sentence:meals:ater\",\"text\":\"äter\",\"sentence\":\"Vi ___ fisk i dag.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/meals/tycker",
+			"seen": "{\"item\":\"sentence:meals:tycker\",\"text\":\"tycker\",\"sentence\":\"Jag ___ om ost.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/meals/hungrig",
+			"seen": "{\"item\":\"sentence:meals:hungrig\",\"text\":\"hungrig\",\"sentence\":\"Jag är ___. Kan vi äta nu?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/meals/matt",
+			"seen": "{\"item\":\"sentence:meals:matt\",\"text\":\"mätt\",\"sentence\":\"Nej tack, jag är ___.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/meals/torstig",
+			"seen": "{\"item\":\"sentence:meals:torstig\",\"text\":\"törstig\",\"sentence\":\"Jag är ___. Har du vatten?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/meals/kvittot",
+			"seen": "{\"item\":\"sentence:meals:kvittot\",\"text\":\"kvittot\",\"sentence\":\"Får jag ___, tack?\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/numbers/n0",
 			"seen": "{\"item\":\"word:noll\",\"text\":\"noll\",\"ipa\":\"/nɔlː/\",\"clue\":\"0\"}",
 			"verdict": "ok"
@@ -580,6 +815,91 @@
 			"key": "core/phrases/godnatt",
 			"seen": "{\"item\":\"word:god natt\",\"text\":\"god natt\",\"ipa\":\"/ɡuː ˈnatː/\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/plurals/gurka.sg",
+			"seen": "{\"item\":\"form:plurals:gurka.sg\",\"text\":\"en gurka\",\"ipa\":\"/ɛn ˈɡɵ̂rka/\",\"concepts\":[\"plurals\",\"word-accent\"],\"row\":\"gurka\",\"col\":\"sg\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/plurals/gurka.pl",
+			"seen": "{\"item\":\"form:plurals:gurka.pl\",\"text\":\"gurkor\",\"ipa\":\"/ˈɡɵ̂rkʊr/\",\"concepts\":[\"plurals\",\"word-accent\"],\"row\":\"gurka\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/plurals/korv.sg",
+			"seen": "{\"item\":\"form:plurals:korv.sg\",\"text\":\"en korv\",\"ipa\":\"/ɛn kɔrv/\",\"concepts\":[\"plurals\"],\"row\":\"korv\",\"col\":\"sg\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/plurals/korv.pl",
+			"seen": "{\"item\":\"form:plurals:korv.pl\",\"text\":\"korvar\",\"ipa\":\"/ˈkɔ̂rvar/\",\"concepts\":[\"plurals\",\"word-accent\"],\"row\":\"korv\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/plurals/banan.sg",
+			"seen": "{\"item\":\"form:plurals:banan.sg\",\"text\":\"en banan\",\"ipa\":\"/ɛn baˈnɑːn/\",\"concepts\":[\"plurals\"],\"row\":\"banan\",\"col\":\"sg\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/plurals/banan.pl",
+			"seen": "{\"item\":\"form:plurals:banan.pl\",\"text\":\"bananer\",\"ipa\":\"/baˈnɑ̌ːnɛr/\",\"concepts\":[\"plurals\",\"word-accent\"],\"row\":\"banan\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/plurals/apple.sg",
+			"seen": "{\"item\":\"form:plurals:apple.sg\",\"text\":\"ett äpple\",\"ipa\":\"/ɛt ˈɛ̂plɛ/\",\"concepts\":[\"plurals\",\"word-accent\"],\"row\":\"apple\",\"col\":\"sg\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/plurals/apple.pl",
+			"seen": "{\"item\":\"form:plurals:apple.pl\",\"text\":\"äpplen\",\"ipa\":\"/ˈɛ̂plɛn/\",\"concepts\":[\"plurals\",\"word-accent\"],\"row\":\"apple\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/plurals/agg.sg",
+			"seen": "{\"item\":\"form:plurals:agg.sg\",\"text\":\"ett ägg\",\"ipa\":\"/ɛt ɛɡː/\",\"concepts\":[\"plurals\"],\"row\":\"agg\",\"col\":\"sg\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/plurals/agg.pl",
+			"seen": "{\"item\":\"form:plurals:agg.pl\",\"text\":\"ägg\",\"ipa\":\"/ɛɡː/\",\"concepts\":[\"plurals\"],\"row\":\"agg\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/shopping/gron",
+			"seen": "{\"item\":\"sentence:shopping:gron\",\"text\":\"grön\",\"sentence\":\"Jag köper en ___ tröja.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/shopping/rott",
+			"seen": "{\"item\":\"sentence:shopping:rott\",\"text\":\"rött\",\"sentence\":\"Hon har ett ___ paraply.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/shopping/svarta",
+			"seen": "{\"item\":\"sentence:shopping:svarta\",\"text\":\"svarta\",\"sentence\":\"Han har ___ skor.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/shopping/kostar",
+			"seen": "{\"item\":\"sentence:shopping:kostar\",\"text\":\"kostar\",\"sentence\":\"Vad ___ jackan?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/shopping/betala",
+			"seen": "{\"item\":\"sentence:shopping:betala\",\"text\":\"betala\",\"sentence\":\"Kan jag ___ med kort?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/shopping/liten",
+			"seen": "{\"item\":\"sentence:shopping:liten\",\"text\":\"liten\",\"sentence\":\"Den är för ___. Har ni en större?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/shopping/provrummet",
+			"seen": "{\"item\":\"sentence:shopping:provrummet\",\"text\":\"provrummet\",\"sentence\":\"Var ligger ___?\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/sj-tj/sjo",
@@ -762,9 +1082,54 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "de-en/clothes/skor",
+			"seen": "{\"contrast\":\"Related to German Schuhe.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/clothes/strumpor",
+			"seen": "{\"contrast\":\"Related to German Strümpfe.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/colours/rod.ett",
+			"seen": "{\"contrast\":\"Like a German adjective, it agrees with the noun, but there are fewer forms: rött for an ett-word, as in ein rotes Haus.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "de-en/en-ett/hus.def",
 			"seen": "{\"contrast\":\"German has three genders and puts the article first: das Haus. Swedish has two, and adds the article as an ending: huset.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "de-en/food/brod",
+			"seen": "{\"contrast\":\"Related to German Brot.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/food/mjolk",
+			"seen": "{\"contrast\":\"Related to German Milch.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/food/fisk",
+			"seen": "{\"contrast\":\"Related to German Fisch.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/food/apple",
+			"seen": "{\"contrast\":\"Related to German Apfel.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/food/vatten",
+			"seen": "{\"contrast\":\"Related to German Wasser.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/food/ost",
+			"seen": "{\"contrast\":\"Not related to German Käse.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "de-en/furniture/stol",
@@ -937,6 +1302,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/lesson/l05",
+			"seen": "\"Lesson 5: Clothes and colours\"",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/lesson/l06",
+			"seen": "\"Lesson 6: Food and drink\"",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/concept/own-letters",
 			"seen": "{\"title\":\"å, ä and ö are letters of their own\",\"body\":\"Swedish has 29 letters: the 26 of English, then å, ä and ö, in that order at the end of the alphabet. They are not a or o with marks, and a dictionary files them after z.\",\"sources\":[{\"title\":\"Swedish alphabet (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Swedish_alphabet\"}]}",
 			"verdict": "ok"
@@ -992,14 +1367,149 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/concept/adjective-agreement",
+			"seen": "{\"title\":\"The adjective agrees\",\"body\":\"An adjective after en or before an en-word has no ending: en röd tröja. With an ett-word it adds -t: ett rött paraply. In the plural it adds -a: röda skor. A long vowel before -t becomes short, and spelling doubles the t: röd, rött; vit, vitt. blå has the plural blå or blåa.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/plurals",
+			"seen": "{\"title\":\"Five plurals\",\"body\":\"Plurals fall into groups. Most en-words in -a take -or: gurka, gurkor. Many other en-words take -ar (korv, korvar) or -er (banan, bananer). An ett-word ending in a vowel adds -n: äpple, äpplen. An ett-word ending in a consonant often stays the same: ett ägg, två ägg. Learn each noun with its plural.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/alphabet",
 			"seen": "{\"title\":\"The alphabet\",\"summary\":\"All 29 letters, in order. Each tile gives the name of the letter in IPA; find the letter.\"}",
 			"verdict": "ok"
 		},
 		{
+			"key": "en/clothes",
+			"seen": "{\"title\":\"Clothes\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/clothes/troja",
+			"seen": "{\"clue\":\"jumper\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/clothes/byxor",
+			"seen": "{\"clue\":\"trousers\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/clothes/kjol",
+			"seen": "{\"clue\":\"skirt\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/clothes/klanning",
+			"seen": "{\"clue\":\"dress\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/clothes/skjorta",
+			"seen": "{\"clue\":\"shirt\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/clothes/jacka",
+			"seen": "{\"clue\":\"jacket\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/clothes/skor",
+			"seen": "{\"clue\":\"shoes\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/clothes/strumpor",
+			"seen": "{\"clue\":\"socks\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/clothes/mossa",
+			"seen": "{\"clue\":\"woolly hat\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/clothes/vantar",
+			"seen": "{\"clue\":\"mittens\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/colours",
+			"seen": "{\"title\":\"Colours that agree\",\"summary\":\"A colour is an adjective: -t with an ett-word, -a in the plural. Find the form for each cell.\",\"headers\":{\"rod\":\"red\",\"gron\":\"green\",\"bla\":\"blue\",\"gul\":\"yellow\",\"vit\":\"white\",\"brun\":\"brown\",\"en\":\"with an en-word\",\"ett\":\"with an ett-word\",\"pl\":\"plural\"}}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/en-ett",
 			"seen": "{\"title\":\"en and ett, and \\\"the\\\"\",\"summary\":\"Each noun with its article, and its definite form. Find the form for each cell.\",\"headers\":{\"lagenhet\":\"flat\",\"kok\":\"kitchen\",\"balkong\":\"balcony\",\"rum\":\"room\",\"hiss\":\"lift\",\"hus\":\"house\",\"indef\":\"a, an\",\"def\":\"the\"}}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/food",
+			"seen": "{\"title\":\"Food and drink\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/brod",
+			"seen": "{\"clue\":\"bread\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/smor",
+			"seen": "{\"clue\":\"butter\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/ost",
+			"seen": "{\"clue\":\"cheese\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/mjolk",
+			"seen": "{\"clue\":\"milk\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/agg",
+			"seen": "{\"clue\":\"egg\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/kott",
+			"seen": "{\"clue\":\"meat\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/fisk",
+			"seen": "{\"clue\":\"fish\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/potatis",
+			"seen": "{\"clue\":\"potato\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/apple",
+			"seen": "{\"clue\":\"apple\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/banan",
+			"seen": "{\"clue\":\"banana\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/kaffe",
+			"seen": "{\"clue\":\"coffee\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/food/vatten",
+			"seen": "{\"clue\":\"water\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/furniture",
@@ -1247,6 +1757,46 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/meals",
+			"seen": "{\"title\":\"Meals\",\"summary\":\"Eating, drinking and paying. Choose or type the word that fits the gap.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/meals/dricker",
+			"seen": "{\"sentenceGloss\":\"I drink coffee in the morning.\",\"note\":\"dricka, to drink.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/meals/ater",
+			"seen": "{\"sentenceGloss\":\"We are eating fish today.\",\"note\":\"äta, to eat: one present form, äter.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/meals/tycker",
+			"seen": "{\"sentenceGloss\":\"I like cheese.\",\"note\":\"tycka om, to like.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/meals/hungrig",
+			"seen": "{\"sentenceGloss\":\"I am hungry. Can we eat now?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/meals/matt",
+			"seen": "{\"sentenceGloss\":\"No thanks, I am full.\",\"note\":\"mätt, full after eating.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/meals/torstig",
+			"seen": "{\"sentenceGloss\":\"I am thirsty. Do you have water?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/meals/kvittot",
+			"seen": "{\"sentenceGloss\":\"May I have the receipt, please?\",\"note\":\"ett kvitto, kvittot.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/numbers",
 			"seen": "{\"title\":\"Nought to twenty\",\"summary\":\"Each tile gives a number; find the word.\"}",
 			"verdict": "ok"
@@ -1325,6 +1875,51 @@
 			"key": "en/phrases/godnatt",
 			"seen": "{\"clue\":\"good night\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/plurals",
+			"seen": "{\"title\":\"One and more\",\"summary\":\"Five ways to make a plural. Find the form for each cell.\",\"headers\":{\"gurka\":\"cucumber\",\"korv\":\"sausage\",\"banan\":\"banana\",\"apple\":\"apple\",\"agg\":\"egg\",\"sg\":\"one\",\"pl\":\"more than one\"}}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/shopping",
+			"seen": "{\"title\":\"In the shop\",\"summary\":\"Buying clothes. Choose or type the word that fits the gap.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/shopping/gron",
+			"seen": "{\"sentenceGloss\":\"I am buying a green jumper.\",\"note\":\"en tröja: the en-form.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/shopping/rott",
+			"seen": "{\"sentenceGloss\":\"She has a red umbrella.\",\"note\":\"ett paraply: -t with an ett-word; ö shortens before tt.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/shopping/svarta",
+			"seen": "{\"sentenceGloss\":\"He has black shoes.\",\"note\":\"skor is plural: -a.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/shopping/kostar",
+			"seen": "{\"sentenceGloss\":\"What does the jacket cost?\",\"note\":\"kosta, to cost.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/shopping/betala",
+			"seen": "{\"sentenceGloss\":\"Can I pay by card?\",\"note\":\"After kan the verb stays in the infinitive.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/shopping/liten",
+			"seen": "{\"sentenceGloss\":\"It is too small. Do you have a bigger one?\",\"note\":\"liten, small; för, too.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/shopping/provrummet",
+			"seen": "{\"sentenceGloss\":\"Where is the fitting room?\",\"note\":\"ett provrum, provrummet.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/sj-tj",
@@ -1472,9 +2067,54 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en-en/clothes/skjorta",
+			"seen": "{\"contrast\":\"Related to English shirt and skirt.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/clothes/skor",
+			"seen": "{\"contrast\":\"Related to English shoes.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/colours/rod.ett",
+			"seen": "{\"contrast\":\"English adjectives never change; Swedish ones agree with the noun.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en-en/en-ett/hus.def",
 			"seen": "{\"contrast\":\"English puts \\\"the\\\" before the noun; Swedish adds it as an ending: huset, the house.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en-en/food/brod",
+			"seen": "{\"contrast\":\"Related to English bread.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/food/mjolk",
+			"seen": "{\"contrast\":\"Related to English milk.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/food/fisk",
+			"seen": "{\"contrast\":\"Related to English fish.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/food/apple",
+			"seen": "{\"contrast\":\"Related to English apple.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/food/vatten",
+			"seen": "{\"contrast\":\"Related to English water.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en-en/food/ost",
+			"seen": "{\"contrast\":\"Not related to cheese.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en-en/furniture/bord",

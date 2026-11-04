@@ -22,6 +22,12 @@
 		},
 		"l04": {
 			"title": "Lesson 4: Housing"
+		},
+		"l05": {
+			"title": "Lesson 5: Clothes and colours"
+		},
+		"l06": {
+			"title": "Lesson 6: Food and drink"
 		}
 	},
 	"concepts": {
@@ -152,6 +158,34 @@
 		"definite": {
 			"title": "\"The\" is an ending",
 			"body": "Swedish says \"the\" at the end of the noun. An en-word adds -en, or -n after a vowel: lägenheten, trappan. An ett-word adds -et, or -t after a vowel: huset, köket. A short vowel keeps its long consonant, and spelling doubles it: rum, rummet. After i or på the definite form is usual where English says \"the\": i köket, in the kitchen.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"adjective-agreement": {
+			"title": "The adjective agrees",
+			"body": "An adjective after en or before an en-word has no ending: en röd tröja. With an ett-word it adds -t: ett rött paraply. In the plural it adds -a: röda skor. A long vowel before -t becomes short, and spelling doubles the t: röd, rött; vit, vitt. blå has the plural blå or blåa.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"plurals": {
+			"title": "Five plurals",
+			"body": "Plurals fall into groups. Most en-words in -a take -or: gurka, gurkor. Many other en-words take -ar (korv, korvar) or -er (banan, bananer). An ett-word ending in a vowel adds -n: äpple, äpplen. An ett-word ending in a consonant often stays the same: ett ägg, två ägg. Learn each noun with its plural.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",

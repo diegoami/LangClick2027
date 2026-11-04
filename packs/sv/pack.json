@@ -58,6 +58,30 @@
 					"url": "https://www.hejsvenska.se/index1.html"
 				}
 			]
+		},
+		{
+			"id": "l05",
+			"section": "themes",
+			"units": ["clothes", "colours", "shopping"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 2: Kläder",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l06",
+			"section": "themes",
+			"units": ["food", "plurals", "meals"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 4: Mat",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
 		}
 	]
 }
