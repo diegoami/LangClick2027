@@ -1,0 +1,80 @@
+{
+	"id": "traffic3-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: Swedish entries (CC BY-SA)",
+			"url": "https://en.wiktionary.org/wiki/Category:Swedish_lemmas"
+		},
+		{
+			"title": "Swedish grammar: clause structure and inflection",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:traffic3-sentences:s01",
+			"text": "har",
+			"sentence": "Ja, det ___ jag.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:traffic3-sentences:s02",
+			"text": "kan",
+			"sentence": "Nej, det ___ jag inte.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:traffic3-sentences:s03",
+			"text": "gör",
+			"sentence": "Ja, det ___ jag varje dag.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:traffic3-sentences:s04",
+			"text": "men",
+			"sentence": "Jag vill cykla, ___ cykeln är trasig.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:traffic3-sentences:s05",
+			"text": "så",
+			"sentence": "Bussen var sen, ___ jag tog tåget.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:traffic3-sentences:s06",
+			"text": "tar",
+			"sentence": "När det regnar ___ jag bussen.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:traffic3-sentences:s07",
+			"text": "inte",
+			"sentence": "Jag går eftersom bussen ___ kommer.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:traffic3-sentences:s08",
+			"text": "bälte",
+			"sentence": "I bilen använder hon ___ för att sitta säkert.",
+			"concepts": ["traffic3-usage"]
+		}
+	]
+}

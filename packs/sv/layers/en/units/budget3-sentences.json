@@ -1,0 +1,38 @@
+{
+	"title": "Bills and a budget — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. The source labels this theme Tid, but its listed tasks concern personal finances. Distinguish låna (borrow) from låna ut (lend), and practise everyday money words.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "May I borrow your book and return it tomorrow?",
+			"note": "Låna: receive something temporarily."
+		},
+		"s02": {
+			"sentenceGloss": "I can lend my book to you.",
+			"note": "Låna ut: let someone else borrow."
+		},
+		"s03": {
+			"sentenceGloss": "I have received a bill for the electricity.",
+			"note": "En räkning: a bill."
+		},
+		"s04": {
+			"sentenceGloss": "Part of the pay is paid in tax.",
+			"note": "Skatt means tax."
+		},
+		"s05": {
+			"sentenceGloss": "I want to save money for a bicycle.",
+			"note": "Spara pengar: save money."
+		},
+		"s06": {
+			"sentenceGloss": "Yesterday I paid the bill.",
+			"note": "Finished time i går: preterite betalade."
+		},
+		"s07": {
+			"sentenceGloss": "I have already paid the bill.",
+			"note": "Har + supine betalat."
+		},
+		"s08": {
+			"sentenceGloss": "I write a budget for the month’s income and expenses.",
+			"note": "En budget plans income and expenses."
+		}
+	}
+}

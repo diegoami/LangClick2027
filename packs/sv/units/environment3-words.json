@@ -1,0 +1,82 @@
+{
+	"id": "environment3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: miljö (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/miljö#Swedish"
+		},
+		{
+			"title": "Wiktionary: avfall (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/avfall#Swedish"
+		},
+		{
+			"title": "Wiktionary: glas (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/glas#Swedish"
+		},
+		{
+			"title": "Wiktionary: plast (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/plast#Swedish"
+		},
+		{
+			"title": "Wiktionary: billigare (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/billigare#Swedish"
+		},
+		{
+			"title": "Wiktionary: bättre (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/bättre#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:miljö",
+			"text": "miljö",
+			"ipa": "/mɪlˈjøː/",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:avfall",
+			"text": "avfall",
+			"ipa": "/ˈɑ̂ːvˌfalː/",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "word:glas",
+			"text": "glas",
+			"ipa": "/ɡlɑːs/",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:plast",
+			"text": "plast",
+			"ipa": "/plast/",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:billigare",
+			"text": "billigare",
+			"ipa": "/ˈbɪ̂lːɪɡarɛ/",
+			"concepts": ["environment3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:bättre",
+			"text": "bättre",
+			"ipa": "/ˈbɛ̂tːrɛ/",
+			"concepts": ["environment3-usage"]
+		}
+	]
+}

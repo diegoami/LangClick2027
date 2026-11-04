@@ -1,0 +1,38 @@
+{
+	"title": "Work and applications — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. Practise employment words and workplace requests. Som introduces a relative clause; så att can introduce an intended result.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "That is the colleague who works at night.",
+			"note": "Som introduces a relative clause about kollegan."
+		},
+		"s02": {
+			"sentenceGloss": "She works as a teacher at a school.",
+			"note": "Arbeta som + occupation."
+		},
+		"s03": {
+			"sentenceGloss": "He works at a hospital.",
+			"note": "Arbeta på + workplace."
+		},
+		"s04": {
+			"sentenceGloss": "Speak clearly so that everyone can understand you.",
+			"note": "Så att introduces the intended result."
+		},
+		"s05": {
+			"sentenceGloss": "I receive my pay for the work every month.",
+			"note": "Lön means pay."
+		},
+		"s06": {
+			"sentenceGloss": "Protect your head with a helmet.",
+			"note": "En hjälm protects the head."
+		},
+		"s07": {
+			"sentenceGloss": "We take a break and drink coffee.",
+			"note": "Ta en rast: take a break."
+		},
+		"s08": {
+			"sentenceGloss": "In my CV I write about my experience from previous jobs.",
+			"note": "Erfarenhet is experience."
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"title": "Plans, calls and instructions — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. Vill, ska, får, kan, behöver and måste are followed by an infinitive here, without att. Telephone phrases and imperatives practise making arrangements.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "I would like to see the film, but I have no ticket.",
+			"note": "Vill expresses wanting to do something."
+		},
+		"s02": {
+			"sentenceGloss": "You may borrow my bicycle; I give you permission.",
+			"note": "Får expresses permission here."
+		},
+		"s03": {
+			"sentenceGloss": "She can swim; she learned as a child.",
+			"note": "Kan expresses ability."
+		},
+		"s04": {
+			"sentenceGloss": "You must show a ticket; it is a requirement.",
+			"note": "Måste expresses obligation."
+		},
+		"s05": {
+			"sentenceGloss": "I need to buy food; the fridge is empty.",
+			"note": "Behöver expresses a need."
+		},
+		"s06": {
+			"sentenceGloss": "Can you call me this evening?",
+			"note": "An infinitive follows kan, without att."
+		},
+		"s07": {
+			"sentenceGloss": "Wait a moment, please!",
+			"note": "Vänta is the imperative here."
+		},
+		"s08": {
+			"sentenceGloss": "Happy birthday! – Thank you very much!",
+			"note": "Tack is the response to a good wish."
+		}
+	}
+}

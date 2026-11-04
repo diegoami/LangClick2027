@@ -1,0 +1,82 @@
+{
+	"id": "traffic3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: väg (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/väg#Swedish"
+		},
+		{
+			"title": "Wiktionary: trafik (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/trafik#Swedish"
+		},
+		{
+			"title": "Wiktionary: bälte (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/bälte#Swedish"
+		},
+		{
+			"title": "Wiktionary: böter (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/böter#Swedish"
+		},
+		{
+			"title": "Wiktionary: resa (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/resa#Swedish"
+		},
+		{
+			"title": "Wiktionary: biljett (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/biljett#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:väg",
+			"text": "väg",
+			"ipa": "/vɛːɡ/",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:trafik",
+			"text": "trafik",
+			"ipa": "/traˈfiːk/",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "word:bälte",
+			"text": "bälte",
+			"ipa": "/ˈbɛ̂ltɛ/",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:böter",
+			"text": "böter",
+			"ipa": "/ˈbø̂ːtɛr/",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:resa",
+			"text": "resa",
+			"ipa": "/ˈrêːsa/",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:biljett",
+			"text": "biljett",
+			"ipa": "/bɪlˈjɛtː/",
+			"concepts": ["traffic3-usage"]
+		}
+	]
+}

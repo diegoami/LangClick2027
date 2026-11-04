@@ -1,0 +1,82 @@
+{
+	"id": "people3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: lång (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/lång#Swedish"
+		},
+		{
+			"title": "Wiktionary: kort (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/kort#Swedish"
+		},
+		{
+			"title": "Wiktionary: snäll (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/snäll#Swedish"
+		},
+		{
+			"title": "Wiktionary: glad (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/glad#Swedish"
+		},
+		{
+			"title": "Wiktionary: arg (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/arg#Swedish"
+		},
+		{
+			"title": "Wiktionary: gift (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/gift#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:lång",
+			"text": "lång",
+			"ipa": "/lɔŋː/",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:kort",
+			"text": "kort",
+			"ipa": "/kɔʈː/",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "word:snäll",
+			"text": "snäll",
+			"ipa": "/snɛlː/",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:glad",
+			"text": "glad",
+			"ipa": "/ɡlɑːd/",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:arg",
+			"text": "arg",
+			"ipa": "/arj/",
+			"concepts": ["people3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:gift",
+			"text": "gift",
+			"ipa": "/jɪft/",
+			"concepts": ["people3-usage"]
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"id": "country3-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: Swedish entries (CC BY-SA)",
+			"url": "https://en.wiktionary.org/wiki/Category:Swedish_lemmas"
+		},
+		{
+			"title": "Swedish grammar: clause structure and inflection",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:country3-sentences:s01",
+			"text": "vilket",
+			"sentence": "___ land kommer du från?",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:country3-sentences:s02",
+			"text": "vilken",
+			"sentence": "___ stad bor hon i?",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:country3-sentences:s03",
+			"text": "vilka",
+			"sentence": "___ språk talar de?",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:country3-sentences:s04",
+			"text": "norr",
+			"sentence": "Kiruna ligger i ___, långt från Malmö.",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:country3-sentences:s05",
+			"text": "söder",
+			"sentence": "Malmö ligger i ___, nära Danmark.",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:country3-sentences:s06",
+			"text": "ö",
+			"sentence": "Gotland är en ___ i Östersjön.",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:country3-sentences:s07",
+			"text": "inte",
+			"sentence": "Sverige ligger ___ i Afrika.",
+			"concepts": ["country3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:country3-sentences:s08",
+			"text": "bor",
+			"sentence": "I dag ___ hon i Sverige.",
+			"concepts": ["country3-usage"]
+		}
+	]
+}

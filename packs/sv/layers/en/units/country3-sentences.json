@@ -1,0 +1,38 @@
+{
+	"title": "Countries and directions — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. A country and its surroundings. Vilken goes with en nouns, vilket with ett nouns, and vilka with plurals.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "Which country do you come from?",
+			"note": "Land is an ett noun: vilket land."
+		},
+		"s02": {
+			"sentenceGloss": "Which city does she live in?",
+			"note": "Stad is an en noun: vilken stad."
+		},
+		"s03": {
+			"sentenceGloss": "Which languages do they speak?",
+			"note": "Here språk is plural, so use vilka."
+		},
+		"s04": {
+			"sentenceGloss": "Kiruna is in the north, far from Malmö.",
+			"note": "I norr means in the north."
+		},
+		"s05": {
+			"sentenceGloss": "Malmö is in the south, near Denmark.",
+			"note": "I söder means in the south."
+		},
+		"s06": {
+			"sentenceGloss": "Gotland is an island in the Baltic Sea.",
+			"note": "En ö: an island."
+		},
+		"s07": {
+			"sentenceGloss": "Sweden is not in Africa.",
+			"note": "In a main clause inte normally follows the finite verb."
+		},
+		"s08": {
+			"sentenceGloss": "Today she lives in Sweden.",
+			"note": "After initial I dag the finite verb precedes the subject."
+		}
+	}
+}

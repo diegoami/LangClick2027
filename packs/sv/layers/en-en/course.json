@@ -1,1 +1,124 @@
-{}
+{
+	"concepts": {
+		"country3-usage": {
+			"title": "Countries and directions",
+			"body": "English uses which for all three; Swedish agrees with the noun.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"perfect3-usage": {
+			"title": "Past, perfect and clause order",
+			"body": "Swedish uses har with all perfect verbs here, including motion verbs. Main clauses put the finite verb second.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"people3-usage": {
+			"title": "People and reasons",
+			"body": "Swedish distinguishes Hur ser hon ut? (appearance) from Hur är hon? (character).",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"modals3-usage": {
+			"title": "Plans, calls and instructions",
+			"body": "Unlike English must, Swedish måste also works with personal subjects without changing form.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"employment3-usage": {
+			"title": "Work and applications",
+			"body": "Som can be a relative word (who/that) or mean as in arbetar som lärare.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"environment3-usage": {
+			"title": "Environment and comparison",
+			"body": "Unlike English than, än introduces the comparison in both regular and irregular forms.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"renting3-usage": {
+			"title": "Renting and housing",
+			"body": "Ingen/inget/inga combines no with noun agreement. Distinguish an indefinite and a definite plural.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"traffic3-usage": {
+			"title": "Traffic and journeys",
+			"body": "Short answers repeat the auxiliary, much as English does: Har du …? Ja, det har jag.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"budget3-usage": {
+			"title": "Bills and a budget",
+			"body": "Låna has the direction borrow; the particle ut changes it to lend.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"clinic3-usage": {
+			"title": "At the clinic",
+			"body": "English too becomes också in positive statements; not … either becomes inte … heller.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"relationships3-usage": {
+			"title": "Relationships and messages",
+			"body": "Swedish usually retains att where English can omit that. Vilken/vilket/vilka in exclamations agrees with the noun.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		},
+		"society3-usage": {
+			"title": "Politics and public services",
+			"body": "Varken … eller already expresses neither … nor; do not add inte to make that meaning.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				}
+			]
+		}
+	}
+}

@@ -159,6 +159,12 @@ The rest of the rules, each with the board that states it:
 shows what is still uncovered. It holds titles and the mapping, with none of the course's
 text. A test keeps it in step with the units.
 
+`packs/sv/coverage/hejsvenska-3.json` maps all ten Hej svenska 3 themes to lessons
+25–36 and their boards. The source labels its employment theme `Bas` and its money
+theme `Tid`; the ledger retains those labels while lesson titles describe the
+practice. Source-only listening, reading, diagrams and free writing are listed
+explicitly. `courseCoverage.test.ts` checks theme coverage and exact manifest mappings.
+
 ## IPA in the Swedish pack
 
 The rules above are the Ukrainian pack's. `sv` transcribes Central Standard Swedish

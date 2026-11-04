@@ -1,0 +1,82 @@
+{
+	"id": "renting3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: hyra (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/hyra#Swedish"
+		},
+		{
+			"title": "Wiktionary: kontrakt (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/kontrakt#Swedish"
+		},
+		{
+			"title": "Wiktionary: nyckel (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/nyckel#Swedish"
+		},
+		{
+			"title": "Wiktionary: granne (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/granne#Swedish"
+		},
+		{
+			"title": "Wiktionary: ingen (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/ingen#Swedish"
+		},
+		{
+			"title": "Wiktionary: inget (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/inget#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:hyra",
+			"text": "hyra",
+			"ipa": "/ˈhŷːra/",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:kontrakt",
+			"text": "kontrakt",
+			"ipa": "/kɔnˈtrakt/",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "word:nyckel",
+			"text": "nyckel",
+			"ipa": "/ˈnʏ̂kːɛl/",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:granne",
+			"text": "granne",
+			"ipa": "/ˈɡrânːɛ/",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:ingen",
+			"text": "ingen",
+			"ipa": "/ˈɪ̌ŋːɛn/",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:inget",
+			"text": "inget",
+			"ipa": "/ˈɪ̌ŋːɛt/",
+			"concepts": ["renting3-usage"]
+		}
+	]
+}

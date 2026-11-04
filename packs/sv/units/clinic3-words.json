@@ -1,0 +1,82 @@
+{
+	"id": "clinic3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: hjärta (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/hjärta#Swedish"
+		},
+		{
+			"title": "Wiktionary: lunga (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/lunga#Swedish"
+		},
+		{
+			"title": "Wiktionary: lever (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/lever#Swedish"
+		},
+		{
+			"title": "Wiktionary: feber (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/feber#Swedish"
+		},
+		{
+			"title": "Wiktionary: hosta (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/hosta#Swedish"
+		},
+		{
+			"title": "Wiktionary: vård (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/vård#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:hjärta",
+			"text": "hjärta",
+			"ipa": "/ˈjæ̂ʈːa/",
+			"concepts": ["clinic3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:lunga",
+			"text": "lunga",
+			"ipa": "/ˈlɵ̂ŋɡa/",
+			"concepts": ["clinic3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "word:lever",
+			"text": "lever",
+			"ipa": "/ˈlěːvɛr/",
+			"concepts": ["clinic3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:feber",
+			"text": "feber",
+			"ipa": "/ˈfěːbɛr/",
+			"concepts": ["clinic3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:hosta",
+			"text": "hosta",
+			"ipa": "/ˈhʊ̂sta/",
+			"concepts": ["clinic3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:vård",
+			"text": "vård",
+			"ipa": "/voːɖ/",
+			"concepts": ["clinic3-usage"]
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"id": "budget3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: räkning (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/räkning#Swedish"
+		},
+		{
+			"title": "Wiktionary: skatt (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/skatt#Swedish"
+		},
+		{
+			"title": "Wiktionary: pension (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/pension#Swedish"
+		},
+		{
+			"title": "Wiktionary: spara (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/spara#Swedish"
+		},
+		{
+			"title": "Wiktionary: slösa (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/slösa#Swedish"
+		},
+		{
+			"title": "Wiktionary: låna (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/låna#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:räkning",
+			"text": "räkning",
+			"ipa": "/ˈrɛ̂ːknɪŋ/",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:skatt",
+			"text": "skatt",
+			"ipa": "/skatː/",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "word:pension",
+			"text": "pension",
+			"ipa": "/panˈɧuːn/",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:spara",
+			"text": "spara",
+			"ipa": "/ˈspɑ̂ːra/",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:slösa",
+			"text": "slösa",
+			"ipa": "/ˈslø̂ːsa/",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:låna",
+			"text": "låna",
+			"ipa": "/ˈlôːna/",
+			"concepts": ["budget3-usage"]
+		}
+	]
+}

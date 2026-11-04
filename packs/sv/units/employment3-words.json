@@ -1,0 +1,82 @@
+{
+	"id": "employment3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: lön (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/lön#Swedish"
+		},
+		{
+			"title": "Wiktionary: chef (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/chef#Swedish"
+		},
+		{
+			"title": "Wiktionary: jobb (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/jobb#Swedish"
+		},
+		{
+			"title": "Wiktionary: rast (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/rast#Swedish"
+		},
+		{
+			"title": "Wiktionary: hjälm (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/hjälm#Swedish"
+		},
+		{
+			"title": "Wiktionary: avtal (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/avtal#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:lön",
+			"text": "lön",
+			"ipa": "/løːn/",
+			"concepts": ["employment3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:chef",
+			"text": "chef",
+			"ipa": "/ɧeːf/",
+			"concepts": ["employment3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "word:jobb",
+			"text": "jobb",
+			"ipa": "/jɔbː/",
+			"concepts": ["employment3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:rast",
+			"text": "rast",
+			"ipa": "/rast/",
+			"concepts": ["employment3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:hjälm",
+			"text": "hjälm",
+			"ipa": "/jɛlm/",
+			"concepts": ["employment3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:avtal",
+			"text": "avtal",
+			"ipa": "/ˈɑ̂ːvˌtɑːl/",
+			"concepts": ["employment3-usage"]
+		}
+	]
+}

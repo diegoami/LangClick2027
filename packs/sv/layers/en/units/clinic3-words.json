@@ -1,0 +1,24 @@
+{
+	"title": "At the clinic — words",
+	"summary": "Find or type the Swedish word for each meaning. Practise the language of appointments and symptoms. Också means too; heller is used with negation for not … either. These are language exercises, not medical instructions.",
+	"cells": {
+		"w01": {
+			"clue": "heart; indefinite singular without its article"
+		},
+		"w02": {
+			"clue": "lung; indefinite singular without its article"
+		},
+		"w03": {
+			"clue": "liver; indefinite singular without its article"
+		},
+		"w04": {
+			"clue": "fever"
+		},
+		"w05": {
+			"clue": "cough; noun"
+		},
+		"w06": {
+			"clue": "care; healthcare"
+		}
+	}
+}

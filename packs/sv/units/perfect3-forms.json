@@ -1,0 +1,134 @@
+{
+	"id": "perfect3-forms",
+	"layout": {
+		"type": "table",
+		"rows": ["read", "walk", "eat", "come"],
+		"columns": ["present", "past", "supine"]
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: Swedish entries (CC BY-SA)",
+			"url": "https://en.wiktionary.org/wiki/Category:Swedish_lemmas"
+		},
+		{
+			"title": "Swedish grammar: clause structure and inflection",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"dealAll": true,
+	"cells": [
+		{
+			"id": "read-present",
+			"item": "word:läser",
+			"text": "läser",
+			"ipa": "/ˈlɛ̌ːsɛr/",
+			"row": "read",
+			"col": "present",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "read-past",
+			"item": "word:läste",
+			"text": "läste",
+			"ipa": "/ˈlɛ̂stɛ/",
+			"row": "read",
+			"col": "past",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "read-supine",
+			"item": "word:läst",
+			"text": "läst",
+			"ipa": "/lɛːst/",
+			"row": "read",
+			"col": "supine",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "walk-present",
+			"item": "word:går",
+			"text": "går",
+			"ipa": "/ɡoːr/",
+			"row": "walk",
+			"col": "present",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "walk-past",
+			"item": "word:gick",
+			"text": "gick",
+			"ipa": "/jɪkː/",
+			"row": "walk",
+			"col": "past",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "walk-supine",
+			"item": "word:gått",
+			"text": "gått",
+			"ipa": "/ɡɔtː/",
+			"row": "walk",
+			"col": "supine",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "eat-present",
+			"item": "word:äter",
+			"text": "äter",
+			"ipa": "/ˈɛ̌ːtɛr/",
+			"row": "eat",
+			"col": "present",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "eat-past",
+			"item": "word:åt",
+			"text": "åt",
+			"ipa": "/oːt/",
+			"row": "eat",
+			"col": "past",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "eat-supine",
+			"item": "word:ätit",
+			"text": "ätit",
+			"ipa": "/ˈɛ̂ːtɪt/",
+			"row": "eat",
+			"col": "supine",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "come-present",
+			"item": "word:kommer",
+			"text": "kommer",
+			"ipa": "/ˈkɔ̌mːɛr/",
+			"row": "come",
+			"col": "present",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "come-past",
+			"item": "word:kom",
+			"text": "kom",
+			"ipa": "/kɔmː/",
+			"row": "come",
+			"col": "past",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "come-supine",
+			"item": "word:kommit",
+			"text": "kommit",
+			"ipa": "/ˈkɔ̂mːɪt/",
+			"row": "come",
+			"col": "supine",
+			"concepts": ["perfect3-usage"]
+		}
+	]
+}

@@ -1,0 +1,120 @@
+{
+	"source": {
+		"title": "Hej svenska 3 — study the theme before practising",
+		"url": "https://www.hejsvenska.se/index3.html"
+	},
+	"inspectedOn": "2026-11-04",
+	"status": "Authored; two independent content checks required before merge.",
+	"lessons": [
+		{
+			"lesson": "l25",
+			"theme": 1,
+			"sourceTitle": "Ett land",
+			"units": ["country3-words", "country3-sentences"],
+			"practice": "Countries and directions",
+			"scope": "A country and its surroundings. Vilken goes with en nouns, vilket with ett nouns, and vilka with plurals."
+		},
+		{
+			"lesson": "l26",
+			"theme": 1,
+			"sourceTitle": "Ett land",
+			"units": ["perfect3-forms", "perfect3-sentences"],
+			"practice": "Past, perfect and clause order",
+			"scope": "Use har + supine for the perfect. A finished time such as i går normally takes the preterite. In a subordinate clause, inte comes before the finite verb."
+		},
+		{
+			"lesson": "l27",
+			"theme": 2,
+			"sourceTitle": "Familj och fritid",
+			"units": ["people3-words", "people3-sentences"],
+			"practice": "People and reasons",
+			"scope": "Describe appearance and character. Eftersom introduces a reason. In that subordinate clause, sentence adverbs such as inte precede the finite verb."
+		},
+		{
+			"lesson": "l28",
+			"theme": 2,
+			"sourceTitle": "Familj och fritid",
+			"units": ["modals3-words", "modals3-sentences"],
+			"practice": "Plans, calls and instructions",
+			"scope": "Vill, ska, får, kan, behöver and måste are followed by an infinitive here, without att. Telephone phrases and imperatives practise making arrangements."
+		},
+		{
+			"lesson": "l29",
+			"theme": 3,
+			"sourceTitle": "Bas",
+			"units": ["employment3-words", "employment3-sentences"],
+			"practice": "Work and applications",
+			"scope": "Practise employment words and workplace requests. Som introduces a relative clause; så att can introduce an intended result."
+		},
+		{
+			"lesson": "l30",
+			"theme": 4,
+			"sourceTitle": "Miljö",
+			"units": ["environment3-words", "environment3-sentences"],
+			"practice": "Environment and comparison",
+			"scope": "Compare adjectives with -are/-ast or irregular forms; use än for than. Purpose can be expressed with för att + infinitive."
+		},
+		{
+			"lesson": "l31",
+			"theme": 5,
+			"sourceTitle": "Bostad",
+			"units": ["renting3-words", "renting3-sentences"],
+			"practice": "Renting and housing",
+			"scope": "Ingen, inget and inga agree with en, ett and plural nouns. Om introduces a condition; review definite plurals in housing contexts."
+		},
+		{
+			"lesson": "l32",
+			"theme": 6,
+			"sourceTitle": "Trafik, resor och transport",
+			"units": ["traffic3-words", "traffic3-sentences"],
+			"practice": "Traffic and journeys",
+			"scope": "Use an auxiliary in short answers. Och adds, men contrasts and så can introduce a result. A subordinate clause placed first is followed by the main-clause finite verb."
+		},
+		{
+			"lesson": "l33",
+			"theme": 7,
+			"sourceTitle": "Tid",
+			"units": ["budget3-words", "budget3-sentences"],
+			"practice": "Bills and a budget",
+			"scope": "The source labels this theme Tid, but its listed tasks concern personal finances. Distinguish låna (borrow) from låna ut (lend), and practise everyday money words."
+		},
+		{
+			"lesson": "l34",
+			"theme": 8,
+			"sourceTitle": "Sjukvård",
+			"units": ["clinic3-words", "clinic3-sentences"],
+			"practice": "At the clinic",
+			"scope": "Practise the language of appointments and symptoms. Också means too; heller is used with negation for not … either. These are language exercises, not medical instructions."
+		},
+		{
+			"lesson": "l35",
+			"theme": 9,
+			"sourceTitle": "Kärlek",
+			"units": ["relationships3-words", "relationships3-sentences"],
+			"practice": "Relationships and messages",
+			"scope": "Practise relationships, compliments and replies. Att introduces a statement clause. Swedish adjective endings still agree with gender and number."
+		},
+		{
+			"lesson": "l36",
+			"theme": 10,
+			"sourceTitle": "Politik och samhälle",
+			"units": ["society3-words", "society3-sentences"],
+			"practice": "Politics and public services",
+			"scope": "Practise civic vocabulary without memorising a changing list of parties. Både … och adds two things; varken … eller excludes both. Även om and trots att introduce subordinate clauses."
+		}
+	],
+	"sourceOnly": [
+		"Listening and dictation",
+		"Source readings and dialogues",
+		"Charts, diagrams and source tables",
+		"Free writing, CVs, letters and applications",
+		"Source-specific facts and current party lists"
+	],
+	"notes": [
+		"Source theme 3 is labelled Bas and covers work.",
+		"Source theme 7 is labelled Tid but its listed exercises concern money and personal finances.",
+		"These are original recall and grammar exercises, not a reproduction of the source course."
+	],
+	"section": "level3",
+	"themeCount": 10
+}

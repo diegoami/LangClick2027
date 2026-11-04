@@ -1,0 +1,82 @@
+{
+	"id": "relationships3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: kär (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/kär#Swedish"
+		},
+		{
+			"title": "Wiktionary: kärlek (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/kärlek#Swedish"
+		},
+		{
+			"title": "Wiktionary: vän (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/vän#Swedish"
+		},
+		{
+			"title": "Wiktionary: sambo (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/sambo#Swedish"
+		},
+		{
+			"title": "Wiktionary: skild (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/skild#Swedish"
+		},
+		{
+			"title": "Wiktionary: ensam (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/ensam#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:kär",
+			"text": "kär",
+			"ipa": "/ɕæːr/",
+			"concepts": ["relationships3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:kärlek",
+			"text": "kärlek",
+			"ipa": "/ˈɕæ̂ːˌɭeːk/",
+			"concepts": ["relationships3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "word:vän",
+			"text": "vän",
+			"ipa": "/vɛnː/",
+			"concepts": ["relationships3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:sambo",
+			"text": "sambo",
+			"ipa": "/ˈsâmˌbuː/",
+			"concepts": ["relationships3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:skild",
+			"text": "skild",
+			"ipa": "/ɧɪld/",
+			"concepts": ["relationships3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:ensam",
+			"text": "ensam",
+			"ipa": "/ˈɛ̂nsam/",
+			"concepts": ["relationships3-usage"]
+		}
+	]
+}

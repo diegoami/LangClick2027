@@ -1,0 +1,38 @@
+{
+	"title": "People and reasons — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. Describe appearance and character. Eftersom introduces a reason. In that subordinate clause, sentence adverbs such as inte precede the finite verb.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "She stays at home because she is ill.",
+			"note": "Eftersom gives the reason."
+		},
+		"s02": {
+			"sentenceGloss": "He is tired because he has not slept.",
+			"note": "Subordinate clause: subject + inte + har."
+		},
+		"s03": {
+			"sentenceGloss": "She is 190 centimetres tall and very tall.",
+			"note": "Lång describes height here."
+		},
+		"s04": {
+			"sentenceGloss": "He always helps others and is very kind.",
+			"note": "Snäll describes character."
+		},
+		"s05": {
+			"sentenceGloss": "She has a husband; she is married.",
+			"note": "Gift is an adjective here."
+		},
+		"s06": {
+			"sentenceGloss": "Unfortunately I cannot come to the party.",
+			"note": "Tyvärr is a sentence adverb."
+		},
+		"s07": {
+			"sentenceGloss": "She does not smoke at any time; she never smokes.",
+			"note": "Aldrig means never."
+		},
+		"s08": {
+			"sentenceGloss": "What does your brother look like?",
+			"note": "Ser … ut asks about appearance."
+		}
+	}
+}

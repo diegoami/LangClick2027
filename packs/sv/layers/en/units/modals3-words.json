@@ -1,0 +1,24 @@
+{
+	"title": "Plans, calls and instructions — words",
+	"summary": "Find or type the Swedish word for each meaning. Vill, ska, får, kan, behöver and måste are followed by an infinitive here, without att. Telephone phrases and imperatives practise making arrangements.",
+	"cells": {
+		"w01": {
+			"clue": "want to; present modal"
+		},
+		"w02": {
+			"clue": "am/is/are going to; planned future"
+		},
+		"w03": {
+			"clue": "may; have permission to"
+		},
+		"w04": {
+			"clue": "can; am/is/are able to"
+		},
+		"w05": {
+			"clue": "must; have to"
+		},
+		"w06": {
+			"clue": "need to; present"
+		}
+	}
+}

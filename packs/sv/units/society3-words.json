@@ -1,0 +1,82 @@
+{
+	"id": "society3-words",
+	"layout": {
+		"type": "grid",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: val (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/val#Swedish"
+		},
+		{
+			"title": "Wiktionary: röst (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/röst#Swedish"
+		},
+		{
+			"title": "Wiktionary: parti (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/parti#Swedish"
+		},
+		{
+			"title": "Wiktionary: lag (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/lag#Swedish"
+		},
+		{
+			"title": "Wiktionary: polis (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/polis#Swedish"
+		},
+		{
+			"title": "Wiktionary: skola (Swedish)",
+			"url": "https://en.wiktionary.org/wiki/skola#Swedish"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "w01",
+			"item": "word:val",
+			"text": "val",
+			"ipa": "/vɑːl/",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "w02",
+			"item": "word:röst",
+			"text": "röst",
+			"ipa": "/rœst/",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "w03",
+			"item": "word:parti",
+			"text": "parti",
+			"ipa": "/paˈʈiː/",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "w04",
+			"item": "word:lag",
+			"text": "lag",
+			"ipa": "/lɑːɡ/",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "w05",
+			"item": "word:polis",
+			"text": "polis",
+			"ipa": "/pʊˈliːs/",
+			"concepts": ["society3-usage"]
+		},
+		{
+			"id": "w06",
+			"item": "word:skola",
+			"text": "skola",
+			"ipa": "/ˈskûːla/",
+			"concepts": ["society3-usage"]
+		}
+	]
+}

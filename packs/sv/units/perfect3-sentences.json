@@ -1,0 +1,80 @@
+{
+	"id": "perfect3-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3 — study the theme before practising",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Wiktionary: Swedish entries (CC BY-SA)",
+			"url": "https://en.wiktionary.org/wiki/Category:Swedish_lemmas"
+		},
+		{
+			"title": "Swedish grammar: clause structure and inflection",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:perfect3-sentences:s01",
+			"text": "har",
+			"sentence": "Hon ___ redan läst boken.",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:perfect3-sentences:s02",
+			"text": "läst",
+			"sentence": "Jag har ___ boken två gånger.",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:perfect3-sentences:s03",
+			"text": "läste",
+			"sentence": "I går ___ jag hela boken.",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:perfect3-sentences:s04",
+			"text": "gått",
+			"sentence": "Vi har ___ hem från stationen.",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:perfect3-sentences:s05",
+			"text": "ätit",
+			"sentence": "De har redan ___ lunch.",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:perfect3-sentences:s06",
+			"text": "kommit",
+			"sentence": "Bussen har precis ___.",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:perfect3-sentences:s07",
+			"text": "när",
+			"sentence": "Jag läser en bok ___ jag inte arbetar.",
+			"concepts": ["perfect3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:perfect3-sentences:s08",
+			"text": "har",
+			"sentence": "I dag ___ hon inte läst tidningen.",
+			"concepts": ["perfect3-usage"]
+		}
+	]
+}

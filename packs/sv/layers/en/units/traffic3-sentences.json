@@ -1,0 +1,38 @@
+{
+	"title": "Traffic and journeys — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. Use an auxiliary in short answers. Och adds, men contrasts and så can introduce a result. A subordinate clause placed first is followed by the main-clause finite verb. For short answers, the English question supplies the context.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "Have you bought a ticket? – Yes, I have.",
+			"note": "Repeat har in the short answer."
+		},
+		"s02": {
+			"sentenceGloss": "Can you drive? – No, I cannot.",
+			"note": "Repeat kan, followed by subject and inte."
+		},
+		"s03": {
+			"sentenceGloss": "Do you cycle to work? – Yes, I do, every day.",
+			"note": "Use gör when the question has no auxiliary."
+		},
+		"s04": {
+			"sentenceGloss": "I want to cycle, but the bicycle is broken.",
+			"note": "Men introduces a contrast."
+		},
+		"s05": {
+			"sentenceGloss": "The bus was late, so I took the train.",
+			"note": "Så introduces the result here."
+		},
+		"s06": {
+			"sentenceGloss": "When it rains, I take the bus.",
+			"note": "After the initial subordinate clause, tar comes before jag."
+		},
+		"s07": {
+			"sentenceGloss": "I am walking because the bus is not coming.",
+			"note": "Subordinate clause: bussen + inte + kommer."
+		},
+		"s08": {
+			"sentenceGloss": "In the car she uses a seat belt to sit safely.",
+			"note": "Bälte is a safety belt here."
+		}
+	}
+}

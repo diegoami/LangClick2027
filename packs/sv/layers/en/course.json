@@ -11,6 +11,9 @@
 		},
 		"level2": {
 			"title": "Level 2"
+		},
+		"level3": {
+			"title": "Level 3"
 		}
 	},
 	"lessons": {
@@ -85,6 +88,42 @@
 		},
 		"l24": {
 			"title": "Lesson 24: Time and dates"
+		},
+		"l25": {
+			"title": "Lesson 25: Countries and directions"
+		},
+		"l26": {
+			"title": "Lesson 26: Past, perfect and clause order"
+		},
+		"l27": {
+			"title": "Lesson 27: People and reasons"
+		},
+		"l28": {
+			"title": "Lesson 28: Plans, calls and instructions"
+		},
+		"l29": {
+			"title": "Lesson 29: Work and applications"
+		},
+		"l30": {
+			"title": "Lesson 30: Environment and comparison"
+		},
+		"l31": {
+			"title": "Lesson 31: Renting and housing"
+		},
+		"l32": {
+			"title": "Lesson 32: Traffic and journeys"
+		},
+		"l33": {
+			"title": "Lesson 33: Bills and a budget"
+		},
+		"l34": {
+			"title": "Lesson 34: At the clinic"
+		},
+		"l35": {
+			"title": "Lesson 35: Relationships and messages"
+		},
+		"l36": {
+			"title": "Lesson 36: Politics and public services"
 		}
 	},
 	"concepts": {
@@ -503,6 +542,174 @@
 				{
 					"title": "Wiktionary (Swedish entries)",
 					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"country3-usage": {
+			"title": "Countries and directions",
+			"body": "A country and its surroundings. Vilken goes with en nouns, vilket with ett nouns, and vilka with plurals.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"perfect3-usage": {
+			"title": "Past, perfect and clause order",
+			"body": "Use har + supine for the perfect. A finished time such as i går normally takes the preterite. In a subordinate clause, inte comes before the finite verb.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"people3-usage": {
+			"title": "People and reasons",
+			"body": "Describe appearance and character. Eftersom introduces a reason. In that subordinate clause, sentence adverbs such as inte precede the finite verb.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"modals3-usage": {
+			"title": "Plans, calls and instructions",
+			"body": "Vill, ska, får, kan, behöver and måste are followed by an infinitive here, without att. Telephone phrases and imperatives practise making arrangements.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"employment3-usage": {
+			"title": "Work and applications",
+			"body": "Practise employment words and workplace requests. Som introduces a relative clause; så att can introduce an intended result.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"environment3-usage": {
+			"title": "Environment and comparison",
+			"body": "Compare adjectives with -are/-ast or irregular forms; use än for than. Purpose can be expressed with för att + infinitive.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"renting3-usage": {
+			"title": "Renting and housing",
+			"body": "Ingen, inget and inga agree with en, ett and plural nouns. Om introduces a condition; review definite plurals in housing contexts.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"traffic3-usage": {
+			"title": "Traffic and journeys",
+			"body": "Use an auxiliary in short answers. Och adds, men contrasts and så can introduce a result. A subordinate clause placed first is followed by the main-clause finite verb.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"budget3-usage": {
+			"title": "Bills and a budget",
+			"body": "The source labels this theme Tid, but its listed tasks concern personal finances. Distinguish låna (borrow) from låna ut (lend), and practise everyday money words.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"clinic3-usage": {
+			"title": "At the clinic",
+			"body": "Practise the language of appointments and symptoms. Också means too; heller is used with negation for not … either. These are language exercises, not medical instructions.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"relationships3-usage": {
+			"title": "Relationships and messages",
+			"body": "Practise relationships, compliments and replies. Att introduces a statement clause. Swedish adjective endings still agree with gender and number.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
+				}
+			]
+		},
+		"society3-usage": {
+			"title": "Politics and public services",
+			"body": "Practise civic vocabulary without memorising a changing list of parties. Både … och adds two things; varken … eller excludes both. Även om and trots att introduce subordinate clauses.",
+			"sources": [
+				{
+					"title": "Swedish grammar: clause structure and inflection",
+					"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+				},
+				{
+					"title": "Hej svenska 3 — study the theme before practising",
+					"url": "https://www.hejsvenska.se/index3.html"
 				}
 			]
 		}

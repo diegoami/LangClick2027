@@ -1,0 +1,24 @@
+{
+	"title": "Countries and directions — words",
+	"summary": "Find or type the Swedish word for each meaning. A country and its surroundings. Vilken goes with en nouns, vilket with ett nouns, and vilka with plurals.",
+	"cells": {
+		"w01": {
+			"clue": "north"
+		},
+		"w02": {
+			"clue": "south"
+		},
+		"w03": {
+			"clue": "east"
+		},
+		"w04": {
+			"clue": "west"
+		},
+		"w05": {
+			"clue": "country; indefinite singular without its article"
+		},
+		"w06": {
+			"clue": "island; indefinite singular without its article"
+		}
+	}
+}

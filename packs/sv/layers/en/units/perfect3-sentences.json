@@ -1,0 +1,38 @@
+{
+	"title": "Past, perfect and clause order — in sentences",
+	"summary": "Use the English meaning as well as the Swedish context to choose or type the missing word or phrase. Use har + supine for the perfect. A finished time such as i går normally takes the preterite. In a subordinate clause, inte comes before the finite verb.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "She has already read the book.",
+			"note": "Har + läst forms the perfect."
+		},
+		"s02": {
+			"sentenceGloss": "I have read the book twice.",
+			"note": "The supine läst follows har."
+		},
+		"s03": {
+			"sentenceGloss": "Yesterday I read the whole book.",
+			"note": "The finished time i går takes the preterite läste."
+		},
+		"s04": {
+			"sentenceGloss": "We have walked home from the station.",
+			"note": "Har gått: perfect of gå."
+		},
+		"s05": {
+			"sentenceGloss": "They have already eaten lunch.",
+			"note": "The supine of äta is ätit."
+		},
+		"s06": {
+			"sentenceGloss": "The bus has just arrived.",
+			"note": "The supine of komma is kommit."
+		},
+		"s07": {
+			"sentenceGloss": "I read a book when I am not working.",
+			"note": "När introduces a time clause; inte comes before arbetar."
+		},
+		"s08": {
+			"sentenceGloss": "Today she has not read the newspaper.",
+			"note": "Main clause: I dag + har + subject + inte."
+		}
+	}
+}
