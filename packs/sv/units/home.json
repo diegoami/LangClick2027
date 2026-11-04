@@ -1,0 +1,102 @@
+{
+	"id": "home",
+	"layout": {
+		"type": "grid",
+		"size": 12
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "villa",
+			"item": "word:villa",
+			"text": "villa",
+			"ipa": "/ˈvɪ̂lːa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "radhus",
+			"item": "word:radhus",
+			"text": "radhus",
+			"ipa": "/ˈrɑ̂ːdˌhʉːs/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "lagenhet",
+			"item": "word:lägenhet",
+			"text": "lägenhet",
+			"ipa": "/ˈlɛ̂ːɡɛnˌheːt/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "hiss",
+			"item": "word:hiss",
+			"text": "hiss",
+			"ipa": "/hɪsː/"
+		},
+		{
+			"id": "balkong",
+			"item": "word:balkong",
+			"text": "balkong",
+			"ipa": "/balˈkɔŋː/"
+		},
+		{
+			"id": "tvattstuga",
+			"item": "word:tvättstuga",
+			"text": "tvättstuga",
+			"ipa": "/ˈtvɛ̂tˌstʉːɡa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "vaning",
+			"item": "word:våning",
+			"text": "våning",
+			"ipa": "/ˈvôːnɪŋ/"
+		},
+		{
+			"id": "kok",
+			"item": "word:kök",
+			"text": "kök",
+			"ipa": "/ɕøːk/"
+		},
+		{
+			"id": "vardagsrum",
+			"item": "word:vardagsrum",
+			"text": "vardagsrum",
+			"ipa": "/ˈvɑ̂ːɖaɡsˌrɵmː/",
+			"concepts": ["word-accent", "retroflex"]
+		},
+		{
+			"id": "sovrum",
+			"item": "word:sovrum",
+			"text": "sovrum",
+			"ipa": "/ˈsôːvˌrɵmː/"
+		},
+		{
+			"id": "badrum",
+			"item": "word:badrum",
+			"text": "badrum",
+			"ipa": "/ˈbɑ̂ːdˌrɵmː/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "hall",
+			"item": "word:hall",
+			"text": "hall",
+			"ipa": "/halː/"
+		}
+	]
+}

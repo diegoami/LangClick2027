@@ -1,0 +1,42 @@
+{
+	"title": "Homes and rooms",
+	"summary": "Kinds of home, parts of the building, and the rooms. Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"villa": {
+			"clue": "detached house"
+		},
+		"radhus": {
+			"clue": "terraced house"
+		},
+		"lagenhet": {
+			"clue": "flat, apartment"
+		},
+		"hiss": {
+			"clue": "lift"
+		},
+		"balkong": {
+			"clue": "balcony"
+		},
+		"tvattstuga": {
+			"clue": "shared laundry room"
+		},
+		"vaning": {
+			"clue": "floor, storey"
+		},
+		"kok": {
+			"clue": "kitchen"
+		},
+		"vardagsrum": {
+			"clue": "living room"
+		},
+		"sovrum": {
+			"clue": "bedroom"
+		},
+		"badrum": {
+			"clue": "bathroom"
+		},
+		"hall": {
+			"clue": "hall"
+		}
+	}
+}

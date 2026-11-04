@@ -1,0 +1,34 @@
+{
+	"title": "At home",
+	"summary": "Where things happen at home. Choose or type the definite form that fits the gap.",
+	"cells": {
+		"koket": {
+			"sentenceGloss": "We cook in the kitchen.",
+			"note": "ett kök, köket."
+		},
+		"sovrummet": {
+			"sentenceGloss": "The children sleep in the bedroom.",
+			"note": "ett sovrum, sovrummet: m doubles after the short vowel."
+		},
+		"badrummet": {
+			"sentenceGloss": "I shower in the bathroom.",
+			"note": "ett badrum, badrummet."
+		},
+		"vardagsrummet": {
+			"sentenceGloss": "We watch TV in the living room.",
+			"note": "ett vardagsrum, vardagsrummet."
+		},
+		"tvattstugan": {
+			"sentenceGloss": "We wash clothes in the laundry room in the basement.",
+			"note": "en tvättstuga, tvättstugan: -n after a vowel."
+		},
+		"trappan": {
+			"sentenceGloss": "The lift is broken, so we take the stairs.",
+			"note": "en trappa, trappan."
+		},
+		"vaningen": {
+			"sentenceGloss": "I live on the fourth floor.",
+			"note": "en våning, våningen; på for the floor you live on."
+		}
+	}
+}

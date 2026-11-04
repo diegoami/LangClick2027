@@ -1,0 +1,134 @@
+{
+	"id": "en-ett",
+	"layout": {
+		"type": "table",
+		"rows": ["lagenhet", "kok", "balkong", "rum", "hiss", "hus"],
+		"columns": ["indef", "def"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "lagenhet.indef",
+			"item": "form:en lägenhet",
+			"text": "en lägenhet",
+			"ipa": "/ɛn ˈlɛ̂ːɡɛnˌheːt/",
+			"row": "lagenhet",
+			"col": "indef",
+			"concepts": ["en-ett", "word-accent"]
+		},
+		{
+			"id": "lagenhet.def",
+			"item": "form:lägenheten",
+			"text": "lägenheten",
+			"ipa": "/ˈlɛ̂ːɡɛnˌheːtɛn/",
+			"row": "lagenhet",
+			"col": "def",
+			"concepts": ["definite", "word-accent"]
+		},
+		{
+			"id": "kok.indef",
+			"item": "form:ett kök",
+			"text": "ett kök",
+			"ipa": "/ɛt ɕøːk/",
+			"row": "kok",
+			"col": "indef",
+			"concepts": ["en-ett"]
+		},
+		{
+			"id": "kok.def",
+			"item": "form:köket",
+			"text": "köket",
+			"ipa": "/ˈɕø̌ːkɛt/",
+			"row": "kok",
+			"col": "def",
+			"concepts": ["definite", "word-accent"]
+		},
+		{
+			"id": "balkong.indef",
+			"item": "form:en balkong",
+			"text": "en balkong",
+			"ipa": "/ɛn balˈkɔŋː/",
+			"row": "balkong",
+			"col": "indef",
+			"concepts": ["en-ett"]
+		},
+		{
+			"id": "balkong.def",
+			"item": "form:balkongen",
+			"text": "balkongen",
+			"ipa": "/balˈkɔ̌ŋːɛn/",
+			"row": "balkong",
+			"col": "def",
+			"concepts": ["definite", "word-accent"]
+		},
+		{
+			"id": "rum.indef",
+			"item": "form:ett rum",
+			"text": "ett rum",
+			"ipa": "/ɛt rɵmː/",
+			"row": "rum",
+			"col": "indef",
+			"concepts": ["en-ett"]
+		},
+		{
+			"id": "rum.def",
+			"item": "form:rummet",
+			"text": "rummet",
+			"ipa": "/ˈrɵ̌mːɛt/",
+			"row": "rum",
+			"col": "def",
+			"concepts": ["definite", "word-accent"]
+		},
+		{
+			"id": "hiss.indef",
+			"item": "form:en hiss",
+			"text": "en hiss",
+			"ipa": "/ɛn hɪsː/",
+			"row": "hiss",
+			"col": "indef",
+			"concepts": ["en-ett"]
+		},
+		{
+			"id": "hiss.def",
+			"item": "form:hissen",
+			"text": "hissen",
+			"ipa": "/ˈhɪ̌sːɛn/",
+			"row": "hiss",
+			"col": "def",
+			"concepts": ["definite", "word-accent"]
+		},
+		{
+			"id": "hus.indef",
+			"item": "form:ett hus",
+			"text": "ett hus",
+			"ipa": "/ɛt hʉːs/",
+			"row": "hus",
+			"col": "indef",
+			"concepts": ["en-ett"]
+		},
+		{
+			"id": "hus.def",
+			"item": "form:huset",
+			"text": "huset",
+			"ipa": "/ˈhʉ̌ːsɛt/",
+			"row": "hus",
+			"col": "def",
+			"concepts": ["definite", "word-accent"]
+		}
+	]
+}

@@ -8,7 +8,7 @@
 	"comparisons": ["de", "en"],
 	"explanations": ["en"],
 	"overlays": ["de-en", "en-en"],
-	"sections": ["sounds", "basics"],
+	"sections": ["sounds", "basics", "themes"],
 	"keyboard": ["qwertyuiopå", "asdfghjklöä", "zxcvbnm"],
 	"lessons": [
 		{
@@ -43,6 +43,18 @@
 				{
 					"kind": "tasks",
 					"title": "Hej svenska 1, tema 3: Bas (presentationsfraser, vardagsfraser, väder)",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l04",
+			"section": "themes",
+			"units": ["home", "en-ett", "furniture", "home-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 1: Bostad",
 					"url": "https://www.hejsvenska.se/index1.html"
 				}
 			]
