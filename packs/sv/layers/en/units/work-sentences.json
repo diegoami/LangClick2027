@@ -3,8 +3,8 @@
 	"summary": "Talking about your job. Choose or type the word that fits the gap.",
 	"cells": {
 		"med": {
-			"sentenceGloss": "What do you do for work?",
-			"note": "jobba med, to work with: what your job is."
+			"sentenceGloss": "I work with children.",
+			"note": "jobba med, to work with."
 		},
 		"som": {
 			"sentenceGloss": "I work as a nurse.",

@@ -24,47 +24,47 @@
 			"id": "mandag",
 			"item": "word:måndag",
 			"text": "måndag",
-			"ipa": "/ˈmɔ̂nˌdɑːɡ/",
+			"ipa": "/ˈmɔ̌ndɑːɡ/",
 			"concepts": ["word-accent"]
 		},
 		{
 			"id": "tisdag",
 			"item": "word:tisdag",
 			"text": "tisdag",
-			"ipa": "/ˈtîːsˌdɑːɡ/"
+			"ipa": "/ˈtǐːsdɑːɡ/"
 		},
 		{
 			"id": "onsdag",
 			"item": "word:onsdag",
 			"text": "onsdag",
-			"ipa": "/ˈʊ̂nsˌdɑːɡ/",
+			"ipa": "/ˈʊ̌nsdɑːɡ/",
 			"concepts": ["word-accent"]
 		},
 		{
 			"id": "torsdag",
 			"item": "word:torsdag",
 			"text": "torsdag",
-			"ipa": "/ˈtûːʂˌdɑːɡ/",
+			"ipa": "/ˈtǔːʂdɑːɡ/",
 			"concepts": ["retroflex"]
 		},
 		{
 			"id": "fredag",
 			"item": "word:fredag",
 			"text": "fredag",
-			"ipa": "/ˈfrêːˌdɑːɡ/"
+			"ipa": "/ˈfrěːdɑːɡ/"
 		},
 		{
 			"id": "lordag",
 			"item": "word:lördag",
 			"text": "lördag",
-			"ipa": "/ˈlœ̂ːɖɑːɡ/",
+			"ipa": "/ˈlœ̌ːɖɑːɡ/",
 			"concepts": ["word-accent", "retroflex"]
 		},
 		{
 			"id": "sondag",
 			"item": "word:söndag",
 			"text": "söndag",
-			"ipa": "/ˈsœ̂nˌdɑːɡ/",
+			"ipa": "/ˈsœ̌ndɑːɡ/",
 			"concepts": ["word-accent"]
 		}
 	],

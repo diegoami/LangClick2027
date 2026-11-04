@@ -1,0 +1,35 @@
+{
+	"title": "Finding the way",
+	"summary": "Directions and buses. Choose or type the word that fits the gap.",
+	"cells": {
+		"fram": {
+			"sentenceGloss": "Go straight ahead.",
+			"note": "rakt fram, straight on."
+		},
+		"vanster": {
+			"sentenceGloss": "Turn left at the bank.",
+			"note": "till vänster, to the left."
+		},
+		"hoger": {
+			"sentenceGloss": "Turn right at the church.",
+			"note": "till höger, to the right."
+		},
+		"ligger": {
+			"sentenceGloss": "Where is the library?",
+			"note": "A building ligger, lies, where it is."
+		},
+		"buss": {
+			"sentenceGloss": "Which bus goes to the centre?"
+		},
+		"nasta": {
+			"sentenceGloss": "When does the next bus leave?",
+			"note": "nästa takes no definite ending: nästa buss."
+		},
+		"bredvid": {
+			"sentenceGloss": "The bank is next to the pharmacy."
+		},
+		"mellan": {
+			"sentenceGloss": "The square is between the church and the school."
+		}
+	}
+}

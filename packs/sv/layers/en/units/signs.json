@@ -1,0 +1,30 @@
+{
+	"title": "Signs",
+	"summary": "What the sign says. Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"ingang": {
+			"clue": "way in"
+		},
+		"utgang": {
+			"clue": "way out"
+		},
+		"oppet": {
+			"clue": "open"
+		},
+		"stangt": {
+			"clue": "closed"
+		},
+		"toalett": {
+			"clue": "toilet"
+		},
+		"dra": {
+			"clue": "pull"
+		},
+		"tryck": {
+			"clue": "push"
+		},
+		"kassa": {
+			"clue": "till, checkout"
+		}
+	}
+}

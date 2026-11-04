@@ -38,7 +38,7 @@
 			"id": "mar",
 			"item": "word:mars",
 			"text": "mars",
-			"ipa": "/maʂ/",
+			"ipa": "/maʂː/",
 			"concepts": ["retroflex"]
 		},
 		{
@@ -51,20 +51,20 @@
 			"id": "maj",
 			"item": "word:maj",
 			"text": "maj",
-			"ipa": "/maj/"
+			"ipa": "/majː/"
 		},
 		{
 			"id": "jun",
 			"item": "word:juni",
 			"text": "juni",
-			"ipa": "/ˈjʉ̂ːnɪ/",
+			"ipa": "/ˈjʉ̌ːnɪ/",
 			"concepts": ["word-accent"]
 		},
 		{
 			"id": "jul",
 			"item": "word:juli",
 			"text": "juli",
-			"ipa": "/ˈjʉ̂ːlɪ/",
+			"ipa": "/ˈjʉ̌ːlɪ/",
 			"concepts": ["word-accent"]
 		},
 		{
@@ -85,7 +85,7 @@
 			"id": "okt",
 			"item": "word:oktober",
 			"text": "oktober",
-			"ipa": "/ɔkˈtuːbɛr/"
+			"ipa": "/ɔkˈtǔːbɛr/"
 		},
 		{
 			"id": "nov",

@@ -1,0 +1,80 @@
+{
+	"id": "directions",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "fram",
+			"item": "sentence:directions:fram",
+			"text": "fram",
+			"sentence": "Gå rakt ___.",
+			"concepts": ["directions"]
+		},
+		{
+			"id": "vanster",
+			"item": "sentence:directions:vanster",
+			"text": "vänster",
+			"sentence": "Sväng till ___ vid banken.",
+			"concepts": ["directions"]
+		},
+		{
+			"id": "hoger",
+			"item": "sentence:directions:hoger",
+			"text": "höger",
+			"sentence": "Sväng till ___ vid kyrkan.",
+			"concepts": ["directions"]
+		},
+		{
+			"id": "ligger",
+			"item": "sentence:directions:ligger",
+			"text": "ligger",
+			"sentence": "Var ___ biblioteket?",
+			"concepts": ["directions"]
+		},
+		{
+			"id": "buss",
+			"item": "sentence:directions:buss",
+			"text": "buss",
+			"sentence": "Vilken ___ går till centrum?",
+			"concepts": ["directions"]
+		},
+		{
+			"id": "nasta",
+			"item": "sentence:directions:nasta",
+			"text": "nästa",
+			"sentence": "När går ___ buss?",
+			"concepts": ["directions"]
+		},
+		{
+			"id": "bredvid",
+			"item": "sentence:directions:bredvid",
+			"text": "bredvid",
+			"sentence": "Banken ligger ___ apoteket.",
+			"concepts": ["directions"]
+		},
+		{
+			"id": "mellan",
+			"item": "sentence:directions:mellan",
+			"text": "mellan",
+			"sentence": "Torget ligger ___ kyrkan och skolan.",
+			"concepts": ["directions"]
+		}
+	]
+}

@@ -130,6 +130,30 @@
 					"url": "https://www.hejsvenska.se/index1.html"
 				}
 			]
+		},
+		{
+			"id": "l11",
+			"section": "themes",
+			"units": ["emergency", "imperative", "sos-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 9: SOS",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l12",
+			"section": "themes",
+			"units": ["town", "directions", "signs"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 10: Min stad",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
 		}
 	]
 }

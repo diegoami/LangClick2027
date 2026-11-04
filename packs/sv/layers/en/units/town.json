@@ -1,0 +1,36 @@
+{
+	"title": "Places in town",
+	"summary": "Each tile gives the place; find the Swedish.",
+	"cells": {
+		"bibliotek": {
+			"clue": "library"
+		},
+		"affar": {
+			"clue": "shop"
+		},
+		"bank": {
+			"clue": "bank"
+		},
+		"skola": {
+			"clue": "school"
+		},
+		"kyrka": {
+			"clue": "church"
+		},
+		"torg": {
+			"clue": "square, market place"
+		},
+		"restaurang": {
+			"clue": "restaurant"
+		},
+		"park": {
+			"clue": "park"
+		},
+		"apotek": {
+			"clue": "pharmacy"
+		},
+		"gata": {
+			"clue": "street"
+		}
+	}
+}

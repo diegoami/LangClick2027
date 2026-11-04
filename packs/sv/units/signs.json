@@ -1,0 +1,75 @@
+{
+	"id": "signs",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "ingang",
+			"item": "word:ingång",
+			"text": "ingång",
+			"ipa": "/ˈɪ̂nˌɡɔŋ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "utgang",
+			"item": "word:utgång",
+			"text": "utgång",
+			"ipa": "/ˈʉ̂ːtˌɡɔŋ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "oppet",
+			"item": "word:öppet",
+			"text": "öppet",
+			"ipa": "/ˈœ̂pːɛt/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "stangt",
+			"item": "word:stängt",
+			"text": "stängt",
+			"ipa": "/stɛŋt/"
+		},
+		{
+			"id": "toalett",
+			"item": "word:toalett",
+			"text": "toalett",
+			"ipa": "/tʊaˈlɛtː/"
+		},
+		{
+			"id": "dra",
+			"item": "word:dra",
+			"text": "dra",
+			"ipa": "/drɑː/"
+		},
+		{
+			"id": "tryck",
+			"item": "word:tryck",
+			"text": "tryck",
+			"ipa": "/trʏkː/"
+		},
+		{
+			"id": "kassa",
+			"item": "word:kassa",
+			"text": "kassa",
+			"ipa": "/ˈkâsːa/"
+		}
+	]
+}

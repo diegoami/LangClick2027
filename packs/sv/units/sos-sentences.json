@@ -1,0 +1,66 @@
+{
+	"id": "sos-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "ambulans",
+			"item": "sentence:sos-sentences:ambulans",
+			"text": "ambulans",
+			"sentence": "Ring efter en ___!"
+		},
+		{
+			"id": "brinner",
+			"item": "sentence:sos-sentences:brinner",
+			"text": "brinner",
+			"sentence": "Det ___ i köket!"
+		},
+		{
+			"id": "stulen",
+			"item": "sentence:sos-sentences:stulen",
+			"text": "stulen",
+			"sentence": "Min plånbok är ___."
+		},
+		{
+			"id": "olycka",
+			"item": "sentence:sos-sentences:olycka",
+			"text": "olycka",
+			"sentence": "Det har hänt en ___ på vägen."
+		},
+		{
+			"id": "skadad",
+			"item": "sentence:sos-sentences:skadad",
+			"text": "skadad",
+			"sentence": "Är någon ___?"
+		},
+		{
+			"id": "hjalp",
+			"item": "sentence:sos-sentences:hjalp",
+			"text": "hjälp",
+			"sentence": "Jag behöver ___!"
+		},
+		{
+			"id": "adress",
+			"item": "sentence:sos-sentences:adress",
+			"text": "adress",
+			"sentence": "Vad är din ___?"
+		}
+	]
+}

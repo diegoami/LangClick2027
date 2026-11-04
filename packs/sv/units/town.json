@@ -1,0 +1,86 @@
+{
+	"id": "town",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "bibliotek",
+			"item": "word:bibliotek",
+			"text": "bibliotek",
+			"ipa": "/bɪblɪʊˈteːk/"
+		},
+		{
+			"id": "affar",
+			"item": "word:affär",
+			"text": "affär",
+			"ipa": "/aˈfæːr/"
+		},
+		{
+			"id": "bank",
+			"item": "word:bank",
+			"text": "bank",
+			"ipa": "/baŋk/"
+		},
+		{
+			"id": "skola",
+			"item": "word:skola",
+			"text": "skola",
+			"ipa": "/ˈskûːla/"
+		},
+		{
+			"id": "kyrka",
+			"item": "word:kyrka",
+			"text": "kyrka",
+			"ipa": "/ˈɕʏ̂rka/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "torg",
+			"item": "word:torg",
+			"text": "torg",
+			"ipa": "/tɔrj/"
+		},
+		{
+			"id": "restaurang",
+			"item": "word:restaurang",
+			"text": "restaurang",
+			"ipa": "/rɛstɵˈraŋː/"
+		},
+		{
+			"id": "park",
+			"item": "word:park",
+			"text": "park",
+			"ipa": "/park/"
+		},
+		{
+			"id": "apotek",
+			"item": "word:apotek",
+			"text": "apotek",
+			"ipa": "/apʊˈteːk/"
+		},
+		{
+			"id": "gata",
+			"item": "word:gata",
+			"text": "gata",
+			"ipa": "/ˈɡɑ̂ːta/",
+			"concepts": ["word-accent"]
+		}
+	]
+}
