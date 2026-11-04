@@ -1,0 +1,18 @@
+{
+	"title": "Nought to twenty",
+	"summary": "Each tile gives a number; find the word.",
+	"cells": {
+		"n1": {
+			"note": "ett when counting; en before an en-word: en bok, ett hus."
+		},
+		"n9": {
+			"note": "Usually said /ˈnîːɛ/."
+		},
+		"n10": {
+			"note": "Usually said /ˈtîːɛ/."
+		},
+		"n7": {
+			"note": "The sj-sound, as in lesson 1."
+		}
+	}
+}

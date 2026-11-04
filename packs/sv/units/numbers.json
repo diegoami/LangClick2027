@@ -1,0 +1,182 @@
+{
+	"id": "numbers",
+	"layout": {
+		"type": "grid",
+		"size": 21
+	},
+	"sources": [
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Wiktionary på svenska",
+			"url": "https://sv.wiktionary.org/"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "n0",
+			"item": "word:noll",
+			"text": "noll",
+			"ipa": "/nɔlː/",
+			"clue": "0"
+		},
+		{
+			"id": "n1",
+			"item": "word:ett",
+			"text": "ett",
+			"ipa": "/ɛtː/",
+			"clue": "1",
+			"alsoAccepted": ["en"]
+		},
+		{
+			"id": "n2",
+			"item": "word:två",
+			"text": "två",
+			"ipa": "/tvoː/",
+			"clue": "2"
+		},
+		{
+			"id": "n3",
+			"item": "word:tre",
+			"text": "tre",
+			"ipa": "/treː/",
+			"clue": "3"
+		},
+		{
+			"id": "n4",
+			"item": "word:fyra",
+			"text": "fyra",
+			"ipa": "/ˈfŷːra/",
+			"clue": "4"
+		},
+		{
+			"id": "n5",
+			"item": "word:fem",
+			"text": "fem",
+			"ipa": "/fɛmː/",
+			"clue": "5"
+		},
+		{
+			"id": "n6",
+			"item": "word:sex",
+			"text": "sex",
+			"ipa": "/sɛks/",
+			"clue": "6"
+		},
+		{
+			"id": "n7",
+			"item": "word:sju",
+			"text": "sju",
+			"ipa": "/ɧʉː/",
+			"clue": "7"
+		},
+		{
+			"id": "n8",
+			"item": "word:åtta",
+			"text": "åtta",
+			"ipa": "/ˈɔ̂tːa/",
+			"clue": "8",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "n9",
+			"item": "word:nio",
+			"text": "nio",
+			"ipa": "/ˈnîːʊ/",
+			"clue": "9"
+		},
+		{
+			"id": "n10",
+			"item": "word:tio",
+			"text": "tio",
+			"ipa": "/ˈtîːʊ/",
+			"clue": "10"
+		},
+		{
+			"id": "n11",
+			"item": "word:elva",
+			"text": "elva",
+			"ipa": "/ˈɛ̂lva/",
+			"clue": "11",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "n12",
+			"item": "word:tolv",
+			"text": "tolv",
+			"ipa": "/tɔlv/",
+			"clue": "12"
+		},
+		{
+			"id": "n13",
+			"item": "word:tretton",
+			"text": "tretton",
+			"ipa": "/ˈtrɛ̂tːɔn/",
+			"clue": "13",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "n14",
+			"item": "word:fjorton",
+			"text": "fjorton",
+			"ipa": "/ˈfjûːʈɔn/",
+			"clue": "14",
+			"concepts": ["retroflex"]
+		},
+		{
+			"id": "n15",
+			"item": "word:femton",
+			"text": "femton",
+			"ipa": "/ˈfɛ̂mtɔn/",
+			"clue": "15",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "n16",
+			"item": "word:sexton",
+			"text": "sexton",
+			"ipa": "/ˈsɛ̂kstɔn/",
+			"clue": "16",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "n17",
+			"item": "word:sjutton",
+			"text": "sjutton",
+			"ipa": "/ˈɧɵ̂tːɔn/",
+			"clue": "17",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "n18",
+			"item": "word:arton",
+			"text": "arton",
+			"ipa": "/ˈɑ̂ːʈɔn/",
+			"clue": "18",
+			"concepts": ["word-accent", "retroflex"]
+		},
+		{
+			"id": "n19",
+			"item": "word:nitton",
+			"text": "nitton",
+			"ipa": "/ˈnɪ̂tːɔn/",
+			"clue": "19",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "n20",
+			"item": "word:tjugo",
+			"text": "tjugo",
+			"ipa": "/ˈɕʉ̂ːɡʊ/",
+			"clue": "20",
+			"concepts": ["word-accent"]
+		}
+	]
+}

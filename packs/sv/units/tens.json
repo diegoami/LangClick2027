@@ -1,0 +1,98 @@
+{
+	"id": "tens",
+	"layout": {
+		"type": "grid",
+		"size": 9
+	},
+	"sources": [
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Wiktionary på svenska",
+			"url": "https://sv.wiktionary.org/"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "n30",
+			"item": "word:trettio",
+			"text": "trettio",
+			"ipa": "/ˈtrɛ̂tːɪʊ/",
+			"clue": "30",
+			"concepts": ["word-accent", "everyday-numbers"]
+		},
+		{
+			"id": "n40",
+			"item": "word:fyrtio",
+			"text": "fyrtio",
+			"ipa": "/ˈfœ̂ʈːɪʊ/",
+			"clue": "40",
+			"concepts": ["word-accent", "everyday-numbers", "retroflex"]
+		},
+		{
+			"id": "n50",
+			"item": "word:femtio",
+			"text": "femtio",
+			"ipa": "/ˈfɛ̂mtɪʊ/",
+			"clue": "50",
+			"concepts": ["word-accent", "everyday-numbers"]
+		},
+		{
+			"id": "n60",
+			"item": "word:sextio",
+			"text": "sextio",
+			"ipa": "/ˈsɛ̂kstɪʊ/",
+			"clue": "60",
+			"concepts": ["word-accent", "everyday-numbers"]
+		},
+		{
+			"id": "n70",
+			"item": "word:sjuttio",
+			"text": "sjuttio",
+			"ipa": "/ˈɧɵ̂tːɪʊ/",
+			"clue": "70",
+			"concepts": ["word-accent", "everyday-numbers"]
+		},
+		{
+			"id": "n80",
+			"item": "word:åttio",
+			"text": "åttio",
+			"ipa": "/ˈɔ̂tːɪʊ/",
+			"clue": "80",
+			"concepts": ["word-accent", "everyday-numbers"]
+		},
+		{
+			"id": "n90",
+			"item": "word:nittio",
+			"text": "nittio",
+			"ipa": "/ˈnɪ̂tːɪʊ/",
+			"clue": "90",
+			"concepts": ["word-accent", "everyday-numbers"]
+		},
+		{
+			"id": "n100",
+			"item": "word:hundra",
+			"text": "hundra",
+			"ipa": "/ˈhɵ̂ndra/",
+			"clue": "100",
+			"alsoAccepted": ["etthundra"],
+			"concepts": ["word-accent", "everyday-numbers"]
+		},
+		{
+			"id": "n1000",
+			"item": "word:tusen",
+			"text": "tusen",
+			"ipa": "/ˈtʉ̌ːsɛn/",
+			"clue": "1000",
+			"alsoAccepted": ["ettusen"],
+			"concepts": ["word-accent", "everyday-numbers"]
+		}
+	]
+}
