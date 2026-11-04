@@ -2,6 +2,25 @@
 
 Each release's entry is its release notes (`docs/RELEASES.md`).
 
+## v0.7.0 — 2026-11-04 — Swedish, level 2
+
+**Swedish continues with the ten themes of Hej svenska level 2: the past and the future, pronouns as objects, and the everyday grammar of talking about your life.**
+
+For players:
+
+- Twelve new lessons (13–24) under Level 2: presenting yourself, living in a flat, your day, what you did, the wider family, free time, health care, shopping, working life, travel, holidays, and time and dates.
+- The past tense: regular verbs in -ade, -de, -te and -dde, and the ten commonest strong verbs (åt, drack, skrev, gick, kom, såg, tog, gav, sov, gjorde).
+- The future with ska and kommer att, and på lördag against på lördagar.
+- Pronouns as objects (mig, honom, henne, oss, dem), reflexive verbs (tvättar mig, klär på sig), the genitive -s, and den or det for "it".
+- Adjectives after den, det and de (den röda tröjan), ja, jo and nej, för … sedan, i sommar and i somras, and fem i halv fyra.
+- Distinctions English and German blur: gå, åka and köra; moster and faster, morbror and farbror; semester as holiday from work.
+
+Each lesson links its Hej svenska 2 theme and is authored for Langclick, copying nothing. Two independent content checks passed all 1,369 Swedish targets on their exact current text; across the level they caught about 45 faults, mostly word accents, particle-verb stress and vowel length, all fixed before the verdicts.
+
+Not included: Hej svenska levels 3 and 4, Swedish explained in other languages, audio, downloads or speech. No native speaker has reviewed the content; the checks are AI checks against Lexin, Wiktionary and Help:IPA/Swedish.
+
+Not tried during release preparation: manual play of every lesson, a real phone, touch drag, or browsers other than those the automated gates exercise. The reviewed and tagged commit is named in the GitHub release.
+
 ## v0.6.0 — 2026-11-04 — Swedish, level 1
 
 **Langclick gains a second language: Swedish, following the ten themes of Hej svenska level 1, in the tray or typed, explained in English and compared with English or German.**
