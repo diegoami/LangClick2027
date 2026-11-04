@@ -18,7 +18,7 @@
 			"item": "word:pidruchnyk",
 			"text": "підручник",
 			"display": "підру́чник",
-			"ipa": "/pʲidˈrut͡ʃnɪk/"
+			"ipa": "/pidˈrut͡ʃnɪk/"
 		},
 		{
 			"id": "zoshyt",
@@ -46,7 +46,7 @@
 			"item": "word:osvita",
 			"text": "освіта",
 			"display": "осві́та",
-			"ipa": "/ɔsˈʋʲita/"
+			"ipa": "/ɔsˈʋita/"
 		},
 		{
 			"id": "znannya",

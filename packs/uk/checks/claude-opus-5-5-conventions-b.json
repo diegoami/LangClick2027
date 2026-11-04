@@ -102,6 +102,51 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l09-words/pleminnyk",
+			"seen": "{\"item\":\"word:pleminnyk\",\"text\":\"племінник\",\"display\":\"племі́нник\",\"ipa\":\"/plɛˈminːɪk/\",\"alsoAccepted\":[\"небіж\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l09-words/pleminnytsya",
+			"seen": "{\"item\":\"word:pleminnytsya\",\"text\":\"племінниця\",\"display\":\"племі́нниця\",\"ipa\":\"/plɛˈminːɪt͡sʲa/\",\"alsoAccepted\":[\"небога\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l09-words/ridnya",
+			"seen": "{\"item\":\"word:ridnya\",\"text\":\"рідня\",\"display\":\"рідня́\",\"ipa\":\"/rʲidʲˈnʲa/\",\"alsoAccepted\":[\"родина\",\"родичі\",\"рідні\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l10-occupations/bibliotekar",
+			"seen": "{\"item\":\"word:bibliotekar\",\"text\":\"бібліотекар\",\"display\":\"бібліоте́кар\",\"ipa\":\"/biblʲiɔˈtɛkar/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l10-occupations/fakhivets",
+			"seen": "{\"item\":\"word:fakhivets\",\"text\":\"фахівець\",\"display\":\"фахіве́ць\",\"ipa\":\"/faxiˈʋɛt͡sʲ/\",\"alsoAccepted\":[\"спеціаліст\",\"професіонал\",\"знавець\",\"спец\",\"експерт\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l10-occupations/prohramist",
+			"seen": "{\"item\":\"word:prohramist\",\"text\":\"програміст\",\"display\":\"програмі́ст\",\"ipa\":\"/prɔɦraˈmist/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l10-occupations/robitnyk",
+			"seen": "{\"item\":\"word:robitnyk\",\"text\":\"робітник\",\"display\":\"робітни́к\",\"ipa\":\"/rɔbitˈnɪk/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l10-occupations/robitnytsya",
+			"seen": "{\"item\":\"word:robitnytsya\",\"text\":\"робітниця\",\"display\":\"робітни́ця\",\"ipa\":\"/rɔbitˈnɪt͡sʲa/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l10-occupations/smittyar",
+			"seen": "{\"item\":\"word:smittyar\",\"text\":\"сміттяр\",\"display\":\"сміття́р\",\"ipa\":\"/smiˈtʲːar/\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/l11-words/hrudna-klityna",
 			"seen": "{\"item\":\"word:hrudna-klityna\",\"text\":\"грудна клітина\",\"display\":\"грудна́ кліти́на\",\"ipa\":\"/ɦrudˈna klʲiˈtɪna/\"}",
 			"verdict": "ok"
@@ -135,6 +180,16 @@
 			"key": "core/l12-words/pidstryzhenyy",
 			"seen": "{\"item\":\"word:pidstryzhenyy\",\"text\":\"підстрижений\",\"display\":\"підстри́жений\",\"ipa\":\"/pidˈstrɪʒɛnɪj/\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/serednoho-zrostu",
+			"seen": "{\"item\":\"word:serednoho-zrostu\",\"text\":\"середнього зросту\",\"display\":\"сере́днього зро́сту\",\"ipa\":\"/sɛˈrɛdʲnʲɔɦɔ ˈzrɔstu/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l12-words/serednoyi-statury",
+			"seen": "{\"item\":\"word:serednoyi-statury\",\"text\":\"середньої статури\",\"display\":\"сере́дньої стату́ри\",\"ipa\":\"/sɛˈrɛdʲnʲɔji staˈturɪ/\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/l12-words/smahlyavyy",
@@ -177,6 +232,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l14-words/hostova-kimnata",
+			"seen": "{\"item\":\"word:hostova-kimnata\",\"text\":\"гостьова кімната\",\"display\":\"гостьова́ кімна́та\",\"ipa\":\"/ɦɔsʲtʲɔˈʋa kimˈnata/\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/l14-words/kvartyra",
 			"seen": "{\"item\":\"word:kvartyra\",\"text\":\"квартира\",\"display\":\"кварти́ра\",\"ipa\":\"/kʋarˈtɪra/\"}",
 			"verdict": "ok"
@@ -207,6 +267,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l15-words/yakist",
+			"seen": "{\"item\":\"word:yakist\",\"text\":\"якість\",\"display\":\"я́кість\",\"ipa\":\"/ˈjakisʲtʲ/\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/l16-quantities/kilos.c0",
 			"seen": "{\"item\":\"l16:quantities:kilos:c0\",\"text\":\"кілограм\",\"display\":\"кілогра́м\",\"ipa\":\"/kilɔˈɦram/\",\"row\":\"kilos\",\"col\":\"c0\"}",
 			"verdict": "ok"
@@ -220,6 +285,11 @@
 			"key": "core/l16-words/kilohram",
 			"seen": "{\"item\":\"word:kilohram\",\"text\":\"кілограм\",\"display\":\"кілогра́м\",\"ipa\":\"/kilɔˈɦram/\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/l17-words/vartist",
+			"seen": "{\"item\":\"word:vartist\",\"text\":\"вартість\",\"display\":\"ва́ртість\",\"ipa\":\"/ˈʋartʲisʲtʲ/\",\"alsoAccepted\":[\"ціна\"]}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/l18-words/elektrychka",
@@ -297,9 +367,64 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l23-words/biblioteka",
+			"seen": "{\"item\":\"word:biblioteka\",\"text\":\"бібліотека\",\"display\":\"бібліоте́ка\",\"ipa\":\"/biblʲiɔˈtɛka/\",\"alsoAccepted\":[\"книгозбірня\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l23-words/bibliotekar",
+			"seen": "{\"item\":\"word:bibliotekar\",\"text\":\"бібліотекар\",\"display\":\"бібліоте́кар\",\"ipa\":\"/biblʲiɔˈtɛkar/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l23-words/lystivka",
+			"seen": "{\"item\":\"word:lystivka\",\"text\":\"листівка\",\"display\":\"листі́вка\",\"ipa\":\"/lɪˈsʲtʲiʋka/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l23-words/povidomlennya",
+			"seen": "{\"item\":\"word:povidomlennya\",\"text\":\"повідомлення\",\"display\":\"повідо́млення\",\"ipa\":\"/pɔʋiˈdɔmlɛnʲːa/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l23-words/vartist",
+			"seen": "{\"item\":\"word:vartist\",\"text\":\"вартість\",\"display\":\"ва́ртість\",\"ipa\":\"/ˈʋartʲisʲtʲ/\",\"alsoAccepted\":[\"ціна\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l23-words/viddilennya",
+			"seen": "{\"item\":\"word:viddilennya\",\"text\":\"відділення\",\"display\":\"відді́лення\",\"ipa\":\"/ʋiˈdʲːilɛnʲːa/\",\"alsoAccepted\":[\"філія\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l23-words/vidpravnyk",
+			"seen": "{\"item\":\"word:vidpravnyk\",\"text\":\"відправник\",\"display\":\"відпра́вник\",\"ipa\":\"/ʋidˈpraʋnɪk/\",\"alsoAccepted\":[\"відправляч\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l24-words/anhina",
+			"seen": "{\"item\":\"word:anhina\",\"text\":\"ангіна\",\"display\":\"ангі́на\",\"ipa\":\"/anˈɦina/\",\"alsoAccepted\":[\"тонзиліт\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l24-words/bil",
+			"seen": "{\"item\":\"word:bil\",\"text\":\"біль\",\"display\":\"біль\",\"ipa\":\"/bilʲ/\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/l24-words/hastryt",
 			"seen": "{\"item\":\"word:hastryt\",\"text\":\"гастрит\",\"display\":\"гастри́т\",\"ipa\":\"/ɦaˈstrɪt/\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/l24-words/slabkist",
+			"seen": "{\"item\":\"word:slabkist\",\"text\":\"слабкість\",\"display\":\"сла́бкість\",\"ipa\":\"/ˈslabkisʲtʲ/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l24-words/sonlyvist",
+			"seen": "{\"item\":\"word:sonlyvist\",\"text\":\"сонливість\",\"display\":\"сонли́вість\",\"ipa\":\"/sɔnˈlɪʋisʲtʲ/\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/l24-words/zastuda",
@@ -327,6 +452,26 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l25-words/nezalezhnist",
+			"seen": "{\"item\":\"word:nezalezhnist\",\"text\":\"незалежність\",\"display\":\"незале́жність\",\"ipa\":\"/nɛzaˈlɛʒnʲisʲtʲ/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l25-words/pryvitannya",
+			"seen": "{\"item\":\"word:pryvitannya\",\"text\":\"привітання\",\"display\":\"привіта́ння\",\"ipa\":\"/prɪʋiˈtanʲːa/\",\"alsoAccepted\":[\"вітання\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l25-words/relihiynyy",
+			"seen": "{\"item\":\"word:relihiynyy\",\"text\":\"релігійний\",\"display\":\"релігі́йний\",\"ipa\":\"/rɛlʲiˈɦijnɪj/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l25-words/vitaty",
+			"seen": "{\"item\":\"word:vitaty\",\"text\":\"вітати\",\"display\":\"віта́ти\",\"ipa\":\"/ʋiˈtatɪ/\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/l26-flowers-words/pidsnizhnyk",
 			"seen": "{\"item\":\"word:pidsnizhnyk\",\"text\":\"підсніжник\",\"display\":\"підсні́жник\",\"ipa\":\"/pidʲsʲˈnʲiʒnɪk/\"}",
 			"verdict": "ok"
@@ -337,6 +482,16 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l26-words/dovkillya",
+			"seen": "{\"item\":\"word:dovkillya\",\"text\":\"довкілля\",\"display\":\"довкі́лля\",\"ipa\":\"/dɔʋˈkilʲːa/\",\"alsoAccepted\":[\"середовище\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l26-words/kvitka",
+			"seen": "{\"item\":\"word:kvitka\",\"text\":\"квітка\",\"display\":\"кві́тка\",\"ipa\":\"/ˈkʋitka/\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/l26-words/lisostep",
 			"seen": "{\"item\":\"word:lisostep\",\"text\":\"лісостеп\",\"display\":\"лісосте́п\",\"ipa\":\"/lʲisɔˈstɛp/\"}",
 			"verdict": "ok"
@@ -345,6 +500,11 @@
 			"key": "core/l26-words/roslyna",
 			"seen": "{\"item\":\"word:roslyna\",\"text\":\"рослина\",\"display\":\"росли́на\",\"ipa\":\"/rɔˈslɪna/\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/l26-words/zapovidnyk",
+			"seen": "{\"item\":\"word:zapovidnyk\",\"text\":\"заповідник\",\"display\":\"запові́дник\",\"ipa\":\"/zapɔˈʋidnɪk/\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/l27-imperative/my.pidkreslyty",
@@ -370,6 +530,36 @@
 			"key": "core/l27-words/navchannya",
 			"seen": "{\"item\":\"word:navchannya\",\"text\":\"навчання\",\"display\":\"навча́ння\",\"ipa\":\"/naʋˈt͡ʃanʲːa/\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/l27-words/osvita",
+			"seen": "{\"item\":\"word:osvita\",\"text\":\"освіта\",\"display\":\"осві́та\",\"ipa\":\"/ɔsˈʋita/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l27-words/pidruchnyk",
+			"seen": "{\"item\":\"word:pidruchnyk\",\"text\":\"підручник\",\"display\":\"підру́чник\",\"ipa\":\"/pidˈrut͡ʃnɪk/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/possessives/my.m",
+			"seen": "{\"item\":\"possessive:my:nom.m\",\"text\":\"мій\",\"ipa\":\"/mij/\",\"row\":\"my\",\"col\":\"m\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/possessives/our.pl",
+			"seen": "{\"item\":\"possessive:our:nom.pl\",\"text\":\"наші\",\"display\":\"на́ші\",\"ipa\":\"/ˈnaʃi/\",\"row\":\"our\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/possessives/your-pl.pl",
+			"seen": "{\"item\":\"possessive:your-pl:nom.pl\",\"text\":\"ваші\",\"display\":\"ва́ші\",\"ipa\":\"/ˈʋaʃi/\",\"row\":\"your-pl\",\"col\":\"pl\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/possessives/your.m",
+			"seen": "{\"item\":\"possessive:your:nom.m\",\"text\":\"твій\",\"ipa\":\"/tʋij/\",\"row\":\"your\",\"col\":\"m\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/stress-pairs/satin",

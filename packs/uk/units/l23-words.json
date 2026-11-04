@@ -25,7 +25,7 @@
 			"item": "word:biblioteka",
 			"text": "бібліотека",
 			"display": "бібліоте́ка",
-			"ipa": "/bʲiblʲiɔˈtɛka/",
+			"ipa": "/biblʲiɔˈtɛka/",
 			"alsoAccepted": ["книгозбірня"]
 		},
 		{
@@ -105,7 +105,7 @@
 			"item": "word:viddilennya",
 			"text": "відділення",
 			"display": "відді́лення",
-			"ipa": "/ʋʲidˈdʲilɛnʲːa/",
+			"ipa": "/ʋiˈdʲːilɛnʲːa/",
 			"alsoAccepted": ["філія"]
 		},
 		{
@@ -120,14 +120,14 @@
 			"item": "word:lystivka",
 			"text": "листівка",
 			"display": "листі́вка",
-			"ipa": "/lɪsˈtʲiʋka/"
+			"ipa": "/lɪˈsʲtʲiʋka/"
 		},
 		{
 			"id": "vidpravnyk",
 			"item": "word:vidpravnyk",
 			"text": "відправник",
 			"display": "відпра́вник",
-			"ipa": "/ʋʲidˈpraʋnɪk/",
+			"ipa": "/ʋidˈpraʋnɪk/",
 			"alsoAccepted": ["відправляч"]
 		},
 		{
@@ -143,7 +143,7 @@
 			"item": "word:povidomlennya",
 			"text": "повідомлення",
 			"display": "повідо́млення",
-			"ipa": "/pɔʋʲiˈdɔmlɛnʲːa/"
+			"ipa": "/pɔʋiˈdɔmlɛnʲːa/"
 		},
 		{
 			"id": "fayl",
@@ -165,7 +165,7 @@
 			"item": "word:vartist",
 			"text": "вартість",
 			"display": "ва́ртість",
-			"ipa": "/ˈʋartʲistʲ/",
+			"ipa": "/ˈʋartʲisʲtʲ/",
 			"alsoAccepted": ["ціна"]
 		},
 		{
@@ -195,7 +195,7 @@
 			"item": "word:bibliotekar",
 			"text": "бібліотекар",
 			"display": "бібліоте́кар",
-			"ipa": "/bʲiblʲiɔˈtɛkar/"
+			"ipa": "/biblʲiɔˈtɛkar/"
 		},
 		{
 			"id": "bezghotivkovyy",
