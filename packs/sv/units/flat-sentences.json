@@ -1,0 +1,66 @@
+{
+	"id": "flat-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "lacker",
+			"item": "sentence:flat-sentences:lacker",
+			"text": "läcker",
+			"sentence": "Kranen i köket ___."
+		},
+		{
+			"id": "kallt",
+			"item": "sentence:flat-sentences:kallt",
+			"text": "kallt",
+			"sentence": "Elementet är ___."
+		},
+		{
+			"id": "flytta",
+			"item": "sentence:flat-sentences:flytta",
+			"text": "flytta",
+			"sentence": "Jag vill ___ till en större lägenhet."
+		},
+		{
+			"id": "hyran",
+			"item": "sentence:flat-sentences:hyran",
+			"text": "hyran",
+			"sentence": "Hur mycket är ___?"
+		},
+		{
+			"id": "nyckel",
+			"item": "sentence:flat-sentences:nyckel",
+			"text": "nyckel",
+			"sentence": "Jag har tappat min ___."
+		},
+		{
+			"id": "vaktmastaren",
+			"item": "sentence:flat-sentences:vaktmastaren",
+			"text": "vaktmästaren",
+			"sentence": "Jag ringer ___."
+		},
+		{
+			"id": "vaning",
+			"item": "sentence:flat-sentences:vaning",
+			"text": "våning",
+			"sentence": "Vilken ___ ska du till?"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"title": "Question words",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"vad": {
+			"clue": "what"
+		},
+		"vem": {
+			"clue": "who"
+		},
+		"var": {
+			"clue": "where"
+		},
+		"vart": {
+			"clue": "where to"
+		},
+		"nar": {
+			"clue": "when"
+		},
+		"hur": {
+			"clue": "how"
+		},
+		"varfor": {
+			"clue": "why"
+		},
+		"vilken": {
+			"clue": "which"
+		}
+	}
+}

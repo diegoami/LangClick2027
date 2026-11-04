@@ -1,0 +1,91 @@
+{
+	"id": "routine",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "vakna",
+			"item": "word:vakna",
+			"text": "vakna",
+			"ipa": "/ˈvɑ̂ːkna/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "stigaupp",
+			"item": "word:stiga upp",
+			"text": "stiga upp",
+			"ipa": "/ˈstîːɡa ɵpː/"
+		},
+		{
+			"id": "duscha",
+			"item": "word:duscha",
+			"text": "duscha",
+			"ipa": "/ˈdɵ̂ɧːa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "frukost",
+			"item": "word:frukost",
+			"text": "frukost",
+			"ipa": "/ˈfrʉ̌ːkɔst/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "borsta",
+			"item": "word:borsta",
+			"text": "borsta",
+			"ipa": "/ˈbɔ̂ʂta/",
+			"concepts": ["word-accent", "retroflex"]
+		},
+		{
+			"id": "ga",
+			"item": "word:gå",
+			"text": "gå",
+			"ipa": "/ɡoː/"
+		},
+		{
+			"id": "aka",
+			"item": "word:åka",
+			"text": "åka",
+			"ipa": "/ˈôːka/"
+		},
+		{
+			"id": "cykla",
+			"item": "word:cykla",
+			"text": "cykla",
+			"ipa": "/ˈsʏ̂kla/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "laggasig",
+			"item": "word:lägga sig",
+			"text": "lägga sig",
+			"ipa": "/ˈlɛ̂ɡːa sɛj/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "somna",
+			"item": "word:somna",
+			"text": "somna",
+			"ipa": "/ˈsɔ̂mna/",
+			"concepts": ["word-accent"]
+		}
+	]
+}

@@ -447,6 +447,41 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/day-sentences/gar",
+			"seen": "{\"item\":\"sentence:day-sentences:gar\",\"text\":\"går\",\"sentence\":\"Jag ___ till jobbet, det tar fem minuter.\",\"concepts\":[\"ga-aka-kora\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/day-sentences/aker",
+			"seen": "{\"item\":\"sentence:day-sentences:aker\",\"text\":\"åker\",\"sentence\":\"Jag ___ buss till skolan.\",\"concepts\":[\"ga-aka-kora\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/day-sentences/kor",
+			"seen": "{\"item\":\"sentence:day-sentences:kor\",\"text\":\"kör\",\"sentence\":\"Hon ___ bil till jobbet.\",\"concepts\":[\"ga-aka-kora\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/day-sentences/vaknar",
+			"seen": "{\"item\":\"sentence:day-sentences:vaknar\",\"text\":\"vaknar\",\"sentence\":\"Jag ___ alltid klockan sju.\",\"concepts\":[\"ga-aka-kora\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/day-sentences/lagger",
+			"seen": "{\"item\":\"sentence:day-sentences:lagger\",\"text\":\"lägger\",\"sentence\":\"Han ___ sig klockan elva.\",\"concepts\":[\"ga-aka-kora\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/day-sentences/tvattar",
+			"seen": "{\"item\":\"sentence:day-sentences:tvattar\",\"text\":\"tvättar\",\"sentence\":\"Vi ___ oss i badrummet.\",\"concepts\":[\"ga-aka-kora\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/day-sentences/klar",
+			"seen": "{\"item\":\"sentence:day-sentences:klar\",\"text\":\"klär\",\"sentence\":\"Barnen ___ på sig.\",\"concepts\":[\"ga-aka-kora\"]}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/days/mandag",
 			"seen": "{\"item\":\"word:måndag\",\"text\":\"måndag\",\"ipa\":\"/ˈmɔ̌ndɑːɡ/\",\"concepts\":[\"word-accent\"]}",
 			"verdict": "ok"
@@ -720,6 +755,91 @@
 			"key": "core/family/kusin",
 			"seen": "{\"item\":\"word:kusin\",\"text\":\"kusin\",\"ipa\":\"/kɵˈsiːn/\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "core/flat-sentences/lacker",
+			"seen": "{\"item\":\"sentence:flat-sentences:lacker\",\"text\":\"läcker\",\"sentence\":\"Kranen i köket ___.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat-sentences/kallt",
+			"seen": "{\"item\":\"sentence:flat-sentences:kallt\",\"text\":\"kallt\",\"sentence\":\"Elementet är ___.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat-sentences/flytta",
+			"seen": "{\"item\":\"sentence:flat-sentences:flytta\",\"text\":\"flytta\",\"sentence\":\"Jag vill ___ till en större lägenhet.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat-sentences/hyran",
+			"seen": "{\"item\":\"sentence:flat-sentences:hyran\",\"text\":\"hyran\",\"sentence\":\"Hur mycket är ___?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat-sentences/nyckel",
+			"seen": "{\"item\":\"sentence:flat-sentences:nyckel\",\"text\":\"nyckel\",\"sentence\":\"Jag har tappat min ___.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat-sentences/vaktmastaren",
+			"seen": "{\"item\":\"sentence:flat-sentences:vaktmastaren\",\"text\":\"vaktmästaren\",\"sentence\":\"Jag ringer ___.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat-sentences/vaning",
+			"seen": "{\"item\":\"sentence:flat-sentences:vaning\",\"text\":\"våning\",\"sentence\":\"Vilken ___ ska du till?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat/hyra",
+			"seen": "{\"item\":\"word:hyra\",\"text\":\"hyra\",\"ipa\":\"/ˈhŷːra/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat/vaktmastare",
+			"seen": "{\"item\":\"word:vaktmästare\",\"text\":\"vaktmästare\",\"ipa\":\"/ˈvâktˌmɛstarɛ/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat/flytta",
+			"seen": "{\"item\":\"word:flytta\",\"text\":\"flytta\",\"ipa\":\"/ˈflʏ̂tːa/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat/annons",
+			"seen": "{\"item\":\"word:annons\",\"text\":\"annons\",\"ipa\":\"/aˈnɔŋs/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat/kran",
+			"seen": "{\"item\":\"word:kran\",\"text\":\"kran\",\"ipa\":\"/krɑːn/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat/element",
+			"seen": "{\"item\":\"word:element\",\"text\":\"element\",\"ipa\":\"/ɛlɛˈmɛnt/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat/trasig",
+			"seen": "{\"item\":\"word:trasig\",\"text\":\"trasig\",\"ipa\":\"/ˈtrɑ̂ːsɪɡ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat/tvattmaskin",
+			"seen": "{\"item\":\"word:tvättmaskin\",\"text\":\"tvättmaskin\",\"ipa\":\"/ˈtvɛ̂tmaˌɧiːn/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat/torktumlare",
+			"seen": "{\"item\":\"word:torktumlare\",\"text\":\"torktumlare\",\"ipa\":\"/ˈtɔ̂rkˌtɵmlarɛ/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/flat/nyckel",
+			"seen": "{\"item\":\"word:nyckel\",\"text\":\"nyckel\",\"ipa\":\"/ˈnʏ̌kːɛl/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/food/brod",
@@ -1567,6 +1687,261 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/presentation/av",
+			"seen": "{\"item\":\"sentence:presentation:av\",\"text\":\"av\",\"sentence\":\"Jag är intresserad ___ fotboll.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/presentation/inte",
+			"seen": "{\"item\":\"sentence:presentation:inte\",\"text\":\"inte\",\"sentence\":\"Jag är ___ intresserad av politik.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/presentation/var",
+			"seen": "{\"item\":\"sentence:presentation:var\",\"text\":\"var\",\"sentence\":\"___ bor du?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/presentation/nar",
+			"seen": "{\"item\":\"sentence:presentation:nar\",\"text\":\"när\",\"sentence\":\"___ kommer du?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/presentation/hur",
+			"seen": "{\"item\":\"sentence:presentation:hur\",\"text\":\"hur\",\"sentence\":\"___ gammal är du?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/presentation/honom",
+			"seen": "{\"item\":\"sentence:presentation:honom\",\"text\":\"honom\",\"sentence\":\"Känner du ___?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/presentation/henne",
+			"seen": "{\"item\":\"sentence:presentation:henne\",\"text\":\"henne\",\"sentence\":\"Jag ringer ___ i kväll.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/jag.subj",
+			"seen": "{\"item\":\"form:pronouns:jag.subj\",\"text\":\"jag\",\"ipa\":\"/jɑːɡ/\",\"concepts\":[\"object-pronouns\"],\"row\":\"jag\",\"col\":\"subj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/jag.obj",
+			"seen": "{\"item\":\"form:pronouns:jag.obj\",\"text\":\"mig\",\"ipa\":\"/mɛj/\",\"concepts\":[\"object-pronouns\"],\"row\":\"jag\",\"col\":\"obj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/du.subj",
+			"seen": "{\"item\":\"form:pronouns:du.subj\",\"text\":\"du\",\"ipa\":\"/dʉː/\",\"concepts\":[\"object-pronouns\"],\"row\":\"du\",\"col\":\"subj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/du.obj",
+			"seen": "{\"item\":\"form:pronouns:du.obj\",\"text\":\"dig\",\"ipa\":\"/dɛj/\",\"concepts\":[\"object-pronouns\"],\"row\":\"du\",\"col\":\"obj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/han.subj",
+			"seen": "{\"item\":\"form:pronouns:han.subj\",\"text\":\"han\",\"ipa\":\"/hanː/\",\"concepts\":[\"object-pronouns\"],\"row\":\"han\",\"col\":\"subj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/han.obj",
+			"seen": "{\"item\":\"form:pronouns:han.obj\",\"text\":\"honom\",\"ipa\":\"/ˈhɔ̌nːɔm/\",\"concepts\":[\"object-pronouns\",\"word-accent\"],\"row\":\"han\",\"col\":\"obj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/hon.subj",
+			"seen": "{\"item\":\"form:pronouns:hon.subj\",\"text\":\"hon\",\"ipa\":\"/hʊnː/\",\"concepts\":[\"object-pronouns\"],\"row\":\"hon\",\"col\":\"subj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/hon.obj",
+			"seen": "{\"item\":\"form:pronouns:hon.obj\",\"text\":\"henne\",\"ipa\":\"/ˈhɛ̂nːɛ/\",\"concepts\":[\"object-pronouns\",\"word-accent\"],\"row\":\"hon\",\"col\":\"obj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/vi.subj",
+			"seen": "{\"item\":\"form:pronouns:vi.subj\",\"text\":\"vi\",\"ipa\":\"/viː/\",\"concepts\":[\"object-pronouns\"],\"row\":\"vi\",\"col\":\"subj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/vi.obj",
+			"seen": "{\"item\":\"form:pronouns:vi.obj\",\"text\":\"oss\",\"ipa\":\"/ɔsː/\",\"concepts\":[\"object-pronouns\"],\"row\":\"vi\",\"col\":\"obj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/ni.subj",
+			"seen": "{\"item\":\"form:pronouns:ni.subj\",\"text\":\"ni\",\"ipa\":\"/niː/\",\"concepts\":[\"object-pronouns\"],\"row\":\"ni\",\"col\":\"subj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/ni.obj",
+			"seen": "{\"item\":\"form:pronouns:ni.obj\",\"text\":\"er\",\"ipa\":\"/eːr/\",\"concepts\":[\"object-pronouns\"],\"row\":\"ni\",\"col\":\"obj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/de.subj",
+			"seen": "{\"item\":\"form:pronouns:de.subj\",\"text\":\"de\",\"ipa\":\"/dɔm/\",\"concepts\":[\"object-pronouns\"],\"row\":\"de\",\"col\":\"subj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/pronouns/de.obj",
+			"seen": "{\"item\":\"form:pronouns:de.obj\",\"text\":\"dem\",\"ipa\":\"/dɔm/\",\"concepts\":[\"object-pronouns\"],\"row\":\"de\",\"col\":\"obj\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/question-words/vad",
+			"seen": "{\"item\":\"word:vad\",\"text\":\"vad\",\"ipa\":\"/vɑːd/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/question-words/vem",
+			"seen": "{\"item\":\"word:vem\",\"text\":\"vem\",\"ipa\":\"/vɛmː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/question-words/var",
+			"seen": "{\"item\":\"word:var\",\"text\":\"var\",\"ipa\":\"/vɑːr/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/question-words/vart",
+			"seen": "{\"item\":\"word:vart\",\"text\":\"vart\",\"ipa\":\"/vaʈː/\",\"concepts\":[\"retroflex\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/question-words/nar",
+			"seen": "{\"item\":\"word:när\",\"text\":\"när\",\"ipa\":\"/næːr/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/question-words/hur",
+			"seen": "{\"item\":\"word:hur\",\"text\":\"hur\",\"ipa\":\"/hʉːr/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/question-words/varfor",
+			"seen": "{\"item\":\"word:varför\",\"text\":\"varför\",\"ipa\":\"/ˈvârˌfœr/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/question-words/vilken",
+			"seen": "{\"item\":\"word:vilken\",\"text\":\"vilken\",\"ipa\":\"/ˈvɪ̌lkɛn/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/jag.tvatta",
+			"seen": "{\"item\":\"form:reflexive:jag.tvatta\",\"text\":\"tvättar mig\",\"ipa\":\"/ˈtvɛ̂tːar mɛj/\",\"concepts\":[\"reflexive\",\"word-accent\"],\"row\":\"jag\",\"col\":\"tvatta\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/jag.kla",
+			"seen": "{\"item\":\"form:reflexive:jag.kla\",\"text\":\"klär på mig\",\"ipa\":\"/klæːr poː mɛj/\",\"concepts\":[\"reflexive\"],\"row\":\"jag\",\"col\":\"kla\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/du.tvatta",
+			"seen": "{\"item\":\"form:reflexive:du.tvatta\",\"text\":\"tvättar dig\",\"ipa\":\"/ˈtvɛ̂tːar dɛj/\",\"concepts\":[\"reflexive\",\"word-accent\"],\"row\":\"du\",\"col\":\"tvatta\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/du.kla",
+			"seen": "{\"item\":\"form:reflexive:du.kla\",\"text\":\"klär på dig\",\"ipa\":\"/klæːr poː dɛj/\",\"concepts\":[\"reflexive\"],\"row\":\"du\",\"col\":\"kla\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/hanhon.tvatta",
+			"seen": "{\"item\":\"form:reflexive:hanhon.tvatta\",\"text\":\"tvättar sig\",\"ipa\":\"/ˈtvɛ̂tːar sɛj/\",\"concepts\":[\"reflexive\",\"word-accent\"],\"row\":\"hanhon\",\"col\":\"tvatta\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/hanhon.kla",
+			"seen": "{\"item\":\"form:reflexive:hanhon.kla\",\"text\":\"klär på sig\",\"ipa\":\"/klæːr poː sɛj/\",\"concepts\":[\"reflexive\"],\"row\":\"hanhon\",\"col\":\"kla\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/vi.tvatta",
+			"seen": "{\"item\":\"form:reflexive:vi.tvatta\",\"text\":\"tvättar oss\",\"ipa\":\"/ˈtvɛ̂tːar ɔsː/\",\"concepts\":[\"reflexive\",\"word-accent\"],\"row\":\"vi\",\"col\":\"tvatta\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/vi.kla",
+			"seen": "{\"item\":\"form:reflexive:vi.kla\",\"text\":\"klär på oss\",\"ipa\":\"/klæːr poː ɔsː/\",\"concepts\":[\"reflexive\"],\"row\":\"vi\",\"col\":\"kla\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/ni.tvatta",
+			"seen": "{\"item\":\"form:reflexive:ni.tvatta\",\"text\":\"tvättar er\",\"ipa\":\"/ˈtvɛ̂tːar eːr/\",\"concepts\":[\"reflexive\",\"word-accent\"],\"row\":\"ni\",\"col\":\"tvatta\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/ni.kla",
+			"seen": "{\"item\":\"form:reflexive:ni.kla\",\"text\":\"klär på er\",\"ipa\":\"/klæːr poː eːr/\",\"concepts\":[\"reflexive\"],\"row\":\"ni\",\"col\":\"kla\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/de.tvatta",
+			"seen": "{\"item\":\"form:reflexive:de.tvatta\",\"text\":\"tvättar sig\",\"ipa\":\"/ˈtvɛ̂tːar sɛj/\",\"concepts\":[\"reflexive\",\"word-accent\"],\"row\":\"de\",\"col\":\"tvatta\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/reflexive/de.kla",
+			"seen": "{\"item\":\"form:reflexive:de.kla\",\"text\":\"klär på sig\",\"ipa\":\"/klæːr poː sɛj/\",\"concepts\":[\"reflexive\"],\"row\":\"de\",\"col\":\"kla\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/routine/vakna",
+			"seen": "{\"item\":\"word:vakna\",\"text\":\"vakna\",\"ipa\":\"/ˈvɑ̂ːkna/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/routine/stigaupp",
+			"seen": "{\"item\":\"word:stiga upp\",\"text\":\"stiga upp\",\"ipa\":\"/ˈstîːɡa ɵpː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/routine/duscha",
+			"seen": "{\"item\":\"word:duscha\",\"text\":\"duscha\",\"ipa\":\"/ˈdɵ̂ɧːa/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/routine/frukost",
+			"seen": "{\"item\":\"word:frukost\",\"text\":\"frukost\",\"ipa\":\"/ˈfrʉ̌ːkɔst/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/routine/borsta",
+			"seen": "{\"item\":\"word:borsta\",\"text\":\"borsta\",\"ipa\":\"/ˈbɔ̂ʂta/\",\"concepts\":[\"word-accent\",\"retroflex\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/routine/ga",
+			"seen": "{\"item\":\"word:gå\",\"text\":\"gå\",\"ipa\":\"/ɡoː/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/routine/aka",
+			"seen": "{\"item\":\"word:åka\",\"text\":\"åka\",\"ipa\":\"/ˈôːka/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/routine/cykla",
+			"seen": "{\"item\":\"word:cykla\",\"text\":\"cykla\",\"ipa\":\"/ˈsʏ̂kla/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/routine/laggasig",
+			"seen": "{\"item\":\"word:lägga sig\",\"text\":\"lägga sig\",\"ipa\":\"/ˈlɛ̂ɡːa sɛj/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/routine/somna",
+			"seen": "{\"item\":\"word:somna\",\"text\":\"somna\",\"ipa\":\"/ˈsɔ̂mna/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "pending"
+		},
+		{
 			"key": "core/shopping/gron",
 			"seen": "{\"item\":\"sentence:shopping:gron\",\"text\":\"grön\",\"sentence\":\"Jag köper en ___ tröja.\"}",
 			"verdict": "ok"
@@ -2017,6 +2392,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "de-en/day-sentences/aker",
+			"seen": "{\"contrast\":\"Like German fahren for a passenger; gå is gehen.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "de-en/days/mandag",
 			"seen": "{\"contrast\":\"Related to German Montag.\"}",
 			"verdict": "ok"
@@ -2065,6 +2445,16 @@
 			"key": "de-en/family/syskon",
 			"seen": "{\"contrast\":\"Like German Geschwister: one word for brothers and sisters.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "de-en/flat/hyra",
+			"seen": "{\"contrast\":\"Related to German Heuer, hire, not to Miete.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/flat/nyckel",
+			"seen": "{\"contrast\":\"Not related to German Schlüssel.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "de-en/food/brod",
@@ -2160,6 +2550,16 @@
 			"key": "de-en/present/tala.pres",
 			"seen": "{\"contrast\":\"German changes the ending for each person (ich spreche, du sprichst); Swedish has one form: talar.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "de-en/pronouns/han.obj",
+			"seen": "{\"contrast\":\"Like German ihn: the pronoun changes after the verb, but Swedish has no separate dative.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "de-en/reflexive/hanhon.tvatta",
+			"seen": "{\"contrast\":\"Like German sich waschen: sig is the Swedish sich.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "de-en/sj-tj/sjo",
@@ -2272,6 +2672,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/section/level2",
+			"seen": "\"Level 2\"",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/lesson/l01",
 			"seen": "\"Lesson 1: Letters and sounds\"",
 			"verdict": "ok"
@@ -2330,6 +2735,21 @@
 			"key": "en/lesson/l12",
 			"seen": "\"Lesson 12: My town\"",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/lesson/l13",
+			"seen": "\"Lesson 13: Presenting yourself\"",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/lesson/l14",
+			"seen": "\"Lesson 14: Living in a flat\"",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/lesson/l15",
+			"seen": "\"Lesson 15: My day\"",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/concept/own-letters",
@@ -2425,6 +2845,21 @@
 			"key": "en/concept/directions",
 			"seen": "{\"title\":\"Where things are\",\"body\":\"till vänster and till höger are to the left and to the right, and rakt fram is straight on. A building or a town ligger, lies, where it is: Var ligger banken? Prepositions of place: bredvid (next to), mellan (between), framför (in front of), bakom (behind).\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/concept/object-pronouns",
+			"seen": "{\"title\":\"Pronouns after the verb\",\"body\":\"A pronoun that the action is done to takes its object form: jag ser honom, hon ringer mig. mig, dig and sig are said /mɛj/, /dɛj/, /sɛj/. de and dem are both said /dɔm/, and only the spelling tells them apart.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/reflexive",
+			"seen": "{\"title\":\"Doing it to yourself\",\"body\":\"Some verbs take a pronoun for the person who does them: jag tvättar mig, du klär på dig. For han, hon, den, det and de the pronoun is sig. sig, mig and dig are said /sɛj/, /mɛj/, /dɛj/.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/concept/ga-aka-kora",
+			"seen": "{\"title\":\"Going: gå, åka, köra\",\"body\":\"gå is to go on foot. åka is to travel by vehicle, as a passenger or in general: åka buss, åka tåg. köra is to drive the vehicle yourself.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/alphabet",
@@ -2605,6 +3040,46 @@
 			"key": "en/colours",
 			"seen": "{\"title\":\"Colours that agree\",\"summary\":\"A colour is an adjective: -t with an ett-word, -a in the plural. Find the form for each cell.\",\"headers\":{\"rod\":\"red\",\"gron\":\"green\",\"bla\":\"blue\",\"gul\":\"yellow\",\"vit\":\"white\",\"brun\":\"brown\",\"en\":\"with an en-word\",\"ett\":\"with an ett-word\",\"pl\":\"plural\"}}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/day-sentences",
+			"seen": "{\"title\":\"A day in sentences\",\"summary\":\"Choose or type the word that fits the gap.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/day-sentences/gar",
+			"seen": "{\"sentenceGloss\":\"I walk to work; it takes five minutes.\",\"note\":\"gå, on foot.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/day-sentences/aker",
+			"seen": "{\"sentenceGloss\":\"I take the bus to school.\",\"note\":\"åka, by bus, train or car as a passenger.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/day-sentences/kor",
+			"seen": "{\"sentenceGloss\":\"She drives to work.\",\"note\":\"köra, to drive.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/day-sentences/vaknar",
+			"seen": "{\"sentenceGloss\":\"I always wake up at seven.\",\"note\":\"alltid, always, comes after the verb.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/day-sentences/lagger",
+			"seen": "{\"sentenceGloss\":\"He goes to bed at eleven.\",\"note\":\"lägga sig, to go to bed.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/day-sentences/tvattar",
+			"seen": "{\"sentenceGloss\":\"We wash in the bathroom.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/day-sentences/klar",
+			"seen": "{\"sentenceGloss\":\"The children get dressed.\",\"note\":\"klä på sig, to get dressed.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/days",
@@ -2850,6 +3325,101 @@
 			"key": "en/family/kusin",
 			"seen": "{\"clue\":\"cousin\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en/flat-sentences",
+			"seen": "{\"title\":\"Problems in the flat\",\"summary\":\"Choose or type the word that fits the gap.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat-sentences/lacker",
+			"seen": "{\"sentenceGloss\":\"The tap in the kitchen is leaking.\",\"note\":\"läcka, to leak: läcker.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat-sentences/kallt",
+			"seen": "{\"sentenceGloss\":\"The radiator is cold.\",\"note\":\"ett element: -t.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat-sentences/flytta",
+			"seen": "{\"sentenceGloss\":\"I want to move to a bigger flat.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat-sentences/hyran",
+			"seen": "{\"sentenceGloss\":\"How much is the rent?\",\"note\":\"en hyra, hyran.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat-sentences/nyckel",
+			"seen": "{\"sentenceGloss\":\"I have lost my key.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat-sentences/vaktmastaren",
+			"seen": "{\"sentenceGloss\":\"I am calling the caretaker.\",\"note\":\"en vaktmästare, vaktmästaren.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat-sentences/vaning",
+			"seen": "{\"sentenceGloss\":\"Which floor are you going to?\",\"note\":\"vilken våning, which floor.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat",
+			"seen": "{\"title\":\"The flat\",\"summary\":\"Renting, repairs and the laundry room. Each tile gives the meaning; find the Swedish.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat/hyra",
+			"seen": "{\"clue\":\"rent\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat/vaktmastare",
+			"seen": "{\"clue\":\"caretaker\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat/flytta",
+			"seen": "{\"clue\":\"to move house\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat/annons",
+			"seen": "{\"clue\":\"advert\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat/kran",
+			"seen": "{\"clue\":\"tap\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat/element",
+			"seen": "{\"clue\":\"radiator\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat/trasig",
+			"seen": "{\"clue\":\"broken\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat/tvattmaskin",
+			"seen": "{\"clue\":\"washing machine\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat/torktumlare",
+			"seen": "{\"clue\":\"tumble dryer\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/flat/nyckel",
+			"seen": "{\"clue\":\"key\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/food",
@@ -3462,6 +4032,156 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/presentation",
+			"seen": "{\"title\":\"Presenting yourself\",\"summary\":\"Questions, interests and pronouns. Choose or type the word that fits the gap.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/presentation/av",
+			"seen": "{\"sentenceGloss\":\"I am interested in football.\",\"note\":\"intresserad av, interested in.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/presentation/inte",
+			"seen": "{\"sentenceGloss\":\"I am not interested in politics.\",\"note\":\"inte comes after the verb.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/presentation/var",
+			"seen": "{\"sentenceGloss\":\"Where do you live?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/presentation/nar",
+			"seen": "{\"sentenceGloss\":\"When are you coming?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/presentation/hur",
+			"seen": "{\"sentenceGloss\":\"How old are you?\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/presentation/honom",
+			"seen": "{\"sentenceGloss\":\"Do you know him?\",\"note\":\"After the verb, han becomes honom.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/presentation/henne",
+			"seen": "{\"sentenceGloss\":\"I will call her this evening.\",\"note\":\"After the verb, hon becomes henne.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/pronouns",
+			"seen": "{\"title\":\"Pronouns: subject and object\",\"summary\":\"The pronoun that does the action, and the one the action is done to. Find the form for each cell.\",\"headers\":{\"jag\":\"I, me\",\"du\":\"you (one person)\",\"han\":\"he, him\",\"hon\":\"she, her\",\"vi\":\"we, us\",\"ni\":\"you (more than one)\",\"de\":\"they, them\",\"subj\":\"who does it\",\"obj\":\"who it is done to\"}}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/question-words",
+			"seen": "{\"title\":\"Question words\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/question-words/vad",
+			"seen": "{\"clue\":\"what\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/question-words/vem",
+			"seen": "{\"clue\":\"who\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/question-words/var",
+			"seen": "{\"clue\":\"where\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/question-words/vart",
+			"seen": "{\"clue\":\"where to\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/question-words/nar",
+			"seen": "{\"clue\":\"when\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/question-words/hur",
+			"seen": "{\"clue\":\"how\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/question-words/varfor",
+			"seen": "{\"clue\":\"why\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/question-words/vilken",
+			"seen": "{\"clue\":\"which\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/reflexive",
+			"seen": "{\"title\":\"Doing it to yourself\",\"summary\":\"Verbs that take a reflexive pronoun. Find the form for each cell.\",\"headers\":{\"jag\":\"I\",\"du\":\"you\",\"hanhon\":\"he, she\",\"vi\":\"we\",\"ni\":\"you (more than one)\",\"de\":\"they\",\"tvatta\":\"wash (oneself)\",\"kla\":\"get dressed\"}}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine",
+			"seen": "{\"title\":\"My day\",\"summary\":\"From waking up to falling asleep. Each tile gives the meaning; find the Swedish.\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine/vakna",
+			"seen": "{\"clue\":\"to wake up\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine/stigaupp",
+			"seen": "{\"clue\":\"to get up\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine/duscha",
+			"seen": "{\"clue\":\"to shower\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine/frukost",
+			"seen": "{\"clue\":\"breakfast\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine/borsta",
+			"seen": "{\"clue\":\"to brush\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine/ga",
+			"seen": "{\"clue\":\"to go on foot\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine/aka",
+			"seen": "{\"clue\":\"to go by vehicle\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine/cykla",
+			"seen": "{\"clue\":\"to cycle\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine/laggasig",
+			"seen": "{\"clue\":\"to go to bed\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "en/routine/somna",
+			"seen": "{\"clue\":\"to fall asleep\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/shopping",
 			"seen": "{\"title\":\"In the shop\",\"summary\":\"Buying clothes. Choose or type the word that fits the gap.\"}",
 			"verdict": "ok"
@@ -3907,6 +4627,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en-en/day-sentences/aker",
+			"seen": "{\"contrast\":\"English uses go or take for both; Swedish keeps gå (on foot) and åka (by vehicle) apart.\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en-en/days/tisdag",
 			"seen": "{\"contrast\":\"Like Tuesday, named after the god Tyr.\"}",
 			"verdict": "ok"
@@ -3950,6 +4675,11 @@
 			"key": "en-en/family/syster",
 			"seen": "{\"contrast\":\"Related to English sister.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en-en/flat/hyra",
+			"seen": "{\"contrast\":\"Related to English hire.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en-en/food/brod",
@@ -4030,6 +4760,11 @@
 			"key": "en-en/present/tala.pres",
 			"seen": "{\"contrast\":\"English adds -s only for he, she and it; Swedish has one form for all: talar.\"}",
 			"verdict": "ok"
+		},
+		{
+			"key": "en-en/pronouns/de.obj",
+			"seen": "{\"contrast\":\"Like they and them, but both are said /dɔm/.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en-en/signs/dra",

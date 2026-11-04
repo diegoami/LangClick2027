@@ -1,0 +1,32 @@
+{
+	"title": "Problems in the flat",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"lacker": {
+			"sentenceGloss": "The tap in the kitchen is leaking.",
+			"note": "läcka, to leak: läcker."
+		},
+		"kallt": {
+			"sentenceGloss": "The radiator is cold.",
+			"note": "ett element: -t."
+		},
+		"flytta": {
+			"sentenceGloss": "I want to move to a bigger flat."
+		},
+		"hyran": {
+			"sentenceGloss": "How much is the rent?",
+			"note": "en hyra, hyran."
+		},
+		"nyckel": {
+			"sentenceGloss": "I have lost my key."
+		},
+		"vaktmastaren": {
+			"sentenceGloss": "I am calling the caretaker.",
+			"note": "en vaktmästare, vaktmästaren."
+		},
+		"vaning": {
+			"sentenceGloss": "Which floor are you going to?",
+			"note": "vilken våning, which floor."
+		}
+	}
+}

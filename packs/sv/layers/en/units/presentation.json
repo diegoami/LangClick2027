@@ -1,0 +1,31 @@
+{
+	"title": "Presenting yourself",
+	"summary": "Questions, interests and pronouns. Choose or type the word that fits the gap.",
+	"cells": {
+		"av": {
+			"sentenceGloss": "I am interested in football.",
+			"note": "intresserad av, interested in."
+		},
+		"inte": {
+			"sentenceGloss": "I am not interested in politics.",
+			"note": "inte comes after the verb."
+		},
+		"var": {
+			"sentenceGloss": "Where do you live?"
+		},
+		"nar": {
+			"sentenceGloss": "When are you coming?"
+		},
+		"hur": {
+			"sentenceGloss": "How old are you?"
+		},
+		"honom": {
+			"sentenceGloss": "Do you know him?",
+			"note": "After the verb, han becomes honom."
+		},
+		"henne": {
+			"sentenceGloss": "I will call her this evening.",
+			"note": "After the verb, hon becomes henne."
+		}
+	}
+}

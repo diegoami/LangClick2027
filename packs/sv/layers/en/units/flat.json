@@ -1,0 +1,36 @@
+{
+	"title": "The flat",
+	"summary": "Renting, repairs and the laundry room. Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"hyra": {
+			"clue": "rent"
+		},
+		"vaktmastare": {
+			"clue": "caretaker"
+		},
+		"flytta": {
+			"clue": "to move house"
+		},
+		"annons": {
+			"clue": "advert"
+		},
+		"kran": {
+			"clue": "tap"
+		},
+		"element": {
+			"clue": "radiator"
+		},
+		"trasig": {
+			"clue": "broken"
+		},
+		"tvattmaskin": {
+			"clue": "washing machine"
+		},
+		"torktumlare": {
+			"clue": "tumble dryer"
+		},
+		"nyckel": {
+			"clue": "key"
+		}
+	}
+}

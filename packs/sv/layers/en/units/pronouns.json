@@ -1,0 +1,15 @@
+{
+	"title": "Pronouns: subject and object",
+	"summary": "The pronoun that does the action, and the one the action is done to. Find the form for each cell.",
+	"headers": {
+		"jag": "I, me",
+		"du": "you (one person)",
+		"han": "he, him",
+		"hon": "she, her",
+		"vi": "we, us",
+		"ni": "you (more than one)",
+		"de": "they, them",
+		"subj": "who does it",
+		"obj": "who it is done to"
+	}
+}
