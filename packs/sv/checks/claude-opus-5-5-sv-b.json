@@ -369,7 +369,7 @@
 		{
 			"key": "core/care/forkyld",
 			"seen": "{\"item\":\"word:förkyld\",\"text\":\"förkyld\",\"ipa\":\"/fœrˈɕyːld/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/care/sjukskriven",
@@ -434,37 +434,37 @@
 		{
 			"key": "core/clock/halv",
 			"seen": "{\"item\":\"sentence:clock:halv\",\"text\":\"halv\",\"sentence\":\"Det tar en och en ___ timme.\",\"concepts\":[\"five-to-half\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/clock/i",
 			"seen": "{\"item\":\"sentence:clock:i\",\"text\":\"i\",\"sentence\":\"Bussen går fem ___ halv fyra.\",\"concepts\":[\"five-to-half\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/clock/halvatta",
 			"seen": "{\"item\":\"sentence:clock:halvatta\",\"text\":\"halv\",\"sentence\":\"Filmen börjar fem över ___ åtta.\",\"concepts\":[\"five-to-half\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/clock/sedan",
 			"seen": "{\"item\":\"sentence:clock:sedan\",\"text\":\"sedan\",\"sentence\":\"Jag kom till Sverige för tre år ___.\",\"concepts\":[\"five-to-half\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/clock/arstid",
 			"seen": "{\"item\":\"sentence:clock:arstid\",\"text\":\"årstid\",\"sentence\":\"Vilken ___ tycker du bäst om?\",\"concepts\":[\"five-to-half\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/clock/natt",
 			"seen": "{\"item\":\"sentence:clock:natt\",\"text\":\"natt\",\"sentence\":\"Jag jobbar ___ den här veckan.\",\"concepts\":[\"five-to-half\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/clock/morgon",
 			"seen": "{\"item\":\"sentence:clock:morgon\",\"text\":\"morgon\",\"sentence\":\"Vi ses i ___!\",\"concepts\":[\"five-to-half\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/clothes/troja",
@@ -644,42 +644,42 @@
 		{
 			"key": "core/days-around/idag",
 			"seen": "{\"item\":\"word:i dag\",\"text\":\"i dag\",\"ipa\":\"/ɪ ˈdɑːɡ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days-around/igar",
 			"seen": "{\"item\":\"word:i går\",\"text\":\"i går\",\"ipa\":\"/ɪ ˈɡoːr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days-around/imorgon",
 			"seen": "{\"item\":\"word:i morgon\",\"text\":\"i morgon\",\"ipa\":\"/ɪ ˈmɔ̂rːɔn/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days-around/iforrgar",
-			"seen": "{\"item\":\"word:i förrgår\",\"text\":\"i förrgår\",\"ipa\":\"/ɪ ˈfœ̂rːˌɡoːr/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"seen": "{\"item\":\"word:i förrgår\",\"text\":\"i förrgår\",\"ipa\":\"/ɪ ˈfœ̌rɡoːr/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days-around/iovermorgon",
 			"seen": "{\"item\":\"word:i övermorgon\",\"text\":\"i övermorgon\",\"ipa\":\"/ɪ ˈø̂ːvɛrˌmɔrːɔn/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days-around/imorse",
 			"seen": "{\"item\":\"word:i morse\",\"text\":\"i morse\",\"ipa\":\"/ɪ ˈmɔ̂ʂːɛ/\",\"concepts\":[\"word-accent\",\"retroflex\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days-around/ikvall",
 			"seen": "{\"item\":\"word:i kväll\",\"text\":\"i kväll\",\"ipa\":\"/ɪ ˈkvɛlː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days-around/inatt",
 			"seen": "{\"item\":\"word:i natt\",\"text\":\"i natt\",\"ipa\":\"/ɪ ˈnatː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days/mandag",
@@ -1264,37 +1264,37 @@
 		{
 			"key": "core/holiday/akte",
 			"seen": "{\"item\":\"sentence:holiday:akte\",\"text\":\"åkte\",\"sentence\":\"I somras ___ vi till Grekland.\",\"concepts\":[\"this-last\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/holiday/aka",
 			"seen": "{\"item\":\"sentence:holiday:aka\",\"text\":\"åka\",\"sentence\":\"I sommar ska vi ___ till Norge.\",\"concepts\":[\"this-last\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/holiday/men",
 			"seen": "{\"item\":\"sentence:holiday:men\",\"text\":\"men\",\"sentence\":\"Det var varmt, ___ det regnade ibland.\",\"concepts\":[\"this-last\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/holiday/och",
 			"seen": "{\"item\":\"sentence:holiday:och\",\"text\":\"och\",\"sentence\":\"Vi badade ___ solade varje dag.\",\"concepts\":[\"this-last\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/holiday/bodde",
 			"seen": "{\"item\":\"sentence:holiday:bodde\",\"text\":\"bodde\",\"sentence\":\"Vi ___ i ett tält vid sjön.\",\"concepts\":[\"this-last\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/holiday/lag",
 			"seen": "{\"item\":\"sentence:holiday:lag\",\"text\":\"låg\",\"sentence\":\"Hotellet ___ nära stranden.\",\"concepts\":[\"this-last\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
-			"key": "core/holiday/var",
-			"seen": "{\"item\":\"sentence:holiday:var\",\"text\":\"var\",\"sentence\":\"Maten ___ jättegod.\",\"concepts\":[\"this-last\"]}",
-			"verdict": "pending"
+			"key": "core/holiday/at",
+			"seen": "{\"item\":\"sentence:holiday:at\",\"text\":\"åt\",\"sentence\":\"Vi ___ glass varje dag.\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/home-sentences/koket",
@@ -2519,12 +2519,12 @@
 		{
 			"key": "core/shopping-words/oppetkop",
 			"seen": "{\"item\":\"word:öppet köp\",\"text\":\"öppet köp\",\"ipa\":\"/ˈœ̂pːɛt ˈɕøːp/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/shopping-words/storlek",
 			"seen": "{\"item\":\"word:storlek\",\"text\":\"storlek\",\"ipa\":\"/ˈstûːˌɭeːk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/shopping/gron",
@@ -2914,87 +2914,87 @@
 		{
 			"key": "core/transport/tag",
 			"seen": "{\"item\":\"word:tåg\",\"text\":\"tåg\",\"ipa\":\"/toːɡ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/transport/flyg",
 			"seen": "{\"item\":\"word:flyg\",\"text\":\"flyg\",\"ipa\":\"/flyːɡ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/transport/flygplats",
 			"seen": "{\"item\":\"word:flygplats\",\"text\":\"flygplats\",\"ipa\":\"/ˈflŷːɡˌplats/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/transport/farja",
 			"seen": "{\"item\":\"word:färja\",\"text\":\"färja\",\"ipa\":\"/ˈfæ̂rja/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/transport/bat",
 			"seen": "{\"item\":\"word:båt\",\"text\":\"båt\",\"ipa\":\"/boːt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/transport/hamn",
 			"seen": "{\"item\":\"word:hamn\",\"text\":\"hamn\",\"ipa\":\"/hamn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/transport/biljett",
 			"seen": "{\"item\":\"word:biljett\",\"text\":\"biljett\",\"ipa\":\"/bɪlˈjɛtː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/transport/perrong",
 			"seen": "{\"item\":\"word:perrong\",\"text\":\"perrong\",\"ipa\":\"/pɛˈrɔŋː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/transport/sparvagn",
 			"seen": "{\"item\":\"word:spårvagn\",\"text\":\"spårvagn\",\"ipa\":\"/ˈspôːrˌvaŋn/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/transport/tunnelbana",
 			"seen": "{\"item\":\"word:tunnelbana\",\"text\":\"tunnelbana\",\"ipa\":\"/ˈtɵ̂nːɛlˌbɑːna/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/travel-sentences/den",
 			"seen": "{\"item\":\"sentence:travel-sentences:den\",\"text\":\"den\",\"sentence\":\"Biljetten? ___ ligger i väskan.\",\"concepts\":[\"den-det\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/travel-sentences/det",
 			"seen": "{\"item\":\"sentence:travel-sentences:det\",\"text\":\"det\",\"sentence\":\"Tåget? ___ går klockan tre.\",\"concepts\":[\"den-det\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/travel-sentences/taget",
 			"seen": "{\"item\":\"sentence:travel-sentences:taget\",\"text\":\"tåget\",\"sentence\":\"Vi väntar på ___.\",\"concepts\":[\"den-det\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/travel-sentences/flyget",
 			"seen": "{\"item\":\"sentence:travel-sentences:flyget\",\"text\":\"flyget\",\"sentence\":\"När landar ___?\",\"concepts\":[\"den-det\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/travel-sentences/hamnen",
 			"seen": "{\"item\":\"sentence:travel-sentences:hamnen\",\"text\":\"hamnen\",\"sentence\":\"Färjan går från ___.\",\"concepts\":[\"den-det\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/travel-sentences/lang",
 			"seen": "{\"item\":\"sentence:travel-sentences:lang\",\"text\":\"lång\",\"sentence\":\"Hur ___ tid tar det till Göteborg?\",\"concepts\":[\"den-det\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/travel-sentences/byta",
 			"seen": "{\"item\":\"sentence:travel-sentences:byta\",\"text\":\"byta\",\"sentence\":\"Måste jag ___ tåg i Stockholm?\",\"concepts\":[\"den-det\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/vowel-chart/i",
@@ -3094,37 +3094,37 @@
 		{
 			"key": "core/when/isommar",
 			"seen": "{\"item\":\"word:i sommar\",\"text\":\"i sommar\",\"ipa\":\"/ɪ ˈsɔ̂mːar/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/when/isomras",
-			"seen": "{\"item\":\"word:i somras\",\"text\":\"i somras\",\"ipa\":\"/ɪ ˈsɔ̂mːras/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"seen": "{\"item\":\"word:i somras\",\"text\":\"i somras\",\"ipa\":\"/ɪ ˈsɔ̂mras/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/when/ivinter",
-			"seen": "{\"item\":\"word:i vinter\",\"text\":\"i vinter\",\"ipa\":\"/ɪ ˈvɪ̂ntɛr/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"seen": "{\"item\":\"word:i vinter\",\"text\":\"i vinter\",\"ipa\":\"/ɪ ˈvɪ̌ntɛr/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/when/ivintras",
 			"seen": "{\"item\":\"word:i vintras\",\"text\":\"i vintras\",\"ipa\":\"/ɪ ˈvɪ̂ntras/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/when/nastavecka",
 			"seen": "{\"item\":\"word:nästa vecka\",\"text\":\"nästa vecka\",\"ipa\":\"/ˈnɛ̂sta ˈvɛ̂kːa/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/when/forraaret",
-			"seen": "{\"item\":\"word:förra året\",\"text\":\"förra året\",\"ipa\":\"/ˈfœ̂rːa ˈôːrɛt/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"seen": "{\"item\":\"word:förra året\",\"text\":\"förra året\",\"ipa\":\"/ˈfœ̂rːa ˈǒːrɛt/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/when/omenvecka",
 			"seen": "{\"item\":\"word:om en vecka\",\"text\":\"om en vecka\",\"ipa\":\"/ɔmː ɛn ˈvɛ̂kːa/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/work-life/jobb",
@@ -3244,7 +3244,7 @@
 		{
 			"key": "core/workplace/mote",
 			"seen": "{\"item\":\"word:möte\",\"text\":\"möte\",\"ipa\":\"/ˈmø̂ːtɛ/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/yesterday/vaknade",
@@ -3324,7 +3324,7 @@
 		{
 			"key": "de-en/clock/i",
 			"seen": "{\"contrast\":\"As in German fünf vor halb vier: 3.25.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/clothes/skor",
@@ -3349,12 +3349,12 @@
 		{
 			"key": "de-en/days-around/iovermorgon",
 			"seen": "{\"contrast\":\"Like German übermorgen.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/days-around/iforrgar",
 			"seen": "{\"contrast\":\"Like German vorgestern.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/days/mandag",
@@ -3584,17 +3584,17 @@
 		{
 			"key": "de-en/transport/hamn",
 			"seen": "{\"contrast\":\"Related to German Hafen.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/transport/bat",
 			"seen": "{\"contrast\":\"Related to German Boot.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/travel-sentences/den",
 			"seen": "{\"contrast\":\"Like German er, sie or es after a noun, but Swedish has only two choices.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/vowel-chart/y",
@@ -3654,7 +3654,7 @@
 		{
 			"key": "de-en/when/isomras",
 			"seen": "{\"contrast\":\"German says letzten Sommer; Swedish has a form of its own, i somras.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/work-sentences/trivs",
@@ -3804,17 +3804,17 @@
 		{
 			"key": "en/lesson/l22",
 			"seen": "\"Lesson 22: Getting there\"",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/lesson/l23",
 			"seen": "\"Lesson 23: On holiday\"",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/lesson/l24",
 			"seen": "\"Lesson 24: Time and dates\"",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/own-letters",
@@ -3959,17 +3959,17 @@
 		{
 			"key": "en/concept/den-det",
 			"seen": "{\"title\":\"It: den or det\",\"body\":\"\\\"It\\\" follows the gender of the noun it stands for: den for an en-word (biljetten, den), det for an ett-word (tåget, det). det is also the empty \\\"it\\\" of det regnar and det är kallt.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/this-last",
 			"seen": "{\"title\":\"i sommar and i somras\",\"body\":\"i sommar is this summer, now or coming; i somras is last summer. In the same way i vinter and i vintras, i våras, i höstas. The past tense goes with i somras, the present or ska with i sommar.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/five-to-half",
 			"seen": "{\"title\":\"Five to half past\",\"body\":\"Swedish counts the minutes near the half hour from halv: fem i halv fyra is 3.25, fem över halv fyra is 3.35. en och en halv is one and a half. In timetables the 24-hour clock is used: klockan femton och trettio.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/alphabet",
@@ -4234,42 +4234,42 @@
 		{
 			"key": "en/clock",
 			"seen": "{\"title\":\"The clock and the calendar\",\"summary\":\"Choose or type the word that fits the gap.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/clock/halv",
 			"seen": "{\"sentenceGloss\":\"It takes an hour and a half.\",\"note\":\"en och en halv timme.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/clock/i",
 			"seen": "{\"sentenceGloss\":\"The bus leaves at twenty-five past three.\",\"note\":\"fem i halv fyra: five before half past three.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/clock/halvatta",
 			"seen": "{\"sentenceGloss\":\"The film starts at twenty-five to eight.\",\"note\":\"fem över halv åtta: five after half past seven.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/clock/sedan",
 			"seen": "{\"sentenceGloss\":\"I came to Sweden three years ago.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/clock/arstid",
 			"seen": "{\"sentenceGloss\":\"Which season do you like best?\",\"note\":\"en årstid, a season.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/clock/natt",
 			"seen": "{\"sentenceGloss\":\"I am working nights this week.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/clock/morgon",
 			"seen": "{\"sentenceGloss\":\"See you tomorrow!\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/clothes",
@@ -4374,47 +4374,47 @@
 		{
 			"key": "en/days-around",
 			"seen": "{\"title\":\"Around today\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/days-around/idag",
 			"seen": "{\"clue\":\"today\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/days-around/igar",
 			"seen": "{\"clue\":\"yesterday\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/days-around/imorgon",
 			"seen": "{\"clue\":\"tomorrow\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/days-around/iforrgar",
 			"seen": "{\"clue\":\"the day before yesterday\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/days-around/iovermorgon",
 			"seen": "{\"clue\":\"the day after tomorrow\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/days-around/imorse",
 			"seen": "{\"clue\":\"this morning (past)\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/days-around/ikvall",
 			"seen": "{\"clue\":\"this evening\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/days-around/inatt",
 			"seen": "{\"clue\":\"tonight, last night\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/days",
@@ -5004,42 +5004,42 @@
 		{
 			"key": "en/holiday",
 			"seen": "{\"title\":\"On holiday\",\"summary\":\"Choose or type the word that fits the gap.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/holiday/akte",
 			"seen": "{\"sentenceGloss\":\"Last summer we went to Greece.\",\"note\":\"åka, åkte; after i somras the verb comes second.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/holiday/aka",
 			"seen": "{\"sentenceGloss\":\"This summer we are going to Norway.\",\"note\":\"ska + infinitive.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/holiday/men",
 			"seen": "{\"sentenceGloss\":\"It was warm, but it rained sometimes.\",\"note\":\"men, but.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/holiday/och",
 			"seen": "{\"sentenceGloss\":\"We swam and sunbathed every day.\",\"note\":\"och, and.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/holiday/bodde",
 			"seen": "{\"sentenceGloss\":\"We stayed in a tent by the lake.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/holiday/lag",
-			"seen": "{\"sentenceGloss\":\"The hotel was near the beach.\",\"note\":\"ligga, låg.\"}",
-			"verdict": "pending"
+			"seen": "{\"sentenceGloss\":\"The hotel lay near the beach.\",\"note\":\"ligga, låg: a building lies where it is.\"}",
+			"verdict": "ok"
 		},
 		{
-			"key": "en/holiday/var",
-			"seen": "{\"sentenceGloss\":\"The food was really good.\",\"note\":\"vara, var.\"}",
-			"verdict": "pending"
+			"key": "en/holiday/at",
+			"seen": "{\"sentenceGloss\":\"We ate ice cream every day.\",\"note\":\"äta, åt.\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "en/home-sentences",
@@ -6174,97 +6174,97 @@
 		{
 			"key": "en/transport",
 			"seen": "{\"title\":\"Getting there\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/transport/tag",
 			"seen": "{\"clue\":\"train\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/transport/flyg",
 			"seen": "{\"clue\":\"plane, flight\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/transport/flygplats",
 			"seen": "{\"clue\":\"airport\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/transport/farja",
 			"seen": "{\"clue\":\"ferry\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/transport/bat",
 			"seen": "{\"clue\":\"boat\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/transport/hamn",
 			"seen": "{\"clue\":\"harbour\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/transport/biljett",
 			"seen": "{\"clue\":\"ticket\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/transport/perrong",
 			"seen": "{\"clue\":\"platform\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/transport/sparvagn",
 			"seen": "{\"clue\":\"tram\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/transport/tunnelbana",
 			"seen": "{\"clue\":\"underground\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/travel-sentences",
 			"seen": "{\"title\":\"On the way\",\"summary\":\"Choose or type the word that fits the gap.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/travel-sentences/den",
 			"seen": "{\"sentenceGloss\":\"The ticket? It is in the bag.\",\"note\":\"en biljett: den.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/travel-sentences/det",
 			"seen": "{\"sentenceGloss\":\"The train? It leaves at three.\",\"note\":\"ett tåg: det.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/travel-sentences/taget",
 			"seen": "{\"sentenceGloss\":\"We are waiting for the train.\",\"note\":\"ett tåg, tåget.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/travel-sentences/flyget",
 			"seen": "{\"sentenceGloss\":\"When does the plane land?\",\"note\":\"ett flyg, flyget.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/travel-sentences/hamnen",
 			"seen": "{\"sentenceGloss\":\"The ferry leaves from the harbour.\",\"note\":\"en hamn, hamnen.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/travel-sentences/lang",
 			"seen": "{\"sentenceGloss\":\"How long does it take to Gothenburg?\",\"note\":\"hur lång tid, how long.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/travel-sentences/byta",
 			"seen": "{\"sentenceGloss\":\"Do I have to change trains in Stockholm?\",\"note\":\"byta tåg, to change trains.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/vowel-chart",
@@ -6349,42 +6349,42 @@
 		{
 			"key": "en/when",
 			"seen": "{\"title\":\"When\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/when/isommar",
 			"seen": "{\"clue\":\"this summer\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/when/isomras",
 			"seen": "{\"clue\":\"last summer\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/when/ivinter",
 			"seen": "{\"clue\":\"this winter\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/when/ivintras",
 			"seen": "{\"clue\":\"last winter\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/when/nastavecka",
 			"seen": "{\"clue\":\"next week\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/when/forraaret",
 			"seen": "{\"clue\":\"last year\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/when/omenvecka",
 			"seen": "{\"clue\":\"in a week's time\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/work-life",
@@ -6519,7 +6519,7 @@
 		{
 			"key": "en/workplace/mote",
 			"seen": "{\"clue\":\"meeting\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/yesterday",
@@ -6599,7 +6599,7 @@
 		{
 			"key": "en-en/clock/i",
 			"seen": "{\"contrast\":\"English has no such form: fem i halv fyra is twenty-five past three.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/clothes/skjorta",
@@ -6804,7 +6804,7 @@
 		{
 			"key": "en-en/travel-sentences/den",
 			"seen": "{\"contrast\":\"English it covers both; Swedish chooses den or det by the noun.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/vowel-chart/y",
@@ -6839,7 +6839,7 @@
 		{
 			"key": "en-en/when/isomras",
 			"seen": "{\"contrast\":\"English needs \\\"last summer\\\"; Swedish has a form of its own, i somras.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/workplace/chef",

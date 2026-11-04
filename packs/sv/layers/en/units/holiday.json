@@ -22,12 +22,12 @@
 			"sentenceGloss": "We stayed in a tent by the lake."
 		},
 		"lag": {
-			"sentenceGloss": "The hotel was near the beach.",
-			"note": "ligga, låg."
+			"sentenceGloss": "The hotel lay near the beach.",
+			"note": "ligga, låg: a building lies where it is."
 		},
-		"var": {
-			"sentenceGloss": "The food was really good.",
-			"note": "vara, var."
+		"at": {
+			"sentenceGloss": "We ate ice cream every day.",
+			"note": "äta, åt."
 		}
 	}
 }

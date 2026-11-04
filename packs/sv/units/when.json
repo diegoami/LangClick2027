@@ -31,14 +31,14 @@
 			"id": "isomras",
 			"item": "word:i somras",
 			"text": "i somras",
-			"ipa": "/ɪ ˈsɔ̂mːras/",
+			"ipa": "/ɪ ˈsɔ̂mras/",
 			"concepts": ["word-accent"]
 		},
 		{
 			"id": "ivinter",
 			"item": "word:i vinter",
 			"text": "i vinter",
-			"ipa": "/ɪ ˈvɪ̂ntɛr/",
+			"ipa": "/ɪ ˈvɪ̌ntɛr/",
 			"concepts": ["word-accent"]
 		},
 		{
@@ -59,7 +59,7 @@
 			"id": "forraaret",
 			"item": "word:förra året",
 			"text": "förra året",
-			"ipa": "/ˈfœ̂rːa ˈôːrɛt/",
+			"ipa": "/ˈfœ̂rːa ˈǒːrɛt/",
 			"concepts": ["word-accent"]
 		},
 		{

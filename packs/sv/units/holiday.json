@@ -63,11 +63,10 @@
 			"concepts": ["this-last"]
 		},
 		{
-			"id": "var",
-			"item": "sentence:holiday:var",
-			"text": "var",
-			"sentence": "Maten ___ jättegod.",
-			"concepts": ["this-last"]
+			"id": "at",
+			"item": "sentence:holiday:at",
+			"text": "åt",
+			"sentence": "Vi ___ glass varje dag."
 		}
 	]
 }
