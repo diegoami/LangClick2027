@@ -1,0 +1,144 @@
+{
+	"title": "The 46 basic hiragana",
+	"summary": "Find or type the Japanese form. Romanisation is a learning aid, not an accepted answer.",
+	"cells": {
+		"c01": {
+			"clue": "a — hiragana"
+		},
+		"c02": {
+			"clue": "i — hiragana"
+		},
+		"c03": {
+			"clue": "u — hiragana"
+		},
+		"c04": {
+			"clue": "e — hiragana"
+		},
+		"c05": {
+			"clue": "o — hiragana"
+		},
+		"c06": {
+			"clue": "ka — hiragana"
+		},
+		"c07": {
+			"clue": "ki — hiragana"
+		},
+		"c08": {
+			"clue": "ku — hiragana"
+		},
+		"c09": {
+			"clue": "ke — hiragana"
+		},
+		"c10": {
+			"clue": "ko — hiragana"
+		},
+		"c11": {
+			"clue": "sa — hiragana"
+		},
+		"c12": {
+			"clue": "shi — hiragana"
+		},
+		"c13": {
+			"clue": "su — hiragana"
+		},
+		"c14": {
+			"clue": "se — hiragana"
+		},
+		"c15": {
+			"clue": "so — hiragana"
+		},
+		"c16": {
+			"clue": "ta — hiragana"
+		},
+		"c17": {
+			"clue": "chi — hiragana"
+		},
+		"c18": {
+			"clue": "tsu — hiragana"
+		},
+		"c19": {
+			"clue": "te — hiragana"
+		},
+		"c20": {
+			"clue": "to — hiragana"
+		},
+		"c21": {
+			"clue": "na — hiragana"
+		},
+		"c22": {
+			"clue": "ni — hiragana"
+		},
+		"c23": {
+			"clue": "nu — hiragana"
+		},
+		"c24": {
+			"clue": "ne — hiragana"
+		},
+		"c25": {
+			"clue": "no — hiragana"
+		},
+		"c26": {
+			"clue": "ha — hiragana"
+		},
+		"c27": {
+			"clue": "hi — hiragana"
+		},
+		"c28": {
+			"clue": "fu — hiragana"
+		},
+		"c29": {
+			"clue": "he — hiragana"
+		},
+		"c30": {
+			"clue": "ho — hiragana"
+		},
+		"c31": {
+			"clue": "ma — hiragana"
+		},
+		"c32": {
+			"clue": "mi — hiragana"
+		},
+		"c33": {
+			"clue": "mu — hiragana"
+		},
+		"c34": {
+			"clue": "me — hiragana"
+		},
+		"c35": {
+			"clue": "mo — hiragana"
+		},
+		"c36": {
+			"clue": "ya — hiragana"
+		},
+		"c37": {
+			"clue": "yu — hiragana"
+		},
+		"c38": {
+			"clue": "yo — hiragana"
+		},
+		"c39": {
+			"clue": "ra — hiragana"
+		},
+		"c40": {
+			"clue": "ri — hiragana"
+		},
+		"c41": {
+			"clue": "ru — hiragana"
+		},
+		"c42": {
+			"clue": "re — hiragana"
+		},
+		"c43": {
+			"clue": "ro — hiragana"
+		},
+		"c44": {
+			"clue": "wa — hiragana"
+		},
+		"c45": {
+			"clue": "wo (particle, pronounced o) — hiragana"
+		},
+		"c46": {
+			"clue": "n (moraic nasal) — hiragana"
+		}
+	}
+}

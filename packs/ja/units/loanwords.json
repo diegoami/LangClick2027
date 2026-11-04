@@ -1,0 +1,76 @@
+{
+	"id": "loanwords",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese phonology: morae, consonants and vowels",
+			"url": "https://en.wikipedia.org/wiki/Japanese_phonology"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "loanwords:コーヒー",
+			"text": "コーヒー",
+			"ipa": "/koːçiː/",
+			"concepts": ["loanwords"]
+		},
+		{
+			"id": "c02",
+			"item": "loanwords:タクシー",
+			"text": "タクシー",
+			"ipa": "/takɯɕiː/",
+			"concepts": ["loanwords"]
+		},
+		{
+			"id": "c03",
+			"item": "loanwords:バス",
+			"text": "バス",
+			"ipa": "/basɯ/",
+			"concepts": ["loanwords"]
+		},
+		{
+			"id": "c04",
+			"item": "loanwords:パン",
+			"text": "パン",
+			"ipa": "/paɴ/",
+			"concepts": ["loanwords"]
+		},
+		{
+			"id": "c05",
+			"item": "loanwords:ホテル",
+			"text": "ホテル",
+			"ipa": "/hoteɾɯ/",
+			"concepts": ["loanwords"]
+		},
+		{
+			"id": "c06",
+			"item": "loanwords:テレビ",
+			"text": "テレビ",
+			"ipa": "/teɾebi/",
+			"concepts": ["loanwords"]
+		},
+		{
+			"id": "c07",
+			"item": "loanwords:カメラ",
+			"text": "カメラ",
+			"ipa": "/kameɾa/",
+			"concepts": ["loanwords"]
+		},
+		{
+			"id": "c08",
+			"item": "loanwords:スーパー",
+			"text": "スーパー",
+			"ipa": "/sɯːpaː/",
+			"concepts": ["loanwords"]
+		}
+	]
+}

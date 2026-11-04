@@ -1,0 +1,30 @@
+{
+	"title": "Polite noun sentences",
+	"summary": "Use the English meaning and the Japanese context. Type Japanese, preserving small kana and long vowels.",
+	"cells": {
+		"c01": {
+			"sentenceGloss": "As for me, I am a student.",
+			"note": "The topic particle is written は and pronounced /wa/."
+		},
+		"c02": {
+			"sentenceGloss": "I am an engineer.",
+			"note": "End a polite affirmative noun sentence with です."
+		},
+		"c03": {
+			"sentenceGloss": "What is your name?",
+			"note": "か marks a question."
+		},
+		"c04": {
+			"sentenceGloss": "I am not a teacher.",
+			"note": "Polite negative of a noun sentence."
+		},
+		"c05": {
+			"sentenceGloss": "My younger sister is a student too.",
+			"note": "も means also or too; the gloss distinguishes this from は."
+		},
+		"c06": {
+			"sentenceGloss": "This is my book.",
+			"note": "の links the possessor to the noun."
+		}
+	}
+}

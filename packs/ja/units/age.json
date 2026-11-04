@@ -1,0 +1,68 @@
+{
+	"id": "age",
+	"layout": {
+		"type": "sentences",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese grammar: particles and polite forms",
+			"url": "https://en.wikipedia.org/wiki/Japanese_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "sentence:age:c01",
+			"text": "いっさい",
+			"sentence": "子どもは___です。",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["一歳", "1歳"]
+		},
+		{
+			"id": "c02",
+			"item": "sentence:age:c02",
+			"text": "にさい",
+			"sentence": "妹は___です。",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["二歳", "2歳"]
+		},
+		{
+			"id": "c03",
+			"item": "sentence:age:c03",
+			"text": "さんさい",
+			"sentence": "弟は___です。",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["三歳", "3歳"]
+		},
+		{
+			"id": "c04",
+			"item": "sentence:age:c04",
+			"text": "ろくさい",
+			"sentence": "子どもは今___です。",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["六歳", "6歳"]
+		},
+		{
+			"id": "c05",
+			"item": "sentence:age:c05",
+			"text": "はっさい",
+			"sentence": "姉の子どもは___です。",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["八歳", "8歳"]
+		},
+		{
+			"id": "c06",
+			"item": "sentence:age:c06",
+			"text": "はたち",
+			"sentence": "わたしは___です。",
+			"concepts": ["numbers"],
+			"alsoAccepted": ["二十歳", "20歳", "にじゅっさい", "にじっさい"]
+		}
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"id": "ja",
+	"language": "ja",
+	"scripts": ["Hira", "Kana", "Hani", "Zyyy"],
+	"licence": "CC-BY-SA-4.0",
+	"formatVersion": 3,
+	"version": "0.1.0",
+	"comparisons": ["en"],
+	"explanations": ["en"],
+	"overlays": ["en-en"],
+	"sections": ["sounds", "starter"],
+	"lessons": [
+		{
+			"id": "l01",
+			"section": "sounds",
+			"units": ["hiragana", "mora-length"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio — writing and pronunciation support",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		{
+			"id": "l02",
+			"section": "sounds",
+			"units": ["katakana", "loanwords"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio — writing and pronunciation support",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		{
+			"id": "l03",
+			"section": "starter",
+			"units": ["greetings", "clarification"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio — lessons 1, 2",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		{
+			"id": "l04",
+			"section": "starter",
+			"units": ["introductions", "noun-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio — lessons 3",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		{
+			"id": "l05",
+			"section": "starter",
+			"units": ["origin-residence"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio — lessons 3, 4",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		},
+		{
+			"id": "l06",
+			"section": "starter",
+			"units": ["numbers", "age"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Japan Foundation: Irodori Starter (A1), study and audio — lessons 3, 4",
+					"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+				}
+			]
+		}
+	]
+}

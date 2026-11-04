@@ -1,0 +1,30 @@
+{
+	"title": "Everyday katakana words",
+	"summary": "Find or type the Japanese form. Romanisation is a learning aid, not an accepted answer.",
+	"cells": {
+		"c01": {
+			"clue": "coffee"
+		},
+		"c02": {
+			"clue": "taxi"
+		},
+		"c03": {
+			"clue": "bus"
+		},
+		"c04": {
+			"clue": "bread"
+		},
+		"c05": {
+			"clue": "hotel"
+		},
+		"c06": {
+			"clue": "television"
+		},
+		"c07": {
+			"clue": "camera"
+		},
+		"c08": {
+			"clue": "supermarket"
+		}
+	}
+}

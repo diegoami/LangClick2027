@@ -1,0 +1,36 @@
+{
+	"title": "Numbers one to ten",
+	"summary": "Find or type the Japanese form. Romanisation is a learning aid, not an accepted answer.",
+	"cells": {
+		"c01": {
+			"clue": "one"
+		},
+		"c02": {
+			"clue": "two"
+		},
+		"c03": {
+			"clue": "three"
+		},
+		"c04": {
+			"clue": "four"
+		},
+		"c05": {
+			"clue": "five"
+		},
+		"c06": {
+			"clue": "six"
+		},
+		"c07": {
+			"clue": "seven"
+		},
+		"c08": {
+			"clue": "eight"
+		},
+		"c09": {
+			"clue": "nine"
+		},
+		"c10": {
+			"clue": "ten"
+		}
+	}
+}

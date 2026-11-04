@@ -1,0 +1,84 @@
+{
+	"id": "introductions",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese phonology: morae, consonants and vowels",
+			"url": "https://en.wikipedia.org/wiki/Japanese_phonology"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "introductions:わたし",
+			"text": "わたし",
+			"ipa": "/wataɕi/",
+			"concepts": ["copula"],
+			"alsoAccepted": ["私"]
+		},
+		{
+			"id": "c02",
+			"item": "introductions:なまえ",
+			"text": "なまえ",
+			"ipa": "/namae/",
+			"concepts": ["copula"],
+			"alsoAccepted": ["名前"]
+		},
+		{
+			"id": "c03",
+			"item": "introductions:がくせい",
+			"text": "がくせい",
+			"ipa": "/ɡakɯseː/",
+			"concepts": ["copula"],
+			"alsoAccepted": ["学生"]
+		},
+		{
+			"id": "c04",
+			"item": "introductions:せんせい",
+			"text": "せんせい",
+			"ipa": "/senseː/",
+			"concepts": ["copula"],
+			"alsoAccepted": ["先生"]
+		},
+		{
+			"id": "c05",
+			"item": "introductions:にほん",
+			"text": "にほん",
+			"ipa": "/ɲihoɴ/",
+			"concepts": ["copula"],
+			"alsoAccepted": ["日本", "にっぽん"]
+		},
+		{
+			"id": "c06",
+			"item": "introductions:えいご",
+			"text": "えいご",
+			"ipa": "/eːɡo/",
+			"concepts": ["copula"],
+			"alsoAccepted": ["英語"]
+		},
+		{
+			"id": "c07",
+			"item": "introductions:にほんご",
+			"text": "にほんご",
+			"ipa": "/ɲihoŋɡo/",
+			"concepts": ["copula"],
+			"alsoAccepted": ["日本語"]
+		},
+		{
+			"id": "c08",
+			"item": "introductions:しごと",
+			"text": "しごと",
+			"ipa": "/ɕiɡoto/",
+			"concepts": ["copula"],
+			"alsoAccepted": ["仕事"]
+		}
+	]
+}

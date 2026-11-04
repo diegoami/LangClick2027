@@ -1,0 +1,38 @@
+{
+	"title": "Where you come from and live",
+	"summary": "Use the English meaning and the Japanese context. Type Japanese, preserving small kana and long vowels.",
+	"cells": {
+		"c01": {
+			"sentenceGloss": "I came from Brazil.",
+			"note": "から marks the point of origin."
+		},
+		"c02": {
+			"sentenceGloss": "I live in Tokyo.",
+			"note": "に marks the location with 住んでいます."
+		},
+		"c03": {
+			"sentenceGloss": "Where do you live?",
+			"note": "どこ asks where."
+		},
+		"c04": {
+			"sentenceGloss": "I live in Osaka.",
+			"note": "住んでいます is a polite way to state where one lives."
+		},
+		"c05": {
+			"sentenceGloss": "I came from Canada.",
+			"note": "来ました is read きました."
+		},
+		"c06": {
+			"sentenceGloss": "I live in Japan.",
+			"note": "日本: Japan."
+		},
+		"c07": {
+			"sentenceGloss": "I live with my family.",
+			"note": "と marks the person or people one lives with."
+		},
+		"c08": {
+			"sentenceGloss": "I am American.",
+			"note": "国名 + 人 gives a nationality; 人 is read じん here."
+		}
+	}
+}

@@ -189,6 +189,21 @@ symbols of Wikipedia's Help:IPA/Swedish:
   (station /staˈɧuːn/), and a compound marks its secondary stress with ˌ (dubbel-ve
   /ˈdɵ̂bːɛlˌveː/).
 
+## Japanese writing and transcription
+
+`ja` begins with writing foundations and original practice supporting Irodori
+Starter's first four lessons. `packs/ja/coverage/irodori-*.json` records that first
+batch; it does not stand in for the whole eighteen-lesson course. Explanations and
+comparison are initially English. Type Japanese; listed kana/kanji spellings are
+alternatives, while romanisation is only a reading aid.
+
+Broad standard-Tokyo segmental IPA marks vowel and consonant length. Kana such as
+し, ち and ふ use /ɕi/, /tɕi/ and /ɸɯ/. Isolated ん is written /ɴ/; its realisation
+varies with context. Long vowels have ː; a small っ occupies a mora and lengthens
+the following consonant. Transcriptions omit pitch accent and fine detail such as
+vowel devoicing. They do not replace native audio or describe every speaker.
+Written は in the topic particle and greetings is /wa/; particle を is /o/.
+
 ## Checks before anything ships
 
 `app/src/lib/packs.test.ts` runs these in the gates, for every pack:

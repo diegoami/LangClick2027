@@ -1,0 +1,63 @@
+{
+	"id": "noun-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 6
+	},
+	"sources": [
+		{
+			"title": "Japan Foundation: Irodori Starter (A1), study and audio",
+			"url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html"
+		},
+		{
+			"title": "Japanese grammar: particles and polite forms",
+			"url": "https://en.wikipedia.org/wiki/Japanese_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "c01",
+			"item": "sentence:noun-sentences:c01",
+			"text": "は",
+			"sentence": "わたし___学生です。",
+			"concepts": ["copula"]
+		},
+		{
+			"id": "c02",
+			"item": "sentence:noun-sentences:c02",
+			"text": "です",
+			"sentence": "わたしはエンジニア___。",
+			"concepts": ["copula"]
+		},
+		{
+			"id": "c03",
+			"item": "sentence:noun-sentences:c03",
+			"text": "か",
+			"sentence": "お名前は何です___。",
+			"concepts": ["copula"]
+		},
+		{
+			"id": "c04",
+			"item": "sentence:noun-sentences:c04",
+			"text": "ではありません",
+			"sentence": "わたしは先生___。",
+			"concepts": ["copula"],
+			"alsoAccepted": ["じゃありません", "ではないです", "じゃないです"]
+		},
+		{
+			"id": "c05",
+			"item": "sentence:noun-sentences:c05",
+			"text": "も",
+			"sentence": "妹___学生です。",
+			"concepts": ["copula"]
+		},
+		{
+			"id": "c06",
+			"item": "sentence:noun-sentences:c06",
+			"text": "の",
+			"sentence": "これはわたし___本です。",
+			"concepts": ["copula"]
+		}
+	]
+}

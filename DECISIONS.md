@@ -237,3 +237,22 @@ required; authoring is not a passing verdict. The owner subsequently instructed
 merging the material with checks pending for their own reviewers. This permits
 merging the authored work; it does not certify content or create a milestone.
 The last released milestone stays explicit in CHANGELOG under Unreleased.
+
+## Japanese begins with Irodori Starter (2026-11-04, #66)
+
+The owner requested Japanese alongside continued Swedish material and instructed
+merging authored work with checks left for their own reviewers. The first batch
+is six lessons: hiragana, katakana, greetings/clarification, introductions,
+residence, and numbers/age. Original exercises support the first four Irodori
+Starter lessons; source dialogues, illustrations and audio are linked rather
+than copied. Later themes and voiced/contracted kana tables remain future work.
+
+English is the initial explanation and comparison language. Answers use Japanese
+script, with listed kana/kanji alternatives. Romanisation is a reading aid, not an
+answer substitute. Broad segmental IPA supports reading and mora length; pitch
+accent is not claimed. No Japanese rule goes in the engine. Common-script
+characters are declared in the pack for ー and numeric age spellings.
+
+Independent checks are tracked in #67. Merging authored material does not create
+a release: v0.7.0 remains the last milestone and new content stays under
+Unreleased in CHANGELOG until the release process is explicitly invoked.

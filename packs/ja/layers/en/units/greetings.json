@@ -1,0 +1,30 @@
+{
+	"title": "Greetings for the situation",
+	"summary": "Find or type the Japanese form. Romanisation is a learning aid, not an accepted answer.",
+	"cells": {
+		"c01": {
+			"clue": "good morning — polite"
+		},
+		"c02": {
+			"clue": "good morning — casual"
+		},
+		"c03": {
+			"clue": "hello in the daytime"
+		},
+		"c04": {
+			"clue": "good evening"
+		},
+		"c05": {
+			"clue": "thank you — polite"
+		},
+		"c06": {
+			"clue": "excuse me; a polite apology"
+		},
+		"c07": {
+			"clue": "goodbye — a leave-taking expression, not the default for every parting"
+		},
+		"c08": {
+			"clue": "good night — polite"
+		}
+	}
+}

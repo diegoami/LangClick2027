@@ -1,0 +1,144 @@
+{
+	"title": "The 46 basic katakana",
+	"summary": "Find or type the Japanese form. Romanisation is a learning aid, not an accepted answer.",
+	"cells": {
+		"c01": {
+			"clue": "a — katakana"
+		},
+		"c02": {
+			"clue": "i — katakana"
+		},
+		"c03": {
+			"clue": "u — katakana"
+		},
+		"c04": {
+			"clue": "e — katakana"
+		},
+		"c05": {
+			"clue": "o — katakana"
+		},
+		"c06": {
+			"clue": "ka — katakana"
+		},
+		"c07": {
+			"clue": "ki — katakana"
+		},
+		"c08": {
+			"clue": "ku — katakana"
+		},
+		"c09": {
+			"clue": "ke — katakana"
+		},
+		"c10": {
+			"clue": "ko — katakana"
+		},
+		"c11": {
+			"clue": "sa — katakana"
+		},
+		"c12": {
+			"clue": "shi — katakana"
+		},
+		"c13": {
+			"clue": "su — katakana"
+		},
+		"c14": {
+			"clue": "se — katakana"
+		},
+		"c15": {
+			"clue": "so — katakana"
+		},
+		"c16": {
+			"clue": "ta — katakana"
+		},
+		"c17": {
+			"clue": "chi — katakana"
+		},
+		"c18": {
+			"clue": "tsu — katakana"
+		},
+		"c19": {
+			"clue": "te — katakana"
+		},
+		"c20": {
+			"clue": "to — katakana"
+		},
+		"c21": {
+			"clue": "na — katakana"
+		},
+		"c22": {
+			"clue": "ni — katakana"
+		},
+		"c23": {
+			"clue": "nu — katakana"
+		},
+		"c24": {
+			"clue": "ne — katakana"
+		},
+		"c25": {
+			"clue": "no — katakana"
+		},
+		"c26": {
+			"clue": "ha — katakana"
+		},
+		"c27": {
+			"clue": "hi — katakana"
+		},
+		"c28": {
+			"clue": "fu — katakana"
+		},
+		"c29": {
+			"clue": "he — katakana"
+		},
+		"c30": {
+			"clue": "ho — katakana"
+		},
+		"c31": {
+			"clue": "ma — katakana"
+		},
+		"c32": {
+			"clue": "mi — katakana"
+		},
+		"c33": {
+			"clue": "mu — katakana"
+		},
+		"c34": {
+			"clue": "me — katakana"
+		},
+		"c35": {
+			"clue": "mo — katakana"
+		},
+		"c36": {
+			"clue": "ya — katakana"
+		},
+		"c37": {
+			"clue": "yu — katakana"
+		},
+		"c38": {
+			"clue": "yo — katakana"
+		},
+		"c39": {
+			"clue": "ra — katakana"
+		},
+		"c40": {
+			"clue": "ri — katakana"
+		},
+		"c41": {
+			"clue": "ru — katakana"
+		},
+		"c42": {
+			"clue": "re — katakana"
+		},
+		"c43": {
+			"clue": "ro — katakana"
+		},
+		"c44": {
+			"clue": "wa — katakana"
+		},
+		"c45": {
+			"clue": "wo (particle, pronounced o) — katakana"
+		},
+		"c46": {
+			"clue": "n (moraic nasal) — katakana"
+		}
+	}
+}
