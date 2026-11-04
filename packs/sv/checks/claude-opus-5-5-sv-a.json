@@ -88,9 +88,8 @@
 		},
 		{
 			"key": "core/alphabet/r",
-			"seen": "{\"item\":\"letter:r\",\"text\":\"R r\",\"clue\":\"/æːr/\"}",
-			"verdict": "problem",
-			"comment": "The letter is named \"ärr\", with a short vowel and a long r: /ærː/ (Wikipedia, Swedish alphabet; sv.wiktionary gives r as a homophone of ärr). /æːr/ is the verb \"är\", not the letter name."
+			"seen": "{\"item\":\"letter:r\",\"text\":\"R r\",\"clue\":\"/ærː/\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/alphabet/s",
@@ -289,9 +288,8 @@
 		},
 		{
 			"key": "de-en/vowel-chart/y",
-			"seen": "{\"contrast\":\"Close to German ü in \\\"Tür\\\".\"}",
-			"verdict": "problem",
-			"comment": "Help:IPA/Swedish says Swedish protruded /yː/ sounds more like an i (English \"leave\") than German compressed ü, and that it is Swedish long u that sounds very close to German ü. \"Close to German ü\" invites the usual y/u confusion. Suggest: \"Same symbol as German ü in \\\"Tür\\\", but with the lips pushed forward; to German ears it sounds nearer i. Swedish u is the vowel closer to German ü.\""
+			"seen": "{\"contrast\":\"The same symbol as German ü in \\\"Tür\\\", but said with the lips pushed forward; to German ears it sounds nearer i. Swedish u is the vowel closer to German ü.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "de-en/vowel-chart/oe",
@@ -305,9 +303,8 @@
 		},
 		{
 			"key": "de-en/vowel-chart/u",
-			"seen": "{\"contrast\":\"Not German u: Swedish long u is central, between German ü and u.\"}",
-			"verdict": "problem",
-			"comment": "False for Central Standard Swedish. Engstrand (1990 p. 42) describes /ʉː/ as near-close near-front compressed [ʏː], and Help:IPA/Swedish says it sounds very close to German compressed ü in \"üben\". Telling a German speaker it lies between ü and u pushes it back, the wrong way. Suggest: \"Not German u: it sounds close to German ü in \\\"üben\\\", with the lips pressed together. Swedish y is the one with lips pushed forward.\""
+			"seen": "{\"contrast\":\"Not German u: it sounds close to German ü in \\\"üben\\\", with the lips pressed together. Swedish y is the one with the lips pushed forward.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "de-en/vowel-chart/o",
@@ -351,8 +348,8 @@
 		},
 		{
 			"key": "en/concept/word-accent",
-			"seen": "{\"title\":\"Two word accents\",\"body\":\"A word stressed on a syllable that another follows has one of two pitch patterns. Accent 1 is marked here with ̌ on the stressed vowel and accent 2 with ̂: anden /ˈǎnːdɛn/ \\\"the duck\\\", anden /ˈânːdɛn/ \\\"the spirit\\\". Most words of two syllables, and every compound, take accent 2. A word of one syllable has no contrast and no mark.\",\"sources\":[{\"title\":\"Engstrand (1990), Swedish, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100300004060\"},{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
-			"verdict": "ok"
+			"seen": "{\"title\":\"Two word accents\",\"body\":\"A word stressed on a syllable that another follows has one of two pitch patterns. Accent 1 is marked here with ̌ on the stressed vowel and accent 2 with ̂: anden /ˈǎndɛn/ \\\"the duck\\\", anden /ˈândɛn/ \\\"the spirit\\\". Most words of two syllables, and every compound, take accent 2. A word of one syllable has no contrast and no mark.\",\"sources\":[{\"title\":\"Engstrand (1990), Swedish, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100300004060\"},{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/alphabet",
@@ -461,9 +458,8 @@
 		},
 		{
 			"key": "en/vowel-chart/u",
-			"seen": "{\"note\":\"A close central vowel with pursed lips. Short u is /ɵ/: full.\"}",
-			"verdict": "problem",
-			"comment": "\"Pursed lips\" suggests lips pushed forward, which is the rounding of Swedish y. Long u is compressed: lips pressed together, not pushed forward (Engstrand 1990 p. 43; Help:IPA/Swedish; Swedish phonology). Engstrand also describes Central Standard Swedish /ʉː/ as near-close near-front [ʏː], not plain central. Suggest: \"A close vowel made far forward, with the lips pressed together rather than pushed out. Short u is /ɵ/: full.\""
+			"seen": "{\"note\":\"A close vowel made far forward, with the lips pressed together rather than pushed out; Engstrand (1990) places it near the front. Short u is /ɵ/: full.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/vowel-chart/ae",
@@ -497,9 +493,8 @@
 		},
 		{
 			"key": "en-en/vowel-chart/u",
-			"seen": "{\"contrast\":\"Not the vowel of \\\"rule\\\": the tongue is further forward and the lips are pursed.\"}",
-			"verdict": "problem",
-			"comment": "\"The lips are pursed\" points the learner to protruded lips, which turns it into Swedish y. Swedish long u is compressed: lips pressed together, not pushed forward (Engstrand 1990 p. 43; Help:IPA/Swedish). Suggest: \"Not the vowel of \\\"rule\\\": the tongue is much further forward and the lips are pressed together, not pushed out.\""
+			"seen": "{\"contrast\":\"Not the vowel of \\\"rule\\\": the tongue is much further forward, and the lips are pressed together, not pushed out.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en-en/vowel-chart/o",

@@ -88,9 +88,8 @@
 		},
 		{
 			"key": "core/alphabet/r",
-			"seen": "{\"item\":\"letter:r\",\"text\":\"R r\",\"clue\":\"/æːr/\"}",
-			"verdict": "problem",
-			"comment": "The letter name is \"ärr\", with a short vowel and a long r: /ærː/ (Wikipedia, Swedish alphabet, which lists /ærː/; the pack's own rule gives short vowel + long consonant). /æːr/ has a long vowel and a short r. It should be /ærː/."
+			"seen": "{\"item\":\"letter:r\",\"text\":\"R r\",\"clue\":\"/ærː/\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "core/alphabet/s",
@@ -289,8 +288,8 @@
 		},
 		{
 			"key": "de-en/vowel-chart/y",
-			"seen": "{\"contrast\":\"Close to German ü in \\\"Tür\\\".\"}",
-			"verdict": "ok"
+			"seen": "{\"contrast\":\"The same symbol as German ü in \\\"Tür\\\", but said with the lips pushed forward; to German ears it sounds nearer i. Swedish u is the vowel closer to German ü.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "de-en/vowel-chart/oe",
@@ -304,8 +303,8 @@
 		},
 		{
 			"key": "de-en/vowel-chart/u",
-			"seen": "{\"contrast\":\"Not German u: Swedish long u is central, between German ü and u.\"}",
-			"verdict": "ok"
+			"seen": "{\"contrast\":\"Not German u: it sounds close to German ü in \\\"üben\\\", with the lips pressed together. Swedish y is the one with the lips pushed forward.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "de-en/vowel-chart/o",
@@ -349,8 +348,8 @@
 		},
 		{
 			"key": "en/concept/word-accent",
-			"seen": "{\"title\":\"Two word accents\",\"body\":\"A word stressed on a syllable that another follows has one of two pitch patterns. Accent 1 is marked here with ̌ on the stressed vowel and accent 2 with ̂: anden /ˈǎnːdɛn/ \\\"the duck\\\", anden /ˈânːdɛn/ \\\"the spirit\\\". Most words of two syllables, and every compound, take accent 2. A word of one syllable has no contrast and no mark.\",\"sources\":[{\"title\":\"Engstrand (1990), Swedish, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100300004060\"},{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
-			"verdict": "ok"
+			"seen": "{\"title\":\"Two word accents\",\"body\":\"A word stressed on a syllable that another follows has one of two pitch patterns. Accent 1 is marked here with ̌ on the stressed vowel and accent 2 with ̂: anden /ˈǎndɛn/ \\\"the duck\\\", anden /ˈândɛn/ \\\"the spirit\\\". Most words of two syllables, and every compound, take accent 2. A word of one syllable has no contrast and no mark.\",\"sources\":[{\"title\":\"Engstrand (1990), Swedish, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100300004060\"},{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/alphabet",
@@ -459,8 +458,8 @@
 		},
 		{
 			"key": "en/vowel-chart/u",
-			"seen": "{\"note\":\"A close central vowel with pursed lips. Short u is /ɵ/: full.\"}",
-			"verdict": "ok"
+			"seen": "{\"note\":\"A close vowel made far forward, with the lips pressed together rather than pushed out; Engstrand (1990) places it near the front. Short u is /ɵ/: full.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en/vowel-chart/ae",
@@ -494,8 +493,8 @@
 		},
 		{
 			"key": "en-en/vowel-chart/u",
-			"seen": "{\"contrast\":\"Not the vowel of \\\"rule\\\": the tongue is further forward and the lips are pursed.\"}",
-			"verdict": "ok"
+			"seen": "{\"contrast\":\"Not the vowel of \\\"rule\\\": the tongue is much further forward, and the lips are pressed together, not pushed out.\"}",
+			"verdict": "pending"
 		},
 		{
 			"key": "en-en/vowel-chart/o",
