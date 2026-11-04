@@ -1,0 +1,36 @@
+{
+	"title": "Health care",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"vardcentral": {
+			"clue": "health centre"
+		},
+		"tandlakare": {
+			"clue": "dentist"
+		},
+		"recept": {
+			"clue": "prescription"
+		},
+		"forkyld": {
+			"clue": "having a cold"
+		},
+		"sjukskriven": {
+			"clue": "on sick leave"
+		},
+		"bruten": {
+			"clue": "broken (a bone)"
+		},
+		"bloder": {
+			"clue": "bleeds, is bleeding"
+		},
+		"yr": {
+			"clue": "dizzy"
+		},
+		"illamaende": {
+			"clue": "sick, nauseous"
+		},
+		"vark": {
+			"clue": "ache"
+		}
+	}
+}

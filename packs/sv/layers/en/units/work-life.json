@@ -1,0 +1,32 @@
+{
+	"title": "Working life",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"jobb": {
+			"sentenceGloss": "I am looking for work as a cook.",
+			"note": "söka jobb, to look for a job."
+		},
+		"chefen": {
+			"sentenceGloss": "Call the boss and say that you are ill.",
+			"note": "en chef, chefen."
+		},
+		"semester": {
+			"sentenceGloss": "I am on holiday in July.",
+			"note": "ha semester, to be on holiday from work."
+		},
+		"heltid": {
+			"sentenceGloss": "I work full time, forty hours a week."
+		},
+		"arbetade": {
+			"sentenceGloss": "In my home country I worked as a teacher.",
+			"note": "arbeta, arbetade; the verb comes second."
+		},
+		"henne": {
+			"sentenceGloss": "I will meet her at the meeting tomorrow."
+		},
+		"trivs": {
+			"sentenceGloss": "I get on well with my colleagues.",
+			"note": "trivas med, to get on with."
+		}
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"title": "At the doctor",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"sedan": {
+			"sentenceGloss": "It began two days ago.",
+			"note": "för … sedan, … ago."
+		},
+		"jo": {
+			"sentenceGloss": "Haven't you eaten? Yes, I ate this morning.",
+			"note": "jo answers yes to a question with inte."
+		},
+		"nej": {
+			"sentenceGloss": "Do you have a temperature? No, I do not."
+		},
+		"recept": {
+			"sentenceGloss": "The doctor writes a prescription.",
+			"note": "ett recept."
+		},
+		"tid": {
+			"sentenceGloss": "I would like to book an appointment with the dentist.",
+			"note": "en tid, an appointment."
+		},
+		"forkyld": {
+			"sentenceGloss": "I have a cold and a cough."
+		},
+		"sjukskriven": {
+			"sentenceGloss": "She is on sick leave for a week."
+		}
+	}
+}

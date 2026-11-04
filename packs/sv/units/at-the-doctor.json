@@ -1,0 +1,73 @@
+{
+	"id": "at-the-doctor",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "sedan",
+			"item": "sentence:at-the-doctor:sedan",
+			"text": "sedan",
+			"sentence": "Det började för två dagar ___.",
+			"concepts": ["ja-jo-nej"]
+		},
+		{
+			"id": "jo",
+			"item": "sentence:at-the-doctor:jo",
+			"text": "jo",
+			"sentence": "Har du inte ätit? ___, jag åt i morse.",
+			"concepts": ["ja-jo-nej"]
+		},
+		{
+			"id": "nej",
+			"item": "sentence:at-the-doctor:nej",
+			"text": "nej",
+			"sentence": "Har du feber? ___, det har jag inte.",
+			"concepts": ["ja-jo-nej"]
+		},
+		{
+			"id": "recept",
+			"item": "sentence:at-the-doctor:recept",
+			"text": "recept",
+			"sentence": "Läkaren skriver ett ___.",
+			"concepts": ["ja-jo-nej"]
+		},
+		{
+			"id": "tid",
+			"item": "sentence:at-the-doctor:tid",
+			"text": "tid",
+			"sentence": "Jag vill boka en ___ hos tandläkaren.",
+			"concepts": ["ja-jo-nej"]
+		},
+		{
+			"id": "forkyld",
+			"item": "sentence:at-the-doctor:forkyld",
+			"text": "förkyld",
+			"sentence": "Jag är ___ och hostar.",
+			"concepts": ["ja-jo-nej"]
+		},
+		{
+			"id": "sjukskriven",
+			"item": "sentence:at-the-doctor:sjukskriven",
+			"text": "sjukskriven",
+			"sentence": "Hon är ___ i en vecka.",
+			"concepts": ["ja-jo-nej"]
+		}
+	]
+}

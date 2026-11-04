@@ -226,6 +226,42 @@
 					"url": "https://www.hejsvenska.se/index2.html"
 				}
 			]
+		},
+		{
+			"id": "l19",
+			"section": "level2",
+			"units": ["care", "at-the-doctor"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 6: Vård",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l20",
+			"section": "level2",
+			"units": ["strong-verbs", "shopping-words", "shopping-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 7: Handla",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l21",
+			"section": "level2",
+			"units": ["workplace", "work-life"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 8: Arbete",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
 		}
 	]
 }

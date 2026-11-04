@@ -50,21 +50,21 @@
 			"id": "svarmor",
 			"item": "word:svärmor",
 			"text": "svärmor",
-			"ipa": "/ˈsvæ̂rˌmuːr/",
+			"ipa": "/ˈsvæ̂ːrˌmuːr/",
 			"concepts": ["word-accent"]
 		},
 		{
 			"id": "svarfar",
 			"item": "word:svärfar",
 			"text": "svärfar",
-			"ipa": "/ˈsvæ̂rˌfɑːr/",
+			"ipa": "/ˈsvæ̂ːrˌfɑːr/",
 			"concepts": ["word-accent"]
 		},
 		{
 			"id": "svager",
 			"item": "word:svåger",
 			"text": "svåger",
-			"ipa": "/ˈsvôːɡɛr/"
+			"ipa": "/ˈsvǒːɡɛr/"
 		},
 		{
 			"id": "svagerska",
@@ -84,7 +84,7 @@
 			"id": "brorson",
 			"item": "word:brorson",
 			"text": "brorson",
-			"ipa": "/ˈbrûːrˌsoːn/"
+			"ipa": "/ˈbrûːˌʂoːn/"
 		}
 	]
 }

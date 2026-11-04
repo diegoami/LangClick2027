@@ -1,0 +1,36 @@
+{
+	"title": "In the shop",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"pant": {
+			"clue": "deposit (on a bottle or can)"
+		},
+		"extrapris": {
+			"clue": "special offer"
+		},
+		"kvitto": {
+			"clue": "receipt"
+		},
+		"byta": {
+			"clue": "to exchange"
+		},
+		"pase": {
+			"clue": "carrier bag"
+		},
+		"korg": {
+			"clue": "basket"
+		},
+		"billig": {
+			"clue": "cheap"
+		},
+		"dyr": {
+			"clue": "expensive"
+		},
+		"oppetkop": {
+			"clue": "the right to return"
+		},
+		"storlek": {
+			"clue": "size"
+		}
+	}
+}

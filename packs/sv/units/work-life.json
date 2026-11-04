@@ -1,0 +1,66 @@
+{
+	"id": "work-life",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "jobb",
+			"item": "sentence:work-life:jobb",
+			"text": "jobb",
+			"sentence": "Jag söker ___ som kock."
+		},
+		{
+			"id": "chefen",
+			"item": "sentence:work-life:chefen",
+			"text": "chefen",
+			"sentence": "Ring ___ och säg att du är sjuk."
+		},
+		{
+			"id": "semester",
+			"item": "sentence:work-life:semester",
+			"text": "semester",
+			"sentence": "Jag har ___ i juli."
+		},
+		{
+			"id": "heltid",
+			"item": "sentence:work-life:heltid",
+			"text": "heltid",
+			"sentence": "Jag arbetar ___, fyrtio timmar i veckan."
+		},
+		{
+			"id": "arbetade",
+			"item": "sentence:work-life:arbetade",
+			"text": "arbetade",
+			"sentence": "I mitt hemland ___ jag som lärare."
+		},
+		{
+			"id": "henne",
+			"item": "sentence:work-life:henne",
+			"text": "henne",
+			"sentence": "Jag träffar ___ på mötet i morgon."
+		},
+		{
+			"id": "trivs",
+			"item": "sentence:work-life:trivs",
+			"text": "trivs",
+			"sentence": "Jag ___ bra med mina kollegor."
+		}
+	]
+}

@@ -67,6 +67,15 @@
 		},
 		"l18": {
 			"title": "Lesson 18: Free time"
+		},
+		"l19": {
+			"title": "Lesson 19: Health care"
+		},
+		"l20": {
+			"title": "Lesson 20: Shopping"
+		},
+		"l21": {
+			"title": "Lesson 21: Working life"
 		}
 	},
 	"concepts": {
@@ -364,7 +373,7 @@
 		},
 		"past-tense": {
 			"title": "The past tense",
-			"body": "Regular verbs make the past with -ade, -de, -te or -dde. Verbs whose present ends in -ar take -ade: vaknar, vaknade. Most verbs in -er take -de, or -te after a voiceless consonant: ringer, ringde; läser, läste. Short verbs ending in a vowel take -dde: bor, bodde. The past has one form for every person. The verb always comes second: I går vaknade jag.",
+			"body": "Regular verbs make the past with -ade, -de, -te or -dde. Verbs whose present ends in -ar take -ade: vaknar, vaknade. Most verbs in -er take -de, or -te after a voiceless consonant: ringer, ringde; läser, läste. Short verbs ending in a vowel take -dde: bor, bodde. The past has one form for every person. In a statement the verb comes second: I går vaknade jag.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
@@ -393,6 +402,48 @@
 		"future": {
 			"title": "What will happen",
 			"body": "ska with an infinitive says what someone plans: jag ska spela. kommer att with an infinitive says what will happen: det kommer att regna. The present tense with a time word is common too: i morgon spelar jag. på lördag is this coming Saturday; på lördagar is every Saturday.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"ja-jo-nej": {
+			"title": "Yes, no, and jo",
+			"body": "ja answers yes to an ordinary question, nej answers no. jo answers yes to a question with inte, where English would say \"yes, I have\": Har du inte ätit? Jo. For time gone by, för … sedan means … ago: för två dagar sedan.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"strong-verbs": {
+			"title": "Verbs that change their vowel",
+			"body": "Strong verbs make the past by changing the vowel, with no ending: äter, åt; dricker, drack; skriver, skrev. A few are irregular: gå, gick; göra, gjorde. Learn them as a set; the commonest verbs are strong.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"definite-adjective": {
+			"title": "\"The red jumper\"",
+			"body": "With den, det or de before it, an adjective takes -a and the noun keeps its definite ending: den röda tröjan, det röda huset, de röda skorna. Swedish marks \"the\" twice here.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",

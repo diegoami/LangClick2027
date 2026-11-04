@@ -1,0 +1,206 @@
+{
+	"id": "strong-verbs",
+	"layout": {
+		"type": "table",
+		"rows": ["ata", "dricka", "skriva", "ga", "komma", "se", "ta", "ge", "sova", "gora"],
+		"columns": ["pres", "past"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "ata.pres",
+			"item": "form:strong-verbs:ata.pres",
+			"text": "äter",
+			"ipa": "/ˈɛ̌ːtɛr/",
+			"row": "ata",
+			"col": "pres",
+			"concepts": ["strong-verbs", "word-accent"]
+		},
+		{
+			"id": "ata.past",
+			"item": "form:strong-verbs:ata.past",
+			"text": "åt",
+			"ipa": "/oːt/",
+			"row": "ata",
+			"col": "past",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "dricka.pres",
+			"item": "form:strong-verbs:dricka.pres",
+			"text": "dricker",
+			"ipa": "/ˈdrɪ̌kːɛr/",
+			"row": "dricka",
+			"col": "pres",
+			"concepts": ["strong-verbs", "word-accent"]
+		},
+		{
+			"id": "dricka.past",
+			"item": "form:strong-verbs:dricka.past",
+			"text": "drack",
+			"ipa": "/drakː/",
+			"row": "dricka",
+			"col": "past",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "skriva.pres",
+			"item": "form:strong-verbs:skriva.pres",
+			"text": "skriver",
+			"ipa": "/ˈskrǐːvɛr/",
+			"row": "skriva",
+			"col": "pres",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "skriva.past",
+			"item": "form:strong-verbs:skriva.past",
+			"text": "skrev",
+			"ipa": "/skreːv/",
+			"row": "skriva",
+			"col": "past",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "ga.pres",
+			"item": "form:strong-verbs:ga.pres",
+			"text": "går",
+			"ipa": "/ɡoːr/",
+			"row": "ga",
+			"col": "pres",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "ga.past",
+			"item": "form:strong-verbs:ga.past",
+			"text": "gick",
+			"ipa": "/jɪkː/",
+			"row": "ga",
+			"col": "past",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "komma.pres",
+			"item": "form:strong-verbs:komma.pres",
+			"text": "kommer",
+			"ipa": "/ˈkɔ̌mːɛr/",
+			"row": "komma",
+			"col": "pres",
+			"concepts": ["strong-verbs", "word-accent"]
+		},
+		{
+			"id": "komma.past",
+			"item": "form:strong-verbs:komma.past",
+			"text": "kom",
+			"ipa": "/kɔmː/",
+			"row": "komma",
+			"col": "past",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "se.pres",
+			"item": "form:strong-verbs:se.pres",
+			"text": "ser",
+			"ipa": "/seːr/",
+			"row": "se",
+			"col": "pres",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "se.past",
+			"item": "form:strong-verbs:se.past",
+			"text": "såg",
+			"ipa": "/soːɡ/",
+			"row": "se",
+			"col": "past",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "ta.pres",
+			"item": "form:strong-verbs:ta.pres",
+			"text": "tar",
+			"ipa": "/tɑːr/",
+			"row": "ta",
+			"col": "pres",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "ta.past",
+			"item": "form:strong-verbs:ta.past",
+			"text": "tog",
+			"ipa": "/tuːɡ/",
+			"row": "ta",
+			"col": "past",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "ge.pres",
+			"item": "form:strong-verbs:ge.pres",
+			"text": "ger",
+			"ipa": "/jeːr/",
+			"row": "ge",
+			"col": "pres",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "ge.past",
+			"item": "form:strong-verbs:ge.past",
+			"text": "gav",
+			"ipa": "/ɡɑːv/",
+			"row": "ge",
+			"col": "past",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "sova.pres",
+			"item": "form:strong-verbs:sova.pres",
+			"text": "sover",
+			"ipa": "/ˈsǒːvɛr/",
+			"row": "sova",
+			"col": "pres",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "sova.past",
+			"item": "form:strong-verbs:sova.past",
+			"text": "sov",
+			"ipa": "/soːv/",
+			"row": "sova",
+			"col": "past",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "gora.pres",
+			"item": "form:strong-verbs:gora.pres",
+			"text": "gör",
+			"ipa": "/jœːr/",
+			"row": "gora",
+			"col": "pres",
+			"concepts": ["strong-verbs"]
+		},
+		{
+			"id": "gora.past",
+			"item": "form:strong-verbs:gora.past",
+			"text": "gjorde",
+			"ipa": "/ˈjûːɖɛ/",
+			"row": "gora",
+			"col": "past",
+			"concepts": ["strong-verbs", "retroflex"]
+		}
+	]
+}

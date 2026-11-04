@@ -1,0 +1,36 @@
+{
+	"title": "At work",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"chef": {
+			"clue": "boss, manager"
+		},
+		"kollega": {
+			"clue": "colleague"
+		},
+		"lon": {
+			"clue": "pay, salary"
+		},
+		"ansokan": {
+			"clue": "application"
+		},
+		"intervju": {
+			"clue": "interview"
+		},
+		"semester": {
+			"clue": "holiday (from work)"
+		},
+		"schema": {
+			"clue": "rota, timetable"
+		},
+		"heltid": {
+			"clue": "full time"
+		},
+		"deltid": {
+			"clue": "part time"
+		},
+		"arbetsplats": {
+			"clue": "workplace"
+		}
+	}
+}
