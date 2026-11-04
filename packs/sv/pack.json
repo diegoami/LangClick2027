@@ -8,7 +8,7 @@
 	"comparisons": ["de", "en"],
 	"explanations": ["en"],
 	"overlays": ["de-en", "en-en"],
-	"sections": ["sounds"],
+	"sections": ["sounds", "basics"],
 	"keyboard": ["qwertyuiopå", "asdfghjklöä", "zxcvbnm"],
 	"lessons": [
 		{
@@ -19,6 +19,18 @@
 				{
 					"kind": "tasks",
 					"title": "Hej svenska 1, tema 3: Bas (alfabetet, vokaler, konsonanter)",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l02",
+			"section": "basics",
+			"units": ["numbers", "tens"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 3: Bas (tal 0–19, tiotal, hundra, tusen)",
 					"url": "https://www.hejsvenska.se/index1.html"
 				}
 			]

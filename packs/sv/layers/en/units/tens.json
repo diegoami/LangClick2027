@@ -1,0 +1,15 @@
+{
+	"title": "Tens, a hundred, a thousand",
+	"summary": "Each tile gives a number; find the word.",
+	"cells": {
+		"n30": {
+			"note": "Usually said /ˈtrɛ̂tːɪ/: the tens drop their last vowel."
+		},
+		"n100": {
+			"note": "Also etthundra, a hundred."
+		},
+		"n1000": {
+			"note": "Also ettusen, a thousand."
+		}
+	}
+}
