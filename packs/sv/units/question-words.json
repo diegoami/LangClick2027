@@ -1,0 +1,74 @@
+{
+	"id": "question-words",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "vad",
+			"item": "word:vad",
+			"text": "vad",
+			"ipa": "/vɑːd/"
+		},
+		{
+			"id": "vem",
+			"item": "word:vem",
+			"text": "vem",
+			"ipa": "/vɛmː/"
+		},
+		{
+			"id": "var",
+			"item": "word:var",
+			"text": "var",
+			"ipa": "/vɑːr/"
+		},
+		{
+			"id": "vart",
+			"item": "word:vart",
+			"text": "vart",
+			"ipa": "/vaʈː/",
+			"concepts": ["retroflex"]
+		},
+		{
+			"id": "nar",
+			"item": "word:när",
+			"text": "när",
+			"ipa": "/næːr/"
+		},
+		{
+			"id": "hur",
+			"item": "word:hur",
+			"text": "hur",
+			"ipa": "/hʉːr/"
+		},
+		{
+			"id": "varfor",
+			"item": "word:varför",
+			"text": "varför",
+			"ipa": "/ˈvǎrfœr/"
+		},
+		{
+			"id": "vilken",
+			"item": "word:vilken",
+			"text": "vilken",
+			"ipa": "/ˈvɪ̌lkɛn/",
+			"concepts": ["word-accent"]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"title": "The wider family",
+	"summary": "Each tile gives the relation; find the Swedish.",
+	"cells": {
+		"moster": {
+			"clue": "aunt (mother's sister)"
+		},
+		"faster": {
+			"clue": "aunt (father's sister)"
+		},
+		"morbror": {
+			"clue": "uncle (mother's brother)"
+		},
+		"farbror": {
+			"clue": "uncle (father's brother)"
+		},
+		"svarmor": {
+			"clue": "mother-in-law"
+		},
+		"svarfar": {
+			"clue": "father-in-law"
+		},
+		"svager": {
+			"clue": "brother-in-law"
+		},
+		"svagerska": {
+			"clue": "sister-in-law"
+		},
+		"barnbarn": {
+			"clue": "grandchild"
+		},
+		"brorson": {
+			"clue": "nephew (brother's son)"
+		}
+	}
+}

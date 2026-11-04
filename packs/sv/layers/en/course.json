@@ -8,6 +8,9 @@
 		},
 		"themes": {
 			"title": "Themes"
+		},
+		"level2": {
+			"title": "Level 2"
 		}
 	},
 	"lessons": {
@@ -46,6 +49,42 @@
 		},
 		"l12": {
 			"title": "Lesson 12: My town"
+		},
+		"l13": {
+			"title": "Lesson 13: Presenting yourself"
+		},
+		"l14": {
+			"title": "Lesson 14: Living in a flat"
+		},
+		"l15": {
+			"title": "Lesson 15: My day"
+		},
+		"l16": {
+			"title": "Lesson 16: What I did"
+		},
+		"l17": {
+			"title": "Lesson 17: The wider family"
+		},
+		"l18": {
+			"title": "Lesson 18: Free time"
+		},
+		"l19": {
+			"title": "Lesson 19: Health care"
+		},
+		"l20": {
+			"title": "Lesson 20: Shopping"
+		},
+		"l21": {
+			"title": "Lesson 21: Working life"
+		},
+		"l22": {
+			"title": "Lesson 22: Getting there"
+		},
+		"l23": {
+			"title": "Lesson 23: On holiday"
+		},
+		"l24": {
+			"title": "Lesson 24: Time and dates"
 		}
 	},
 	"concepts": {
@@ -288,6 +327,174 @@
 		"directions": {
 			"title": "Where things are",
 			"body": "till vänster and till höger are to the left and to the right, and rakt fram is straight on. A building or a town ligger, lies, where it is: Var ligger banken? Prepositions of place: bredvid (next to), mellan (between), framför (in front of), bakom (behind).",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"object-pronouns": {
+			"title": "Pronouns after the verb",
+			"body": "A pronoun that the action is done to takes its object form: jag ser honom, hon ringer mig. On their own, mig and dig are said /mɛjː/ and /dɛjː/. de and dem are both usually said /dɔmː/ (in careful speech /deː/ and /dɛmː/), so only the spelling tells them apart.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"reflexive": {
+			"title": "Doing it to yourself",
+			"body": "Some verbs take a pronoun for the person who does them: jag tvättar mig, du klär på dig. For han, hon, den, det and de the pronoun is sig. In a particle verb such as klä på sig or stiga upp, the stress falls on the particle: klär på mig.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"ga-aka-kora": {
+			"title": "Going: gå, åka, köra",
+			"body": "gå is to go on foot. åka is to travel by vehicle, as a passenger or in general: åka buss, åka tåg. köra is to drive the vehicle yourself.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"past-tense": {
+			"title": "The past tense",
+			"body": "Regular verbs make the past with -ade, -de, -te or -dde. Verbs whose present ends in -ar take -ade: vaknar, vaknade. Most verbs in -er take -de, or -te after a voiceless consonant: ringer, ringde; läser, läste. Short verbs ending in a vowel take -dde: bor, bodde. The past has one form for every person. In a statement the verb comes second: I går vaknade jag.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"genitive": {
+			"title": "Whose: -s, and mor or far",
+			"body": "The genitive adds -s with no apostrophe: Eriks cykel, mammas syster. A noun after a genitive takes no definite ending: pappas bil, not pappas bilen. Relatives are named by side: moster and morbror on the mother's side, faster and farbror on the father's.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"future": {
+			"title": "What will happen",
+			"body": "ska with an infinitive says what someone plans: jag ska spela. kommer att with an infinitive says what will happen: det kommer att regna. The present tense with a time word is common too: i morgon spelar jag. på lördag is this coming Saturday; på lördagar is every Saturday.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"ja-jo-nej": {
+			"title": "Yes, no, and jo",
+			"body": "ja answers yes to an ordinary question, nej answers no. jo answers yes to a question with inte, where English would say \"yes, I have\": Har du inte ätit? Jo. For time gone by, för … sedan means … ago: för två dagar sedan.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"strong-verbs": {
+			"title": "Verbs that change their vowel",
+			"body": "Strong verbs make the past by changing the vowel, with no ending: äter, åt; dricker, drack; skriver, skrev. A few are irregular: gå, gick; göra, gjorde. Learn them as a set; the commonest verbs are strong.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"definite-adjective": {
+			"title": "\"The red jumper\"",
+			"body": "With den, det or de before it, an adjective takes -a and the noun keeps its definite ending: den röda tröjan, det röda huset, de röda skorna. Swedish marks \"the\" twice here.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"den-det": {
+			"title": "It: den or det",
+			"body": "\"It\" follows the gender of the noun it stands for: den for an en-word (biljetten, den), det for an ett-word (tåget, det). det is also the empty \"it\" of det regnar and det är kallt.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"this-last": {
+			"title": "i sommar and i somras",
+			"body": "i sommar is this summer, now or coming; i somras is last summer. In the same way i vinter and i vintras, i våras, i höstas. The past tense goes with i somras, the present or ska with i sommar.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"five-to-half": {
+			"title": "Five to half past",
+			"body": "Swedish counts the minutes near the half hour from halv: fem i halv fyra is 3.25, fem över halv fyra is 3.35. en och en halv is one and a half. In timetables the 24-hour clock is used: klockan femton och trettio.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",

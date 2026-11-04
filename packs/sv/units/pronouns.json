@@ -1,0 +1,152 @@
+{
+	"id": "pronouns",
+	"layout": {
+		"type": "table",
+		"rows": ["jag", "du", "han", "hon", "vi", "ni", "de"],
+		"columns": ["subj", "obj"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "jag.subj",
+			"item": "form:pronouns:jag.subj",
+			"text": "jag",
+			"ipa": "/jɑːɡ/",
+			"row": "jag",
+			"col": "subj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "jag.obj",
+			"item": "form:pronouns:jag.obj",
+			"text": "mig",
+			"ipa": "/mɛjː/",
+			"row": "jag",
+			"col": "obj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "du.subj",
+			"item": "form:pronouns:du.subj",
+			"text": "du",
+			"ipa": "/dʉː/",
+			"row": "du",
+			"col": "subj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "du.obj",
+			"item": "form:pronouns:du.obj",
+			"text": "dig",
+			"ipa": "/dɛjː/",
+			"row": "du",
+			"col": "obj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "han.subj",
+			"item": "form:pronouns:han.subj",
+			"text": "han",
+			"ipa": "/hanː/",
+			"row": "han",
+			"col": "subj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "han.obj",
+			"item": "form:pronouns:han.obj",
+			"text": "honom",
+			"ipa": "/ˈhɔ̂nːɔm/",
+			"row": "han",
+			"col": "obj",
+			"concepts": ["object-pronouns", "word-accent"]
+		},
+		{
+			"id": "hon.subj",
+			"item": "form:pronouns:hon.subj",
+			"text": "hon",
+			"ipa": "/hʊnː/",
+			"row": "hon",
+			"col": "subj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "hon.obj",
+			"item": "form:pronouns:hon.obj",
+			"text": "henne",
+			"ipa": "/ˈhɛ̂nːɛ/",
+			"row": "hon",
+			"col": "obj",
+			"concepts": ["object-pronouns", "word-accent"]
+		},
+		{
+			"id": "vi.subj",
+			"item": "form:pronouns:vi.subj",
+			"text": "vi",
+			"ipa": "/viː/",
+			"row": "vi",
+			"col": "subj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "vi.obj",
+			"item": "form:pronouns:vi.obj",
+			"text": "oss",
+			"ipa": "/ɔsː/",
+			"row": "vi",
+			"col": "obj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "ni.subj",
+			"item": "form:pronouns:ni.subj",
+			"text": "ni",
+			"ipa": "/niː/",
+			"row": "ni",
+			"col": "subj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "ni.obj",
+			"item": "form:pronouns:ni.obj",
+			"text": "er",
+			"ipa": "/eːr/",
+			"row": "ni",
+			"col": "obj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "de.subj",
+			"item": "form:pronouns:de.subj",
+			"text": "de",
+			"ipa": "/dɔmː/",
+			"row": "de",
+			"col": "subj",
+			"concepts": ["object-pronouns"]
+		},
+		{
+			"id": "de.obj",
+			"item": "form:pronouns:de.obj",
+			"text": "dem",
+			"ipa": "/dɔmː/",
+			"row": "de",
+			"col": "obj",
+			"concepts": ["object-pronouns"]
+		}
+	]
+}

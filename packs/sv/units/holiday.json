@@ -1,0 +1,72 @@
+{
+	"id": "holiday",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "akte",
+			"item": "sentence:holiday:akte",
+			"text": "åkte",
+			"sentence": "I somras ___ vi till Grekland.",
+			"concepts": ["this-last"]
+		},
+		{
+			"id": "aka",
+			"item": "sentence:holiday:aka",
+			"text": "åka",
+			"sentence": "I sommar ska vi ___ till Norge.",
+			"concepts": ["this-last"]
+		},
+		{
+			"id": "men",
+			"item": "sentence:holiday:men",
+			"text": "men",
+			"sentence": "Det var varmt, ___ det regnade ibland.",
+			"concepts": ["this-last"]
+		},
+		{
+			"id": "och",
+			"item": "sentence:holiday:och",
+			"text": "och",
+			"sentence": "Vi badade ___ solade varje dag.",
+			"concepts": ["this-last"]
+		},
+		{
+			"id": "bodde",
+			"item": "sentence:holiday:bodde",
+			"text": "bodde",
+			"sentence": "Vi ___ i ett tält vid sjön.",
+			"concepts": ["this-last"]
+		},
+		{
+			"id": "lag",
+			"item": "sentence:holiday:lag",
+			"text": "låg",
+			"sentence": "Hotellet ___ nära stranden.",
+			"concepts": ["this-last"]
+		},
+		{
+			"id": "at",
+			"item": "sentence:holiday:at",
+			"text": "åt",
+			"sentence": "Vi ___ glass varje dag."
+		}
+	]
+}

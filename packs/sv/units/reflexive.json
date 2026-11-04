@@ -1,0 +1,134 @@
+{
+	"id": "reflexive",
+	"layout": {
+		"type": "table",
+		"rows": ["jag", "du", "hanhon", "vi", "ni", "de"],
+		"columns": ["tvatta", "kla"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "jag.tvatta",
+			"item": "form:reflexive:jag.tvatta",
+			"text": "tvättar mig",
+			"ipa": "/ˈtvɛ̂tːar mɛj/",
+			"row": "jag",
+			"col": "tvatta",
+			"concepts": ["reflexive", "word-accent"]
+		},
+		{
+			"id": "jag.kla",
+			"item": "form:reflexive:jag.kla",
+			"text": "klär på mig",
+			"ipa": "/klæːr ˈpoː mɛj/",
+			"row": "jag",
+			"col": "kla",
+			"concepts": ["reflexive"]
+		},
+		{
+			"id": "du.tvatta",
+			"item": "form:reflexive:du.tvatta",
+			"text": "tvättar dig",
+			"ipa": "/ˈtvɛ̂tːar dɛj/",
+			"row": "du",
+			"col": "tvatta",
+			"concepts": ["reflexive", "word-accent"]
+		},
+		{
+			"id": "du.kla",
+			"item": "form:reflexive:du.kla",
+			"text": "klär på dig",
+			"ipa": "/klæːr ˈpoː dɛj/",
+			"row": "du",
+			"col": "kla",
+			"concepts": ["reflexive"]
+		},
+		{
+			"id": "hanhon.tvatta",
+			"item": "form:reflexive:hanhon.tvatta",
+			"text": "tvättar sig",
+			"ipa": "/ˈtvɛ̂tːar sɛj/",
+			"row": "hanhon",
+			"col": "tvatta",
+			"concepts": ["reflexive", "word-accent"]
+		},
+		{
+			"id": "hanhon.kla",
+			"item": "form:reflexive:hanhon.kla",
+			"text": "klär på sig",
+			"ipa": "/klæːr ˈpoː sɛj/",
+			"row": "hanhon",
+			"col": "kla",
+			"concepts": ["reflexive"]
+		},
+		{
+			"id": "vi.tvatta",
+			"item": "form:reflexive:vi.tvatta",
+			"text": "tvättar oss",
+			"ipa": "/ˈtvɛ̂tːar ɔsː/",
+			"row": "vi",
+			"col": "tvatta",
+			"concepts": ["reflexive", "word-accent"]
+		},
+		{
+			"id": "vi.kla",
+			"item": "form:reflexive:vi.kla",
+			"text": "klär på oss",
+			"ipa": "/klæːr ˈpoː ɔsː/",
+			"row": "vi",
+			"col": "kla",
+			"concepts": ["reflexive"]
+		},
+		{
+			"id": "ni.tvatta",
+			"item": "form:reflexive:ni.tvatta",
+			"text": "tvättar er",
+			"ipa": "/ˈtvɛ̂tːar eːr/",
+			"row": "ni",
+			"col": "tvatta",
+			"concepts": ["reflexive", "word-accent"]
+		},
+		{
+			"id": "ni.kla",
+			"item": "form:reflexive:ni.kla",
+			"text": "klär på er",
+			"ipa": "/klæːr ˈpoː eːr/",
+			"row": "ni",
+			"col": "kla",
+			"concepts": ["reflexive"]
+		},
+		{
+			"id": "de.tvatta",
+			"item": "form:reflexive:de.tvatta",
+			"text": "tvättar sig",
+			"ipa": "/ˈtvɛ̂tːar sɛj/",
+			"row": "de",
+			"col": "tvatta",
+			"concepts": ["reflexive", "word-accent"]
+		},
+		{
+			"id": "de.kla",
+			"item": "form:reflexive:de.kla",
+			"text": "klär på sig",
+			"ipa": "/klæːr ˈpoː sɛj/",
+			"row": "de",
+			"col": "kla",
+			"concepts": ["reflexive"]
+		}
+	]
+}

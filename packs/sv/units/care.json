@@ -1,0 +1,89 @@
+{
+	"id": "care",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "vardcentral",
+			"item": "word:vårdcentral",
+			"text": "vårdcentral",
+			"ipa": "/ˈvôːɖsɛnˌtrɑːl/",
+			"concepts": ["retroflex"]
+		},
+		{
+			"id": "tandlakare",
+			"item": "word:tandläkare",
+			"text": "tandläkare",
+			"ipa": "/ˈtândˌlɛːkarɛ/"
+		},
+		{
+			"id": "recept",
+			"item": "word:recept",
+			"text": "recept",
+			"ipa": "/rɛˈsɛpt/"
+		},
+		{
+			"id": "forkyld",
+			"item": "word:förkyld",
+			"text": "förkyld",
+			"ipa": "/fœrˈɕyːld/"
+		},
+		{
+			"id": "sjukskriven",
+			"item": "word:sjukskriven",
+			"text": "sjukskriven",
+			"ipa": "/ˈɧʉ̂ːkˌskriːvɛn/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "bruten",
+			"item": "word:bruten",
+			"text": "bruten",
+			"ipa": "/ˈbrʉ̂ːtɛn/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "bloder",
+			"item": "word:blöder",
+			"text": "blöder",
+			"ipa": "/ˈblø̌ːdɛr/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "yr",
+			"item": "word:yr",
+			"text": "yr",
+			"ipa": "/yːr/"
+		},
+		{
+			"id": "illamaende",
+			"item": "word:illamående",
+			"text": "illamående",
+			"ipa": "/ˈɪ̂lːaˌmoːɛndɛ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "vark",
+			"item": "word:värk",
+			"text": "värk",
+			"ipa": "/værk/"
+		}
+	]
+}

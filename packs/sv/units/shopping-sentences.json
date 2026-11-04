@@ -1,0 +1,73 @@
+{
+	"id": "shopping-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "roda",
+			"item": "sentence:shopping-sentences:roda",
+			"text": "röda",
+			"sentence": "Jag vill byta den ___ tröjan.",
+			"concepts": ["definite-adjective"]
+		},
+		{
+			"id": "storre",
+			"item": "sentence:shopping-sentences:storre",
+			"text": "större",
+			"sentence": "Finns den här i en ___ storlek?",
+			"concepts": ["definite-adjective"]
+		},
+		{
+			"id": "pa",
+			"item": "sentence:shopping-sentences:pa",
+			"text": "på",
+			"sentence": "Bananerna ligger ___ hyllan.",
+			"concepts": ["definite-adjective"]
+		},
+		{
+			"id": "at",
+			"item": "sentence:shopping-sentences:at",
+			"text": "åt",
+			"sentence": "Jag ___ en glass i går.",
+			"concepts": ["definite-adjective"]
+		},
+		{
+			"id": "gick",
+			"item": "sentence:shopping-sentences:gick",
+			"text": "gick",
+			"sentence": "Vi ___ till affären i morse.",
+			"concepts": ["definite-adjective"]
+		},
+		{
+			"id": "kvittot",
+			"item": "sentence:shopping-sentences:kvittot",
+			"text": "kvittot",
+			"sentence": "Har du ___ kvar?",
+			"concepts": ["definite-adjective"]
+		},
+		{
+			"id": "dyrt",
+			"item": "sentence:shopping-sentences:dyrt",
+			"text": "dyrt",
+			"sentence": "Det är för ___.",
+			"concepts": ["definite-adjective"]
+		}
+	]
+}

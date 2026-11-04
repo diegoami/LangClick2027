@@ -1,0 +1,77 @@
+{
+	"id": "days-around",
+	"layout": {
+		"type": "grid",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "idag",
+			"item": "word:i dag",
+			"text": "i dag",
+			"ipa": "/ɪ ˈdɑːɡ/"
+		},
+		{
+			"id": "igar",
+			"item": "word:i går",
+			"text": "i går",
+			"ipa": "/ɪ ˈɡoːr/"
+		},
+		{
+			"id": "imorgon",
+			"item": "word:i morgon",
+			"text": "i morgon",
+			"ipa": "/ɪ ˈmɔ̂rːɔn/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "iforrgar",
+			"item": "word:i förrgår",
+			"text": "i förrgår",
+			"ipa": "/ɪ ˈfœ̌rɡoːr/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "iovermorgon",
+			"item": "word:i övermorgon",
+			"text": "i övermorgon",
+			"ipa": "/ɪ ˈø̂ːvɛrˌmɔrːɔn/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "imorse",
+			"item": "word:i morse",
+			"text": "i morse",
+			"ipa": "/ɪ ˈmɔ̂ʂːɛ/",
+			"concepts": ["word-accent", "retroflex"]
+		},
+		{
+			"id": "ikvall",
+			"item": "word:i kväll",
+			"text": "i kväll",
+			"ipa": "/ɪ ˈkvɛlː/"
+		},
+		{
+			"id": "inatt",
+			"item": "word:i natt",
+			"text": "i natt",
+			"ipa": "/ɪ ˈnatː/"
+		}
+	],
+	"dealAll": true
+}

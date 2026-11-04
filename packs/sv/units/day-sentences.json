@@ -1,0 +1,73 @@
+{
+	"id": "day-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "gar",
+			"item": "sentence:day-sentences:gar",
+			"text": "går",
+			"sentence": "Jag ___ till jobbet, det tar fem minuter.",
+			"concepts": ["ga-aka-kora"]
+		},
+		{
+			"id": "aker",
+			"item": "sentence:day-sentences:aker",
+			"text": "åker",
+			"sentence": "Jag ___ buss till skolan.",
+			"concepts": ["ga-aka-kora"]
+		},
+		{
+			"id": "kor",
+			"item": "sentence:day-sentences:kor",
+			"text": "kör",
+			"sentence": "Hon ___ bil till jobbet.",
+			"concepts": ["ga-aka-kora"]
+		},
+		{
+			"id": "vaknar",
+			"item": "sentence:day-sentences:vaknar",
+			"text": "vaknar",
+			"sentence": "Jag ___ alltid klockan sju.",
+			"concepts": ["ga-aka-kora"]
+		},
+		{
+			"id": "lagger",
+			"item": "sentence:day-sentences:lagger",
+			"text": "lägger",
+			"sentence": "Han ___ sig klockan elva.",
+			"concepts": ["ga-aka-kora"]
+		},
+		{
+			"id": "tvattar",
+			"item": "sentence:day-sentences:tvattar",
+			"text": "tvättar",
+			"sentence": "Vi ___ oss i badrummet.",
+			"concepts": ["ga-aka-kora"]
+		},
+		{
+			"id": "klar",
+			"item": "sentence:day-sentences:klar",
+			"text": "klär",
+			"sentence": "Barnen ___ på sig.",
+			"concepts": ["ga-aka-kora"]
+		}
+	]
+}

@@ -32,6 +32,8 @@ The grammar sits where the themes need it: en/ett and the definite ending, adjec
 agreement, plurals, possessives, the present tense and the imperative. Explanations are in
 English, with comparisons with English and German.
 
+**Swedish level 2 is implemented for owner testing** under [#58](https://github.com/diegoami/LangClick2027/issues/58): Hej svenska 2's ten themes as lessons 13–24. They add object and reflexive pronouns, the past tense with the commonest strong verbs, the future with ska and kommer att, the genitive, definite adjectives, den/det, ja/jo/nej, and time words such as i somras and fem i halv fyra. When it is merged, v0.7.0 ships it.
+
 On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
 extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided
 lessons, speech ([#21](https://github.com/diegoami/LangClick2027/issues/21)) and native builds
@@ -47,6 +49,7 @@ are deferred; their old version slots below are historical plans, not prerequisi
 | v0.4.0    | eMova lessons 4–8: getting to know someone, greetings, time and months, weekdays, weather                                                                                                                                                                   |
 | v0.5.0    | eMova lessons 9–27, completing the Ukrainian course; one transcription convention for the whole pack; the source scope of all 27 lessons in the coverage ledger                                                                                             |
 | v0.6.0    | Swedish, following Hej svenska level 1 ([#43](https://github.com/diegoami/LangClick2027/issues/43)): letters and sounds first, then its themes                                                                                                              |
+| v0.7.0    | Swedish level 2, following Hej svenska 2 ([#58](https://github.com/diegoami/LangClick2027/issues/58))                                                                                                                                                       |
 | v0.8.0    | Separate downloads: a `langclick-packs` repo, a catalog, a Library screen. The app stops bundling content                                                                                                                                                   |
 | v0.9.0    | Native audio as separate per-unit assets, guided lessons (Tour), first video through `ai-player`                                                                                                                                                            |
 | v0.10.0   | Correspondence boards, false friends, multiple choice, Windows and Android builds                                                                                                                                                                           |

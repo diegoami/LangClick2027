@@ -1,0 +1,30 @@
+{
+	"title": "How often, and when",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"alltid": {
+			"clue": "always"
+		},
+		"ofta": {
+			"clue": "often"
+		},
+		"ibland": {
+			"clue": "sometimes"
+		},
+		"sallan": {
+			"clue": "seldom"
+		},
+		"aldrig": {
+			"clue": "never"
+		},
+		"varjedag": {
+			"clue": "every day"
+		},
+		"igar": {
+			"clue": "yesterday"
+		},
+		"forraveckan": {
+			"clue": "last week"
+		}
+	}
+}

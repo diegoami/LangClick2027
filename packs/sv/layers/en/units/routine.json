@@ -1,0 +1,36 @@
+{
+	"title": "My day",
+	"summary": "From waking up to falling asleep. Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"vakna": {
+			"clue": "to wake up"
+		},
+		"stigaupp": {
+			"clue": "to get up"
+		},
+		"duscha": {
+			"clue": "to shower"
+		},
+		"frukost": {
+			"clue": "breakfast"
+		},
+		"borsta": {
+			"clue": "to brush"
+		},
+		"ga": {
+			"clue": "to go on foot"
+		},
+		"aka": {
+			"clue": "to go by vehicle"
+		},
+		"cykla": {
+			"clue": "to cycle"
+		},
+		"laggasig": {
+			"clue": "to go to bed"
+		},
+		"somna": {
+			"clue": "to fall asleep"
+		}
+	}
+}

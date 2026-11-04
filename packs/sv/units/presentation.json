@@ -1,0 +1,66 @@
+{
+	"id": "presentation",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "av",
+			"item": "sentence:presentation:av",
+			"text": "av",
+			"sentence": "Jag är intresserad ___ fotboll."
+		},
+		{
+			"id": "inte",
+			"item": "sentence:presentation:inte",
+			"text": "inte",
+			"sentence": "Jag är ___ intresserad av politik."
+		},
+		{
+			"id": "var",
+			"item": "sentence:presentation:var",
+			"text": "var",
+			"sentence": "___ bor du?"
+		},
+		{
+			"id": "nar",
+			"item": "sentence:presentation:nar",
+			"text": "när",
+			"sentence": "___ kommer du?"
+		},
+		{
+			"id": "hur",
+			"item": "sentence:presentation:hur",
+			"text": "hur",
+			"sentence": "___ gammal är du?"
+		},
+		{
+			"id": "honom",
+			"item": "sentence:presentation:honom",
+			"text": "honom",
+			"sentence": "Känner du ___?"
+		},
+		{
+			"id": "henne",
+			"item": "sentence:presentation:henne",
+			"text": "henne",
+			"sentence": "Jag ringer ___ i kväll."
+		}
+	]
+}

@@ -8,7 +8,7 @@
 	"comparisons": ["de", "en"],
 	"explanations": ["en"],
 	"overlays": ["de-en", "en-en"],
-	"sections": ["sounds", "basics", "themes"],
+	"sections": ["sounds", "basics", "themes", "level2"],
 	"keyboard": ["qwertyuiopå", "asdfghjklöä", "zxcvbnm"],
 	"lessons": [
 		{
@@ -152,6 +152,150 @@
 					"kind": "tasks",
 					"title": "Hej svenska 1, tema 10: Min stad",
 					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l13",
+			"section": "level2",
+			"units": ["question-words", "pronouns", "presentation"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 1: Presentation",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l14",
+			"section": "level2",
+			"units": ["flat", "flat-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 2: Bostad",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l15",
+			"section": "level2",
+			"units": ["reflexive", "routine", "day-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 3: Min dag",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l16",
+			"section": "level2",
+			"units": ["past-tense", "how-often", "yesterday"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 3: Min dag",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l17",
+			"section": "level2",
+			"units": ["relatives", "genitive"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 4: Familj",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l18",
+			"section": "level2",
+			"units": ["hobbies", "animals", "plans"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 5: Fritid",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l19",
+			"section": "level2",
+			"units": ["care", "at-the-doctor"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 6: Vård",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l20",
+			"section": "level2",
+			"units": ["strong-verbs", "shopping-words", "shopping-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 7: Handla",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l21",
+			"section": "level2",
+			"units": ["workplace", "work-life"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 8: Arbete",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l22",
+			"section": "level2",
+			"units": ["transport", "travel-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 9: Resor och transport",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l23",
+			"section": "level2",
+			"units": ["when", "holiday"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 9: Resor och transport",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l24",
+			"section": "level2",
+			"units": ["days-around", "clock"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 10: Tid",
+					"url": "https://www.hejsvenska.se/index2.html"
 				}
 			]
 		}

@@ -1,0 +1,33 @@
+{
+	"title": "Shopping",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"roda": {
+			"sentenceGloss": "I would like to exchange the red jumper.",
+			"note": "After den the adjective takes -a, and the noun its definite ending."
+		},
+		"storre": {
+			"sentenceGloss": "Does this come in a bigger size?",
+			"note": "stor, större."
+		},
+		"pa": {
+			"sentenceGloss": "The bananas are on the shelf."
+		},
+		"at": {
+			"sentenceGloss": "I ate an ice cream yesterday.",
+			"note": "äta, åt."
+		},
+		"gick": {
+			"sentenceGloss": "We walked to the shop this morning.",
+			"note": "gå, gick."
+		},
+		"kvittot": {
+			"sentenceGloss": "Do you still have the receipt?",
+			"note": "ett kvitto, kvittot."
+		},
+		"dyrt": {
+			"sentenceGloss": "It is too expensive.",
+			"note": "det: the -t form."
+		}
+	}
+}

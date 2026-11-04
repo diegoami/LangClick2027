@@ -1,0 +1,89 @@
+{
+	"id": "flat",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "hyra",
+			"item": "word:hyra",
+			"text": "hyra",
+			"ipa": "/ˈhŷːra/"
+		},
+		{
+			"id": "vaktmastare",
+			"item": "word:vaktmästare",
+			"text": "vaktmästare",
+			"ipa": "/ˈvâktˌmɛstarɛ/"
+		},
+		{
+			"id": "flytta",
+			"item": "word:flytta",
+			"text": "flytta",
+			"ipa": "/ˈflʏ̂tːa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "annons",
+			"item": "word:annons",
+			"text": "annons",
+			"ipa": "/aˈnɔŋs/"
+		},
+		{
+			"id": "kran",
+			"item": "word:kran",
+			"text": "kran",
+			"ipa": "/krɑːn/"
+		},
+		{
+			"id": "element",
+			"item": "word:element",
+			"text": "element",
+			"ipa": "/ɛlɛˈmɛnt/"
+		},
+		{
+			"id": "trasig",
+			"item": "word:trasig",
+			"text": "trasig",
+			"ipa": "/ˈtrɑ̂ːsɪɡ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "tvattmaskin",
+			"item": "word:tvättmaskin",
+			"text": "tvättmaskin",
+			"ipa": "/ˈtvɛ̂tmaˌɧiːn/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "torktumlare",
+			"item": "word:torktumlare",
+			"text": "torktumlare",
+			"ipa": "/ˈtɔ̂rkˌtɵmlarɛ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "nyckel",
+			"item": "word:nyckel",
+			"text": "nyckel",
+			"ipa": "/ˈnʏ̂kːɛl/",
+			"concepts": ["word-accent"]
+		}
+	]
+}

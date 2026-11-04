@@ -1,0 +1,73 @@
+{
+	"id": "genitive",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "moster",
+			"item": "sentence:genitive:moster",
+			"text": "moster",
+			"sentence": "Min mammas syster är min ___.",
+			"concepts": ["genitive"]
+		},
+		{
+			"id": "farbror",
+			"item": "sentence:genitive:farbror",
+			"text": "farbror",
+			"sentence": "Min pappas bror är min ___.",
+			"concepts": ["genitive"]
+		},
+		{
+			"id": "morbror",
+			"item": "sentence:genitive:morbror",
+			"text": "morbror",
+			"sentence": "Min mammas bror är min ___.",
+			"concepts": ["genitive"]
+		},
+		{
+			"id": "faster",
+			"item": "sentence:genitive:faster",
+			"text": "faster",
+			"sentence": "Min pappas syster är min ___.",
+			"concepts": ["genitive"]
+		},
+		{
+			"id": "eriks",
+			"item": "sentence:genitive:eriks",
+			"text": "Eriks",
+			"sentence": "Det här är ___ cykel.",
+			"concepts": ["genitive"]
+		},
+		{
+			"id": "barnbarn",
+			"item": "sentence:genitive:barnbarn",
+			"text": "barnbarn",
+			"sentence": "Mina barns barn är mina ___.",
+			"concepts": ["genitive"]
+		},
+		{
+			"id": "svarmor",
+			"item": "sentence:genitive:svarmor",
+			"text": "svärmor",
+			"sentence": "Min frus mamma är min ___.",
+			"concepts": ["genitive"]
+		}
+	]
+}

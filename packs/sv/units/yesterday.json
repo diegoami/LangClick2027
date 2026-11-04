@@ -1,0 +1,66 @@
+{
+	"id": "yesterday",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "vaknade",
+			"item": "sentence:yesterday:vaknade",
+			"text": "vaknade",
+			"sentence": "I går ___ jag klockan sex."
+		},
+		{
+			"id": "bodde",
+			"item": "sentence:yesterday:bodde",
+			"text": "bodde",
+			"sentence": "Vi ___ i Malmö förra året."
+		},
+		{
+			"id": "laste",
+			"item": "sentence:yesterday:laste",
+			"text": "läste",
+			"sentence": "Hon ___ en bok i går kväll."
+		},
+		{
+			"id": "ringde",
+			"item": "sentence:yesterday:ringde",
+			"text": "ringde",
+			"sentence": "Jag ___ till mamma i går."
+		},
+		{
+			"id": "kopte",
+			"item": "sentence:yesterday:kopte",
+			"text": "köpte",
+			"sentence": "Han ___ en ny jacka förra veckan."
+		},
+		{
+			"id": "aldrig",
+			"item": "sentence:yesterday:aldrig",
+			"text": "aldrig",
+			"sentence": "Jag dricker ___ kaffe."
+		},
+		{
+			"id": "ofta",
+			"item": "sentence:yesterday:ofta",
+			"text": "ofta",
+			"sentence": "Vi äter ___ fisk på fredagar."
+		}
+	]
+}

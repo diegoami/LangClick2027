@@ -1,0 +1,73 @@
+{
+	"id": "travel-sentences",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "den",
+			"item": "sentence:travel-sentences:den",
+			"text": "den",
+			"sentence": "Biljetten? ___ ligger i väskan.",
+			"concepts": ["den-det"]
+		},
+		{
+			"id": "det",
+			"item": "sentence:travel-sentences:det",
+			"text": "det",
+			"sentence": "Tåget? ___ går klockan tre.",
+			"concepts": ["den-det"]
+		},
+		{
+			"id": "taget",
+			"item": "sentence:travel-sentences:taget",
+			"text": "tåget",
+			"sentence": "Vi väntar på ___.",
+			"concepts": ["den-det"]
+		},
+		{
+			"id": "flyget",
+			"item": "sentence:travel-sentences:flyget",
+			"text": "flyget",
+			"sentence": "När landar ___?",
+			"concepts": ["den-det"]
+		},
+		{
+			"id": "hamnen",
+			"item": "sentence:travel-sentences:hamnen",
+			"text": "hamnen",
+			"sentence": "Färjan går från ___.",
+			"concepts": ["den-det"]
+		},
+		{
+			"id": "lang",
+			"item": "sentence:travel-sentences:lang",
+			"text": "lång",
+			"sentence": "Hur ___ tid tar det till Göteborg?",
+			"concepts": ["den-det"]
+		},
+		{
+			"id": "byta",
+			"item": "sentence:travel-sentences:byta",
+			"text": "byta",
+			"sentence": "Måste jag ___ tåg i Stockholm?",
+			"concepts": ["den-det"]
+		}
+	]
+}

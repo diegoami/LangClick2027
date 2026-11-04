@@ -1,0 +1,31 @@
+{
+	"title": "The clock and the calendar",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"halv": {
+			"sentenceGloss": "It takes an hour and a half.",
+			"note": "en och en halv timme."
+		},
+		"i": {
+			"sentenceGloss": "The bus leaves at twenty-five past three.",
+			"note": "fem i halv fyra: five before half past three."
+		},
+		"halvatta": {
+			"sentenceGloss": "The film starts at twenty-five to eight.",
+			"note": "fem över halv åtta: five after half past seven."
+		},
+		"sedan": {
+			"sentenceGloss": "I came to Sweden three years ago."
+		},
+		"arstid": {
+			"sentenceGloss": "Which season do you like best?",
+			"note": "en årstid, a season."
+		},
+		"natt": {
+			"sentenceGloss": "I am working nights this week."
+		},
+		"morgon": {
+			"sentenceGloss": "See you tomorrow!"
+		}
+	}
+}

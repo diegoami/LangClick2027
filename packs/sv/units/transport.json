@@ -1,0 +1,86 @@
+{
+	"id": "transport",
+	"layout": {
+		"type": "grid",
+		"size": 10
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "tag",
+			"item": "word:tåg",
+			"text": "tåg",
+			"ipa": "/toːɡ/"
+		},
+		{
+			"id": "flyg",
+			"item": "word:flyg",
+			"text": "flyg",
+			"ipa": "/flyːɡ/"
+		},
+		{
+			"id": "flygplats",
+			"item": "word:flygplats",
+			"text": "flygplats",
+			"ipa": "/ˈflŷːɡˌplats/"
+		},
+		{
+			"id": "farja",
+			"item": "word:färja",
+			"text": "färja",
+			"ipa": "/ˈfæ̂rja/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "bat",
+			"item": "word:båt",
+			"text": "båt",
+			"ipa": "/boːt/"
+		},
+		{
+			"id": "hamn",
+			"item": "word:hamn",
+			"text": "hamn",
+			"ipa": "/hamn/"
+		},
+		{
+			"id": "biljett",
+			"item": "word:biljett",
+			"text": "biljett",
+			"ipa": "/bɪlˈjɛtː/"
+		},
+		{
+			"id": "perrong",
+			"item": "word:perrong",
+			"text": "perrong",
+			"ipa": "/pɛˈrɔŋː/"
+		},
+		{
+			"id": "sparvagn",
+			"item": "word:spårvagn",
+			"text": "spårvagn",
+			"ipa": "/ˈspôːrˌvaŋn/"
+		},
+		{
+			"id": "tunnelbana",
+			"item": "word:tunnelbana",
+			"text": "tunnelbana",
+			"ipa": "/ˈtɵ̂nːɛlˌbɑːna/",
+			"concepts": ["word-accent"]
+		}
+	]
+}

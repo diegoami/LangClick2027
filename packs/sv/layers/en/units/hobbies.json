@@ -1,0 +1,30 @@
+{
+	"title": "Free time",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"simma": {
+			"clue": "to swim"
+		},
+		"dansa": {
+			"clue": "to dance"
+		},
+		"sjunga": {
+			"clue": "to sing"
+		},
+		"fiska": {
+			"clue": "to fish"
+		},
+		"trana": {
+			"clue": "to train, work out"
+		},
+		"spela": {
+			"clue": "to play (a game, an instrument)"
+		},
+		"skidor": {
+			"clue": "to ski"
+		},
+		"titta": {
+			"clue": "to watch a film"
+		}
+	}
+}

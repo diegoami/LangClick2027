@@ -1,0 +1,33 @@
+{
+	"title": "What happened",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"vaknade": {
+			"sentenceGloss": "Yesterday I woke up at six.",
+			"note": "After i går the verb comes before jag."
+		},
+		"bodde": {
+			"sentenceGloss": "We lived in Malmö last year.",
+			"note": "bo, bodde."
+		},
+		"laste": {
+			"sentenceGloss": "She read a book last night.",
+			"note": "läsa, läste."
+		},
+		"ringde": {
+			"sentenceGloss": "I called my mother yesterday.",
+			"note": "ringa, ringde."
+		},
+		"kopte": {
+			"sentenceGloss": "He bought a new jacket last week.",
+			"note": "köpa, köpte."
+		},
+		"aldrig": {
+			"sentenceGloss": "I never drink coffee.",
+			"note": "aldrig comes after the verb."
+		},
+		"ofta": {
+			"sentenceGloss": "We often eat fish on Fridays."
+		}
+	}
+}

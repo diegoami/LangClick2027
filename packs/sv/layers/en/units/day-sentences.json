@@ -1,0 +1,33 @@
+{
+	"title": "A day in sentences",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"gar": {
+			"sentenceGloss": "I walk to work; it takes five minutes.",
+			"note": "gå, on foot."
+		},
+		"aker": {
+			"sentenceGloss": "I take the bus to school.",
+			"note": "åka, by bus, train or car as a passenger."
+		},
+		"kor": {
+			"sentenceGloss": "She drives to work.",
+			"note": "köra, to drive."
+		},
+		"vaknar": {
+			"sentenceGloss": "I always wake up at seven.",
+			"note": "alltid, always, comes after the verb."
+		},
+		"lagger": {
+			"sentenceGloss": "He goes to bed at eleven.",
+			"note": "lägga sig, to go to bed."
+		},
+		"tvattar": {
+			"sentenceGloss": "We wash in the bathroom."
+		},
+		"klar": {
+			"sentenceGloss": "The children get dressed.",
+			"note": "klä på sig, to get dressed."
+		}
+	}
+}

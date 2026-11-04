@@ -1,0 +1,27 @@
+{
+	"title": "When",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"isommar": {
+			"clue": "this summer"
+		},
+		"isomras": {
+			"clue": "last summer"
+		},
+		"ivinter": {
+			"clue": "this winter"
+		},
+		"ivintras": {
+			"clue": "last winter"
+		},
+		"nastavecka": {
+			"clue": "next week"
+		},
+		"forraaret": {
+			"clue": "last year"
+		},
+		"omenvecka": {
+			"clue": "in a week's time"
+		}
+	}
+}
