@@ -233,4 +233,7 @@ in the linked course; a board is not claimed as practice of those activities.
 Political vocabulary avoids a changing list of parties; healthcare exercises teach
 language rather than give medical advice. Downloads remain deferred, and v0.8.0
 is proposed for the next content milestone. Independent content checks are still
-required; authoring is not a passing verdict.
+required; authoring is not a passing verdict. The owner subsequently instructed
+merging the material with checks pending for their own reviewers. This permits
+merging the authored work; it does not certify content or create a milestone.
+The last released milestone stays explicit in CHANGELOG under Unreleased.

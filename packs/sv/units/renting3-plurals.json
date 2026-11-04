@@ -1,0 +1,76 @@
+{
+	"id": "renting3-plurals",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Swedish grammar",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:renting3-plurals:s01",
+			"text": "lägenheterna",
+			"sentence": "Vi såg två lägenheter. ___ var små.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:renting3-plurals:s02",
+			"text": "rummen",
+			"sentence": "Det finns tre rum. ___ är ljusa.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:renting3-plurals:s03",
+			"text": "nycklarna",
+			"sentence": "Här är två nycklar. Ta ___!",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:renting3-plurals:s04",
+			"text": "fönstren",
+			"sentence": "Vi öppnar husets alla fönster. ___ är stora.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:renting3-plurals:s05",
+			"text": "dörrarna",
+			"sentence": "Vi målar två dörrar. ___ blir blå.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:renting3-plurals:s06",
+			"text": "stolarna",
+			"sentence": "Vi köpte fyra stolar. ___ står i köket.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:renting3-plurals:s07",
+			"text": "inga",
+			"sentence": "Jag har ___ nycklar; jag har tappat alla.",
+			"concepts": ["renting3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:renting3-plurals:s08",
+			"text": "om",
+			"sentence": "Vi kan flytta in ___ vi får kontraktet.",
+			"concepts": ["renting3-usage"]
+		}
+	]
+}

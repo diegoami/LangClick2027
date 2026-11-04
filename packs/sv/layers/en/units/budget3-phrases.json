@@ -1,0 +1,38 @@
+{
+	"title": "Money: borrow, lend and pay",
+	"summary": "Use the English meaning and Swedish context to choose or type the missing word or phrase.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "I need to borrow money from the bank.",
+			"note": "Låna av: borrow from."
+		},
+		"s02": {
+			"sentenceGloss": "The bank lends money to customers.",
+			"note": "Låna ut till: lend to."
+		},
+		"s03": {
+			"sentenceGloss": "I borrowed money and will pay it back.",
+			"note": "Betala tillbaka: pay back."
+		},
+		"s04": {
+			"sentenceGloss": "She puts money aside every month; she saves.",
+			"note": "Sparar is the present tense of spara."
+		},
+		"s05": {
+			"sentenceGloss": "Last year she saved money for a trip.",
+			"note": "Finished past time: sparade."
+		},
+		"s06": {
+			"sentenceGloss": "She has saved money for several years.",
+			"note": "Har + supine sparat."
+		},
+		"s07": {
+			"sentenceGloss": "The money I receive each month is my income.",
+			"note": "Inkomster is plural; utgifter means expenses."
+		},
+		"s08": {
+			"sentenceGloss": "The money I pay for food and rent is my expenses.",
+			"note": "Utgifter is plural; inkomster means income."
+		}
+	}
+}

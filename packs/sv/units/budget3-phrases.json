@@ -1,0 +1,76 @@
+{
+	"id": "budget3-phrases",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Swedish grammar",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:budget3-phrases:s01",
+			"text": "låna",
+			"sentence": "Jag behöver ___ pengar av banken.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:budget3-phrases:s02",
+			"text": "ut",
+			"sentence": "Banken lånar ___ pengar till kunder.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:budget3-phrases:s03",
+			"text": "tillbaka",
+			"sentence": "Jag lånade pengar och ska betala ___ dem.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:budget3-phrases:s04",
+			"text": "sparar",
+			"sentence": "Hon lägger undan pengar varje månad; hon ___.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:budget3-phrases:s05",
+			"text": "sparade",
+			"sentence": "Förra året ___ hon pengar till en resa.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:budget3-phrases:s06",
+			"text": "sparat",
+			"sentence": "Hon har ___ pengar i flera år.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:budget3-phrases:s07",
+			"text": "inkomster",
+			"sentence": "Pengarna jag får in varje månad är mina ___.",
+			"concepts": ["budget3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:budget3-phrases:s08",
+			"text": "utgifter",
+			"sentence": "Pengarna jag betalar för mat och hyra är mina ___.",
+			"concepts": ["budget3-usage"]
+		}
+	]
+}

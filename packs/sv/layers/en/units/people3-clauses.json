@@ -1,0 +1,38 @@
+{
+	"title": "People: clause order",
+	"summary": "Use the English meaning and Swedish context to choose or type the missing word or phrase.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "I know a woman who speaks five languages.",
+			"note": "Som introduces a relative clause."
+		},
+		"s02": {
+			"sentenceGloss": "She smiles because she is happy.",
+			"note": "Eftersom gives the reason."
+		},
+		"s03": {
+			"sentenceGloss": "I know that she does not work on Sundays.",
+			"note": "In the att clause, inte precedes arbetar."
+		},
+		"s04": {
+			"sentenceGloss": "He says that he has never been to Norway.",
+			"note": "Aldrig precedes har in the subordinate clause."
+		},
+		"s05": {
+			"sentenceGloss": "Because it is raining, we are at home.",
+			"note": "The initial subordinate clause is followed by the finite verb är."
+		},
+		"s06": {
+			"sentenceGloss": "She may perhaps come tomorrow, but she is not sure.",
+			"note": "Kanske means perhaps."
+		},
+		"s07": {
+			"sentenceGloss": "I think that he is at home.",
+			"note": "Att introduces the statement being believed."
+		},
+		"s08": {
+			"sentenceGloss": "We have dinner when everyone has come home.",
+			"note": "När introduces a time clause."
+		}
+	}
+}

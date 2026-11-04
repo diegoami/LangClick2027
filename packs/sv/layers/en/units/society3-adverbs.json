@@ -1,0 +1,38 @@
+{
+	"title": "Society: sentence adverbs",
+	"summary": "Use the English meaning and Swedish context to choose or type the missing word or phrase.",
+	"cells": {
+		"s01": {
+			"sentenceGloss": "It is nine o’clock, but school has already started.",
+			"note": "Redan means already."
+		},
+		"s02": {
+			"sentenceGloss": "I have only one question, not several.",
+			"note": "Bara means only here."
+		},
+		"s03": {
+			"sentenceGloss": "I gladly help you; I do so with pleasure.",
+			"note": "Gärna expresses willingness."
+		},
+		"s04": {
+			"sentenceGloss": "She says that the school is not closed.",
+			"note": "Inte precedes the finite verb är in the att clause."
+		},
+		"s05": {
+			"sentenceGloss": "We need both teachers and pupils.",
+			"note": "Både … och."
+		},
+		"s06": {
+			"sentenceGloss": "I have neither a car nor a bicycle.",
+			"note": "Varken … eller already carries negation."
+		},
+		"s07": {
+			"sentenceGloss": "We will go to the meeting even if it should rain.",
+			"note": "Även om introduces a hypothetical concession."
+		},
+		"s08": {
+			"sentenceGloss": "He helps out although he is tired.",
+			"note": "Trots att introduces a factual concession."
+		}
+	}
+}

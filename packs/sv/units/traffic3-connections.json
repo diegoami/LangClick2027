@@ -1,0 +1,76 @@
+{
+	"id": "traffic3-connections",
+	"layout": {
+		"type": "sentences",
+		"size": 8
+	},
+	"sources": [
+		{
+			"title": "Hej svenska 3",
+			"url": "https://www.hejsvenska.se/index3.html"
+		},
+		{
+			"title": "Swedish grammar",
+			"url": "https://en.wikipedia.org/wiki/Swedish_grammar"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "s01",
+			"item": "sentence:traffic3-connections:s01",
+			"text": "och",
+			"sentence": "Vi köper biljetter ___ går till tåget.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s02",
+			"item": "sentence:traffic3-connections:s02",
+			"text": "eller",
+			"sentence": "Vill du åka buss ___ tåg?",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s03",
+			"item": "sentence:traffic3-connections:s03",
+			"text": "men",
+			"sentence": "Resan är lång, ___ den är inte dyr.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s04",
+			"item": "sentence:traffic3-connections:s04",
+			"text": "så",
+			"sentence": "Tåget gick tidigt, ___ vi steg upp klockan fem.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s05",
+			"item": "sentence:traffic3-connections:s05",
+			"text": "eftersom",
+			"sentence": "Vi tog en taxi ___ bussen inte kom.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s06",
+			"item": "sentence:traffic3-connections:s06",
+			"text": "när",
+			"sentence": "Ring mig ___ du kommer fram.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s07",
+			"item": "sentence:traffic3-connections:s07",
+			"text": "väntar",
+			"sentence": "Om tåget är sent ___ vi på stationen.",
+			"concepts": ["traffic3-usage"]
+		},
+		{
+			"id": "s08",
+			"item": "sentence:traffic3-connections:s08",
+			"text": "inte",
+			"sentence": "Hon säger att bilen ___ är trasig.",
+			"concepts": ["traffic3-usage"]
+		}
+	]
+}
