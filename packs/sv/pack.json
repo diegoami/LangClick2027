@@ -82,6 +82,30 @@
 					"url": "https://www.hejsvenska.se/index1.html"
 				}
 			]
+		},
+		{
+			"id": "l07",
+			"section": "themes",
+			"units": ["family", "civil-status", "possessives", "family-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 5: Familj",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
+		},
+		{
+			"id": "l08",
+			"section": "themes",
+			"units": ["body", "body-plurals", "health"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 1, tema 6: Kroppen",
+					"url": "https://www.hejsvenska.se/index1.html"
+				}
+			]
 		}
 	]
 }

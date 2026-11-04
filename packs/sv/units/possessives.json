@@ -1,0 +1,134 @@
+{
+	"id": "possessives",
+	"layout": {
+		"type": "table",
+		"rows": ["min", "din", "var", "er"],
+		"columns": ["en", "ett", "pl"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "min.en",
+			"item": "form:possessives:min.en",
+			"text": "min",
+			"ipa": "/mɪnː/",
+			"row": "min",
+			"col": "en",
+			"concepts": ["possessives"]
+		},
+		{
+			"id": "min.ett",
+			"item": "form:possessives:min.ett",
+			"text": "mitt",
+			"ipa": "/mɪtː/",
+			"row": "min",
+			"col": "ett",
+			"concepts": ["possessives"]
+		},
+		{
+			"id": "min.pl",
+			"item": "form:possessives:min.pl",
+			"text": "mina",
+			"ipa": "/ˈmîːna/",
+			"row": "min",
+			"col": "pl",
+			"concepts": ["possessives"]
+		},
+		{
+			"id": "din.en",
+			"item": "form:possessives:din.en",
+			"text": "din",
+			"ipa": "/dɪnː/",
+			"row": "din",
+			"col": "en",
+			"concepts": ["possessives"]
+		},
+		{
+			"id": "din.ett",
+			"item": "form:possessives:din.ett",
+			"text": "ditt",
+			"ipa": "/dɪtː/",
+			"row": "din",
+			"col": "ett",
+			"concepts": ["possessives"]
+		},
+		{
+			"id": "din.pl",
+			"item": "form:possessives:din.pl",
+			"text": "dina",
+			"ipa": "/ˈdîːna/",
+			"row": "din",
+			"col": "pl",
+			"concepts": ["possessives"]
+		},
+		{
+			"id": "var.en",
+			"item": "form:possessives:var.en",
+			"text": "vår",
+			"ipa": "/voːr/",
+			"row": "var",
+			"col": "en",
+			"concepts": ["possessives"]
+		},
+		{
+			"id": "var.ett",
+			"item": "form:possessives:var.ett",
+			"text": "vårt",
+			"ipa": "/vɔʈː/",
+			"row": "var",
+			"col": "ett",
+			"concepts": ["possessives", "retroflex"]
+		},
+		{
+			"id": "var.pl",
+			"item": "form:possessives:var.pl",
+			"text": "våra",
+			"ipa": "/ˈvôːra/",
+			"row": "var",
+			"col": "pl",
+			"concepts": ["possessives"]
+		},
+		{
+			"id": "er.en",
+			"item": "form:possessives:er.en",
+			"text": "er",
+			"ipa": "/eːr/",
+			"row": "er",
+			"col": "en",
+			"concepts": ["possessives"]
+		},
+		{
+			"id": "er.ett",
+			"item": "form:possessives:er.ett",
+			"text": "ert",
+			"ipa": "/eːʈ/",
+			"row": "er",
+			"col": "ett",
+			"concepts": ["possessives", "retroflex"]
+		},
+		{
+			"id": "er.pl",
+			"item": "form:possessives:er.pl",
+			"text": "era",
+			"ipa": "/ˈêːra/",
+			"row": "er",
+			"col": "pl",
+			"concepts": ["possessives"]
+		}
+	]
+}

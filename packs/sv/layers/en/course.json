@@ -28,6 +28,12 @@
 		},
 		"l06": {
 			"title": "Lesson 6: Food and drink"
+		},
+		"l07": {
+			"title": "Lesson 7: The family"
+		},
+		"l08": {
+			"title": "Lesson 8: The body and health"
 		}
 	},
 	"concepts": {
@@ -171,7 +177,7 @@
 		},
 		"adjective-agreement": {
 			"title": "The adjective agrees",
-			"body": "An adjective after en or before an en-word has no ending: en röd tröja. With an ett-word it adds -t: ett rött paraply. In the plural it adds -a: röda skor. A long vowel before -t becomes short, and spelling doubles the t: röd, rött; vit, vitt. blå has the plural blå or blåa.",
+			"body": "After en, or with an en-word in the indefinite, an adjective has no ending: en röd tröja. With an ett-word it adds -t: ett rött paraply. In the plural it adds -a: röda skor. A long vowel becomes short before -t: grön, grönt. After a vowel, d or t, spelling writes tt: blå, blått; röd, rött; vit, vitt. blå has the plural blå or blåa. After den or a possessive the -a form is used too: min röda tröja.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
@@ -185,7 +191,35 @@
 		},
 		"plurals": {
 			"title": "Five plurals",
-			"body": "Plurals fall into groups. Most en-words in -a take -or: gurka, gurkor. Many other en-words take -ar (korv, korvar) or -er (banan, bananer). An ett-word ending in a vowel adds -n: äpple, äpplen. An ett-word ending in a consonant often stays the same: ett ägg, två ägg. Learn each noun with its plural.",
+			"body": "Plurals fall into groups. Most en-words in -a take -or: gurka, gurkor. Many other en-words take -ar (korv, korvar) or -er (banan, bananer). An ett-word ending in an unstressed vowel adds -n: äpple, äpplen; one stressed on its last vowel takes -er: paraply, paraplyer. An ett-word ending in a consonant often stays the same: ett ägg, två ägg. Learn each noun with its plural.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"possessives": {
+			"title": "My, your, our",
+			"body": "min, din, vår and er agree with the noun like an adjective: min bror, mitt hus, mina föräldrar. hans (his) and hennes (her) never change. The grandparents are named by side: mormor is the mother's mother and farmor the father's mother.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"body-plurals": {
+			"title": "Plurals that change the vowel",
+			"body": "A few nouns change their vowel in the plural: en hand, händer; en fot, fötter; en tand, tänder. öga and öra have the old plurals ögon and öron. These are learnt by heart.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",

@@ -1,0 +1,29 @@
+{
+	"title": "Talking about the family",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"min": {
+			"sentenceGloss": "This is my brother Erik.",
+			"note": "en bror: min."
+		},
+		"mitt": {
+			"sentenceGloss": "This is my house.",
+			"note": "ett hus: mitt."
+		},
+		"mina": {
+			"sentenceGloss": "These are my parents.",
+			"note": "Plural: mina."
+		},
+		"syskon": {
+			"sentenceGloss": "Do you have any brothers or sisters?",
+			"note": "ett syskon, two syskon: the plural is the same."
+		},
+		"dotter": {
+			"sentenceGloss": "We have a daughter and a son."
+		},
+		"gifta": {
+			"sentenceGloss": "My wife and I are married.",
+			"note": "gift takes -a in the plural."
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"title": "The family",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"mamma": {
+			"clue": "mum"
+		},
+		"pappa": {
+			"clue": "dad"
+		},
+		"son": {
+			"clue": "son"
+		},
+		"dotter": {
+			"clue": "daughter"
+		},
+		"bror": {
+			"clue": "brother"
+		},
+		"syster": {
+			"clue": "sister"
+		},
+		"syskon": {
+			"clue": "brothers and sisters"
+		},
+		"barn": {
+			"clue": "child, children"
+		},
+		"foraldrar": {
+			"clue": "parents"
+		},
+		"mormor": {
+			"clue": "grandmother (mother's mother)"
+		},
+		"farfar": {
+			"clue": "grandfather (father's father)"
+		},
+		"kusin": {
+			"clue": "cousin"
+		}
+	}
+}

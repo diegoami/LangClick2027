@@ -1,0 +1,33 @@
+{
+	"title": "At the doctor and the pharmacy",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"huvudet": {
+			"sentenceGloss": "I have a headache.",
+			"note": "ha ont i, to hurt in: ont i huvudet, a headache."
+		},
+		"magen": {
+			"sentenceGloss": "The child has a stomach ache.",
+			"note": "en mage, magen."
+		},
+		"feber": {
+			"sentenceGloss": "I have a high temperature.",
+			"note": "en feber: no article after ha here."
+		},
+		"sjuk": {
+			"sentenceGloss": "I am ill and am staying at home."
+		},
+		"boka": {
+			"sentenceGloss": "I would like to book an appointment with the doctor.",
+			"note": "After vill the verb stays in the infinitive."
+		},
+		"hosta": {
+			"sentenceGloss": "Do you have something for a cough?",
+			"note": "en hosta, a cough."
+		},
+		"apoteket": {
+			"sentenceGloss": "I buy medicine at the pharmacy.",
+			"note": "ett apotek, apoteket."
+		}
+	}
+}

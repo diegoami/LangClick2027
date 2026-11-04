@@ -1,0 +1,113 @@
+{
+	"id": "body",
+	"layout": {
+		"type": "grid",
+		"size": 14
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "huvud",
+			"item": "word:huvud",
+			"text": "huvud",
+			"ipa": "/ˈhʉ̂ːvɵd/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "arm",
+			"item": "word:arm",
+			"text": "arm",
+			"ipa": "/arm/"
+		},
+		{
+			"id": "hand",
+			"item": "word:hand",
+			"text": "hand",
+			"ipa": "/hand/"
+		},
+		{
+			"id": "ben",
+			"item": "word:ben",
+			"text": "ben",
+			"ipa": "/beːn/"
+		},
+		{
+			"id": "fot",
+			"item": "word:fot",
+			"text": "fot",
+			"ipa": "/fuːt/"
+		},
+		{
+			"id": "mage",
+			"item": "word:mage",
+			"text": "mage",
+			"ipa": "/ˈmɑ̂ːɡɛ/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "rygg",
+			"item": "word:rygg",
+			"text": "rygg",
+			"ipa": "/rʏɡː/"
+		},
+		{
+			"id": "hals",
+			"item": "word:hals",
+			"text": "hals",
+			"ipa": "/hals/"
+		},
+		{
+			"id": "kna",
+			"item": "word:knä",
+			"text": "knä",
+			"ipa": "/knɛː/"
+		},
+		{
+			"id": "oga",
+			"item": "word:öga",
+			"text": "öga",
+			"ipa": "/ˈø̂ːɡa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "ora",
+			"item": "word:öra",
+			"text": "öra",
+			"ipa": "/ˈœ̂ːra/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "nasa",
+			"item": "word:näsa",
+			"text": "näsa",
+			"ipa": "/ˈnɛ̂ːsa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "mun",
+			"item": "word:mun",
+			"text": "mun",
+			"ipa": "/mɵnː/"
+		},
+		{
+			"id": "tand",
+			"item": "word:tand",
+			"text": "tand",
+			"ipa": "/tand/"
+		}
+	]
+}

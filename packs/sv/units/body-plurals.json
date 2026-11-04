@@ -1,0 +1,134 @@
+{
+	"id": "body-plurals",
+	"layout": {
+		"type": "table",
+		"rows": ["oga", "ora", "hand", "fot", "tand", "kna"],
+		"columns": ["sg", "pl"]
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"dealAll": true,
+	"typing": true,
+	"cells": [
+		{
+			"id": "oga.sg",
+			"item": "form:body-plurals:oga.sg",
+			"text": "ett öga",
+			"ipa": "/ɛt ˈø̂ːɡa/",
+			"row": "oga",
+			"col": "sg",
+			"concepts": ["body-plurals", "word-accent"]
+		},
+		{
+			"id": "oga.pl",
+			"item": "form:body-plurals:oga.pl",
+			"text": "ögon",
+			"ipa": "/ˈø̂ːɡɔn/",
+			"row": "oga",
+			"col": "pl",
+			"concepts": ["body-plurals", "word-accent"]
+		},
+		{
+			"id": "ora.sg",
+			"item": "form:body-plurals:ora.sg",
+			"text": "ett öra",
+			"ipa": "/ɛt ˈœ̂ːra/",
+			"row": "ora",
+			"col": "sg",
+			"concepts": ["body-plurals", "word-accent"]
+		},
+		{
+			"id": "ora.pl",
+			"item": "form:body-plurals:ora.pl",
+			"text": "öron",
+			"ipa": "/ˈœ̂ːrɔn/",
+			"row": "ora",
+			"col": "pl",
+			"concepts": ["body-plurals", "word-accent"]
+		},
+		{
+			"id": "hand.sg",
+			"item": "form:body-plurals:hand.sg",
+			"text": "en hand",
+			"ipa": "/ɛn hand/",
+			"row": "hand",
+			"col": "sg",
+			"concepts": ["body-plurals"]
+		},
+		{
+			"id": "hand.pl",
+			"item": "form:body-plurals:hand.pl",
+			"text": "händer",
+			"ipa": "/ˈhɛ̂ndɛr/",
+			"row": "hand",
+			"col": "pl",
+			"concepts": ["body-plurals", "word-accent"]
+		},
+		{
+			"id": "fot.sg",
+			"item": "form:body-plurals:fot.sg",
+			"text": "en fot",
+			"ipa": "/ɛn fuːt/",
+			"row": "fot",
+			"col": "sg",
+			"concepts": ["body-plurals"]
+		},
+		{
+			"id": "fot.pl",
+			"item": "form:body-plurals:fot.pl",
+			"text": "fötter",
+			"ipa": "/ˈfœ̂tːɛr/",
+			"row": "fot",
+			"col": "pl",
+			"concepts": ["body-plurals", "word-accent"]
+		},
+		{
+			"id": "tand.sg",
+			"item": "form:body-plurals:tand.sg",
+			"text": "en tand",
+			"ipa": "/ɛn tand/",
+			"row": "tand",
+			"col": "sg",
+			"concepts": ["body-plurals"]
+		},
+		{
+			"id": "tand.pl",
+			"item": "form:body-plurals:tand.pl",
+			"text": "tänder",
+			"ipa": "/ˈtɛ̂ndɛr/",
+			"row": "tand",
+			"col": "pl",
+			"concepts": ["body-plurals", "word-accent"]
+		},
+		{
+			"id": "kna.sg",
+			"item": "form:body-plurals:kna.sg",
+			"text": "ett knä",
+			"ipa": "/ɛt knɛː/",
+			"row": "kna",
+			"col": "sg",
+			"concepts": ["body-plurals"]
+		},
+		{
+			"id": "kna.pl",
+			"item": "form:body-plurals:kna.pl",
+			"text": "knän",
+			"ipa": "/knɛːn/",
+			"row": "kna",
+			"col": "pl",
+			"concepts": ["body-plurals"]
+		}
+	]
+}
