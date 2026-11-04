@@ -76,6 +76,15 @@
 		},
 		"l21": {
 			"title": "Lesson 21: Working life"
+		},
+		"l22": {
+			"title": "Lesson 22: Getting there"
+		},
+		"l23": {
+			"title": "Lesson 23: On holiday"
+		},
+		"l24": {
+			"title": "Lesson 24: Time and dates"
 		}
 	},
 	"concepts": {
@@ -444,6 +453,48 @@
 		"definite-adjective": {
 			"title": "\"The red jumper\"",
 			"body": "With den, det or de before it, an adjective takes -a and the noun keeps its definite ending: den röda tröjan, det röda huset, de röda skorna. Swedish marks \"the\" twice here.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"den-det": {
+			"title": "It: den or det",
+			"body": "\"It\" follows the gender of the noun it stands for: den for an en-word (biljetten, den), det for an ett-word (tåget, det). det is also the empty \"it\" of det regnar and det är kallt.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"this-last": {
+			"title": "i sommar and i somras",
+			"body": "i sommar is this summer, now or coming; i somras is last summer. In the same way i vinter and i vintras, i våras, i höstas. The past tense goes with i somras, the present or ska with i sommar.",
+			"sources": [
+				{
+					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+					"url": "https://lexin.nada.kth.se/lexin/"
+				},
+				{
+					"title": "Wiktionary (Swedish entries)",
+					"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+				}
+			]
+		},
+		"five-to-half": {
+			"title": "Five to half past",
+			"body": "Swedish counts the minutes near the half hour from halv: fem i halv fyra is 3.25, fem över halv fyra is 3.35. en och en halv is one and a half. In timetables the 24-hour clock is used: klockan femton och trettio.",
 			"sources": [
 				{
 					"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",

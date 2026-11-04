@@ -262,6 +262,42 @@
 					"url": "https://www.hejsvenska.se/index2.html"
 				}
 			]
+		},
+		{
+			"id": "l22",
+			"section": "level2",
+			"units": ["transport", "travel-sentences"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 9: Resor och transport",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l23",
+			"section": "level2",
+			"units": ["when", "holiday"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 9: Resor och transport",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
+		},
+		{
+			"id": "l24",
+			"section": "level2",
+			"units": ["days-around", "clock"],
+			"study": [
+				{
+					"kind": "tasks",
+					"title": "Hej svenska 2, tema 10: Tid",
+					"url": "https://www.hejsvenska.se/index2.html"
+				}
+			]
 		}
 	]
 }

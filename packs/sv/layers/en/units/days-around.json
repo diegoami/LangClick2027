@@ -1,0 +1,30 @@
+{
+	"title": "Around today",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"idag": {
+			"clue": "today"
+		},
+		"igar": {
+			"clue": "yesterday"
+		},
+		"imorgon": {
+			"clue": "tomorrow"
+		},
+		"iforrgar": {
+			"clue": "the day before yesterday"
+		},
+		"iovermorgon": {
+			"clue": "the day after tomorrow"
+		},
+		"imorse": {
+			"clue": "this morning (past)"
+		},
+		"ikvall": {
+			"clue": "this evening"
+		},
+		"inatt": {
+			"clue": "tonight, last night"
+		}
+	}
+}

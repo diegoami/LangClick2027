@@ -1,0 +1,33 @@
+{
+	"title": "On holiday",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"akte": {
+			"sentenceGloss": "Last summer we went to Greece.",
+			"note": "åka, åkte; after i somras the verb comes second."
+		},
+		"aka": {
+			"sentenceGloss": "This summer we are going to Norway.",
+			"note": "ska + infinitive."
+		},
+		"men": {
+			"sentenceGloss": "It was warm, but it rained sometimes.",
+			"note": "men, but."
+		},
+		"och": {
+			"sentenceGloss": "We swam and sunbathed every day.",
+			"note": "och, and."
+		},
+		"bodde": {
+			"sentenceGloss": "We stayed in a tent by the lake."
+		},
+		"lag": {
+			"sentenceGloss": "The hotel was near the beach.",
+			"note": "ligga, låg."
+		},
+		"var": {
+			"sentenceGloss": "The food was really good.",
+			"note": "vara, var."
+		}
+	}
+}

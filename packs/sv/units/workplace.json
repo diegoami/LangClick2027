@@ -76,10 +76,11 @@
 			"ipa": "/ˈdêːlˌtiːd/"
 		},
 		{
-			"id": "arbetsplats",
-			"item": "word:arbetsplats",
-			"text": "arbetsplats",
-			"ipa": "/ˈârbeːtsˌplats/"
+			"id": "mote",
+			"item": "word:möte",
+			"text": "möte",
+			"ipa": "/ˈmø̂ːtɛ/",
+			"concepts": ["word-accent"]
 		}
 	]
 }

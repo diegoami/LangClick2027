@@ -1,0 +1,34 @@
+{
+	"title": "On the way",
+	"summary": "Choose or type the word that fits the gap.",
+	"cells": {
+		"den": {
+			"sentenceGloss": "The ticket? It is in the bag.",
+			"note": "en biljett: den."
+		},
+		"det": {
+			"sentenceGloss": "The train? It leaves at three.",
+			"note": "ett tåg: det."
+		},
+		"taget": {
+			"sentenceGloss": "We are waiting for the train.",
+			"note": "ett tåg, tåget."
+		},
+		"flyget": {
+			"sentenceGloss": "When does the plane land?",
+			"note": "ett flyg, flyget."
+		},
+		"hamnen": {
+			"sentenceGloss": "The ferry leaves from the harbour.",
+			"note": "en hamn, hamnen."
+		},
+		"lang": {
+			"sentenceGloss": "How long does it take to Gothenburg?",
+			"note": "hur lång tid, how long."
+		},
+		"byta": {
+			"sentenceGloss": "Do I have to change trains in Stockholm?",
+			"note": "byta tåg, to change trains."
+		}
+	}
+}

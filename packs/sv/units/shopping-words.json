@@ -75,14 +75,14 @@
 			"id": "oppetkop",
 			"item": "word:öppet köp",
 			"text": "öppet köp",
-			"ipa": "/ˈœ̂pːɛt ɕøːp/",
+			"ipa": "/ˈœ̂pːɛt ˈɕøːp/",
 			"concepts": ["word-accent"]
 		},
 		{
 			"id": "storlek",
 			"item": "word:storlek",
 			"text": "storlek",
-			"ipa": "/ˈstûːrˌleːk/"
+			"ipa": "/ˈstûːˌɭeːk/"
 		}
 	]
 }

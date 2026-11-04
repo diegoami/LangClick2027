@@ -1,0 +1,74 @@
+{
+	"id": "when",
+	"layout": {
+		"type": "grid",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "isommar",
+			"item": "word:i sommar",
+			"text": "i sommar",
+			"ipa": "/ɪ ˈsɔ̂mːar/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "isomras",
+			"item": "word:i somras",
+			"text": "i somras",
+			"ipa": "/ɪ ˈsɔ̂mːras/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "ivinter",
+			"item": "word:i vinter",
+			"text": "i vinter",
+			"ipa": "/ɪ ˈvɪ̂ntɛr/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "ivintras",
+			"item": "word:i vintras",
+			"text": "i vintras",
+			"ipa": "/ɪ ˈvɪ̂ntras/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "nastavecka",
+			"item": "word:nästa vecka",
+			"text": "nästa vecka",
+			"ipa": "/ˈnɛ̂sta ˈvɛ̂kːa/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "forraaret",
+			"item": "word:förra året",
+			"text": "förra året",
+			"ipa": "/ˈfœ̂rːa ˈôːrɛt/",
+			"concepts": ["word-accent"]
+		},
+		{
+			"id": "omenvecka",
+			"item": "word:om en vecka",
+			"text": "om en vecka",
+			"ipa": "/ɔmː ɛn ˈvɛ̂kːa/",
+			"concepts": ["word-accent"]
+		}
+	],
+	"dealAll": true
+}

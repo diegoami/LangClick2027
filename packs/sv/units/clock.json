@@ -1,0 +1,73 @@
+{
+	"id": "clock",
+	"layout": {
+		"type": "sentences",
+		"size": 7
+	},
+	"sources": [
+		{
+			"title": "Lexin (Swedish–English), Institutet för språk och folkminnen",
+			"url": "https://lexin.nada.kth.se/lexin/"
+		},
+		{
+			"title": "Wiktionary (Swedish entries)",
+			"url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
+		},
+		{
+			"title": "Svenska Akademiens ordböcker",
+			"url": "https://svenska.se/"
+		}
+	],
+	"typing": true,
+	"cells": [
+		{
+			"id": "halv",
+			"item": "sentence:clock:halv",
+			"text": "halv",
+			"sentence": "Det tar en och en ___ timme.",
+			"concepts": ["five-to-half"]
+		},
+		{
+			"id": "i",
+			"item": "sentence:clock:i",
+			"text": "i",
+			"sentence": "Bussen går fem ___ halv fyra.",
+			"concepts": ["five-to-half"]
+		},
+		{
+			"id": "halvatta",
+			"item": "sentence:clock:halvatta",
+			"text": "halv",
+			"sentence": "Filmen börjar fem över ___ åtta.",
+			"concepts": ["five-to-half"]
+		},
+		{
+			"id": "sedan",
+			"item": "sentence:clock:sedan",
+			"text": "sedan",
+			"sentence": "Jag kom till Sverige för tre år ___.",
+			"concepts": ["five-to-half"]
+		},
+		{
+			"id": "arstid",
+			"item": "sentence:clock:arstid",
+			"text": "årstid",
+			"sentence": "Vilken ___ tycker du bäst om?",
+			"concepts": ["five-to-half"]
+		},
+		{
+			"id": "natt",
+			"item": "sentence:clock:natt",
+			"text": "natt",
+			"sentence": "Jag jobbar ___ den här veckan.",
+			"concepts": ["five-to-half"]
+		},
+		{
+			"id": "morgon",
+			"item": "sentence:clock:morgon",
+			"text": "morgon",
+			"sentence": "Vi ses i ___!",
+			"concepts": ["five-to-half"]
+		}
+	]
+}

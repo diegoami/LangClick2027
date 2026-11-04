@@ -1,0 +1,36 @@
+{
+	"title": "Getting there",
+	"summary": "Each tile gives the meaning; find the Swedish.",
+	"cells": {
+		"tag": {
+			"clue": "train"
+		},
+		"flyg": {
+			"clue": "plane, flight"
+		},
+		"flygplats": {
+			"clue": "airport"
+		},
+		"farja": {
+			"clue": "ferry"
+		},
+		"bat": {
+			"clue": "boat"
+		},
+		"hamn": {
+			"clue": "harbour"
+		},
+		"biljett": {
+			"clue": "ticket"
+		},
+		"perrong": {
+			"clue": "platform"
+		},
+		"sparvagn": {
+			"clue": "tram"
+		},
+		"tunnelbana": {
+			"clue": "underground"
+		}
+	}
+}
