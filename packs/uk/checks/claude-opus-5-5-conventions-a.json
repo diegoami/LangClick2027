@@ -47,6 +47,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "core/l05-words/tak-sobi",
+			"seen": "{\"item\":\"word:tak-sobi\",\"text\":\"так собі\",\"display\":\"та́к собі\",\"ipa\":\"/ˈtak sɔbi/\",\"cognates\":{\"ru\":{\"form\":\"так себе́\"},\"pl\":{\"form\":\"tak sobie\"}}}",
+			"verdict": "ok"
+		},
+		{
 			"key": "core/l06-numbers/n11",
 			"seen": "{\"item\":\"number:n11\",\"text\":\"одинадцять\",\"display\":\"одина́дцять\",\"ipa\":\"/ɔdɪˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"оди́ннадцать\"},\"pl\":{\"form\":\"jedenaście\"}},\"concepts\":[\"teens-stress\"]}",
 			"verdict": "ok"
@@ -652,6 +657,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "en/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"so-so\",\"note\":\"Stressed on так, as Словники України print the set phrase: та́к собі. Wiktionary gives так собі́.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "en/l12-sentences/height",
 			"seen": "{\"sentenceGloss\":\"My sister is of medium height.\",\"note\":\"Genitive: a feature such as height or age is given in the genitive — (якого?) середнього зросту, of medium height.\"}",
 			"verdict": "ok"
@@ -932,6 +942,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "pl/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"tak sobie\",\"note\":\"Akcent na так, jak podają «Словники України»: та́к собі. Wikisłownik angielski podaje так собі́.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "pl/l12-sentences/height",
 			"seen": "{\"sentenceGloss\":\"Moja siostra jest średniego wzrostu.\",\"note\":\"Dopełniacz: cechę, taką jak wzrost czy wiek, podaje się w dopełniaczu — (якого?) середнього зросту, średniego wzrostu.\"}",
 			"verdict": "ok"
@@ -1187,6 +1202,11 @@
 			"verdict": "ok"
 		},
 		{
+			"key": "ru/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"так себе\",\"note\":\"Ударение на так, как в «Словниках України»: та́к собі. Английский Викисловарь даёт так собі́.\"}",
+			"verdict": "ok"
+		},
+		{
 			"key": "ru/l12-sentences/height",
 			"seen": "{\"sentenceGloss\":\"Моя сестра среднего роста.\",\"note\":\"Родительный: признак вроде роста или возраста выражается родительным падежом — (якого?) середнього зросту, среднего роста.\"}",
 			"verdict": "ok"
@@ -1229,6 +1249,11 @@
 		{
 			"key": "ru/l24-sentences/pressure-gen",
 			"seen": "{\"sentenceGloss\":\"Медсестра записала показатель давления.\",\"note\":\"Родительный: существительное при другом существительном отвечает на вопрос чего? — показник (чого?) тиску, показатель давления.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l05-words/tak-sobi",
+			"seen": "{\"clue\":\"не надто добре\",\"note\":\"Наголос на так, як у «Словниках України»: та́к собі. Англійський Вікісловник подає так собі́.\"}",
 			"verdict": "ok"
 		},
 		{

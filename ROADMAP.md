@@ -6,38 +6,24 @@ then add Swedish before optional downloads, audio or other extras. Audience size
 
 ## Status
 
-**[v0.4.0](https://github.com/diegoami/LangClick2027/releases/tag/v0.4.0) is released.**
-It adds eMova lessons 4–8 to the phonetics and grammar already available, in the tray or typed,
-compared with Russian or Polish. [Milestone #33](https://github.com/diegoami/LangClick2027/issues/33)
-received AGREE on the exact tagged commit, `e73638f945c48c829aafea37ffdef3c26eaec0c1`.
+**[v0.5.0](https://github.com/diegoami/LangClick2027/releases/tag/v0.5.0) is released: the
+whole Ukrainian course.** All 27 eMova lessons have practice, in the tray or typed, explained
+in English, Russian, Polish or Ukrainian and compared with Russian or Polish. The pack has 119
+boards and 2,019 cells, under one transcription convention written down in `packs/README.md`.
+The coverage ledger records the source scope of every lesson.
+[Milestone #48](https://github.com/diegoami/LangClick2027/issues/48) received AGREE on the
+exact tagged commit, `726d3d913b8100ba4e6f5e58ee9a57d7bbc15f11`. Its one finding, the stress of
+та́к собі ([#49](https://github.com/diegoami/LangClick2027/issues/49)), is fixed for the next
+release.
 
-**Lessons 9–10 are merged** under approved [proposal #34](https://github.com/diegoami/LangClick2027/issues/34): family and in-law vocabulary, possessives and genitives; professions, word families and workplace language.
+Exercises are original, and private source text is absent from the pack. Listening, literary
+reading, recipes and open-ended writing stay in the linked source. No native speaker has
+reviewed the content; two independent AI content checks pass every target.
 
-**Lessons 11–27 are merged** ([#39](https://github.com/diegoami/LangClick2027/pull/39)). The owner extended the same
-source-first design through lesson 27 under [#34](https://github.com/diegoami/LangClick2027/issues/34).
-There are 56 new boards and 995 new cells, with four explanation languages and Russian/Polish
-comparisons. Every one of eMova's 27 lessons now maps to core practice; the pack has 119 boards
-and 2,019 cells in total. Existing general grammar stays in its original lesson and is referenced
-by the coverage ledger.
-
-The full source notes and tasks were inspected with explicit permission. Listening, literary
-reading, recipes and open-ended writing remain in the linked source. Exercises are original;
-private source text is absent from the pack. Two independent content checks record the exact
-new content. [#41](https://github.com/diegoami/LangClick2027/pull/41) brought the new lessons
-to the older content's convention: a phonemic transcription on every word, verb form and table
-cell, a grammar note on every sentence and table cell in all four explanation languages, and
-the Russian and Polish comparisons. [#44](https://github.com/diegoami/LangClick2027/pull/44)
-applied one transcription convention across the whole pack (#42), written down in
-`packs/README.md`. [#46](https://github.com/diegoami/LangClick2027/pull/46) completed the audit:
-the coverage ledger records the source scope of all 27 lessons.
-
-**The Ukrainian course is complete, and v0.5.0 is in release preparation.** It is the release
-that ships it.
-
-Swedish is next, before optional extras. Its design is agreed in
-[#43](https://github.com/diegoami/LangClick2027/issues/43): it follows Hej svenska level 1, and
-lesson 1 (letters and sounds, [#45](https://github.com/diegoami/LangClick2027/pull/45)) merges
-after the v0.5.0 tag.
+**Swedish is next**, before optional extras. Its design is agreed in
+[#43](https://github.com/diegoami/LangClick2027/issues/43): it follows Hej svenska level 1.
+Lesson 1, letters and sounds, is ready to merge in
+[#45](https://github.com/diegoami/LangClick2027/pull/45).
 
 On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
 extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided
