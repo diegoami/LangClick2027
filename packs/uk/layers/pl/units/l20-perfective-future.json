@@ -9,5 +9,25 @@
 		"vy": "ви",
 		"they": "вони",
 		"pity": "піти́ — що зробити?"
+	},
+	"cells": {
+		"ya.pity": {
+			"note": "Czas przyszły: піду — prosta forma przyszła czasownika dokonanego."
+		},
+		"ty.pity": {
+			"note": "Czas przyszły: підеш — druga osoba l. poj."
+		},
+		"he.pity": {
+			"note": "Czas przyszły: піде — trzecia osoba l. poj."
+		},
+		"my.pity": {
+			"note": "Czas przyszły: підемо — pierwsza osoba l. mn."
+		},
+		"vy.pity": {
+			"note": "Czas przyszły: підете — druga osoba l. mn."
+		},
+		"they.pity": {
+			"note": "Czas przyszły: підуть — trzecia osoba l. mn."
+		}
 	}
 }

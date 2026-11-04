@@ -2,28 +2,60 @@
 	"title": "Uczyć i uczyć się: czas teraźniejszy",
 	"summary": "Odmień dokładnie czasownik z nagłówka. Вчити może znaczyć uczyć się czegoś lub uczyć kogoś; вчитися i навчатися wskazują osobę uczącą się. Polskie się jest osobne, ukraińskie -ся pisze się łącznie. Przyjmowane są warianty słownikowe. Wiersze podają ukraińskie zaimki osobowe; forma dla він pasuje także do вона i воно. Ви oznacza liczbę mnogą lub zwrot grzecznościowy.",
 	"cells": {
-		"ya.vchyty": {},
-		"ty.vchyty": {},
-		"he.vchyty": {},
-		"my.vchyty": {},
-		"vy.vchyty": {},
-		"they.vchyty": {},
-		"ya.vchytysya": {},
+		"ya.vchyty": {
+			"note": "Czas teraźniejszy od вчити: uczyć się od kogoś."
+		},
+		"ty.vchyty": {
+			"note": "Czas teraźniejszy od вчити: uczyć się od kogoś."
+		},
+		"he.vchyty": {
+			"note": "Czas teraźniejszy od вчити: uczyć się od kogoś."
+		},
+		"my.vchyty": {
+			"note": "Czas teraźniejszy od вчити: uczyć się od kogoś."
+		},
+		"vy.vchyty": {
+			"note": "Czas teraźniejszy od вчити: uczyć się od kogoś."
+		},
+		"they.vchyty": {
+			"note": "Czas teraźniejszy od вчити: uczyć się od kogoś."
+		},
+		"ya.vchytysya": {
+			"note": "Czas teraźniejszy z -ся: uczyć się samodzielnie."
+		},
 		"ty.vchytysya": {
-			"note": "W -шся wymawia się długie miękkie s: [sʲːa]. W pisowni zachowaj шся; zapis wymowy nie jest poprawną odpowiedzią ortograficzną."
+			"note": "Czas teraźniejszy z -ся: uczyć się samodzielnie."
 		},
-		"he.vchytysya": {},
-		"my.vchytysya": {},
-		"vy.vchytysya": {},
+		"he.vchytysya": {
+			"note": "Czas teraźniejszy z -ся: uczyć się samodzielnie."
+		},
+		"my.vchytysya": {
+			"note": "Czas teraźniejszy z -ся: uczyć się samodzielnie."
+		},
+		"vy.vchytysya": {
+			"note": "Czas teraźniejszy z -ся: uczyć się samodzielnie."
+		},
 		"they.vchytysya": {
-			"note": "W -ться wymawia się długą miękką afrykatę ts: [t͡sʲːa]. W pisowni zachowaj ться."
+			"note": "Czas teraźniejszy z -ся: uczyć się samodzielnie."
 		},
-		"ya.vyvchaty": {},
-		"ty.vyvchaty": {},
-		"he.vyvchaty": {},
-		"my.vyvchaty": {},
-		"vy.vyvchaty": {},
-		"they.vyvchaty": {}
+		"ya.vyvchaty": {
+			"note": "Czas teraźniejszy od вивчати: studiować przedmiot."
+		},
+		"ty.vyvchaty": {
+			"note": "Czas teraźniejszy od вивчати: studiować przedmiot."
+		},
+		"he.vyvchaty": {
+			"note": "Czas teraźniejszy od вивчати: studiować przedmiot."
+		},
+		"my.vyvchaty": {
+			"note": "Czas teraźniejszy od вивчати: studiować przedmiot."
+		},
+		"vy.vyvchaty": {
+			"note": "Czas teraźniejszy od вивчати: studiować przedmiot."
+		},
+		"they.vyvchaty": {
+			"note": "Czas teraźniejszy od вивчати: studiować przedmiot."
+		}
 	},
 	"headers": {
 		"ya": "я",

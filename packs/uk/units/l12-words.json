@@ -10,127 +10,148 @@
 			"id": "serednoyi-statury",
 			"item": "word:serednoyi-statury",
 			"text": "середньої статури",
-			"display": "сере́дньої стату́ри"
+			"display": "сере́дньої стату́ри",
+			"ipa": "/sɛˈrɛdnʲɔji staˈturɪ/"
 		},
 		{
 			"id": "mitsnoyi-budovy",
 			"item": "word:mitsnoyi-budovy",
 			"text": "міцної будови",
-			"display": "міцно́ї будо́ви"
+			"display": "міцно́ї будо́ви",
+			"ipa": "/mit͡sˈnɔji buˈdɔʋɪ/"
 		},
 		{
 			"id": "khudyy",
 			"item": "word:khudyy",
 			"text": "худий",
-			"display": "худи́й"
+			"display": "худи́й",
+			"ipa": "/xuˈdɪj/"
 		},
 		{
 			"id": "khudorlyavyy",
 			"item": "word:khudorlyavyy",
 			"text": "худорлявий",
-			"display": "худорля́вий"
+			"display": "худорля́вий",
+			"ipa": "/xudɔrˈlʲaʋɪj/"
 		},
 		{
 			"id": "strunkyy",
 			"item": "word:strunkyy",
 			"text": "стрункий",
-			"display": "струнки́й"
+			"display": "струнки́й",
+			"ipa": "/strunˈkɪj/"
 		},
 		{
 			"id": "tenditnyy",
 			"item": "word:tenditnyy",
 			"text": "тендітний",
-			"display": "тенді́тний"
+			"display": "тенді́тний",
+			"ipa": "/tɛnˈdʲitnɪj/"
 		},
 		{
 			"id": "shyrokoplechyy",
 			"item": "word:shyrokoplechyy",
 			"text": "широкоплечий",
-			"display": "широкопле́чий"
+			"display": "широкопле́чий",
+			"ipa": "/ʃɪrɔkɔˈplɛt͡ʃɪj/"
 		},
 		{
 			"id": "tovstyy",
 			"item": "word:tovstyy",
 			"text": "товстий",
-			"display": "товсти́й"
+			"display": "товсти́й",
+			"ipa": "/tɔʋˈstɪj/"
 		},
 		{
 			"id": "povnyy",
 			"item": "word:povnyy",
 			"text": "повний",
-			"display": "по́вний"
+			"display": "по́вний",
+			"ipa": "/ˈpɔʋnɪj/"
 		},
 		{
 			"id": "vysokyy",
 			"item": "word:vysokyy",
 			"text": "високий",
-			"display": "висо́кий"
+			"display": "висо́кий",
+			"ipa": "/ʋɪˈsɔkɪj/"
 		},
 		{
 			"id": "nyzkyy",
 			"item": "word:nyzkyy",
 			"text": "низький",
-			"display": "низьки́й"
+			"display": "низьки́й",
+			"ipa": "/nɪˈzʲkɪj/"
 		},
 		{
 			"id": "nevysokyy",
 			"item": "word:nevysokyy",
 			"text": "невисокий",
-			"display": "невисо́кий"
+			"display": "невисо́кий",
+			"ipa": "/nɛʋɪˈsɔkɪj/"
 		},
 		{
 			"id": "serednoho-zrostu",
 			"item": "word:serednoho-zrostu",
 			"text": "середнього зросту",
-			"display": "сере́днього зро́сту"
+			"display": "сере́днього зро́сту",
+			"ipa": "/sɛˈrɛdnʲɔɦɔ ˈzrɔstu/"
 		},
 		{
 			"id": "kruhlyy",
 			"item": "word:kruhlyy",
 			"text": "круглий",
-			"display": "кру́глий"
+			"display": "кру́глий",
+			"ipa": "/ˈkruɦlɪj/"
 		},
 		{
 			"id": "kvadratnyy",
 			"item": "word:kvadratnyy",
 			"text": "квадратний",
-			"display": "квадра́тний"
+			"display": "квадра́тний",
+			"ipa": "/kʋaˈdratnɪj/"
 		},
 		{
 			"id": "vydovzhenyy",
 			"item": "word:vydovzhenyy",
 			"text": "видовжений",
-			"display": "ви́довжений"
+			"display": "ви́довжений",
+			"ipa": "/ˈʋɪdɔʋʒɛnɪj/"
 		},
 		{
 			"id": "rum-yanyy",
 			"item": "word:rum-yanyy",
 			"text": "рум'яний",
-			"display": "рум'я́ний"
+			"display": "рум'я́ний",
+			"ipa": "/ruˈmjanɪj/"
 		},
 		{
 			"id": "blidyy",
 			"item": "word:blidyy",
 			"text": "блідий",
-			"display": "бліди́й"
+			"display": "бліди́й",
+			"ipa": "/blʲiˈdɪj/"
 		},
 		{
 			"id": "smahlyavyy",
 			"item": "word:smahlyavyy",
 			"text": "смаглявий",
-			"display": "смагля́вий"
+			"display": "смагля́вий",
+			"ipa": "/smaˈɦlʲaʋɪj/"
 		},
 		{
 			"id": "zasmahlyy",
 			"item": "word:zasmahlyy",
 			"text": "засмаглий",
-			"display": "засма́глий"
+			"display": "засма́глий",
+			"ipa": "/zaˈsmaɦlɪj/"
 		},
 		{
 			"id": "harnyy",
 			"item": "word:harnyy",
 			"text": "гарний",
 			"display": "га́рний",
+			"ipa": "/ˈɦarnɪj/",
 			"alsoAccepted": ["красивий", "вродливий"]
 		},
 		{
@@ -138,223 +159,260 @@
 			"item": "word:neharnyy",
 			"text": "негарний",
 			"display": "нега́рний",
+			"ipa": "/nɛˈɦarnɪj/",
 			"alsoAccepted": ["некрасивий"]
 		},
 		{
 			"id": "sympatychnyy",
 			"item": "word:sympatychnyy",
 			"text": "симпатичний",
-			"display": "симпати́чний"
+			"display": "симпати́чний",
+			"ipa": "/sɪmpaˈtɪt͡ʃnɪj/"
 		},
 		{
 			"id": "potvornyy",
 			"item": "word:potvornyy",
 			"text": "потворний",
-			"display": "потво́рний"
+			"display": "потво́рний",
+			"ipa": "/pɔtˈʋɔrnɪj/"
 		},
 		{
 			"id": "nizhnyy",
 			"item": "word:nizhnyy",
 			"text": "ніжний",
-			"display": "ні́жний"
+			"display": "ні́жний",
+			"ipa": "/ˈnʲiʒnɪj/"
 		},
 		{
 			"id": "hrubyy",
 			"item": "word:hrubyy",
 			"text": "грубий",
-			"display": "гру́бий"
+			"display": "гру́бий",
+			"ipa": "/ˈɦrubɪj/"
 		},
 		{
 			"id": "veselyy",
 			"item": "word:veselyy",
 			"text": "веселий",
-			"display": "весе́лий"
+			"display": "весе́лий",
+			"ipa": "/ʋɛˈsɛlɪj/"
 		},
 		{
 			"id": "sturbovanyy",
 			"item": "word:sturbovanyy",
 			"text": "стурбований",
-			"display": "стурбо́ваний"
+			"display": "стурбо́ваний",
+			"ipa": "/sturˈbɔʋanɪj/"
 		},
 		{
 			"id": "seryoznyy",
 			"item": "word:seryoznyy",
 			"text": "серйозний",
-			"display": "серйо́зний"
+			"display": "серйо́зний",
+			"ipa": "/sɛrˈjɔznɪj/"
 		},
 		{
 			"id": "pryvitnyy",
 			"item": "word:pryvitnyy",
 			"text": "привітний",
-			"display": "приві́тний"
+			"display": "приві́тний",
+			"ipa": "/prɪˈʋitnɪj/"
 		},
 		{
 			"id": "khytryy",
 			"item": "word:khytryy",
 			"text": "хитрий",
-			"display": "хи́трий"
+			"display": "хи́трий",
+			"ipa": "/ˈxɪtrɪj/"
 		},
 		{
 			"id": "zadovolenyy",
 			"item": "word:zadovolenyy",
 			"text": "задоволений",
-			"display": "задово́лений"
+			"display": "задово́лений",
+			"ipa": "/zadɔˈʋɔlɛnɪj/"
 		},
 		{
 			"id": "khvylyastyy",
 			"item": "word:khvylyastyy",
 			"text": "хвилястий",
-			"display": "хвиля́стий"
+			"display": "хвиля́стий",
+			"ipa": "/xʋɪˈlʲastɪj/"
 		},
 		{
 			"id": "kucheryavyy",
 			"item": "word:kucheryavyy",
 			"text": "кучерявий",
-			"display": "кучеря́вий"
+			"display": "кучеря́вий",
+			"ipa": "/kut͡ʃɛˈrʲaʋɪj/"
 		},
 		{
 			"id": "pidstryzhenyy",
 			"item": "word:pidstryzhenyy",
 			"text": "підстрижений",
-			"display": "підстри́жений"
+			"display": "підстри́жений",
+			"ipa": "/pidˈstrɪʒɛnɪj/"
 		},
 		{
 			"id": "zachesanyy",
 			"item": "word:zachesanyy",
 			"text": "зачесаний",
-			"display": "заче́саний"
+			"display": "заче́саний",
+			"ipa": "/zaˈt͡ʃɛsanɪj/"
 		},
 		{
 			"id": "skuyovdzhenyy",
 			"item": "word:skuyovdzhenyy",
 			"text": "скуйовджений",
-			"display": "скуйо́вджений"
+			"display": "скуйо́вджений",
+			"ipa": "/skuˈjɔʋd͡ʒɛnɪj/"
 		},
 		{
 			"id": "kashtanovyy",
 			"item": "word:kashtanovyy",
 			"text": "каштановий",
-			"display": "кашта́новий"
+			"display": "кашта́новий",
+			"ipa": "/kaˈʃtanɔʋɪj/"
 		},
 		{
 			"id": "rudyy",
 			"item": "word:rudyy",
 			"text": "рудий",
-			"display": "руди́й"
+			"display": "руди́й",
+			"ipa": "/ruˈdɪj/"
 		},
 		{
 			"id": "rusyavyy",
 			"item": "word:rusyavyy",
 			"text": "русявий",
-			"display": "руся́вий"
+			"display": "руся́вий",
+			"ipa": "/ruˈsʲaʋɪj/"
 		},
 		{
 			"id": "syvyy",
 			"item": "word:syvyy",
 			"text": "сивий",
-			"display": "си́вий"
+			"display": "си́вий",
+			"ipa": "/ˈsɪʋɪj/"
 		},
 		{
 			"id": "farbovanyy",
 			"item": "word:farbovanyy",
 			"text": "фарбований",
-			"display": "фарбо́ваний"
+			"display": "фарбо́ваний",
+			"ipa": "/farˈbɔʋanɪj/"
 		},
 		{
 			"id": "karyy",
 			"item": "word:karyy",
 			"text": "карий",
-			"display": "ка́рий"
+			"display": "ка́рий",
+			"ipa": "/ˈkarɪj/"
 		},
 		{
 			"id": "hustyy",
 			"item": "word:hustyy",
 			"text": "густий",
-			"display": "густи́й"
+			"display": "густи́й",
+			"ipa": "/ɦuˈstɪj/"
 		},
 		{
 			"id": "pukhkyy",
 			"item": "word:pukhkyy",
 			"text": "пухкий",
-			"display": "пухки́й"
+			"display": "пухки́й",
+			"ipa": "/puxˈkɪj/"
 		},
 		{
 			"id": "dovhyy",
 			"item": "word:dovhyy",
 			"text": "довгий",
-			"display": "до́вгий"
+			"display": "до́вгий",
+			"ipa": "/ˈdɔʋɦɪj/"
 		},
 		{
 			"id": "korotkyy",
 			"item": "word:korotkyy",
 			"text": "короткий",
-			"display": "коро́ткий"
+			"display": "коро́ткий",
+			"ipa": "/kɔˈrɔtkɪj/"
 		},
 		{
 			"id": "pryamyy",
 			"item": "word:pryamyy",
 			"text": "прямий",
-			"display": "прями́й"
+			"display": "прями́й",
+			"ipa": "/prʲaˈmɪj/"
 		},
 		{
 			"id": "tonkyy",
 			"item": "word:tonkyy",
 			"text": "тонкий",
-			"display": "тонки́й"
+			"display": "тонки́й",
+			"ipa": "/tɔnˈkɪj/"
 		},
 		{
 			"id": "shyrokyy",
 			"item": "word:shyrokyy",
 			"text": "широкий",
-			"display": "широ́кий"
+			"display": "широ́кий",
+			"ipa": "/ʃɪˈrɔkɪj/"
 		},
 		{
 			"id": "z-horbynkoyu",
 			"item": "word:z-horbynkoyu",
 			"text": "з горбинкою",
-			"display": "з горби́нкою"
+			"display": "з горби́нкою",
+			"ipa": "/z ɦɔrˈbɪnkɔju/"
 		},
 		{
 			"id": "zdorovyy",
 			"item": "word:zdorovyy",
 			"text": "здоровий",
-			"display": "здоро́вий"
+			"display": "здоро́вий",
+			"ipa": "/zdɔˈrɔʋɪj/"
 		},
 		{
 			"id": "svitlyy",
 			"item": "word:svitlyy",
 			"text": "світлий",
-			"display": "сві́тлий"
+			"display": "сві́тлий",
+			"ipa": "/ˈsʋitlɪj/"
 		},
 		{
 			"id": "temnyy",
 			"item": "word:temnyy",
 			"text": "темний",
-			"display": "те́мний"
+			"display": "те́мний",
+			"ipa": "/ˈtɛmnɪj/"
 		},
 		{
 			"id": "bilyy",
 			"item": "word:bilyy",
 			"text": "білий",
-			"display": "бі́лий"
+			"display": "бі́лий",
+			"ipa": "/ˈbilɪj/"
 		},
 		{
 			"id": "chornyy",
 			"item": "word:chornyy",
 			"text": "чорний",
-			"display": "чо́рний"
+			"display": "чо́рний",
+			"ipa": "/ˈt͡ʃɔrnɪj/"
 		},
 		{
 			"id": "siryy",
 			"item": "word:siryy",
 			"text": "сірий",
-			"display": "сі́рий"
+			"display": "сі́рий",
+			"ipa": "/ˈsʲirɪj/"
 		},
 		{
 			"id": "velykyy",
 			"item": "word:velykyy",
 			"text": "великий",
-			"display": "вели́кий"
+			"display": "вели́кий",
+			"ipa": "/ʋɛˈlɪkɪj/"
 		}
 	],
 	"sources": [

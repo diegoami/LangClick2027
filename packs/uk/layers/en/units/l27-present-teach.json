@@ -2,18 +2,42 @@
 	"title": "Teach and study: present tense",
 	"summary": "Conjugate the exact infinitive in each column. Навчати means teaching someone; навчатися means studying or learning oneself. Rows use Ukrainian subject pronouns; the він form also serves вона and воно. Ви is plural or polite.",
 	"cells": {
-		"ya.navchaty": {},
-		"ty.navchaty": {},
-		"he.navchaty": {},
-		"my.navchaty": {},
-		"vy.navchaty": {},
-		"they.navchaty": {},
-		"ya.navchatysya": {},
-		"ty.navchatysya": {},
-		"he.navchatysya": {},
-		"my.navchatysya": {},
-		"vy.navchatysya": {},
-		"they.navchatysya": {}
+		"ya.navchaty": {
+			"note": "Present tense of навчати: to teach somebody."
+		},
+		"ty.navchaty": {
+			"note": "Present tense of навчати: to teach somebody."
+		},
+		"he.navchaty": {
+			"note": "Present tense of навчати: to teach somebody."
+		},
+		"my.navchaty": {
+			"note": "Present tense of навчати: to teach somebody."
+		},
+		"vy.navchaty": {
+			"note": "Present tense of навчати: to teach somebody."
+		},
+		"they.navchaty": {
+			"note": "Present tense of навчати: to teach somebody."
+		},
+		"ya.navchatysya": {
+			"note": "Present tense with -ся: to learn from somebody."
+		},
+		"ty.navchatysya": {
+			"note": "Present tense with -ся: to learn from somebody."
+		},
+		"he.navchatysya": {
+			"note": "Present tense with -ся: to learn from somebody."
+		},
+		"my.navchatysya": {
+			"note": "Present tense with -ся: to learn from somebody."
+		},
+		"vy.navchatysya": {
+			"note": "Present tense with -ся: to learn from somebody."
+		},
+		"they.navchatysya": {
+			"note": "Present tense with -ся: to learn from somebody."
+		}
 	},
 	"headers": {
 		"ya": "я",

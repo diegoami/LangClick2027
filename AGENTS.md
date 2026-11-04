@@ -66,12 +66,8 @@ are the gate.
 - **No per-PR review.** Feature and fix PRs are not reviewed by another model:
   the owner tests each one and OKs the merge. The one independent review is the
   milestone review of the release (*Releases*).
-- **Choosing a model.** Before choosing, recommending or delegating to a model,
-  check its provider's quota: `curl -s localhost:8765/avoid`. An `exhausted`
-  provider is not used until usable again; say so when it changes the choice.
-  Where the service is absent, go on and count a usage-limit error as
-  `exhausted`. Heavy models run at effort `medium`, or lighter when medium is
-  not needed.
+- **Choosing a model.** Heavy models run at effort `medium`, or lighter when
+  medium is not needed.
 - Keep `ROADMAP.md`, `ARCHITECTURE.md` and `DECISIONS.md` current as work lands:
   status, code map, and the *why*. Edit the relevant section. When a later
   decision supersedes an earlier one, amend that entry.
@@ -129,8 +125,8 @@ where the tag also lives, and the release notes name the tagged commit. Say in
 the entry what was built and what was actually tried, rather than implying it.
 
 The implementing agent does the work itself and never spawns its own reviewer.
-The review runs in a **different model family from the implementer's**, in
-whatever tool the owner picks, in a fresh session every time.
+The review runs in whatever tool and model the owner picks, in a fresh session
+every time.
 
 **How a milestone happens** (the steps in full: `docs/RELEASES.md`):
 

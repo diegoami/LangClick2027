@@ -9,5 +9,25 @@
 		"vy": "ви",
 		"they": "вони",
 		"pity": "піти́ — що зробити?"
+	},
+	"cells": {
+		"ya.pity": {
+			"note": "Future: піду — the simple future of a perfective verb."
+		},
+		"ty.pity": {
+			"note": "Future: підеш — second person singular."
+		},
+		"he.pity": {
+			"note": "Future: піде — third person singular."
+		},
+		"my.pity": {
+			"note": "Future: підемо — first person plural."
+		},
+		"vy.pity": {
+			"note": "Future: підете — second person plural."
+		},
+		"they.pity": {
+			"note": "Future: підуть — third person plural."
+		}
 	}
 }

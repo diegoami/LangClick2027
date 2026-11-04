@@ -10,5 +10,43 @@
 		"they": "вони",
 		"yikhaty": "ї́хати",
 		"yizdyty": "ї́здити"
+	},
+	"cells": {
+		"ya.yikhaty": {
+			"note": "Present tense of їхати: the verb of one journey."
+		},
+		"ya.yizdyty": {
+			"note": "Present tense of їздити: a second conjugation verb, so the stem changes."
+		},
+		"ty.yikhaty": {
+			"note": "Present tense of їхати: the verb of one journey."
+		},
+		"ty.yizdyty": {
+			"note": "Present tense of їздити: a second conjugation verb, so the stem changes."
+		},
+		"he.yikhaty": {
+			"note": "Present tense of їхати: the verb of one journey."
+		},
+		"he.yizdyty": {
+			"note": "Present tense of їздити: a second conjugation verb, so the stem changes."
+		},
+		"my.yikhaty": {
+			"note": "Present tense of їхати: the verb of one journey."
+		},
+		"my.yizdyty": {
+			"note": "Present tense of їздити: a second conjugation verb, so the stem changes."
+		},
+		"vy.yikhaty": {
+			"note": "Present tense of їхати: the verb of one journey."
+		},
+		"vy.yizdyty": {
+			"note": "Present tense of їздити: a second conjugation verb, so the stem changes."
+		},
+		"they.yikhaty": {
+			"note": "Present tense of їхати: the verb of one journey."
+		},
+		"they.yizdyty": {
+			"note": "Present tense of їздити: a second conjugation verb, so the stem changes."
+		}
 	}
 }

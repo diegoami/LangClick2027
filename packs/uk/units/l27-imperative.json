@@ -21,6 +21,7 @@
 			"item": "verb-imperative:pysaty:ty",
 			"text": "пиши",
 			"display": "пиши́",
+			"ipa": "/pɪˈʃɪ/",
 			"row": "pysaty",
 			"col": "ty"
 		},
@@ -29,6 +30,7 @@
 			"item": "verb-imperative:pysaty:my",
 			"text": "пишімо",
 			"display": "пиші́мо",
+			"ipa": "/pɪˈʃimɔ/",
 			"row": "pysaty",
 			"col": "my",
 			"alsoAccepted": ["пишім"]
@@ -38,6 +40,7 @@
 			"item": "verb-imperative:pysaty:vy",
 			"text": "пишіть",
 			"display": "пиші́ть",
+			"ipa": "/pɪˈʃitʲ/",
 			"row": "pysaty",
 			"col": "vy",
 			"alsoAccepted": ["пишіте"]
@@ -47,6 +50,7 @@
 			"item": "verb-imperative:vypysaty:ty",
 			"text": "випиши",
 			"display": "ви́пиши",
+			"ipa": "/ˈʋɪpɪʃɪ/",
 			"row": "vypysaty",
 			"col": "ty"
 		},
@@ -55,6 +59,7 @@
 			"item": "verb-imperative:vypysaty:my",
 			"text": "випишімо",
 			"display": "ви́пишімо",
+			"ipa": "/ˈʋɪpɪʃimɔ/",
 			"row": "vypysaty",
 			"col": "my",
 			"alsoAccepted": ["випишім"]
@@ -64,6 +69,7 @@
 			"item": "verb-imperative:vypysaty:vy",
 			"text": "випишіть",
 			"display": "ви́пишіть",
+			"ipa": "/ˈʋɪpɪʃitʲ/",
 			"row": "vypysaty",
 			"col": "vy"
 		},
@@ -72,6 +78,7 @@
 			"item": "verb-imperative:pidkreslyty:ty",
 			"text": "підкресли",
 			"display": "підкре́сли",
+			"ipa": "/pidˈkrɛslɪ/",
 			"row": "pidkreslyty",
 			"col": "ty",
 			"alsoAccepted": ["підкресль"]
@@ -81,6 +88,7 @@
 			"item": "verb-imperative:pidkreslyty:my",
 			"text": "підкреслімо",
 			"display": "підкре́слімо",
+			"ipa": "/pidˈkrɛsʲlʲimɔ/",
 			"row": "pidkreslyty",
 			"col": "my",
 			"alsoAccepted": ["підкреслім", "підкресльмо"]
@@ -90,6 +98,7 @@
 			"item": "verb-imperative:pidkreslyty:vy",
 			"text": "підкресліть",
 			"display": "підкре́сліть",
+			"ipa": "/pidˈkrɛsʲlʲitʲ/",
 			"row": "pidkreslyty",
 			"col": "vy",
 			"alsoAccepted": ["підкресльте"]
@@ -99,6 +108,7 @@
 			"item": "verb-imperative:vykonuvaty:ty",
 			"text": "виконуй",
 			"display": "вико́нуй",
+			"ipa": "/ʋɪˈkɔnuj/",
 			"row": "vykonuvaty",
 			"col": "ty"
 		},
@@ -107,6 +117,7 @@
 			"item": "verb-imperative:vykonuvaty:my",
 			"text": "виконуймо",
 			"display": "вико́нуймо",
+			"ipa": "/ʋɪˈkɔnujmɔ/",
 			"row": "vykonuvaty",
 			"col": "my"
 		},
@@ -115,6 +126,7 @@
 			"item": "verb-imperative:vykonuvaty:vy",
 			"text": "виконуйте",
 			"display": "вико́нуйте",
+			"ipa": "/ʋɪˈkɔnujtɛ/",
 			"row": "vykonuvaty",
 			"col": "vy"
 		},
@@ -123,6 +135,7 @@
 			"item": "verb-imperative:pereviryty:ty",
 			"text": "перевір",
 			"display": "переві́р",
+			"ipa": "/pɛrɛˈʋir/",
 			"row": "pereviryty",
 			"col": "ty"
 		},
@@ -131,6 +144,7 @@
 			"item": "verb-imperative:pereviryty:my",
 			"text": "перевірмо",
 			"display": "переві́рмо",
+			"ipa": "/pɛrɛˈʋirmɔ/",
 			"row": "pereviryty",
 			"col": "my"
 		},
@@ -139,6 +153,7 @@
 			"item": "verb-imperative:pereviryty:vy",
 			"text": "перевірте",
 			"display": "переві́рте",
+			"ipa": "/pɛrɛˈʋirtɛ/",
 			"row": "pereviryty",
 			"col": "vy"
 		},
@@ -147,6 +162,7 @@
 			"item": "verb-imperative:sisty:ty",
 			"text": "сядь",
 			"display": "сядь",
+			"ipa": "/sʲadʲ/",
 			"row": "sisty",
 			"col": "ty"
 		},
@@ -155,6 +171,7 @@
 			"item": "verb-imperative:sisty:my",
 			"text": "сядьмо",
 			"display": "ся́дьмо",
+			"ipa": "/ˈsʲadʲmɔ/",
 			"row": "sisty",
 			"col": "my"
 		},
@@ -163,6 +180,7 @@
 			"item": "verb-imperative:sisty:vy",
 			"text": "сядьте",
 			"display": "ся́дьте",
+			"ipa": "/ˈsʲadʲtɛ/",
 			"row": "sisty",
 			"col": "vy"
 		},
@@ -171,6 +189,7 @@
 			"item": "verb-imperative:kynuty:ty",
 			"text": "кинь",
 			"display": "кинь",
+			"ipa": "/kɪnʲ/",
 			"row": "kynuty",
 			"col": "ty"
 		},
@@ -179,6 +198,7 @@
 			"item": "verb-imperative:kynuty:my",
 			"text": "киньмо",
 			"display": "ки́ньмо",
+			"ipa": "/ˈkɪnʲmɔ/",
 			"row": "kynuty",
 			"col": "my"
 		},
@@ -187,6 +207,7 @@
 			"item": "verb-imperative:kynuty:vy",
 			"text": "киньте",
 			"display": "ки́ньте",
+			"ipa": "/ˈkɪnʲtɛ/",
 			"row": "kynuty",
 			"col": "vy"
 		},
@@ -195,6 +216,7 @@
 			"item": "verb-imperative:zapovnyty:ty",
 			"text": "заповни",
 			"display": "запо́вни",
+			"ipa": "/zaˈpɔʋnɪ/",
 			"row": "zapovnyty",
 			"col": "ty"
 		},
@@ -203,6 +225,7 @@
 			"item": "verb-imperative:zapovnyty:my",
 			"text": "заповнімо",
 			"display": "запо́внімо",
+			"ipa": "/zaˈpɔʋnʲimɔ/",
 			"row": "zapovnyty",
 			"col": "my",
 			"alsoAccepted": ["заповнім"]
@@ -212,6 +235,7 @@
 			"item": "verb-imperative:zapovnyty:vy",
 			"text": "заповніть",
 			"display": "запо́вніть",
+			"ipa": "/zaˈpɔʋnʲitʲ/",
 			"row": "zapovnyty",
 			"col": "vy"
 		}

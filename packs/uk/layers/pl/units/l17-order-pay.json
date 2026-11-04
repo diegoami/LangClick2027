@@ -3,37 +3,48 @@
 	"summary": "Prośby, formy płatności i kwoty: 1, 2–4 i 5+.",
 	"cells": {
 		"water": {
-			"sentenceGloss": "Proszę przynieść nam wodę niegazowaną."
+			"sentenceGloss": "Proszę przynieść nam wodę niegazowaną.",
+			"note": "Biernik: to, co się przynosi, stoi w bierniku."
 		},
 		"card": {
-			"sentenceGloss": "Za kolację zapłacimy kartą."
+			"sentenceGloss": "Za kolację zapłacimy kartą.",
+			"note": "Narzędnik: zapłacić łączy się z narzędnikiem przy sposobie płacenia."
 		},
 		"cash": {
-			"sentenceGloss": "Dzisiaj płacimy gotówką."
+			"sentenceGloss": "Dzisiaj płacimy gotówką.",
+			"note": "Narzędnik: płacić łączy się z narzędnikiem przy sposobie płacenia."
 		},
 		"coffee": {
-			"sentenceGloss": "Zamówię kawę bez mleka."
+			"sentenceGloss": "Zamówię kawę bez mleka.",
+			"note": "Biernik: to, co się zamawia, stoi w bierniku."
 		},
 		"one": {
-			"sentenceGloss": "Na stole jest jedna hrywna."
+			"sentenceGloss": "Na stole jest jedna hrywna.",
+			"note": "Mianownik l. poj.: jeden zgadza się z rzeczownikiem w mianowniku."
 		},
 		"two": {
-			"sentenceGloss": "Torebka kosztuje dwie hrywny."
+			"sentenceGloss": "Torebka kosztuje dwie hrywny.",
+			"note": "Mianownik l. mn.: dwa wymaga formy liczby mnogiej."
 		},
 		"five": {
-			"sentenceGloss": "Za serwetki policzono pięć hrywien."
+			"sentenceGloss": "Za serwetki policzono pięć hrywien.",
+			"note": "Dopełniacz l. mn.: po pięciu rzeczownik w drugim przypadku liczby mnogiej."
 		},
 		"twentyone": {
-			"sentenceGloss": "Na paragonie jest dwadzieścia jeden hrywien."
+			"sentenceGloss": "Na paragonie jest dwadzieścia jeden hrywien.",
+			"note": "Mianownik l. poj.: po liczebniku złożonym zakończonym na одна rzeczownik zgadza się z одна — двадцять одна гривня (ale двадцять дві гривні)."
 		},
 		"twentytwo": {
-			"sentenceGloss": "Herbata kosztuje dwadzieścia dwie hrywny."
+			"sentenceGloss": "Herbata kosztuje dwadzieścia dwie hrywny.",
+			"note": "Mianownik l. mn.: ostatnia część liczebnika zgadza się z rzeczownikiem."
 		},
 		"twentyfive": {
-			"sentenceGloss": "Kawa kosztuje dwadzieścia pięć hrywien."
+			"sentenceGloss": "Kawa kosztuje dwadzieścia pięć hrywien.",
+			"note": "Dopełniacz l. mn.: po dwudziestu pięciu rzeczownik w drugim przypadku liczby mnogiej."
 		},
 		"bill-request": {
-			"sentenceGloss": "Proszę dać nam rachunek za kolację."
+			"sentenceGloss": "Proszę dać nam rachunek za kolację.",
+			"note": "Biernik: to, o co się prosi, stoi w bierniku."
 		}
 	}
 }

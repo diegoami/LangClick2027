@@ -1,0 +1,1015 @@
+{
+	"checker": "claude-opus-5-5-conventions-a",
+	"entries": [
+		{
+			"key": "core/countries/spain.from",
+			"seen": "{\"item\":\"country:spain:from\",\"text\":\"Іспанії\",\"display\":\"Іспа́нії\",\"ipa\":\"/iˈspanʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"spain\",\"col\":\"from\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/countries/spain.in",
+			"seen": "{\"item\":\"country:spain:in\",\"text\":\"Іспанії\",\"display\":\"Іспа́нії\",\"ipa\":\"/iˈspanʲiji/\",\"concepts\":[\"from-in\"],\"row\":\"spain\",\"col\":\"in\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h11.at",
+			"seen": "{\"item\":\"hour:h11:at\",\"text\":\"одинадцятій\",\"display\":\"одина́дцятій\",\"ipa\":\"/ɔdɪˈnadʲt͡sʲatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h11.half",
+			"seen": "{\"item\":\"hour:h11:half\",\"text\":\"одинадцяту\",\"display\":\"одина́дцяту\",\"ipa\":\"/ɔdɪˈnadʲt͡sʲatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h11.hour",
+			"seen": "{\"item\":\"hour:h11:hour\",\"text\":\"одинадцята\",\"display\":\"одина́дцята\",\"ipa\":\"/ɔdɪˈnadʲt͡sʲata/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h12.at",
+			"seen": "{\"item\":\"hour:h12:at\",\"text\":\"дванадцятій\",\"display\":\"двана́дцятій\",\"ipa\":\"/dʋaˈnadʲt͡sʲatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"at\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h12.half",
+			"seen": "{\"item\":\"hour:h12:half\",\"text\":\"дванадцяту\",\"display\":\"двана́дцяту\",\"ipa\":\"/dʋaˈnadʲt͡sʲatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"half\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/hours/h12.hour",
+			"seen": "{\"item\":\"hour:h12:hour\",\"text\":\"дванадцята\",\"display\":\"двана́дцята\",\"ipa\":\"/dʋaˈnadʲt͡sʲata/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"hour\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l04-words/anhliyska",
+			"seen": "{\"item\":\"word:anhliyska\",\"text\":\"англійська\",\"display\":\"англі́йська\",\"ipa\":\"/anˈɦlʲijsʲka/\",\"alsoAccepted\":[\"англійська мова\"],\"cognates\":{\"ru\":{\"form\":\"англи́йский\"},\"pl\":{\"form\":\"angielski\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n11",
+			"seen": "{\"item\":\"number:n11\",\"text\":\"одинадцять\",\"display\":\"одина́дцять\",\"ipa\":\"/ɔdɪˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"оди́ннадцать\"},\"pl\":{\"form\":\"jedenaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n12",
+			"seen": "{\"item\":\"number:n12\",\"text\":\"дванадцять\",\"display\":\"двана́дцять\",\"ipa\":\"/dʋaˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"двена́дцать\"},\"pl\":{\"form\":\"dwanaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n13",
+			"seen": "{\"item\":\"number:n13\",\"text\":\"тринадцять\",\"display\":\"трина́дцять\",\"ipa\":\"/trɪˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"трина́дцать\"},\"pl\":{\"form\":\"trzynaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n14",
+			"seen": "{\"item\":\"number:n14\",\"text\":\"чотирнадцять\",\"display\":\"чотирна́дцять\",\"ipa\":\"/t͡ʃɔtɪrˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"четы́рнадцать\"},\"pl\":{\"form\":\"czternaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n15",
+			"seen": "{\"item\":\"number:n15\",\"text\":\"п'ятнадцять\",\"display\":\"п'ятна́дцять\",\"ipa\":\"/pjatˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"пятна́дцать\"},\"pl\":{\"form\":\"piętnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n16",
+			"seen": "{\"item\":\"number:n16\",\"text\":\"шістнадцять\",\"display\":\"шістна́дцять\",\"ipa\":\"/ʃisˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"шестна́дцать\"},\"pl\":{\"form\":\"szesnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n17",
+			"seen": "{\"item\":\"number:n17\",\"text\":\"сімнадцять\",\"display\":\"сімна́дцять\",\"ipa\":\"/sʲimˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"семна́дцать\"},\"pl\":{\"form\":\"siedemnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n18",
+			"seen": "{\"item\":\"number:n18\",\"text\":\"вісімнадцять\",\"display\":\"вісімна́дцять\",\"ipa\":\"/ʋisʲimˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"восемна́дцать\"},\"pl\":{\"form\":\"osiemnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n19",
+			"seen": "{\"item\":\"number:n19\",\"text\":\"дев'ятнадцять\",\"display\":\"дев'ятна́дцять\",\"ipa\":\"/dɛʋjatˈnadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"девятна́дцать\"},\"pl\":{\"form\":\"dziewiętnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n20",
+			"seen": "{\"item\":\"number:n20\",\"text\":\"двадцять\",\"display\":\"два́дцять\",\"ipa\":\"/ˈdʋadʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"два́дцать\"},\"pl\":{\"form\":\"dwadzieścia\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l06-numbers/n30",
+			"seen": "{\"item\":\"number:n30\",\"text\":\"тридцять\",\"display\":\"три́дцять\",\"ipa\":\"/ˈtrɪdʲt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"три́дцать\"},\"pl\":{\"form\":\"trzydzieści\"}}}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l11-words/hrudna-klityna",
+			"seen": "{\"item\":\"word:hrudna-klityna\",\"text\":\"грудна клітина\",\"display\":\"грудна́ кліти́на\",\"ipa\":\"/ɦrudˈna klʲiˈtɪna/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/hustyy",
+			"seen": "{\"item\":\"word:hustyy\",\"text\":\"густий\",\"display\":\"густи́й\",\"ipa\":\"/ɦuˈstɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/kashtanovyy",
+			"seen": "{\"item\":\"word:kashtanovyy\",\"text\":\"каштановий\",\"display\":\"кашта́новий\",\"ipa\":\"/kaˈʃtanɔʋɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/kvadratnyy",
+			"seen": "{\"item\":\"word:kvadratnyy\",\"text\":\"квадратний\",\"display\":\"квадра́тний\",\"ipa\":\"/kʋaˈdratnɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/mitsnoyi-budovy",
+			"seen": "{\"item\":\"word:mitsnoyi-budovy\",\"text\":\"міцної будови\",\"display\":\"міцно́ї будо́ви\",\"ipa\":\"/mit͡sˈnɔji buˈdɔʋɪ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/nyzkyy",
+			"seen": "{\"item\":\"word:nyzkyy\",\"text\":\"низький\",\"display\":\"низьки́й\",\"ipa\":\"/nɪˈzʲkɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/pidstryzhenyy",
+			"seen": "{\"item\":\"word:pidstryzhenyy\",\"text\":\"підстрижений\",\"display\":\"підстри́жений\",\"ipa\":\"/pidˈstrɪʒɛnɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/smahlyavyy",
+			"seen": "{\"item\":\"word:smahlyavyy\",\"text\":\"смаглявий\",\"display\":\"смагля́вий\",\"ipa\":\"/smaˈɦlʲaʋɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l12-words/tovstyy",
+			"seen": "{\"item\":\"word:tovstyy\",\"text\":\"товстий\",\"display\":\"товсти́й\",\"ipa\":\"/tɔʋˈstɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l13-sizes/38.c0",
+			"seen": "{\"item\":\"l13:sizes:38:c0\",\"text\":\"тридцять восьмий\",\"display\":\"три́дцять во́сьмий\",\"ipa\":\"/ˈtrɪdʲt͡sʲatʲ ˈʋɔsʲmɪj/\",\"row\":\"38\",\"col\":\"c0\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l13-sizes/38.c1",
+			"seen": "{\"item\":\"l13:sizes:38:c1\",\"text\":\"тридцять восьмого\",\"display\":\"три́дцять во́сьмого\",\"ipa\":\"/ˈtrɪdʲt͡sʲatʲ ˈʋɔsʲmɔɦɔ/\",\"row\":\"38\",\"col\":\"c1\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l13-sizes/39.c0",
+			"seen": "{\"item\":\"l13:sizes:39:c0\",\"text\":\"тридцять дев'ятий\",\"display\":\"три́дцять дев'я́тий\",\"ipa\":\"/ˈtrɪdʲt͡sʲatʲ dɛˈʋjatɪj/\",\"row\":\"39\",\"col\":\"c0\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l13-sizes/39.c1",
+			"seen": "{\"item\":\"l13:sizes:39:c1\",\"text\":\"тридцять дев'ятого\",\"display\":\"три́дцять дев'я́того\",\"ipa\":\"/ˈtrɪdʲt͡sʲatʲ dɛˈʋjatɔɦɔ/\",\"row\":\"39\",\"col\":\"c1\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l13-words/nichna-sorochka",
+			"seen": "{\"item\":\"word:nichna-sorochka\",\"text\":\"нічна сорочка\",\"display\":\"нічна́ соро́чка\",\"ipa\":\"/nʲit͡ʃˈna sɔˈrɔt͡ʃka/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l13-words/spidnytsya",
+			"seen": "{\"item\":\"word:spidnytsya\",\"text\":\"спідниця\",\"display\":\"спідни́ця\",\"ipa\":\"/spidˈnɪt͡sʲa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l14-words/kvartyra",
+			"seen": "{\"item\":\"word:kvartyra\",\"text\":\"квартира\",\"display\":\"кварти́ра\",\"ipa\":\"/kʋarˈtɪra/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l14-words/pysmovyy-stil",
+			"seen": "{\"item\":\"word:pysmovyy-stil\",\"text\":\"письмовий стіл\",\"display\":\"письмо́вий стіл\",\"ipa\":\"/pɪsʲˈmɔʋɪj sʲtʲil/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l14-words/rushnyk",
+			"seen": "{\"item\":\"word:rushnyk\",\"text\":\"рушник\",\"display\":\"рушни́к\",\"ipa\":\"/ruʃˈnɪk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l15-words/kvasolya",
+			"seen": "{\"item\":\"word:kvasolya\",\"text\":\"квасоля\",\"display\":\"квасо́ля\",\"ipa\":\"/kʋaˈsɔlʲa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l15-words/morkva",
+			"seen": "{\"item\":\"word:morkva\",\"text\":\"морква\",\"display\":\"мо́рква\",\"ipa\":\"/ˈmɔrkʋa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l15-words/vershky",
+			"seen": "{\"item\":\"word:vershky\",\"text\":\"вершки\",\"display\":\"вершки́\",\"ipa\":\"/ʋɛrˈʃkɪ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l16-quantities/kilos.c0",
+			"seen": "{\"item\":\"l16:quantities:kilos:c0\",\"text\":\"кілограм\",\"display\":\"кілогра́м\",\"ipa\":\"/kilɔˈɦram/\",\"row\":\"kilos\",\"col\":\"c0\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l16-quantities/kilos.c1",
+			"seen": "{\"item\":\"l16:quantities:kilos:c1\",\"text\":\"кілограмів\",\"display\":\"кілогра́мів\",\"ipa\":\"/kilɔˈɦramiʋ/\",\"row\":\"kilos\",\"col\":\"c1\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l16-words/kilohram",
+			"seen": "{\"item\":\"word:kilohram\",\"text\":\"кілограм\",\"display\":\"кілогра́м\",\"ipa\":\"/kilɔˈɦram/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l18-words/elektrychka",
+			"seen": "{\"item\":\"word:elektrychka\",\"text\":\"електричка\",\"display\":\"електри́чка\",\"ipa\":\"/ɛlɛkˈtrɪt͡ʃka/\",\"alsoAccepted\":[\"електропоїзд\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l18-words/kvytok",
+			"seen": "{\"item\":\"word:kvytok\",\"text\":\"квиток\",\"display\":\"квито́к\",\"ipa\":\"/kʋɪˈtɔk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l18-words/marshrutka",
+			"seen": "{\"item\":\"word:marshrutka\",\"text\":\"маршрутка\",\"display\":\"маршру́тка\",\"ipa\":\"/marˈʃrutka/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l18-words/vokzal",
+			"seen": "{\"item\":\"word:vokzal\",\"text\":\"вокзал\",\"display\":\"вокза́л\",\"ipa\":\"/ʋɔɡˈzal/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l19-words/navproty",
+			"seen": "{\"item\":\"word:navproty\",\"text\":\"навпроти\",\"display\":\"навпро́ти\",\"ipa\":\"/naʋˈprɔtɪ/\",\"alsoAccepted\":[\"напроти\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l20-words/prospekt",
+			"seen": "{\"item\":\"word:prospekt\",\"text\":\"проспект\",\"display\":\"проспе́кт\",\"ipa\":\"/prɔˈspɛkt/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l20-words/tserkva",
+			"seen": "{\"item\":\"word:tserkva\",\"text\":\"церква\",\"display\":\"це́рква\",\"ipa\":\"/ˈt͡sɛrkʋa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l21-adjective-kinds/vidnosnyy",
+			"seen": "{\"item\":\"word:vidnosnyy\",\"text\":\"відносний\",\"display\":\"відно́сний\",\"ipa\":\"/ʋidˈnɔsnɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l21-comparison/nizhnyy.higher",
+			"seen": "{\"item\":\"form:l21-comparison:nizhnyy:higher\",\"text\":\"ніжніший\",\"display\":\"ніжні́ший\",\"ipa\":\"/nʲiʒˈnʲiʃɪj/\",\"row\":\"nizhnyy\",\"col\":\"higher\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l21-superlative/blyzkyy.highest",
+			"seen": "{\"item\":\"form:l21-comparison:blyzkyy:highest\",\"text\":\"найближчий\",\"display\":\"найбли́жчий\",\"ipa\":\"/najˈblɪʒt͡ʃɪj/\",\"row\":\"blyzkyy\",\"col\":\"highest\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l21-superlative/hlybokyy.highest",
+			"seen": "{\"item\":\"form:l21-comparison:hlybokyy:highest\",\"text\":\"найглибший\",\"display\":\"найгли́бший\",\"ipa\":\"/najˈɦlɪbʃɪj/\",\"row\":\"hlybokyy\",\"col\":\"highest\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l21-superlative/khoroshyy.highest",
+			"seen": "{\"item\":\"form:l21-comparison:khoroshyy:highest\",\"text\":\"найкращий\",\"display\":\"найкра́щий\",\"ipa\":\"/najˈkraʃt͡ʃɪj/\",\"alsoAccepted\":[\"найліпший\"],\"row\":\"khoroshyy\",\"col\":\"highest\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l21-superlative/nizhnyy.highest",
+			"seen": "{\"item\":\"form:l21-comparison:nizhnyy:highest\",\"text\":\"найніжніший\",\"display\":\"найніжні́ший\",\"ipa\":\"/najnʲiʒˈnʲiʃɪj/\",\"row\":\"nizhnyy\",\"col\":\"highest\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l21-words/postuplyvyy",
+			"seen": "{\"item\":\"word:postuplyvyy\",\"text\":\"поступливий\",\"display\":\"посту́пливий\",\"ipa\":\"/pɔˈstuplɪʋɪj/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l22-words/kvitnykarstvo",
+			"seen": "{\"item\":\"word:kvitnykarstvo\",\"text\":\"квітникарство\",\"display\":\"квітника́рство\",\"ipa\":\"/kʋitnɪˈkarstʋɔ/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l24-words/hastryt",
+			"seen": "{\"item\":\"word:hastryt\",\"text\":\"гастрит\",\"display\":\"гастри́т\",\"ipa\":\"/ɦaˈstrɪt/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l24-words/zastuda",
+			"seen": "{\"item\":\"word:zastuda\",\"text\":\"застуда\",\"display\":\"засту́да\",\"ipa\":\"/zaˈstuda/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-calendar/christmas",
+			"seen": "{\"item\":\"holiday-date:uk:christmas\",\"text\":\"двадцять п'яте грудня\",\"display\":\"два́дцять п'я́те гру́дня\",\"ipa\":\"/ˈdʋadʲt͡sʲatʲ ˈpjatɛ ˈɦrudʲnʲa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-calendar/constitution",
+			"seen": "{\"item\":\"holiday-date:uk:constitution\",\"text\":\"двадцять восьме червня\",\"display\":\"два́дцять во́сьме че́рвня\",\"ipa\":\"/ˈdʋadʲt͡sʲatʲ ˈʋɔsʲmɛ ˈt͡ʃɛrʋnʲa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-calendar/independence",
+			"seen": "{\"item\":\"holiday-date:uk:independence\",\"text\":\"двадцять четверте серпня\",\"display\":\"два́дцять четве́рте се́рпня\",\"ipa\":\"/ˈdʋadʲt͡sʲatʲ t͡ʃɛtˈʋɛrtɛ ˈsɛrpnʲa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l25-calendar/statehood",
+			"seen": "{\"item\":\"holiday-date:uk:statehood\",\"text\":\"п'ятнадцяте липня\",\"display\":\"п'ятна́дцяте ли́пня\",\"ipa\":\"/pjatˈnadʲt͡sʲatɛ ˈlɪpnʲa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l26-flowers-words/pidsnizhnyk",
+			"seen": "{\"item\":\"word:pidsnizhnyk\",\"text\":\"підсніжник\",\"display\":\"підсні́жник\",\"ipa\":\"/pidʲsʲˈnʲiʒnɪk/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l26-trees-words/fistashka",
+			"seen": "{\"item\":\"word:fistashka\",\"text\":\"фісташка\",\"display\":\"фіста́шка\",\"ipa\":\"/fiˈstaʃka/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l26-words/lisostep",
+			"seen": "{\"item\":\"word:lisostep\",\"text\":\"лісостеп\",\"display\":\"лісосте́п\",\"ipa\":\"/lʲisɔˈstɛp/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l26-words/roslyna",
+			"seen": "{\"item\":\"word:roslyna\",\"text\":\"рослина\",\"display\":\"росли́на\",\"ipa\":\"/rɔˈslɪna/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l27-imperative/my.pidkreslyty",
+			"seen": "{\"item\":\"verb-imperative:pidkreslyty:my\",\"text\":\"підкреслімо\",\"display\":\"підкре́слімо\",\"ipa\":\"/pidˈkrɛsʲlʲimɔ/\",\"alsoAccepted\":[\"підкреслім\",\"підкресльмо\"],\"row\":\"pidkreslyty\",\"col\":\"my\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l27-imperative/ty.pidkreslyty",
+			"seen": "{\"item\":\"verb-imperative:pidkreslyty:ty\",\"text\":\"підкресли\",\"display\":\"підкре́сли\",\"ipa\":\"/pidˈkrɛslɪ/\",\"alsoAccepted\":[\"підкресль\"],\"row\":\"pidkreslyty\",\"col\":\"ty\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l27-imperative/vy.pidkreslyty",
+			"seen": "{\"item\":\"verb-imperative:pidkreslyty:vy\",\"text\":\"підкресліть\",\"display\":\"підкре́сліть\",\"ipa\":\"/pidˈkrɛsʲlʲitʲ/\",\"alsoAccepted\":[\"підкресльте\"],\"row\":\"pidkreslyty\",\"col\":\"vy\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l27-words/bloknot",
+			"seen": "{\"item\":\"word:bloknot\",\"text\":\"блокнот\",\"display\":\"блокно́т\",\"ipa\":\"/blɔkˈnɔt/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/l27-words/navchannya",
+			"seen": "{\"item\":\"word:navchannya\",\"text\":\"навчання\",\"display\":\"навча́ння\",\"ipa\":\"/naʋˈt͡ʃanʲːa/\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "core/stress-pairs/satin",
+			"seen": "{\"item\":\"stress:satin\",\"text\":\"атлас\",\"display\":\"атла́с\",\"ipa\":\"/aˈtlas/\",\"concepts\":[\"free-stress\"]}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l12-sentences/height",
+			"seen": "{\"sentenceGloss\":\"My sister is of medium height.\",\"note\":\"Genitive: a feature such as height or age is given in the genitive — (якого?) середнього зросту, of medium height.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l17-order-pay/twentyone",
+			"seen": "{\"sentenceGloss\":\"The receipt shows twenty-one hryvnias.\",\"note\":\"Nominative singular: after a compound numeral ending in одна, the noun agrees with одна — двадцять одна гривня (but двадцять дві гривні).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l19-route-sentences/museum",
+			"seen": "{\"sentenceGloss\":\"There is a bus near the museum.\",\"note\":\"Genitive: біля takes the genitive.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l22-leisure-sentences/sphere",
+			"seen": "{\"sentenceGloss\":\"His field of interest is design.\",\"note\":\"The answer is in the nominative: сфера names the field, and інтересів is the genitive plural after it.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l23-sentences/transfer-gen",
+			"seen": "{\"sentenceGloss\":\"A document is needed to receive the transfer.\",\"note\":\"Genitive: a noun that depends on another noun answers чого? — отримання (чого?) переказу, receiving the transfer.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l24-sentences/medicine-gen",
+			"seen": "{\"sentenceGloss\":\"These medicines are not on the list.\",\"note\":\"Genitive plural: after немає what is missing is in the genitive, and ліки has only plural forms — немає (чого?) цих ліків.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l24-sentences/ointment-gen",
+			"seen": "{\"sentenceGloss\":\"The name of the ointment is written on the package.\",\"note\":\"Genitive: a noun that depends on another noun answers чого? — назву (чого?) мазі, the name of the ointment.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l24-sentences/prescription-gen",
+			"seen": "{\"sentenceGloss\":\"The text contains the prescription number.\",\"note\":\"Genitive: a noun that depends on another noun answers чого? — номер (чого?) рецепта, the prescription number.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "en/l24-sentences/pressure-gen",
+			"seen": "{\"sentenceGloss\":\"The nurse recorded the pressure reading.\",\"note\":\"Genitive: a noun that depends on another noun answers чого? — показник (чого?) тиску, the pressure reading.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l19-words/zapravka",
+			"seen": "{\"contrast\":\"Ukrainian заправка is a filling station; Polish says stacja benzynowa.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l20-words/ploshcha",
+			"seen": "{\"contrast\":\"Ukrainian площа is a square; Polish says plac.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l20-words/tserkva",
+			"seen": "{\"contrast\":\"Ukrainian церква is a church: Polish kościół, or cerkiew for an Orthodox or Greek Catholic one.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l21-adjective-kinds/prysviynyy",
+			"seen": "{\"contrast\":\"Ukrainian присвійний (прикметник) is Polish dzierżawczy: przymiotnik dzierżawczy, a possessive adjective.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l22-leisure-verbs/nasolodzhuvatysya",
+			"seen": "{\"contrast\":\"Ukrainian насолоджуватися is Polish rozkoszować się or delektować się; both take the instrumental, as in Ukrainian.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l22-leisure-verbs/provodyty",
+			"seen": "{\"contrast\":\"Ukrainian проводити час means to spend time; Polish prowadzić means to lead or drive.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l24-medicines-words/svichka",
+			"seen": "{\"contrast\":\"Ukrainian свічка in medicine is a suppository, Polish czopek; Polish świeca has no such sense.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l24-specialists-words/ftyziatr",
+			"seen": "{\"contrast\":\"Ukrainian фтизіатр is Polish ftyzjatra, a tuberculosis specialist; Polish pulmonolog is Ukrainian пульмонолог.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l24-specialists-words/oftalmoloh",
+			"seen": "{\"contrast\":\"Ukrainian офтальмолог is Polish okulista.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l26-flowers-words/pidsnizhnyk",
+			"seen": "{\"contrast\":\"Ukrainian підсніжник is the snowdrop: Polish przebiśnieg (śnieżyczka przebiśnieg).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l26-flowers-words/romashka",
+			"seen": "{\"contrast\":\"Ukrainian ромашка is Polish rumianek.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l26-words/step",
+			"seen": "{\"contrast\":\"Ukrainian степ and Polish step are the same word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l26-words/zapovidnyk",
+			"seen": "{\"contrast\":\"Ukrainian заповідник is Polish rezerwat przyrody.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l27-words/farba",
+			"seen": "{\"contrast\":\"Ukrainian фарба and Polish farba are the same word.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-en/l27-words/kafedra",
+			"seen": "{\"contrast\":\"Ukrainian кафедра is a university department, Polish katedra; but Polish katedra most often means a cathedral, Ukrainian собор.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l19-words/zapravka",
+			"seen": "{\"contrast\":\"Ukraińska заправка to polska stacja benzynowa.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l20-words/ploshcha",
+			"seen": "{\"contrast\":\"Ukraińska площа to polski plac.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l20-words/tserkva",
+			"seen": "{\"contrast\":\"Ukraińska церква to kościół; polska cerkiew to tylko świątynia prawosławna lub greckokatolicka.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l21-adjective-kinds/prysviynyy",
+			"seen": "{\"contrast\":\"Ukraiński присвійний прикметник to polski przymiotnik dzierżawczy.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l22-leisure-verbs/nasolodzhuvatysya",
+			"seen": "{\"contrast\":\"Ukraińskie насолоджуватися to rozkoszować się albo delektować się; oba, jak w ukraińskim, łączą się z narzędnikiem.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l22-leisure-verbs/provodyty",
+			"seen": "{\"contrast\":\"Ukraińskie проводити час to spędzać czas; polskie prowadzić znaczy kierować albo wieść.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l24-medicines-words/maz",
+			"seen": "{\"contrast\":\"Ukraińska мазь to polskie maść — to samo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l24-medicines-words/svichka",
+			"seen": "{\"contrast\":\"Ukraińska свічка w medycynie to czopek; polska świeca nie ma tego znaczenia.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l24-specialists-words/ftyziatr",
+			"seen": "{\"contrast\":\"Ukraiński фтизіатр to polski ftyzjatra, lekarz chorób płuc i gruźlicy; pulmonolog to po ukraińsku пульмонолог.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l24-specialists-words/oftalmoloh",
+			"seen": "{\"contrast\":\"Ukraiński офтальмолог to polskie okulista.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l26-flowers-words/pidsnizhnyk",
+			"seen": "{\"contrast\":\"Ukraiński підсніжник to polskie przebiśnieg — śnieżyczka przebiśnieg.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l26-flowers-words/romashka",
+			"seen": "{\"contrast\":\"Ukraińska ромашка to polskie rumianek.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l26-words/step",
+			"seen": "{\"contrast\":\"Ukraiński степ to polskie step — to samo słowo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l26-words/zapovidnyk",
+			"seen": "{\"contrast\":\"Ukraiński заповідник to rezerwat przyrody.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l27-words/farba",
+			"seen": "{\"contrast\":\"Ukraińska фарба to polskie farba — to samo słowo.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-pl/l27-words/kafedra",
+			"seen": "{\"contrast\":\"Ukraińska кафедра to polska katedra na uczelni; samo polskie katedra najczęściej znaczy jednak kościół biskupi, po ukraińsku собор.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l19-words/zapravka",
+			"seen": "{\"contrast\":\"Українська заправка — польською stacja benzynowa.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l20-words/ploshcha",
+			"seen": "{\"contrast\":\"Українська площа — польською plac.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l20-words/tserkva",
+			"seen": "{\"contrast\":\"Українська церква — польською kościół; польське cerkiew — лише православний чи греко-католицький храм.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l21-adjective-kinds/prysviynyy",
+			"seen": "{\"contrast\":\"Український присвійний прикметник — польською przymiotnik dzierżawczy.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l22-leisure-verbs/nasolodzhuvatysya",
+			"seen": "{\"contrast\":\"Українське насолоджуватися — польською rozkoszować się або delektować się; обидва, як і українське, з орудним.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l22-leisure-verbs/provodyty",
+			"seen": "{\"contrast\":\"Українське проводити час — польською spędzać czas; польське prowadzić означає вести, керувати.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l24-medicines-words/maz",
+			"seen": "{\"contrast\":\"Українська мазь і польське maść — те саме.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l24-medicines-words/svichka",
+			"seen": "{\"contrast\":\"Українська свічка в медицині — польською czopek; польське świeca такого значення не має.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l24-specialists-words/ftyziatr",
+			"seen": "{\"contrast\":\"Фтизіатр — польською ftyzjatra, лікар, що лікує туберкульоз; польське pulmonolog — пульмонолог.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l24-specialists-words/oftalmoloh",
+			"seen": "{\"contrast\":\"Український офтальмолог — це польське okulista.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l26-flowers-words/pidsnizhnyk",
+			"seen": "{\"contrast\":\"Український підсніжник — це польське przebiśnieg.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l26-flowers-words/romashka",
+			"seen": "{\"contrast\":\"Українська ромашка — це польське rumianek.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l26-words/step",
+			"seen": "{\"contrast\":\"Український степ і польське step — те саме слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l26-words/zapovidnyk",
+			"seen": "{\"contrast\":\"Український заповідник — це польське rezerwat przyrody.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l27-words/farba",
+			"seen": "{\"contrast\":\"Українська фарба і польське farba — те саме слово.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl-uk/l27-words/kafedra",
+			"seen": "{\"contrast\":\"Українська кафедра — польською katedra в університеті; але найчастіше польське katedra — це собор.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l12-sentences/height",
+			"seen": "{\"sentenceGloss\":\"Moja siostra jest średniego wzrostu.\",\"note\":\"Dopełniacz: cechę, taką jak wzrost czy wiek, podaje się w dopełniaczu — (якого?) середнього зросту, średniego wzrostu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l15-sentences/butter",
+			"seen": "{\"sentenceGloss\":\"Smaruję chleb masłem.\",\"note\":\"Biernik: масло to, co się smaruje, więc biernik.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l17-order-pay/twentyone",
+			"seen": "{\"sentenceGloss\":\"Na paragonie jest dwadzieścia jeden hrywien.\",\"note\":\"Mianownik l. poj.: po liczebniku złożonym zakończonym na одна rzeczownik zgadza się z одна — двадцять одна гривня (ale двадцять дві гривні).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l19-route-sentences/museum",
+			"seen": "{\"sentenceGloss\":\"Obok muzeum stoi autobus.\",\"note\":\"Dopełniacz: біля łączy się z dopełniaczem.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l19-route-sentences/oncorner",
+			"seen": "{\"sentenceGloss\":\"Kiosk jest na rogu dwóch ulic.\",\"note\":\"Miejscownik: на łączy się z miejscownikiem — на розі двох вулиць.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l22-leisure-sentences/sphere",
+			"seen": "{\"sentenceGloss\":\"Jego sfera zainteresowań to projektowanie.\",\"note\":\"Odpowiedź w mianowniku: сфера nazywa dziedzinę, a інтересів — dopełniacz l. mn. po niej.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l23-sentences/transfer-gen",
+			"seen": "{\"sentenceGloss\":\"Do odebrania przekazu potrzebny jest dokument.\",\"note\":\"Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — отримання (чого?) переказу, odebranie przekazu.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l24-sentences/medicine-gen",
+			"seen": "{\"sentenceGloss\":\"Na liście nie ma tych leków.\",\"note\":\"Dopełniacz l. mn.: po немає to, czego brak, stoi w dopełniaczu, a ліки ma tylko liczbę mnogą — немає (чого?) цих ліків.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l24-sentences/ointment-gen",
+			"seen": "{\"sentenceGloss\":\"Na opakowaniu jest napisana nazwa maści.\",\"note\":\"Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — назву (чого?) мазі, nazwa maści.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l24-sentences/prescription-gen",
+			"seen": "{\"sentenceGloss\":\"W tekście jest numer recepty.\",\"note\":\"Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — номер (чого?) рецепта, numer recepty.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "pl/l24-sentences/pressure-gen",
+			"seen": "{\"sentenceGloss\":\"Pielęgniarka zapisała wynik pomiaru ciśnienia.\",\"note\":\"Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — показник (чого?) тиску, wynik pomiaru ciśnienia.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l19-words/zamok",
+			"seen": "{\"contrast\":\"Ukrainian за́мок is a castle, as is Russian за́мок; stressed on the last syllable, замо́к is a lock in both languages.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l20-words/khmarochos",
+			"seen": "{\"contrast\":\"Ukrainian хмарочос (from хмара, cloud) is Russian небоскрёб (from небо, sky).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l20-words/pam-yatka",
+			"seen": "{\"contrast\":\"Ukrainian пам’ятка is also a historic or cultural monument (пам’ятка архітектури); Russian памятка is only a short leaflet of instructions.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l22-leisure-verbs/haynuvaty",
+			"seen": "{\"contrast\":\"Гайнувати (час), like марнувати, means to waste time; Russian says тратить попусту.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l24-medicines-words/pihulka",
+			"seen": "{\"contrast\":\"Пігулка is the everyday Ukrainian word for a pill; Russian пилюля is dated, and the everyday Russian word is таблетка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-en/l24-specialists-words/ftyziatr",
+			"seen": "{\"contrast\":\"Фтизіатр is a tuberculosis specialist, Russian фтизиатр.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l19-words/palats",
+			"seen": "{\"contrast\":\"Украинское палац по-русски — дворец.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l19-words/zamok",
+			"seen": "{\"contrast\":\"Украинское за́мок, как и русское за́мок, — крепость. С ударением на конце, замо́к, в обоих языках — устройство для двери.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l20-words/khmarochos",
+			"seen": "{\"contrast\":\"Украинское хмарочос (от хмара — туча) по-русски — небоскрёб.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l20-words/pam-yatka",
+			"seen": "{\"contrast\":\"Украинское пам’ятка — также памятник истории или культуры (пам’ятка архітектури); русское памятка — только краткая инструкция.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l21-adjective-kinds/vidnosnyy",
+			"seen": "{\"contrast\":\"Украинское відносний соответствует русскому относительный.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l21-adjective-kinds/yakisnyy",
+			"seen": "{\"contrast\":\"Украинское якісний соответствует русскому качественный: прилагательное, обозначающее качество.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l22-leisure-verbs/haynuvaty",
+			"seen": "{\"contrast\":\"Украинское гайнувати (час), как и марнувати, значит тратить время попусту.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l22-leisure-verbs/zhertvuvaty",
+			"seen": "{\"contrast\":\"Украинское жертвувати соответствует русскому жертвовать.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l24-medicines-words/pihulka",
+			"seen": "{\"contrast\":\"Украинское пігулка — обычное слово для таблетки; русское пилюля устарело, по-русски говорят таблетка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l24-specialists-words/ftyziatr",
+			"seen": "{\"contrast\":\"Украинское фтизіатр соответствует русскому фтизиатр: врач, который лечит туберкулёз.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l24-specialists-words/oftalmoloh",
+			"seen": "{\"contrast\":\"Украинское офтальмолог совпадает с русским офтальмолог.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l26-flowers-words/konvaliya",
+			"seen": "{\"contrast\":\"Украинское конвалія по-русски — ландыш.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l26-flowers-words/pidsnizhnyk",
+			"seen": "{\"contrast\":\"Украинское підсніжник соответствует русскому подснежник.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l26-words/dovkillya",
+			"seen": "{\"contrast\":\"Украинское довкілля по-русски — окружающая среда.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l26-words/zapovidnyk",
+			"seen": "{\"contrast\":\"Украинское заповідник соответствует русскому заповедник.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l27-words/kafedra",
+			"seen": "{\"contrast\":\"Украинское кафедра, как и русское кафедра, — подразделение вуза.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-ru/l27-words/ruchka",
+			"seen": "{\"contrast\":\"Украинское ручка, как и русское ручка, — предмет для письма.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l19-words/palats",
+			"seen": "{\"contrast\":\"Український палац — російською дворец.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l19-words/zamok",
+			"seen": "{\"contrast\":\"Українське за́мок, як і російське за́мок, — фортеця; з наголосом на кінці, замо́к, в обох мовах — пристрій для дверей.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l20-words/khmarochos",
+			"seen": "{\"contrast\":\"Український хмарочос (від хмара) — російською небоскрёб (від небо).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l20-words/pam-yatka",
+			"seen": "{\"contrast\":\"Українська пам’ятка — також історична чи культурна цінність (пам’ятка архітектури); російське памятка — лише коротка інструкція.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l21-adjective-kinds/vidnosnyy",
+			"seen": "{\"contrast\":\"Український відносний — те саме, що російське относительный.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l21-adjective-kinds/yakisnyy",
+			"seen": "{\"contrast\":\"Український якісний — те саме, що російське качественный: прикметник, що показує якість.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l22-leisure-verbs/haynuvaty",
+			"seen": "{\"contrast\":\"Гайнувати (час), як і марнувати, — витрачати даремно; російською тратить попусту.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l22-leisure-verbs/zhertvuvaty",
+			"seen": "{\"contrast\":\"Українське жертвувати — те саме, що російське жертвовать.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l24-medicines-words/pihulka",
+			"seen": "{\"contrast\":\"Пігулка — звичайна українська назва таблетки; російське пилюля застаріле, у побуті кажуть таблетка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l24-specialists-words/ftyziatr",
+			"seen": "{\"contrast\":\"Фтизіатр — лікар, що лікує туберкульоз; російською фтизиатр.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l24-specialists-words/oftalmoloh",
+			"seen": "{\"contrast\":\"Український офтальмолог — те саме, що російське офтальмолог.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l26-flowers-words/konvaliya",
+			"seen": "{\"contrast\":\"Українська конвалія — російською ландыш.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l26-flowers-words/pidsnizhnyk",
+			"seen": "{\"contrast\":\"Український підсніжник — те саме, що російське подснежник.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l26-words/dovkillya",
+			"seen": "{\"contrast\":\"Українське довкілля — це навколишнє середовище; російське — окружающая среда.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l26-words/zapovidnyk",
+			"seen": "{\"contrast\":\"Український заповідник — це заповідна територія; російське — заповедник.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l27-words/kafedra",
+			"seen": "{\"contrast\":\"Українська кафедра — це відділ університету; російське слово те саме.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru-uk/l27-words/ruchka",
+			"seen": "{\"contrast\":\"Українська ручка для письма — російською теж ручка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l12-sentences/height",
+			"seen": "{\"sentenceGloss\":\"Моя сестра среднего роста.\",\"note\":\"Родительный: признак вроде роста или возраста выражается родительным падежом — (якого?) середнього зросту, среднего роста.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l17-order-pay/twentyone",
+			"seen": "{\"sentenceGloss\":\"В чеке двадцать одна гривна.\",\"note\":\"Именительный, ед. ч.: после составного числительного на одна существительное согласуется с одна — двадцять одна гривня (но двадцять дві гривні).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l19-route-sentences/museum",
+			"seen": "{\"sentenceGloss\":\"Возле музея стоит автобус.\",\"note\":\"Родительный: біля требует родительного падежа.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l22-leisure-sentences/sphere",
+			"seen": "{\"sentenceGloss\":\"Его сфера интересов — дизайн.\",\"note\":\"Ответ в именительном: сфера называет область, а інтересів — родительный мн. ч. после неё.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l23-sentences/transfer-gen",
+			"seen": "{\"sentenceGloss\":\"Для получения перевода нужен документ.\",\"note\":\"Родительный: существительное при другом существительном отвечает на вопрос чего? — отримання (чого?) переказу, получение перевода.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l24-sentences/medicine-gen",
+			"seen": "{\"sentenceGloss\":\"В списке нет этих лекарств.\",\"note\":\"Родительный мн. ч.: после немає отсутствующее стоит в родительном, а ліки имеет только множественное число — немає (чого?) цих ліків.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l24-sentences/ointment-gen",
+			"seen": "{\"sentenceGloss\":\"На пачке написано название мази.\",\"note\":\"Родительный: существительное при другом существительном отвечает на вопрос чего? — назву (чого?) мазі, название мази.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l24-sentences/prescription-gen",
+			"seen": "{\"sentenceGloss\":\"В тексте есть номер рецепта.\",\"note\":\"Родительный: существительное при другом существительном отвечает на вопрос чего? — номер (чого?) рецепта, номер рецепта.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "ru/l24-sentences/pressure-gen",
+			"seen": "{\"sentenceGloss\":\"Медсестра записала показатель давления.\",\"note\":\"Родительный: существительное при другом существительном отвечает на вопрос чего? — показник (чого?) тиску, показатель давления.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l12-sentences/height",
+			"seen": "{\"note\":\"Родовий: ознаку людини, як-от зріст чи вік, виражає родовий відмінок — (якого?) середнього зросту.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l14-sentences/attic",
+			"seen": "{\"note\":\"Місцевий: на вимагає місцевого відмінка для позначення місця.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l17-order-pay/twentyone",
+			"seen": "{\"note\":\"Називний однини: після складеного числівника, що закінчується на одна, іменник узгоджується з одна — двадцять одна гривня (але двадцять дві гривні).\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l19-route-sentences/museum",
+			"seen": "{\"note\":\"Родовий: біля вимагає родового відмінка.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l22-leisure-sentences/sphere",
+			"seen": "{\"note\":\"Відповідь у називному відмінку: сфера називає галузь, а інтересів — родовий множини після неї.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l23-sentences/transfer-gen",
+			"seen": "{\"note\":\"Родовий: іменник, залежний від іншого іменника, відповідає на питання чого? — отримання (чого?) переказу.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l24-sentences/medicine-gen",
+			"seen": "{\"note\":\"Родовий множини: після немає те, чого бракує, стоїть у родовому відмінку, а ліки вживається лише в множині — немає (чого?) цих ліків.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l24-sentences/ointment-gen",
+			"seen": "{\"note\":\"Родовий: іменник, залежний від іншого іменника, відповідає на питання чого? — назву (чого?) мазі.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l24-sentences/prescription-gen",
+			"seen": "{\"note\":\"Родовий: іменник, залежний від іншого іменника, відповідає на питання чого? — номер (чого?) рецепта.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l24-sentences/pressure-gen",
+			"seen": "{\"note\":\"Родовий: іменник, залежний від іншого іменника, відповідає на питання чого? — показник (чого?) тиску.\"}",
+			"verdict": "ok"
+		},
+		{
+			"key": "uk/l26-sentences/lake-gen",
+			"seen": "{\"note\":\"Родовий: берег (чого?) озера — озера стоїть у родовому відмінку при слові берег.\"}",
+			"verdict": "ok"
+		}
+	]
+}

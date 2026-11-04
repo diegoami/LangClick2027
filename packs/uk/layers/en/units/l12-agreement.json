@@ -10,5 +10,55 @@
 		"c2": "neuter",
 		"c3": "plural"
 	},
-	"summary": "Nominative forms: a male person, a female person, a face, and eyes/hair strands. Ukrainian волосся is neuter singular."
+	"summary": "Nominative forms: a male person, a female person, a face, and eyes/hair strands. Ukrainian волосся is neuter singular.",
+	"cells": {
+		"round.c0": {
+			"note": "Masculine singular: the adjective in the masculine form."
+		},
+		"round.c1": {
+			"note": "Feminine singular: the adjective in the feminine form."
+		},
+		"round.c2": {
+			"note": "Neuter singular: the adjective in the neuter form."
+		},
+		"round.c3": {
+			"note": "Plural: the adjective in the plural form."
+		},
+		"pale.c0": {
+			"note": "Masculine singular: the adjective in the masculine form."
+		},
+		"pale.c1": {
+			"note": "Feminine singular: the adjective in the feminine form."
+		},
+		"pale.c2": {
+			"note": "Neuter singular: the adjective in the neuter form."
+		},
+		"pale.c3": {
+			"note": "Plural: the adjective in the plural form."
+		},
+		"curly.c0": {
+			"note": "Masculine singular: the adjective in the masculine form."
+		},
+		"curly.c1": {
+			"note": "Feminine singular: the adjective in the feminine form."
+		},
+		"curly.c2": {
+			"note": "Neuter singular: the adjective in the neuter form."
+		},
+		"curly.c3": {
+			"note": "Plural: the adjective in the plural form."
+		},
+		"brown.c0": {
+			"note": "Masculine singular: the adjective in the masculine form."
+		},
+		"brown.c1": {
+			"note": "Feminine singular: the adjective in the feminine form."
+		},
+		"brown.c2": {
+			"note": "Neuter singular: the adjective in the neuter form."
+		},
+		"brown.c3": {
+			"note": "Plural: the adjective in the plural form."
+		}
+	}
 }

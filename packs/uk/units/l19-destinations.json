@@ -34,6 +34,7 @@
 			"item": "form:l19-destinations:mist:gen",
 			"text": "мосту",
 			"display": "мо́сту",
+			"ipa": "/ˈmɔstu/",
 			"row": "mist",
 			"col": "gen",
 			"alsoAccepted": ["моста"]
@@ -43,6 +44,7 @@
 			"item": "form:l19-destinations:hotel:gen",
 			"text": "готелю",
 			"display": "готе́лю",
+			"ipa": "/ɦɔˈtɛlʲu/",
 			"row": "hotel",
 			"col": "gen"
 		},
@@ -51,6 +53,7 @@
 			"item": "form:l19-destinations:bank:gen",
 			"text": "банку",
 			"display": "ба́нку",
+			"ipa": "/ˈbanku/",
 			"row": "bank",
 			"col": "gen"
 		},
@@ -59,6 +62,7 @@
 			"item": "form:l19-destinations:hurtozhytok:gen",
 			"text": "гуртожитку",
 			"display": "гурто́житку",
+			"ipa": "/ɦurˈtɔʒɪtku/",
 			"row": "hurtozhytok",
 			"col": "gen",
 			"alsoAccepted": ["гуртожитка"]
@@ -68,6 +72,7 @@
 			"item": "form:l19-destinations:universytet:gen",
 			"text": "університету",
 			"display": "університе́ту",
+			"ipa": "/unʲiʋɛrsɪˈtɛtu/",
 			"row": "universytet",
 			"col": "gen"
 		},
@@ -76,6 +81,7 @@
 			"item": "form:l19-destinations:kinoteatr:gen",
 			"text": "кінотеатру",
 			"display": "кінотеа́тру",
+			"ipa": "/kinɔtɛˈatru/",
 			"row": "kinoteatr",
 			"col": "gen"
 		},
@@ -84,6 +90,7 @@
 			"item": "form:l19-destinations:sobor:gen",
 			"text": "собору",
 			"display": "собо́ру",
+			"ipa": "/sɔˈbɔru/",
 			"row": "sobor",
 			"col": "gen"
 		},
@@ -92,6 +99,7 @@
 			"item": "form:l19-destinations:khram:gen",
 			"text": "храму",
 			"display": "хра́му",
+			"ipa": "/ˈxramu/",
 			"row": "khram",
 			"col": "gen"
 		},
@@ -100,6 +108,7 @@
 			"item": "form:l19-destinations:palats:gen",
 			"text": "палацу",
 			"display": "пала́цу",
+			"ipa": "/paˈlat͡su/",
 			"row": "palats",
 			"col": "gen"
 		},
@@ -108,6 +117,7 @@
 			"item": "form:l19-destinations:zamok:gen",
 			"text": "замку",
 			"display": "за́мку",
+			"ipa": "/ˈzamku/",
 			"row": "zamok",
 			"col": "gen"
 		},
@@ -116,6 +126,7 @@
 			"item": "form:l19-destinations:muzey:gen",
 			"text": "музею",
 			"display": "музе́ю",
+			"ipa": "/muˈzɛju/",
 			"row": "muzey",
 			"col": "gen"
 		},
@@ -124,6 +135,7 @@
 			"item": "form:l19-destinations:park:gen",
 			"text": "парку",
 			"display": "па́рку",
+			"ipa": "/ˈparku/",
 			"row": "park",
 			"col": "gen"
 		},
@@ -132,6 +144,7 @@
 			"item": "form:l19-destinations:stadion:gen",
 			"text": "стадіону",
 			"display": "стадіо́ну",
+			"ipa": "/stadʲiˈɔnu/",
 			"row": "stadion",
 			"col": "gen"
 		},
@@ -140,6 +153,7 @@
 			"item": "form:l19-destinations:zoopark:gen",
 			"text": "зоопарку",
 			"display": "зоопа́рку",
+			"ipa": "/zɔɔˈparku/",
 			"row": "zoopark",
 			"col": "gen"
 		},
@@ -148,6 +162,7 @@
 			"item": "form:l19-destinations:pam-yatnyk:gen",
 			"text": "пам'ятника",
 			"display": "па́м'ятника",
+			"ipa": "/ˈpamjatnɪka/",
 			"row": "pam-yatnyk",
 			"col": "gen"
 		},
@@ -156,6 +171,7 @@
 			"item": "form:l19-destinations:fontan:gen",
 			"text": "фонтана",
 			"display": "фонта́на",
+			"ipa": "/fɔnˈtana/",
 			"row": "fontan",
 			"col": "gen",
 			"alsoAccepted": ["фонтану"]
@@ -165,6 +181,7 @@
 			"item": "form:l19-destinations:halereya:gen",
 			"text": "галереї",
 			"display": "галере́ї",
+			"ipa": "/ɦalɛˈrɛji/",
 			"row": "halereya",
 			"col": "gen"
 		},
@@ -173,6 +190,7 @@
 			"item": "form:l19-destinations:zapravka:gen",
 			"text": "заправки",
 			"display": "запра́вки",
+			"ipa": "/zaˈpraʋkɪ/",
 			"row": "zapravka",
 			"col": "gen"
 		},
@@ -181,6 +199,7 @@
 			"item": "form:l19-destinations:poshta:gen",
 			"text": "пошти",
 			"display": "по́шти",
+			"ipa": "/ˈpɔʃtɪ/",
 			"row": "poshta",
 			"col": "gen"
 		},
@@ -189,6 +208,7 @@
 			"item": "form:l19-destinations:ratusha:gen",
 			"text": "ратуші",
 			"display": "ра́туші",
+			"ipa": "/ˈratuʃi/",
 			"row": "ratusha",
 			"col": "gen"
 		}

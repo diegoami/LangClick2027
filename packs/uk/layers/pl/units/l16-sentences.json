@@ -2,22 +2,28 @@
 	"title": "Zdania",
 	"cells": {
 		"grams": {
-			"sentenceGloss": "W paczce jest sto gramów rodzynek."
+			"sentenceGloss": "W paczce jest sto gramów rodzynek.",
+			"note": "Dopełniacz l. mn.: po liczebniku rzeczownik w drugim przypadku liczby mnogiej."
 		},
 		"kilos": {
-			"sentenceGloss": "Kupiliśmy pięć kilogramów ziemniaków."
+			"sentenceGloss": "Kupiliśmy pięć kilogramów ziemniaków.",
+			"note": "Dopełniacz l. mn.: po liczebniku rzeczownik w drugim przypadku liczby mnogiej."
 		},
 		"mandarins": {
-			"sentenceGloss": "Na tacy jest sześć mandarynek."
+			"sentenceGloss": "Na tacy jest sześć mandarynek.",
+			"note": "Dopełniacz l. mn.: po liczebniku rzeczownik w drugim przypadku liczby mnogiej."
 		},
 		"tomatoes": {
-			"sentenceGloss": "Do sałatki potrzeba siedmiu pomidorów."
+			"sentenceGloss": "Do sałatki potrzeba siedmiu pomidorów.",
+			"note": "Dopełniacz l. mn.: po liczebniku rzeczownik w drugim przypadku liczby mnogiej."
 		},
 		"frying": {
-			"sentenceGloss": "Tata smaży syrnyky na patelni."
+			"sentenceGloss": "Tata smaży syrnyky na patelni.",
+			"note": "Czas teraźniejszy, trzecia osoba l. poj.: tata smaży."
 		},
 		"cooking": {
-			"sentenceGloss": "Ona przygotowuje kolację dla rodziny."
+			"sentenceGloss": "Ona przygotowuje kolację dla rodziny.",
+			"note": "Czas teraźniejszy, trzecia osoba l. poj.: ona gotuje."
 		}
 	},
 	"summary": "Wpisz brakującą formę według podanego hasła lub znaczenia zdania."

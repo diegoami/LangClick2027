@@ -3,40 +3,52 @@
 	"summary": "Odmień wyraz w nawiasie. Przymiotniki i przyimki określają przypadek oraz liczbę.",
 	"cells": {
 		"forest-gen": {
-			"sentenceGloss": "Koło lasu stoi mały dom."
+			"sentenceGloss": "Koło lasu stoi mały dom.",
+			"note": "Dopełniacz: біля łączy się z dopełniaczem."
 		},
 		"river-gen": {
-			"sentenceGloss": "Od rzeki do wsi idzie się pięć minut."
+			"sentenceGloss": "Od rzeki do wsi idzie się pięć minut.",
+			"note": "Dopełniacz: від łączy się z dopełniaczem."
 		},
 		"lake-gen": {
-			"sentenceGloss": "Na brzegu jeziora rosną drzewa."
+			"sentenceGloss": "Na brzegu jeziora rosną drzewa.",
+			"note": "Dopełniacz: на березі озера — na brzegu jeziora."
 		},
 		"mountains-loc": {
-			"sentenceGloss": "Nasi przyjaciele wypoczywają w wysokich górach."
+			"sentenceGloss": "Nasi przyjaciele wypoczywają w wysokich górach.",
+			"note": "Miejscownik l. mn.: у високих горах — drugi przypadek liczby mnogiej."
 		},
 		"pines-inst": {
-			"sentenceGloss": "Ścieżka biegnie między wysokimi sosnami."
+			"sentenceGloss": "Ścieżka biegnie między wysokimi sosnami.",
+			"note": "Narzędnik: między соснами, w narzędniku."
 		},
 		"willow-inst": {
-			"sentenceGloss": "Pod starą wierzbą stoi ławka."
+			"sentenceGloss": "Pod starą wierzbą stoi ławka.",
+			"note": "Narzędnik: pod łączy się z narzędnikiem przy oznaczeniu miejsca."
 		},
 		"oak-gen": {
-			"sentenceGloss": "Turyści zatrzymali się obok starego dębu."
+			"sentenceGloss": "Turyści zatrzymali się obok starego dębu.",
+			"note": "Dopełniacz: біля łączy się z dopełniaczem."
 		},
 		"lily-genpl": {
-			"sentenceGloss": "Na rysunku jest bukiet konwalii."
+			"sentenceGloss": "Na rysunku jest bukiet konwalii.",
+			"note": "Dopełniacz l. mn.: букета конвалій — bukietu kwiatów."
 		},
 		"flower-acc": {
-			"sentenceGloss": "Dziewczynka narysowała jaskrawy kwiat."
+			"sentenceGloss": "Dziewczynka narysowała jaskrawy kwiat.",
+			"note": "Biernik: to, co narysowano, stoi w bierniku."
 		},
 		"meadow-loc": {
-			"sentenceGloss": "Latem bydło wypasa się na hali."
+			"sentenceGloss": "Latem bydło wypasa się na hali.",
+			"note": "Miejscownik l. poj.: полонина w drugim przypadku l. poj."
 		},
 		"reserve-gen": {
-			"sentenceGloss": "Przyjechaliśmy do rezerwatu."
+			"sentenceGloss": "Przyjechaliśmy do rezerwatu.",
+			"note": "Dopełniacz: do łączy się z dopełniaczem."
 		},
 		"nature-inst": {
-			"sentenceGloss": "Artysta zachwyca się miejscową przyrodą."
+			"sentenceGloss": "Artysta zachwyca się miejscową przyrodą.",
+			"note": "Narzędnik: narzędnik nazywa tym, co podziwia artysta."
 		}
 	}
 }

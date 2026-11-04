@@ -13,6 +13,7 @@
 			"item": "verb-present:yikhaty:ya",
 			"text": "їду",
 			"display": "ї́ду",
+			"ipa": "/ˈjidu/",
 			"row": "ya",
 			"col": "yikhaty"
 		},
@@ -21,6 +22,7 @@
 			"item": "verb-present:yizdyty:ya",
 			"text": "їжджу",
 			"display": "ї́жджу",
+			"ipa": "/ˈjiʒd͡ʒu/",
 			"row": "ya",
 			"col": "yizdyty"
 		},
@@ -29,6 +31,7 @@
 			"item": "verb-present:yikhaty:ty",
 			"text": "їдеш",
 			"display": "ї́деш",
+			"ipa": "/ˈjidɛʃ/",
 			"row": "ty",
 			"col": "yikhaty"
 		},
@@ -37,6 +40,7 @@
 			"item": "verb-present:yizdyty:ty",
 			"text": "їздиш",
 			"display": "ї́здиш",
+			"ipa": "/ˈjizdɪʃ/",
 			"row": "ty",
 			"col": "yizdyty"
 		},
@@ -45,6 +49,7 @@
 			"item": "verb-present:yikhaty:he",
 			"text": "їде",
 			"display": "ї́де",
+			"ipa": "/ˈjidɛ/",
 			"row": "he",
 			"col": "yikhaty"
 		},
@@ -53,6 +58,7 @@
 			"item": "verb-present:yizdyty:he",
 			"text": "їздить",
 			"display": "ї́здить",
+			"ipa": "/ˈjizdɪtʲ/",
 			"row": "he",
 			"col": "yizdyty"
 		},
@@ -61,6 +67,7 @@
 			"item": "verb-present:yikhaty:my",
 			"text": "їдемо",
 			"display": "ї́демо",
+			"ipa": "/ˈjidɛmɔ/",
 			"row": "my",
 			"col": "yikhaty",
 			"alsoAccepted": ["їдем"]
@@ -70,6 +77,7 @@
 			"item": "verb-present:yizdyty:my",
 			"text": "їздимо",
 			"display": "ї́здимо",
+			"ipa": "/ˈjizdɪmɔ/",
 			"row": "my",
 			"col": "yizdyty",
 			"alsoAccepted": ["їздим"]
@@ -79,6 +87,7 @@
 			"item": "verb-present:yikhaty:vy",
 			"text": "їдете",
 			"display": "ї́дете",
+			"ipa": "/ˈjidɛtɛ/",
 			"row": "vy",
 			"col": "yikhaty"
 		},
@@ -87,6 +96,7 @@
 			"item": "verb-present:yizdyty:vy",
 			"text": "їздите",
 			"display": "ї́здите",
+			"ipa": "/ˈjizdɪtɛ/",
 			"row": "vy",
 			"col": "yizdyty"
 		},
@@ -95,6 +105,7 @@
 			"item": "verb-present:yikhaty:they",
 			"text": "їдуть",
 			"display": "ї́дуть",
+			"ipa": "/ˈjidutʲ/",
 			"row": "they",
 			"col": "yikhaty"
 		},
@@ -103,6 +114,7 @@
 			"item": "verb-present:yizdyty:they",
 			"text": "їздять",
 			"display": "ї́здять",
+			"ipa": "/ˈjizʲdʲatʲ/",
 			"row": "they",
 			"col": "yizdyty"
 		}

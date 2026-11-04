@@ -2,28 +2,36 @@
 	"title": "Sentences",
 	"cells": {
 		"hair": {
-			"sentenceGloss": "She has wavy hair."
+			"sentenceGloss": "She has wavy hair.",
+			"note": "Adjective agreement: волосся is neuter singular, so хвилясте."
 		},
 		"eyes": {
-			"sentenceGloss": "The boy has brown eyes."
+			"sentenceGloss": "The boy has brown eyes.",
+			"note": "Adjective agreement: очі is plural, so the adjective is plural too."
 		},
 		"face": {
-			"sentenceGloss": "The child has a round face."
+			"sentenceGloss": "The child has a round face.",
+			"note": "Adjective agreement: обличчя is neuter singular, so кругле."
 		},
 		"brows": {
-			"sentenceGloss": "He has thick eyebrows."
+			"sentenceGloss": "He has thick eyebrows.",
+			"note": "Adjective agreement: брови is plural, so the adjective is plural too."
 		},
 		"lips": {
-			"sentenceGloss": "The baby has plump lips."
+			"sentenceGloss": "The baby has plump lips.",
+			"note": "Adjective agreement: губи is plural, so the adjective is plural too."
 		},
 		"woman": {
-			"sentenceGloss": "This woman is very tall."
+			"sentenceGloss": "This woman is very tall.",
+			"note": "Adjective agreement: жінка is feminine singular, so висока."
 		},
 		"height": {
-			"sentenceGloss": "My sister is of medium height."
+			"sentenceGloss": "My sister is of medium height.",
+			"note": "Genitive: a feature such as height or age is given in the genitive — (якого?) середнього зросту, of medium height."
 		},
 		"build": {
-			"sentenceGloss": "My brother is of medium build."
+			"sentenceGloss": "My brother is of medium build.",
+			"note": "Genitive: the adjective agrees with статура, which is feminine."
 		}
 	},
 	"summary": "Use the lemma or the meaning fixed by the sentence to supply the missing form."

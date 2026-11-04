@@ -61,7 +61,7 @@
 			"item": "word:roslyna",
 			"text": "рослина",
 			"display": "росли́на",
-			"ipa": "/rɔsˈlɪna/"
+			"ipa": "/rɔˈslɪna/"
 		},
 		{
 			"id": "kvitka",
@@ -118,56 +118,65 @@
 			"id": "pivnich",
 			"item": "word:pivnich",
 			"text": "північ",
-			"display": "пі́вніч"
+			"display": "пі́вніч",
+			"ipa": "/ˈpiʋnʲit͡ʃ/"
 		},
 		{
 			"id": "pivden",
 			"item": "word:pivden",
 			"text": "південь",
-			"display": "пі́вдень"
+			"display": "пі́вдень",
+			"ipa": "/ˈpiʋdɛnʲ/"
 		},
 		{
 			"id": "skhid",
 			"item": "word:skhid",
 			"text": "схід",
-			"display": "схід"
+			"display": "схід",
+			"ipa": "/sxid/"
 		},
 		{
 			"id": "zakhid",
 			"item": "word:zakhid",
 			"text": "захід",
-			"display": "за́хід"
+			"display": "за́хід",
+			"ipa": "/ˈzaxid/"
 		},
 		{
 			"id": "lisostep",
 			"item": "word:lisostep",
 			"text": "лісостеп",
-			"display": "лісосте́п"
+			"display": "лісосте́п",
+			"ipa": "/lʲisɔˈstɛp/"
 		},
 		{
 			"id": "boloto",
 			"item": "word:boloto",
 			"text": "болото",
-			"display": "боло́то"
+			"display": "боло́то",
+			"ipa": "/bɔˈlɔtɔ/"
 		},
 		{
 			"id": "vodoyma",
 			"item": "word:vodoyma",
 			"text": "водойма",
 			"display": "водо́йма",
+			"ipa": "/ʋɔˈdɔjma/",
 			"alsoAccepted": ["водоймище"]
 		},
 		{
 			"id": "vodoskhovyshche",
 			"item": "word:vodoskhovyshche",
 			"text": "водосховище",
-			"display": "водосхо́вище"
+			"display": "водосхо́вище",
+			"ipa": "/ʋɔdɔsˈxɔʋɪʃt͡ʃɛ/"
 		},
 		{
 			"id": "polonyna",
 			"item": "word:polonyna",
 			"text": "полонина",
-			"display": "полони́на"
+			"display": "полони́на",
+			"ipa": "/pɔlɔˈnɪna/"
 		}
 	],
 	"sources": [

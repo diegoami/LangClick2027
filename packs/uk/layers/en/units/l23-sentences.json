@@ -3,40 +3,52 @@
 	"summary": "Inflect the lemma in brackets. The case is fixed by the surrounding words.",
 	"cells": {
 		"post-loc": {
-			"sentenceGloss": "Envelopes are sold at the post office."
+			"sentenceGloss": "Envelopes are sold at the post office.",
+			"note": "Locative singular: пошта in the second case singular."
 		},
 		"bank-loc": {
-			"sentenceGloss": "My sister opened an account at a bank."
+			"sentenceGloss": "My sister opened an account at a bank.",
+			"note": "Locative singular: банк in the second case singular."
 		},
 		"library-loc": {
-			"sentenceGloss": "There is a reading room in the library."
+			"sentenceGloss": "There is a reading room in the library.",
+			"note": "Locative singular: бібліотека in the second case singular."
 		},
 		"stamp-acc": {
-			"sentenceGloss": "Oleh stuck a stamp on the envelope."
+			"sentenceGloss": "Oleh stuck a stamp on the envelope.",
+			"note": "Accusative: what is stuck on takes the accusative."
 		},
 		"card-acc": {
-			"sentenceGloss": "Iryna ordered a card at the bank."
+			"sentenceGloss": "Iryna ordered a card at the bank.",
+			"note": "Accusative: what is ordered takes the accusative."
 		},
 		"address-acc": {
-			"sentenceGloss": "Write the full address here."
+			"sentenceGloss": "Write the full address here.",
+			"note": "Accusative: the address that is written takes the accusative."
 		},
 		"bookshop-loc": {
-			"sentenceGloss": "This textbook is sold at the bookshop."
+			"sentenceGloss": "This textbook is sold at the bookshop.",
+			"note": "Locative singular: книгарня in the second case singular."
 		},
 		"sender-gen": {
-			"sentenceGloss": "The sender's name is missing from the envelope."
+			"sentenceGloss": "The sender's name is missing from the envelope.",
+			"note": "Genitive: імені відправника — the sender's name."
 		},
 		"recipient-dat": {
-			"sentenceGloss": "The money was handed to the recipient."
+			"sentenceGloss": "The money was handed to the recipient.",
+			"note": "Dative: the money was handed to the recipient."
 		},
 		"librarian-inst": {
-			"sentenceGloss": "We spoke with the librarian."
+			"sentenceGloss": "We spoke with the librarian.",
+			"note": "Instrumental: з takes the instrumental."
 		},
 		"transfer-gen": {
-			"sentenceGloss": "A document is needed to receive the transfer."
+			"sentenceGloss": "A document is needed to receive the transfer.",
+			"note": "Genitive: a noun that depends on another noun answers чого? — отримання (чого?) переказу, receiving the transfer."
 		},
 		"form-gen": {
-			"sentenceGloss": "The number of the reader’s registration form has changed."
+			"sentenceGloss": "The number of the reader’s registration form has changed.",
+			"note": "Genitive: читацького формуляра — of the reader's form."
 		}
 	}
 }

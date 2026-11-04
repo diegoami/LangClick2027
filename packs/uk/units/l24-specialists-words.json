@@ -10,106 +10,123 @@
 			"id": "alerholoh",
 			"item": "word:alerholoh",
 			"text": "алерголог",
-			"display": "алерго́лог"
+			"display": "алерго́лог",
+			"ipa": "/alɛrˈɦɔlɔɦ/"
 		},
 		{
 			"id": "hinekoloh",
 			"item": "word:hinekoloh",
 			"text": "гінеколог",
-			"display": "гінеко́лог"
+			"display": "гінеко́лог",
+			"ipa": "/ɦinɛˈkɔlɔɦ/"
 		},
 		{
 			"id": "mamoloh",
 			"item": "word:mamoloh",
 			"text": "мамолог",
-			"display": "мамолог"
+			"display": "мамо́лог",
+			"ipa": "/maˈmɔlɔɦ/"
 		},
 		{
 			"id": "uroloh",
 			"item": "word:uroloh",
 			"text": "уролог",
-			"display": "уро́лог"
+			"display": "уро́лог",
+			"ipa": "/uˈrɔlɔɦ/"
 		},
 		{
 			"id": "kardioloh",
 			"item": "word:kardioloh",
 			"text": "кардіолог",
-			"display": "кардіо́лог"
+			"display": "кардіо́лог",
+			"ipa": "/kardʲiˈɔlɔɦ/"
 		},
 		{
 			"id": "hastroenteroloh",
 			"item": "word:hastroenteroloh",
 			"text": "гастроентеролог",
-			"display": "гастроентеро́лог"
+			"display": "гастроентеро́лог",
+			"ipa": "/ɦastrɔɛntɛˈrɔlɔɦ/"
 		},
 		{
 			"id": "nevropatoloh",
 			"item": "word:nevropatoloh",
 			"text": "невропатолог",
 			"display": "невропато́лог",
+			"ipa": "/nɛʋrɔpaˈtɔlɔɦ/",
 			"alsoAccepted": ["невролог"]
 		},
 		{
 			"id": "endokrynoloh",
 			"item": "word:endokrynoloh",
 			"text": "ендокринолог",
-			"display": "ендокрино́лог"
+			"display": "ендокрино́лог",
+			"ipa": "/ɛndɔkrɪˈnɔlɔɦ/"
 		},
 		{
 			"id": "khirurh",
 			"item": "word:khirurh",
 			"text": "хірург",
-			"display": "хіру́рг"
+			"display": "хіру́рг",
+			"ipa": "/xiˈrurɦ/"
 		},
 		{
 			"id": "travmatoloh",
 			"item": "word:travmatoloh",
 			"text": "травматолог",
-			"display": "травмато́лог"
+			"display": "травмато́лог",
+			"ipa": "/traʋmaˈtɔlɔɦ/"
 		},
 		{
 			"id": "dermatoloh",
 			"item": "word:dermatoloh",
 			"text": "дерматолог",
-			"display": "дермато́лог"
+			"display": "дермато́лог",
+			"ipa": "/dɛrmaˈtɔlɔɦ/"
 		},
 		{
 			"id": "stomatoloh",
 			"item": "word:stomatoloh",
 			"text": "стоматолог",
 			"display": "стомато́лог",
+			"ipa": "/stɔmaˈtɔlɔɦ/",
 			"alsoAccepted": ["дантист", "зубний лікар"]
 		},
 		{
 			"id": "onkoloh",
 			"item": "word:onkoloh",
 			"text": "онколог",
-			"display": "онко́лог"
+			"display": "онко́лог",
+			"ipa": "/ɔnˈkɔlɔɦ/"
 		},
 		{
 			"id": "oftalmoloh",
 			"item": "word:oftalmoloh",
 			"text": "офтальмолог",
 			"display": "офтальмо́лог",
+			"ipa": "/ɔftalʲˈmɔlɔɦ/",
 			"alsoAccepted": ["окуліст"]
 		},
 		{
 			"id": "ftyziatr",
 			"item": "word:ftyziatr",
 			"text": "фтизіатр",
-			"display": "фтизіа́тр"
+			"display": "фтизіа́тр",
+			"ipa": "/ftɪzʲiˈatr/"
 		},
 		{
 			"id": "psykhiatr",
 			"item": "word:psykhiatr",
 			"text": "психіатр",
-			"display": "психіа́тр"
+			"display": "психіа́тр",
+			"ipa": "/psɪxiˈatr/"
 		},
 		{
 			"id": "narkoloh",
 			"item": "word:narkoloh",
 			"text": "нарколог",
-			"display": "нарко́лог"
+			"display": "нарко́лог",
+			"ipa": "/narˈkɔlɔɦ/"
 		}
 	],
 	"sources": [

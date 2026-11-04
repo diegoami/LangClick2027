@@ -10,202 +10,235 @@
 			"id": "dub",
 			"item": "word:dub",
 			"text": "дуб",
-			"display": "дуб"
+			"display": "дуб",
+			"ipa": "/dub/"
 		},
 		{
 			"id": "sosna",
 			"item": "word:sosna",
 			"text": "сосна",
-			"display": "сосна́"
+			"display": "сосна́",
+			"ipa": "/sɔˈsna/"
 		},
 		{
 			"id": "yavir",
 			"item": "word:yavir",
 			"text": "явір",
 			"display": "я́вір",
+			"ipa": "/ˈjaʋir/",
 			"alsoAccepted": ["клен-явір"]
 		},
 		{
 			"id": "bereza",
 			"item": "word:bereza",
 			"text": "береза",
-			"display": "бере́за"
+			"display": "бере́за",
+			"ipa": "/bɛˈrɛza/"
 		},
 		{
 			"id": "lypa",
 			"item": "word:lypa",
 			"text": "липа",
-			"display": "ли́па"
+			"display": "ли́па",
+			"ipa": "/ˈlɪpa/"
 		},
 		{
 			"id": "osyka",
 			"item": "word:osyka",
 			"text": "осика",
-			"display": "оси́ка"
+			"display": "оси́ка",
+			"ipa": "/ɔˈsɪka/"
 		},
 		{
 			"id": "vilkha",
 			"item": "word:vilkha",
 			"text": "вільха",
-			"display": "ві́льха"
+			"display": "ві́льха",
+			"ipa": "/ˈʋilʲxa/"
 		},
 		{
 			"id": "ozhyna",
 			"item": "word:ozhyna",
 			"text": "ожина",
-			"display": "ожи́на"
+			"display": "ожи́на",
+			"ipa": "/ɔˈʒɪna/"
 		},
 		{
 			"id": "shypshyna",
 			"item": "word:shypshyna",
 			"text": "шипшина",
-			"display": "шипши́на"
+			"display": "шипши́на",
+			"ipa": "/ʃɪpˈʃɪna/"
 		},
 		{
 			"id": "barbarys",
 			"item": "word:barbarys",
 			"text": "барбарис",
-			"display": "барбари́с"
+			"display": "барбари́с",
+			"ipa": "/barbaˈrɪs/"
 		},
 		{
 			"id": "lishchyna",
 			"item": "word:lishchyna",
 			"text": "ліщина",
 			"display": "ліщи́на",
+			"ipa": "/lʲiˈʃt͡ʃɪna/",
 			"alsoAccepted": ["ліщина звичайна"]
 		},
 		{
 			"id": "malyna",
 			"item": "word:malyna",
 			"text": "малина",
-			"display": "мали́на"
+			"display": "мали́на",
+			"ipa": "/maˈlɪna/"
 		},
 		{
 			"id": "buzok",
 			"item": "word:buzok",
 			"text": "бузок",
-			"display": "бузо́к"
+			"display": "бузо́к",
+			"ipa": "/buˈzɔk/"
 		},
 		{
 			"id": "brusnytsya",
 			"item": "word:brusnytsya",
 			"text": "брусниця",
-			"display": "брусни́ця"
+			"display": "брусни́ця",
+			"ipa": "/bruˈsnɪt͡sʲa/"
 		},
 		{
 			"id": "chornytsya",
 			"item": "word:chornytsya",
 			"text": "чорниця",
-			"display": "чорни́ця"
+			"display": "чорни́ця",
+			"ipa": "/t͡ʃɔrˈnɪt͡sʲa/"
 		},
 		{
 			"id": "zhuravlyna",
 			"item": "word:zhuravlyna",
 			"text": "журавлина",
-			"display": "журавли́на"
+			"display": "журавли́на",
+			"ipa": "/ʒuraʋˈlɪna/"
 		},
 		{
 			"id": "hlid",
 			"item": "word:hlid",
 			"text": "глід",
-			"display": "глід"
+			"display": "глід",
+			"ipa": "/ɦlʲid/"
 		},
 		{
 			"id": "myhdal",
 			"item": "word:myhdal",
 			"text": "мигдаль",
-			"display": "мигда́ль"
+			"display": "мигда́ль",
+			"ipa": "/mɪɦˈdalʲ/"
 		},
 		{
 			"id": "teren",
 			"item": "word:teren",
 			"text": "терен",
-			"display": "те́рен"
+			"display": "те́рен",
+			"ipa": "/ˈtɛrɛn/"
 		},
 		{
 			"id": "buk",
 			"item": "word:buk",
 			"text": "бук",
-			"display": "бук"
+			"display": "бук",
+			"ipa": "/buk/"
 		},
 		{
 			"id": "yalytsya",
 			"item": "word:yalytsya",
 			"text": "ялиця",
-			"display": "яли́ця"
+			"display": "яли́ця",
+			"ipa": "/jaˈlɪt͡sʲa/"
 		},
 		{
 			"id": "smereka",
 			"item": "word:smereka",
 			"text": "смерека",
 			"display": "смере́ка",
+			"ipa": "/smɛˈrɛka/",
 			"alsoAccepted": ["ялина"]
 		},
 		{
 			"id": "modryna",
 			"item": "word:modryna",
 			"text": "модрина",
-			"display": "модри́на"
+			"display": "модри́на",
+			"ipa": "/mɔˈdrɪna/"
 		},
 		{
 			"id": "yalivets",
 			"item": "word:yalivets",
 			"text": "ялівець",
-			"display": "яліве́ць"
+			"display": "яліве́ць",
+			"ipa": "/jalʲiˈʋɛt͡sʲ/"
 		},
 		{
 			"id": "kyparys",
 			"item": "word:kyparys",
 			"text": "кипарис",
-			"display": "кипари́с"
+			"display": "кипари́с",
+			"ipa": "/kɪpaˈrɪs/"
 		},
 		{
 			"id": "palma",
 			"item": "word:palma",
 			"text": "пальма",
-			"display": "па́льма"
+			"display": "па́льма",
+			"ipa": "/ˈpalʲma/"
 		},
 		{
 			"id": "mahnoliya",
 			"item": "word:mahnoliya",
 			"text": "магнолія",
-			"display": "магно́лія"
+			"display": "магно́лія",
+			"ipa": "/maɦˈnɔlʲija/"
 		},
 		{
 			"id": "kedr",
 			"item": "word:kedr",
 			"text": "кедр",
-			"display": "кедр"
+			"display": "кедр",
+			"ipa": "/kɛdr/"
 		},
 		{
 			"id": "lavr",
 			"item": "word:lavr",
 			"text": "лавр",
-			"display": "лавр"
+			"display": "лавр",
+			"ipa": "/laʋr/"
 		},
 		{
 			"id": "kalyna",
 			"item": "word:kalyna",
 			"text": "калина",
-			"display": "кали́на"
+			"display": "кали́на",
+			"ipa": "/kaˈlɪna/"
 		},
 		{
 			"id": "verba",
 			"item": "word:verba",
 			"text": "верба",
-			"display": "верба́"
+			"display": "верба́",
+			"ipa": "/ʋɛrˈba/"
 		},
 		{
 			"id": "sunychne-derevo",
 			"item": "word:sunychne-derevo",
 			"text": "суничне дерево",
-			"display": "суни́чне де́рево"
+			"display": "суни́чне де́рево",
+			"ipa": "/suˈnɪt͡ʃnɛ ˈdɛrɛʋɔ/"
 		},
 		{
 			"id": "fistashka",
 			"item": "word:fistashka",
 			"text": "фісташка",
-			"display": "фіста́шка"
+			"display": "фіста́шка",
+			"ipa": "/fiˈstaʃka/"
 		}
 	],
 	"sources": [

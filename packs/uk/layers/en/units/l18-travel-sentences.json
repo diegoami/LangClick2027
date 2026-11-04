@@ -3,34 +3,44 @@
 	"summary": "Use the lemma and context to select the form.",
 	"cells": {
 		"now": {
-			"sentenceGloss": "I am travelling to the theatre now."
+			"sentenceGloss": "I am travelling to the theatre now.",
+			"note": "Present tense: я їду, the first person singular of їхати."
 		},
 		"often": {
-			"sentenceGloss": "Every Monday I travel to the office."
+			"sentenceGloss": "Every Monday I travel to the office.",
+			"note": "Present tense: їздити is a second conjugation verb, so я їжджу."
 		},
 		"we": {
-			"sentenceGloss": "At this moment we are travelling across the bridge."
+			"sentenceGloss": "At this moment we are travelling across the bridge.",
+			"note": "Present tense: first person plural of їхати."
 		},
 		"they": {
-			"sentenceGloss": "Our neighbours travel to the lake every summer."
+			"sentenceGloss": "Our neighbours travel to the lake every summer.",
+			"note": "Present tense: third person plural of їздити."
 		},
 		"town": {
-			"sentenceGloss": "This city has trams."
+			"sentenceGloss": "This city has trams.",
+			"note": "Locative singular: місто in the second case singular."
 		},
 		"place": {
-			"sentenceGloss": "There will be a stop at this place."
+			"sentenceGloss": "There will be a stop at this place.",
+			"note": "Locative singular: місце in the second case singular."
 		},
 		"towns": {
-			"sentenceGloss": "The tourists visited three cities."
+			"sentenceGloss": "The tourists visited three cities.",
+			"note": "Locative plural: в трьох містах, the second case plural."
 		},
 		"places": {
-			"sentenceGloss": "Parking is prohibited in these places."
+			"sentenceGloss": "Parking is prohibited in these places.",
+			"note": "Locative plural: у цих місцях, the second case plural."
 		},
 		"plane": {
-			"sentenceGloss": "They are travelling abroad by plane."
+			"sentenceGloss": "They are travelling abroad by plane.",
+			"note": "Instrumental: the means of travel takes the instrumental."
 		},
 		"train": {
-			"sentenceGloss": "This time we are travelling by train."
+			"sentenceGloss": "This time we are travelling by train.",
+			"note": "Instrumental: the means of travel takes the instrumental."
 		}
 	}
 }

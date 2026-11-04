@@ -10,147 +10,171 @@
 			"id": "dozvillya",
 			"item": "word:dozvillya",
 			"text": "дозвілля",
-			"display": "дозві́лля"
+			"display": "дозві́лля",
+			"ipa": "/dɔzˈʋilʲːa/"
 		},
 		{
 			"id": "khobi",
 			"item": "word:khobi",
 			"text": "хобі",
-			"display": "хо́бі"
+			"display": "хо́бі",
+			"ipa": "/ˈxɔbi/"
 		},
 		{
 			"id": "zakhoplennya",
 			"item": "word:zakhoplennya",
 			"text": "захоплення",
-			"display": "захо́плення"
+			"display": "захо́плення",
+			"ipa": "/zaˈxɔplɛnʲːa/"
 		},
 		{
 			"id": "sfera",
 			"item": "word:sfera",
 			"text": "сфера",
-			"display": "сфе́ра"
+			"display": "сфе́ра",
+			"ipa": "/ˈsfɛra/"
 		},
 		{
 			"id": "haluz",
 			"item": "word:haluz",
 			"text": "галузь",
-			"display": "га́лузь"
+			"display": "га́лузь",
+			"ipa": "/ˈɦaluzʲ/"
 		},
 		{
 			"id": "kolektsionuvannya",
 			"item": "word:kolektsionuvannya",
 			"text": "колекціонування",
-			"display": "колекціонува́ння"
+			"display": "колекціонува́ння",
+			"ipa": "/kɔlɛkt͡sʲiɔnuˈʋanʲːa/"
 		},
 		{
 			"id": "rukodillya",
 			"item": "word:rukodillya",
 			"text": "рукоділля",
-			"display": "рукоді́лля"
+			"display": "рукоді́лля",
+			"ipa": "/rukɔˈdʲilʲːa/"
 		},
 		{
 			"id": "vyshyvannya",
 			"item": "word:vyshyvannya",
 			"text": "вишивання",
 			"display": "вишива́ння",
+			"ipa": "/ʋɪʃɪˈʋanʲːa/",
 			"alsoAccepted": ["вишивка"]
 		},
 		{
 			"id": "shyttya",
 			"item": "word:shyttya",
 			"text": "шиття",
-			"display": "шиття́"
+			"display": "шиття́",
+			"ipa": "/ʃɪˈtʲːa/"
 		},
 		{
 			"id": "kvitnykarstvo",
 			"item": "word:kvitnykarstvo",
 			"text": "квітникарство",
-			"display": "квітника́рство"
+			"display": "квітника́рство",
+			"ipa": "/kʋitnɪˈkarstʋɔ/"
 		},
 		{
 			"id": "malyuvannya",
 			"item": "word:malyuvannya",
 			"text": "малювання",
-			"display": "малюва́ння"
+			"display": "малюва́ння",
+			"ipa": "/malʲuˈʋanʲːa/"
 		},
 		{
 			"id": "spiv",
 			"item": "word:spiv",
 			"text": "спів",
+			"ipa": "/spiʋ/",
 			"alsoAccepted": ["співання"]
 		},
 		{
 			"id": "tantsi",
 			"item": "word:tantsi",
 			"text": "танці",
-			"display": "та́нці"
+			"display": "та́нці",
+			"ipa": "/ˈtant͡sʲi/"
 		},
 		{
 			"id": "muzyka",
 			"item": "word:muzyka",
 			"text": "музика",
-			"display": "му́зика"
+			"display": "му́зика",
+			"ipa": "/ˈmuzɪka/"
 		},
 		{
 			"id": "futbol",
 			"item": "word:futbol",
 			"text": "футбол",
-			"display": "футбо́л"
+			"display": "футбо́л",
+			"ipa": "/futˈbɔl/"
 		},
 		{
 			"id": "khokey",
 			"item": "word:khokey",
 			"text": "хокей",
-			"display": "хоке́й"
+			"display": "хоке́й",
+			"ipa": "/xɔˈkɛj/"
 		},
 		{
 			"id": "tenis",
 			"item": "word:tenis",
 			"text": "теніс",
-			"display": "те́ніс"
+			"display": "те́ніс",
+			"ipa": "/ˈtɛnʲis/"
 		},
 		{
 			"id": "fitnes",
 			"item": "word:fitnes",
 			"text": "фітнес",
-			"display": "фі́тнес"
+			"display": "фі́тнес",
+			"ipa": "/ˈfitnɛs/"
 		},
 		{
 			"id": "alpinizm",
 			"item": "word:alpinizm",
 			"text": "альпінізм",
-			"display": "альпіні́зм"
+			"display": "альпіні́зм",
+			"ipa": "/alʲpiˈnʲizm/"
 		},
 		{
 			"id": "turyzm",
 			"item": "word:turyzm",
 			"text": "туризм",
-			"display": "тури́зм"
+			"display": "тури́зм",
+			"ipa": "/tuˈrɪzm/"
 		},
 		{
 			"id": "rybolovlya",
 			"item": "word:rybolovlya",
 			"text": "риболовля",
 			"display": "риболо́вля",
+			"ipa": "/rɪbɔˈlɔʋlʲa/",
 			"alsoAccepted": ["риболовство", "рибальство"]
 		},
 		{
 			"id": "bdzhilnytstvo",
 			"item": "word:bdzhilnytstvo",
 			"text": "бджільництво",
-			"display": "бджільни́цтво"
+			"display": "бджільни́цтво",
+			"ipa": "/bd͡ʒilʲˈnɪt͡stʋɔ/"
 		},
 		{
 			"id": "prohramuvannya",
 			"item": "word:prohramuvannya",
 			"text": "програмування",
-			"display": "програмува́ння"
+			"display": "програмува́ння",
+			"ipa": "/prɔɦramuˈʋanʲːa/"
 		},
 		{
 			"id": "animatsiya",
 			"item": "word:animatsiya",
 			"text": "анімація",
 			"display": "аніма́ція",
+			"ipa": "/anʲiˈmat͡sʲija/",
 			"alsoAccepted": ["мультиплікація"]
 		}
 	],

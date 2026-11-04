@@ -17,5 +17,45 @@
 		"velykyy": "великий",
 		"highest": "najwyższy"
 	},
-	"cells": {}
+	"cells": {
+		"slabkyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"hrubyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"nizhnyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"lehkyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"hlybokyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"blyzkyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"nyzkyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"tyazhkyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"vazhkyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"vysokyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"khoroshyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"pohanyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		},
+		"velykyy.highest": {
+			"note": "Stopień najwyższy: най- przed przymiotnikiem, który zgadza się jak zwykle."
+		}
+	}
 }

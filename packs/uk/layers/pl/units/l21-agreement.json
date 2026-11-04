@@ -3,28 +3,36 @@
 	"summary": "Rodzaj, liczba i przypadek odpowiadają rzeczownikowi. Tutaj „ступінь 3” oznacza stopień najwyższy.",
 	"cells": {
 		"fem": {
-			"sentenceGloss": "Moja siostra jest niezawodna."
+			"sentenceGloss": "Moja siostra jest niezawodna.",
+			"note": "Przymiotnik w mianowniku, rodzaj żeński, l. poj."
 		},
 		"neuter": {
-			"sentenceGloss": "To jest dobre serce."
+			"sentenceGloss": "To jest dobre serce.",
+			"note": "Przymiotnik w mianowniku, rodzaj nijaki, l. poj."
 		},
 		"plural": {
-			"sentenceGloss": "Nasze sąsiadki są twórcze."
+			"sentenceGloss": "Nasze sąsiadki są twórcze.",
+			"note": "Przymiotnik w mianowniku, liczba mnoga."
 		},
 		"instrumental": {
-			"sentenceGloss": "Olena stała się hojną osobą."
+			"sentenceGloss": "Olena stała się hojną osobą.",
+			"note": "Przymiotnik w narzędniku, rodzaj żeński, l. poj."
 		},
 		"genitive": {
-			"sentenceGloss": "To rada zdecydowanego przyjaciela."
+			"sentenceGloss": "To rada zdecydowanego przyjaciela.",
+			"note": "Przymiotnik w dopełniaczu, rodzaj męski, l. poj."
 		},
 		"accusative": {
-			"sentenceGloss": "Spotkaliśmy wesołą dziewczynę."
+			"sentenceGloss": "Spotkaliśmy wesołą dziewczynę.",
+			"note": "Przymiotnik w bierniku, rodzaj żeński, l. poj."
 		},
 		"superf": {
-			"sentenceGloss": "Ona jest najlepszą przyjaciółką."
+			"sentenceGloss": "Ona jest najlepszą przyjaciółką.",
+			"note": "Stopień najwyższy z най-; przymiotnik nadal zgadza się z rzeczownikiem."
 		},
 		"superm": {
-			"sentenceGloss": "To najwyższy budynek na ulicy."
+			"sentenceGloss": "To najwyższy budynek na ulicy.",
+			"note": "Stopień najwyższy z най-; przymiotnik nadal zgadza się z rzeczownikiem."
 		}
 	}
 }

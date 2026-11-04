@@ -10,19 +10,22 @@
 			"id": "yakisnyy",
 			"item": "word:yakisnyy",
 			"text": "якісний",
-			"display": "я́кісний"
+			"display": "я́кісний",
+			"ipa": "/ˈjakisnɪj/"
 		},
 		{
 			"id": "vidnosnyy",
 			"item": "word:vidnosnyy",
 			"text": "відносний",
-			"display": "відно́сний"
+			"display": "відно́сний",
+			"ipa": "/ʋidˈnɔsnɪj/"
 		},
 		{
 			"id": "prysviynyy",
 			"item": "word:prysviynyy",
 			"text": "присвійний",
-			"display": "присві́йний"
+			"display": "присві́йний",
+			"ipa": "/prɪsˈʋijnɪj/"
 		}
 	],
 	"sources": [

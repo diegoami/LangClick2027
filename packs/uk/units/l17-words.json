@@ -10,136 +10,158 @@
 			"id": "restoran",
 			"item": "word:restoran",
 			"text": "ресторан",
-			"display": "рестора́н"
+			"display": "рестора́н",
+			"ipa": "/rɛstɔˈran/"
 		},
 		{
 			"id": "kav-yarnya",
 			"item": "word:kav-yarnya",
 			"text": "кав'ярня",
-			"display": "кав'я́рня"
+			"display": "кав'я́рня",
+			"ipa": "/kaˈʋjarnʲa/"
 		},
 		{
 			"id": "ofitsiant",
 			"item": "word:ofitsiant",
 			"text": "офіціант",
 			"display": "офіціа́нт",
+			"ipa": "/ɔfit͡sʲiˈant/",
 			"alsoAccepted": ["кельнер"]
 		},
 		{
 			"id": "menyu",
 			"item": "word:menyu",
 			"text": "меню",
-			"display": "меню́"
+			"display": "меню́",
+			"ipa": "/mɛˈnʲu/"
 		},
 		{
 			"id": "strava",
 			"item": "word:strava",
 			"text": "страва",
-			"display": "стра́ва"
+			"display": "стра́ва",
+			"ipa": "/ˈstraʋa/"
 		},
 		{
 			"id": "rakhunok",
 			"item": "word:rakhunok-bill",
 			"text": "рахунок",
-			"display": "раху́нок"
+			"display": "раху́нок",
+			"ipa": "/raˈxunɔk/"
 		},
 		{
 			"id": "zamovlennya",
 			"item": "word:zamovlennya",
 			"text": "замовлення",
-			"display": "замо́влення"
+			"display": "замо́влення",
+			"ipa": "/zaˈmɔʋlɛnʲːa/"
 		},
 		{
 			"id": "chayovi",
 			"item": "word:chayovi",
 			"text": "чайові",
-			"display": "чайові́"
+			"display": "чайові́",
+			"ipa": "/t͡ʃajɔˈʋi/"
 		},
 		{
 			"id": "napiy",
 			"item": "word:napiy",
 			"text": "напій",
-			"display": "напі́й"
+			"display": "напі́й",
+			"ipa": "/naˈpij/"
 		},
 		{
 			"id": "desert",
 			"item": "word:desert",
 			"text": "десерт",
-			"display": "десе́рт"
+			"display": "десе́рт",
+			"ipa": "/dɛˈsɛrt/"
 		},
 		{
 			"id": "bulyon",
 			"item": "word:bulyon",
 			"text": "бульйон",
-			"display": "бульйо́н"
+			"display": "бульйо́н",
+			"ipa": "/bulʲˈjɔn/"
 		},
 		{
 			"id": "espreso",
 			"item": "word:espreso",
 			"text": "еспресо",
-			"display": "еспре́со"
+			"display": "еспре́со",
+			"ipa": "/ɛˈsprɛsɔ/"
 		},
 		{
 			"id": "kapuchyno",
 			"item": "word:kapuchyno",
 			"text": "капучино",
-			"display": "капучи́но"
+			"display": "капучи́но",
+			"ipa": "/kapuˈt͡ʃɪnɔ/"
 		},
 		{
 			"id": "shokolad",
 			"item": "word:shokolad",
 			"text": "шоколад",
-			"display": "шокола́д"
+			"display": "шокола́д",
+			"ipa": "/ʃɔkɔˈlad/"
 		},
 		{
 			"id": "vartist",
 			"item": "word:vartist",
 			"text": "вартість",
 			"display": "ва́ртість",
+			"ipa": "/ˈʋartʲistʲ/",
 			"alsoAccepted": ["ціна"]
 		},
 		{
 			"id": "hotivka",
 			"item": "word:hotivka",
 			"text": "готівка",
-			"display": "готі́вка"
+			"display": "готі́вка",
+			"ipa": "/ɦɔˈtʲiʋka/"
 		},
 		{
 			"id": "kartka",
 			"item": "word:kartka",
 			"text": "картка",
-			"display": "ка́ртка"
+			"display": "ка́ртка",
+			"ipa": "/ˈkartka/"
 		},
 		{
 			"id": "reshta",
 			"item": "word:reshta",
 			"text": "решта",
-			"display": "ре́шта"
+			"display": "ре́шта",
+			"ipa": "/ˈrɛʃta/"
 		},
 		{
 			"id": "hroshi",
 			"item": "word:hroshi",
 			"text": "гроші",
-			"display": "гро́ші"
+			"display": "гро́ші",
+			"ipa": "/ˈɦrɔʃi/"
 		},
 		{
 			"id": "hryvnya",
 			"item": "word:hryvnya",
 			"text": "гривня",
-			"display": "гри́вня"
+			"display": "гри́вня",
+			"ipa": "/ˈɦrɪʋnʲa/"
 		},
 		{
 			"id": "kupyura",
 			"item": "word:kupyura",
 			"text": "купюра",
 			"display": "купю́ра",
+			"ipa": "/kuˈpʲura/",
 			"alsoAccepted": ["банкнота"]
 		},
 		{
 			"id": "moneta",
 			"item": "word:moneta",
 			"text": "монета",
-			"display": "моне́та"
+			"display": "моне́та",
+			"ipa": "/mɔˈnɛta/"
 		}
 	],
 	"sources": [

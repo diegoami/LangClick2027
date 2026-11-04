@@ -3,46 +3,60 @@
 	"summary": "Po люблю / обожнюю bezokolicznik; po цікавитися / займатися narzędnik; хобі nieodmienne.",
 	"cells": {
 		"timeacc": {
-			"sentenceGloss": "Planuję swój czas wolny."
+			"sentenceGloss": "Planuję swój czas wolny.",
+			"note": "Biernik: to, co się planuje, stoi w bierniku."
 		},
 		"timeins": {
-			"sentenceGloss": "Umiej korzystać z wolnego czasu."
+			"sentenceGloss": "Umiej korzystać z wolnego czasu.",
+			"note": "Narzędnik: вільний czas w narzędniku — narzędzie, którym się posługujemy."
 		},
 		"enjoy": {
-			"sentenceGloss": "Przyjaciele rozkoszują się muzyką."
+			"sentenceGloss": "Przyjaciele rozkoszują się muzyką.",
+			"note": "Narzędnik: насолоджуватися łączy się z narzędnikiem."
 		},
 		"interest": {
-			"sentenceGloss": "Mój brat interesuje się turystyką."
+			"sentenceGloss": "Mój brat interesuje się turystyką.",
+			"note": "Narzędnik: цікавитися łączy się z narzędnikiem."
 		},
 		"activity": {
-			"sentenceGloss": "Po pracy uprawia sport."
+			"sentenceGloss": "Po pracy uprawia sport.",
+			"note": "Narzędnik: займатися łączy się z narzędnikiem."
 		},
 		"collect": {
-			"sentenceGloss": "Olena pasjonuje się kolekcjonowaniem pocztówek."
+			"sentenceGloss": "Olena pasjonuje się kolekcjonowaniem pocztówek.",
+			"note": "Narzędnik: захоплюватися łączy się z narzędnikiem."
 		},
 		"read": {
-			"sentenceGloss": "W weekendy lubię czytać książki."
+			"sentenceGloss": "W weekendy lubię czytać książki.",
+			"note": "Bezokolicznik: po любити czasownik nazywający czynność stoi w bezokoliczniku."
 		},
 		"draw": {
-			"sentenceGloss": "Marko uwielbia rysować portrety."
+			"sentenceGloss": "Marko uwielbia rysować portrety.",
+			"note": "Bezokolicznik: po обожнює czasownik nazywający czynność stoi w bezokoliczniku."
 		},
 		"sphere": {
-			"sentenceGloss": "Jego sfera zainteresowań to projektowanie."
+			"sentenceGloss": "Jego sfera zainteresowań to projektowanie.",
+			"note": "Odpowiedź w mianowniku: сфера nazywa dziedzinę, a інтересів — dopełniacz l. mn. po niej."
 		},
 		"hobby": {
-			"sentenceGloss": "Koleżanka nie ma nowego hobby."
+			"sentenceGloss": "Koleżanka nie ma nowego hobby.",
+			"note": "Nieodmienne: хобі nie zmienia formy."
 		},
 		"new": {
-			"sentenceGloss": "Wybieram nowe hobby."
+			"sentenceGloss": "Wybieram nowe hobby.",
+			"note": "Biernik: przymiotnik zgadza się z хобі — rodzaj nijaki."
 		},
 		"plural": {
-			"sentenceGloss": "Pojawiły się u nich nowe hobby."
+			"sentenceGloss": "Pojawiły się u nich nowe hobby.",
+			"note": "Mianownik l. mn.: przymiotnik w liczbie mnogiej."
 		},
 		"leisure": {
-			"sentenceGloss": "W czasie wolnym czytamy."
+			"sentenceGloss": "W czasie wolnym czytamy.",
+			"note": "Miejscownik l. poj.: дозвілля w drugim przypadku l. poj."
 		},
 		"devote": {
-			"sentenceGloss": "Siostra poświęca wieczory muzyce."
+			"sentenceGloss": "Siostra poświęca wieczory muzyce.",
+			"note": "Celownik: присвячує łączy się z celownikiem — temu, czemu poświęca się wieczory."
 		}
 	}
 }

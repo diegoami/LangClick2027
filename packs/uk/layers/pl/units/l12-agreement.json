@@ -10,5 +10,55 @@
 		"c2": "nijaki",
 		"c3": "liczba mnoga"
 	},
-	"summary": "Formy mianownika. Ukraińskie волосся ma rodzaj nijaki i liczbę pojedynczą: кучеряве волосся."
+	"summary": "Formy mianownika. Ukraińskie волосся ma rodzaj nijaki i liczbę pojedynczą: кучеряве волосся.",
+	"cells": {
+		"round.c0": {
+			"note": "Rodzaj męski, l. poj.: przymiotnik w formie męskiej."
+		},
+		"round.c1": {
+			"note": "Rodzaj żeński, l. poj.: przymiotnik w formie żeńskiej."
+		},
+		"round.c2": {
+			"note": "Rodzaj nijaki, l. poj.: przymiotnik w formie nijakiej."
+		},
+		"round.c3": {
+			"note": "Liczba mnoga: przymiotnik w liczbie mnogiej."
+		},
+		"pale.c0": {
+			"note": "Rodzaj męski, l. poj.: przymiotnik w formie męskiej."
+		},
+		"pale.c1": {
+			"note": "Rodzaj żeński, l. poj.: przymiotnik w formie żeńskiej."
+		},
+		"pale.c2": {
+			"note": "Rodzaj nijaki, l. poj.: przymiotnik w formie nijakiej."
+		},
+		"pale.c3": {
+			"note": "Liczba mnoga: przymiotnik w liczbie mnogiej."
+		},
+		"curly.c0": {
+			"note": "Rodzaj męski, l. poj.: przymiotnik w formie męskiej."
+		},
+		"curly.c1": {
+			"note": "Rodzaj żeński, l. poj.: przymiotnik w formie żeńskiej."
+		},
+		"curly.c2": {
+			"note": "Rodzaj nijaki, l. poj.: przymiotnik w formie nijakiej."
+		},
+		"curly.c3": {
+			"note": "Liczba mnoga: przymiotnik w liczbie mnogiej."
+		},
+		"brown.c0": {
+			"note": "Rodzaj męski, l. poj.: przymiotnik w formie męskiej."
+		},
+		"brown.c1": {
+			"note": "Rodzaj żeński, l. poj.: przymiotnik w formie żeńskiej."
+		},
+		"brown.c2": {
+			"note": "Rodzaj nijaki, l. poj.: przymiotnik w formie nijakiej."
+		},
+		"brown.c3": {
+			"note": "Liczba mnoga: przymiotnik w liczbie mnogiej."
+		}
+	}
 }

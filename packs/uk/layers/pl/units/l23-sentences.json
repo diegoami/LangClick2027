@@ -3,40 +3,52 @@
 	"summary": "Odmień wyraz w nawiasie. Przyimki i czasowniki wyznaczają przypadek.",
 	"cells": {
 		"post-loc": {
-			"sentenceGloss": "Na poczcie sprzedaje się koperty."
+			"sentenceGloss": "Na poczcie sprzedaje się koperty.",
+			"note": "Miejscownik l. poj.: пошта w drugim przypadku l. poj."
 		},
 		"bank-loc": {
-			"sentenceGloss": "Moja siostra otworzyła rachunek w banku."
+			"sentenceGloss": "Moja siostra otworzyła rachunek w banku.",
+			"note": "Miejscownik l. poj.: банк w drugim przypadku l. poj."
 		},
 		"library-loc": {
-			"sentenceGloss": "W bibliotece jest czytelnia."
+			"sentenceGloss": "W bibliotece jest czytelnia.",
+			"note": "Miejscownik l. poj.: бібліотека w drugim przypadku l. poj."
 		},
 		"stamp-acc": {
-			"sentenceGloss": "Ołeh przykleił znaczek na kopercie."
+			"sentenceGloss": "Ołeh przykleił znaczek na kopercie.",
+			"note": "Biernik: to, co się nakleja, stoi w bierniku."
 		},
 		"card-acc": {
-			"sentenceGloss": "Iryna zamówiła kartę w banku."
+			"sentenceGloss": "Iryna zamówiła kartę w banku.",
+			"note": "Biernik: to, co się zamawia, stoi w bierniku."
 		},
 		"address-acc": {
-			"sentenceGloss": "Proszę tu napisać pełny adres."
+			"sentenceGloss": "Proszę tu napisać pełny adres.",
+			"note": "Biernik: adres, który się pisze, stoi w bierniku."
 		},
 		"bookshop-loc": {
-			"sentenceGloss": "Ten podręcznik jest sprzedawany w księgarni."
+			"sentenceGloss": "Ten podręcznik jest sprzedawany w księgarni.",
+			"note": "Miejscownik l. poj.: книгарня w drugim przypadku l. poj."
 		},
 		"sender-gen": {
-			"sentenceGloss": "Na kopercie nie ma imienia nadawcy."
+			"sentenceGloss": "Na kopercie nie ma imienia nadawcy.",
+			"note": "Dopełniacz: імені відправника — imię nadawcy."
 		},
 		"recipient-dat": {
-			"sentenceGloss": "Pieniądze przekazano odbiorcy."
+			"sentenceGloss": "Pieniądze przekazano odbiorcy.",
+			"note": "Celownik: pieniądze przekazano odbiorcy."
 		},
 		"librarian-inst": {
-			"sentenceGloss": "Porozmawialiśmy z bibliotekarzem."
+			"sentenceGloss": "Porozmawialiśmy z bibliotekarzem.",
+			"note": "Narzędnik: з łączy się z narzędnikiem."
 		},
 		"transfer-gen": {
-			"sentenceGloss": "Do odebrania przekazu potrzebny jest dokument."
+			"sentenceGloss": "Do odebrania przekazu potrzebny jest dokument.",
+			"note": "Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — отримання (чого?) переказу, odebranie przekazu."
 		},
 		"form-gen": {
-			"sentenceGloss": "Numer formularza czytelnika się zmienił."
+			"sentenceGloss": "Numer formularza czytelnika się zmienił.",
+			"note": "Dopełniacz: читацького формуляра — formularza czytelnika."
 		}
 	}
 }

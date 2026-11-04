@@ -14,7 +14,8 @@
 			"text": "буряк",
 			"row": "beet",
 			"col": "c0",
-			"display": "буря́к"
+			"display": "буря́к",
+			"ipa": "/buˈrʲak/"
 		},
 		{
 			"id": "beet.c1",
@@ -22,12 +23,14 @@
 			"text": "буряки",
 			"row": "beet",
 			"col": "c1",
-			"display": "буряки́"
+			"display": "буряки́",
+			"ipa": "/burʲaˈkɪ/"
 		},
 		{
 			"id": "borshch.c0",
 			"item": "l15:number:borshch:c0",
 			"text": "борщ",
+			"ipa": "/bɔrʃt͡ʃ/",
 			"row": "borshch",
 			"col": "c0"
 		},
@@ -37,7 +40,8 @@
 			"text": "борщі",
 			"row": "borshch",
 			"col": "c1",
-			"display": "борщі́"
+			"display": "борщі́",
+			"ipa": "/bɔrˈʃt͡ʃi/"
 		},
 		{
 			"id": "drink.c0",
@@ -45,7 +49,8 @@
 			"text": "напій",
 			"row": "drink",
 			"col": "c0",
-			"display": "напі́й"
+			"display": "напі́й",
+			"ipa": "/naˈpij/"
 		},
 		{
 			"id": "drink.c1",
@@ -53,12 +58,14 @@
 			"text": "напої",
 			"row": "drink",
 			"col": "c1",
-			"display": "напо́ї"
+			"display": "напо́ї",
+			"ipa": "/naˈpɔji/"
 		},
 		{
 			"id": "juice.c0",
 			"item": "l15:number:juice:c0",
 			"text": "сік",
+			"ipa": "/sʲik/",
 			"row": "juice",
 			"col": "c0"
 		},
@@ -68,7 +75,8 @@
 			"text": "соки",
 			"row": "juice",
 			"col": "c1",
-			"display": "соки́"
+			"display": "соки́",
+			"ipa": "/sɔˈkɪ/"
 		},
 		{
 			"id": "sausage.c0",
@@ -76,7 +84,8 @@
 			"text": "ковбаса",
 			"row": "sausage",
 			"col": "c0",
-			"display": "ковбаса́"
+			"display": "ковбаса́",
+			"ipa": "/kɔʋbaˈsa/"
 		},
 		{
 			"id": "sausage.c1",
@@ -84,7 +93,8 @@
 			"text": "ковбаси",
 			"row": "sausage",
 			"col": "c1",
-			"display": "ковба́си"
+			"display": "ковба́си",
+			"ipa": "/kɔʋˈbasɪ/"
 		},
 		{
 			"id": "bowl.c0",
@@ -93,6 +103,7 @@
 			"row": "bowl",
 			"col": "c0",
 			"display": "цу́корниця",
+			"ipa": "/ˈt͡sukɔrnɪt͡sʲa/",
 			"alsoAccepted": ["цукерниця"]
 		},
 		{
@@ -102,6 +113,7 @@
 			"row": "bowl",
 			"col": "c1",
 			"display": "цу́корниці",
+			"ipa": "/ˈt͡sukɔrnɪt͡sʲi/",
 			"alsoAccepted": ["цукерниці"]
 		},
 		{
@@ -110,7 +122,8 @@
 			"text": "каструля",
 			"row": "pot",
 			"col": "c0",
-			"display": "кастру́ля"
+			"display": "кастру́ля",
+			"ipa": "/kaˈstrulʲa/"
 		},
 		{
 			"id": "pot.c1",
@@ -118,7 +131,8 @@
 			"text": "каструлі",
 			"row": "pot",
 			"col": "c1",
-			"display": "кастру́лі"
+			"display": "кастру́лі",
+			"ipa": "/kaˈstrulʲi/"
 		},
 		{
 			"id": "tray.c0",
@@ -126,7 +140,8 @@
 			"text": "деко",
 			"row": "tray",
 			"col": "c0",
-			"display": "де́ко"
+			"display": "де́ко",
+			"ipa": "/ˈdɛkɔ/"
 		},
 		{
 			"id": "tray.c1",
@@ -134,7 +149,8 @@
 			"text": "дека",
 			"row": "tray",
 			"col": "c1",
-			"display": "де́ка"
+			"display": "де́ка",
+			"ipa": "/ˈdɛka/"
 		},
 		{
 			"id": "egg.c0",
@@ -142,7 +158,8 @@
 			"text": "яйце",
 			"row": "egg",
 			"col": "c0",
-			"display": "яйце́"
+			"display": "яйце́",
+			"ipa": "/jajˈt͡sɛ/"
 		},
 		{
 			"id": "egg.c1",
@@ -150,7 +167,8 @@
 			"text": "яйця",
 			"row": "egg",
 			"col": "c1",
-			"display": "я́йця"
+			"display": "я́йця",
+			"ipa": "/ˈjajt͡sʲa/"
 		}
 	],
 	"sources": [

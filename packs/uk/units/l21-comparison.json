@@ -27,6 +27,7 @@
 			"item": "form:l21-comparison:slabkyy:higher",
 			"text": "слабкіший",
 			"display": "слабкі́ший",
+			"ipa": "/slabˈkiʃɪj/",
 			"row": "slabkyy",
 			"col": "higher",
 			"alsoAccepted": ["слабший"]
@@ -36,6 +37,7 @@
 			"item": "form:l21-comparison:hrubyy:higher",
 			"text": "грубіший",
 			"display": "грубі́ший",
+			"ipa": "/ɦruˈbiʃɪj/",
 			"row": "hrubyy",
 			"col": "higher"
 		},
@@ -44,6 +46,7 @@
 			"item": "form:l21-comparison:nizhnyy:higher",
 			"text": "ніжніший",
 			"display": "ніжні́ший",
+			"ipa": "/nʲiʒˈnʲiʃɪj/",
 			"row": "nizhnyy",
 			"col": "higher"
 		},
@@ -52,6 +55,7 @@
 			"item": "form:l21-comparison:lehkyy:higher",
 			"text": "легший",
 			"display": "ле́гший",
+			"ipa": "/ˈlɛɦʃɪj/",
 			"row": "lehkyy",
 			"col": "higher"
 		},
@@ -60,6 +64,7 @@
 			"item": "form:l21-comparison:hlybokyy:higher",
 			"text": "глибший",
 			"display": "гли́бший",
+			"ipa": "/ˈɦlɪbʃɪj/",
 			"row": "hlybokyy",
 			"col": "higher"
 		},
@@ -68,6 +73,7 @@
 			"item": "form:l21-comparison:blyzkyy:higher",
 			"text": "ближчий",
 			"display": "бли́жчий",
+			"ipa": "/ˈblɪʒt͡ʃɪj/",
 			"row": "blyzkyy",
 			"col": "higher"
 		},
@@ -76,6 +82,7 @@
 			"item": "form:l21-comparison:nyzkyy:higher",
 			"text": "нижчий",
 			"display": "ни́жчий",
+			"ipa": "/ˈnɪʒt͡ʃɪj/",
 			"row": "nyzkyy",
 			"col": "higher"
 		},
@@ -84,6 +91,7 @@
 			"item": "form:l21-comparison:tyazhkyy:higher",
 			"text": "тяжчий",
 			"display": "тя́жчий",
+			"ipa": "/ˈtʲaʒt͡ʃɪj/",
 			"row": "tyazhkyy",
 			"col": "higher"
 		},
@@ -92,6 +100,7 @@
 			"item": "form:l21-comparison:vazhkyy:higher",
 			"text": "важчий",
 			"display": "ва́жчий",
+			"ipa": "/ˈʋaʒt͡ʃɪj/",
 			"row": "vazhkyy",
 			"col": "higher"
 		},
@@ -100,6 +109,7 @@
 			"item": "form:l21-comparison:vysokyy:higher",
 			"text": "вищий",
 			"display": "ви́щий",
+			"ipa": "/ˈʋɪʃt͡ʃɪj/",
 			"row": "vysokyy",
 			"col": "higher"
 		},
@@ -108,6 +118,7 @@
 			"item": "form:l21-comparison:khoroshyy:higher",
 			"text": "кращий",
 			"display": "кра́щий",
+			"ipa": "/ˈkraʃt͡ʃɪj/",
 			"row": "khoroshyy",
 			"col": "higher",
 			"alsoAccepted": ["ліпший"]
@@ -117,6 +128,7 @@
 			"item": "form:l21-comparison:pohanyy:higher",
 			"text": "гірший",
 			"display": "гі́рший",
+			"ipa": "/ˈɦirʃɪj/",
 			"row": "pohanyy",
 			"col": "higher",
 			"alsoAccepted": ["поганіший", "поганший"]
@@ -126,6 +138,7 @@
 			"item": "form:l21-comparison:velykyy:higher",
 			"text": "більший",
 			"display": "бі́льший",
+			"ipa": "/ˈbilʲʃɪj/",
 			"row": "velykyy",
 			"col": "higher"
 		}

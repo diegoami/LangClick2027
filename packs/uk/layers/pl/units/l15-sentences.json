@@ -2,19 +2,24 @@
 	"title": "Zdania",
 	"cells": {
 		"oil": {
-			"sentenceGloss": "Do sałatki kupuję olej słonecznikowy."
+			"sentenceGloss": "Do sałatki kupuję olej słonecznikowy.",
+			"note": "Biernik: олія to, co się kupuje, więc biernik."
 		},
 		"butter": {
-			"sentenceGloss": "Smaruję chleb masłem."
+			"sentenceGloss": "Smaruję chleb masłem.",
+			"note": "Biernik: масло to, co się smaruje, więc biernik."
 		},
 		"expiry": {
-			"sentenceGloss": "Przed zakupem sprawdzam termin przydatności."
+			"sentenceGloss": "Przed zakupem sprawdzam termin przydatności.",
+			"note": "Dopełniacz: термін придатності — zwrot w dopełniaczu."
 		},
 		"cost": {
-			"sentenceGloss": "Ile kosztuje ten bochenek?"
+			"sentenceGloss": "Ile kosztuje ten bochenek?",
+			"note": "Czas teraźniejszy: скільки коштує — ile to kosztuje."
 		},
 		"carrots": {
-			"sentenceGloss": "Kroję marchew do zupy."
+			"sentenceGloss": "Kroję marchew do zupy.",
+			"note": "Biernik: ріжу łączy się z biernikiem — to, co się kroi."
 		}
 	},
 	"summary": "Wpisz brakującą formę według podanego hasła lub znaczenia zdania."

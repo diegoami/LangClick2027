@@ -3,37 +3,48 @@
 	"summary": "Requests, payment forms and currency amounts: 1, 2–4 and 5+.",
 	"cells": {
 		"water": {
-			"sentenceGloss": "Bring us still water."
+			"sentenceGloss": "Bring us still water.",
+			"note": "Accusative: what is brought takes the accusative."
 		},
 		"card": {
-			"sentenceGloss": "We will pay for dinner by card."
+			"sentenceGloss": "We will pay for dinner by card.",
+			"note": "Instrumental: заплатити takes the instrumental for the means of payment."
 		},
 		"cash": {
-			"sentenceGloss": "Today we are paying in cash."
+			"sentenceGloss": "Today we are paying in cash.",
+			"note": "Instrumental: платити takes the instrumental for the means of payment."
 		},
 		"coffee": {
-			"sentenceGloss": "I will order coffee without milk."
+			"sentenceGloss": "I will order coffee without milk.",
+			"note": "Accusative: what is ordered takes the accusative."
 		},
 		"one": {
-			"sentenceGloss": "There is one hryvnia on the table."
+			"sentenceGloss": "There is one hryvnia on the table.",
+			"note": "Nominative singular: one agrees with the noun in the nominative singular."
 		},
 		"two": {
-			"sentenceGloss": "The bag costs two hryvnias."
+			"sentenceGloss": "The bag costs two hryvnias.",
+			"note": "Nominative plural: two takes the plural form of the noun."
 		},
 		"five": {
-			"sentenceGloss": "They charged five hryvnias for the napkins."
+			"sentenceGloss": "They charged five hryvnias for the napkins.",
+			"note": "Genitive plural: after five the noun is in the second case plural."
 		},
 		"twentyone": {
-			"sentenceGloss": "The receipt shows twenty-one hryvnias."
+			"sentenceGloss": "The receipt shows twenty-one hryvnias.",
+			"note": "Nominative singular: after a compound numeral ending in одна, the noun agrees with одна — двадцять одна гривня (but двадцять дві гривні)."
 		},
 		"twentytwo": {
-			"sentenceGloss": "The tea costs twenty-two hryvnias."
+			"sentenceGloss": "The tea costs twenty-two hryvnias.",
+			"note": "Nominative plural: the last part of the compound agrees with the noun."
 		},
 		"twentyfive": {
-			"sentenceGloss": "The coffee costs twenty-five hryvnias."
+			"sentenceGloss": "The coffee costs twenty-five hryvnias.",
+			"note": "Genitive plural: after twenty-five the noun is in the second case plural."
 		},
 		"bill-request": {
-			"sentenceGloss": "Please give us the bill for dinner."
+			"sentenceGloss": "Please give us the bill for dinner.",
+			"note": "Accusative: what is asked for takes the accusative."
 		}
 	}
 }

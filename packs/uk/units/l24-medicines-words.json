@@ -11,38 +11,44 @@
 			"item": "word:pihulka",
 			"text": "пігулка",
 			"display": "пігу́лка",
+			"ipa": "/piˈɦulka/",
 			"alsoAccepted": ["таблетка", "пілюля"]
 		},
 		{
 			"id": "mikstura",
 			"item": "word:mikstura",
 			"text": "мікстура",
-			"display": "міксту́ра"
+			"display": "міксту́ра",
+			"ipa": "/miksˈtura/"
 		},
 		{
 			"id": "krapli",
 			"item": "word:krapli",
 			"text": "краплі",
-			"display": "кра́плі"
+			"display": "кра́плі",
+			"ipa": "/ˈkraplʲi/"
 		},
 		{
 			"id": "svichka",
 			"item": "word:svichka",
 			"text": "свічка",
 			"display": "сві́чка",
+			"ipa": "/ˈsʋit͡ʃka/",
 			"alsoAccepted": ["супозиторій"]
 		},
 		{
 			"id": "syrop",
 			"item": "word:syrop",
 			"text": "сироп",
-			"display": "сиро́п"
+			"display": "сиро́п",
+			"ipa": "/sɪˈrɔp/"
 		},
 		{
 			"id": "maz",
 			"item": "word:maz",
 			"text": "мазь",
-			"display": "мазь"
+			"display": "мазь",
+			"ipa": "/mazʲ/"
 		}
 	],
 	"sources": [

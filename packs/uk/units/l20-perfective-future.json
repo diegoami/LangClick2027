@@ -13,6 +13,7 @@
 			"item": "verb-future:pity:ya",
 			"text": "піду",
 			"display": "піду́",
+			"ipa": "/piˈdu/",
 			"row": "ya",
 			"col": "pity"
 		},
@@ -21,6 +22,7 @@
 			"item": "verb-future:pity:ty",
 			"text": "підеш",
 			"display": "пі́деш",
+			"ipa": "/ˈpidɛʃ/",
 			"row": "ty",
 			"col": "pity"
 		},
@@ -29,6 +31,7 @@
 			"item": "verb-future:pity:he",
 			"text": "піде",
 			"display": "пі́де",
+			"ipa": "/ˈpidɛ/",
 			"row": "he",
 			"col": "pity"
 		},
@@ -37,6 +40,7 @@
 			"item": "verb-future:pity:my",
 			"text": "підемо",
 			"display": "пі́демо",
+			"ipa": "/ˈpidɛmɔ/",
 			"row": "my",
 			"col": "pity",
 			"alsoAccepted": ["підем"]
@@ -46,6 +50,7 @@
 			"item": "verb-future:pity:vy",
 			"text": "підете",
 			"display": "пі́дете",
+			"ipa": "/ˈpidɛtɛ/",
 			"row": "vy",
 			"col": "pity"
 		},
@@ -54,6 +59,7 @@
 			"item": "verb-future:pity:they",
 			"text": "підуть",
 			"display": "пі́дуть",
+			"ipa": "/ˈpidutʲ/",
 			"row": "they",
 			"col": "pity"
 		}

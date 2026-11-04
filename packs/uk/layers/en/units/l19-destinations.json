@@ -23,5 +23,67 @@
 		"poshta": "пошта",
 		"ratusha": "ратуша",
 		"gen": "до + родовий"
+	},
+	"cells": {
+		"mist.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"hotel.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"bank.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"hurtozhytok.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"universytet.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"kinoteatr.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"sobor.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"khram.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"palats.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"zamok.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"muzey.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"park.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"stadion.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"zoopark.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"pam-yatnyk.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"fontan.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"halereya.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"zapravka.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"poshta.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		},
+		"ratusha.gen": {
+			"note": "Genitive: до takes the genitive of the place name."
+		}
 	}
 }

@@ -3,28 +3,36 @@
 	"summary": "Odmień wyraz w nawiasie. Po з/із/зі w życzeniach użyj narzędnika, po до — dopełniacza.",
 	"cells": {
 		"holiday-inst": {
-			"sentenceGloss": "Przyjaciele złożyli nam życzenia z okazji święta."
+			"sentenceGloss": "Przyjaciele złożyli nam życzenia z okazji święta.",
+			"note": "Narzędnik: przywitać зі łączy się z narzędnikiem."
 		},
 		"christmas-gen": {
-			"sentenceGloss": "Do Bożego Narodzenia został tydzień."
+			"sentenceGloss": "Do Bożego Narodzenia został tydzień.",
+			"note": "Dopełniacz: do łączy się z dopełniaczem."
 		},
 		"easter-gen": {
-			"sentenceGloss": "Na Wielkanoc przygotowuje się tradycyjne pieczywo."
+			"sentenceGloss": "Na Wielkanoc przygotowuje się tradycyjne pieczywo.",
+			"note": "Dopełniacz: do łączy się z dopełniaczem."
 		},
 		"tradition-inst": {
-			"sentenceGloss": "Ten zwyczaj stał się rodzinną tradycją."
+			"sentenceGloss": "Ten zwyczaj stał się rodzinną tradycją.",
+			"note": "Narzędnik: narzędnik nazywa tym, w co stał się zwyczaj."
 		},
 		"present-inst": {
-			"sentenceGloss": "Dziecko cieszy się nowym robotem: był niespodziewanym prezentem."
+			"sentenceGloss": "Dziecko cieszy się nowym robotem: był niespodziewanym prezentem.",
+			"note": "Narzędnik: narzędnik nazywa tym, czym okazał się robot."
 		},
 		"pysanka-inst": {
-			"sentenceGloss": "Podziwialiśmy pisankę z geometrycznym ornamentem."
+			"sentenceGloss": "Podziwialiśmy pisankę z geometrycznym ornamentem.",
+			"note": "Narzędnik: narzędnik nazywa tym, co oglądano."
 		},
 		"carol-inst": {
-			"sentenceGloss": "Występ rozpoczął się kolędą."
+			"sentenceGloss": "Występ rozpoczął się kolędą.",
+			"note": "Narzędnik: narzędnik nazywa tym, od czego zaczął się występ."
 		},
 		"uzvar-inst": {
-			"sentenceGloss": "Na stole stał dzban z uzwarem."
+			"sentenceGloss": "Na stole stał dzban z uzwarem.",
+			"note": "Narzędnik: narzędnik nazywa tym, czym był napełniony dzban."
 		}
 	}
 }

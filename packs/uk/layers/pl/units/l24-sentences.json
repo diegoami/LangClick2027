@@ -3,40 +3,52 @@
 	"summary": "Odmień wyraz w nawiasie. Część ciała jest podmiotem: голова болить, зуби болять. Nie przenoś polskiego boli mnie dosłownie.",
 	"cells": {
 		"ache-sing": {
-			"sentenceGloss": "Dzisiaj boli mnie głowa."
+			"sentenceGloss": "Dzisiaj boli mnie głowa.",
+			"note": "Czasownik zgadza się z tym, co boli, więc tu jest w l. poj."
 		},
 		"ache-plur": {
-			"sentenceGloss": "Pacjenta bolą zęby."
+			"sentenceGloss": "Pacjenta bolą zęby.",
+			"note": "Przy podmiocie w liczbie mnogiej czasownik jest w liczbie mnogiej."
 		},
 		"cough-gen": {
-			"sentenceGloss": "Po leczeniu nie ma już kaszlu."
+			"sentenceGloss": "Po leczeniu nie ma już kaszlu.",
+			"note": "Dopełniacz: немає łączy się z dopełniaczem."
 		},
 		"nose-gen": {
-			"sentenceGloss": "Ten opis nie wspomina o objawach kataru."
+			"sentenceGloss": "Ten opis nie wspomina o objawach kataru.",
+			"note": "Dopełniacz l. poj.: нежить w drugim przypadku l. poj. po симптоми."
 		},
 		"pressure-gen": {
-			"sentenceGloss": "Pielęgniarka zapisała wynik pomiaru ciśnienia."
+			"sentenceGloss": "Pielęgniarka zapisała wynik pomiaru ciśnienia.",
+			"note": "Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — показник (чого?) тиску, wynik pomiaru ciśnienia."
 		},
 		"pharmacy-loc": {
-			"sentenceGloss": "Siostra pracuje w aptece."
+			"sentenceGloss": "Siostra pracuje w aptece.",
+			"note": "Miejscownik l. poj.: аптека w drugim przypadku l. poj."
 		},
 		"prescription-gen": {
-			"sentenceGloss": "W tekście jest numer recepty."
+			"sentenceGloss": "W tekście jest numer recepty.",
+			"note": "Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — номер (чого?) рецепта, numer recepty."
 		},
 		"cardiologist-inst": {
-			"sentenceGloss": "Olena porozmawiała z kardiologiem."
+			"sentenceGloss": "Olena porozmawiała z kardiologiem.",
+			"note": "Narzędnik: з łączy się z narzędnikiem."
 		},
 		"dermatologist-gen": {
-			"sentenceGloss": "Taras zapisał się do dermatologa."
+			"sentenceGloss": "Taras zapisał się do dermatologa.",
+			"note": "Dopełniacz: do łączy się z dopełniaczem."
 		},
 		"ointment-gen": {
-			"sentenceGloss": "Na opakowaniu jest napisana nazwa maści."
+			"sentenceGloss": "Na opakowaniu jest napisana nazwa maści.",
+			"note": "Dopełniacz: rzeczownik zależny od innego rzeczownika odpowiada na pytanie чого? — назву (чого?) мазі, nazwa maści."
 		},
 		"weakness-inst": {
-			"sentenceGloss": "Pacjent opisuje swój stan słowami „ze znacznym osłabieniem”."
+			"sentenceGloss": "Pacjent opisuje swój stan słowami „ze znacznym osłabieniem”.",
+			"note": "Narzędnik: зі łączy się z narzędnikiem — ze znaczną słabością."
 		},
 		"medicine-gen": {
-			"sentenceGloss": "Na liście nie ma tych leków."
+			"sentenceGloss": "Na liście nie ma tych leków.",
+			"note": "Dopełniacz l. mn.: po немає to, czego brak, stoi w dopełniaczu, a ліки ma tylko liczbę mnogą — немає (чого?) цих ліків."
 		}
 	}
 }

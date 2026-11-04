@@ -313,7 +313,7 @@
 			"item": "hour:h11:hour",
 			"text": "одинадцята",
 			"display": "одина́дцята",
-			"ipa": "/ɔdɪˈnad͡zʲt͡sʲata/",
+			"ipa": "/ɔdɪˈnadʲt͡sʲata/",
 			"concepts": ["clock-time"],
 			"row": "h11",
 			"col": "hour"
@@ -323,7 +323,7 @@
 			"item": "hour:h11:at",
 			"text": "одинадцятій",
 			"display": "одина́дцятій",
-			"ipa": "/ɔdɪˈnad͡zʲt͡sʲatʲij/",
+			"ipa": "/ɔdɪˈnadʲt͡sʲatʲij/",
 			"concepts": ["clock-time"],
 			"row": "h11",
 			"col": "at"
@@ -333,7 +333,7 @@
 			"item": "hour:h11:half",
 			"text": "одинадцяту",
 			"display": "одина́дцяту",
-			"ipa": "/ɔdɪˈnad͡zʲt͡sʲatu/",
+			"ipa": "/ɔdɪˈnadʲt͡sʲatu/",
 			"concepts": ["clock-time"],
 			"row": "h11",
 			"col": "half"
@@ -343,7 +343,7 @@
 			"item": "hour:h12:hour",
 			"text": "дванадцята",
 			"display": "двана́дцята",
-			"ipa": "/dʋaˈnad͡zʲt͡sʲata/",
+			"ipa": "/dʋaˈnadʲt͡sʲata/",
 			"concepts": ["clock-time"],
 			"row": "h12",
 			"col": "hour"
@@ -353,7 +353,7 @@
 			"item": "hour:h12:at",
 			"text": "дванадцятій",
 			"display": "двана́дцятій",
-			"ipa": "/dʋaˈnad͡zʲt͡sʲatʲij/",
+			"ipa": "/dʋaˈnadʲt͡sʲatʲij/",
 			"concepts": ["clock-time"],
 			"row": "h12",
 			"col": "at"
@@ -363,7 +363,7 @@
 			"item": "hour:h12:half",
 			"text": "дванадцяту",
 			"display": "двана́дцяту",
-			"ipa": "/dʋaˈnad͡zʲt͡sʲatu/",
+			"ipa": "/dʋaˈnadʲt͡sʲatu/",
 			"concepts": ["clock-time"],
 			"row": "h12",
 			"col": "half"

@@ -3,52 +3,68 @@
 	"summary": "Use the lemma given. Вчити/вивчати a subject takes the accusative; навчати someone takes the accusative and the subject taught takes the genitive. Керувати/завідувати take the instrumental; директор/завідувач take the genitive. A lemma cue fixes the word even where meanings overlap.",
 	"cells": {
 		"study-math": {
-			"sentenceGloss": "I am learning mathematics."
+			"sentenceGloss": "I am learning mathematics.",
+			"note": "Accusative: вчу takes the accusative — what is studied."
 		},
 		"learn-topic": {
-			"sentenceGloss": "We are studying a new topic."
+			"sentenceGloss": "We are studying a new topic.",
+			"note": "Accusative: вивчати takes the accusative."
 		},
 		"teach-math": {
-			"sentenceGloss": "She teaches the children mathematics."
+			"sentenceGloss": "She teaches the children mathematics.",
+			"note": "Genitive: навчати takes the genitive — what is taught."
 		},
 		"teach-student": {
-			"sentenceGloss": "The lecturer teaches the new student."
+			"sentenceGloss": "The lecturer teaches the new student.",
+			"note": "Accusative: навчати takes the accusative — the person taught."
 		},
 		"teach-physics": {
-			"sentenceGloss": "My friend teaches me physics."
+			"sentenceGloss": "My friend teaches me physics.",
+			"note": "Genitive: навчати takes the genitive — what is taught."
 		},
 		"manage-school": {
-			"sentenceGloss": "The headteacher runs the school."
+			"sentenceGloss": "The headteacher runs the school.",
+			"note": "Instrumental: керувати takes the instrumental."
 		},
 		"head-college": {
-			"sentenceGloss": "He is in charge of the technical college."
+			"sentenceGloss": "He is in charge of the technical college.",
+			"note": "Instrumental: завідувати takes the instrumental."
 		},
 		"director-school": {
-			"sentenceGloss": "This is the school headteacher's office."
+			"sentenceGloss": "This is the school headteacher's office.",
+			"note": "Genitive: the noun in the second case after директора."
 		},
 		"head-department": {
-			"sentenceGloss": "The head of department came to the meeting."
+			"sentenceGloss": "The head of department came to the meeting.",
+			"note": "Genitive: the noun in the second case after завідувач."
 		},
 		"acquire-education": {
-			"sentenceGloss": "Olena is pursuing higher education."
+			"sentenceGloss": "Olena is pursuing higher education.",
+			"note": "Accusative: здобувати takes the accusative."
 		},
 		"knowledge-dat": {
-			"sentenceGloss": "Thanks to his broad knowledge he explained the difficult topic."
+			"sentenceGloss": "Thanks to his broad knowledge he explained the difficult topic.",
+			"note": "Dative: завдяки takes the dative."
 		},
 		"paint-inst": {
-			"sentenceGloss": "The child paints with bright paints."
+			"sentenceGloss": "The child paints with bright paints.",
+			"note": "Instrumental: the tool or material takes the instrumental."
 		},
 		"hues-inst": {
-			"sentenceGloss": "We admire the autumn colours."
+			"sentenceGloss": "We admire the autumn colours.",
+			"note": "Instrumental: the instrument of the verb takes the instrumental."
 		},
 		"scissors-gen": {
-			"sentenceGloss": "There are no scissors in the pencil case."
+			"sentenceGloss": "There are no scissors in the pencil case.",
+			"note": "Genitive plural: ножиці in the second case plural after немає."
 		},
 		"notebook-loc": {
-			"sentenceGloss": "Oleh wrote the rule in his exercise book."
+			"sentenceGloss": "Oleh wrote the rule in his exercise book.",
+			"note": "Locative singular: зошит in the second case singular."
 		},
 		"ruler-inst": {
-			"sentenceGloss": "It is convenient to draw a straight line with a ruler."
+			"sentenceGloss": "It is convenient to draw a straight line with a ruler.",
+			"note": "Instrumental: the instrument of the verb takes the instrumental."
 		}
 	}
 }

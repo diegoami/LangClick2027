@@ -10,105 +10,123 @@
 			"id": "perekhrestya",
 			"item": "word:perekhrestya",
 			"text": "перехрестя",
-			"display": "перехре́стя"
+			"display": "перехре́стя",
+			"ipa": "/pɛrɛˈxrɛsʲtʲa/"
 		},
 		{
 			"id": "rih",
 			"item": "word:rih",
-			"text": "ріг"
+			"text": "ріг",
+			"ipa": "/rʲiɦ/"
 		},
 		{
 			"id": "perekhid",
 			"item": "word:perekhid",
 			"text": "перехід",
-			"display": "перехі́д"
+			"display": "перехі́д",
+			"ipa": "/pɛrɛˈxid/"
 		},
 		{
 			"id": "trotuar",
 			"item": "word:trotuar",
 			"text": "тротуар",
-			"display": "тротуа́р"
+			"display": "тротуа́р",
+			"ipa": "/trɔtuˈar/"
 		},
 		{
 			"id": "mist",
 			"item": "word:mist",
-			"text": "міст"
+			"text": "міст",
+			"ipa": "/mist/"
 		},
 		{
 			"id": "hotel",
 			"item": "word:hotel",
 			"text": "готель",
 			"display": "готе́ль",
+			"ipa": "/ɦɔˈtɛlʲ/",
 			"alsoAccepted": ["гостиниця"]
 		},
 		{
 			"id": "bank",
 			"item": "word:bank",
-			"text": "банк"
+			"text": "банк",
+			"ipa": "/bank/"
 		},
 		{
 			"id": "hurtozhytok",
 			"item": "word:hurtozhytok",
 			"text": "гуртожиток",
-			"display": "гурто́житок"
+			"display": "гурто́житок",
+			"ipa": "/ɦurˈtɔʒɪtɔk/"
 		},
 		{
 			"id": "universytet",
 			"item": "word:universytet",
 			"text": "університет",
-			"display": "університе́т"
+			"display": "університе́т",
+			"ipa": "/unʲiʋɛrsɪˈtɛt/"
 		},
 		{
 			"id": "kinoteatr",
 			"item": "word:kinoteatr",
 			"text": "кінотеатр",
-			"display": "кінотеа́тр"
+			"display": "кінотеа́тр",
+			"ipa": "/kinɔtɛˈatr/"
 		},
 		{
 			"id": "sobor",
 			"item": "word:sobor",
 			"text": "собор",
-			"display": "собо́р"
+			"display": "собо́р",
+			"ipa": "/sɔˈbɔr/"
 		},
 		{
 			"id": "khram",
 			"item": "word:khram",
-			"text": "храм"
+			"text": "храм",
+			"ipa": "/xram/"
 		},
 		{
 			"id": "palats",
 			"item": "word:palats",
 			"text": "палац",
-			"display": "пала́ц"
+			"display": "пала́ц",
+			"ipa": "/paˈlat͡s/"
 		},
 		{
 			"id": "zamok",
 			"item": "word:zamok-castle",
 			"text": "замок",
-			"display": "за́мок"
+			"display": "за́мок",
+			"ipa": "/ˈzamɔk/"
 		},
 		{
 			"id": "muzey",
 			"item": "word:muzey",
 			"text": "музей",
-			"display": "музе́й"
+			"display": "музе́й",
+			"ipa": "/muˈzɛj/"
 		},
 		{
 			"id": "park",
 			"item": "word:park",
-			"text": "парк"
+			"text": "парк",
+			"ipa": "/park/"
 		},
 		{
 			"id": "stadion",
 			"item": "word:stadion",
 			"text": "стадіон",
-			"display": "стадіо́н"
+			"display": "стадіо́н",
+			"ipa": "/stadʲiˈɔn/"
 		},
 		{
 			"id": "zoopark",
 			"item": "word:zoopark",
 			"text": "зоопарк",
 			"display": "зоопа́рк",
+			"ipa": "/zɔɔˈpark/",
 			"alsoAccepted": ["зоологічний парк"]
 		},
 		{
@@ -116,6 +134,7 @@
 			"item": "word:pam-yatnyk",
 			"text": "пам'ятник",
 			"display": "па́м'ятник",
+			"ipa": "/ˈpamjatnɪk/",
 			"alsoAccepted": ["монумент"]
 		},
 		{
@@ -123,38 +142,44 @@
 			"item": "word:fontan",
 			"text": "фонтан",
 			"display": "фонта́н",
+			"ipa": "/fɔnˈtan/",
 			"alsoAccepted": ["водограй"]
 		},
 		{
 			"id": "halereya",
 			"item": "word:halereya",
 			"text": "галерея",
-			"display": "галере́я"
+			"display": "галере́я",
+			"ipa": "/ɦalɛˈrɛja/"
 		},
 		{
 			"id": "zapravka",
 			"item": "word:zapravka",
 			"text": "заправка",
 			"display": "запра́вка",
+			"ipa": "/zaˈpraʋka/",
 			"alsoAccepted": ["АЗС", "автозаправка", "автозаправна станція"]
 		},
 		{
 			"id": "poshta",
 			"item": "word:poshta",
 			"text": "пошта",
-			"display": "по́шта"
+			"display": "по́шта",
+			"ipa": "/ˈpɔʃta/"
 		},
 		{
 			"id": "ratusha",
 			"item": "word:ratusha",
 			"text": "ратуша",
-			"display": "ра́туша"
+			"display": "ра́туша",
+			"ipa": "/ˈratuʃa/"
 		},
 		{
 			"id": "livoruch",
 			"item": "word:livoruch",
 			"text": "ліворуч",
 			"display": "ліво́руч",
+			"ipa": "/lʲiˈʋɔrut͡ʃ/",
 			"alsoAccepted": ["наліво"]
 		},
 		{
@@ -162,19 +187,22 @@
 			"item": "word:pravoruch",
 			"text": "праворуч",
 			"display": "право́руч",
+			"ipa": "/praˈʋɔrut͡ʃ/",
 			"alsoAccepted": ["направо"]
 		},
 		{
 			"id": "pryamo",
 			"item": "word:pryamo",
 			"text": "прямо",
-			"display": "пря́мо"
+			"display": "пря́мо",
+			"ipa": "/ˈprʲamɔ/"
 		},
 		{
 			"id": "pozadu",
 			"item": "word:pozadu",
 			"text": "позаду",
 			"display": "поза́ду",
+			"ipa": "/pɔˈzadu/",
 			"alsoAccepted": ["ззаду"]
 		},
 		{
@@ -182,6 +210,7 @@
 			"item": "word:navproty",
 			"text": "навпроти",
 			"display": "навпро́ти",
+			"ipa": "/naʋˈprɔtɪ/",
 			"alsoAccepted": ["напроти"]
 		}
 	],

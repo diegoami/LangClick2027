@@ -3,28 +3,36 @@
 	"summary": "Complete original route instructions using the stated meaning or lemma.",
 	"cells": {
 		"hotel": {
-			"sentenceGloss": "It is only a hundred metres from the stop to the hotel."
+			"sentenceGloss": "It is only a hundred metres from the stop to the hotel.",
+			"note": "Genitive: до takes the genitive for a direction."
 		},
 		"museum": {
-			"sentenceGloss": "There is a bus near the museum."
+			"sentenceGloss": "There is a bus near the museum.",
+			"note": "Genitive: біля takes the genitive."
 		},
 		"corner": {
-			"sentenceGloss": "The pharmacy is around the corner."
+			"sentenceGloss": "The pharmacy is around the corner.",
+			"note": "Instrumental: за takes the instrumental here — за рогом."
 		},
 		"oncorner": {
-			"sentenceGloss": "The kiosk is on the corner of two streets."
+			"sentenceGloss": "The kiosk is on the corner of two streets.",
+			"note": "Locative: на takes the locative — на розі двох вулиць."
 		},
 		"left": {
-			"sentenceGloss": "Turn left."
+			"sentenceGloss": "Turn left.",
+			"note": "Direction: ліворуч is an adverb and takes no case."
 		},
 		"right": {
-			"sentenceGloss": "Then turn right."
+			"sentenceGloss": "Then turn right.",
+			"note": "Direction: праворуч is an adverb and takes no case."
 		},
 		"straight": {
-			"sentenceGloss": "Walk straight ahead to the park."
+			"sentenceGloss": "Walk straight ahead to the park.",
+			"note": "Direction: прямо is an adverb and takes no case."
 		},
 		"street": {
-			"sentenceGloss": "Cross the street at the green light."
+			"sentenceGloss": "Cross the street at the green light.",
+			"note": "Accusative: переходити takes the accusative — what is crossed."
 		}
 	}
 }

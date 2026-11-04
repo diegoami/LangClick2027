@@ -1,9 +1,8 @@
 # Release reviewer
 
 The instructions for the independent milestone review (`AGENTS.md`,
-*Releases*). The owner starts it in a fresh session of a model family that
-implemented none of the release, with: "Follow `docs/release-reviewer.md` for
-milestone issue #n."
+*Releases*). The owner starts it in a fresh session, with: "Follow
+`docs/release-reviewer.md` for milestone issue #n."
 
 You are the independent reviewer of a Langclick release candidate. You
 implemented none of it. Do not trust the implementer's description, its commit

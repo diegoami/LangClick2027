@@ -3,28 +3,36 @@
 	"summary": "Uzupełnij wskazówki zgodnie ze znaczeniem lub lematem.",
 	"cells": {
 		"hotel": {
-			"sentenceGloss": "Od przystanku do hotelu jest tylko sto metrów."
+			"sentenceGloss": "Od przystanku do hotelu jest tylko sto metrów.",
+			"note": "Dopełniacz: do łączy się z dopełniaczem przy wskazaniu kierunku."
 		},
 		"museum": {
-			"sentenceGloss": "Obok muzeum stoi autobus."
+			"sentenceGloss": "Obok muzeum stoi autobus.",
+			"note": "Dopełniacz: біля łączy się z dopełniaczem."
 		},
 		"corner": {
-			"sentenceGloss": "Apteka jest za rogiem."
+			"sentenceGloss": "Apteka jest za rogiem.",
+			"note": "Narzędnik: tutaj za łączy się z narzędnikiem — za róg."
 		},
 		"oncorner": {
-			"sentenceGloss": "Kiosk jest na rogu dwóch ulic."
+			"sentenceGloss": "Kiosk jest na rogu dwóch ulic.",
+			"note": "Miejscownik: на łączy się z miejscownikiem — на розі двох вулиць."
 		},
 		"left": {
-			"sentenceGloss": "Skręć w lewo."
+			"sentenceGloss": "Skręć w lewo.",
+			"note": "Kierunek: ліворуч to przysłówek, nie bierze przypadka."
 		},
 		"right": {
-			"sentenceGloss": "Następnie skręć w prawo."
+			"sentenceGloss": "Następnie skręć w prawo.",
+			"note": "Kierunek: праворуч to przysłówek, nie bierze przypadka."
 		},
 		"straight": {
-			"sentenceGloss": "Idź prosto do parku."
+			"sentenceGloss": "Idź prosto do parku.",
+			"note": "Kierunek: прямо to przysłówek, nie bierze przypadka."
 		},
 		"street": {
-			"sentenceGloss": "Przechodź przez ulicę na zielonym świetle."
+			"sentenceGloss": "Przechodź przez ulicę na zielonym świetle.",
+			"note": "Biernik: переходити łączy się z biernikiem — to, co się przekracza."
 		}
 	}
 }

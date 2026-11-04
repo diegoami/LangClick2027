@@ -8,5 +8,31 @@
 		"c0": "jeden (mianownik)",
 		"c1": "pięć (dopełniacz mnogi)"
 	},
-	"summary": "Te rzeczowniki po pięciu i większych liczbach mają końcówkę -ів. Końcowe в nie ulega ubezdźwięcznieniu."
+	"summary": "Te rzeczowniki po pięciu i większych liczbach mają końcówkę -ів. Końcowe в nie ulega ubezdźwięcznieniu.",
+	"cells": {
+		"grams.c0": {
+			"note": "Liczba pojedyncza: rzeczownik w liczbie pojedynczej."
+		},
+		"grams.c1": {
+			"note": "Dopełniacz l. mn.: po liczebniku rzeczownik w drugim przypadku liczby mnogiej."
+		},
+		"kilos.c0": {
+			"note": "Liczba pojedyncza: rzeczownik w liczbie pojedynczej."
+		},
+		"kilos.c1": {
+			"note": "Dopełniacz l. mn.: po liczebniku rzeczownik w drugim przypadku liczby mnogiej."
+		},
+		"mandarins.c0": {
+			"note": "Liczba pojedyncza: rzeczownik w liczbie pojedynczej."
+		},
+		"mandarins.c1": {
+			"note": "Dopełniacz l. mn.: po liczebniku rzeczownik w drugim przypadku liczby mnogiej."
+		},
+		"tomatoes.c0": {
+			"note": "Liczba pojedyncza: rzeczownik w liczbie pojedynczej."
+		},
+		"tomatoes.c1": {
+			"note": "Dopełniacz l. mn.: po liczebniku rzeczownik w drugim przypadku liczby mnogiej."
+		}
+	}
 }

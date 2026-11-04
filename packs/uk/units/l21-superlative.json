@@ -27,6 +27,7 @@
 			"item": "form:l21-comparison:slabkyy:highest",
 			"text": "найслабкіший",
 			"display": "найслабкі́ший",
+			"ipa": "/najslabˈkiʃɪj/",
 			"row": "slabkyy",
 			"col": "highest",
 			"alsoAccepted": ["найслабший"]
@@ -36,6 +37,7 @@
 			"item": "form:l21-comparison:hrubyy:highest",
 			"text": "найгрубіший",
 			"display": "найгрубі́ший",
+			"ipa": "/najɦruˈbiʃɪj/",
 			"row": "hrubyy",
 			"col": "highest"
 		},
@@ -44,6 +46,7 @@
 			"item": "form:l21-comparison:nizhnyy:highest",
 			"text": "найніжніший",
 			"display": "найніжні́ший",
+			"ipa": "/najnʲiʒˈnʲiʃɪj/",
 			"row": "nizhnyy",
 			"col": "highest"
 		},
@@ -52,6 +55,7 @@
 			"item": "form:l21-comparison:lehkyy:highest",
 			"text": "найлегший",
 			"display": "найле́гший",
+			"ipa": "/najˈlɛɦʃɪj/",
 			"row": "lehkyy",
 			"col": "highest"
 		},
@@ -60,6 +64,7 @@
 			"item": "form:l21-comparison:hlybokyy:highest",
 			"text": "найглибший",
 			"display": "найгли́бший",
+			"ipa": "/najˈɦlɪbʃɪj/",
 			"row": "hlybokyy",
 			"col": "highest"
 		},
@@ -68,6 +73,7 @@
 			"item": "form:l21-comparison:blyzkyy:highest",
 			"text": "найближчий",
 			"display": "найбли́жчий",
+			"ipa": "/najˈblɪʒt͡ʃɪj/",
 			"row": "blyzkyy",
 			"col": "highest"
 		},
@@ -76,6 +82,7 @@
 			"item": "form:l21-comparison:nyzkyy:highest",
 			"text": "найнижчий",
 			"display": "найни́жчий",
+			"ipa": "/najˈnɪʒt͡ʃɪj/",
 			"row": "nyzkyy",
 			"col": "highest"
 		},
@@ -84,6 +91,7 @@
 			"item": "form:l21-comparison:tyazhkyy:highest",
 			"text": "найтяжчий",
 			"display": "найтя́жчий",
+			"ipa": "/najˈtʲaʒt͡ʃɪj/",
 			"row": "tyazhkyy",
 			"col": "highest"
 		},
@@ -92,6 +100,7 @@
 			"item": "form:l21-comparison:vazhkyy:highest",
 			"text": "найважчий",
 			"display": "найва́жчий",
+			"ipa": "/najˈʋaʒt͡ʃɪj/",
 			"row": "vazhkyy",
 			"col": "highest"
 		},
@@ -100,6 +109,7 @@
 			"item": "form:l21-comparison:vysokyy:highest",
 			"text": "найвищий",
 			"display": "найви́щий",
+			"ipa": "/najˈʋɪʃt͡ʃɪj/",
 			"row": "vysokyy",
 			"col": "highest"
 		},
@@ -108,6 +118,7 @@
 			"item": "form:l21-comparison:khoroshyy:highest",
 			"text": "найкращий",
 			"display": "найкра́щий",
+			"ipa": "/najˈkraʃt͡ʃɪj/",
 			"row": "khoroshyy",
 			"col": "highest",
 			"alsoAccepted": ["найліпший"]
@@ -117,6 +128,7 @@
 			"item": "form:l21-comparison:pohanyy:highest",
 			"text": "найгірший",
 			"display": "найгі́рший",
+			"ipa": "/najˈɦirʃɪj/",
 			"row": "pohanyy",
 			"col": "highest",
 			"alsoAccepted": ["найпоганіший", "найпоганший"]
@@ -126,6 +138,7 @@
 			"item": "form:l21-comparison:velykyy:highest",
 			"text": "найбільший",
 			"display": "найбі́льший",
+			"ipa": "/najˈbilʲʃɪj/",
 			"row": "velykyy",
 			"col": "highest"
 		}

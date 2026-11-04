@@ -11,104 +11,121 @@
 			"item": "word:odyah",
 			"text": "одяг",
 			"display": "о́дяг",
+			"ipa": "/ˈɔdʲaɦ/",
 			"alsoAccepted": ["вбрання"]
 		},
 		{
 			"id": "vzuttya",
 			"item": "word:vzuttya",
 			"text": "взуття",
-			"display": "взуття́"
+			"display": "взуття́",
+			"ipa": "/ʋzuˈtʲːa/"
 		},
 		{
 			"id": "spidnytsya",
 			"item": "word:spidnytsya",
 			"text": "спідниця",
-			"display": "спідни́ця"
+			"display": "спідни́ця",
+			"ipa": "/spidˈnɪt͡sʲa/"
 		},
 		{
 			"id": "suknya",
 			"item": "word:suknya",
 			"text": "сукня",
 			"display": "су́кня",
+			"ipa": "/ˈsuknʲa/",
 			"alsoAccepted": ["плаття"]
 		},
 		{
 			"id": "bluzka",
 			"item": "word:bluzka",
 			"text": "блузка",
-			"display": "блу́зка"
+			"display": "блу́зка",
+			"ipa": "/ˈbluzka/"
 		},
 		{
 			"id": "zhaket",
 			"item": "word:zhaket",
 			"text": "жакет",
-			"display": "жаке́т"
+			"display": "жаке́т",
+			"ipa": "/ʒaˈkɛt/"
 		},
 		{
 			"id": "kardyhan",
 			"item": "word:kardyhan",
 			"text": "кардиган",
-			"display": "кардига́н"
+			"display": "кардига́н",
+			"ipa": "/kardɪˈɦan/"
 		},
 		{
 			"id": "nichna-sorochka",
 			"item": "word:nichna-sorochka",
 			"text": "нічна сорочка",
-			"display": "нічна́ соро́чка"
+			"display": "нічна́ соро́чка",
+			"ipa": "/nʲit͡ʃˈna sɔˈrɔt͡ʃka/"
 		},
 		{
 			"id": "pidzhak",
 			"item": "word:pidzhak",
 			"text": "піджак",
-			"display": "піджа́к"
+			"display": "піджа́к",
+			"ipa": "/piˈd͡ʒak/"
 		},
 		{
 			"id": "kravatka",
 			"item": "word:kravatka",
 			"text": "краватка",
 			"display": "крава́тка",
+			"ipa": "/kraˈʋatka/",
 			"alsoAccepted": ["галстук"]
 		},
 		{
 			"id": "metelyk",
 			"item": "word:metelyk",
 			"text": "метелик",
-			"display": "мете́лик"
+			"display": "мете́лик",
+			"ipa": "/mɛˈtɛlɪk/"
 		},
 		{
 			"id": "shtany",
 			"item": "word:shtany",
 			"text": "штани",
 			"display": "штани́",
+			"ipa": "/ʃtaˈnɪ/",
 			"alsoAccepted": ["брюки"]
 		},
 		{
 			"id": "sorochka",
 			"item": "word:sorochka",
 			"text": "сорочка",
-			"display": "соро́чка"
+			"display": "соро́чка",
+			"ipa": "/sɔˈrɔt͡ʃka/"
 		},
 		{
 			"id": "svetr",
 			"item": "word:svetr",
-			"text": "светр"
+			"text": "светр",
+			"ipa": "/sʋɛtr/"
 		},
 		{
 			"id": "palto",
 			"item": "word:palto",
 			"text": "пальто",
-			"display": "пальто́"
+			"display": "пальто́",
+			"ipa": "/palʲˈtɔ/"
 		},
 		{
 			"id": "plashch",
 			"item": "word:plashch",
-			"text": "плащ"
+			"text": "плащ",
+			"ipa": "/plaʃt͡ʃ/"
 		},
 		{
 			"id": "kapelyukh",
 			"item": "word:kapelyukh",
 			"text": "капелюх",
 			"display": "капелю́х",
+			"ipa": "/kapɛˈlʲux/",
 			"alsoAccepted": ["шляпа"]
 		},
 		{
@@ -116,62 +133,72 @@
 			"item": "word:kaptsi",
 			"text": "капці",
 			"alsoAccepted": ["тапочки"],
-			"display": "ка́пці"
+			"display": "ка́пці",
+			"ipa": "/ˈkapt͡sʲi/"
 		},
 		{
 			"id": "bosonizhky",
 			"item": "word:bosonizhky",
 			"text": "босоніжки",
 			"display": "босоні́жки",
+			"ipa": "/bɔsɔˈnʲiʒkɪ/",
 			"alsoAccepted": ["сандалі", "сандалії"]
 		},
 		{
 			"id": "tufli",
 			"item": "word:tufli",
 			"text": "туфлі",
-			"display": "ту́флі"
+			"display": "ту́флі",
+			"ipa": "/ˈtuflʲi/"
 		},
 		{
 			"id": "krosivky",
 			"item": "word:krosivky",
 			"text": "кросівки",
-			"display": "кросі́вки"
+			"display": "кросі́вки",
+			"ipa": "/krɔˈsʲiʋkɪ/"
 		},
 		{
 			"id": "kedy",
 			"item": "word:kedy",
 			"text": "кеди",
-			"display": "ке́ди"
+			"display": "ке́ди",
+			"ipa": "/ˈkɛdɪ/"
 		},
 		{
 			"id": "choboty",
 			"item": "word:choboty",
 			"text": "чоботи",
-			"display": "чо́боти"
+			"display": "чо́боти",
+			"ipa": "/ˈt͡ʃɔbɔtɪ/"
 		},
 		{
 			"id": "cherevyky",
 			"item": "word:cherevyky",
 			"text": "черевики",
-			"display": "череви́ки"
+			"display": "череви́ки",
+			"ipa": "/t͡ʃɛrɛˈʋɪkɪ/"
 		},
 		{
 			"id": "namysto",
 			"item": "word:namysto",
 			"text": "намисто",
-			"display": "нами́сто"
+			"display": "нами́сто",
+			"ipa": "/naˈmɪstɔ/"
 		},
 		{
 			"id": "rozmir",
 			"item": "word:rozmir",
 			"text": "розмір",
-			"display": "ро́змір"
+			"display": "ро́змір",
+			"ipa": "/ˈrɔzmir/"
 		},
 		{
 			"id": "vybyraty",
 			"item": "word:vybyraty",
 			"text": "вибирати",
 			"display": "вибира́ти",
+			"ipa": "/ʋɪbɪˈratɪ/",
 			"alsoAccepted": ["обирати"]
 		},
 		{
@@ -179,6 +206,7 @@
 			"item": "word:miryaty",
 			"text": "міряти",
 			"display": "мі́ряти",
+			"ipa": "/ˈmirʲatɪ/",
 			"alsoAccepted": ["приміряти", "примірювати", "мірити"]
 		},
 		{
@@ -186,6 +214,7 @@
 			"item": "word:kupuvaty",
 			"text": "купувати",
 			"display": "купува́ти",
+			"ipa": "/kupuˈʋatɪ/",
 			"alsoAccepted": ["купляти"]
 		},
 		{
@@ -193,6 +222,7 @@
 			"item": "word:odyahatysya",
 			"text": "одягатися",
 			"display": "одяга́тися",
+			"ipa": "/ɔdʲaˈɦatɪsʲa/",
 			"alsoAccepted": ["одягатись"]
 		},
 		{
@@ -200,6 +230,7 @@
 			"item": "word:vzuvatysya",
 			"text": "взуватися",
 			"display": "взува́тися",
+			"ipa": "/ʋzuˈʋatɪsʲa/",
 			"alsoAccepted": ["взуватись", "узуватися", "узуватись"]
 		}
 	],

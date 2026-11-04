@@ -10,200 +10,233 @@
 			"id": "zakupy",
 			"item": "word:zakupy",
 			"text": "закупи",
-			"display": "за́купи"
+			"display": "за́купи",
+			"ipa": "/ˈzakupɪ/"
 		},
 		{
 			"id": "khlibyna",
 			"item": "word:khlibyna",
 			"text": "хлібина",
 			"display": "хліби́на",
+			"ipa": "/xlʲiˈbɪna/",
 			"alsoAccepted": ["буханець", "буханка"]
 		},
 		{
 			"id": "plyashka",
 			"item": "word:plyashka",
 			"text": "пляшка",
-			"display": "пля́шка"
+			"display": "пля́шка",
+			"ipa": "/ˈplʲaʃka/"
 		},
 		{
 			"id": "yakist",
 			"item": "word:yakist",
 			"text": "якість",
-			"display": "я́кість"
+			"display": "я́кість",
+			"ipa": "/ˈjakistʲ/"
 		},
 		{
 			"id": "termin-prydatnosti",
 			"item": "word:termin-prydatnosti",
 			"text": "термін придатності",
-			"display": "те́рмін прида́тності"
+			"display": "те́рмін прида́тності",
+			"ipa": "/ˈtɛrmin prɪˈdatnɔsʲtʲi/"
 		},
 		{
 			"id": "koshtuvaty",
 			"item": "word:koshtuvaty",
 			"text": "коштувати",
-			"display": "ко́штува́ти"
+			"display": "ко́штувати",
+			"ipa": "/ˈkɔʃtuʋatɪ/"
 		},
 		{
 			"id": "svizhyy",
 			"item": "word:svizhyy",
 			"text": "свіжий",
-			"display": "сві́жий"
+			"display": "сві́жий",
+			"ipa": "/ˈsʋiʒɪj/"
 		},
 		{
 			"id": "oliya",
 			"item": "word:oliya",
 			"text": "олія",
-			"display": "олі́я"
+			"display": "олі́я",
+			"ipa": "/ɔˈlʲija/"
 		},
 		{
 			"id": "maslo",
 			"item": "word:maslo",
 			"text": "масло",
-			"display": "ма́сло"
+			"display": "ма́сло",
+			"ipa": "/ˈmaslɔ/"
 		},
 		{
 			"id": "krip",
 			"item": "word:krip",
-			"text": "кріп"
+			"text": "кріп",
+			"ipa": "/krʲip/"
 		},
 		{
 			"id": "petrushka",
 			"item": "word:petrushka",
 			"text": "петрушка",
-			"display": "петру́шка"
+			"display": "петру́шка",
+			"ipa": "/pɛˈtruʃka/"
 		},
 		{
 			"id": "bazylik",
 			"item": "word:bazylik",
 			"text": "базилік",
-			"display": "базилі́к"
+			"display": "базилі́к",
+			"ipa": "/bazɪˈlʲik/"
 		},
 		{
 			"id": "kartoplya",
 			"item": "word:kartoplya",
 			"text": "картопля",
 			"display": "карто́пля",
+			"ipa": "/karˈtɔplʲa/",
 			"alsoAccepted": ["бульба"]
 		},
 		{
 			"id": "buryak",
 			"item": "word:buryak",
 			"text": "буряк",
-			"display": "буря́к"
+			"display": "буря́к",
+			"ipa": "/buˈrʲak/"
 		},
 		{
 			"id": "tsybulya",
 			"item": "word:tsybulya",
 			"text": "цибуля",
-			"display": "цибу́ля"
+			"display": "цибу́ля",
+			"ipa": "/t͡sɪˈbulʲa/"
 		},
 		{
 			"id": "chasnyk",
 			"item": "word:chasnyk",
 			"text": "часник",
-			"display": "часни́к"
+			"display": "часни́к",
+			"ipa": "/t͡ʃaˈsnɪk/"
 		},
 		{
 			"id": "morkva",
 			"item": "word:morkva",
 			"text": "морква",
-			"display": "мо́рква"
+			"display": "мо́рква",
+			"ipa": "/ˈmɔrkʋa/"
 		},
 		{
 			"id": "kvasolya",
 			"item": "word:kvasolya",
 			"text": "квасоля",
-			"display": "квасо́ля"
+			"display": "квасо́ля",
+			"ipa": "/kʋaˈsɔlʲa/"
 		},
 		{
 			"id": "kavun",
 			"item": "word:kavun",
 			"text": "кавун",
-			"display": "каву́н"
+			"display": "каву́н",
+			"ipa": "/kaˈʋun/"
 		},
 		{
 			"id": "dynya",
 			"item": "word:dynya",
 			"text": "диня",
-			"display": "ди́ня"
+			"display": "ди́ня",
+			"ipa": "/ˈdɪnʲa/"
 		},
 		{
 			"id": "polunytsya",
 			"item": "word:polunytsya",
 			"text": "полуниця",
-			"display": "полуни́ця"
+			"display": "полуни́ця",
+			"ipa": "/pɔluˈnɪt͡sʲa/"
 		},
 		{
 			"id": "vyshnya",
 			"item": "word:vyshnya",
 			"text": "вишня",
-			"display": "ви́шня"
+			"display": "ви́шня",
+			"ipa": "/ˈʋɪʃnʲa/"
 		},
 		{
 			"id": "agrus",
 			"item": "word:agrus",
 			"text": "аґрус",
-			"display": "а́ґрус"
+			"display": "а́ґрус",
+			"ipa": "/ˈaɡrus/"
 		},
 		{
 			"id": "vershky",
 			"item": "word:vershky",
 			"text": "вершки",
-			"display": "вершки́"
+			"display": "вершки́",
+			"ipa": "/ʋɛrˈʃkɪ/"
 		},
 		{
 			"id": "morozyvo",
 			"item": "word:morozyvo",
 			"text": "морозиво",
-			"display": "моро́зиво"
+			"display": "моро́зиво",
+			"ipa": "/mɔˈrɔzɪʋɔ/"
 		},
 		{
 			"id": "boroshno",
 			"item": "word:boroshno",
 			"text": "борошно",
-			"display": "бо́рошно"
+			"display": "бо́рошно",
+			"ipa": "/ˈbɔrɔʃnɔ/"
 		},
 		{
 			"id": "tsukor",
 			"item": "word:tsukor",
 			"text": "цукор",
-			"display": "цу́кор"
+			"display": "цу́кор",
+			"ipa": "/ˈt͡sukɔr/"
 		},
 		{
 			"id": "sil",
 			"item": "word:sil",
-			"text": "сіль"
+			"text": "сіль",
+			"ipa": "/sʲilʲ/"
 		},
 		{
 			"id": "zhushchene-moloko",
 			"item": "word:zhushchene-moloko",
 			"text": "згущене молоко",
-			"display": "згу́щене молоко́"
+			"display": "згу́щене молоко́",
+			"ipa": "/ˈzɦuʃt͡ʃɛnɛ mɔlɔˈkɔ/"
 		},
 		{
 			"id": "makarony",
 			"item": "word:makarony",
 			"text": "макарони",
-			"display": "макаро́ни"
+			"display": "макаро́ни",
+			"ipa": "/makaˈrɔnɪ/"
 		},
 		{
 			"id": "solodoshchi",
 			"item": "word:solodoshchi",
 			"text": "солодощі",
 			"display": "со́лодощі",
+			"ipa": "/ˈsɔlɔdɔʃt͡ʃi/",
 			"alsoAccepted": ["ласощі"]
 		},
 		{
 			"id": "tsukornytsya",
 			"item": "word:tsukornytsya",
 			"text": "цукорниця",
-			"display": "цу́корниця"
+			"display": "цу́корниця",
+			"ipa": "/ˈt͡sukɔrnɪt͡sʲa/"
 		},
 		{
 			"id": "tsukernytsya",
 			"item": "word:tsukernytsya",
 			"text": "цукерниця",
-			"display": "цуке́рниця"
+			"display": "цуке́рниця",
+			"ipa": "/t͡suˈkɛrnɪt͡sʲa/"
 		}
 	],
 	"sources": [

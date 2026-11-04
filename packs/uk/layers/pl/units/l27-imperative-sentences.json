@@ -3,28 +3,36 @@
 	"summary": "Użyj trybu rozkazującego podanego czasownika we wskazanej osobie, bez dodatkowych partykuł.",
 	"cells": {
 		"write-you": {
-			"sentenceGloss": "Oleno, pisz tutaj numer telefonu."
+			"sentenceGloss": "Oleno, pisz tutaj numer telefonu.",
+			"note": "Tryb rozkazujący, druga osoba l. poj."
 		},
 		"copy-we": {
-			"sentenceGloss": "Wypiszmy nieznane słowa na osobną listę."
+			"sentenceGloss": "Wypiszmy nieznane słowa na osobną listę.",
+			"note": "Tryb rozkazujący, pierwsza osoba l. mn. — wypiszmy."
 		},
 		"underline-you": {
-			"sentenceGloss": "Andriju, podkreśl nagłówek."
+			"sentenceGloss": "Andriju, podkreśl nagłówek.",
+			"note": "Tryb rozkazujący, druga osoba l. poj."
 		},
 		"complete-plural": {
-			"sentenceGloss": "Przyjaciele, wykonujcie zadania samodzielnie."
+			"sentenceGloss": "Przyjaciele, wykonujcie zadania samodzielnie.",
+			"note": "Tryb rozkazujący, druga osoba l. mn."
 		},
 		"check-plural": {
-			"sentenceGloss": "Szanowni czytelnicy, sprawdźcie numer strony."
+			"sentenceGloss": "Szanowni czytelnicy, sprawdźcie numer strony.",
+			"note": "Tryb rozkazujący, druga osoba l. mn."
 		},
 		"sit-plural": {
-			"sentenceGloss": "Szanowni goście, usiądźcie przy oknie."
+			"sentenceGloss": "Szanowni goście, usiądźcie przy oknie.",
+			"note": "Tryb rozkazujący, druga osoba l. mn."
 		},
 		"throw-you": {
-			"sentenceGloss": "Tarasie, rzuć piłkę do kosza."
+			"sentenceGloss": "Tarasie, rzuć piłkę do kosza.",
+			"note": "Tryb rozkazujący, druga osoba l. poj."
 		},
 		"fill-plural": {
-			"sentenceGloss": "Szanowni uczestnicy, wypełnijcie ankietę przed spotkaniem."
+			"sentenceGloss": "Szanowni uczestnicy, wypełnijcie ankietę przed spotkaniem.",
+			"note": "Tryb rozkazujący, druga osoba l. mn."
 		}
 	}
 }

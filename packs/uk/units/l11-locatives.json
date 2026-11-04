@@ -14,7 +14,8 @@
 			"text": "руці",
 			"row": "hand",
 			"col": "c0",
-			"display": "руці́"
+			"display": "руці́",
+			"ipa": "/ruˈt͡sʲi/"
 		},
 		{
 			"id": "hand.c1",
@@ -22,7 +23,8 @@
 			"text": "руках",
 			"row": "hand",
 			"col": "c1",
-			"display": "рука́х"
+			"display": "рука́х",
+			"ipa": "/ruˈkax/"
 		},
 		{
 			"id": "leg.c0",
@@ -30,7 +32,8 @@
 			"text": "нозі",
 			"row": "leg",
 			"col": "c0",
-			"display": "нозі́"
+			"display": "нозі́",
+			"ipa": "/nɔˈzʲi/"
 		},
 		{
 			"id": "leg.c1",
@@ -38,7 +41,8 @@
 			"text": "ногах",
 			"row": "leg",
 			"col": "c1",
-			"display": "нога́х"
+			"display": "нога́х",
+			"ipa": "/nɔˈɦax/"
 		},
 		{
 			"id": "head.c0",
@@ -46,7 +50,8 @@
 			"text": "голові",
 			"row": "head",
 			"col": "c0",
-			"display": "голові́"
+			"display": "голові́",
+			"ipa": "/ɦɔlɔˈʋi/"
 		},
 		{
 			"id": "head.c1",
@@ -54,7 +59,8 @@
 			"text": "головах",
 			"row": "head",
 			"col": "c1",
-			"display": "го́ловах"
+			"display": "го́ловах",
+			"ipa": "/ˈɦɔlɔʋax/"
 		},
 		{
 			"id": "eye.c0",
@@ -62,7 +68,8 @@
 			"text": "оці",
 			"row": "eye",
 			"col": "c0",
-			"display": "о́ці"
+			"display": "о́ці",
+			"ipa": "/ˈɔt͡sʲi/"
 		},
 		{
 			"id": "eye.c1",
@@ -70,7 +77,8 @@
 			"text": "очах",
 			"row": "eye",
 			"col": "c1",
-			"display": "оча́х"
+			"display": "оча́х",
+			"ipa": "/ɔˈt͡ʃax/"
 		},
 		{
 			"id": "ear.c0",
@@ -79,6 +87,7 @@
 			"row": "ear",
 			"col": "c0",
 			"display": "ву́сі",
+			"ipa": "/ˈʋusʲi/",
 			"alsoAccepted": ["вуху", "вухові"]
 		},
 		{
@@ -87,7 +96,8 @@
 			"text": "вухах",
 			"row": "ear",
 			"col": "c1",
-			"display": "ву́хах"
+			"display": "ву́хах",
+			"ipa": "/ˈʋuxax/"
 		},
 		{
 			"id": "shoulder.c0",
@@ -96,6 +106,7 @@
 			"row": "shoulder",
 			"col": "c0",
 			"display": "плечі́",
+			"ipa": "/plɛˈt͡ʃi/",
 			"alsoAccepted": ["плечу"]
 		},
 		{
@@ -105,6 +116,7 @@
 			"row": "shoulder",
 			"col": "c1",
 			"display": "плеча́х",
+			"ipa": "/plɛˈt͡ʃax/",
 			"alsoAccepted": ["плечях"]
 		},
 		{
@@ -114,6 +126,7 @@
 			"row": "knee",
 			"col": "c0",
 			"display": "колі́ні",
+			"ipa": "/kɔˈlʲinʲi/",
 			"alsoAccepted": ["коліну"]
 		},
 		{
@@ -122,7 +135,8 @@
 			"text": "колінах",
 			"row": "knee",
 			"col": "c1",
-			"display": "колі́нах"
+			"display": "колі́нах",
+			"ipa": "/kɔˈlʲinax/"
 		},
 		{
 			"id": "finger.c0",
@@ -131,6 +145,7 @@
 			"row": "finger",
 			"col": "c0",
 			"display": "па́льці",
+			"ipa": "/ˈpalʲt͡sʲi/",
 			"alsoAccepted": ["пальцю", "пальцеві"]
 		},
 		{
@@ -139,7 +154,8 @@
 			"text": "пальцях",
 			"row": "finger",
 			"col": "c1",
-			"display": "па́льцях"
+			"display": "па́льцях",
+			"ipa": "/ˈpalʲt͡sʲax/"
 		}
 	],
 	"sources": [

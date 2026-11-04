@@ -2,28 +2,36 @@
 	"title": "Zdania",
 	"cells": {
 		"hair": {
-			"sentenceGloss": "Ona ma faliste włosy."
+			"sentenceGloss": "Ona ma faliste włosy.",
+			"note": "Dopasowanie przymiotnika: волосся — rodzaj nijaki, l. poj., więc хвилясте."
 		},
 		"eyes": {
-			"sentenceGloss": "Chłopiec ma piwne oczy."
+			"sentenceGloss": "Chłopiec ma piwne oczy.",
+			"note": "Dopasowanie przymiotnika: очі — liczba mnoga, więc przymiotnik też w liczbie mnogiej."
 		},
 		"face": {
-			"sentenceGloss": "Dziecko ma okrągłą twarz."
+			"sentenceGloss": "Dziecko ma okrągłą twarz.",
+			"note": "Dopasowanie przymiotnika: обличчя — rodzaj nijaki, l. poj., więc кругле."
 		},
 		"brows": {
-			"sentenceGloss": "On ma gęste brwi."
+			"sentenceGloss": "On ma gęste brwi.",
+			"note": "Dopasowanie przymiotnika: брови — liczba mnoga, więc przymiotnik też w liczbie mnogiej."
 		},
 		"lips": {
-			"sentenceGloss": "Niemowlę ma pełne usta."
+			"sentenceGloss": "Niemowlę ma pełne usta.",
+			"note": "Dopasowanie przymiotnika: губи — liczba mnoga, więc przymiotnik też w liczbie mnogiej."
 		},
 		"woman": {
-			"sentenceGloss": "Ta kobieta jest bardzo wysoka."
+			"sentenceGloss": "Ta kobieta jest bardzo wysoka.",
+			"note": "Dopasowanie przymiotnika: жінка — rodzaj żeński, l. poj., więc висока."
 		},
 		"height": {
-			"sentenceGloss": "Moja siostra jest średniego wzrostu."
+			"sentenceGloss": "Moja siostra jest średniego wzrostu.",
+			"note": "Dopełniacz: cechę, taką jak wzrost czy wiek, podaje się w dopełniaczu — (якого?) середнього зросту, średniego wzrostu."
 		},
 		"build": {
-			"sentenceGloss": "Mój brat jest średniej budowy ciała."
+			"sentenceGloss": "Mój brat jest średniej budowy ciała.",
+			"note": "Dopełniacz: przymiotnik dopasowuje się do статура — rodzaj żeński."
 		}
 	},
 	"summary": "Wpisz brakującą formę według podanego hasła lub znaczenia zdania."

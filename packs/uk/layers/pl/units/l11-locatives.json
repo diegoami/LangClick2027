@@ -12,5 +12,55 @@
 		"c0": "na/w jednym (miejscownik)",
 		"c1": "na/w kilku (miejscownik)"
 	},
-	"summary": "Nagłówki podają mianownik. Uzupełnij miejscownik; zwróć uwagę na wymiany spółgłosek i liczbę mnogą."
+	"summary": "Nagłówki podają mianownik. Uzupełnij miejscownik; zwróć uwagę na wymiany spółgłosek i liczbę mnogą.",
+	"cells": {
+		"hand.c0": {
+			"note": "Miejscownik l. poj.: drugi przypadek l. poj., po на."
+		},
+		"hand.c1": {
+			"note": "Miejscownik l. mn.: drugi przypadek l. mn., po на."
+		},
+		"leg.c0": {
+			"note": "Miejscownik l. poj.: drugi przypadek l. poj., po на."
+		},
+		"leg.c1": {
+			"note": "Miejscownik l. mn.: drugi przypadek l. mn., po на."
+		},
+		"head.c0": {
+			"note": "Miejscownik l. poj.: drugi przypadek l. poj., po на."
+		},
+		"head.c1": {
+			"note": "Miejscownik l. mn.: drugi przypadek l. mn., po на."
+		},
+		"eye.c0": {
+			"note": "Miejscownik l. poj.: drugi przypadek l. poj., po на."
+		},
+		"eye.c1": {
+			"note": "Miejscownik l. mn.: drugi przypadek l. mn., po на."
+		},
+		"ear.c0": {
+			"note": "Miejscownik l. poj.: drugi przypadek l. poj., po на."
+		},
+		"ear.c1": {
+			"note": "Miejscownik l. mn.: drugi przypadek l. mn., po на."
+		},
+		"shoulder.c0": {
+			"note": "Miejscownik l. poj.: drugi przypadek l. poj., po на."
+		},
+		"shoulder.c1": {
+			"note": "Miejscownik l. mn.: drugi przypadek l. mn., po на."
+		},
+		"knee.c0": {
+			"note": "Miejscownik l. poj.: drugi przypadek l. poj., po на."
+		},
+		"knee.c1": {
+			"note": "Miejscownik l. mn.: drugi przypadek l. mn., po на."
+		},
+		"finger.c0": {
+			"note": "Miejscownik l. poj.: drugi przypadek l. poj., po на."
+		},
+		"finger.c1": {
+			"note": "Miejscownik l. mn.: drugi przypadek l. mn., po на."
+		}
+	}
 }

@@ -13,5 +13,61 @@
 		"c0": "singular (nominative)",
 		"c1": "plural (nominative)"
 	},
-	"summary": "Practise plural endings and stem changes. In food-substance meanings, молоко, борошно and цукор normally name a mass, not separate objects. Вершки, макарони and солодощі use plural forms."
+	"summary": "Practise plural endings and stem changes. In food-substance meanings, молоко, борошно and цукор normally name a mass, not separate objects. Вершки, макарони and солодощі use plural forms.",
+	"cells": {
+		"beet.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"beet.c1": {
+			"note": "Plural: the noun in the plural."
+		},
+		"borshch.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"borshch.c1": {
+			"note": "Plural: the noun in the plural."
+		},
+		"drink.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"drink.c1": {
+			"note": "Plural: the noun in the plural."
+		},
+		"juice.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"juice.c1": {
+			"note": "Plural: the noun in the plural."
+		},
+		"sausage.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"sausage.c1": {
+			"note": "Plural: the noun in the plural."
+		},
+		"bowl.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"bowl.c1": {
+			"note": "Plural: the noun in the plural."
+		},
+		"pot.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"pot.c1": {
+			"note": "Plural: the noun in the plural."
+		},
+		"tray.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"tray.c1": {
+			"note": "Plural: the noun in the plural."
+		},
+		"egg.c0": {
+			"note": "Singular: the noun in the singular."
+		},
+		"egg.c1": {
+			"note": "Plural: the noun in the plural."
+		}
+	}
 }

@@ -90,6 +90,59 @@ alike, as across the Polish script boundary), or `partial` (only partly the same
 Steriopolo & Żygis (2017), the published IPA illustration. Where another source
 disagrees, a concept says so and names it, rather than choosing silently.
 
+A word cell, a verb form and a table cell that names a word carry a
+transcription. A sentence cell does not: the sentence carries the word, and a
+transcription would repeat it.
+
+The letters follow the `alphabet` board, which is the authority:
+
+| Letter | Sound | Letter | Sound | Letter | Sound |
+| ------ | ----- | ------ | ----- | ------ | ----- |
+| а      | a     | й      | j     | ц      | t͡s    |
+| б      | b     | к      | k     | ч      | t͡ʃ    |
+| в      | ʋ     | л      | l     | ш      | ʃ     |
+| г      | ɦ     | м      | m     | щ      | ʃt͡ʃ   |
+| ґ      | ɡ     | н      | n     | ь      | ʲ     |
+| д      | d     | о      | ɔ     | ю      | ju    |
+| е      | ɛ     | п      | p     | я      | ja    |
+| ж      | ʒ     | р      | r     | є      | jɛ    |
+| з      | z     | с      | s     | ї      | ji    |
+| и      | ɪ     | т      | t     | и      | ɪ     |
+| і      | i     | у      | u     |        |       |
+
+The rest of the rules, each with the board that states it:
+
+- **И is /ɪ/** in every position, stressed or not: брати́, штани́, були́ are all
+  /ɪ/. Only the masculine plural endings -ів and -ові keep a full /i/, and a
+  feminine genitive plural in -нів does not. **І is /i/**, and a dental or р
+  before it is soft and carries the ʲ mark: дім /dʲim/, ліс /lʲis/. A labial,
+  velar or hushing consonant before it stays unmarked: кіт /kit/, бік /bik/
+  (`i-or-y`).
+- **Unstressed о stays /ɔ/**; it does not reduce towards a (`unstressed-o`).
+- **Г is /ɦ/**, and **x before к or т**: легки́й, ні́гті (`h-or-g`).
+- **A final consonant keeps its voice**: віз ends in [z], ваз differs from вас
+  (`final-voiced`).
+- **Soft sign and glide vowels soften what precedes them**: дім, ліс, хліб,
+  ніж; the sign ʲ marks the softened consonant.
+- **дж and дз are single affricates**, /d͡ʒ/ and /d͡z/, written with two
+  letters (`one-sound-two-letters`).
+- **A doubled consonant is a long one**: нн is nː.
+- **К before a voiced obstruent** (б, г, ґ, д, ж, з) is /ɡ/: вокзал /ʋɔɡˈzal/,
+  Великдень. В is a sonorant and voices nothing: квартира /kʋarˈtɪra/.
+- **A dental before a soft dental is marked soft** in дц, /dʲt͡sʲ/ (двадцять
+  /ˈdʋadʲt͡sʲatʲ/; pronunciation guides write [d͡zʲt͡sʲ]), and where the older
+  boards mark it (будні /ˈbudʲnʲi/, тесть /tɛsʲtʲ/, підсніжник). The pack is
+  not yet consistent about this elsewhere (українська, якість), nor about
+  labials and velars before і; both are open questions in
+  [#42](https://github.com/diegoami/LangClick2027/issues/42).
+- **ˈ goes before the stressed syllable**, and the stress is the one the
+  `display` marks. An obstruent plus р or л, and с, з or ш before a stop,
+  begin the syllable: сестра /sɛˈstra/, роблю /rɔˈblʲu/, кілограм
+  /kilɔˈɦram/; a consonant before an apostrophe's j does too: ім'я /iˈmja/.
+  Any other cluster splits before its last consonant: дочка /dɔt͡ʃˈka/, вікно
+  /ʋikˈnɔ/, підсніжник /pidʲsʲˈnʲiʒnɪk/. A prefix ending in a consonant (під-,
+  від-, роз-) keeps it: відвідувати /ʋidˈʋiduʋatɪ/, розлючений.
+
 ## Coverage
 
 `packs/uk/coverage/emova-27.json` tracks eMova's 27 lessons against our units, so it
