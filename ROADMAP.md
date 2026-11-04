@@ -32,12 +32,22 @@ The grammar sits where the themes need it: en/ett and the definite ending, adjec
 agreement, plurals, possessives, the present tense and the imperative. Explanations are in
 English, with comparisons with English and German.
 
-**Swedish level 2 is merged, and v0.7.0 is in release preparation** under [#58](https://github.com/diegoami/LangClick2027/issues/58): Hej svenska 2's ten themes as lessons 13–24. They add object and reflexive pronouns, the past tense with the commonest strong verbs, the future with ska and kommer att, the genitive, definite adjectives, den/det, ja/jo/nej, and time words such as i somras and fem i halv fyra.
+**[v0.7.0](https://github.com/diegoami/LangClick2027/releases/tag/v0.7.0) is released: Swedish, level 2.** [Milestone #61](https://github.com/diegoami/LangClick2027/issues/61) received AGREE in round 2 on the exact tagged commit, `b93896c60ff747c645f7a4f56584abce58bd8d80`. Round 1's finding ([#62](https://github.com/diegoami/LangClick2027/issues/62), sov/sover) was rebutted with Lexin, SAOL and Wiktionary evidence and withdrawn. Agreed in [#58](https://github.com/diegoami/LangClick2027/issues/58), level 2 covers Hej svenska 2's ten themes as lessons 13–24. It adds object and reflexive pronouns, the past tense with the commonest strong verbs, the future with ska and kommer att, the genitive, definite adjectives, den/det, ja/jo/nej, and time words such as i somras and fem i halv fyra. The Swedish pack now has 24 lessons, 67 boards and 656 cells.
 
-On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
-extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided
-lessons, speech ([#21](https://github.com/diegoami/LangClick2027/issues/21)) and native builds
-are deferred; their old version slots below are historical plans, not prerequisites to Swedish.
+### Open
+
+- **The next milestone is not chosen.** The candidates are Hej svenska level 3, separate downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), and audio. The owner picks; a release plan needs a proposal issue first.
+- **Points left for a native speaker.** No dictionary we can reach marks these forms, so their accents follow general rules:
+  - Swedish: the accent 1 of the weekday and month names (and augusti), förrgår, i vinter, svåger, händer, fötter, tänder and föräldrar, and the transcription of mormor.
+  - Where Lexin and Wiktionary disagree, the cells follow Lexin: ursäkta, god in greetings, and mig/dig written with a long /j/.
+  - Ukrainian: та́к собі, which follows Словники України against Wiktionary.
+- **The comparison language is one setting for every pack.** A learner who compares Ukrainian with Russian sees no Swedish comparison until they switch to English or German.
+- **A reviewer nit from #61:** the vowel-chart note names sova as the exception where o is /oː/. It could name the whole family (sova, sover, sov). It is a content edit, so it needs two checks.
+- **Finished proposals are still open on GitHub:** #3, #27, #34, #43 and #58. Closing them is the owner's call.
+  On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
+  extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided
+  lessons, speech ([#21](https://github.com/diegoami/LangClick2027/issues/21)) and native builds
+  are deferred; their old version slots below are historical plans, not prerequisites to Swedish.
 
 ## Milestones
 

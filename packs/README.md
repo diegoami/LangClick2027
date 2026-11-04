@@ -211,6 +211,25 @@ Open every source link before it ships. A DOI can resolve to the wrong paper eve
 when the paper prints it, as Vakulenko 2025's does, so link to where a reader actually
 lands.
 
+### Running a check round
+
+What worked over the Ukrainian convention work and both Swedish levels:
+
+- **Running a round:**
+  - **Two checkers, kept for the whole release.** Send each round to the same pair, resumed, rather than starting new ones. Do one or two lessons per round, plus the fixes from the round before.
+  - **Name a record for the model that wrote its verdicts.** If a later round runs under a different model, it writes a new record rather than adding to the old one.
+  - **Re-scan the whole pack.** Ask the checkers each round to scan every cell against the written rules, not only the pending ones. On Ukrainian the findings went 38, 13, 5, 0. When one text in a layer is wrong, look for the same fault across the layer: fresh checkers found ru-ru comparisons written in Ukrainian that earlier ones had passed.
+- **Writing and editing records:**
+  - **Re-pending after a fix.** `pack-check.mjs` re-pends every changed target, so running it on an existing record is safe. A new record takes every target as pending.
+  - **A board change can void an unchanged cell.** If a fix changes a board so that an unchanged cell becomes right or wrong (a second slip now fits its gap, or no longer does), the script does not re-pend it. Tell the checkers to re-judge that cell.
+  - **Reformat scripted JSON.** After writing JSON by script, run `npx prettier --config app/prettier.config.js --write packs`: `JSON.stringify(…, '\t')` expands short arrays, and the lint gate rejects that.
+- **Rules:**
+  - **Write a rule only for what the pack does consistently.** Every rule written here gets measured against the whole pack, older boards included. Take inconsistencies to the owner as an issue (as with #42) rather than chasing them round after round.
+- **Swedish sources:**
+  - **Lexin** (lexin.nada.kth.se) is the reachable source that marks accent (²) and length for Swedish headwords and many inflected forms.
+  - **svenska.se** renders in the browser, but its search API answers (`/api/search/saol?q=…`).
+  - **Wiktionary** often has no IPA for inflected forms.
+
 ## Licence
 
 Each pack names its licence in its manifest. Packs here are
