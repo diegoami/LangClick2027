@@ -11,7 +11,7 @@
 			"item": "number:n11",
 			"text": "одинадцять",
 			"display": "одина́дцять",
-			"ipa": "/ɔdɪˈnad͡zʲt͡sʲatʲ/",
+			"ipa": "/ɔdɪˈnadt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "оди́ннадцать"
@@ -27,7 +27,7 @@
 			"item": "number:n12",
 			"text": "дванадцять",
 			"display": "двана́дцять",
-			"ipa": "/dʋaˈnad͡zʲt͡sʲatʲ/",
+			"ipa": "/dʋaˈnadt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "двена́дцать"
@@ -43,7 +43,7 @@
 			"item": "number:n13",
 			"text": "тринадцять",
 			"display": "трина́дцять",
-			"ipa": "/trɪˈnad͡zʲt͡sʲatʲ/",
+			"ipa": "/trɪˈnadt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "трина́дцать"
@@ -59,7 +59,7 @@
 			"item": "number:n14",
 			"text": "чотирнадцять",
 			"display": "чотирна́дцять",
-			"ipa": "/t͡ʃɔtɪrˈnad͡zʲt͡sʲatʲ/",
+			"ipa": "/t͡ʃɔtɪrˈnadt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "четы́рнадцать"
@@ -75,7 +75,7 @@
 			"item": "number:n15",
 			"text": "п'ятнадцять",
 			"display": "п'ятна́дцять",
-			"ipa": "/pjatˈnad͡zʲt͡sʲatʲ/",
+			"ipa": "/pjatˈnadt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "пятна́дцать"
@@ -91,7 +91,7 @@
 			"item": "number:n16",
 			"text": "шістнадцять",
 			"display": "шістна́дцять",
-			"ipa": "/ʃisˈnad͡zʲt͡sʲatʲ/",
+			"ipa": "/ʃisˈnadt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "шестна́дцать"
@@ -107,7 +107,7 @@
 			"item": "number:n17",
 			"text": "сімнадцять",
 			"display": "сімна́дцять",
-			"ipa": "/sʲimˈnad͡zʲt͡sʲatʲ/",
+			"ipa": "/sʲimˈnadt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "семна́дцать"
@@ -123,7 +123,7 @@
 			"item": "number:n18",
 			"text": "вісімнадцять",
 			"display": "вісімна́дцять",
-			"ipa": "/ʋisʲimˈnad͡zʲt͡sʲatʲ/",
+			"ipa": "/ʋisʲimˈnadt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "восемна́дцать"
@@ -139,7 +139,7 @@
 			"item": "number:n19",
 			"text": "дев'ятнадцять",
 			"display": "дев'ятна́дцять",
-			"ipa": "/dɛʋjatˈnad͡zʲt͡sʲatʲ/",
+			"ipa": "/dɛʋjatˈnadt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "девятна́дцать"
@@ -155,7 +155,7 @@
 			"item": "number:n20",
 			"text": "двадцять",
 			"display": "два́дцять",
-			"ipa": "/ˈdʋad͡zʲt͡sʲatʲ/",
+			"ipa": "/ˈdʋadt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "два́дцать"
@@ -170,7 +170,7 @@
 			"item": "number:n30",
 			"text": "тридцять",
 			"display": "три́дцять",
-			"ipa": "/ˈtrɪd͡zʲt͡sʲatʲ/",
+			"ipa": "/ˈtrɪdt͡sʲatʲ/",
 			"cognates": {
 				"ru": {
 					"form": "три́дцать"

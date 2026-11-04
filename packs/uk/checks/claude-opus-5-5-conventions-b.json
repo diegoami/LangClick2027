@@ -2,6 +2,221 @@
 	"checker": "claude-opus-5-5-conventions-b",
 	"entries": [
 		{
+			"key": "core/hours/h11.at",
+			"seen": "{\"item\":\"hour:h11:at\",\"text\":\"одинадцятій\",\"display\":\"одина́дцятій\",\"ipa\":\"/ɔdɪˈnadt͡sʲatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"at\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/hours/h11.half",
+			"seen": "{\"item\":\"hour:h11:half\",\"text\":\"одинадцяту\",\"display\":\"одина́дцяту\",\"ipa\":\"/ɔdɪˈnadt͡sʲatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"half\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/hours/h11.hour",
+			"seen": "{\"item\":\"hour:h11:hour\",\"text\":\"одинадцята\",\"display\":\"одина́дцята\",\"ipa\":\"/ɔdɪˈnadt͡sʲata/\",\"concepts\":[\"clock-time\"],\"row\":\"h11\",\"col\":\"hour\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/hours/h12.at",
+			"seen": "{\"item\":\"hour:h12:at\",\"text\":\"дванадцятій\",\"display\":\"двана́дцятій\",\"ipa\":\"/dʋaˈnadt͡sʲatʲij/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"at\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/hours/h12.half",
+			"seen": "{\"item\":\"hour:h12:half\",\"text\":\"дванадцяту\",\"display\":\"двана́дцяту\",\"ipa\":\"/dʋaˈnadt͡sʲatu/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"half\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/hours/h12.hour",
+			"seen": "{\"item\":\"hour:h12:hour\",\"text\":\"дванадцята\",\"display\":\"двана́дцята\",\"ipa\":\"/dʋaˈnadt͡sʲata/\",\"concepts\":[\"clock-time\"],\"row\":\"h12\",\"col\":\"hour\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n11",
+			"seen": "{\"item\":\"number:n11\",\"text\":\"одинадцять\",\"display\":\"одина́дцять\",\"ipa\":\"/ɔdɪˈnadt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"оди́ннадцать\"},\"pl\":{\"form\":\"jedenaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n12",
+			"seen": "{\"item\":\"number:n12\",\"text\":\"дванадцять\",\"display\":\"двана́дцять\",\"ipa\":\"/dʋaˈnadt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"двена́дцать\"},\"pl\":{\"form\":\"dwanaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n13",
+			"seen": "{\"item\":\"number:n13\",\"text\":\"тринадцять\",\"display\":\"трина́дцять\",\"ipa\":\"/trɪˈnadt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"трина́дцать\"},\"pl\":{\"form\":\"trzynaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n14",
+			"seen": "{\"item\":\"number:n14\",\"text\":\"чотирнадцять\",\"display\":\"чотирна́дцять\",\"ipa\":\"/t͡ʃɔtɪrˈnadt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"четы́рнадцать\"},\"pl\":{\"form\":\"czternaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n15",
+			"seen": "{\"item\":\"number:n15\",\"text\":\"п'ятнадцять\",\"display\":\"п'ятна́дцять\",\"ipa\":\"/pjatˈnadt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"пятна́дцать\"},\"pl\":{\"form\":\"piętnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n16",
+			"seen": "{\"item\":\"number:n16\",\"text\":\"шістнадцять\",\"display\":\"шістна́дцять\",\"ipa\":\"/ʃisˈnadt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"шестна́дцать\"},\"pl\":{\"form\":\"szesnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n17",
+			"seen": "{\"item\":\"number:n17\",\"text\":\"сімнадцять\",\"display\":\"сімна́дцять\",\"ipa\":\"/sʲimˈnadt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"семна́дцать\"},\"pl\":{\"form\":\"siedemnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n18",
+			"seen": "{\"item\":\"number:n18\",\"text\":\"вісімнадцять\",\"display\":\"вісімна́дцять\",\"ipa\":\"/ʋisʲimˈnadt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"восемна́дцать\"},\"pl\":{\"form\":\"osiemnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n19",
+			"seen": "{\"item\":\"number:n19\",\"text\":\"дев'ятнадцять\",\"display\":\"дев'ятна́дцять\",\"ipa\":\"/dɛʋjatˈnadt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"девятна́дцать\"},\"pl\":{\"form\":\"dziewiętnaście\"}},\"concepts\":[\"teens-stress\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n20",
+			"seen": "{\"item\":\"number:n20\",\"text\":\"двадцять\",\"display\":\"два́дцять\",\"ipa\":\"/ˈdʋadt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"два́дцать\"},\"pl\":{\"form\":\"dwadzieścia\"}}}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l06-numbers/n30",
+			"seen": "{\"item\":\"number:n30\",\"text\":\"тридцять\",\"display\":\"три́дцять\",\"ipa\":\"/ˈtrɪdt͡sʲatʲ/\",\"cognates\":{\"ru\":{\"form\":\"три́дцать\"},\"pl\":{\"form\":\"trzydzieści\"}}}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l11-words/hrudna-klityna",
+			"seen": "{\"item\":\"word:hrudna-klityna\",\"text\":\"грудна клітина\",\"display\":\"грудна́ кліти́на\",\"ipa\":\"/ɦrudˈna klʲiˈtɪna/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l12-words/kvadratnyy",
+			"seen": "{\"item\":\"word:kvadratnyy\",\"text\":\"квадратний\",\"display\":\"квадра́тний\",\"ipa\":\"/kʋaˈdratnɪj/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l12-words/mitsnoyi-budovy",
+			"seen": "{\"item\":\"word:mitsnoyi-budovy\",\"text\":\"міцної будови\",\"display\":\"міцно́ї будо́ви\",\"ipa\":\"/mit͡sˈnɔji buˈdɔʋɪ/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l12-words/pidstryzhenyy",
+			"seen": "{\"item\":\"word:pidstryzhenyy\",\"text\":\"підстрижений\",\"display\":\"підстри́жений\",\"ipa\":\"/pidˈstrɪʒɛnɪj/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l13-words/nichna-sorochka",
+			"seen": "{\"item\":\"word:nichna-sorochka\",\"text\":\"нічна сорочка\",\"display\":\"нічна́ соро́чка\",\"ipa\":\"/nʲit͡ʃˈna sɔˈrɔt͡ʃka/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l13-words/spidnytsya",
+			"seen": "{\"item\":\"word:spidnytsya\",\"text\":\"спідниця\",\"display\":\"спідни́ця\",\"ipa\":\"/spidˈnɪt͡sʲa/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l14-words/kvartyra",
+			"seen": "{\"item\":\"word:kvartyra\",\"text\":\"квартира\",\"display\":\"кварти́ра\",\"ipa\":\"/kʋarˈtɪra/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l14-words/pysmovyy-stil",
+			"seen": "{\"item\":\"word:pysmovyy-stil\",\"text\":\"письмовий стіл\",\"display\":\"письмо́вий стіл\",\"ipa\":\"/pɪsʲˈmɔʋɪj sʲtʲil/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l14-words/rushnyk",
+			"seen": "{\"item\":\"word:rushnyk\",\"text\":\"рушник\",\"display\":\"рушни́к\",\"ipa\":\"/ruʃˈnɪk/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l15-words/kvasolya",
+			"seen": "{\"item\":\"word:kvasolya\",\"text\":\"квасоля\",\"display\":\"квасо́ля\",\"ipa\":\"/kʋaˈsɔlʲa/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l15-words/morkva",
+			"seen": "{\"item\":\"word:morkva\",\"text\":\"морква\",\"display\":\"мо́рква\",\"ipa\":\"/ˈmɔrkʋa/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l18-words/elektrychka",
+			"seen": "{\"item\":\"word:elektrychka\",\"text\":\"електричка\",\"display\":\"електри́чка\",\"ipa\":\"/ɛlɛkˈtrɪt͡ʃka/\",\"alsoAccepted\":[\"електропоїзд\"]}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l18-words/kvytok",
+			"seen": "{\"item\":\"word:kvytok\",\"text\":\"квиток\",\"display\":\"квито́к\",\"ipa\":\"/kʋɪˈtɔk/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l18-words/vokzal",
+			"seen": "{\"item\":\"word:vokzal\",\"text\":\"вокзал\",\"display\":\"вокза́л\",\"ipa\":\"/ʋɔɡˈzal/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l20-words/tserkva",
+			"seen": "{\"item\":\"word:tserkva\",\"text\":\"церква\",\"display\":\"це́рква\",\"ipa\":\"/ˈt͡sɛrkʋa/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l21-adjective-kinds/vidnosnyy",
+			"seen": "{\"item\":\"word:vidnosnyy\",\"text\":\"відносний\",\"display\":\"відно́сний\",\"ipa\":\"/ʋidˈnɔsnɪj/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l21-comparison/nizhnyy.higher",
+			"seen": "{\"item\":\"form:l21-comparison:nizhnyy:higher\",\"text\":\"ніжніший\",\"display\":\"ніжні́ший\",\"ipa\":\"/nʲiʒˈnʲiʃɪj/\",\"row\":\"nizhnyy\",\"col\":\"higher\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l21-superlative/nizhnyy.highest",
+			"seen": "{\"item\":\"form:l21-comparison:nizhnyy:highest\",\"text\":\"найніжніший\",\"display\":\"найніжні́ший\",\"ipa\":\"/najnʲiʒˈnʲiʃɪj/\",\"row\":\"nizhnyy\",\"col\":\"highest\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l22-words/kvitnykarstvo",
+			"seen": "{\"item\":\"word:kvitnykarstvo\",\"text\":\"квітникарство\",\"display\":\"квітника́рство\",\"ipa\":\"/kʋitnɪˈkarstʋɔ/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l25-calendar/statehood",
+			"seen": "{\"item\":\"holiday-date:uk:statehood\",\"text\":\"п'ятнадцяте липня\",\"display\":\"п'ятна́дцяте ли́пня\",\"ipa\":\"/pjatˈnadt͡sʲatɛ ˈlɪpnʲa/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l26-flowers-words/pidsnizhnyk",
+			"seen": "{\"item\":\"word:pidsnizhnyk\",\"text\":\"підсніжник\",\"display\":\"підсні́жник\",\"ipa\":\"/pidˈsʲnʲiʒnɪk/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l27-imperative/my.pidkreslyty",
+			"seen": "{\"item\":\"verb-imperative:pidkreslyty:my\",\"text\":\"підкреслімо\",\"display\":\"підкре́слімо\",\"ipa\":\"/pidˈkrɛsʲlʲimɔ/\",\"alsoAccepted\":[\"підкреслім\",\"підкресльмо\"],\"row\":\"pidkreslyty\",\"col\":\"my\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l27-imperative/ty.pidkreslyty",
+			"seen": "{\"item\":\"verb-imperative:pidkreslyty:ty\",\"text\":\"підкресли\",\"display\":\"підкре́сли\",\"ipa\":\"/pidˈkrɛslɪ/\",\"alsoAccepted\":[\"підкресль\"],\"row\":\"pidkreslyty\",\"col\":\"ty\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l27-imperative/vy.pidkreslyty",
+			"seen": "{\"item\":\"verb-imperative:pidkreslyty:vy\",\"text\":\"підкресліть\",\"display\":\"підкре́сліть\",\"ipa\":\"/pidˈkrɛsʲlʲitʲ/\",\"alsoAccepted\":[\"підкресльте\"],\"row\":\"pidkreslyty\",\"col\":\"vy\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l27-words/bloknot",
+			"seen": "{\"item\":\"word:bloknot\",\"text\":\"блокнот\",\"display\":\"блокно́т\",\"ipa\":\"/blɔkˈnɔt/\"}",
+			"verdict": "pending"
+		},
+		{
+			"key": "core/l27-words/navchannya",
+			"seen": "{\"item\":\"word:navchannya\",\"text\":\"навчання\",\"display\":\"навча́ння\",\"ipa\":\"/naʋˈt͡ʃanʲːa/\"}",
+			"verdict": "pending"
+		},
+		{
 			"key": "en/l12-sentences/height",
 			"seen": "{\"sentenceGloss\":\"My sister is of medium height.\",\"note\":\"Genitive: a feature such as height or age is given in the genitive — (якого?) середнього зросту, of medium height.\"}",
 			"verdict": "ok"

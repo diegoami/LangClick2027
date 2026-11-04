@@ -19,7 +19,7 @@
 			"item": "word:kvartyra",
 			"text": "квартира",
 			"display": "кварти́ра",
-			"ipa": "/ɡʋarˈtɪra/"
+			"ipa": "/kʋarˈtɪra/"
 		},
 		{
 			"id": "budynok",
@@ -292,7 +292,7 @@
 			"item": "word:pysmovyy-stil",
 			"text": "письмовий стіл",
 			"display": "письмо́вий стіл",
-			"ipa": "/pɪˈsʲmɔʋɪj sʲtʲil/"
+			"ipa": "/pɪsʲˈmɔʋɪj sʲtʲil/"
 		},
 		{
 			"id": "stilets",
@@ -433,7 +433,7 @@
 			"item": "word:rushnyk",
 			"text": "рушник",
 			"display": "рушни́к",
-			"ipa": "/ruˈʃnɪk/"
+			"ipa": "/ruʃˈnɪk/"
 		},
 		{
 			"id": "vishak",

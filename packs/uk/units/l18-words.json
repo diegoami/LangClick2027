@@ -85,7 +85,7 @@
 			"item": "word:elektrychka",
 			"text": "електричка",
 			"display": "електри́чка",
-			"ipa": "/ɛlɛˈktrɪt͡ʃka/",
+			"ipa": "/ɛlɛkˈtrɪt͡ʃka/",
 			"alsoAccepted": ["електропоїзд"]
 		},
 		{
@@ -108,14 +108,14 @@
 			"item": "word:vokzal",
 			"text": "вокзал",
 			"display": "вокза́л",
-			"ipa": "/ʋɔˈɡzal/"
+			"ipa": "/ʋɔɡˈzal/"
 		},
 		{
 			"id": "kvytok",
 			"item": "word:kvytok",
 			"text": "квиток",
 			"display": "квито́к",
-			"ipa": "/ɡʋɪˈtɔk/"
+			"ipa": "/kʋɪˈtɔk/"
 		},
 		{
 			"id": "pasazhyr",

@@ -78,7 +78,7 @@
 			"item": "verb-imperative:pidkreslyty:ty",
 			"text": "підкресли",
 			"display": "підкре́сли",
-			"ipa": "/piˈdkrɛslɪ/",
+			"ipa": "/pidˈkrɛslɪ/",
 			"row": "pidkreslyty",
 			"col": "ty",
 			"alsoAccepted": ["підкресль"]
@@ -88,7 +88,7 @@
 			"item": "verb-imperative:pidkreslyty:my",
 			"text": "підкреслімо",
 			"display": "підкре́слімо",
-			"ipa": "/piˈdkrɛsʲlʲimɔ/",
+			"ipa": "/pidˈkrɛsʲlʲimɔ/",
 			"row": "pidkreslyty",
 			"col": "my",
 			"alsoAccepted": ["підкреслім", "підкресльмо"]
@@ -98,7 +98,7 @@
 			"item": "verb-imperative:pidkreslyty:vy",
 			"text": "підкресліть",
 			"display": "підкре́сліть",
-			"ipa": "/piˈdkrɛsʲlʲitʲ/",
+			"ipa": "/pidˈkrɛsʲlʲitʲ/",
 			"row": "pidkreslyty",
 			"col": "vy",
 			"alsoAccepted": ["підкресльте"]

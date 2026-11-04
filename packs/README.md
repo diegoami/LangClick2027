@@ -125,8 +125,14 @@ The rest of the rules, each with the board that states it:
 - **дж and дз are single affricates**, /d͡ʒ/ and /d͡z/, written with two
   letters (`one-sound-two-letters`).
 - **A doubled consonant is a long one**: нн is nː.
+- **К before a voiced obstruent** (б, г, ґ, д, ж, з) is /ɡ/: вокзал /ʋɔɡˈzal/,
+  Великдень. В is a sonorant and voices nothing: квартира /kʋarˈtɪra/.
+- **дц is /dt͡sʲ/**, as spelled: двадцять /ˈdʋadt͡sʲatʲ/.
 - **ˈ goes before the stressed syllable**, and the stress is the one the
-  `display` marks.
+  `display` marks. Between vowels, an obstruent plus р or л, and с, з or ш
+  before a stop, begin the syllable: сестра /sɛˈstra/, роблю /rɔˈblʲu/; a
+  consonant before an apostrophe's j does too: ім'я /iˈmja/. Any other cluster
+  splits before its last consonant: дочка /dɔt͡ʃˈka/, вікно /ʋikˈnɔ/.
 
 ## Coverage
 
