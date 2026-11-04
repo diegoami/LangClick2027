@@ -449,127 +449,127 @@
 		{
 			"key": "core/days/mandag",
 			"seen": "{\"item\":\"word:måndag\",\"text\":\"måndag\",\"ipa\":\"/ˈmɔ̌ndɑːɡ/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days/tisdag",
 			"seen": "{\"item\":\"word:tisdag\",\"text\":\"tisdag\",\"ipa\":\"/ˈtǐːsdɑːɡ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days/onsdag",
 			"seen": "{\"item\":\"word:onsdag\",\"text\":\"onsdag\",\"ipa\":\"/ˈʊ̌nsdɑːɡ/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days/torsdag",
 			"seen": "{\"item\":\"word:torsdag\",\"text\":\"torsdag\",\"ipa\":\"/ˈtǔːʂdɑːɡ/\",\"concepts\":[\"retroflex\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days/fredag",
 			"seen": "{\"item\":\"word:fredag\",\"text\":\"fredag\",\"ipa\":\"/ˈfrěːdɑːɡ/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days/lordag",
 			"seen": "{\"item\":\"word:lördag\",\"text\":\"lördag\",\"ipa\":\"/ˈlœ̌ːɖɑːɡ/\",\"concepts\":[\"word-accent\",\"retroflex\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/days/sondag",
 			"seen": "{\"item\":\"word:söndag\",\"text\":\"söndag\",\"ipa\":\"/ˈsœ̌ndɑːɡ/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/directions/fram",
 			"seen": "{\"item\":\"sentence:directions:fram\",\"text\":\"fram\",\"sentence\":\"Gå rakt ___.\",\"concepts\":[\"directions\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/directions/vanster",
 			"seen": "{\"item\":\"sentence:directions:vanster\",\"text\":\"vänster\",\"sentence\":\"Sväng till ___ vid banken.\",\"concepts\":[\"directions\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/directions/hoger",
 			"seen": "{\"item\":\"sentence:directions:hoger\",\"text\":\"höger\",\"sentence\":\"Sväng till ___ vid kyrkan.\",\"concepts\":[\"directions\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/directions/ligger",
 			"seen": "{\"item\":\"sentence:directions:ligger\",\"text\":\"ligger\",\"sentence\":\"Var ___ biblioteket?\",\"concepts\":[\"directions\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/directions/buss",
 			"seen": "{\"item\":\"sentence:directions:buss\",\"text\":\"buss\",\"sentence\":\"Vilken ___ går till centrum?\",\"concepts\":[\"directions\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/directions/nasta",
 			"seen": "{\"item\":\"sentence:directions:nasta\",\"text\":\"nästa\",\"sentence\":\"När går ___ buss?\",\"concepts\":[\"directions\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/directions/bredvid",
 			"seen": "{\"item\":\"sentence:directions:bredvid\",\"text\":\"bredvid\",\"sentence\":\"Banken ligger ___ apoteket.\",\"concepts\":[\"directions\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/directions/mellan",
 			"seen": "{\"item\":\"sentence:directions:mellan\",\"text\":\"mellan\",\"sentence\":\"Torget ligger ___ kyrkan och skolan.\",\"concepts\":[\"directions\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/emergency/brandkar",
 			"seen": "{\"item\":\"word:brandkår\",\"text\":\"brandkår\",\"ipa\":\"/ˈbrândˌkoːr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/emergency/ambulans",
 			"seen": "{\"item\":\"word:ambulans\",\"text\":\"ambulans\",\"ipa\":\"/ambɵˈlans/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/emergency/polis",
 			"seen": "{\"item\":\"word:polis\",\"text\":\"polis\",\"ipa\":\"/pʊˈliːs/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/emergency/hjalp",
 			"seen": "{\"item\":\"word:hjälp\",\"text\":\"hjälp\",\"ipa\":\"/jɛlp/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/emergency/brand",
 			"seen": "{\"item\":\"word:brand\",\"text\":\"brand\",\"ipa\":\"/brand/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/emergency/olycka",
 			"seen": "{\"item\":\"word:olycka\",\"text\":\"olycka\",\"ipa\":\"/ˈûːˌlʏkːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/emergency/sjukhus",
 			"seen": "{\"item\":\"word:sjukhus\",\"text\":\"sjukhus\",\"ipa\":\"/ˈɧʉ̂ːkˌhʉːs/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/emergency/skadad",
 			"seen": "{\"item\":\"word:skadad\",\"text\":\"skadad\",\"ipa\":\"/ˈskɑ̂ːdad/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/emergency/tjuv",
 			"seen": "{\"item\":\"word:tjuv\",\"text\":\"tjuv\",\"ipa\":\"/ɕʉːv/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/emergency/adress",
 			"seen": "{\"item\":\"word:adress\",\"text\":\"adress\",\"ipa\":\"/aˈdrɛsː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/en-ett/lagenhet.indef",
@@ -964,62 +964,62 @@
 		{
 			"key": "core/imperative/ringa.inf",
 			"seen": "{\"item\":\"form:imperative:ringa.inf\",\"text\":\"ringa\",\"ipa\":\"/ˈrɪ̂ŋːa/\",\"concepts\":[\"imperative\",\"word-accent\"],\"row\":\"ringa\",\"col\":\"inf\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/ringa.imp",
 			"seen": "{\"item\":\"form:imperative:ringa.imp\",\"text\":\"ring\",\"ipa\":\"/rɪŋː/\",\"concepts\":[\"imperative\"],\"row\":\"ringa\",\"col\":\"imp\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/hjalpa.inf",
 			"seen": "{\"item\":\"form:imperative:hjalpa.inf\",\"text\":\"hjälpa\",\"ipa\":\"/ˈjɛ̂lpa/\",\"concepts\":[\"imperative\",\"word-accent\"],\"row\":\"hjalpa\",\"col\":\"inf\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/hjalpa.imp",
 			"seen": "{\"item\":\"form:imperative:hjalpa.imp\",\"text\":\"hjälp\",\"ipa\":\"/jɛlp/\",\"concepts\":[\"imperative\"],\"row\":\"hjalpa\",\"col\":\"imp\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/komma.inf",
 			"seen": "{\"item\":\"form:imperative:komma.inf\",\"text\":\"komma\",\"ipa\":\"/ˈkɔ̂mːa/\",\"concepts\":[\"imperative\",\"word-accent\"],\"row\":\"komma\",\"col\":\"inf\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/komma.imp",
 			"seen": "{\"item\":\"form:imperative:komma.imp\",\"text\":\"kom\",\"ipa\":\"/kɔmː/\",\"concepts\":[\"imperative\"],\"row\":\"komma\",\"col\":\"imp\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/springa.inf",
 			"seen": "{\"item\":\"form:imperative:springa.inf\",\"text\":\"springa\",\"ipa\":\"/ˈsprɪ̂ŋːa/\",\"concepts\":[\"imperative\",\"word-accent\"],\"row\":\"springa\",\"col\":\"inf\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/springa.imp",
 			"seen": "{\"item\":\"form:imperative:springa.imp\",\"text\":\"spring\",\"ipa\":\"/sprɪŋː/\",\"concepts\":[\"imperative\"],\"row\":\"springa\",\"col\":\"imp\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/vanta.inf",
 			"seen": "{\"item\":\"form:imperative:vanta.inf\",\"text\":\"vänta\",\"ipa\":\"/ˈvɛ̂nta/\",\"concepts\":[\"imperative\",\"word-accent\"],\"row\":\"vanta\",\"col\":\"inf\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/vanta.imp",
 			"seen": "{\"item\":\"form:imperative:vanta.imp\",\"text\":\"vänta\",\"ipa\":\"/ˈvɛ̂nta/\",\"concepts\":[\"imperative\",\"word-accent\"],\"row\":\"vanta\",\"col\":\"imp\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/stanna.inf",
 			"seen": "{\"item\":\"form:imperative:stanna.inf\",\"text\":\"stanna\",\"ipa\":\"/ˈstânːa/\",\"concepts\":[\"imperative\"],\"row\":\"stanna\",\"col\":\"inf\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/imperative/stanna.imp",
 			"seen": "{\"item\":\"form:imperative:stanna.imp\",\"text\":\"stanna\",\"ipa\":\"/ˈstânːa/\",\"concepts\":[\"imperative\"],\"row\":\"stanna\",\"col\":\"imp\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/introductions/heter",
@@ -1074,7 +1074,7 @@
 		{
 			"key": "core/jobs/frisor",
 			"seen": "{\"item\":\"word:frisör\",\"text\":\"frisör\",\"ipa\":\"/frɪˈsœːr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/jobs/snickare",
@@ -1089,7 +1089,7 @@
 		{
 			"key": "core/jobs/ingenjor",
 			"seen": "{\"item\":\"word:ingenjör\",\"text\":\"ingenjör\",\"ipa\":\"/ɪnɧɛˈnjœːr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/jobs/polis",
@@ -1194,7 +1194,7 @@
 		{
 			"key": "core/months/mar",
 			"seen": "{\"item\":\"word:mars\",\"text\":\"mars\",\"ipa\":\"/maʂː/\",\"concepts\":[\"retroflex\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/months/apr",
@@ -1204,17 +1204,17 @@
 		{
 			"key": "core/months/maj",
 			"seen": "{\"item\":\"word:maj\",\"text\":\"maj\",\"ipa\":\"/majː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/months/jun",
 			"seen": "{\"item\":\"word:juni\",\"text\":\"juni\",\"ipa\":\"/ˈjʉ̌ːnɪ/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/months/jul",
 			"seen": "{\"item\":\"word:juli\",\"text\":\"juli\",\"ipa\":\"/ˈjʉ̌ːlɪ/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/months/aug",
@@ -1229,7 +1229,7 @@
 		{
 			"key": "core/months/okt",
 			"seen": "{\"item\":\"word:oktober\",\"text\":\"oktober\",\"ipa\":\"/ɔkˈtǔːbɛr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/months/nov",
@@ -1509,12 +1509,12 @@
 		{
 			"key": "core/present/arbeta.inf",
 			"seen": "{\"item\":\"form:present:arbeta.inf\",\"text\":\"arbeta\",\"ipa\":\"/ˈârˌbeːta/\",\"concepts\":[\"present-tense\"],\"row\":\"arbeta\",\"col\":\"inf\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/present/arbeta.pres",
 			"seen": "{\"item\":\"form:present:arbeta.pres\",\"text\":\"arbetar\",\"ipa\":\"/ˈârˌbeːtar/\",\"concepts\":[\"present-tense\"],\"row\":\"arbeta\",\"col\":\"pres\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/present/jobba.inf",
@@ -1603,43 +1603,43 @@
 		},
 		{
 			"key": "core/signs/ingang",
-			"seen": "{\"item\":\"word:ingång\",\"text\":\"ingång\",\"ipa\":\"/ˈɪ̂nˌɡɔŋ/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"seen": "{\"item\":\"word:ingång\",\"text\":\"ingång\",\"ipa\":\"/ˈɪ̂nˌɡɔŋː/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/signs/utgang",
-			"seen": "{\"item\":\"word:utgång\",\"text\":\"utgång\",\"ipa\":\"/ˈʉ̂ːtˌɡɔŋ/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"seen": "{\"item\":\"word:utgång\",\"text\":\"utgång\",\"ipa\":\"/ˈʉ̂ːtˌɡɔŋː/\",\"concepts\":[\"word-accent\"]}",
+			"verdict": "ok"
 		},
 		{
 			"key": "core/signs/oppet",
 			"seen": "{\"item\":\"word:öppet\",\"text\":\"öppet\",\"ipa\":\"/ˈœ̂pːɛt/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/signs/stangt",
 			"seen": "{\"item\":\"word:stängt\",\"text\":\"stängt\",\"ipa\":\"/stɛŋt/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/signs/toalett",
 			"seen": "{\"item\":\"word:toalett\",\"text\":\"toalett\",\"ipa\":\"/tʊaˈlɛtː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/signs/dra",
 			"seen": "{\"item\":\"word:dra\",\"text\":\"dra\",\"ipa\":\"/drɑː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/signs/tryck",
 			"seen": "{\"item\":\"word:tryck\",\"text\":\"tryck\",\"ipa\":\"/trʏkː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/signs/kassa",
 			"seen": "{\"item\":\"word:kassa\",\"text\":\"kassa\",\"ipa\":\"/ˈkâsːa/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/sj-tj/sjo",
@@ -1684,37 +1684,37 @@
 		{
 			"key": "core/sos-sentences/ambulans",
 			"seen": "{\"item\":\"sentence:sos-sentences:ambulans\",\"text\":\"ambulans\",\"sentence\":\"Ring efter en ___!\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/sos-sentences/brinner",
 			"seen": "{\"item\":\"sentence:sos-sentences:brinner\",\"text\":\"brinner\",\"sentence\":\"Det ___ i köket!\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/sos-sentences/stulen",
 			"seen": "{\"item\":\"sentence:sos-sentences:stulen\",\"text\":\"stulen\",\"sentence\":\"Min plånbok är ___.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/sos-sentences/olycka",
 			"seen": "{\"item\":\"sentence:sos-sentences:olycka\",\"text\":\"olycka\",\"sentence\":\"Det har hänt en ___ på vägen.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/sos-sentences/skadad",
 			"seen": "{\"item\":\"sentence:sos-sentences:skadad\",\"text\":\"skadad\",\"sentence\":\"Är någon ___?\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/sos-sentences/hjalp",
 			"seen": "{\"item\":\"sentence:sos-sentences:hjalp\",\"text\":\"hjälp\",\"sentence\":\"Jag behöver ___!\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/sos-sentences/adress",
 			"seen": "{\"item\":\"sentence:sos-sentences:adress\",\"text\":\"adress\",\"sentence\":\"Vad är din ___?\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/tens/n30",
@@ -1804,52 +1804,52 @@
 		{
 			"key": "core/town/bibliotek",
 			"seen": "{\"item\":\"word:bibliotek\",\"text\":\"bibliotek\",\"ipa\":\"/bɪblɪʊˈteːk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/town/affar",
 			"seen": "{\"item\":\"word:affär\",\"text\":\"affär\",\"ipa\":\"/aˈfæːr/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/town/bank",
 			"seen": "{\"item\":\"word:bank\",\"text\":\"bank\",\"ipa\":\"/baŋk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/town/skola",
 			"seen": "{\"item\":\"word:skola\",\"text\":\"skola\",\"ipa\":\"/ˈskûːla/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/town/kyrka",
 			"seen": "{\"item\":\"word:kyrka\",\"text\":\"kyrka\",\"ipa\":\"/ˈɕʏ̂rka/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/town/torg",
 			"seen": "{\"item\":\"word:torg\",\"text\":\"torg\",\"ipa\":\"/tɔrj/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/town/restaurang",
 			"seen": "{\"item\":\"word:restaurang\",\"text\":\"restaurang\",\"ipa\":\"/rɛstɵˈraŋː/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/town/park",
 			"seen": "{\"item\":\"word:park\",\"text\":\"park\",\"ipa\":\"/park/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/town/apotek",
 			"seen": "{\"item\":\"word:apotek\",\"text\":\"apotek\",\"ipa\":\"/apʊˈteːk/\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/town/gata",
 			"seen": "{\"item\":\"word:gata\",\"text\":\"gata\",\"ipa\":\"/ˈɡɑ̂ːta/\",\"concepts\":[\"word-accent\"]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/vowel-chart/i",
@@ -1949,7 +1949,7 @@
 		{
 			"key": "core/work-sentences/med",
 			"seen": "{\"item\":\"sentence:work-sentences:med\",\"text\":\"med\",\"sentence\":\"Jag jobbar ___ barn.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "core/work-sentences/som",
@@ -2029,17 +2029,17 @@
 		{
 			"key": "de-en/directions/ligger",
 			"seen": "{\"contrast\":\"As German liegen: Wo liegt die Bank?\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/emergency/hjalp",
 			"seen": "{\"contrast\":\"Related to German Hilfe; the h is silent.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/emergency/brand",
 			"seen": "{\"contrast\":\"The same word as German Brand.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/en-ett/hus.def",
@@ -2189,12 +2189,12 @@
 		{
 			"key": "de-en/town/torg",
 			"seen": "{\"contrast\":\"No German cognate in use: Marktplatz is the nearest word.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/town/gata",
 			"seen": "{\"contrast\":\"Related to German Gasse, a narrow street.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "de-en/vowel-chart/y",
@@ -2324,12 +2324,12 @@
 		{
 			"key": "en/lesson/l11",
 			"seen": "\"Lesson 11: Emergencies\"",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/lesson/l12",
 			"seen": "\"Lesson 12: My town\"",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/own-letters",
@@ -2354,7 +2354,7 @@
 		{
 			"key": "en/concept/word-accent",
 			"seen": "{\"title\":\"Two word accents\",\"body\":\"A word stressed on a syllable that another follows has one of two pitch patterns. Accent 1 is marked here with ̌ on the stressed vowel and accent 2 with ̂: anden /ˈǎndɛn/ \\\"the duck\\\", anden /ˈândɛn/ \\\"the spirit\\\". Most words of two syllables, and almost every compound, take accent 2; the day names, such as måndag, take accent 1. A word of one syllable has no contrast and no mark.\",\"sources\":[{\"title\":\"Engstrand (1990), Swedish, Journal of the IPA\",\"url\":\"https://doi.org/10.1017/S0025100300004060\"},{\"title\":\"Help:IPA/Swedish (English Wikipedia)\",\"url\":\"https://en.wikipedia.org/wiki/Help:IPA/Swedish\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/everyday-numbers",
@@ -2409,7 +2409,7 @@
 		{
 			"key": "en/concept/telling-time",
 			"seen": "{\"title\":\"Half past is half to\",\"body\":\"Swedish counts the half hour towards the next hour: halv tre is half past two. Quarters are kvart över (past) and kvart i (to). For the parts of the day, på takes the definite form: på morgonen, på kvällen, på natten. In everyday speech the day names lose their g: måndag is said /ˈmɔ̌nda/.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/present-tense",
@@ -2419,12 +2419,12 @@
 		{
 			"key": "en/concept/imperative",
 			"seen": "{\"title\":\"Telling someone to do something\",\"body\":\"The order form is the verb without its -a: ringa, ring!; komma, kom!; springa, spring! A verb whose stem itself ends in -a keeps it: vänta!, stanna! In Sweden the emergency number is 112, and the h of hj is silent: hjälp /jɛlp/.\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/concept/directions",
 			"seen": "{\"title\":\"Where things are\",\"body\":\"till vänster and till höger are to the left and to the right, and rakt fram is straight on. A building or a town ligger, lies, where it is: Var ligger banken? Prepositions of place: bredvid (next to), mellan (between), framför (in front of), bakom (behind).\",\"sources\":[{\"title\":\"Lexin (Swedish–English), Institutet för språk och folkminnen\",\"url\":\"https://lexin.nada.kth.se/lexin/\"},{\"title\":\"Wiktionary (Swedish entries)\",\"url\":\"https://en.wiktionary.org/wiki/Wiktionary:Main_Page\"}]}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/alphabet",
@@ -2649,102 +2649,102 @@
 		{
 			"key": "en/directions",
 			"seen": "{\"title\":\"Finding the way\",\"summary\":\"Directions and buses. Choose or type the word that fits the gap.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/directions/fram",
 			"seen": "{\"sentenceGloss\":\"Go straight ahead.\",\"note\":\"rakt fram, straight on.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/directions/vanster",
 			"seen": "{\"sentenceGloss\":\"Turn left at the bank.\",\"note\":\"till vänster, to the left.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/directions/hoger",
 			"seen": "{\"sentenceGloss\":\"Turn right at the church.\",\"note\":\"till höger, to the right.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/directions/ligger",
 			"seen": "{\"sentenceGloss\":\"Where is the library?\",\"note\":\"A building ligger, lies, where it is.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/directions/buss",
 			"seen": "{\"sentenceGloss\":\"Which bus goes to the centre?\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/directions/nasta",
 			"seen": "{\"sentenceGloss\":\"When does the next bus leave?\",\"note\":\"nästa takes no definite ending: nästa buss.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/directions/bredvid",
 			"seen": "{\"sentenceGloss\":\"The bank is next to the pharmacy.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/directions/mellan",
 			"seen": "{\"sentenceGloss\":\"The square is between the church and the school.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency",
 			"seen": "{\"title\":\"Emergencies\",\"summary\":\"Each tile gives the meaning; find the Swedish.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency/brandkar",
 			"seen": "{\"clue\":\"fire brigade\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency/ambulans",
 			"seen": "{\"clue\":\"ambulance\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency/polis",
 			"seen": "{\"clue\":\"police officer, the police\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency/hjalp",
 			"seen": "{\"clue\":\"help\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency/brand",
 			"seen": "{\"clue\":\"fire (that burns a building)\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency/olycka",
 			"seen": "{\"clue\":\"accident\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency/sjukhus",
 			"seen": "{\"clue\":\"hospital\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency/skadad",
 			"seen": "{\"clue\":\"injured\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency/tjuv",
 			"seen": "{\"clue\":\"thief\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/emergency/adress",
 			"seen": "{\"clue\":\"address\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/en-ett",
@@ -3119,7 +3119,7 @@
 		{
 			"key": "en/imperative",
 			"seen": "{\"title\":\"Orders\",\"summary\":\"The form that tells someone to do something. Find the form for each cell.\",\"headers\":{\"ringa\":\"call\",\"hjalpa\":\"help\",\"komma\":\"come\",\"springa\":\"run\",\"vanta\":\"wait\",\"stanna\":\"stop, stay\",\"inf\":\"to …\",\"imp\":\"do it! (an order)\"}}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/introductions",
@@ -3504,47 +3504,47 @@
 		{
 			"key": "en/signs",
 			"seen": "{\"title\":\"Signs\",\"summary\":\"What the sign says. Each tile gives the meaning; find the Swedish.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/signs/ingang",
 			"seen": "{\"clue\":\"way in\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/signs/utgang",
 			"seen": "{\"clue\":\"way out\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/signs/oppet",
 			"seen": "{\"clue\":\"open\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/signs/stangt",
 			"seen": "{\"clue\":\"closed\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/signs/toalett",
 			"seen": "{\"clue\":\"toilet\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/signs/dra",
 			"seen": "{\"clue\":\"pull\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/signs/tryck",
 			"seen": "{\"clue\":\"push\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/signs/kassa",
 			"seen": "{\"clue\":\"till, checkout\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/sj-tj",
@@ -3594,42 +3594,42 @@
 		{
 			"key": "en/sos-sentences",
 			"seen": "{\"title\":\"Calling for help\",\"summary\":\"What to say in an emergency. Choose or type the word that fits the gap.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/sos-sentences/ambulans",
 			"seen": "{\"sentenceGloss\":\"Call an ambulance!\",\"note\":\"ringa efter, to call for.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/sos-sentences/brinner",
 			"seen": "{\"sentenceGloss\":\"There is a fire in the kitchen!\",\"note\":\"brinna, to burn: det brinner, something is on fire.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/sos-sentences/stulen",
 			"seen": "{\"sentenceGloss\":\"My wallet has been stolen.\",\"note\":\"stulen, stolen, agrees with en plånbok.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/sos-sentences/olycka",
 			"seen": "{\"sentenceGloss\":\"There has been an accident on the road.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/sos-sentences/skadad",
 			"seen": "{\"sentenceGloss\":\"Is anyone hurt?\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/sos-sentences/hjalp",
 			"seen": "{\"sentenceGloss\":\"I need help!\",\"note\":\"The h of hj is silent.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/sos-sentences/adress",
 			"seen": "{\"sentenceGloss\":\"What is your address?\",\"note\":\"en adress: din.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/tens",
@@ -3699,57 +3699,57 @@
 		{
 			"key": "en/town",
 			"seen": "{\"title\":\"Places in town\",\"summary\":\"Each tile gives the place; find the Swedish.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/town/bibliotek",
 			"seen": "{\"clue\":\"library\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/town/affar",
 			"seen": "{\"clue\":\"shop\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/town/bank",
 			"seen": "{\"clue\":\"bank\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/town/skola",
 			"seen": "{\"clue\":\"school\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/town/kyrka",
 			"seen": "{\"clue\":\"church\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/town/torg",
 			"seen": "{\"clue\":\"square, market place\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/town/restaurang",
 			"seen": "{\"clue\":\"restaurant\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/town/park",
 			"seen": "{\"clue\":\"park\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/town/apotek",
 			"seen": "{\"clue\":\"pharmacy\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/town/gata",
 			"seen": "{\"clue\":\"street\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/vowel-chart",
@@ -3839,7 +3839,7 @@
 		{
 			"key": "en/work-sentences/med",
 			"seen": "{\"sentenceGloss\":\"I work with children.\",\"note\":\"jobba med, to work with.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en/work-sentences/som",
@@ -3924,12 +3924,12 @@
 		{
 			"key": "en-en/emergency/hjalp",
 			"seen": "{\"contrast\":\"Related to English help; the h is silent.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/emergency/tjuv",
 			"seen": "{\"contrast\":\"Related to English thief.\"}",
-			"verdict": "pending"
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/en-ett/hus.def",
@@ -4033,8 +4033,8 @@
 		},
 		{
 			"key": "en-en/signs/dra",
-			"seen": "{\"contrast\":\"dra means pull, not draw in the sense of a picture; English draw once meant pull too.\"}",
-			"verdict": "pending"
+			"seen": "{\"contrast\":\"dra means pull, like its cognate draw in draw the curtains; Swedish does not use dra for drawing a picture.\"}",
+			"verdict": "ok"
 		},
 		{
 			"key": "en-en/sj-tj/sjo",

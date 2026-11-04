@@ -24,14 +24,14 @@
 			"id": "ingang",
 			"item": "word:ingång",
 			"text": "ingång",
-			"ipa": "/ˈɪ̂nˌɡɔŋ/",
+			"ipa": "/ˈɪ̂nˌɡɔŋː/",
 			"concepts": ["word-accent"]
 		},
 		{
 			"id": "utgang",
 			"item": "word:utgång",
 			"text": "utgång",
-			"ipa": "/ˈʉ̂ːtˌɡɔŋ/",
+			"ipa": "/ˈʉ̂ːtˌɡɔŋː/",
 			"concepts": ["word-accent"]
 		},
 		{
