@@ -11,7 +11,7 @@
 			"item": "word:simya",
 			"text": "сім'я",
 			"display": "сім'я́",
-			"ipa": "/sʲimˈja/",
+			"ipa": "/sʲiˈmja/",
 			"alsoAccepted": ["родина"]
 		},
 		{
@@ -26,7 +26,7 @@
 			"item": "word:ridnya",
 			"text": "рідня",
 			"display": "рідня́",
-			"ipa": "/rʲidˈnʲa/",
+			"ipa": "/rʲidʲˈnʲa/",
 			"alsoAccepted": ["родина", "родичі", "рідні"]
 		},
 		{
@@ -79,7 +79,7 @@
 			"item": "word:pleminnyk",
 			"text": "племінник",
 			"display": "племі́нник",
-			"ipa": "/plɛˈmʲinːɪk/",
+			"ipa": "/plɛˈminːɪk/",
 			"alsoAccepted": ["небіж"]
 		},
 		{
@@ -87,7 +87,7 @@
 			"item": "word:pleminnytsya",
 			"text": "племінниця",
 			"display": "племі́нниця",
-			"ipa": "/plɛˈmʲinːɪt͡sʲa/",
+			"ipa": "/plɛˈminːɪt͡sʲa/",
 			"alsoAccepted": ["небога"]
 		},
 		{

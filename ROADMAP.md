@@ -23,20 +23,22 @@ by the coverage ledger.
 The full source notes and tasks were inspected with explicit permission. Listening, literary
 reading, recipes and open-ended writing remain in the linked source. Exercises are original;
 private source text is absent from the pack. Two independent content checks record the exact
-new content. The follow-up in [#41](https://github.com/diegoami/LangClick2027/pull/41), awaiting
-owner testing, brings the new lessons up to the older content's convention — a phonemic transcription on every word, verb form and table cell, a
-grammar note on every sentence and table cell in all four explanation languages, and the
+new content. The follow-up [#41](https://github.com/diegoami/LangClick2027/pull/41), merged,
+brought the new lessons up to the older content's convention — a phonemic transcription on
+every word, verb form and table cell, a grammar note on every sentence and table cell in all four explanation languages, and the
 Russian and Polish comparisons the older boards carry. The transcription rules are written
 down in `packs/README.md`. Ukrainian is still not complete. Three things remain:
+
 - the completion audit over all 27 lessons (the coverage ledger has no source scope for
   lessons 1–8);
-- the two transcription conventions left open in
-  [#42](https://github.com/diegoami/LangClick2027/issues/42);
+- the transcription conventions settled in
+  [#42](https://github.com/diegoami/LangClick2027/issues/42), awaiting owner testing in
+  [#44](https://github.com/diegoami/LangClick2027/pull/44);
 - the release.
 
-Swedish is the next content task after Ukrainian, before optional extras. Its design is
-proposed in [#43](https://github.com/diegoami/LangClick2027/issues/43) and awaits the owner's
-agreement.
+Swedish is the next content task after Ukrainian, before optional extras. Its design is agreed
+in [#43](https://github.com/diegoami/LangClick2027/issues/43): it follows Hej svenska level 1
+and merges after the v0.5.0 release.
 
 On 2026-11-02 the owner directed: finish Ukrainian, then Swedish, before voices and other
 extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), audio, guided

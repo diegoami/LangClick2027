@@ -25,7 +25,7 @@
 			"item": "word:bil",
 			"text": "біль",
 			"display": "біль",
-			"ipa": "/bʲilʲ/"
+			"ipa": "/bilʲ/"
 		},
 		{
 			"id": "temperatura",
@@ -113,7 +113,7 @@
 			"item": "word:sonlyvist",
 			"text": "сонливість",
 			"display": "сонли́вість",
-			"ipa": "/sɔnˈlɪʋʲistʲ/"
+			"ipa": "/sɔnˈlɪʋisʲtʲ/"
 		},
 		{
 			"id": "badyoryy",
@@ -134,7 +134,7 @@
 			"item": "word:slabkist",
 			"text": "слабкість",
 			"display": "сла́бкість",
-			"ipa": "/ˈslabkʲistʲ/"
+			"ipa": "/ˈslabkisʲtʲ/"
 		},
 		{
 			"id": "tysk",
@@ -163,7 +163,7 @@
 			"item": "word:anhina",
 			"text": "ангіна",
 			"display": "ангі́на",
-			"ipa": "/anˈɦʲina/",
+			"ipa": "/anˈɦina/",
 			"alsoAccepted": ["тонзиліт"]
 		},
 		{
@@ -192,7 +192,7 @@
 			"item": "word:symptom",
 			"text": "симптом",
 			"display": "симпто́м",
-			"ipa": "/sɪmˈptɔm/",
+			"ipa": "/sɪmpˈtɔm/",
 			"alsoAccepted": ["ознака"]
 		},
 		{

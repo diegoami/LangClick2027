@@ -12,7 +12,7 @@
 			"id": "my.m",
 			"item": "possessive:my:nom.m",
 			"text": "мій",
-			"ipa": "/mʲij/",
+			"ipa": "/mij/",
 			"row": "my",
 			"col": "m"
 		},
@@ -47,7 +47,7 @@
 			"id": "your.m",
 			"item": "possessive:your:nom.m",
 			"text": "твій",
-			"ipa": "/tʋʲij/",
+			"ipa": "/tʋij/",
 			"row": "your",
 			"col": "m"
 		},
@@ -180,7 +180,7 @@
 			"id": "our.pl",
 			"item": "possessive:our:nom.pl",
 			"text": "наші",
-			"ipa": "/ˈnaʃʲi/",
+			"ipa": "/ˈnaʃi/",
 			"row": "our",
 			"col": "pl",
 			"display": "на́ші"
@@ -215,7 +215,7 @@
 			"id": "your-pl.pl",
 			"item": "possessive:your-pl:nom.pl",
 			"text": "ваші",
-			"ipa": "/ˈʋaʃʲi/",
+			"ipa": "/ˈʋaʃi/",
 			"row": "your-pl",
 			"col": "pl",
 			"display": "ва́ші"

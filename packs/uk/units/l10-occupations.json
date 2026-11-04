@@ -19,7 +19,7 @@
 			"item": "word:bibliotekar",
 			"text": "бібліотекар",
 			"display": "бібліоте́кар",
-			"ipa": "/bʲiblʲiɔˈtɛkar/"
+			"ipa": "/biblʲiɔˈtɛkar/"
 		},
 		{
 			"id": "bdzholyar",
@@ -42,7 +42,7 @@
 			"item": "word:smittyar",
 			"text": "сміттяр",
 			"display": "сміття́р",
-			"ipa": "/sʲmʲiˈtʲːar/"
+			"ipa": "/smiˈtʲːar/"
 		},
 		{
 			"id": "budivelnyk",
@@ -57,7 +57,7 @@
 			"item": "word:robitnyk",
 			"text": "робітник",
 			"display": "робітни́к",
-			"ipa": "/rɔbʲitˈnɪk/"
+			"ipa": "/rɔbitˈnɪk/"
 		},
 		{
 			"id": "sadivnyk",
@@ -80,7 +80,7 @@
 			"item": "word:prohramist",
 			"text": "програміст",
 			"display": "програмі́ст",
-			"ipa": "/prɔɦraˈmʲist/"
+			"ipa": "/prɔɦraˈmist/"
 		},
 		{
 			"id": "zhyvopysets",
@@ -142,7 +142,7 @@
 			"item": "word:robitnytsya",
 			"text": "робітниця",
 			"display": "робітни́ця",
-			"ipa": "/rɔbʲitˈnɪt͡sʲa/"
+			"ipa": "/rɔbitˈnɪt͡sʲa/"
 		},
 		{
 			"id": "prybyralnyk",
@@ -179,7 +179,7 @@
 			"item": "word:fakhivets",
 			"text": "фахівець",
 			"display": "фахіве́ць",
-			"ipa": "/faxʲiˈʋɛt͡sʲ/",
+			"ipa": "/faxiˈʋɛt͡sʲ/",
 			"alsoAccepted": ["спеціаліст", "професіонал", "знавець", "спец", "експерт"]
 		}
 	],
