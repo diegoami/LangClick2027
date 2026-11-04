@@ -158,12 +158,14 @@ symbols of Wikipedia's Help:IPA/Swedish:
 - **Every stressed syllable is long**, and both kinds of length carry ː: a long vowel
   (tak /tɑːk/), or a short vowel followed by a long consonant (tack /takː/). Length
   changes the vowel's quality too: long a /ɑː/ and short a /a/, long u /ʉː/ and short u
-  /ɵ/ (ful, full). The `vowel-chart` board shows the nine long vowels.
+  /ɵ/ (ful, full). Before a cluster a short vowel's syllable needs no mark: x
+  /ɛks/, anden /ˈǎndɛn/ (Help:IPA writes [nː] there). The `vowel-chart` board
+  shows the nine long vowels.
 - **o is usually /uː/ and å is /oː/.** ä before r is /æː/, and ö before r is /œː/.
 - **The sj-sound is /ɧ/ and the tj-sound /ɕ/** (`sj-tj`).
 - **Word accent is marked on the stressed vowel** when another syllable follows it:
-  accent 1 with ̌ and accent 2 with ̂, as in anden /ˈǎnːdɛn/ "the duck" and
-  /ˈânːdɛn/ "the spirit". A stress on a word's last syllable takes no tone mark
+  accent 1 with ̌ and accent 2 with ̂, as in anden /ˈǎndɛn/ "the duck" and
+  /ˈândɛn/ "the spirit". A stress on a word's last syllable takes no tone mark
   (station /staˈɧuːn/), and a compound marks its secondary stress with ˌ (dubbel-ve
   /ˈdɵ̂bːɛlˌveː/).
 
