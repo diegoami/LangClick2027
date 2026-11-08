@@ -4,6 +4,10 @@ Each release's entry is its release notes (`docs/RELEASES.md`).
 
 ## Unreleased
 
+- A shorter landing page selects the language to learn, explanation language and
+  supported comparison, then opens only that language's lesson list. The last
+  target is remembered, with a link to change language or settings.
+
 Last released milestone: [v0.7.0](https://github.com/diegoami/LangClick2027/releases/tag/v0.7.0),
 2026-11-04, commit `b93896c60ff747c645f7a4f56584abce58bd8d80`.
 New material below is not a tagged or independently checked release.

@@ -62,5 +62,8 @@
 	"type.typedNow": "Typed now: {known} of {total}.",
 	"type.keyboard": "Keyboard",
 	"type.backspace": "Delete",
-	"note.alsoAccepted": "Also right"
+	"note.alsoAccepted": "Also right",
+	"settings.target": "Language to learn",
+	"settings.continue": "Continue",
+	"settings.change": "Change language or settings"
 }

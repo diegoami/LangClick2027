@@ -27,7 +27,7 @@
 </svelte:head>
 
 <main>
-	<a class="back" href={resolve('/')}>← {t('lesson.back')}</a>
+	<a class="back" href={resolve('/learn/[pack]', { pack: pack.id })}>← {t('lesson.back')}</a>
 	<h1>{lesson.title}</h1>
 
 	<section>

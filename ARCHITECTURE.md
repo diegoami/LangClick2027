@@ -15,9 +15,15 @@ stays on the device.
 | `packages/quiz-engine` | What a drop means: a round's cells, their status, the score. Pure                                                |
 | `packages/srs`         | The scheduler, copied unchanged from Geoclick: an earned level and a due date per card. Pure                     |
 | `app/src/lib`          | The screens and their state                                                                                      |
-| `app/src/routes`       | Home, `/lesson/[pack]/[lesson]`, `/review/[pack]`, and `/unit/[pack]/[unit]` with `overview` and `quiz`          |
+| `app/src/routes`       | Language selection, `/learn/[pack]`, `/lesson/[pack]/[lesson]`, `/review/[pack]`, and unit practice          |
 
 ## How a learner moves through it
+
+The landing page (`/`) offers target, explanation and comparison languages. Continue
+opens `/learn/[pack]`, which loads only the selected course and its progress, and
+shows its lessons by section plus the review action. The chooser reads only pack
+manifests. A change-language/settings link returns to it; lesson and review back
+links return to the current course. Existing lesson and exercise URLs still work.
 
 Study, then exercises, then repetition. A lesson page (`routes/lesson`) links to what
 to study and lets you mark it studied, which locks nothing. The boards come next.
@@ -26,8 +32,12 @@ using `QuizView`'s `only`: the due cells are asked and the rest stay visible.
 
 ## Languages
 
-Two independent choices, in `language.svelte.ts`: what to compare with, and what to
-explain in. Interface text comes from `locales/`. Pack text comes in layers:
+Three choices, in `language.svelte.ts`: the target pack, what to compare with, and
+what to explain in. `LanguagePicker` offers comparisons from the selected pack,
+clearing unsupported choices when the target changes. The existing settings key
+also remembers the last target; older settings without it remain valid. Returning
+to `/` preselects the last available target without automatically navigating.
+Interface text comes from `locales/`. Pack text comes in layers:
 
 - A **unit** holds what is true in every language: answers, IPA, cognates.
 - A **base layer** (`layers/<language>/`) holds titles, labels, clues and notes.
@@ -92,6 +102,10 @@ because new material is what moves a learner forward. A `dealAll` unit offers th
 - `courseCoverage.test.ts` checks section-based coverage ledgers: every source theme
   is mapped, every registered lesson in the section is listed once, and its boards
   match the manifest and exist on disk.
+- `LanguagePicker.svelte.test.ts` checks the short landing page, target selection,
+  saved preferences, and comparison options when changing targets.
+- `routes/learn/[pack]/page.test.ts` checks that the chooser loads only manifests,
+  the course loads only its own lessons/progress, and unknown packs return 404.
 - `locales.test.ts` keeps the interface languages in step: same keys, same placeholders.
 - `engineNeutral.test.ts` fails if engine code names a language or contains another
   script's text.

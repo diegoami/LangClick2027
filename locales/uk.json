@@ -62,5 +62,8 @@
 	"type.typedNow": "Введено зараз: {known} з {total}.",
 	"type.keyboard": "Клавіатура",
 	"type.backspace": "Видалити",
-	"note.alsoAccepted": "Теж правильно"
+	"note.alsoAccepted": "Теж правильно",
+	"settings.target": "Мова для вивчення",
+	"settings.continue": "Продовжити",
+	"settings.change": "Змінити мову або налаштування"
 }
