@@ -37,6 +37,9 @@ manifest, not code, and a test keeps engine code free of any language. That is w
 lets a later language's pack test whether packs are really pluggable.
 Wide verb tables are split or transposed in pack data to keep whole answers legible
 on a phone; a document-width check alone cannot detect text overlapping adjacent cells.
+The shared board also budgets for the longest answer in every equal-width column
+when choosing compact text sizes, since a row total can hide one overlong answer.
+Whole words remain visible without clipping or forced word breaks.
 
 ## `display` is shown, `text` is compared (2026-10-31, #1)
 

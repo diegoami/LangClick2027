@@ -97,9 +97,9 @@ because new material is what moves a learner forward. A `dealAll` unit offers th
   script's text.
 - `QuizView.svelte.test.ts` plays rounds in real Chromium against real pack data.
 
-- `OverviewView.svelte.test.ts` checks the long verb tables at phone width in every
-  explanation language. It measures answer text against its own cell, since a page
-  can fit the viewport while answers overlap neighbouring cells.
+- `OverviewView.svelte.test.ts` checks long verb and adjective tables at 320px,
+  375px and 1280px in every explanation language. It measures answer text against
+  its own cell, since a page can fit the viewport while answers overlap neighbouring cells.
 
 ## GitHub Pages
 

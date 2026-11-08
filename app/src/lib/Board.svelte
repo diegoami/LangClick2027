@@ -42,19 +42,12 @@
 
 {#if unit.layout.type === 'table'}
 	{@const { rows, columns } = unit.layout}
-	{@const longestRow = Math.max(
-		...rows.map((row) =>
-			unit.cells
-				.filter((cell) => cell.row === row.id)
-				.reduce((length, cell) => length + cell.text.length, 0)
-		)
-	)}
 	{@const longestAnswer = Math.max(...unit.cells.map((cell) => cell.text.length))}
-	<!-- Many columns or long answers have to fit a phone. Short row labels, such as pronouns, leave them more room. -->
+	<!-- Budget for the longest answer in every equal-width column, even when other answers are short. Short row labels leave more room. -->
 	<table
 		class="board-table"
-		class:dense={columns.length >= 5 || longestRow >= 24}
-		class:tight={columns.length * longestAnswer >= 36}
+		class:dense={columns.length >= 5 || columns.length * longestAnswer >= 20}
+		class:tight={columns.length * longestAnswer >= 30}
 		class:short-rows={rows.every((row) => row.label.length <= 6)}
 	>
 		<thead>

@@ -1,4 +1,4 @@
-import { afterEach, beforeEach, expect, it } from 'vitest';
+import { afterEach, expect, it } from 'vitest';
 import { page } from 'vitest/browser';
 import { render } from 'vitest-browser-svelte';
 import { tick } from 'svelte';
@@ -19,22 +19,21 @@ const layers = import.meta.glob<UnitText>('../../../packs/uk/layers/*/units/l*.j
 });
 const tables = [present, teach, imperative, comparative, superlative] as unknown as Unit[];
 const cases = tables.flatMap((unit) =>
-	['en', 'ru', 'pl', 'uk'].map((base) => ({ unit, base, name: `${unit.id}/${base}` }))
+	['en', 'ru', 'pl', 'uk'].flatMap((base) =>
+		[320, 375, 1280].map((width) => ({ unit, base, width, name: `${unit.id}/${base}/${width}px` }))
+	)
 );
-
-beforeEach(async () => {
-	await page.viewport(375, 667);
-	// The real page's main element leaves one rem on each side.
-	document.body.style.padding = '1rem';
-});
 
 afterEach(() => {
 	document.body.style.removeProperty('padding');
 });
 
 it.each(cases)(
-	'$name keeps each visible answer inside its own cell on a phone',
-	async ({ unit, base }) => {
+	'$name keeps each visible answer inside its own cell',
+	async ({ unit, base, width }) => {
+		await page.viewport(width, 667);
+		// The real page's main element leaves one rem on each side.
+		document.body.style.padding = '1rem';
 		resetLanguages({ compareWith: null, explainIn: base });
 		const text = layers[`../../../packs/uk/layers/${base}/units/${unit.id}.json`];
 		render(OverviewView, {

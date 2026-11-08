@@ -41,6 +41,9 @@ extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), au
 lessons, speech ([#21](https://github.com/diegoami/LangClick2027/issues/21)) and native builds
 are deferred; their old version slots below are historical plans, not prerequisites to Swedish.
 
+Shared table sizing now keeps the long Ukrainian verb answers inside their cells
+at phone widths, with regression checks at 320px, 375px and desktop width.
+
 ## Milestones
 
 Japanese now has an initial six-lesson pack under [#66](https://github.com/diegoami/LangClick2027/issues/66), linking the Japan Foundation's Irodori Starter course. Eleven boards contain 158 cells: writing foundations, greetings, clarification, introductions, residence, numbers and age. Explanations and comparison are initially English; typing requires Japanese script, including listed kana/kanji alternatives. This supports the first four source lessons, not the whole eighteen-lesson course. Voiced/contracted kana tables, later themes and pitch-accent training remain to be added.

@@ -12,14 +12,17 @@ New material below is not a tagged or independently checked release.
   222 cells. Includes additional practice of clause order, comparisons, definite
   plurals, journey conjunctions, borrowing/lending and sentence adverbs.
 - The owner authorized merging authored content while independent checks remain
-  pending for their reviewers. Pending checks and the existing Ukrainian
-  phone-layout test failures remain visible; no passing verdicts are fabricated.
+  pending for their reviewers. Pending checks remain visible; no passing
+  verdicts are fabricated.
 - Japanese starter: six lessons, eleven boards and 158 cells covering the 46 basic
   hiragana and katakana, mora length, loanwords, greetings, clarification,
   introductions, residence, numbers and age. English explanations link Irodori
   Starter for study and audio; this is an initial batch, not its full course.
 - Pending independent content checks for both additions are tracked in
   [#67](https://github.com/diegoami/LangClick2027/issues/67).
+- Fixed long Ukrainian verb answers overlapping neighbouring cells on phones.
+  Table sizing accounts for the longest answer in each equal-width column;
+  regression tests cover narrow phones, standard phones and desktops.
 
 ## v0.7.0 — 2026-11-04 — Swedish, level 2
 
