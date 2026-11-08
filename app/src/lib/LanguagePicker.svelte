@@ -1,79 +1,85 @@
 <script lang="ts">
-	// The two choices that decide what is explained and in which language. They are
-	// separate because a learner may read one language while comparing with another.
 	import type { PackManifest } from '@langclick/pack-format';
-	import { invalidateAll } from '$app/navigation';
+	import { untrack } from 'svelte';
+	import { goto } from '$app/navigation';
+	import { resolve } from '$app/paths';
 	import {
 		availableLocales,
 		chooseLanguages,
 		comparison,
 		explanationLanguage,
 		languageName,
+		targetPackId,
 		t
 	} from './language.svelte';
 
 	interface Props {
 		packs: PackManifest[];
-		/** First run: ask for a confirmation instead of applying each change. */
-		firstRun: boolean;
 	}
 
-	let { packs, firstRun }: Props = $props();
-
+	let { packs }: Props = $props();
 	const NONE = '';
-	const comparisons = $derived([...new Set(packs.flatMap((pack) => pack.comparisons))].sort());
+	let targetChoice = $state(
+		untrack(() => packs.find((pack) => pack.id === targetPackId())?.id ?? packs[0]?.id ?? NONE)
+	);
+	const selectedPack = $derived(packs.find((pack) => pack.id === targetChoice));
+	const comparisons = $derived(selectedPack?.comparisons ?? []);
+	let compareChoice = $state(
+		untrack(() => (comparisons.includes(comparison() ?? NONE) ? comparison()! : NONE))
+	);
+	let explainChoice = $state(explanationLanguage());
 
-	async function apply(compareWith: string, explainIn: string) {
-		chooseLanguages({ compareWith: compareWith === NONE ? null : compareWith, explainIn });
-		await invalidateAll();
+	function selectTarget(event: Event) {
+		targetChoice = (event.currentTarget as HTMLSelectElement).value;
+		if (!comparisons.includes(compareChoice)) compareChoice = NONE;
 	}
 
-	let compareChoice = $state(comparison() ?? NONE);
-	let explainChoice = $state(explanationLanguage());
+	async function apply() {
+		if (!selectedPack) return;
+		chooseLanguages({
+			targetPack: selectedPack.id,
+			compareWith: compareChoice === NONE ? null : compareChoice,
+			explainIn: explainChoice
+		});
+		await goto(resolve('/learn/[pack]', { pack: selectedPack.id }), { invalidateAll: true });
+	}
 </script>
 
 <form
 	class="picker"
 	onsubmit={(event) => {
 		event.preventDefault();
-		void apply(compareChoice, explainChoice);
+		void apply();
 	}}
 >
 	<h2>{t('settings.title')}</h2>
-	{#if firstRun}<p>{t('settings.intro')}</p>{/if}
 	<div class="fields">
 		<label>
+			{t('settings.target')}
+			<select name="targetPack" value={targetChoice} onchange={selectTarget}>
+				{#each packs as pack (pack.id)}
+					<option value={pack.id}>{languageName(pack.language, explanationLanguage())}</option>
+				{/each}
+			</select>
+		</label>
+		<label>
+			{t('settings.explainIn')}
+			<select name="explainIn" bind:value={explainChoice}>
+				{#each availableLocales as code (code)}
+					<option value={code}>{languageName(code)}</option>
+				{/each}
+			</select>
+		</label>
+		<label>
 			{t('settings.compareWith')}
-			<select
-				name="compareWith"
-				bind:value={compareChoice}
-				onchange={() => {
-					if (!firstRun) void apply(compareChoice, explainChoice);
-				}}
-			>
+			<select name="compareWith" bind:value={compareChoice}>
 				<option value={NONE}>{t('settings.noComparison')}</option>
 				{#each comparisons as code (code)}
 					<option value={code}>{languageName(code)}</option>
 				{/each}
 			</select>
 		</label>
-		<label>
-			{t('settings.explainIn')}
-			<select
-				name="explainIn"
-				bind:value={explainChoice}
-				onchange={() => {
-					if (!firstRun) void apply(compareChoice, explainChoice);
-				}}
-			>
-				{#each availableLocales as code (code)}
-					<option value={code}>{languageName(code)}</option>
-				{/each}
-			</select>
-		</label>
-		{#if firstRun}
-			<button type="submit" class="action">{t('settings.start')}</button>
-		{/if}
+		<button type="submit" class="action" disabled={!selectedPack}>{t('settings.continue')}</button>
 	</div>
 </form>
 
@@ -90,16 +96,9 @@
 		font-size: 1rem;
 	}
 
-	p {
-		margin: 0.25rem 0;
-		font-size: 0.9rem;
-		color: var(--muted);
-	}
-
 	.fields {
-		display: flex;
-		flex-wrap: wrap;
-		align-items: flex-end;
+		display: grid;
+		grid-template-columns: 1fr;
 		gap: 0.75rem;
 		margin-top: 0.5rem;
 	}

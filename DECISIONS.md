@@ -66,6 +66,19 @@ language it is written in. A learner may read English while comparing with Polis
 a pack this is a base layer per language and an overlay per combination, so a learner
 downloads only their own (#6), and the overlay only has to say what the comparison adds.
 
+## Choose a target before showing lessons (2026-11-08, #70)
+
+The landing page showed every language's full course, making it too crowded.
+It now asks for the target, explanation and comparison languages, then Continue
+opens the selected course at `/learn/[pack]`. Only that course's content and
+progress are loaded there. Progress and review stay on the course page.
+
+The last target is remembered alongside the existing settings, but returning to
+`/` always shows the chooser rather than redirecting. Comparison choices belong
+to the selected pack; changing to a pack that cannot support the current comparison
+visibly selects no comparison before Continue. Existing settings without a target
+remain valid, and existing lesson/exercise URLs and progress keys are preserved.
+
 ## False friends have kinds (2026-10-31, #3)
 
 With Russian they are mostly same-script homographs; with Polish they cross the script

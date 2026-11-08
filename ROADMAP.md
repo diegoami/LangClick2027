@@ -41,6 +41,10 @@ extras. Downloads ([#6](https://github.com/diegoami/LangClick2027/issues/6)), au
 lessons, speech ([#21](https://github.com/diegoami/LangClick2027/issues/21)) and native builds
 are deferred; their old version slots below are historical plans, not prerequisites to Swedish.
 
+The landing page now selects the target language and explanation/comparison
+settings before opening that language's lesson list at `/learn/[pack]` ([#70](https://github.com/diegoami/LangClick2027/issues/70)).
+Lessons and review return to the current course; the chooser remembers the last target.
+
 ## Milestones
 
 Japanese now has an initial six-lesson pack under [#66](https://github.com/diegoami/LangClick2027/issues/66), linking the Japan Foundation's Irodori Starter course. Eleven boards contain 158 cells: writing foundations, greetings, clarification, introductions, residence, numbers and age. Explanations and comparison are initially English; typing requires Japanese script, including listed kana/kanji alternatives. This supports the first four source lessons, not the whole eighteen-lesson course. Voiced/contracted kana tables, later themes and pitch-accent training remain to be added.

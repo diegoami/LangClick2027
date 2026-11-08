@@ -59,7 +59,7 @@
 	<p class="done">{t('review.done')}</p>
 {/if}
 
-<p><a href={resolve('/')}>← {t('lesson.back')}</a></p>
+<p><a href={resolve('/learn/[pack]', { pack: pack.id })}>← {t('lesson.back')}</a></p>
 
 <style>
 	p {
